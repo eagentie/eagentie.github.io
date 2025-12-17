@@ -4,7 +4,105 @@
   "site_feed": "https://e-faq.ro/feed/",
   "mastodon": "https://social.5th.ro/@efaq",
   "mastodon_rss": "https://social.5th.ro/@efaq.rss",
-  "updated_at": "2025-12-17T23:07:14Z",
-  "site_posts": [],
-  "mastodon_posts": []
+  "updated_at": "2025-12-17T23:46:13Z",
+  "site_posts": [
+    {
+      "title": "Liste, filtre și muting: cum îți cureți feed-ul pe Mastodon",
+      "link": "https://e-faq.ro/liste-filtre-si-muting-cum-iti-cureti-feed-ul-pe-mastodon/",
+      "date": "Wed, 17 Dec 2025 16:58:54 +0000",
+      "summary": "V-ați săturat de zgomotul constant și de algoritmii agresivi care vă dictează ce vedeți în [&#8230;] Articolul Liste, filtre și muting: cum îți cureți feed-ul pe Mastodon apare prima dată în FAQ - Intrebari Frecvente ."
+    },
+    {
+      "title": "Plante utile pentru îmbunătățirea digestiei",
+      "link": "https://e-faq.ro/plante-utile-pentru-imbunatatirea-digestiei/",
+      "date": "Fri, 05 Dec 2025 18:06:16 +0000",
+      "summary": "Digestia poate fi afectată de alimentație neregulată, stres, mese grele sau sensibilitate gastro-intestinală. Fitoterapia oferă [&#8230;] Articolul Plante utile pentru îmbunătățirea digestiei apare prima dată în FAQ - Intrebari Frecvente ."
+    },
+    {
+      "title": "De ce este necesară suplimentarea cu vitamina D în sezonul rece",
+      "link": "https://e-faq.ro/de-ce-este-necesara-suplimentarea-cu-vitamina-d-in-sezonul-rece/",
+      "date": "Thu, 04 Dec 2025 17:51:02 +0000",
+      "summary": "Vitamina D este esențială pentru sănătatea oaselor, funcția musculară și buna funcționare a sistemului imunitar. [&#8230;] Articolul De ce este necesară suplimentarea cu vitamina D în sezonul rece apare prima dată în FAQ - Intrebari Frecvente ."
+    },
+    {
+      "title": "Cum să îți ajuți copilul să rezolve un puzzle (fără să-i strici distracția)",
+      "link": "https://e-faq.ro/cum-sa-iti-ajuti-copilul-sa-rezolve-un-puzzle-fara-sa-i-strici-distractia/",
+      "date": "Wed, 03 Dec 2025 10:44:28 +0000",
+      "summary": "Să recunoaștem: c&#226;nd vezi copilul &#238;ncurcat de o piesă, tentația să te bagi și să [&#8230;] Articolul Cum să îți ajuți copilul să rezolve un puzzle (fără să-i strici distracția) apare prima dată în FAQ - Intrebari Frecvente ."
+    },
+    {
+      "title": "Tehnologia ca necesitate cotidiană: digitalul nu mai este o opțiune",
+      "link": "https://e-faq.ro/tehnologia-ca-necesitate-cotidiana-digitalul-nu-mai-este-o-optiune/",
+      "date": "Mon, 01 Dec 2025 15:06:24 +0000",
+      "summary": "Tehnologia nu mai este doar un instrument de sprijin: a devenit structura de bază a [&#8230;] Articolul Tehnologia ca necesitate cotidiană: digitalul nu mai este o opțiune apare prima dată în FAQ - Intrebari Frecvente ."
+    },
+    {
+      "title": "Advertoriale în 2025: cum le integrezi într-o campanie completă de marketing",
+      "link": "https://e-faq.ro/advertoriale-in-2025-cum-le-integrezi-intr-o-campanie-completa-de-marketing/",
+      "date": "Mon, 01 Dec 2025 12:07:49 +0000",
+      "summary": "Introducere AIDA: Cum să Depășești Zgomotul Online Atenție: V-ați simțit vreodată copleșiți de avalanșa de [&#8230;] Articolul Advertoriale în 2025: cum le integrezi într-o campanie completă de marketing apare prima dată în FAQ - Intrebari Frecvente ."
+    },
+    {
+      "title": "De ce să alegi Kenya pentru prima ta experiență de safari în Africa",
+      "link": "https://e-faq.ro/de-ce-sa-alegi-kenya-pentru-prima-ta-experienta-de-safari-in-africa/",
+      "date": "Thu, 27 Nov 2025 19:39:26 +0000",
+      "summary": "Dacă te g&#226;ndești la un safari autentic, cu peisaje spectaculoase și animale sălbatice văzute la [&#8230;] Articolul De ce să alegi Kenya pentru prima ta experiență de safari în Africa apare prima dată în FAQ - Intrebari Frecvente ."
+    },
+    {
+      "title": "Cum citești adversarii la poker: tell-uri, timing și patternuri",
+      "link": "https://e-faq.ro/cum-citesti-adversarii-la-poker-tell-uri-timing-si-patternuri/",
+      "date": "Sat, 15 Nov 2025 10:03:28 +0000",
+      "summary": "Introducere AIDA: Deschideți Ușa spre Victoria Nevăzută A (Atenție): Ați simțit vreodată că adversarul dumneavoastră [&#8230;] Articolul Cum citești adversarii la poker: tell-uri, timing și patternuri apare prima dată în FAQ - Intrebari Frecvente ."
+    },
+    {
+      "title": "Top greșeli la păcănele pe care jucătorii le repetă iar și iar",
+      "link": "https://e-faq.ro/top-greseli-la-pacanele-pe-care-jucatorii-le-repeta-iar-si-iar/",
+      "date": "Fri, 14 Nov 2025 09:07:58 +0000",
+      "summary": "Atenție: Ai simțit vreodată frustrarea de a pierde rapid întregul depozit, deși intenția ta era [&#8230;] Articolul Top greșeli la păcănele pe care jucătorii le repetă iar și iar apare prima dată în FAQ - Intrebari Frecvente ."
+    }
+  ],
+  "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@efaq/115736748779744516",
+      "date": "Wed, 17 Dec 2025 20:17:16 +0000",
+      "content": "🚀 V-ați săturat de zgomotul constant și de algoritmii agresivi care vă dictează ce vedeți în feed-ul rețelelor sociale? Pe măsură ce migrația către platforme descentralizate, cum ar fi Mastodon, capătă amploare, controlul asupra experienței devine primordial. Această rețea unică vă oferă pârghii puternice pentru a vă modela spațiul digital exact cum doriți. Dacă sunteți în… 🔗 Complet aici: https:// e-faq.ro/liste-filtre-si-mutin g-cum-iti-cureti-feed-ul-pe-mastodon/"
+    },
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@efaq/115687016825613877",
+      "date": "Tue, 09 Dec 2025 01:29:47 +0000",
+      "content": "🚀 Digestia poate fi afectată de alimentație neregulată, stres, mese grele sau sensibilitate gastro-intestinală. Fitoterapia oferă numeroase plante care sprijină funcționarea stomacului și a intestinelor, reduc balonarea, stimulează producția de sucuri digestive și calmează disconfortul abdominal. Plantele pot fi consumate sub formă de ceai, tinctură sau capsule, fiind o soluție naturală și blândă pentru susținerea 🔗 Mai mult: https:// e-faq.ro/plante-utile-pentru-i mbunatatirea-digestiei/"
+    },
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@efaq/115687016721022740",
+      "date": "Tue, 09 Dec 2025 01:29:45 +0000",
+      "content": "🚀 Vitamina D este esențială pentru sănătatea oaselor, funcția musculară și buna funcționare a sistemului imunitar. În sezonul rece, expunerea la lumina solară se reduce semnificativ, iar sinteza cutanată a vitaminei D scade. Latitudinea, temperaturile scăzute și timpul petrecut predominant în interior fac ca aportul natural să fie insuficient. De aceea, suplimentarea devine o măsură utilă… 🔗 Complet aici: https:// e-faq.ro/de-ce-este-necesara-s uplimentarea-cu-vitamina-d-in-sezonul-rece/"
+    },
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@efaq/115687016603054925",
+      "date": "Tue, 09 Dec 2025 01:29:43 +0000",
+      "content": "🚀 Să recunoaștem: când vezi copilul încurcat de o piesă, tentația să te bagi și să o pui tu e… uriașă. Dar adevărata magie a puzzle-urilor nu stă în imaginea finală, ci în drumul până acolo – cu încercări, greșeli și mici victorii personale. Așadar, cum îl poți ajuta pe cel mic fără să preiei controlul?… # puzzle100piese # puzzlepentru23ani 🔗 Complet aici: https:// e-faq.ro/cum-sa-iti-ajuti-copi lul-sa-rezolve-un-puzzle-fara-sa-i-strici-distractia/"
+    },
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@efaq/115687016458573249",
+      "date": "Tue, 09 Dec 2025 01:29:41 +0000",
+      "content": "🚀 Tehnologia nu mai este doar un instrument de sprijin: a devenit structura de bază a societăților noastre. În multe domenii, de la explorarea științifică la divertisment, astăzi ar fi imposibil să ne întoarcem înapoi. Evoluția digitală a transformat nu doar modul în care lucrăm, ci și felul în care ne distrăm, ne îngrijim, învățăm și… 🔗 Complet aici: https:// e-faq.ro/tehnologia-ca-necesit ate-cotidiana-digitalul-nu-mai-este-o-optiune/"
+    },
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@efaq/115687016323326457",
+      "date": "Tue, 09 Dec 2025 01:29:39 +0000",
+      "content": "🚀 Introducere AIDA: Cum să Depășești Zgomotul Online Atenție: V-ați simțit vreodată copleșiți de avalanșa de conținut care inundă internetul? Consumatorii sunt bombardați zilnic cu mii de mesaje publicitare. Competiția este mai acerbă ca niciodată. Simplul &quot;ad&quot; tradițional nu mai funcționează. Cum puteți fi siguri că mesajul dumneavoastră ajunge la publicul potrivit și, mai ales, că… 🔗 Mai mult: https:// e-faq.ro/advertoriale-in-2025- cum-le-integrezi-intr-o-campanie-completa-de-marketing/"
+    },
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@efaq/115687009924117798",
+      "date": "Tue, 09 Dec 2025 01:28:01 +0000",
+      "content": "Bun venit pe profilul e-FAQ! 🌐 Pe https:// e-faq.ro găsești răspunsuri rapide la întrebări frecvente, ghiduri pas cu pas și explicații pe înțelesul tuturor. Urmează-ne pentru articole noi și dă share dacă un răspuns te-a ajutat. Idei de subiecte? Scrie-ne oricând! # faq # intrebari # ghiduri"
+    }
+  ]
 }
