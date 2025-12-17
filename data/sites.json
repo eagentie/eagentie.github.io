@@ -1,0 +1,380 @@
+[
+  {
+    "slug": "pentruoameni",
+    "site": "https://pentruoameni.ro/",
+    "site_feed": "https://pentruoameni.ro/feed/",
+    "mastodon": "https://social.5th.ro/@pentruoameni",
+    "mastodon_rss": "https://social.5th.ro/@pentruoameni.rss",
+    "mastodon_user": "pentruoameni",
+    "name": "pentruoameni.ro"
+  },
+  {
+    "slug": "recent-news",
+    "site": "https://recent-news.ro/",
+    "site_feed": "https://recent-news.ro/feed/",
+    "mastodon": "https://social.5th.ro/@recent_news",
+    "mastodon_rss": "https://social.5th.ro/@recent_news.rss",
+    "mastodon_user": "recent_news",
+    "name": "recent-news.ro"
+  },
+  {
+    "slug": "topcomunicate",
+    "site": "https://topcomunicate.ro/",
+    "site_feed": "https://topcomunicate.ro/feed/",
+    "mastodon": "https://social.5th.ro/@topcomunicate_ro",
+    "mastodon_rss": "https://social.5th.ro/@topcomunicate_ro.rss",
+    "mastodon_user": "topcomunicate_ro",
+    "name": "topcomunicate.ro"
+  },
+  {
+    "slug": "pr360",
+    "site": "https://pr360.ro/",
+    "site_feed": "https://pr360.ro/feed/",
+    "mastodon": "https://social.5th.ro/@pr360",
+    "mastodon_rss": "https://social.5th.ro/@pr360.rss",
+    "mastodon_user": "pr360",
+    "name": "pr360.ro"
+  },
+  {
+    "slug": "aiadvertising",
+    "site": "https://aiadvertising.ro/",
+    "site_feed": "https://aiadvertising.ro/feed/",
+    "mastodon": "https://social.5th.ro/@ai_advertising",
+    "mastodon_rss": "https://social.5th.ro/@ai_advertising.rss",
+    "mastodon_user": "ai_advertising",
+    "name": "aiadvertising.ro"
+  },
+  {
+    "slug": "cetateanmodel",
+    "site": "https://cetateanmodel.ro/",
+    "site_feed": "https://cetateanmodel.ro/feed/",
+    "mastodon": "https://social.5th.ro/@cetatean_model",
+    "mastodon_rss": "https://social.5th.ro/@cetatean_model.rss",
+    "mastodon_user": "cetatean_model",
+    "name": "cetateanmodel.ro"
+  },
+  {
+    "slug": "iasi-azi",
+    "site": "https://iasi-azi.ro/",
+    "site_feed": "https://iasi-azi.ro/feed/",
+    "mastodon": "https://social.5th.ro/@Iasi",
+    "mastodon_rss": "https://social.5th.ro/@Iasi.rss",
+    "mastodon_user": "Iasi",
+    "name": "iasi-azi.ro"
+  },
+  {
+    "slug": "femeie-antreprenor",
+    "site": "https://femeie-antreprenor.ro/",
+    "site_feed": "https://femeie-antreprenor.ro/feed/",
+    "mastodon": "https://social.5th.ro/@femeie_antreprenor",
+    "mastodon_rss": "https://social.5th.ro/@femeie_antreprenor.rss",
+    "mastodon_user": "femeie_antreprenor",
+    "name": "femeie-antreprenor.ro"
+  },
+  {
+    "slug": "afaceritop",
+    "site": "https://afaceritop.ro/",
+    "site_feed": "https://afaceritop.ro/feed/",
+    "mastodon": "https://social.5th.ro/@afaceri_top",
+    "mastodon_rss": "https://social.5th.ro/@afaceri_top.rss",
+    "mastodon_user": "afaceri_top",
+    "name": "afaceritop.ro"
+  },
+  {
+    "slug": "banat-news",
+    "site": "https://banat-news.ro/",
+    "site_feed": "https://banat-news.ro/feed/",
+    "mastodon": "https://social.5th.ro/@banat",
+    "mastodon_rss": "https://social.5th.ro/@banat.rss",
+    "mastodon_user": "banat",
+    "name": "banat-news.ro"
+  },
+  {
+    "slug": "ziar360",
+    "site": "https://ziar360.ro/",
+    "site_feed": "https://ziar360.ro/feed/",
+    "mastodon": "https://social.5th.ro/@ziar360",
+    "mastodon_rss": "https://social.5th.ro/@ziar360.rss",
+    "mastodon_user": "ziar360",
+    "name": "ziar360.ro"
+  },
+  {
+    "slug": "cutremurul",
+    "site": "https://cutremurul.ro/",
+    "site_feed": "https://cutremurul.ro/feed/",
+    "mastodon": "https://social.5th.ro/@cutremur",
+    "mastodon_rss": "https://social.5th.ro/@cutremur.rss",
+    "mastodon_user": "cutremur",
+    "name": "cutremurul.ro"
+  },
+  {
+    "slug": "dobrogea-news",
+    "site": "https://dobrogea-news.ro/",
+    "site_feed": "https://dobrogea-news.ro/feed/",
+    "mastodon": "https://social.5th.ro/@dobrogea",
+    "mastodon_rss": "https://social.5th.ro/@dobrogea.rss",
+    "mastodon_user": "dobrogea",
+    "name": "dobrogea-news.ro"
+  },
+  {
+    "slug": "constanta-azi",
+    "site": "https://constanta-azi.ro/",
+    "site_feed": "https://constanta-azi.ro/feed/",
+    "mastodon": "https://social.5th.ro/@constanta",
+    "mastodon_rss": "https://social.5th.ro/@constanta.rss",
+    "mastodon_user": "constanta",
+    "name": "constanta-azi.ro"
+  },
+  {
+    "slug": "brasov-azi",
+    "site": "https://brasov-azi.ro/",
+    "site_feed": "https://brasov-azi.ro/feed/",
+    "mastodon": "https://social.5th.ro/@brasov",
+    "mastodon_rss": "https://social.5th.ro/@brasov.rss",
+    "mastodon_user": "brasov",
+    "name": "brasov-azi.ro"
+  },
+  {
+    "slug": "femeiaz",
+    "site": "https://femeiaz.ro/",
+    "site_feed": "https://femeiaz.ro/feed/",
+    "mastodon": "https://social.5th.ro/@femeiAZ",
+    "mastodon_rss": "https://social.5th.ro/@femeiAZ.rss",
+    "mastodon_user": "femeiAZ",
+    "name": "femeiaz.ro"
+  },
+  {
+    "slug": "cluj-azi",
+    "site": "https://cluj-azi.ro/",
+    "site_feed": "https://cluj-azi.ro/feed/",
+    "mastodon": "https://social.5th.ro/@cluj",
+    "mastodon_rss": "https://social.5th.ro/@cluj.rss",
+    "mastodon_user": "cluj",
+    "name": "cluj-azi.ro"
+  },
+  {
+    "slug": "noutati24",
+    "site": "https://noutati24.ro/",
+    "site_feed": "https://noutati24.ro/feed/",
+    "mastodon": "https://social.5th.ro/@noutati24",
+    "mastodon_rss": "https://social.5th.ro/@noutati24.rss",
+    "mastodon_user": "noutati24",
+    "name": "noutati24.ro"
+  },
+  {
+    "slug": "constructii360",
+    "site": "https://constructii360.ro/",
+    "site_feed": "https://constructii360.ro/feed/",
+    "mastodon": "https://social.5th.ro/@constructii360",
+    "mastodon_rss": "https://social.5th.ro/@constructii360.rss",
+    "mastodon_user": "constructii360",
+    "name": "constructii360.ro"
+  },
+  {
+    "slug": "afaceriprofi",
+    "site": "https://afaceriprofi.ro/",
+    "site_feed": "https://afaceriprofi.ro/feed/",
+    "mastodon": "https://social.5th.ro/@AfaceriProfi",
+    "mastodon_rss": "https://social.5th.ro/@AfaceriProfi.rss",
+    "mastodon_user": "AfaceriProfi",
+    "name": "afaceriprofi.ro"
+  },
+  {
+    "slug": "oltenia-news",
+    "site": "https://oltenia-news.ro/",
+    "site_feed": "https://oltenia-news.ro/feed/",
+    "mastodon": "https://social.5th.ro/@oltenia",
+    "mastodon_rss": "https://social.5th.ro/@oltenia.rss",
+    "mastodon_user": "oltenia",
+    "name": "oltenia-news.ro"
+  },
+  {
+    "slug": "clasici",
+    "site": "https://clasici.ro/",
+    "site_feed": "https://clasici.ro/feed/",
+    "mastodon": "https://social.5th.ro/@clasici",
+    "mastodon_rss": "https://social.5th.ro/@clasici.rss",
+    "mastodon_user": "clasici",
+    "name": "clasici.ro"
+  },
+  {
+    "slug": "afaceri24",
+    "site": "https://afaceri24.ro/",
+    "site_feed": "https://afaceri24.ro/feed/",
+    "mastodon": "https://social.5th.ro/@afaceri24",
+    "mastodon_rss": "https://social.5th.ro/@afaceri24.rss",
+    "mastodon_user": "afaceri24",
+    "name": "afaceri24.ro"
+  },
+  {
+    "slug": "bucovina-news",
+    "site": "https://bucovina-news.ro/",
+    "site_feed": "https://bucovina-news.ro/feed/",
+    "mastodon": "https://social.5th.ro/@bucovina",
+    "mastodon_rss": "https://social.5th.ro/@bucovina.rss",
+    "mastodon_user": "bucovina",
+    "name": "bucovina-news.ro"
+  },
+  {
+    "slug": "e-faq",
+    "site": "https://e-faq.ro/",
+    "site_feed": "https://e-faq.ro/feed/",
+    "mastodon": "https://social.5th.ro/@efaq",
+    "mastodon_rss": "https://social.5th.ro/@efaq.rss",
+    "mastodon_user": "efaq",
+    "name": "e-faq.ro"
+  },
+  {
+    "slug": "prbusiness",
+    "site": "https://prbusiness.ro/",
+    "site_feed": "https://prbusiness.ro/feed/",
+    "mastodon": "https://social.5th.ro/@prbusiness",
+    "mastodon_rss": "https://social.5th.ro/@prbusiness.rss",
+    "mastodon_user": "prbusiness",
+    "name": "prbusiness.ro"
+  },
+  {
+    "slug": "stirisociale",
+    "site": "https://stirisociale.ro/",
+    "site_feed": "https://stirisociale.ro/feed/",
+    "mastodon": "https://social.5th.ro/@stiri_sociale",
+    "mastodon_rss": "https://social.5th.ro/@stiri_sociale.rss",
+    "mastodon_user": "stiri_sociale",
+    "name": "stirisociale.ro"
+  },
+  {
+    "slug": "solutii-constructii",
+    "site": "https://solutii-constructii.ro/",
+    "site_feed": "https://solutii-constructii.ro/feed/",
+    "mastodon": "https://social.5th.ro/@SolutiiConstructii",
+    "mastodon_rss": "https://social.5th.ro/@SolutiiConstructii.rss",
+    "mastodon_user": "SolutiiConstructii",
+    "name": "solutii-constructii.ro"
+  },
+  {
+    "slug": "topantreprenor",
+    "site": "https://topantreprenor.ro/",
+    "site_feed": "https://topantreprenor.ro/feed/",
+    "mastodon": "https://social.5th.ro/@topantreprenor",
+    "mastodon_rss": "https://social.5th.ro/@topantreprenor.rss",
+    "mastodon_user": "topantreprenor",
+    "name": "topantreprenor.ro"
+  },
+  {
+    "slug": "partizani",
+    "site": "https://partizani.ro/",
+    "site_feed": "https://partizani.ro/feed/",
+    "mastodon": "https://social.5th.ro/@Partizani",
+    "mastodon_rss": "https://social.5th.ro/@Partizani.rss",
+    "mastodon_user": "Partizani",
+    "name": "partizani.ro"
+  },
+  {
+    "slug": "clinic-sanatos",
+    "site": "https://clinic-sanatos.ro/",
+    "site_feed": "https://clinic-sanatos.ro/feed/",
+    "mastodon": "https://social.5th.ro/@clinic_sanatos",
+    "mastodon_rss": "https://social.5th.ro/@clinic_sanatos.rss",
+    "mastodon_user": "clinic_sanatos",
+    "name": "clinic-sanatos.ro"
+  },
+  {
+    "slug": "doctor360",
+    "site": "https://doctor360.ro/",
+    "site_feed": "https://doctor360.ro/feed/",
+    "mastodon": "https://social.5th.ro/@doctor360",
+    "mastodon_rss": "https://social.5th.ro/@doctor360.rss",
+    "mastodon_user": "doctor360",
+    "name": "doctor360.ro"
+  },
+  {
+    "slug": "doctorite",
+    "site": "https://doctorite.ro/",
+    "site_feed": "https://doctorite.ro/feed/",
+    "mastodon": "https://social.5th.ro/@DoctoriteBlog",
+    "mastodon_rss": "https://social.5th.ro/@DoctoriteBlog.rss",
+    "mastodon_user": "DoctoriteBlog",
+    "name": "doctorite.ro"
+  },
+  {
+    "slug": "stiridemocratice",
+    "site": "https://stiridemocratice.ro/",
+    "site_feed": "https://stiridemocratice.ro/feed/",
+    "mastodon": "https://social.5th.ro/@stiri_democratice",
+    "mastodon_rss": "https://social.5th.ro/@stiri_democratice.rss",
+    "mastodon_user": "stiri_democratice",
+    "name": "stiridemocratice.ro"
+  },
+  {
+    "slug": "eratehnologica",
+    "site": "https://EraTehnologica.ro/",
+    "site_feed": "https://EraTehnologica.ro/feed/",
+    "mastodon": "https://social.5th.ro/@eratehnologica",
+    "mastodon_rss": "https://social.5th.ro/@eratehnologica.rss",
+    "mastodon_user": "eratehnologica",
+    "name": "EraTehnologica.ro"
+  },
+  {
+    "slug": "arta-constructiilor",
+    "site": "https://arta-constructiilor.ro/",
+    "site_feed": "https://arta-constructiilor.ro/feed/",
+    "mastodon": "https://social.5th.ro/@ArtaConstructiilor",
+    "mastodon_rss": "https://social.5th.ro/@ArtaConstructiilor.rss",
+    "mastodon_user": "ArtaConstructiilor",
+    "name": "arta-constructiilor.ro"
+  },
+  {
+    "slug": "ienergie",
+    "site": "https://iEnergie.ro/",
+    "site_feed": "https://iEnergie.ro/feed/",
+    "mastodon": "https://social.5th.ro/@ienergie",
+    "mastodon_rss": "https://social.5th.ro/@ienergie.rss",
+    "mastodon_user": "ienergie",
+    "name": "iEnergie.ro"
+  },
+  {
+    "slug": "ifemeie",
+    "site": "https://iFemeie.ro/",
+    "site_feed": "https://iFemeie.ro/feed/",
+    "mastodon": "https://social.5th.ro/@iFemeie",
+    "mastodon_rss": "https://social.5th.ro/@iFemeie.rss",
+    "mastodon_user": "iFemeie",
+    "name": "iFemeie.ro"
+  },
+  {
+    "slug": "universultech",
+    "site": "https://UniversulTech.ro/",
+    "site_feed": "https://UniversulTech.ro/feed/",
+    "mastodon": "https://social.5th.ro/@UniversulTech",
+    "mastodon_rss": "https://social.5th.ro/@UniversulTech.rss",
+    "mastodon_user": "UniversulTech",
+    "name": "UniversulTech.ro"
+  },
+  {
+    "slug": "bizwoman",
+    "site": "https://bizwoman.ro/",
+    "site_feed": "https://bizwoman.ro/feed/",
+    "mastodon": "https://social.5th.ro/@BIZWoman",
+    "mastodon_rss": "https://social.5th.ro/@BIZWoman.rss",
+    "mastodon_user": "BIZWoman",
+    "name": "bizwoman.ro"
+  },
+  {
+    "slug": "9z",
+    "site": "https://9z.ro/",
+    "site_feed": "https://9z.ro/feed/",
+    "mastodon": "https://social.5th.ro/@9z",
+    "mastodon_rss": "https://social.5th.ro/@9z.rss",
+    "mastodon_user": "9z",
+    "name": "9z.ro"
+  },
+  {
+    "slug": "top15",
+    "site": "https://top15.ro/",
+    "site_feed": "https://top15.ro/feed/",
+    "mastodon": "https://social.5th.ro/@top",
+    "mastodon_rss": "https://social.5th.ro/@top.rss",
+    "mastodon_user": "top",
+    "name": "top15.ro"
+  }
+]

@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="ro" data-page="home">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Romania Press Release Hub</title>
+  <meta name="description" content="Hub static cu feed-uri: site + Mastodon. Generat automat din RSS." />
+  <link rel="stylesheet" href="/assets/style.css" />
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <div class="brand">
+        <div class="logo" aria-hidden="true"></div>
+        <div>
+          <h1>Romania Press Release Hub</h1>
+          <p>Site + Mastodon feed pentru fiecare proiect • <span class="kbd" id="count">0/0</span></p>
+        </div>
+      </div>
+      <div class="actions">
+        <input id="q" class="search" placeholder="Caută după domeniu / slug / user…" />
+        <a class="btn" href="/site-ro/">Listă completă</a>
+      </div>
+    </div>
+
+    <div class="grid" id="cards"></div>
+
+    <div class="footer">
+      Tip: feed-urile sunt actualizate automat de GitHub Actions. Dacă vezi liste goale, revino după primul run.
+    </div>
+  </div>
+
+  <script src="/assets/app.js"></script>
+</body>
+</html>

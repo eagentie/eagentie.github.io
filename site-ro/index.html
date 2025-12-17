@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="ro" data-page="home">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Site-uri • Romania Press Release Hub</title>
+  <meta name="description" content="Listă completă de site-uri (fiecare cu pagina lui de feed: site + Mastodon)." />
+  <link rel="stylesheet" href="/assets/style.css" />
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <div class="brand">
+        <a href="/" class="logo" aria-label="Acasă" style="display:block"></a>
+        <div>
+          <h1>Site-uri</h1>
+          <p>Pagini per site: /site-ro/&lt;slug&gt;/ • <span class="kbd" id="count">0/0</span></p>
+        </div>
+      </div>
+      <div class="actions">
+        <input id="q" class="search" placeholder="Caută…" />
+        <a class="btn" href="/">Acasă</a>
+      </div>
+    </div>
+
+    <div class="grid" id="cards"></div>
+
+    <div class="footer">
+      Dacă vrei să adaugi un site nou: editează <span class="kbd">data/sites.json</span>.
+    </div>
+  </div>
+
+  <script src="/assets/app.js"></script>
+</body>
+</html>

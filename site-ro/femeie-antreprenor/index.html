@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="ro" data-page="site" data-slug="femeie-antreprenor">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>femeie-antreprenor.ro • Feed</title>
+  <meta name="description" content="Ultimele postări de pe femeie-antreprenor.ro + ultimele postări Mastodon (@femeie_antreprenor)." />
+  <link rel="stylesheet" href="/assets/style.css" />
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <div class="brand">
+        <a href="/" class="logo" aria-label="Acasă" style="display:block"></a>
+        <div>
+          <h1 id="title">femeie-antreprenor.ro</h1>
+          <p id="updatedAt" class="notice"></p>
+        </div>
+      </div>
+      <div class="actions">
+        <a class="btn" href="/site-ro/">Înapoi la listă</a>
+        <a class="btn" href="https://femeie-antreprenor.ro/" target="_blank" rel="noopener">Deschide site</a>
+        <a class="btn" href="https://social.5th.ro/@femeie_antreprenor" target="_blank" rel="noopener">Profil Mastodon</a>
+      </div>
+    </div>
+
+    <div id="siteMeta" style="margin-top:12px"></div>
+
+    <div class="two-col">
+      <div class="section">
+        <div class="section-head">
+          <h2>Latest de pe site</h2>
+          <div class="hint">RSS → JSON local</div>
+        </div>
+        <div class="list" id="sitePosts"></div>
+      </div>
+
+      <div class="section">
+        <div class="section-head">
+          <h2>Latest de pe Mastodon</h2>
+          <div class="hint">RSS (@user.rss) → JSON local</div>
+        </div>
+        <div class="list" id="mastodonPosts"></div>
+      </div>
+    </div>
+
+    <div class="footer">
+      Slug: <span class="kbd">femeie-antreprenor</span> • Feed local: <span class="kbd">/data/feeds/femeie-antreprenor.json</span>
+    </div>
+  </div>
+
+  <script src="/assets/app.js"></script>
+</body>
+</html>
