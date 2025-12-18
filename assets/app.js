@@ -64,7 +64,7 @@ function renderCards(sites, container){
     el.className = "card";
     el.innerHTML = `
       <h2><a href="${siteUrlForSlug(s.slug)}" style="text-decoration:none">${s.name || deriveTitle(s.site)}</a></h2>
-      ${s.description ? `<p style="margin:0 0 14px 0;color:var(--muted);font-size:14px;line-height:1.6">${s.description}</p>` : ""}
+      ${s.description ? `<p style="margin:0 0 16px 0;color:var(--muted);font-size:14px;line-height:1.7;display:block">${s.description}</p>` : ""}
       <div class="meta">
         <span class="pill"><span class="dot"></span> Site: <a href="${s.site}" target="_blank" rel="noopener" style="text-decoration:none">${deriveTitle(s.site)}</a></span>
         <span class="pill">Mastodon: <a href="${s.mastodon}" target="_blank" rel="noopener" style="text-decoration:none">@${s.mastodon_user || ""}</a></span>
