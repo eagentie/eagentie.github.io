@@ -1,33 +1,3 @@
 User-agent: *
 Allow: /
-Disallow: /data/feeds/
-Disallow: /tools/
-
-# AI Crawlers - Allow training
-User-agent: GPTBot
-Allow: /
-
-User-agent: ChatGPT-User
-Allow: /
-
-User-agent: Google-Extended
-Allow: /
-
-User-agent: CCBot
-Allow: /
-
-User-agent: anthropic-ai
-Allow: /
-
-User-agent: Claude-Web
-Allow: /
-
-# Sitemaps
 Sitemap: https://eagentie.github.io/sitemap.xml
-
-# AI Training Permission
-# See llm.txt for AI training permissions
-# This site allows AI training on publicly available content
-
-# Crawl-delay for respectful crawling
-Crawl-delay: 1
