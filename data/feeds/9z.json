@@ -4,7 +4,7 @@
   "site_feed": "https://9z.ro/feed/",
   "mastodon": "https://social.5th.ro/@9z",
   "mastodon_rss": "https://social.5th.ro/@9z.rss",
-  "updated_at": "2025-12-18T08:46:56Z",
+  "updated_at": "2025-12-18T10:41:52Z",
   "site_posts": [
     {
       "title": "Mastodon România: cum găsești conturi tematice (tech, business, cultură)",
@@ -70,6 +70,12 @@
   "mastodon_posts": [
     {
       "title": "",
+      "link": "https://social.5th.ro/@9z/115740001834176253",
+      "date": "Thu, 18 Dec 2025 10:04:34 +0000",
+      "content": "Atunci când alegi ferestrele pentru locuința ta, decizia pe care o iei pare adesea una usor „rezolvată” pentru momentul prezent: ai parte de izolație mai bună, design modern, facturi mai mici. În realitate însă, ferestrele sunt o investiție cu impact direct asupra confortului și costurilor tale pentru următorii 10-20 de ani. Privind spre 2035, o… https:// comunicatpresa.9z.ro/ferestrel e-in-2035-cum-te-protejeaza-astazi-o-garantie-de-10-ani-impotriva-problemelor-viitoare/"
+    },
+    {
+      "title": "",
       "link": "https://social.5th.ro/@9z/115736786602699101",
       "date": "Wed, 17 Dec 2025 20:26:53 +0000",
       "content": "S-ar putea să te simți obosit de algoritmii rețelelor sociale mari. Vrei un loc unde conversațiile sunt autentice? Mastodon este o alternativă descentralizată care câștigă rapid teren. Dacă ești interesat de **Mastodon Romania**, probabil te întrebi: unde găsesc cele mai relevante **conturi**? Cum mă conectez rapid la **comunități** de nișă care mă interesează? Ai ajuns… https:// 9z.ro/mastodon-romania-cum-gas esti-conturi-tematice-tech-business-cultura/"
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@9z/115694844341769269",
       "date": "Wed, 10 Dec 2025 10:40:25 +0000",
       "content": "O cabană sau o casă de vacanță ar trebui să fie locul în care te relaxezi, nu locul în care te confrunți cu facturi, pene de curent sau lipsa unei surse stabile de energie. Pentru zone izolate sau greu accesibile, soluțiile clasice (conectarea la rețeaua electrică sau generatoarele pe combustibil) sunt fie costisitoare, fie zgomotoase… https:// comunicatpresa.9z.ro/autonomie -energetica-la-cabana-sau-casa-ta-de-vacanta-de-ce-kitul-fotovoltaic-de-3-kw-este-alegerea-ideala/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@9z/115694534625027883",
-      "date": "Wed, 10 Dec 2025 09:21:39 +0000",
-      "content": "Implementarea unui sistem de securitate eficient nu se rezumă doar la achiziționarea celor mai performante echipamente de pe piață, ci depinde fundamental de modul în care acestea sunt integrate în spațiul fizic.O cameră video ultra-performantă, dacă este poziționată într-un unghi mort sau afectată de o sursă de lumină puternică, devine inutilă în momentul critic al… https:// comunicatpresa.9z.ro/sfaturi-p entru-amplasarea-camerelor-video-in-depozite-parcari-si-spatii-comerciale/"
     }
   ]
 }
