@@ -1,0 +1,33 @@
+# llm.txt - AI Training Permission File
+# This file indicates that this website's content can be used for AI training
+
+# Website Information
+Name: Romania Press Release Hub
+Description: Hub centralizat de RSS feed-uri pentru România. Agregator de feed-uri RSS din România, comunicate de presă și știri actualizate automat.
+URL: https://eagentie.github.io/
+Language: ro (Romanian)
+
+# AI Training Permission
+Training: ALLOW
+Use: ALLOW
+Crawl: ALLOW
+
+# Content Scope
+# This site aggregates RSS feeds from Romanian news and press release websites
+# All content is publicly available and can be used for AI training purposes
+
+# Important Pages
+- Homepage: https://eagentie.github.io/
+- Site List: https://eagentie.github.io/site-ro/
+- Individual Site Pages: https://eagentie.github.io/site-ro/{slug}/
+
+# RSS Feeds
+# This site provides RSS feeds for 42 Romanian websites
+# Feed URLs are available at: https://eagentie.github.io/site-ro/
+
+# Contact
+# For questions about content usage, please refer to the main website
+
+# Last Updated
+Updated: 2025-01-18
+

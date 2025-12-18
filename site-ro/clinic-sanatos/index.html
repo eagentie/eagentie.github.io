@@ -7,8 +7,11 @@
   <meta name="description" content="Clinic Sănătos - platformă dedicată sănătății și wellness-ului din România. RSS feed cu articole despre sănătate, nutriție, fitness și sfaturi medicale. Accesează feed-ul RSS pentru clinic-sanatos.ro din Romania RSS feed hub. Feed-uri actualizate automat cu știri și comunicate de presă românești." />
   <meta name="keywords" content="romania rss feed, romania rss, clinic-sanatos.ro RSS, RSS feed România, feed știri românești, comunicate presă RSS" />
   <meta name="robots" content="index, follow" />
+  <meta name="google-site-verification" content="eS7aELY3bA1PZlVpthiEkD6_0IjwQUXDkQt8q2u373s" />
   <link rel="canonical" href="https://eagentie.github.io/site-ro/clinic-sanatos/" />
   
+  <link rel="alternate" type="application/rss+xml" title="clinic-sanatos.ro RSS Feed" href="https://clinic-sanatos.ro/feed/" />
+  <link rel="alternate" type="application/rss+xml" title="clinic-sanatos.ro Mastodon RSS" href="https://social.5th.ro/@clinic_sanatos.rss" />
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://eagentie.github.io/site-ro/clinic-sanatos/" />
@@ -40,11 +43,48 @@
     "url": "https://eagentie.github.io/"
   },
   "about": {
-    "@type": "Thing",
+    "@type": "Organization",
+    "@id": "https://clinic-sanatos.ro/#organization",
     "name": "clinic-sanatos.ro",
-    "url": "https://clinic-sanatos.ro/"
+    "url": "https://clinic-sanatos.ro/",
+    "sameAs": "https://social.5th.ro/@clinic_sanatos"
   },
-  "keywords": "romania rss feed, romania rss, clinic-sanatos.ro RSS, RSS feed România"
+  "keywords": "romania rss feed, romania rss, clinic-sanatos.ro RSS, RSS feed România",
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Acasă",
+        "item": "https://eagentie.github.io/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Listă Site-uri",
+        "item": "https://eagentie.github.io/site-ro/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "clinic-sanatos.ro",
+        "item": "https://eagentie.github.io/site-ro/clinic-sanatos/"
+      }
+    ]
+  },
+  "mainEntity": {
+    "@type": "WebSite",
+    "name": "clinic-sanatos.ro",
+    "url": "https://clinic-sanatos.ro/",
+    "potentialAction": {
+      "@type": "ReadAction",
+      "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://clinic-sanatos.ro/feed/"
+      }
+    }
+  }
 }
   </script>
   

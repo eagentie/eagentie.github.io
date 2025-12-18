@@ -7,8 +7,11 @@
   <meta name="description" content="Cetățean Model - platformă pentru cetățeni activi și responsabili. RSS feed cu articole despre civism, responsabilitate socială și inițiative civice din România. Accesează feed-ul RSS pentru cetateanmodel.ro din Romania RSS feed hub. Feed-uri actualizate automat cu știri și comunicate de presă românești." />
   <meta name="keywords" content="romania rss feed, romania rss, cetateanmodel.ro RSS, RSS feed România, feed știri românești, comunicate presă RSS" />
   <meta name="robots" content="index, follow" />
+  <meta name="google-site-verification" content="eS7aELY3bA1PZlVpthiEkD6_0IjwQUXDkQt8q2u373s" />
   <link rel="canonical" href="https://eagentie.github.io/site-ro/cetateanmodel/" />
   
+  <link rel="alternate" type="application/rss+xml" title="cetateanmodel.ro RSS Feed" href="https://cetateanmodel.ro/feed/" />
+  <link rel="alternate" type="application/rss+xml" title="cetateanmodel.ro Mastodon RSS" href="https://social.5th.ro/@cetatean_model.rss" />
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://eagentie.github.io/site-ro/cetateanmodel/" />
@@ -40,11 +43,48 @@
     "url": "https://eagentie.github.io/"
   },
   "about": {
-    "@type": "Thing",
+    "@type": "Organization",
+    "@id": "https://cetateanmodel.ro/#organization",
     "name": "cetateanmodel.ro",
-    "url": "https://cetateanmodel.ro/"
+    "url": "https://cetateanmodel.ro/",
+    "sameAs": "https://social.5th.ro/@cetatean_model"
   },
-  "keywords": "romania rss feed, romania rss, cetateanmodel.ro RSS, RSS feed România"
+  "keywords": "romania rss feed, romania rss, cetateanmodel.ro RSS, RSS feed România",
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Acasă",
+        "item": "https://eagentie.github.io/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Listă Site-uri",
+        "item": "https://eagentie.github.io/site-ro/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "cetateanmodel.ro",
+        "item": "https://eagentie.github.io/site-ro/cetateanmodel/"
+      }
+    ]
+  },
+  "mainEntity": {
+    "@type": "WebSite",
+    "name": "cetateanmodel.ro",
+    "url": "https://cetateanmodel.ro/",
+    "potentialAction": {
+      "@type": "ReadAction",
+      "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://cetateanmodel.ro/feed/"
+      }
+    }
+  }
 }
   </script>
   

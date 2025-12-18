@@ -7,8 +7,11 @@
   <meta name="description" content="Universul Tech - portal complet despre tehnologie și știință din România. RSS feed cu știri despre IT, gadget-uri, inovații tehnologice și startup-uri tech. Accesează feed-ul RSS pentru UniversulTech.ro din Romania RSS feed hub. Feed-uri actualizate automat cu știri și comunicate de presă românești." />
   <meta name="keywords" content="romania rss feed, romania rss, UniversulTech.ro RSS, RSS feed România, feed știri românești, comunicate presă RSS" />
   <meta name="robots" content="index, follow" />
+  <meta name="google-site-verification" content="eS7aELY3bA1PZlVpthiEkD6_0IjwQUXDkQt8q2u373s" />
   <link rel="canonical" href="https://eagentie.github.io/site-ro/universultech/" />
   
+  <link rel="alternate" type="application/rss+xml" title="UniversulTech.ro RSS Feed" href="https://UniversulTech.ro/feed/" />
+  <link rel="alternate" type="application/rss+xml" title="UniversulTech.ro Mastodon RSS" href="https://social.5th.ro/@UniversulTech.rss" />
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://eagentie.github.io/site-ro/universultech/" />
@@ -40,11 +43,48 @@
     "url": "https://eagentie.github.io/"
   },
   "about": {
-    "@type": "Thing",
+    "@type": "Organization",
+    "@id": "https://UniversulTech.ro/#organization",
     "name": "UniversulTech.ro",
-    "url": "https://UniversulTech.ro/"
+    "url": "https://UniversulTech.ro/",
+    "sameAs": "https://social.5th.ro/@UniversulTech"
   },
-  "keywords": "romania rss feed, romania rss, UniversulTech.ro RSS, RSS feed România"
+  "keywords": "romania rss feed, romania rss, UniversulTech.ro RSS, RSS feed România",
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Acasă",
+        "item": "https://eagentie.github.io/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Listă Site-uri",
+        "item": "https://eagentie.github.io/site-ro/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "UniversulTech.ro",
+        "item": "https://eagentie.github.io/site-ro/universultech/"
+      }
+    ]
+  },
+  "mainEntity": {
+    "@type": "WebSite",
+    "name": "UniversulTech.ro",
+    "url": "https://UniversulTech.ro/",
+    "potentialAction": {
+      "@type": "ReadAction",
+      "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://UniversulTech.ro/feed/"
+      }
+    }
+  }
 }
   </script>
   

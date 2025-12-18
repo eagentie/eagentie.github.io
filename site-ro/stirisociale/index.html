@@ -7,8 +7,11 @@
   <meta name="description" content="Știri Sociale - platformă de știri despre teme sociale și comunitare din România. RSS feed cu articole despre societate, educație, sănătate și inițiative sociale. Accesează feed-ul RSS pentru stirisociale.ro din Romania RSS feed hub. Feed-uri actualizate automat cu știri și comunicate de presă românești." />
   <meta name="keywords" content="romania rss feed, romania rss, stirisociale.ro RSS, RSS feed România, feed știri românești, comunicate presă RSS" />
   <meta name="robots" content="index, follow" />
+  <meta name="google-site-verification" content="eS7aELY3bA1PZlVpthiEkD6_0IjwQUXDkQt8q2u373s" />
   <link rel="canonical" href="https://eagentie.github.io/site-ro/stirisociale/" />
   
+  <link rel="alternate" type="application/rss+xml" title="stirisociale.ro RSS Feed" href="https://stirisociale.ro/feed/" />
+  <link rel="alternate" type="application/rss+xml" title="stirisociale.ro Mastodon RSS" href="https://social.5th.ro/@stiri_sociale.rss" />
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://eagentie.github.io/site-ro/stirisociale/" />
@@ -40,11 +43,48 @@
     "url": "https://eagentie.github.io/"
   },
   "about": {
-    "@type": "Thing",
+    "@type": "Organization",
+    "@id": "https://stirisociale.ro/#organization",
     "name": "stirisociale.ro",
-    "url": "https://stirisociale.ro/"
+    "url": "https://stirisociale.ro/",
+    "sameAs": "https://social.5th.ro/@stiri_sociale"
   },
-  "keywords": "romania rss feed, romania rss, stirisociale.ro RSS, RSS feed România"
+  "keywords": "romania rss feed, romania rss, stirisociale.ro RSS, RSS feed România",
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Acasă",
+        "item": "https://eagentie.github.io/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Listă Site-uri",
+        "item": "https://eagentie.github.io/site-ro/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "stirisociale.ro",
+        "item": "https://eagentie.github.io/site-ro/stirisociale/"
+      }
+    ]
+  },
+  "mainEntity": {
+    "@type": "WebSite",
+    "name": "stirisociale.ro",
+    "url": "https://stirisociale.ro/",
+    "potentialAction": {
+      "@type": "ReadAction",
+      "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://stirisociale.ro/feed/"
+      }
+    }
+  }
 }
   </script>
   

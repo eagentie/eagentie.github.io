@@ -7,8 +7,11 @@
   <meta name="description" content="Afaceri Profi - portal de business pentru profesioniști din România. RSS feed cu știri despre management, strategii de business, finanțe și oportunități de investiții. Accesează feed-ul RSS pentru afaceriprofi.ro din Romania RSS feed hub. Feed-uri actualizate automat cu știri și comunicate de presă românești." />
   <meta name="keywords" content="romania rss feed, romania rss, afaceriprofi.ro RSS, RSS feed România, feed știri românești, comunicate presă RSS" />
   <meta name="robots" content="index, follow" />
+  <meta name="google-site-verification" content="eS7aELY3bA1PZlVpthiEkD6_0IjwQUXDkQt8q2u373s" />
   <link rel="canonical" href="https://eagentie.github.io/site-ro/afaceriprofi/" />
   
+  <link rel="alternate" type="application/rss+xml" title="afaceriprofi.ro RSS Feed" href="https://afaceriprofi.ro/feed/" />
+  <link rel="alternate" type="application/rss+xml" title="afaceriprofi.ro Mastodon RSS" href="https://social.5th.ro/@AfaceriProfi.rss" />
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://eagentie.github.io/site-ro/afaceriprofi/" />
@@ -40,11 +43,48 @@
     "url": "https://eagentie.github.io/"
   },
   "about": {
-    "@type": "Thing",
+    "@type": "Organization",
+    "@id": "https://afaceriprofi.ro/#organization",
     "name": "afaceriprofi.ro",
-    "url": "https://afaceriprofi.ro/"
+    "url": "https://afaceriprofi.ro/",
+    "sameAs": "https://social.5th.ro/@AfaceriProfi"
   },
-  "keywords": "romania rss feed, romania rss, afaceriprofi.ro RSS, RSS feed România"
+  "keywords": "romania rss feed, romania rss, afaceriprofi.ro RSS, RSS feed România",
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Acasă",
+        "item": "https://eagentie.github.io/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Listă Site-uri",
+        "item": "https://eagentie.github.io/site-ro/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "afaceriprofi.ro",
+        "item": "https://eagentie.github.io/site-ro/afaceriprofi/"
+      }
+    ]
+  },
+  "mainEntity": {
+    "@type": "WebSite",
+    "name": "afaceriprofi.ro",
+    "url": "https://afaceriprofi.ro/",
+    "potentialAction": {
+      "@type": "ReadAction",
+      "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://afaceriprofi.ro/feed/"
+      }
+    }
+  }
 }
   </script>
   

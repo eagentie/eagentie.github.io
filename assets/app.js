@@ -64,15 +64,15 @@ function renderCards(sites, container){
     el.className = "card";
     el.innerHTML = `
       <h2><a href="${siteUrlForSlug(s.slug)}" style="text-decoration:none">${s.name || deriveTitle(s.site)}</a></h2>
-      ${s.description ? `<p style="margin:0 0 16px 0;color:var(--muted);font-size:14px;line-height:1.7;display:block">${s.description}</p>` : ""}
+      ${s.description_short || s.description ? `<p style="margin:0 0 16px 0;color:var(--muted);font-size:14px;line-height:1.7;display:block">${s.description_short || s.description}</p>` : ""}
       <div class="meta">
-        <span class="pill"><span class="dot"></span> Site: <a href="${s.site}" target="_blank" rel="noopener" style="text-decoration:none">${deriveTitle(s.site)}</a></span>
-        <span class="pill">Mastodon: <a href="${s.mastodon}" target="_blank" rel="noopener" style="text-decoration:none">@${s.mastodon_user || ""}</a></span>
+        <span class="pill"><span class="dot"></span> Site: <a href="${s.site}" target="_blank" rel="noopener nofollow" style="text-decoration:none">${deriveTitle(s.site)}</a></span>
+        <span class="pill">Mastodon: <a href="${s.mastodon}" target="_blank" rel="noopener nofollow" style="text-decoration:none">@${s.mastodon_user || ""}</a></span>
       </div>
       <div style="margin-top:16px;display:flex;gap:10px;flex-wrap:wrap">
         <a class="btn" href="${siteUrlForSlug(s.slug)}">Vezi feed RSS</a>
-        <a class="btn" href="${s.site}" target="_blank" rel="noopener">Deschide site</a>
-        <a class="btn" href="${s.mastodon}" target="_blank" rel="noopener">Profil Mastodon</a>
+        <a class="btn" href="${s.site}" target="_blank" rel="noopener nofollow">Deschide site</a>
+        <a class="btn" href="${s.mastodon}" target="_blank" rel="noopener nofollow">Profil Mastodon</a>
       </div>
     `;
     container.appendChild(el);
@@ -110,7 +110,7 @@ function renderFeedList(items, kind){
     const sub = kind === "mastodon" ? stripHtml(it.content || it.summary || "").slice(0, 220) : stripHtml(it.summary || it.description || "").slice(0, 220);
     return `
       <div class="item">
-        <a href="${link}" target="_blank" rel="noopener"><strong>${title}</strong></a>
+        <a href="${link}" target="_blank" rel="noopener nofollow"><strong>${title}</strong></a>
         <div class="sub">
           <span>${formatDate(date)}</span>
           <span class="kbd">${kind === "mastodon" ? "toot" : "post"}</span>
@@ -135,11 +135,17 @@ async function initSitePage(){
   }
 
   $("#title").textContent = site.name || deriveTitle(site.site);
+  
+  // Add extended description if available
+  const description = site.description_long || site.description_medium || site.description || "";
+  const descriptionHtml = description ? `<div style="margin-top: 20px; padding: 18px; border: 1px solid var(--border); border-radius: var(--radius); background: rgba(255,255,255,.02); margin-bottom: 20px;"><p style="margin: 0; color: var(--muted); line-height: 1.7; font-size: 14px;">${description}</p></div>` : "";
+  
   $("#siteMeta").innerHTML = `
+    ${descriptionHtml}
     <div class="meta">
-      <span class="pill"><span class="dot"></span> <a href="${site.site}" target="_blank" rel="noopener" style="text-decoration:none">${site.site}</a></span>
-      <span class="pill">Feed: <a href="${site.site_feed}" target="_blank" rel="noopener" style="text-decoration:none">/feed/</a></span>
-      <span class="pill">Mastodon: <a href="${site.mastodon}" target="_blank" rel="noopener" style="text-decoration:none">@${site.mastodon_user}</a></span>
+      <span class="pill"><span class="dot"></span> Site: <a href="${site.site}" target="_blank" rel="noopener" style="text-decoration:none">${site.site}</a></span>
+      <span class="pill">Feed RSS: <a href="${site.site_feed}" target="_blank" rel="noopener nofollow" style="text-decoration:none">${site.site_feed}</a></span>
+      <span class="pill">Mastodon: <a href="${site.mastodon}" target="_blank" rel="noopener nofollow" style="text-decoration:none">@${site.mastodon_user}</a></span>
     </div>
   `;
 

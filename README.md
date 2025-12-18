@@ -208,7 +208,7 @@ Acest proiect este open source și disponibil sub licență MIT.
 
 ## Link-uri utile
 
-- 🌐 [Site](https://eagentie.github.io) [Site2](https://release-press-releases-romania.github.io/) [Site3](https://romania-rss-feed.github.io)
+- 🌐 [Site principal](https://eagentie.github.io)
 - 📋 [Listă completă site-uri](https://eagentie.github.io/site-ro/)
 - 🔗 [Mastodon Instance](https://social.5th.ro)
 

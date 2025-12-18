@@ -7,8 +7,11 @@
   <meta name="description" content="PR360 - hub complet pentru relații publice și comunicate de presă. RSS feed cu comunicate PR, anunțuri corporative și știri din domeniul business din România. Accesează feed-ul RSS pentru pr360.ro din Romania RSS feed hub. Feed-uri actualizate automat cu știri și comunicate de presă românești." />
   <meta name="keywords" content="romania rss feed, romania rss, pr360.ro RSS, RSS feed România, feed știri românești, comunicate presă RSS" />
   <meta name="robots" content="index, follow" />
+  <meta name="google-site-verification" content="eS7aELY3bA1PZlVpthiEkD6_0IjwQUXDkQt8q2u373s" />
   <link rel="canonical" href="https://eagentie.github.io/site-ro/pr360/" />
   
+  <link rel="alternate" type="application/rss+xml" title="pr360.ro RSS Feed" href="https://pr360.ro/feed/" />
+  <link rel="alternate" type="application/rss+xml" title="pr360.ro Mastodon RSS" href="https://social.5th.ro/@pr360.rss" />
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://eagentie.github.io/site-ro/pr360/" />
@@ -40,11 +43,48 @@
     "url": "https://eagentie.github.io/"
   },
   "about": {
-    "@type": "Thing",
+    "@type": "Organization",
+    "@id": "https://pr360.ro/#organization",
     "name": "pr360.ro",
-    "url": "https://pr360.ro/"
+    "url": "https://pr360.ro/",
+    "sameAs": "https://social.5th.ro/@pr360"
   },
-  "keywords": "romania rss feed, romania rss, pr360.ro RSS, RSS feed România"
+  "keywords": "romania rss feed, romania rss, pr360.ro RSS, RSS feed România",
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Acasă",
+        "item": "https://eagentie.github.io/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Listă Site-uri",
+        "item": "https://eagentie.github.io/site-ro/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "pr360.ro",
+        "item": "https://eagentie.github.io/site-ro/pr360/"
+      }
+    ]
+  },
+  "mainEntity": {
+    "@type": "WebSite",
+    "name": "pr360.ro",
+    "url": "https://pr360.ro/",
+    "potentialAction": {
+      "@type": "ReadAction",
+      "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://pr360.ro/feed/"
+      }
+    }
+  }
 }
   </script>
   

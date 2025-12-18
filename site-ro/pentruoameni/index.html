@@ -7,7 +7,12 @@
   <meta name="description" content="Pentru Oameni - platformă dedicată știrilor și informațiilor relevante pentru oameni. RSS feed cu articole despre societate, lifestyle și evenimente importante din România. Accesează feed-ul RSS pentru pentruoameni.ro din Romania RSS feed hub. Feed-uri actualizate automat cu știri și comunicate de presă românești." />
   <meta name="keywords" content="romania rss feed, romania rss, pentruoameni.ro RSS, RSS feed România, feed știri românești, comunicate presă RSS" />
   <meta name="robots" content="index, follow" />
+  <meta name="google-site-verification" content="eS7aELY3bA1PZlVpthiEkD6_0IjwQUXDkQt8q2u373s" />
   <link rel="canonical" href="https://eagentie.github.io/site-ro/pentruoameni/" />
+  
+  <!-- RSS Feed Links -->
+  <link rel="alternate" type="application/rss+xml" title="pentruoameni.ro RSS Feed" href="https://pentruoameni.ro/feed/" />
+  <link rel="alternate" type="application/rss+xml" title="pentruoameni.ro Mastodon RSS" href="https://social.5th.ro/@pentruoameni.rss" />
   
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website" />
@@ -40,9 +45,46 @@
     "url": "https://eagentie.github.io/"
   },
   "about": {
-    "@type": "Thing",
+    "@type": "Organization",
+    "@id": "https://pentruoameni.ro/#organization",
     "name": "pentruoameni.ro",
-    "url": "https://pentruoameni.ro/"
+    "url": "https://pentruoameni.ro/",
+    "sameAs": "https://social.5th.ro/@pentruoameni"
+  },
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Acasă",
+        "item": "https://eagentie.github.io/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Listă Site-uri",
+        "item": "https://eagentie.github.io/site-ro/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "pentruoameni.ro",
+        "item": "https://eagentie.github.io/site-ro/pentruoameni/"
+      }
+    ]
+  },
+  "mainEntity": {
+    "@type": "WebSite",
+    "name": "pentruoameni.ro",
+    "url": "https://pentruoameni.ro/",
+    "potentialAction": {
+      "@type": "ReadAction",
+      "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://pentruoameni.ro/feed/"
+      }
+    }
   },
   "keywords": "romania rss feed, romania rss, pentruoameni.ro RSS, RSS feed România"
 }

@@ -7,8 +7,11 @@
   <meta name="description" content="Bucovina News - portal de știri pentru regiunea Bucovina din România. RSS feed cu știri locale din Suceava, Rădăuți și alte localități din Bucovina. Accesează feed-ul RSS pentru bucovina-news.ro din Romania RSS feed hub. Feed-uri actualizate automat cu știri și comunicate de presă românești." />
   <meta name="keywords" content="romania rss feed, romania rss, bucovina-news.ro RSS, RSS feed România, feed știri românești, comunicate presă RSS" />
   <meta name="robots" content="index, follow" />
+  <meta name="google-site-verification" content="eS7aELY3bA1PZlVpthiEkD6_0IjwQUXDkQt8q2u373s" />
   <link rel="canonical" href="https://eagentie.github.io/site-ro/bucovina-news/" />
   
+  <link rel="alternate" type="application/rss+xml" title="bucovina-news.ro RSS Feed" href="https://bucovina-news.ro/feed/" />
+  <link rel="alternate" type="application/rss+xml" title="bucovina-news.ro Mastodon RSS" href="https://social.5th.ro/@bucovina.rss" />
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://eagentie.github.io/site-ro/bucovina-news/" />
@@ -40,11 +43,48 @@
     "url": "https://eagentie.github.io/"
   },
   "about": {
-    "@type": "Thing",
+    "@type": "Organization",
+    "@id": "https://bucovina-news.ro/#organization",
     "name": "bucovina-news.ro",
-    "url": "https://bucovina-news.ro/"
+    "url": "https://bucovina-news.ro/",
+    "sameAs": "https://social.5th.ro/@bucovina"
   },
-  "keywords": "romania rss feed, romania rss, bucovina-news.ro RSS, RSS feed România"
+  "keywords": "romania rss feed, romania rss, bucovina-news.ro RSS, RSS feed România",
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Acasă",
+        "item": "https://eagentie.github.io/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Listă Site-uri",
+        "item": "https://eagentie.github.io/site-ro/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "bucovina-news.ro",
+        "item": "https://eagentie.github.io/site-ro/bucovina-news/"
+      }
+    ]
+  },
+  "mainEntity": {
+    "@type": "WebSite",
+    "name": "bucovina-news.ro",
+    "url": "https://bucovina-news.ro/",
+    "potentialAction": {
+      "@type": "ReadAction",
+      "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://bucovina-news.ro/feed/"
+      }
+    }
+  }
 }
   </script>
   
