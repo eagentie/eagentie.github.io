@@ -4,8 +4,14 @@
   "site_feed": "https://bizwoman.ro/feed/",
   "mastodon": "https://social.5th.ro/@BIZWoman",
   "mastodon_rss": "https://social.5th.ro/@BIZWoman.rss",
-  "updated_at": "2025-12-18T15:37:53Z",
+  "updated_at": "2025-12-18T16:48:39Z",
   "site_posts": [
+    {
+      "title": "Curierat fără granițe: abordarea Bogo Express pentru livrări naționale și internaționale",
+      "link": "https://bizwoman.ro/curierat-fara-granite-abordarea-bogo-express-pentru-livrari-nationale-si-internationale/",
+      "date": "Thu, 18 Dec 2025 15:42:03 +0000",
+      "summary": "Într-un context în care mobilitatea comercială și nevoia de livrare rapidă cresc constant, soluțiile de&#8230; Articolul Curierat fără granițe: abordarea Bogo Express pentru livrări naționale și internaționale apare prima dată în Biz Woman ."
+    },
     {
       "title": "Cum postezi pe Mastodon doar când articolul e publicat (nu draft/preview)",
       "link": "https://bizwoman.ro/cum-postezi-pe-mastodon-doar-cand-articolul-e-publicat-nu-draft-preview/",
@@ -59,15 +65,15 @@
       "link": "https://bizwoman.ro/biletul-zilei-cu-cote-mici-siguranta-aparenta-sau-capcana-clasica/",
       "date": "Sat, 15 Nov 2025 10:03:28 +0000",
       "summary": "A (Atenție): V-ați întrebat vreodată de ce majoritatea pariorilor aleg obsesiv acele meciuri cu șanse&#8230; Articolul Biletul zilei cu cote mici: siguranță aparentă sau capcană clasică? apare prima dată în Biz Woman ."
-    },
-    {
-      "title": "Tehnici avansate de linkbuilding",
-      "link": "https://bizwoman.ro/tehnici-avansate-de-linkbuilding/",
-      "date": "Fri, 14 Nov 2025 14:52:31 +0000",
-      "summary": "Atenție: Vă confruntați constant cu dificultatea de a urca în clasamentul Google, deși aveți un&#8230; Articolul Tehnici avansate de linkbuilding apare prima dată în Biz Woman ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@BIZWoman/115741329045240460",
+      "date": "Thu, 18 Dec 2025 15:42:05 +0000",
+      "content": "📄Într-un context în care mobilitatea comercială și nevoia de livrare rapidă cresc constant, soluțiile de curierat trebuie să ofere nu doar acoperire extinsă, ci și claritate, flexibilitate și suport real pentru utilizatori. Atât companiile, cât și persoanele care trimit colete ocazional caută soluții prin care expedierea să fie simplă, predictibilă și ușor de gestionat. Bogo… 📄 https:// bizwoman.ro/curierat-fara-gran ite-abordarea-bogo-express-pentru-livrari-nationale-si-internationale/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@BIZWoman/115736511633543771",
