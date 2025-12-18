@@ -1,0 +1,19 @@
+{
+  "name": "Romania Press Release Hub",
+  "short_name": "Romania RSS Hub",
+  "description": "Hub centralizat de RSS feed-uri pentru România",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0c10",
+  "theme_color": "#7c5cff",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/assets/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
+

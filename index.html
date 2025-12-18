@@ -2,31 +2,101 @@
 <html lang="ro" data-page="home">
 <head>
   <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Romania Press Release Hub</title>
-  <meta name="description" content="Hub static cu feed-uri: site + Mastodon. Generat automat din RSS." />
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=5" />
+  <meta name="theme-color" content="#7c5cff" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <link rel="icon" type="image/svg+xml" href="/assets/logo.svg" />
+  <link rel="preload" href="/assets/logo.svg" as="image" type="image/svg+xml" />
+  <link rel="manifest" href="/manifest.json" />
+  <link rel="apple-touch-icon" href="/assets/logo.svg" />
+  <title>Romania Press Release Hub - RSS Feed Centralizat pentru România</title>
+  <meta name="description" content="Romania Press Release Hub - cel mai complet hub de RSS feed-uri pentru România. Accesează feed-uri RSS din România, comunicate de presă românești și știri actualizate automat. Romania RSS feed aggregator." />
+  <meta name="keywords" content="Romania press release hub, romania rss feed, romania rss, RSS feed România, comunicate presă România, știri România RSS, feed RSS românesc, agregator RSS România" />
+  <meta name="author" content="Romania Press Release Hub" />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://eagentie.github.io/" />
+  
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://eagentie.github.io/" />
+  <meta property="og:title" content="Romania Press Release Hub - RSS Feed Centralizat pentru România" />
+  <meta property="og:description" content="Hub complet de RSS feed-uri pentru România. Accesează feed-uri RSS din România, comunicate de presă și știri actualizate automat." />
+  <meta property="og:image" content="https://eagentie.github.io/assets/logo.svg" />
+  <meta property="og:image:type" content="image/svg+xml" />
+  <meta property="og:locale" content="ro_RO" />
+  
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Romania Press Release Hub - RSS Feed Centralizat pentru România" />
+  <meta name="twitter:description" content="Hub complet de RSS feed-uri pentru România. Accesează feed-uri RSS din România, comunicate de presă și știri actualizate automat." />
+  <meta name="twitter:image" content="https://eagentie.github.io/assets/logo.svg" />
+  
+  <!-- Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Romania Press Release Hub",
+    "alternateName": "Romania RSS Feed Hub",
+    "url": "https://eagentie.github.io/",
+    "description": "Hub centralizat de RSS feed-uri pentru România. Accesează feed-uri RSS din România, comunicate de presă românești și știri actualizate automat.",
+    "inLanguage": "ro",
+    "keywords": "Romania press release hub, romania rss feed, romania rss, RSS feed România",
+    "logo": "https://eagentie.github.io/assets/logo.svg",
+    "image": "https://eagentie.github.io/assets/logo.svg",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://eagentie.github.io/?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
+  
   <link rel="stylesheet" href="/assets/style.css" />
 </head>
 <body>
   <div class="container">
     <div class="header">
       <div class="brand">
-        <div class="logo" aria-hidden="true"></div>
+        <img src="/assets/logo.svg" alt="Romania Press Release Hub Logo" class="logo" style="width:40px;height:40px;border-radius:14px;" />
         <div>
           <h1>Romania Press Release Hub</h1>
-          <p>Site + Mastodon feed pentru fiecare proiect • <span class="kbd" id="count">0/0</span></p>
+          <p>Agregator RSS feed România • Feed-uri știri românești • Comunicate presă RSS • <span class="kbd" id="count">0/0</span> site-uri active</p>
         </div>
       </div>
       <div class="actions">
-        <input id="q" class="search" placeholder="Caută după domeniu / slug / user…" />
+        <input id="q" class="search" placeholder="Caută feed-uri RSS românești…" />
         <a class="btn" href="/site-ro/">Listă completă</a>
+      </div>
+    </div>
+
+    <div style="margin-top: 0; padding: 28px; border: 1px solid var(--border); border-radius: var(--radius); background: rgba(255,255,255,.02); margin-bottom: 32px;">
+      <h2 style="margin-top: 0; font-size: 22px; margin-bottom: 16px; font-weight: 600;">Romania RSS Feed - Hub Centralizat</h2>
+      <div style="color: var(--muted); line-height: 1.7; font-size: 15px;">
+        <p style="margin: 0 0 16px 0;">
+          Bine ai venit la <strong>Romania Press Release Hub</strong>, cel mai complet agregator de <strong>RSS feed-uri pentru România</strong>. 
+          Aici găsești feed-uri RSS centralizate din toate site-urile de știri și comunicate de presă din România. 
+          Fiecare site are propriul său <strong>Romania RSS feed</strong> actualizat automat, precum și feed-ul Mastodon asociat.
+        </p>
+        <p style="margin: 0 0 16px 0;">
+          <strong>Romania RSS feed</strong> este soluția ta pentru a accesa toate știrile și comunicatele de presă românești într-un singur loc. 
+          Fie că cauți știri locale, comunicate corporative sau informații despre evenimente importante, <strong>Romania press release hub</strong> 
+          îți oferă acces rapid la sute de surse de conținut actualizate constant.
+        </p>
+        <p style="margin: 0;">
+          Explorează sute de surse de știri românești, abonează-te la feed-urile RSS preferate și rămâi la curent cu tot ce se întâmplă în România 
+          prin <strong>romania rss feed</strong> - cel mai complet agregator de feed-uri RSS din România.
+        </p>
       </div>
     </div>
 
     <div class="grid" id="cards"></div>
 
     <div class="footer">
-      Tip: feed-urile sunt actualizate automat de GitHub Actions. Dacă vezi liste goale, revino după primul run.
+      <p style="margin-bottom: 8px;"><strong>Romania Press Release Hub</strong> - Agregator de feed-uri RSS din România. Toate feed-urile RSS sunt actualizate automat și disponibile pentru abonare.</p>
+      <p style="margin: 0; font-size: 11px;">Romania RSS feed • Romania press release hub • RSS feed România • Feed-uri știri românești • Comunicate presă RSS</p>
     </div>
   </div>
 

@@ -3,15 +3,58 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>cetateanmodel.ro • Feed</title>
-  <meta name="description" content="Ultimele postări de pe cetateanmodel.ro + ultimele postări Mastodon (@cetatean_model)." />
+  <title>cetateanmodel.ro RSS Feed - Romania Press Release Hub</title>
+  <meta name="description" content="Cetățean Model - platformă pentru cetățeni activi și responsabili. RSS feed cu articole despre civism, responsabilitate socială și inițiative civice din România. Accesează feed-ul RSS pentru cetateanmodel.ro din Romania RSS feed hub. Feed-uri actualizate automat cu știri și comunicate de presă românești." />
+  <meta name="keywords" content="romania rss feed, romania rss, cetateanmodel.ro RSS, RSS feed România, feed știri românești, comunicate presă RSS" />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://eagentie.github.io/site-ro/cetateanmodel/" />
+  
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://eagentie.github.io/site-ro/cetateanmodel/" />
+  <meta property="og:title" content="cetateanmodel.ro RSS Feed - Romania Press Release Hub" />
+  <meta property="og:description" content="Cetățean Model - platformă pentru cetățeni activi și responsabili. RSS feed cu articole despre civism, responsabilitate socială și inițiative civice din România." />
+  <meta property="og:image" content="https://eagentie.github.io/assets/logo.svg" />
+  <meta property="og:image:type" content="image/svg+xml" />
+  <meta property="og:site_name" content="Romania Press Release Hub" />
+  <meta property="og:locale" content="ro_RO" />
+  
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="cetateanmodel.ro RSS Feed - Romania Press Release Hub" />
+  <meta name="twitter:description" content="Cetățean Model - platformă pentru cetățeni activi și responsabili. RSS feed cu articole despre civism, responsabilitate socială și inițiative civice din România." />
+  <meta name="twitter:image" content="https://eagentie.github.io/assets/logo.svg" />
+  
+  <!-- Structured Data -->
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "cetateanmodel.ro RSS Feed - Romania Press Release Hub",
+  "url": "https://eagentie.github.io/site-ro/cetateanmodel/",
+  "description": "Cetățean Model - platformă pentru cetățeni activi și responsabili. RSS feed cu articole despre civism, responsabilitate socială și inițiative civice din România.",
+  "inLanguage": "ro",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "Romania Press Release Hub",
+    "url": "https://eagentie.github.io/"
+  },
+  "about": {
+    "@type": "Thing",
+    "name": "cetateanmodel.ro",
+    "url": "https://cetateanmodel.ro/"
+  },
+  "keywords": "romania rss feed, romania rss, cetateanmodel.ro RSS, RSS feed România"
+}
+  </script>
+  
   <link rel="stylesheet" href="/assets/style.css" />
 </head>
 <body>
   <div class="container">
     <div class="header">
       <div class="brand">
-        <a href="/" class="logo" aria-label="Acasă" style="display:block"></a>
+        <a href="/" aria-label="Acasă" style="display:block"><img src="/assets/logo.svg" alt="Romania Press Release Hub Logo" class="logo" style="width:40px;height:40px;border-radius:14px;" /></a>
         <div>
           <h1 id="title">cetateanmodel.ro</h1>
           <p id="updatedAt" class="notice"></p>
@@ -29,23 +72,24 @@
     <div class="two-col">
       <div class="section">
         <div class="section-head">
-          <h2>Latest de pe site</h2>
-          <div class="hint">RSS → JSON local</div>
+          <h2>Articole Recente RSS</h2>
+          <div class="hint">Feed RSS actualizat automat</div>
         </div>
         <div class="list" id="sitePosts"></div>
       </div>
 
       <div class="section">
         <div class="section-head">
-          <h2>Latest de pe Mastodon</h2>
-          <div class="hint">RSS (@user.rss) → JSON local</div>
+          <h2>Postări Recente Mastodon</h2>
+          <div class="hint">Feed Mastodon RSS actualizat</div>
         </div>
         <div class="list" id="mastodonPosts"></div>
       </div>
     </div>
 
     <div class="footer">
-      Slug: <span class="kbd">cetateanmodel</span> • Feed local: <span class="kbd">/data/feeds/cetateanmodel.json</span>
+      <p style="margin-bottom: 8px;"><strong>cetateanmodel.ro</strong> - Cetățean Model - platformă pentru cetățeni activi și responsabili. RSS feed cu articole despre civism, responsabilitate socială și inițiative civice din România.</p>
+      <p style="margin: 0; font-size: 11px;">RSS feed România • Feed știri românești • Comunicate presă RSS • Romania RSS feed</p>
     </div>
   </div>
 

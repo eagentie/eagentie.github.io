@@ -6,7 +6,8 @@
     "mastodon": "https://social.5th.ro/@pentruoameni",
     "mastodon_rss": "https://social.5th.ro/@pentruoameni.rss",
     "mastodon_user": "pentruoameni",
-    "name": "pentruoameni.ro"
+    "name": "pentruoameni.ro",
+    "description": "Pentru Oameni - platformă dedicată știrilor și informațiilor relevante pentru oameni. RSS feed cu articole despre societate, lifestyle și evenimente importante din România."
   },
   {
     "slug": "recent-news",
@@ -15,7 +16,8 @@
     "mastodon": "https://social.5th.ro/@recent_news",
     "mastodon_rss": "https://social.5th.ro/@recent_news.rss",
     "mastodon_user": "recent_news",
-    "name": "recent-news.ro"
+    "name": "recent-news.ro",
+    "description": "Recent News - sursă de știri actualizate constant din România. RSS feed cu cele mai recente știri, evenimente și informații importante pentru cititorii români."
   },
   {
     "slug": "topcomunicate",
@@ -24,7 +26,8 @@
     "mastodon": "https://social.5th.ro/@topcomunicate_ro",
     "mastodon_rss": "https://social.5th.ro/@topcomunicate_ro.rss",
     "mastodon_user": "topcomunicate_ro",
-    "name": "topcomunicate.ro"
+    "name": "topcomunicate.ro",
+    "description": "Top Comunicate - platformă specializată în comunicate de presă și anunțuri oficiale. RSS feed cu cele mai importante comunicate de presă din România."
   },
   {
     "slug": "pr360",
@@ -33,7 +36,8 @@
     "mastodon": "https://social.5th.ro/@pr360",
     "mastodon_rss": "https://social.5th.ro/@pr360.rss",
     "mastodon_user": "pr360",
-    "name": "pr360.ro"
+    "name": "pr360.ro",
+    "description": "PR360 - hub complet pentru relații publice și comunicate de presă. RSS feed cu comunicate PR, anunțuri corporative și știri din domeniul business din România."
   },
   {
     "slug": "aiadvertising",
@@ -42,7 +46,8 @@
     "mastodon": "https://social.5th.ro/@ai_advertising",
     "mastodon_rss": "https://social.5th.ro/@ai_advertising.rss",
     "mastodon_user": "ai_advertising",
-    "name": "aiadvertising.ro"
+    "name": "aiadvertising.ro",
+    "description": "AI Advertising - platformă dedicată publicității digitale și inteligenței artificiale în marketing. RSS feed cu știri despre tehnologii AI, advertising și tendințe digitale."
   },
   {
     "slug": "cetateanmodel",
@@ -51,7 +56,8 @@
     "mastodon": "https://social.5th.ro/@cetatean_model",
     "mastodon_rss": "https://social.5th.ro/@cetatean_model.rss",
     "mastodon_user": "cetatean_model",
-    "name": "cetateanmodel.ro"
+    "name": "cetateanmodel.ro",
+    "description": "Cetățean Model - platformă pentru cetățeni activi și responsabili. RSS feed cu articole despre civism, responsabilitate socială și inițiative civice din România."
   },
   {
     "slug": "iasi-azi",
@@ -60,7 +66,8 @@
     "mastodon": "https://social.5th.ro/@Iasi",
     "mastodon_rss": "https://social.5th.ro/@Iasi.rss",
     "mastodon_user": "Iasi",
-    "name": "iasi-azi.ro"
+    "name": "iasi-azi.ro",
+    "description": "Iași Azi - portal de știri locale pentru municipiul Iași și județul Iași. RSS feed cu știri actuale despre evenimente, politici locale și comunitate din Iași."
   },
   {
     "slug": "femeie-antreprenor",
@@ -69,7 +76,8 @@
     "mastodon": "https://social.5th.ro/@femeie_antreprenor",
     "mastodon_rss": "https://social.5th.ro/@femeie_antreprenor.rss",
     "mastodon_user": "femeie_antreprenor",
-    "name": "femeie-antreprenor.ro"
+    "name": "femeie-antreprenor.ro",
+    "description": "Femeie Antreprenor - platformă dedicată femeilor antreprenoare din România. RSS feed cu știri despre business-uri conduse de femei, sfaturi antreprenoriale și succes stories."
   },
   {
     "slug": "afaceritop",
@@ -78,7 +86,8 @@
     "mastodon": "https://social.5th.ro/@afaceri_top",
     "mastodon_rss": "https://social.5th.ro/@afaceri_top.rss",
     "mastodon_user": "afaceri_top",
-    "name": "afaceritop.ro"
+    "name": "afaceritop.ro",
+    "description": "Afaceri Top - portal de business și antreprenoriat din România. RSS feed cu știri despre afaceri, investiții, startup-uri și oportunități de business."
   },
   {
     "slug": "banat-news",
@@ -87,7 +96,8 @@
     "mastodon": "https://social.5th.ro/@banat",
     "mastodon_rss": "https://social.5th.ro/@banat.rss",
     "mastodon_user": "banat",
-    "name": "banat-news.ro"
+    "name": "banat-news.ro",
+    "description": "Banat News - sursă de știri pentru regiunea Banat din România. RSS feed cu știri locale din Timișoara, Arad, Reșița și alte orașe din Banat."
   },
   {
     "slug": "ziar360",
@@ -96,7 +106,8 @@
     "mastodon": "https://social.5th.ro/@ziar360",
     "mastodon_rss": "https://social.5th.ro/@ziar360.rss",
     "mastodon_user": "ziar360",
-    "name": "ziar360.ro"
+    "name": "ziar360.ro",
+    "description": "Ziar360 - ziar online cu știri complete din toate domeniile. RSS feed cu știri naționale, internaționale, sport, tehnologie și lifestyle din România."
   },
   {
     "slug": "cutremurul",
@@ -105,7 +116,8 @@
     "mastodon": "https://social.5th.ro/@cutremur",
     "mastodon_rss": "https://social.5th.ro/@cutremur.rss",
     "mastodon_user": "cutremur",
-    "name": "cutremurul.ro"
+    "name": "cutremurul.ro",
+    "description": "Cutremurul - platformă de știri și analize despre evenimente importante din România. RSS feed cu știri care fac valuri în societatea românească."
   },
   {
     "slug": "dobrogea-news",
@@ -114,7 +126,8 @@
     "mastodon": "https://social.5th.ro/@dobrogea",
     "mastodon_rss": "https://social.5th.ro/@dobrogea.rss",
     "mastodon_user": "dobrogea",
-    "name": "dobrogea-news.ro"
+    "name": "dobrogea-news.ro",
+    "description": "Dobrogea News - portal de știri pentru regiunea Dobrogea. RSS feed cu știri locale din Constanța, Tulcea și alte localități din Dobrogea."
   },
   {
     "slug": "constanta-azi",
@@ -123,7 +136,8 @@
     "mastodon": "https://social.5th.ro/@constanta",
     "mastodon_rss": "https://social.5th.ro/@constanta.rss",
     "mastodon_user": "constanta",
-    "name": "constanta-azi.ro"
+    "name": "constanta-azi.ro",
+    "description": "Constanța Azi - portal de știri locale pentru municipiul Constanța și județul Constanța. RSS feed cu știri actuale despre evenimente, politici locale și turism din Constanța."
   },
   {
     "slug": "brasov-azi",
@@ -132,7 +146,8 @@
     "mastodon": "https://social.5th.ro/@brasov",
     "mastodon_rss": "https://social.5th.ro/@brasov.rss",
     "mastodon_user": "brasov",
-    "name": "brasov-azi.ro"
+    "name": "brasov-azi.ro",
+    "description": "Brașov Azi - portal de știri locale pentru municipiul Brașov și județul Brașov. RSS feed cu știri actuale despre evenimente, cultură, sport și comunitate din Brașov."
   },
   {
     "slug": "femeiaz",
@@ -141,7 +156,8 @@
     "mastodon": "https://social.5th.ro/@femeiAZ",
     "mastodon_rss": "https://social.5th.ro/@femeiAZ.rss",
     "mastodon_user": "femeiAZ",
-    "name": "femeiaz.ro"
+    "name": "femeiaz.ro",
+    "description": "FemeiAZ - platformă dedicată femeilor moderne din România. RSS feed cu articole despre lifestyle, sănătate, carieră și empowerment feminin."
   },
   {
     "slug": "cluj-azi",
@@ -150,7 +166,8 @@
     "mastodon": "https://social.5th.ro/@cluj",
     "mastodon_rss": "https://social.5th.ro/@cluj.rss",
     "mastodon_user": "cluj",
-    "name": "cluj-azi.ro"
+    "name": "cluj-azi.ro",
+    "description": "Cluj Azi - portal de știri locale pentru municipiul Cluj-Napoca și județul Cluj. RSS feed cu știri actuale despre evenimente, tehnologie, cultură și startup-uri din Cluj."
   },
   {
     "slug": "noutati24",
@@ -159,7 +176,8 @@
     "mastodon": "https://social.5th.ro/@noutati24",
     "mastodon_rss": "https://social.5th.ro/@noutati24.rss",
     "mastodon_user": "noutati24",
-    "name": "noutati24.ro"
+    "name": "noutati24.ro",
+    "description": "Noutăți24 - portal de știri actualizat non-stop din România. RSS feed cu cele mai noi știri, breaking news și evenimente importante din toate domeniile."
   },
   {
     "slug": "constructii360",
@@ -168,7 +186,8 @@
     "mastodon": "https://social.5th.ro/@constructii360",
     "mastodon_rss": "https://social.5th.ro/@constructii360.rss",
     "mastodon_user": "constructii360",
-    "name": "constructii360.ro"
+    "name": "constructii360.ro",
+    "description": "Construcții360 - platformă specializată în domeniul construcțiilor din România. RSS feed cu știri despre construcții, arhitectură, materiale de construcții și proiecte imobiliare."
   },
   {
     "slug": "afaceriprofi",
@@ -177,7 +196,8 @@
     "mastodon": "https://social.5th.ro/@AfaceriProfi",
     "mastodon_rss": "https://social.5th.ro/@AfaceriProfi.rss",
     "mastodon_user": "AfaceriProfi",
-    "name": "afaceriprofi.ro"
+    "name": "afaceriprofi.ro",
+    "description": "Afaceri Profi - portal de business pentru profesioniști din România. RSS feed cu știri despre management, strategii de business, finanțe și oportunități de investiții."
   },
   {
     "slug": "oltenia-news",
@@ -186,7 +206,8 @@
     "mastodon": "https://social.5th.ro/@oltenia",
     "mastodon_rss": "https://social.5th.ro/@oltenia.rss",
     "mastodon_user": "oltenia",
-    "name": "oltenia-news.ro"
+    "name": "oltenia-news.ro",
+    "description": "Oltenia News - sursă de știri pentru regiunea Oltenia din România. RSS feed cu știri locale din Craiova, Drobeta-Turnu Severin, Târgu Jiu și alte orașe din Oltenia."
   },
   {
     "slug": "clasici",
@@ -195,7 +216,8 @@
     "mastodon": "https://social.5th.ro/@clasici",
     "mastodon_rss": "https://social.5th.ro/@clasici.rss",
     "mastodon_user": "clasici",
-    "name": "clasici.ro"
+    "name": "clasici.ro",
+    "description": "Clasici - platformă dedicată literaturii clasice și culturii românești. RSS feed cu articole despre cărți clasice, autori români și evenimente culturale."
   },
   {
     "slug": "afaceri24",
@@ -204,7 +226,8 @@
     "mastodon": "https://social.5th.ro/@afaceri24",
     "mastodon_rss": "https://social.5th.ro/@afaceri24.rss",
     "mastodon_user": "afaceri24",
-    "name": "afaceri24.ro"
+    "name": "afaceri24.ro",
+    "description": "Afaceri24 - portal de business actualizat non-stop din România. RSS feed cu știri despre afaceri, piețe financiare, investiții și antreprenoriat 24/7."
   },
   {
     "slug": "bucovina-news",
@@ -213,7 +236,8 @@
     "mastodon": "https://social.5th.ro/@bucovina",
     "mastodon_rss": "https://social.5th.ro/@bucovina.rss",
     "mastodon_user": "bucovina",
-    "name": "bucovina-news.ro"
+    "name": "bucovina-news.ro",
+    "description": "Bucovina News - portal de știri pentru regiunea Bucovina din România. RSS feed cu știri locale din Suceava, Rădăuți și alte localități din Bucovina."
   },
   {
     "slug": "e-faq",
@@ -222,7 +246,8 @@
     "mastodon": "https://social.5th.ro/@efaq",
     "mastodon_rss": "https://social.5th.ro/@efaq.rss",
     "mastodon_user": "efaq",
-    "name": "e-faq.ro"
+    "name": "e-faq.ro",
+    "description": "E-FAQ - platformă cu întrebări frecvente și răspunsuri utile pentru români. RSS feed cu ghiduri, tutoriale și informații practice despre diverse subiecte."
   },
   {
     "slug": "prbusiness",
@@ -231,7 +256,8 @@
     "mastodon": "https://social.5th.ro/@prbusiness",
     "mastodon_rss": "https://social.5th.ro/@prbusiness.rss",
     "mastodon_user": "prbusiness",
-    "name": "prbusiness.ro"
+    "name": "prbusiness.ro",
+    "description": "PR Business - platformă dedicată relațiilor publice și comunicării de business. RSS feed cu comunicate de presă, anunțuri corporative și știri din domeniul PR."
   },
   {
     "slug": "stirisociale",
@@ -240,7 +266,8 @@
     "mastodon": "https://social.5th.ro/@stiri_sociale",
     "mastodon_rss": "https://social.5th.ro/@stiri_sociale.rss",
     "mastodon_user": "stiri_sociale",
-    "name": "stirisociale.ro"
+    "name": "stirisociale.ro",
+    "description": "Știri Sociale - platformă de știri despre teme sociale și comunitare din România. RSS feed cu articole despre societate, educație, sănătate și inițiative sociale."
   },
   {
     "slug": "solutii-constructii",
@@ -249,7 +276,8 @@
     "mastodon": "https://social.5th.ro/@SolutiiConstructii",
     "mastodon_rss": "https://social.5th.ro/@SolutiiConstructii.rss",
     "mastodon_user": "SolutiiConstructii",
-    "name": "solutii-constructii.ro"
+    "name": "solutii-constructii.ro",
+    "description": "Soluții Construcții - platformă cu soluții și idei pentru domeniul construcțiilor. RSS feed cu articole despre tehnologii de construcție, materiale și proiecte innovative."
   },
   {
     "slug": "topantreprenor",
@@ -258,7 +286,8 @@
     "mastodon": "https://social.5th.ro/@topantreprenor",
     "mastodon_rss": "https://social.5th.ro/@topantreprenor.rss",
     "mastodon_user": "topantreprenor",
-    "name": "topantreprenor.ro"
+    "name": "topantreprenor.ro",
+    "description": "Top Antreprenor - platformă dedicată antreprenorilor de top din România. RSS feed cu interviuri, success stories, sfaturi de business și oportunități pentru antreprenori."
   },
   {
     "slug": "partizani",
@@ -267,7 +296,8 @@
     "mastodon": "https://social.5th.ro/@Partizani",
     "mastodon_rss": "https://social.5th.ro/@Partizani.rss",
     "mastodon_user": "Partizani",
-    "name": "partizani.ro"
+    "name": "partizani.ro",
+    "description": "Partizani - platformă de știri și opinii despre sport și fotbal din România. RSS feed cu știri despre echipe, meciuri, transferuri și evenimente sportive."
   },
   {
     "slug": "clinic-sanatos",
@@ -276,7 +306,8 @@
     "mastodon": "https://social.5th.ro/@clinic_sanatos",
     "mastodon_rss": "https://social.5th.ro/@clinic_sanatos.rss",
     "mastodon_user": "clinic_sanatos",
-    "name": "clinic-sanatos.ro"
+    "name": "clinic-sanatos.ro",
+    "description": "Clinic Sănătos - platformă dedicată sănătății și wellness-ului din România. RSS feed cu articole despre sănătate, nutriție, fitness și sfaturi medicale."
   },
   {
     "slug": "doctor360",
@@ -285,7 +316,8 @@
     "mastodon": "https://social.5th.ro/@doctor360",
     "mastodon_rss": "https://social.5th.ro/@doctor360.rss",
     "mastodon_user": "doctor360",
-    "name": "doctor360.ro"
+    "name": "doctor360.ro",
+    "description": "Doctor360 - platformă medicală completă pentru pacienți și medici din România. RSS feed cu știri medicale, articole despre sănătate și informații despre tratamente."
   },
   {
     "slug": "doctorite",
@@ -294,7 +326,8 @@
     "mastodon": "https://social.5th.ro/@DoctoriteBlog",
     "mastodon_rss": "https://social.5th.ro/@DoctoriteBlog.rss",
     "mastodon_user": "DoctoriteBlog",
-    "name": "doctorite.ro"
+    "name": "doctorite.ro",
+    "description": "Doctorite - blog dedicat femeilor doctor din România. RSS feed cu articole despre cariera medicală, sfaturi pentru doctori și perspective din domeniul medical."
   },
   {
     "slug": "stiridemocratice",
@@ -303,7 +336,8 @@
     "mastodon": "https://social.5th.ro/@stiri_democratice",
     "mastodon_rss": "https://social.5th.ro/@stiri_democratice.rss",
     "mastodon_user": "stiri_democratice",
-    "name": "stiridemocratice.ro"
+    "name": "stiridemocratice.ro",
+    "description": "Știri Democratice - platformă de știri despre democrație și politică din România. RSS feed cu articole despre procese democratice, alegeri și participare civică."
   },
   {
     "slug": "eratehnologica",
@@ -312,7 +346,8 @@
     "mastodon": "https://social.5th.ro/@eratehnologica",
     "mastodon_rss": "https://social.5th.ro/@eratehnologica.rss",
     "mastodon_user": "eratehnologica",
-    "name": "EraTehnologica.ro"
+    "name": "EraTehnologica.ro",
+    "description": "Era Tehnologică - portal de știri despre tehnologie și inovație din România. RSS feed cu știri despre gadget-uri, startup-uri tech, AI și tehnologii emergente."
   },
   {
     "slug": "arta-constructiilor",
@@ -321,7 +356,8 @@
     "mastodon": "https://social.5th.ro/@ArtaConstructiilor",
     "mastodon_rss": "https://social.5th.ro/@ArtaConstructiilor.rss",
     "mastodon_user": "ArtaConstructiilor",
-    "name": "arta-constructiilor.ro"
+    "name": "arta-constructiilor.ro",
+    "description": "Arta Construcțiilor - platformă despre arhitectură și design în construcții. RSS feed cu articole despre proiecte arhitecturale, design interior și exterior, și tendințe în construcții."
   },
   {
     "slug": "ienergie",
@@ -330,7 +366,8 @@
     "mastodon": "https://social.5th.ro/@ienergie",
     "mastodon_rss": "https://social.5th.ro/@ienergie.rss",
     "mastodon_user": "ienergie",
-    "name": "iEnergie.ro"
+    "name": "iEnergie.ro",
+    "description": "iEnergie - platformă despre energie și durabilitate din România. RSS feed cu știri despre energie regenerabilă, eficiență energetică și tehnologii verzi."
   },
   {
     "slug": "ifemeie",
@@ -339,7 +376,8 @@
     "mastodon": "https://social.5th.ro/@iFemeie",
     "mastodon_rss": "https://social.5th.ro/@iFemeie.rss",
     "mastodon_user": "iFemeie",
-    "name": "iFemeie.ro"
+    "name": "iFemeie.ro",
+    "description": "iFemeie - platformă digitală dedicată femeilor moderne din România. RSS feed cu articole despre lifestyle, modă, beauty, carieră și empowerment feminin."
   },
   {
     "slug": "universultech",
@@ -348,7 +386,8 @@
     "mastodon": "https://social.5th.ro/@UniversulTech",
     "mastodon_rss": "https://social.5th.ro/@UniversulTech.rss",
     "mastodon_user": "UniversulTech",
-    "name": "UniversulTech.ro"
+    "name": "UniversulTech.ro",
+    "description": "Universul Tech - portal complet despre tehnologie și știință din România. RSS feed cu știri despre IT, gadget-uri, inovații tehnologice și startup-uri tech."
   },
   {
     "slug": "bizwoman",
@@ -357,7 +396,8 @@
     "mastodon": "https://social.5th.ro/@BIZWoman",
     "mastodon_rss": "https://social.5th.ro/@BIZWoman.rss",
     "mastodon_user": "BIZWoman",
-    "name": "bizwoman.ro"
+    "name": "bizwoman.ro",
+    "description": "BIZ Woman - platformă dedicată femeilor în business din România. RSS feed cu știri despre femei antreprenoare, leadership feminin și oportunități de business pentru femei."
   },
   {
     "slug": "9z",
@@ -366,7 +406,8 @@
     "mastodon": "https://social.5th.ro/@9z",
     "mastodon_rss": "https://social.5th.ro/@9z.rss",
     "mastodon_user": "9z",
-    "name": "9z.ro"
+    "name": "9z.ro",
+    "description": "9z - platformă de știri și conținut digital din România. RSS feed cu știri diverse, articole de opinie și conținut editorial actualizat constant."
   },
   {
     "slug": "top15",
@@ -375,6 +416,7 @@
     "mastodon": "https://social.5th.ro/@top",
     "mastodon_rss": "https://social.5th.ro/@top.rss",
     "mastodon_user": "top",
-    "name": "top15.ro"
+    "name": "top15.ro",
+    "description": "Top15 - platformă cu topuri și liste despre diverse subiecte din România. RSS feed cu topuri, clasamente și liste cu cele mai bune din diverse categorii."
   }
 ]

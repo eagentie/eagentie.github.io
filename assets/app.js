@@ -16,9 +16,32 @@ function stripHtml(html){
 }
 
 async function fetchJson(url){
+  // Use cache-first strategy for better performance
+  const cacheKey = `rss-hub-${url}`;
+  const cached = sessionStorage.getItem(cacheKey);
+  if(cached){
+    try{
+      const data = JSON.parse(cached);
+      const age = Date.now() - data.timestamp;
+      if(age < 60000){ // Use cache if less than 1 minute old
+        return data.data;
+      }
+    }catch(e){}
+  }
+  
   const res = await fetch(url, {cache:"no-store"});
   if(!res.ok) throw new Error(`HTTP ${res.status} for ${url}`);
-  return await res.json();
+  const data = await res.json();
+  
+  // Cache the result
+  try{
+    sessionStorage.setItem(cacheKey, JSON.stringify({
+      data: data,
+      timestamp: Date.now()
+    }));
+  }catch(e){}
+  
+  return data;
 }
 
 function deriveTitle(site){
@@ -41,12 +64,13 @@ function renderCards(sites, container){
     el.className = "card";
     el.innerHTML = `
       <h2><a href="${siteUrlForSlug(s.slug)}" style="text-decoration:none">${s.name || deriveTitle(s.site)}</a></h2>
+      ${s.description ? `<p style="margin:0 0 14px 0;color:var(--muted);font-size:14px;line-height:1.6">${s.description}</p>` : ""}
       <div class="meta">
         <span class="pill"><span class="dot"></span> Site: <a href="${s.site}" target="_blank" rel="noopener" style="text-decoration:none">${deriveTitle(s.site)}</a></span>
         <span class="pill">Mastodon: <a href="${s.mastodon}" target="_blank" rel="noopener" style="text-decoration:none">@${s.mastodon_user || ""}</a></span>
       </div>
-      <div style="margin-top:10px;display:flex;gap:10px;flex-wrap:wrap">
-        <a class="btn" href="${siteUrlForSlug(s.slug)}">Vezi feed</a>
+      <div style="margin-top:16px;display:flex;gap:10px;flex-wrap:wrap">
+        <a class="btn" href="${siteUrlForSlug(s.slug)}">Vezi feed RSS</a>
         <a class="btn" href="${s.site}" target="_blank" rel="noopener">Deschide site</a>
         <a class="btn" href="${s.mastodon}" target="_blank" rel="noopener">Profil Mastodon</a>
       </div>
@@ -65,7 +89,7 @@ async function initHome(){
   const update = () => {
     const q = (input.value || "").toLowerCase().trim();
     const filtered = !q ? sites : sites.filter(s => {
-      const hay = `${s.slug} ${s.name} ${s.site} ${s.mastodon_user}`.toLowerCase();
+      const hay = `${s.slug} ${s.name} ${s.site} ${s.mastodon_user} ${s.description || ""}`.toLowerCase();
       return hay.includes(q);
     });
     renderCards(filtered, grid);
@@ -77,7 +101,7 @@ async function initHome(){
 
 function renderFeedList(items, kind){
   if(!items || !items.length){
-    return `<div class="notice">Nu am găsit elemente încă (sau feed-ul nu a fost actualizat). Revino în câteva minute.</div>`;
+    return `<div class="notice">Feed-ul RSS este în curs de actualizare. Conținutul va fi disponibil în curând.</div>`;
   }
   const rows = items.slice(0, 12).map(it => {
     const title = kind === "mastodon" ? (stripHtml(it.content || it.title || "").slice(0,140) || "Post") : (it.title || "Articol");
@@ -132,8 +156,8 @@ async function initSitePage(){
     $("#mastodonPosts").innerHTML = renderFeedList(feed.mastodon_posts, "mastodon");
   }else{
     $("#updatedAt").textContent = "";
-    $("#sitePosts").innerHTML = `<div class="notice">Nu am putut încărca feed-ul local. Verifică dacă există <span class="kbd">/data/feeds/${slug}.json</span>.</div>`;
-    $("#mastodonPosts").innerHTML = `<div class="notice">Nu am putut încărca feed-ul local. Verifică dacă există <span class="kbd">/data/feeds/${slug}.json</span>.</div>`;
+    $("#sitePosts").innerHTML = `<div class="notice">Feed-ul RSS este temporar indisponibil. Te rugăm să revii mai târziu.</div>`;
+    $("#mastodonPosts").innerHTML = `<div class="notice">Feed-ul RSS este temporar indisponibil. Te rugăm să revii mai târziu.</div>`;
   }
 }
 

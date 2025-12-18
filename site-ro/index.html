@@ -2,31 +2,83 @@
 <html lang="ro" data-page="home">
 <head>
   <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Site-uri • Romania Press Release Hub</title>
-  <meta name="description" content="Listă completă de site-uri (fiecare cu pagina lui de feed: site + Mastodon)." />
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=5" />
+  <meta name="theme-color" content="#7c5cff" />
+  <link rel="icon" type="image/svg+xml" href="/assets/logo.svg" />
+  <link rel="preload" href="/assets/logo.svg" as="image" type="image/svg+xml" />
+  <link rel="manifest" href="/manifest.json" />
+  <link rel="apple-touch-icon" href="/assets/logo.svg" />
+  <title>Listă Completă Site-uri - Romania RSS Feed Hub</title>
+  <meta name="description" content="Listă completă de site-uri cu RSS feed-uri din România. Fiecare site are propriul feed RSS și feed Mastodon. Accesează toate feed-urile Romania RSS feed într-un singur loc." />
+  <meta name="keywords" content="romania rss feed, romania rss, lista site-uri RSS România, feed-uri RSS românești, site-uri știri România RSS, comunicate presă RSS România" />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://eagentie.github.io/site-ro/" />
+  
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://eagentie.github.io/site-ro/" />
+  <meta property="og:title" content="Listă Completă Site-uri - Romania RSS Feed Hub" />
+  <meta property="og:description" content="Listă completă de site-uri cu RSS feed-uri din România. Fiecare site are propriul feed RSS și feed Mastodon." />
+  <meta property="og:image" content="https://eagentie.github.io/assets/logo.svg" />
+  <meta property="og:image:type" content="image/svg+xml" />
+  <meta property="og:locale" content="ro_RO" />
+  
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Listă Completă Site-uri - Romania RSS Feed Hub" />
+  <meta name="twitter:description" content="Listă completă de site-uri cu RSS feed-uri din România. Fiecare site are propriul feed RSS și feed Mastodon." />
+  <meta name="twitter:image" content="https://eagentie.github.io/assets/logo.svg" />
+  
+  <!-- Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Listă Completă Site-uri - Romania RSS Feed",
+    "url": "https://eagentie.github.io/site-ro/",
+    "description": "Listă completă de site-uri cu RSS feed-uri din România. Fiecare site are propriul feed RSS și feed Mastodon actualizat automat.",
+    "inLanguage": "ro",
+    "keywords": "romania rss feed, romania rss, lista site-uri RSS România",
+    "mainEntity": {
+      "@type": "ItemList",
+      "name": "Site-uri cu RSS Feed România"
+    }
+  }
+  </script>
+  
   <link rel="stylesheet" href="/assets/style.css" />
 </head>
 <body>
   <div class="container">
     <div class="header">
       <div class="brand">
-        <a href="/" class="logo" aria-label="Acasă" style="display:block"></a>
+        <a href="/" aria-label="Acasă" style="display:block"><img src="/assets/logo.svg" alt="Romania Press Release Hub Logo" class="logo" style="width:40px;height:40px;border-radius:14px;" /></a>
         <div>
-          <h1>Site-uri</h1>
-          <p>Pagini per site: /site-ro/&lt;slug&gt;/ • <span class="kbd" id="count">0/0</span></p>
+          <h1>Listă Completă Site-uri - Romania RSS Feed</h1>
+          <p>Toate feed-urile RSS românești • Site-uri știri România • Comunicate presă RSS • <span class="kbd" id="count">0/0</span> feed-uri disponibile</p>
         </div>
       </div>
       <div class="actions">
-        <input id="q" class="search" placeholder="Caută…" />
+        <input id="q" class="search" placeholder="Caută site-uri RSS…" />
         <a class="btn" href="/">Acasă</a>
       </div>
+    </div>
+
+    <div style="margin-top: 20px; padding: 18px; border: 1px solid var(--border); border-radius: var(--radius); background: rgba(255,255,255,.02);">
+      <h2 style="margin-top: 0; font-size: 18px; margin-bottom: 12px;">Toate Site-urile cu Romania RSS Feed</h2>
+      <p style="margin: 0; color: var(--muted); line-height: 1.6; font-size: 14px;">
+        Această pagină conține lista completă a tuturor site-urilor incluse în <strong>Romania RSS Feed Hub</strong>. 
+        Fiecare site din această listă are propriul său <strong>Romania RSS feed</strong> disponibil, precum și feed-ul Mastodon asociat. 
+        Click pe orice site pentru a accesa feed-urile sale RSS actualizate automat. 
+        Explorează sute de surse de știri și comunicate de presă din România prin <strong>romania rss feed</strong>.
+      </p>
     </div>
 
     <div class="grid" id="cards"></div>
 
     <div class="footer">
-      Dacă vrei să adaugi un site nou: editează <span class="kbd">data/sites.json</span>.
+      <p style="margin-bottom: 8px;"><strong>Romania RSS Feed Hub</strong> - Accesează toate feed-urile RSS din România într-un singur loc. Feed-uri actualizate automat pentru știri, comunicate de presă și conținut românesc.</p>
+      <p style="margin: 0; font-size: 11px;">Romania RSS feed • Listă site-uri RSS România • Feed-uri RSS românești • Comunicate presă RSS • Agregator RSS România</p>
     </div>
   </div>
 
