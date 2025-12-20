@@ -4,8 +4,69 @@
   "site_feed": "https://bizwoman.ro/feed/",
   "mastodon": "https://social.5th.ro/@BIZWoman",
   "mastodon_rss": "https://social.5th.ro/@BIZWoman.rss",
-  "updated_at": "2025-12-20T16:45:18Z",
-  "site_posts": [],
+  "updated_at": "2025-12-20T17:31:53Z",
+  "site_posts": [
+    {
+      "title": "Curierat fără granițe: abordarea Bogo Express pentru livrări naționale și internaționale",
+      "link": "https://bizwoman.ro/curierat-fara-granite-abordarea-bogo-express-pentru-livrari-nationale-si-internationale/",
+      "date": "Thu, 18 Dec 2025 15:42:03 +0000",
+      "summary": "Într-un context în care mobilitatea comercială și nevoia de livrare rapidă cresc constant, soluțiile de&#8230; Articolul Curierat fără granițe: abordarea Bogo Express pentru livrări naționale și internaționale apare prima dată în Biz Woman ."
+    },
+    {
+      "title": "Cum postezi pe Mastodon doar când articolul e publicat (nu draft/preview)",
+      "link": "https://bizwoman.ro/cum-postezi-pe-mastodon-doar-cand-articolul-e-publicat-nu-draft-preview/",
+      "date": "Wed, 17 Dec 2025 16:58:54 +0000",
+      "summary": "Ați publicat vreodată un articol pe WordPress și, din greșeală, ați văzut că un draft&#8230; Articolul Cum postezi pe Mastodon doar când articolul e publicat (nu draft/preview) apare prima dată în Biz Woman ."
+    },
+    {
+      "title": "Oameni, destine, emoție: Adela Hanafi, a lansat podcastul „Povești Nespuse cu Adela”",
+      "link": "https://bizwoman.ro/oameni-destine-emotie-adela-hanafi-a-lansat-podcastul-povesti-nespuse-cu-adela/",
+      "date": "Wed, 10 Dec 2025 09:13:51 +0000",
+      "summary": "Oameni, destine, emoție: Adela Hanafi, a lansat podcastul „Povești Nespuse cu Adela” Într-o lume adesea&#8230; Articolul Oameni, destine, emoție: Adela Hanafi, a lansat podcastul „Povești Nespuse cu Adela” apare prima dată în Biz Woman ."
+    },
+    {
+      "title": "Gala „Women in Economy” ajunge la Paris",
+      "link": "https://bizwoman.ro/gala-women-in-economy-ajunge-la-paris/",
+      "date": "Tue, 02 Dec 2025 09:22:12 +0000",
+      "summary": "Gala &#8222;Women in Economy&#8221; ajunge la Paris &#8226; 1 decembrie 2025, H&#244;tel de Ville &#8211;&#8230; Articolul Gala „Women in Economy” ajunge la Paris apare prima dată în Biz Woman ."
+    },
+    {
+      "title": "2025: cum scrii articole SEO care să atragă backlinkuri natural",
+      "link": "https://bizwoman.ro/2025-cum-scrii-articole-seo-care-sa-atraga-backlinkuri-natural/",
+      "date": "Mon, 01 Dec 2025 12:07:49 +0000",
+      "summary": "Introducere: Revoluția SEO și Atractivitatea Digitală Atenție (Attention): Vă confruntați cu provocarea de a câștiga&#8230; Articolul 2025: cum scrii articole SEO care să atragă backlinkuri natural apare prima dată în Biz Woman ."
+    },
+    {
+      "title": "Ilustrand Iubirea in Fotografia de Nunta",
+      "link": "https://bizwoman.ro/ilustrand-iubirea-in-fotografia-de-nunta/",
+      "date": "Fri, 28 Nov 2025 08:38:08 +0000",
+      "summary": "Fotografia reprezintă arta de a imortaliza momente, emoții și povești într-o singură imagine. Un fotograf&#8230; Articolul Ilustrand Iubirea in Fotografia de Nunta apare prima dată în Biz Woman ."
+    },
+    {
+      "title": "Cum să Alegi Sacoul Perfect pentru Diferite Ocazii?",
+      "link": "https://bizwoman.ro/cum-sa-alegi-sacoul-perfect-pentru-diferite-ocazii/",
+      "date": "Fri, 28 Nov 2025 08:34:13 +0000",
+      "summary": "Descoperă sfaturi esențiale pentru a alege sacoul potrivit în funcție de eveniment, de la formal&#8230; Articolul Cum să Alegi Sacoul Perfect pentru Diferite Ocazii? apare prima dată în Biz Woman ."
+    },
+    {
+      "title": "ROMANIAN ENERGY WEEK 2025",
+      "link": "https://bizwoman.ro/romanian-energy-week-2025/",
+      "date": "Tue, 18 Nov 2025 07:22:57 +0000",
+      "summary": "ROMANIAN ENERGY WEEK 2025: 5 zile de dezbateri, 5 teme vitale pentru energie Palatul Parlamentului&#8230; Articolul ROMANIAN ENERGY WEEK 2025 apare prima dată în Biz Woman ."
+    },
+    {
+      "title": "Merită să luăm vitamina D în timpul iernii?",
+      "link": "https://bizwoman.ro/merita-sa-luam-vitamina-d-in-timpul-iernii/",
+      "date": "Sun, 16 Nov 2025 16:52:54 +0000",
+      "summary": "Deficiența de vitamina D este frecventă în sezonul rece, în special în regiunile în care&#8230; Articolul Merită să luăm vitamina D în timpul iernii? apare prima dată în Biz Woman ."
+    },
+    {
+      "title": "Biletul zilei cu cote mici: siguranță aparentă sau capcană clasică?",
+      "link": "https://bizwoman.ro/biletul-zilei-cu-cote-mici-siguranta-aparenta-sau-capcana-clasica/",
+      "date": "Sat, 15 Nov 2025 10:03:28 +0000",
+      "summary": "A (Atenție): V-ați întrebat vreodată de ce majoritatea pariorilor aleg obsesiv acele meciuri cu șanse&#8230; Articolul Biletul zilei cu cote mici: siguranță aparentă sau capcană clasică? apare prima dată în Biz Woman ."
+    }
+  ],
   "mastodon_posts": [
     {
       "title": "",

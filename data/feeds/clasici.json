@@ -4,8 +4,81 @@
   "site_feed": "https://clasici.ro/feed/",
   "mastodon": "https://social.5th.ro/@clasici",
   "mastodon_rss": "https://social.5th.ro/@clasici.rss",
-  "updated_at": "2025-12-20T16:39:53Z",
-  "site_posts": [],
+  "updated_at": "2025-12-20T17:30:33Z",
+  "site_posts": [
+    {
+      "title": "Mastodon WordPress: cum postezi pe mai multe instanțe (când ai nevoie)",
+      "link": "https://clasici.ro/mastodon-wordpress-cum-postezi-pe-mai-multe-instante-cand-ai-nevoie/",
+      "date": "Wed, 17 Dec 2025 16:58:54 +0000",
+      "summary": "De Ce Conținutul Tău WordPress Merită Mai Mult: Extinderea Pe Mastodon V-ați săturat de algoritmii..."
+    },
+    {
+      "title": "Diagnosticarea problemelor la sistemul 4×4 și unitatea Haldex",
+      "link": "https://clasici.ro/diagnosticarea-problemelor-la-sistemul-4x4-si-unitatea-haldex/",
+      "date": "Tue, 16 Dec 2025 08:45:42 +0000",
+      "summary": "Sistemele de tracțiune integrală care echipează modelele Range Rover moderne, în special cele compacte precum..."
+    },
+    {
+      "title": "Top 7 cele mai îndrăgite puzzle-uri de către copii (și părinți)",
+      "link": "https://clasici.ro/top-7-cele-mai-indragite-puzzle-uri-de-catre-copii-si-parinti/",
+      "date": "Wed, 03 Dec 2025 10:36:24 +0000",
+      "summary": "Ce facem c&#226;nd vrem să alegem un puzzle care să st&#226;rnească entuziasmul instant al copilului?..."
+    },
+    {
+      "title": "2025: cum colaborezi cu o agenție pentru articole SEO fără frustrări",
+      "link": "https://clasici.ro/2025-cum-colaborezi-cu-o-agentie-pentru-articole-seo-fara-frustrari/",
+      "date": "Mon, 01 Dec 2025 12:07:49 +0000",
+      "summary": "Epuizați de articole care nu reușesc să ajungă pe prima pagină în motoarele de căutare?..."
+    },
+    {
+      "title": "Cum combini pasiunea pentru poker și pariuri sportive fără să-ți distrugi banca",
+      "link": "https://clasici.ro/cum-combini-pasiunea-pentru-poker-si-pariuri-sportive-fara-sa-ti-distrugi-banca/",
+      "date": "Sat, 15 Nov 2025 10:03:28 +0000",
+      "summary": "Mulți pasionați de jocuri de strategie și adrenalină se regăsesc la intersecția dintre două lumi..."
+    },
+    {
+      "title": "Serile de poker cu prietenii: reguli simple pentru un joc corect și amuzant",
+      "link": "https://clasici.ro/serile-de-poker-cu-prietenii-reguli-simple-pentru-un-joc-corect-si-amuzant/",
+      "date": "Fri, 14 Nov 2025 09:07:58 +0000",
+      "summary": "Te-ai săturat de aceleași întâlniri plictisitoare cu prietenii? Vrei să aduci un element de competiție,..."
+    },
+    {
+      "title": "SEO pentru website-uri mari: cum gestionezi mii de pagini fără haos",
+      "link": "https://clasici.ro/seo-pentru-website-uri-mari-cum-gestionezi-mii-de-pagini-fara-haos/",
+      "date": "Fri, 14 Nov 2025 07:32:14 +0000",
+      "summary": "Vă confruntați cu provocarea gestionării unui website cu mii sau chiar zeci de mii de..."
+    },
+    {
+      "title": "Cum să îți vopsești corect șuvițele și să obții un look spectaculos",
+      "link": "https://clasici.ro/cum-sa-iti-vopsesti-corect-suvitele-si-sa-obtii-un-look-spectaculos/",
+      "date": "Wed, 08 Oct 2025 07:56:35 +0000",
+      "summary": "Schimbarea culorii părului rămâne una dintre cele mai accesibile și creative modalități de a-ți exprima..."
+    },
+    {
+      "title": "Excursii Jurilovca în Delta Dunării – poarta spre Gura Portiței",
+      "link": "https://clasici.ro/excursii-jurilovca-in-delta-dunarii-poarta-spre-gura-portitei/",
+      "date": "Wed, 03 Sep 2025 23:58:29 +0000",
+      "summary": "Visiți Delta Dunării? Atunci pregătiți-vă pentru o aventură de neuitat! Imagine: soarele răsare peste apele..."
+    },
+    {
+      "title": "Cazare Jurilovca în Delta Dunării – poarta către Gura Portiței",
+      "link": "https://clasici.ro/cazare-jurilovca-in-delta-dunarii-poarta-catre-gura-portitei/",
+      "date": "Wed, 03 Sep 2025 23:16:01 +0000",
+      "summary": "Vrei să descoperi frumusețea Deltei Dunării? Îți dorești o vacanță relaxantă, departe de agitația orașului?..."
+    },
+    {
+      "title": "Îmbrăcăminte pentru copii care rezistă: ce înseamnă calitate",
+      "link": "https://clasici.ro/imbracaminte-pentru-copii-care-rezista-ce-inseamna-calitate/",
+      "date": "Wed, 03 Sep 2025 22:11:53 +0000",
+      "summary": "Obosit de hainele de copii care se rup după o singură purtare? Vrei să găsești..."
+    },
+    {
+      "title": "Ce trebuie să știi înainte să cumperi o mașină second-hand: evită capcanele și protejează-te",
+      "link": "https://clasici.ro/ce-trebuie-sa-stii-inainte-sa-cumperi-o-masina-second-hand-evita-capcanele-si-protejeaza-te/",
+      "date": "Sun, 31 Aug 2025 13:22:17 +0000",
+      "summary": "Ce trebuie să știi înainte să cumperi o mașină second-hand: evită capcanele și protejează-te Piața..."
+    }
+  ],
   "mastodon_posts": [
     {
       "title": "",

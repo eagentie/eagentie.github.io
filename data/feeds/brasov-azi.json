@@ -4,8 +4,81 @@
   "site_feed": "https://brasov-azi.ro/feed/",
   "mastodon": "https://social.5th.ro/@brasov",
   "mastodon_rss": "https://social.5th.ro/@brasov.rss",
-  "updated_at": "2025-12-20T16:38:59Z",
-  "site_posts": [],
+  "updated_at": "2025-12-20T17:30:12Z",
+  "site_posts": [
+    {
+      "title": "Mastodon WordPress: cum adaugi hashtaguri automat din tagurile WP",
+      "link": "https://brasov-azi.ro/mastodon-wordpress-cum-adaugi-hashtaguri-automat-din-tagurile-wp/",
+      "date": "Wed, 17 Dec 2025 16:58:54 +0000",
+      "summary": "Vă simțiți copleșiți de necesitatea de a menține prezența pe mai multe rețele sociale? Publicați conținut excelent pe WordPress, dar ajungeți să faceți muncă dublă când vine vorba de promovarea pe Fediverse? Dacă sunteți un creator de conținut care utilizează... Articolul Mastodon WordPress: cum adaugi hashtaguri automat din tagurile WP apare prima dată în Brasov AZI ."
+    },
+    {
+      "title": "Plan editorial de articole SEO pentru tot anul 2025",
+      "link": "https://brasov-azi.ro/plan-editorial-de-articole-seo-pentru-tot-anul-2025/",
+      "date": "Mon, 01 Dec 2025 12:07:49 +0000",
+      "summary": "Introducere: De la Haos la Coerență în Strategia de Conținut (Atenție) Vă confruntați des cu dilema &#8222;Ce publicăm săptămâna aceasta&#8221;? Sunteți epuizați de procesul de a găsi idei noi în ultimul moment? Inconsistența în publicare este inamicul oricărei strategii SEO... Articolul Plan editorial de articole SEO pentru tot anul 2025 apare prima dată în Brasov AZI ."
+    },
+    {
+      "title": "Cum îți stabilești miza pentru fiecare bilet în funcție de bancă",
+      "link": "https://brasov-azi.ro/cum-iti-stabilesti-miza-pentru-fiecare-bilet-in-functie-de-banca/",
+      "date": "Sat, 15 Nov 2025 10:03:28 +0000",
+      "summary": "Ați simțit vreodată fiorul de a câștiga un pariu mare, urmat rapid de frustrarea de a pierde totul din cauza lipsei de disciplină? Majoritatea pariorilor de ocazie eșuează nu pentru că nu știu să aleagă meciuri, ci pentru că ignoră... Articolul Cum îți stabilești miza pentru fiecare bilet în funcție de bancă apare prima dată în Brasov AZI ."
+    },
+    {
+      "title": "Diferența între joc de noroc recreativ și comportament riscant",
+      "link": "https://brasov-azi.ro/diferenta-intre-joc-de-noroc-recreativ-si-comportament-riscant/",
+      "date": "Fri, 14 Nov 2025 09:07:58 +0000",
+      "summary": "Atenție: V-ați întrebat vreodată unde se termină distracția și unde începe problema? Milioane de oameni participă la jocuri de noroc ocazional, considerându-le o formă inofensivă de divertisment. Însă, linia dintre un simplu joc recreativ și un pericol real este surprinzător... Articolul Diferența între joc de noroc recreativ și comportament riscant apare prima dată în Brasov AZI ."
+    },
+    {
+      "title": "SEO pentru Google News: ce au în comun site-urile care apar în Top Stories",
+      "link": "https://brasov-azi.ro/seo-pentru-google-news-ce-au-in-comun-site-urile-care-apar-in-top-stories/",
+      "date": "Fri, 14 Nov 2025 07:32:14 +0000",
+      "summary": "Ați publicat o știre de ultimă oră, dar aceasta pare să se piardă în vastul ocean al internetului? V-ați întrebat vreodată de ce anumite site-uri domină constant secțiunea de Top Stories din rezultatele Google? Această vizibilitate instantanee nu este întâmplătoare.... Articolul SEO pentru Google News: ce au în comun site-urile care apar în Top Stories apare prima dată în Brasov AZI ."
+    },
+    {
+      "title": "Răzvan Oprea, actor și regizor",
+      "link": "https://brasov-azi.ro/razvan-oprea-actor-si-regizor/",
+      "date": "Wed, 24 Sep 2025 04:58:20 +0000",
+      "summary": "De la quantum training la scenă: Răzvan Oprea, actor și regizor, despre &#8222;Sacrificiul&#8221; și arta transformării Răzvan Oprea, actor, regizor și formator, lansează un atelier gratuit, de creație colectivă, dedicat celor care vor să exploreze profunzimea artei teatrale și să... Articolul Răzvan Oprea, actor și regizor apare prima dată în Brasov AZI ."
+    },
+    {
+      "title": "Frica de condus: de unde vine și cum o depășești?",
+      "link": "https://brasov-azi.ro/frica-de-condus-de-unde-vine-si-cum-o-depasesti/",
+      "date": "Thu, 18 Sep 2025 06:51:03 +0000",
+      "summary": "Sunt oameni care termină școala de șoferi și urcă la volan fără să clipească. La polul opus, există persoane care, deși au permisul &#238;n buzunar, evită să conducă luni sau chiar ani. C&#226;nd se urcă &#238;n mașină, le transpiră palmele,... Articolul Frica de condus: de unde vine și cum o depășești? apare prima dată în Brasov AZI ."
+    },
+    {
+      "title": "Muzeul „Prima Școală Românească” din Brașov – program 2025, bilete, istorie, acces",
+      "link": "https://brasov-azi.ro/muzeul-prima-scoala-romaneasca-brasov/",
+      "date": "Mon, 15 Sep 2025 11:14:34 +0000",
+      "summary": "Muzeul „Prima Școală Românească” se află în inima cartierului istoric Șchei, în curtea Bisericii Sf. Nicolae, și adăpostește tiparnița Diaconului Coresi, colecții impresionante de carte veche și săli tematice unice. Mai jos găsești tot ce ai nevoie în 2025: adresă,... Articolul Muzeul „Prima Școală Românească” din Brașov – program 2025, bilete, istorie, acces apare prima dată în Brasov AZI ."
+    },
+    {
+      "title": "Cetățuia de pe Strajă (Brașov): fortificația de pe Dealul Cetății — istorie, acces, program 2025, bilete, activități",
+      "link": "https://brasov-azi.ro/cetatuia-de-pe-straja-brasov/",
+      "date": "Sun, 14 Sep 2025 10:29:43 +0000",
+      "summary": "Cetățuia de pe Strajă (numită și Fortăreața de pe Dealul Cetății) domină Brașovul de pe colina din nordul centrului vechi. Ridicată, refăcută și extinsă între secolele XV–XVIII, cetatea a păzit orașul, a servit drept garnizoană, depozit, închisoare și astăzi găzduiește... Articolul Cetățuia de pe Strajă (Brașov): fortificația de pe Dealul Cetății — istorie, acces, program 2025, bilete, activități apare prima dată în Brasov AZI ."
+    },
+    {
+      "title": "Strada Sforii – Brașov: ghid complet 2025 (istorie, acces, cum ajungi, ce vezi)",
+      "link": "https://brasov-azi.ro/strada-sforii-brasov/",
+      "date": "Sat, 13 Sep 2025 10:03:24 +0000",
+      "summary": "Strada Sforii este „ulița” celebră din centrul vechi al Brașovului, cu o lățime de numai 111–135 cm și aproximativ 80 m lungime. Apărută ca pasaj de intervenție pentru pompieri în secolul al XVII-lea, astăzi este un reper fotogenic și una... Articolul Strada Sforii – Brașov: ghid complet 2025 (istorie, acces, cum ajungi, ce vezi) apare prima dată în Brasov AZI ."
+    },
+    {
+      "title": "Poarta Șchei – Brașov: istorie completă, acces 2025, cum ajungi, ce vezi",
+      "link": "https://brasov-azi.ro/poarta-schei-brasov/",
+      "date": "Fri, 12 Sep 2025 09:56:27 +0000",
+      "summary": "Poarta Șchei este arcul clasicist cu trei deschideri care marchează trecerea dintre Șcheii Brașovului și cetatea săsească. Ridicată în anii 1827–1828, lângă Poarta Ecaterinei, poarta rămâne una dintre cele mai fotografiate intrări istorice ale Brașovului. Cuprins Informații esențiale (adresă, acces,... Articolul Poarta Șchei – Brașov: istorie completă, acces 2025, cum ajungi, ce vezi apare prima dată în Brasov AZI ."
+    },
+    {
+      "title": "Poarta Ecaterinei – Brașov: istorie completă, acces 2025, cum ajungi, ce vezi",
+      "link": "https://brasov-azi.ro/poarta-ecaterinei-brasov/",
+      "date": "Fri, 12 Sep 2025 09:46:27 +0000",
+      "summary": "Poarta Ecaterinei (Catherine’s Gate) este cea mai pitorească intrare medievală păstrată în Brașov – o poartă renascentistă cu patru turnulețe, ridicată la mijlocul secolului al XVI-lea, lângă actuala Poarta Șchei. Azi, treci pe sub ea spre cartierul istoric Șcheii Brașovului,... Articolul Poarta Ecaterinei – Brașov: istorie completă, acces 2025, cum ajungi, ce vezi apare prima dată în Brasov AZI ."
+    }
+  ],
   "mastodon_posts": [
     {
       "title": "",
