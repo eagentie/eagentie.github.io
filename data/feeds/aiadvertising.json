@@ -4,13 +4,19 @@
   "site_feed": "https://aiadvertising.ro/feed/",
   "mastodon": "https://social.5th.ro/@ai_advertising",
   "mastodon_rss": "https://social.5th.ro/@ai_advertising.rss",
-  "updated_at": "2025-12-23T07:34:35Z",
+  "updated_at": "2025-12-23T08:45:18Z",
   "site_posts": [
     {
       "title": "Ghid: cum creezi aplicație și token pentru Mastodon, pentru WordPress",
       "link": "https://aiadvertising.ro/ghid-cum-creezi-aplicatie-si-token-pentru-mastodon-pentru-wordpress/",
       "date": "Wed, 17 Dec 2025 16:58:54 +0000",
       "summary": "Ați simțit vreodată că postările dvs. pe rețelele sociale sunt ascunse de algoritmi opaci? Lumea... Articolul Ghid: cum creezi aplicație și token pentru Mastodon, pentru WordPress apare prima dată în Ai advertising ."
+    },
+    {
+      "title": "Ce este bismutul și de ce atrage atât de mult?",
+      "link": "https://aiadvertising.ro/ce-este-bismutul-si-de-ce-atrage-atat-de-mult/",
+      "date": "Fri, 12 Dec 2025 00:04:00 +0000",
+      "summary": "Bismut, metalul uimitor care creează opere de artă! Ce este și ce poți face cu... Articolul Ce este bismutul și de ce atrage atât de mult? apare prima dată în Ai advertising ."
     },
     {
       "title": "2025: articole SEO pentru magazine online și fișe de produs mai bune",
@@ -59,15 +65,15 @@
       "link": "https://aiadvertising.ro/topul-celor-mai-bune-comode-tv-pentru-living/",
       "date": "Thu, 18 Sep 2025 05:48:22 +0000",
       "summary": "Comoda TV înseamnă ceva mai mult decât doar locul pentru televizor. Această piesă de mobilier... Articolul Topul celor mai bune comode TV pentru living apare prima dată în Ai advertising ."
-    },
-    {
-      "title": "Excursii Băltenii de Sus în Delta Dunării – ieșiri scurte pentru weekend",
-      "link": "https://aiadvertising.ro/excursii-baltenii-de-sus-in-delta-dunarii-iesiri-scurte-pentru-weekend/",
-      "date": "Wed, 03 Sep 2025 23:58:35 +0000",
-      "summary": "Visiți Delta Dunării? Vreți o escapadă relaxantă, dar plină de aventură? Imaginați-vă navigând pe apele... Articolul Excursii Băltenii de Sus în Delta Dunării – ieșiri scurte pentru weekend apare prima dată în Ai advertising ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@ai_advertising/115767784299621143",
+      "date": "Tue, 23 Dec 2025 07:50:00 +0000",
+      "content": "Bismut, metalul uimitor care creează opere de artă! Ce este și ce poți face cu el? Metalele rare au mereu ceva aparte, iar bismutul face parte din acea categorie mică de materiale care nu doar fascinează prin aspect, ci atrag atenția imediat ce le vezi. De la modul în care cristalizează până la jocul de… https:// aiadvertising.ro/ce-este-bismu tul-si-de-ce-atrage-atat-de-mult/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@ai_advertising/115736609937188631",
