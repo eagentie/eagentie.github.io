@@ -4,7 +4,7 @@
   "site_feed": "https://EraTehnologica.ro/feed/",
   "mastodon": "https://social.5th.ro/@eratehnologica",
   "mastodon_rss": "https://social.5th.ro/@eratehnologica.rss",
-  "updated_at": "2025-12-28T15:32:42Z",
+  "updated_at": "2025-12-28T16:40:31Z",
   "site_posts": [
     {
       "title": "Cum îți personalizezi profilul Mastodon ca să pară profesionist",
@@ -80,6 +80,12 @@
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@eratehnologica/115798177053954627",
+      "date": "Sun, 28 Dec 2025 16:39:17 +0000",
+      "content": "/tmp/tmp5quj7dgg.html .... https:// eratehnologica.ro/sarcina-si-b olile-de-inima/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@eratehnologica/115797209272700704",
