@@ -4,8 +4,14 @@
   "site_feed": "https://top15.ro/feed/",
   "mastodon": "https://social.5th.ro/@top",
   "mastodon_rss": "https://social.5th.ro/@top.rss",
-  "updated_at": "2026-01-05T13:10:29Z",
+  "updated_at": "2026-01-05T13:52:41Z",
   "site_posts": [
+    {
+      "title": "Cm sa beneficiezi de un abonament de cafea la birou?",
+      "link": "https://top15.ro/cm-sa-beneficiezi-de-un-abonament-de-cafea-la-birou/",
+      "date": "Thu, 01 Jan 2026 17:45:00 +0000",
+      "summary": "Alege un abonament cafea personalizat in functie de consum, cu un espressor in comodat! Articolul Cm sa beneficiezi de un abonament de cafea la birou? apare prima dată în TOP 15 ."
+    },
     {
       "title": "Ce poate transmite un dispozitiv de monitorizare flote auto",
       "link": "https://top15.ro/ce-poate-transmite-un-dispozitiv-de-monitorizare-flote-auto/",
@@ -71,15 +77,15 @@
       "link": "https://top15.ro/trepte-din-lemn-masiv-tipuri-esente-si-recomandari-pentru-durabilitate/",
       "date": "Wed, 10 Dec 2025 07:36:28 +0000",
       "summary": "Ai văzut vreodată trepte din lemn masiv care par să sfideze timpul, păstrându-și căldura și... Articolul Trepte din lemn masiv: tipuri, esențe și recomandări pentru durabilitate apare prima dată în TOP 15 ."
-    },
-    {
-      "title": "Cum alegi corect elementele și serviciile potrivite pentru casă și mașină",
-      "link": "https://top15.ro/1-cum-alegi-corect-usile-de-interior-pentru-locuinta/",
-      "date": "Wed, 10 Dec 2025 05:33:00 +0000",
-      "summary": "Amenajarea unei locuințe implică numeroase decizii, dar unele dintre ele au un impact mult mai... Articolul Cum alegi corect elementele și serviciile potrivite pentru casă și mașină apare prima dată în TOP 15 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@top/115842747828400764",
+      "date": "Mon, 05 Jan 2026 13:34:13 +0000",
+      "content": "📰Alege un abonament cafea personalizat in functie de consum, cu un espressor in comodat! 📰 https:// top15.ro/cm-sa-beneficiezi-de- un-abonament-de-cafea-la-birou/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@top/115808949239101040",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@top/115694121186861000",
       "date": "Wed, 10 Dec 2025 07:36:30 +0000",
       "content": "📰Ai văzut vreodată trepte din lemn masiv care par să sfideze timpul, păstrându-și căldura și aspectul după ani de zile? Nu e magie, ci alegerea corectă a esenței, tipului și îngrijirii. Ca să îți fie mai ușor, am structurat totul în pași simpli, astfel încât să știi ce să cauți la scara ta interioară. Ce… 📰 https:// top15.ro/trepte-din-lemn-masiv -tipuri-esente-si-recomandari-pentru-durabilitate/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@top/115693637371010661",
-      "date": "Wed, 10 Dec 2025 05:33:28 +0000",
-      "content": "📰Cum alegi corect elementele și serviciile potrivite pentru casă și mașinăAmenajarea unei locuințe implică numeroase decizii, dar unele dintre ele au un impact mult mai mare decât altele asupra confortului zilnic. Printre acestea se numără alegerea ușilor de interior și a roletelor pentru ferestre, două elemente esențiale care definesc atmosfera unei case, influențează estetica generală… 📰 https:// top15.ro/1-cum-alegi-corect-us ile-de-interior-pentru-locuinta/"
     }
   ]
 }
