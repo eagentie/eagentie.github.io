@@ -4,8 +4,14 @@
   "site_feed": "https://clasici.ro/feed/",
   "mastodon": "https://social.5th.ro/@clasici",
   "mastodon_rss": "https://social.5th.ro/@clasici.rss",
-  "updated_at": "2026-01-06T09:40:55Z",
+  "updated_at": "2026-01-06T10:42:38Z",
   "site_posts": [
+    {
+      "title": "Să îți cumperi patul pentru dormitor, o alegere mai dificilă decât crezi",
+      "link": "https://clasici.ro/sa-iti-cumperi-patul-pentru-dormitor-o-alegere-mai-dificila-decat-crezi/",
+      "date": "Thu, 25 Dec 2025 10:30:00 +0000",
+      "summary": "Vrei să-ți (re)amenajezi dormitorul matrimonial? Sună excelent, mai ales că &#238;n mintea ta sunt deja..."
+    },
     {
       "title": "Mastodon WordPress: cum postezi pe mai multe instanțe (când ai nevoie)",
       "link": "https://clasici.ro/mastodon-wordpress-cum-postezi-pe-mai-multe-instante-cand-ai-nevoie/",
@@ -71,15 +77,15 @@
       "link": "https://clasici.ro/imbracaminte-pentru-copii-care-rezista-ce-inseamna-calitate/",
       "date": "Wed, 03 Sep 2025 22:11:53 +0000",
       "summary": "Obosit de hainele de copii care se rup după o singură purtare? Vrei să găsești..."
-    },
-    {
-      "title": "Ce trebuie să știi înainte să cumperi o mașină second-hand: evită capcanele și protejează-te",
-      "link": "https://clasici.ro/ce-trebuie-sa-stii-inainte-sa-cumperi-o-masina-second-hand-evita-capcanele-si-protejeaza-te/",
-      "date": "Sun, 31 Aug 2025 13:22:17 +0000",
-      "summary": "Ce trebuie să știi înainte să cumperi o mașină second-hand: evită capcanele și protejează-te Piața..."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@clasici/115847694804327683",
+      "date": "Tue, 06 Jan 2026 10:32:18 +0000",
+      "content": "⭐Vrei să-ți (re)amenajezi dormitorul matrimonial? Sună excelent, mai ales că în mintea ta sunt deja conturate unele care abia așteaptă să fie puse în practică. De altfel, ca să fii sigur, internetul și revistele de specialitate sunt cele care să zicem că te-au influențat puțin. Ne facem și noi datoria și îți venim în întâmpinare… ⭐ https:// clasici.ro/sa-iti-cumperi-patu l-pentru-dormitor-o-alegere-mai-dificila-decat-crezi/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@clasici/115736631274406908",
