@@ -4,8 +4,14 @@
   "site_feed": "https://iEnergie.ro/feed/",
   "mastodon": "https://social.5th.ro/@ienergie",
   "mastodon_rss": "https://social.5th.ro/@ienergie.rss",
-  "updated_at": "2026-01-08T13:09:45Z",
+  "updated_at": "2026-01-08T13:53:21Z",
   "site_posts": [
+    {
+      "title": "46 speakeri internaționali  și peste 180 participanți s-au reunit la ICH2P și IEEES 2025",
+      "link": "https://ienergie.ro/46-speakeri-internationali-si-peste-180-participanti-s-au-reunit-la-ich2p-si-ieees-2025/",
+      "date": "Thu, 08 Jan 2026 11:24:34 +0000",
+      "summary": "46 speakeri internaționali și peste 180 participanți s-au reunit la ICH2P și IEEES 2025, evenimente organizate de lCMET Craiova și Universitate din Craiova Conferință Internațională [Mai mult...] Articolul 46 speakeri internaționali și peste 180 participanți s-au reunit la ICH2P și IEEES 2025 apare prima dată în iEnergie ."
+    },
     {
       "title": "Cont personal vs cont business pe Mastodon: ce alegi",
       "link": "https://ienergie.ro/cont-personal-vs-cont-business-pe-mastodon-ce-alegi/",
@@ -71,15 +77,15 @@
       "link": "https://ienergie.ro/conaf-lanseaza-seria-nationala-supratax-set-de-masuri-care-pot-reduce-deficitul-bugetar/",
       "date": "Thu, 30 Oct 2025 07:25:31 +0000",
       "summary": "Brăila, 29 octombrie 2025 &#8211; Peste 200 de antreprenori din toate sectoarele economiei rom&#226;nești au participat la prima ediție a conferinței naționale &#8222;SupraTAX&#8221;, organizată de [Mai mult...] Articolul CONAF lansează seria națională „SupraTAX” Set de măsuri care pot reduce deficitul bugetar apare prima dată în iEnergie ."
-    },
-    {
-      "title": "Electrocasnice eficiente în case Eco-Friendly: Piese și accesorii pentru a reduce consumul",
-      "link": "https://ienergie.ro/electrocasnice-eficiente-in-case-eco-friendly-piese-si-accesorii-pentru-a-reduce-consumul/",
-      "date": "Mon, 29 Sep 2025 08:25:41 +0000",
-      "summary": "Un sistem fotovoltaic produce energie curată, dar într-o cantitate variabilă, în funcție de vreme, sezon și capacitatea panourilor instalate. Într-o zi însorită de vară, producția [Mai mult...] Articolul Electrocasnice eficiente în case Eco-Friendly: Piese și accesorii pentru a reduce consumul apare prima dată în iEnergie ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@ienergie/115859711430604482",
+      "date": "Thu, 08 Jan 2026 13:28:17 +0000",
+      "content": "46 speakeri internaționali și peste 180 participanți s-au reunit la ICH2P și IEEES 2025, evenimente organizate de lCMET Craiova și Universitate din Craiova Conferință Internațională privind Producția de Hidrogen – ICH2P 2025 și Simpozionul Internațional de Exergie, Energie și Mediu – IEEES 2025 organizate de lCMET Craiova și Universitate din Craiova au reunit în acest… https:// ienergie.ro/46-speakeri-intern ationali-si-peste-180-participanti-s-au-reunit-la-ich2p-si-ieees-2025/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@ienergie/115736754243158203",
