@@ -4,8 +4,14 @@
   "site_feed": "https://doctorite.ro/feed/",
   "mastodon": "https://social.5th.ro/@DoctoriteBlog",
   "mastodon_rss": "https://social.5th.ro/@DoctoriteBlog.rss",
-  "updated_at": "2026-01-08T11:33:42Z",
+  "updated_at": "2026-01-08T13:09:34Z",
   "site_posts": [
+    {
+      "title": "Susținerea imunității în sezonul rece: ce trebuie să știi",
+      "link": "https://doctorite.ro/sustinerea-imunitatii-in-sezonul-rece-ce-trebuie-sa-stii/",
+      "date": "Thu, 08 Jan 2026 12:36:00 +0000",
+      "summary": "Sezonul rece vine adesea la pachet cu schimbări de temperatură, mai puține ore de lumină... Articolul Susținerea imunității în sezonul rece: ce trebuie să știi apare prima dată în Doctorite ."
+    },
     {
       "title": "Etapele tratamentului cu aparat dentar invizibil.",
       "link": "https://doctorite.ro/etapele-tratamentului-cu-aparat-dentar-invizibil/",
@@ -59,15 +65,15 @@
       "link": "https://doctorite.ro/halate-medicale-vs-uniforme-medicale-ce-alegi-pentru-activitatea-ta/",
       "date": "Sun, 30 Nov 2025 14:43:53 +0000",
       "summary": "În lumea medicală modernă, echipamentul de lucru este o componentă esențială a siguranței, confortului și... Articolul Halate medicale vs. uniforme medicale – ce alegi pentru activitatea ta? apare prima dată în Doctorite ."
-    },
-    {
-      "title": "Idei și beneficii ale cremei de gălbenele",
-      "link": "https://doctorite.ro/idei-si-beneficii-ale-cremei-de-galbenele/",
-      "date": "Wed, 19 Nov 2025 08:01:36 +0000",
-      "summary": "Crema de gălbenele este unul dintre cele mai populare remedii naturale folosite în medicina tradițională... Articolul Idei și beneficii ale cremei de gălbenele apare prima dată în Doctorite ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@DoctoriteBlog/115859506162962309",
+      "date": "Thu, 08 Jan 2026 12:36:05 +0000",
+      "content": "Sezonul rece vine adesea la pachet cu schimbări de temperatură, mai puține ore de lumină naturală și un stil de viață mai sedentar. Toți acești factori pot influența capacitatea organismului de a se adapta și de a face față provocărilor zilnice. De aceea, susținerea imunității devine o prioritate în lunile de toamnă și iarnă, când… https:// doctorite.ro/sustinerea-imunit atii-in-sezonul-rece-ce-trebuie-sa-stii/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@DoctoriteBlog/115767677676503542",
