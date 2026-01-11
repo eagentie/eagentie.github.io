@@ -4,7 +4,123 @@
   "site_feed": "https://doctorite.ro/feed/",
   "mastodon": "https://social.5th.ro/@DoctoriteBlog",
   "mastodon_rss": "https://social.5th.ro/@DoctoriteBlog.rss",
-  "updated_at": "2026-01-11T11:40:07Z",
-  "site_posts": [],
-  "mastodon_posts": []
+  "updated_at": "2026-01-11T13:02:23Z",
+  "site_posts": [
+    {
+      "title": "Susținerea imunității în sezonul rece: ce trebuie să știi",
+      "link": "https://doctorite.ro/sustinerea-imunitatii-in-sezonul-rece-ce-trebuie-sa-stii/",
+      "date": "Thu, 08 Jan 2026 12:36:00 +0000",
+      "summary": "Sezonul rece vine adesea la pachet cu schimbări de temperatură, mai puține ore de lumină... Articolul Susținerea imunității în sezonul rece: ce trebuie să știi apare prima dată în Doctorite ."
+    },
+    {
+      "title": "Etapele tratamentului cu aparat dentar invizibil.",
+      "link": "https://doctorite.ro/etapele-tratamentului-cu-aparat-dentar-invizibil/",
+      "date": "Tue, 23 Dec 2025 05:21:34 +0000",
+      "summary": "Etapele tratamentului cu aparat dentar invizibil. Iată &#238;n ce constă procesul de la A la... Articolul Etapele tratamentului cu aparat dentar invizibil. apare prima dată în Doctorite ."
+    },
+    {
+      "title": "Hashtaguri pe Mastodon: cum te găsește lumea mai ușor",
+      "link": "https://doctorite.ro/hashtaguri-pe-mastodon-cum-te-gaseste-lumea-mai-usor/",
+      "date": "Wed, 17 Dec 2025 16:58:54 +0000",
+      "summary": "Introducere: De Ce Vizibilitatea Pe Mastodon Depinde De Tine? V-ați săturat de algoritmii care decid... Articolul Hashtaguri pe Mastodon: cum te găsește lumea mai ușor apare prima dată în Doctorite ."
+    },
+    {
+      "title": "Igiena și confortul pacientului imobilizat",
+      "link": "https://doctorite.ro/igiena-si-confortul-pacientului-imobilizat/",
+      "date": "Fri, 12 Dec 2025 10:13:10 +0000",
+      "summary": "Îngrijirea unui pacient imobilizat la pat, fie temporar din cauza unei recuperări post-operatorii, fie permanent... Articolul Igiena și confortul pacientului imobilizat apare prima dată în Doctorite ."
+    },
+    {
+      "title": "Băiat sau fetiță? Săptămâna exactă în care ecografia poate confirma sexul bebelușului",
+      "link": "https://doctorite.ro/baiat-sau-fetita-saptamana-exacta-in-care-ecografia-poate-confirma-sexul-bebelusului/",
+      "date": "Fri, 05 Dec 2025 16:45:47 +0000",
+      "summary": "Dintre toate surprizele pe care le rezervă viața, puține se compară cu momentul dezvăluirii sexului... Articolul Băiat sau fetiță? Săptămâna exactă în care ecografia poate confirma sexul bebelușului apare prima dată în Doctorite ."
+    },
+    {
+      "title": "De ce combinațiile sunt importante pentru magneziu",
+      "link": "https://doctorite.ro/de-ce-combinatiile-sunt-importante-pentru-magneziu/",
+      "date": "Thu, 04 Dec 2025 18:58:45 +0000",
+      "summary": "Magneziul este un mineral esențial implicat în sute de procese biochimice din organism, inclusiv funcționarea... Articolul De ce combinațiile sunt importante pentru magneziu apare prima dată în Doctorite ."
+    },
+    {
+      "title": "Sinergiile nutrienților: de ce combinațiile contează pentru Omega-3",
+      "link": "https://doctorite.ro/sinergiile-nutrientilor-de-ce-combinatiile-conteaza-pentru-omega-3/",
+      "date": "Thu, 04 Dec 2025 17:50:37 +0000",
+      "summary": "Acizii grași Omega-3 sunt esențiali pentru sănătatea cardiovasculară, funcția cerebrală și controlul inflamației. Totuși, eficiența... Articolul Sinergiile nutrienților: de ce combinațiile contează pentru Omega-3 apare prima dată în Doctorite ."
+    },
+    {
+      "title": "De ce rezultatele pentru dermatita seboreică apar și dispar „nu mai funcționează”",
+      "link": "https://doctorite.ro/de-ce-rezultatele-pentru-dermatita-seboreica-apar-si-dispar-nu-mai-functioneaza/",
+      "date": "Wed, 03 Dec 2025 12:17:22 +0000",
+      "summary": "Una dintre cele mai frustrante experiențe pentru cineva cu dermatită seboreică&#160;este aceeași poveste repetată: găsești... Articolul De ce rezultatele pentru dermatita seboreică apar și dispar „nu mai funcționează” apare prima dată în Doctorite ."
+    },
+    {
+      "title": "Cum scrii un titlu de advertorial atrăgător în 2025",
+      "link": "https://doctorite.ro/cum-scrii-un-titlu-de-advertorial-atragator-in-2025/",
+      "date": "Mon, 01 Dec 2025 12:07:49 +0000",
+      "summary": "Ați investit mii de lei în campanii de native advertising. Ați creat conținut impecabil, cu... Articolul Cum scrii un titlu de advertorial atrăgător în 2025 apare prima dată în Doctorite ."
+    },
+    {
+      "title": "Halate medicale vs. uniforme medicale – ce alegi pentru activitatea ta?",
+      "link": "https://doctorite.ro/halate-medicale-vs-uniforme-medicale-ce-alegi-pentru-activitatea-ta/",
+      "date": "Sun, 30 Nov 2025 14:43:53 +0000",
+      "summary": "În lumea medicală modernă, echipamentul de lucru este o componentă esențială a siguranței, confortului și... Articolul Halate medicale vs. uniforme medicale – ce alegi pentru activitatea ta? apare prima dată în Doctorite ."
+    }
+  ],
+  "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@DoctoriteBlog/115859506162962309",
+      "date": "Thu, 08 Jan 2026 12:36:05 +0000",
+      "content": "Sezonul rece vine adesea la pachet cu schimbări de temperatură, mai puține ore de lumină naturală și un stil de viață mai sedentar. Toți acești factori pot influența capacitatea organismului de a se adapta și de a face față provocărilor zilnice. De aceea, susținerea imunității devine o prioritate în lunile de toamnă și iarnă, când… https:// doctorite.ro/sustinerea-imunit atii-in-sezonul-rece-ce-trebuie-sa-stii/"
+    },
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@DoctoriteBlog/115767677676503542",
+      "date": "Tue, 23 Dec 2025 07:22:53 +0000",
+      "content": "Etapele tratamentului cu aparat dentar invizibil. Iată în ce constă procesul de la A la Z Tratamentul ortodontic a cunoscut o transformare majoră în ultimii ani, iar una dintre cele mai căutate soluții este, fără îndoială, aparatul invizibil, o alternativă modernă care răspunde atât nevoilor funcționale, cât și celor estetice. Tot mai mulți pacienți își… https:// doctorite.ro/etapele-tratament ului-cu-aparat-dentar-invizibil/"
+    },
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@DoctoriteBlog/115736523245175908",
+      "date": "Wed, 17 Dec 2025 19:19:55 +0000",
+      "content": "Introducere: De Ce Vizibilitatea Pe Mastodon Depinde De Tine? V-ați săturat de algoritmii care decid ce merită să vedeți și cine merită să vă vadă? În rețelele sociale tradiționale, vizibilitatea depinde de secretele unui cod complex. Această frustrare este comună. Când trecem la alternative, ne așteptăm la o schimbare de paradigmă. Aici intervine Mastodon. Fiind… https:// doctorite.ro/hashtaguri-pe-mas todon-cum-te-gaseste-lumea-mai-usor/"
+    },
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@DoctoriteBlog/115706061972767433",
+      "date": "Fri, 12 Dec 2025 10:13:12 +0000",
+      "content": "Îngrijirea unui pacient imobilizat la pat, fie temporar din cauza unei recuperări post-operatorii, fie permanent în contextul unor afecțiuni cronice, reprezintă o provocare complexă pentru familie și personalul de asistență. Dincolo de administrarea tratamentului medicamentos, calitatea vieții pacientului depinde fundamental de menținerea unei igiene riguroase și a unui nivel optim de confort fizic.Pielea, fiind cel… https:// doctorite.ro/igiena-si-confort ul-pacientului-imobilizat/"
+    },
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@DoctoriteBlog/115689903400419144",
+      "date": "Tue, 09 Dec 2025 13:43:52 +0000",
+      "content": "Dintre toate surprizele pe care le rezervă viața, puține se compară cu momentul dezvăluirii sexului copilului tău. Este clipa în care „bebe” devine „el” sau „ea”, momentul în care poți începe să vizualizezi viitorul cu mai multă claritate și, desigur, startul oficial al dezbaterilor în familie despre nume.Curiozitatea viitorilor părinți este adesea copleșitoare. Imediat ce… https:// doctorite.ro/baiat-sau-fetita- saptamana-exacta-in-care-ecografia-poate-confirma-sexul-bebelusului/"
+    },
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@DoctoriteBlog/115689903267024222",
+      "date": "Tue, 09 Dec 2025 13:43:50 +0000",
+      "content": "Magneziul este un mineral esențial implicat în sute de procese biochimice din organism, inclusiv funcționarea sistemului nervos, relaxarea musculară, producția de energie și menținerea unui ritm cardiac stabil. Totuși, absorbția și eficiența sa pot varia în funcție de dieta zilnică și de nutrienții cu care este asociat. Unele vitamine și minerale îi pot crește biodisponibilitatea,… https:// doctorite.ro/de-ce-combinatiil e-sunt-importante-pentru-magneziu/"
+    },
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@DoctoriteBlog/115689903136433278",
+      "date": "Tue, 09 Dec 2025 13:43:48 +0000",
+      "content": "Acizii grași Omega-3 sunt esențiali pentru sănătatea cardiovasculară, funcția cerebrală și controlul inflamației. Totuși, eficiența lor poate crește atunci când sunt combinați cu alți nutrienți care le susțin absorbția, stabilitatea și modul de acțiune. În alimentația modernă, unde raportul dintre grăsimile „bune” și cele „rele” este dezechilibrat, alegerea partenerilor potriviți pentru Omega-3 poate https:// doctorite.ro/sinergiile-nutrie ntilor-de-ce-combinatiile-conteaza-pentru-omega-3/"
+    },
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@DoctoriteBlog/115689902968703482",
+      "date": "Tue, 09 Dec 2025 13:43:46 +0000",
+      "content": "Una dintre cele mai frustrante experiențe pentru cineva cu dermatită seboreică este aceeași poveste repetată: găsești un tratament, vezi rezultate rapide, iar apoi, la câteva săptămâni, problema revine. Iar asta creează impresia că produsul „nu mai funcționează”. Dar, de fapt, dermatita nu este o problemă care se rezolvă definitiv, ci una care se gestionează în timp.… https:// doctorite.ro/de-ce-rezultatele -pentru-dermatita-seboreica-apar-si-dispar-nu-mai-functioneaza/"
+    },
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@DoctoriteBlog/115689880618553542",
+      "date": "Tue, 09 Dec 2025 13:38:05 +0000",
+      "content": "💉 Blog de sănătate și stil de viață explicat pe înțelesul tuturor: sfaturi medicale, prevenție, mituri demontate și recomandări pentru toată familia. # sanatate # doctorite # medicina # stildeviata 💊 https:// doctorite.ro"
+    }
+  ]
 }
