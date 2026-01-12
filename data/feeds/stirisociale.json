@@ -4,8 +4,14 @@
   "site_feed": "https://stirisociale.ro/feed/",
   "mastodon": "https://social.5th.ro/@stiri_sociale",
   "mastodon_rss": "https://social.5th.ro/@stiri_sociale.rss",
-  "updated_at": "2026-01-12T08:49:59Z",
+  "updated_at": "2026-01-12T09:47:41Z",
   "site_posts": [
+    {
+      "title": "Taberele de iarnă: curaj pe schiuri și magie în zăpadă",
+      "link": "https://stirisociale.ro/taberele-de-iarna-curaj-pe-schiuri-si-magie-in-zapada/",
+      "date": "Mon, 12 Jan 2026 07:27:28 +0000",
+      "summary": "Dincolo de sala de clasă: universul de aventură și învățare de la gradinita Mami și Tati Când alegi o grădiniță sau un after school, nu cauți doar un spațiu sigur,&#8230; Articolul Taberele de iarnă: curaj pe schiuri și magie în zăpadă apare prima dată în Stiri sociale ."
+    },
     {
       "title": "Ghid de etichetă pentru Mastodon România: ce funcționează",
       "link": "https://stirisociale.ro/ghid-de-eticheta-pentru-mastodon-romania-ce-functioneaza/",
@@ -59,15 +65,15 @@
       "link": "https://stirisociale.ro/de-la-quantum-training-la-scena-razvan-oprea/",
       "date": "Wed, 24 Sep 2025 04:56:18 +0000",
       "summary": "De la quantum training la scenă: Răzvan Oprea, actor și regizor, despre &#8222;Sacrificiul&#8221; și arta transformării Răzvan Oprea, actor, regizor și formator, lansează un atelier gratuit, de creație colectivă, dedicat&#8230; Articolul De la quantum training la scenă: Răzvan Oprea apare prima dată în Stiri sociale ."
-    },
-    {
-      "title": "Excursii cu barca Băltenii de Sus – canale liniștite aproape de casă",
-      "link": "https://stirisociale.ro/excursii-cu-barca-baltenii-de-sus-canale-linistite-aproape-de-casa/",
-      "date": "Wed, 03 Sep 2025 23:59:08 +0000",
-      "summary": "Visuri de escapadă? Ați visat vreodată la o aventură liniștită pe apele cristaline, departe de agitația orașului? Imaginați-vă plutirea pe canalele liniștite, înconjurați de peisaje încântătoare. Descoperiți frumusețea ascunsă a&#8230; Articolul Excursii cu barca Băltenii de Sus – canale liniștite aproape de casă apare prima dată în Stiri sociale ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@stiri_sociale/115881418652183247",
+      "date": "Mon, 12 Jan 2026 09:28:43 +0000",
+      "content": "Dincolo de sala de clasă: universul de aventură și învățare de la gradinita Mami și TatiCând alegi o grădiniță sau un after school, nu cauți doar un spațiu sigur, ci un partener care să îi ofere copilului tău experiențe de viață. La gradinita Mami și Tati, credem că cele mai prețioase lecții se învață atunci… https:// stirisociale.ro/taberele-de-ia rna-curaj-pe-schiuri-si-magie-in-zapada/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@stiri_sociale/115736478210706484",
