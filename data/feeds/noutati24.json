@@ -4,8 +4,14 @@
   "site_feed": "https://noutati24.ro/feed/",
   "mastodon": "https://social.5th.ro/@noutati24",
   "mastodon_rss": "https://social.5th.ro/@noutati24.rss",
-  "updated_at": "2026-01-14T11:34:29Z",
+  "updated_at": "2026-01-14T13:09:29Z",
   "site_posts": [
+    {
+      "title": "Ghid mentenanță pentru motoare electrice",
+      "link": "https://noutati24.ro/ghid-mentenanta-pentru-motoare-electrice/",
+      "date": "Wed, 14 Jan 2026 12:23:23 +0000",
+      "summary": "Te-ai întrebat vreodată cât de mult depinde succesul întregii tale linii de producție de sănătatea unui singur motor electric? Deși &#8230; Articolul Ghid mentenanță pentru motoare electrice apare prima dată în Noutati 24 ."
+    },
     {
       "title": "Cum să alegi cel mai bun pat tapițat",
       "link": "https://noutati24.ro/cum-sa-alegi-cel-mai-bun-pat-tapitat/",
@@ -71,15 +77,15 @@
       "link": "https://noutati24.ro/ce-avantaje-are-un-ceas-samsung-pentru-sportivi/",
       "date": "Fri, 28 Nov 2025 11:40:08 +0000",
       "summary": "Ceasurile smart sunt folosite tot mai des în antrenamente. Ele nu înlocuiesc pregătirea sportivă, dar oferă date clare despre efort &#8230; Articolul Ce avantaje are un ceas Samsung pentru sportivi apare prima dată în Noutati 24 ."
-    },
-    {
-      "title": "Kaleiçi – inima istorică a Antalyei și cum o poți explora într-o zi de vacanță",
-      "link": "https://noutati24.ro/kaleici-inima-istorica-a-antalyei-si-cum-o-poti-explora-intr-o-zi-de-vacanta/",
-      "date": "Thu, 27 Nov 2025 19:39:19 +0000",
-      "summary": "Antalya este cunoscută pentru resorturile spectaculoase, plajele &#238;ntinse și marea cu nuanțe turcoaz. &#206;nsă, dacă vrei să &#238;nțelegi de unde &#8230; Articolul Kaleiçi – inima istorică a Antalyei și cum o poți explora într-o zi de vacanță apare prima dată în Noutati 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@noutati24/115893430248861169",
+      "date": "Wed, 14 Jan 2026 12:23:25 +0000",
+      "content": "🆕Te-ai întrebat vreodată cât de mult depinde succesul întregii tale linii de producție de sănătatea unui singur motor electric? Deși pare o componentă robustă, motorul este un organism sensibil la praf, căldură și fluctuații de sarcină. Dacă îl ignori, riști opriri neprevăzute care îți vor consuma timp și resurse prețioase. Acest ghid este conceput special… 🌐 https:// noutati24.ro/ghid-mentenanta-p entru-motoare-electrice/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@noutati24/115847705437233606",

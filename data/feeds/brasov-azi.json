@@ -4,8 +4,14 @@
   "site_feed": "https://brasov-azi.ro/feed/",
   "mastodon": "https://social.5th.ro/@brasov",
   "mastodon_rss": "https://social.5th.ro/@brasov.rss",
-  "updated_at": "2026-01-14T11:34:21Z",
+  "updated_at": "2026-01-14T13:09:21Z",
   "site_posts": [
+    {
+      "title": "Brașov: Problemele zilnice uitate. Conducerea, obsedată de FOTE. Prioritățile Primăriei în următorii doi ani.",
+      "link": "https://brasov-azi.ro/brasov-problemele-zilnice-uitate-conducerea-obsedata-de-fote-prioritatile-primariei-in-urmatorii-doi-ani/",
+      "date": "Wed, 14 Jan 2026 13:01:09 +0000",
+      "summary": "Echilibrul Fragil: Prioritățile Brașovului Între Problemele Curente și FOTE 2027 În timp ce municipiul Brașov se confruntă cu o serie de dificultăți cotidiene tot mai vizibile – de la probleme nerezolvate de gestionare a zăpezii și mizeria persistentă în jurul... Articolul Brașov: Problemele zilnice uitate. Conducerea, obsedată de FOTE. Prioritățile Primăriei în următorii doi ani. apare prima dată în Brasov AZI ."
+    },
     {
       "title": "Mastodon WordPress: cum adaugi hashtaguri automat din tagurile WP",
       "link": "https://brasov-azi.ro/mastodon-wordpress-cum-adaugi-hashtaguri-automat-din-tagurile-wp/",
@@ -71,15 +77,15 @@
       "link": "https://brasov-azi.ro/poarta-schei-brasov/",
       "date": "Fri, 12 Sep 2025 09:56:27 +0000",
       "summary": "Poarta Șchei este arcul clasicist cu trei deschideri care marchează trecerea dintre Șcheii Brașovului și cetatea săsească. Ridicată în anii 1827–1828, lângă Poarta Ecaterinei, poarta rămâne una dintre cele mai fotografiate intrări istorice ale Brașovului. Cuprins Informații esențiale (adresă, acces,... Articolul Poarta Șchei – Brașov: istorie completă, acces 2025, cum ajungi, ce vezi apare prima dată în Brasov AZI ."
-    },
-    {
-      "title": "Poarta Ecaterinei – Brașov: istorie completă, acces 2025, cum ajungi, ce vezi",
-      "link": "https://brasov-azi.ro/poarta-ecaterinei-brasov/",
-      "date": "Fri, 12 Sep 2025 09:46:27 +0000",
-      "summary": "Poarta Ecaterinei (Catherine’s Gate) este cea mai pitorească intrare medievală păstrată în Brașov – o poartă renascentistă cu patru turnulețe, ridicată la mijlocul secolului al XVI-lea, lângă actuala Poarta Șchei. Azi, treci pe sub ea spre cartierul istoric Șcheii Brașovului,... Articolul Poarta Ecaterinei – Brașov: istorie completă, acces 2025, cum ajungi, ce vezi apare prima dată în Brasov AZI ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@brasov/115893578624117071",
+      "date": "Wed, 14 Jan 2026 13:01:09 +0000",
+      "content": "Echilibrul Fragil: Prioritățile Brașovului Între Problemele Curente și FOTE 2027 În timp ce municipiul Brașov se confruntă cu o serie de dificultăți cotidiene tot mai vizibile – de la probleme nerezolvate de gestionare a zăpezii și mizeria persistentă în jurul zonelor de colectare a deșeurilor, la nemulțumirile provocate de majorarea taxelor locale – primarul George… https:// brasov-azi.ro/brasov-problemel e-zilnice-uitate-conducerea-obsedata-de-fote-prioritatile-primariei-in-urmatorii-doi-ani/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@brasov/115736902188992716",
