@@ -4,8 +4,14 @@
   "site_feed": "https://topantreprenor.ro/feed/",
   "mastodon": "https://social.5th.ro/@topantreprenor",
   "mastodon_rss": "https://social.5th.ro/@topantreprenor.rss",
-  "updated_at": "2026-01-15T10:44:18Z",
+  "updated_at": "2026-01-15T11:33:52Z",
   "site_posts": [
+    {
+      "title": "Lucrezi cu fonduri proprii? De ce ai nevoie de un diriginte de șantier chiar dacă legea nu te obligă",
+      "link": "https://topantreprenor.ro/lucrezi-cu-fonduri-proprii-de-ce-ai-nevoie-de-un-diriginte-de-santier-chiar-daca-legea-nu-te-obliga/",
+      "date": "Thu, 15 Jan 2026 11:07:44 +0000",
+      "summary": "Când începi să construiești pe cont propriu, ai impresia că totul e sub control: ai ales echipa, ai planul în mână, bugetul calculat, și te bazezi pe bună-credință. Dar realitatea din teren arată altfel. În lipsa unei persoane care să vegheze constant la calitate, fiecare pas greșit se poate transforma într-un viciu de construcție, o [&#8230;] The post Lucrezi cu fonduri proprii? De ce ai nevoie de un diriginte de șantier chiar dacă legea nu te obligă appeared first on Top Antreprenor ."
+    },
     {
       "title": "De ce aleg antreprenorii spuma activă auto profesională?",
       "link": "https://topantreprenor.ro/de-ce-aleg-antreprenorii-spuma-activa-auto-profesionala/",
@@ -59,15 +65,15 @@
       "link": "https://topantreprenor.ro/pr-pentru-servicii-de-telemedicina-cum-sa-iti-promovezi-platforma/",
       "date": "Thu, 18 Dec 2025 00:00:00 +0000",
       "summary": "Read Time:3 Minute, 55 Second Accesul la servicii medicale de calitate devine din ce în ce mai important într-o societate aflată în continuă schimbare. Tehnologia oferă soluții inovatoare, iar telemedicina PR joacă un rol crucial în promovarea acestor avantaje. Creșterea cererii pentru servicii sănătate online a generat o nevoie acută de strategii eficiente de comunicare, [&#8230;] The post PR pentru servicii de telemedicină: cum să îți promovezi platforma appeared first on Top Antreprenor ."
-    },
-    {
-      "title": "Mastodon România pentru educație: profesori, elevi, resurse",
-      "link": "https://topantreprenor.ro/mastodon-romania-pentru-educatie-profesori-elevi-resurse/",
-      "date": "Wed, 17 Dec 2025 16:58:54 +0000",
-      "summary": "V-ați săturat de algoritmii rețelelor sociale care decid ce informație ajunge la dumneavoastră? Profesorii și elevii caută constant spații digitale sigure și curate pentru învățare. Mediul online centralizat a devenit adesea un spațiu toxic, plin de știri false și elemente care distrag atenția. Descoperiți cum o mișcare descentralizată poate revoluționa mediul academic. Platforma **Mastodon România** [&#8230;] The post Mastodon România pentru educație: profesori, elevi, resurse appeared first on Top Antreprenor ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@topantreprenor/115898794930218902",
+      "date": "Thu, 15 Jan 2026 11:07:44 +0000",
+      "content": "📰Când începi să construiești pe cont propriu, ai impresia că totul e sub control: ai ales echipa, ai planul în mână, bugetul calculat, și te bazezi pe bună-credință. Dar realitatea din teren arată altfel.În lipsa unei persoane care să vegheze constant la calitate, fiecare pas greșit se poate transforma într-un viciu de construcție, o pierdere… 🌐 https:// topantreprenor.ro/lucrezi-cu-f onduri-proprii-de-ce-ai-nevoie-de-un-diriginte-de-santier-chiar-daca-legea-nu-te-obliga/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@topantreprenor/115859640594111523",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@topantreprenor/115736699383421252",
       "date": "Wed, 17 Dec 2025 20:04:42 +0000",
       "content": "📰V-ați săturat de algoritmii rețelelor sociale care decid ce informație ajunge la dumneavoastră? Profesorii și elevii caută constant spații digitale sigure și curate pentru învățare. Mediul online centralizat a devenit adesea un spațiu toxic, plin de știri false și elemente care distrag atenția. Descoperiți cum o mișcare descentralizată poate revoluționa mediul academic. Platforma **Mastodon România**… 🌐 https:// topantreprenor.ro/mastodon-rom ania-pentru-educatie-profesori-elevi-resurse/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@topantreprenor/115735965832182627",
-      "date": "Wed, 17 Dec 2025 16:58:09 +0000",
-      "content": "📰Într-o piață în care spălătoriile self service devin tot mai numeroase, diferențierea reală nu mai vine doar din echipamente moderne sau dintr-un preț ușor mai mic. Clienții caută rezultate vizibile, rapide și o experiență care să le confirme că au făcut alegerea corectă. În acest context, introducerea unui program de ceara auto de calitate este… 🌐 https:// topantreprenor.ro/cum-poate-ce ara-auto-sa-creasca-veniturile-unei-spalatorii-self-service-cu-pana-la-30/"
     }
   ]
 }
