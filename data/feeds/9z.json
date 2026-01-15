@@ -4,7 +4,7 @@
   "site_feed": "https://9z.ro/feed/",
   "mastodon": "https://social.5th.ro/@9z",
   "mastodon_rss": "https://social.5th.ro/@9z.rss",
-  "updated_at": "2026-01-15T11:34:29Z",
+  "updated_at": "2026-01-15T13:09:41Z",
   "site_posts": [
     {
       "title": "Patchcord, piesa care conecteaza intreaga retea de fibra optica!",
@@ -70,6 +70,12 @@
   "mastodon_posts": [
     {
       "title": "",
+      "link": "https://social.5th.ro/@9z/115899077373514794",
+      "date": "Thu, 15 Jan 2026 12:19:34 +0000",
+      "content": "De ce sa inchiriezi un espressor de cafea in custodie! inchiriere espressor https:// comunicatpresa.9z.ro/de-ce-sa- inchiriezi-un-espressor-de-cafea-in-custodie/"
+    },
+    {
+      "title": "",
       "link": "https://social.5th.ro/@9z/115880923700257833",
       "date": "Mon, 12 Jan 2026 07:22:51 +0000",
       "content": "De multe ori, detaliile fac diferenta si fac lucrurile sa fie functionale, iar acest lucru se aplica si in cazul unui patchcord. La prima vedere, un patchcord poate parea doar un cablu banal, usor de ignorat intr-o infrastructura complexa. In realitate, este insa una dintre acele componente mici care tin totul in echilibru. Calitatea materialelor,… https:// 9z.ro/patchcord-piesa-care-con ecteaza-intreaga-retea-de-fibra-optica/"
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@9z/115723105133595227",
       "date": "Mon, 15 Dec 2025 10:27:30 +0000",
       "content": "Funcțiile AI din frigidere sunt folosite tot mai des pentru monitorizarea alimentelor și planificarea consumului. Sistemele analizează conținutul și ajută la folosirea produselor înainte să expire.1. Ce înseamnă / Ce estePrevenirea risipei alimentare cu ajutorul AI înseamnă folosirea unor algoritmi care identifică alimentele, urmăresc termenele de valabilitate și oferă informații despre stocul din frigider.Acest proces… https:// 9z.ro/cum-ajuta-ai-la-prevenir ea-risipei-alimentare/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@9z/115704937845453101",
-      "date": "Fri, 12 Dec 2025 05:27:20 +0000",
-      "content": "Alegerea serviciilor și produselor potrivite pentru o viață mai sigură și o locuință mai bine organizatăInspecția Tehnică Periodică (ITP) reprezintă una dintre cele mai importante obligații ale oricărui proprietar de autovehicul, fiind condiția principală pentru ca mașina să poată circula legal și în siguranță. Alegerea unui service autorizat care oferă ITP nu trebuie făcută la… https:// comunicatpresa.9z.ro/cum-alegi -pomii-fructiferi-potriviti-pentru-gradina-ta/"
     }
   ]
 }
