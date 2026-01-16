@@ -4,8 +4,14 @@
   "site_feed": "https://femeiaz.ro/feed/",
   "mastodon": "https://social.5th.ro/@femeiAZ",
   "mastodon_rss": "https://social.5th.ro/@femeiAZ.rss",
-  "updated_at": "2026-01-16T08:46:32Z",
+  "updated_at": "2026-01-16T09:40:33Z",
   "site_posts": [
+    {
+      "title": "Rețete cosmetice: bucuria de a-ți crea frumusețea cu mâinile tale",
+      "link": "https://femeiaz.ro/2026/01/16/retete-cosmetice-bucuria-de-a-ti-crea-frumusetea-cu-mainile-tale/",
+      "date": "Fri, 16 Jan 2026 09:26:02 +0000",
+      "summary": "You know what? Puține lucruri sunt mai satisfăcătoare decât să-ți prepari singură crema preferată sau să simți cum pielea „dansează”&#8230; Articolul Rețete cosmetice: bucuria de a-ți crea frumusețea cu mâinile tale apare prima dată în Femei A-Z ."
+    },
     {
       "title": "Animatorii pentru petreceri copii: distracție, emoție și amintiri de neuitat",
       "link": "https://femeiaz.ro/2025/12/30/animatorii-pentru-petreceri-copii-distractie-emotie-si-amintiri-de-neuitat/",
@@ -59,15 +65,15 @@
       "link": "https://femeiaz.ro/2025/11/14/cazino-live-cu-dealeri-reali-cum-functioneaza-si-ce-jocuri-gasesti/",
       "date": "Fri, 14 Nov 2025 09:07:58 +0000",
       "summary": "Mulți jucători apreciază emoția pe care o simți la o masă de joc reală. Totuși, timpul sau distanța fac deseori&#8230; Articolul Cazino live cu dealeri reali: cum funcționează și ce jocuri găsești apare prima dată în Femei A-Z ."
-    },
-    {
-      "title": "Actualizarea conținutului vechi: cum recâștigi poziții pierdute în Google",
-      "link": "https://femeiaz.ro/2025/11/14/actualizarea-continutului-vechi-cum-recastigi-pozitii-pierdute-in-google/",
-      "date": "Fri, 14 Nov 2025 07:32:14 +0000",
-      "summary": "Ați investit timp și resurse în crearea de conținut valoros. Cu toate acestea, observați că articolele care odinioară aduceau mii&#8230; Articolul Actualizarea conținutului vechi: cum recâștigi poziții pierdute în Google apare prima dată în Femei A-Z ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@femeiAZ/115904057339699938",
+      "date": "Fri, 16 Jan 2026 09:26:02 +0000",
+      "content": "You know what? Puține lucruri sunt mai satisfăcătoare decât să-ți prepari singură crema preferată sau să simți cum pielea „dansează” după un scrub creat chiar de tine. Rețetele cosmetice, mai ales atunci când sunt simple, naturale și gândite cu suflet, nu sunt doar un hobby, ci un mod de a avea grijă de tine într-un… https:// femeiaz.ro/2026/01/16/retete-c osmetice-bucuria-de-a-ti-crea-frumusetea-cu-mainile-tale/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@femeiAZ/115806852261502032",
