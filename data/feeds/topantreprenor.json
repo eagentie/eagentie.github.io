@@ -4,8 +4,14 @@
   "site_feed": "https://topantreprenor.ro/feed/",
   "mastodon": "https://social.5th.ro/@topantreprenor",
   "mastodon_rss": "https://social.5th.ro/@topantreprenor.rss",
-  "updated_at": "2026-01-16T13:07:29Z",
+  "updated_at": "2026-01-16T13:51:11Z",
   "site_posts": [
+    {
+      "title": "Mituri despre ITP în București: ce e adevărat și ce nu când vine vorba de inspecția tehnică",
+      "link": "https://topantreprenor.ro/mituri-despre-itp-in-bucuresti-ce-e-adevarat-si-ce-nu-cand-vine-vorba-de-inspectia-tehnica/",
+      "date": "Fri, 16 Jan 2026 13:23:51 +0000",
+      "summary": "Inspecția tehnică periodică este una dintre cele mai discutate, dar și cel mai prost înțelese obligații ale șoferilor. În București, circulă o mulțime de mituri legate de ITP, de la ideea că „toate stațiile sunt la fel” până la convingerea că „dacă mașina merge, sigur trece”. Realitatea este mult mai nuanțată, iar aceste percepții greșite [&#8230;] The post Mituri despre ITP în București: ce e adevărat și ce nu când vine vorba de inspecția tehnică appeared first on Top Antreprenor ."
+    },
     {
       "title": "Lucrezi cu fonduri proprii? De ce ai nevoie de un diriginte de șantier chiar dacă legea nu te obligă",
       "link": "https://topantreprenor.ro/lucrezi-cu-fonduri-proprii-de-ce-ai-nevoie-de-un-diriginte-de-santier-chiar-daca-legea-nu-te-obliga/",
@@ -59,15 +65,15 @@
       "link": "https://topantreprenor.ro/cum-sa-promovezi-servicii-de-masaj-terapeutic/",
       "date": "Thu, 18 Dec 2025 22:00:00 +0000",
       "summary": "Read Time:4 Minute, 1 Second Într-o lume din ce în ce mai stresantă, nevoia de relaxare și bunăstare este mai mare ca niciodată. Serviciile de masaj terapeutic se bucură de o popularitate crescândă, fiind o modalitate eficientă de a combate stresul și de a îmbunătăți sănătatea fizică și mentală. Dar cum poți ajunge la potențialii [&#8230;] The post Cum să promovezi servicii de masaj terapeutic appeared first on Top Antreprenor ."
-    },
-    {
-      "title": "PR pentru servicii de telemedicină: cum să îți promovezi platforma",
-      "link": "https://topantreprenor.ro/pr-pentru-servicii-de-telemedicina-cum-sa-iti-promovezi-platforma/",
-      "date": "Thu, 18 Dec 2025 00:00:00 +0000",
-      "summary": "Read Time:3 Minute, 55 Second Accesul la servicii medicale de calitate devine din ce în ce mai important într-o societate aflată în continuă schimbare. Tehnologia oferă soluții inovatoare, iar telemedicina PR joacă un rol crucial în promovarea acestor avantaje. Creșterea cererii pentru servicii sănătate online a generat o nevoie acută de strategii eficiente de comunicare, [&#8230;] The post PR pentru servicii de telemedicină: cum să îți promovezi platforma appeared first on Top Antreprenor ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@topantreprenor/115904992461662154",
+      "date": "Fri, 16 Jan 2026 13:23:51 +0000",
+      "content": "📰Inspecția tehnică periodică este una dintre cele mai discutate, dar și cel mai prost înțelese obligații ale șoferilor. În București, circulă o mulțime de mituri legate de ITP, de la ideea că „toate stațiile sunt la fel” până la convingerea că „dacă mașina merge, sigur trece”. Realitatea este mult mai nuanțată, iar aceste percepții greșite… 🌐 https:// topantreprenor.ro/mituri-despr e-itp-in-bucuresti-ce-e-adevarat-si-ce-nu-cand-vine-vorba-de-inspectia-tehnica/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@topantreprenor/115898794930218902",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@topantreprenor/115737624652455578",
       "date": "Thu, 18 Dec 2025 00:00:01 +0000",
       "content": "📰Read Time:3 Minute, 55 Second Accesul la servicii medicale de calitate devine din ce în ce mai important într-o societate aflată în continuă schimbare. Tehnologia oferă soluții inovatoare, iar telemedicina PR joacă un rol crucial în promovarea acestor avantaje. Creșterea cererii pentru servicii sănătate online a generat o nevoie acută de strategii eficiente de comunicare,… 🌐 https:// topantreprenor.ro/pr-pentru-se rvicii-de-telemedicina-cum-sa-iti-promovezi-platforma/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@topantreprenor/115736699383421252",
-      "date": "Wed, 17 Dec 2025 20:04:42 +0000",
-      "content": "📰V-ați săturat de algoritmii rețelelor sociale care decid ce informație ajunge la dumneavoastră? Profesorii și elevii caută constant spații digitale sigure și curate pentru învățare. Mediul online centralizat a devenit adesea un spațiu toxic, plin de știri false și elemente care distrag atenția. Descoperiți cum o mișcare descentralizată poate revoluționa mediul academic. Platforma **Mastodon România**… 🌐 https:// topantreprenor.ro/mastodon-rom ania-pentru-educatie-profesori-elevi-resurse/"
     }
   ]
 }
