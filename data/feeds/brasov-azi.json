@@ -4,8 +4,14 @@
   "site_feed": "https://brasov-azi.ro/feed/",
   "mastodon": "https://social.5th.ro/@brasov",
   "mastodon_rss": "https://social.5th.ro/@brasov.rss",
-  "updated_at": "2026-01-17T07:31:10Z",
+  "updated_at": "2026-01-17T08:40:27Z",
   "site_posts": [
+    {
+      "title": "Hocheistul canadian Philippe Cornet revine în liga română de hochei, semnând din nou cu echipa Corona Brașov.",
+      "link": "https://brasov-azi.ro/hocheistul-canadian-philippe-cornet-revine-in-liga-romana-de-hochei-semnand-din-nou-cu-echipa-corona-brasov/",
+      "date": "Sat, 17 Jan 2026 08:28:02 +0000",
+      "summary": "Corona Brașov a confirmat un transfer de ultim moment, esențial pentru faza finală a sezonului competițional de hochei. După o scurtă perioadă petrecută în afara clubului, atacantul canadian Philippe Cornet revine sub Tâmpa, urmând să întărească echipa brașoveană. Această mutare... Articolul Hocheistul canadian Philippe Cornet revine în liga română de hochei, semnând din nou cu echipa Corona Brașov. apare prima dată în Brasov AZI ."
+    },
     {
       "title": "Clasamentul WTA la zi: iată cum arată topul mondial pe 12 ianuarie 2026",
       "link": "https://brasov-azi.ro/clasamentul-wta-la-zi-iata-cum-arata-topul-mondial-pe-12-ianuarie-2026/",
@@ -71,15 +77,15 @@
       "link": "https://brasov-azi.ro/mastodon-wordpress-cum-adaugi-hashtaguri-automat-din-tagurile-wp/",
       "date": "Wed, 17 Dec 2025 16:58:54 +0000",
       "summary": "Vă simțiți copleșiți de necesitatea de a menține prezența pe mai multe rețele sociale? Publicați conținut excelent pe WordPress, dar ajungeți să faceți muncă dublă când vine vorba de promovarea pe Fediverse? Dacă sunteți un creator de conținut care utilizează... Articolul Mastodon WordPress: cum adaugi hashtaguri automat din tagurile WP apare prima dată în Brasov AZI ."
-    },
-    {
-      "title": "Plan editorial de articole SEO pentru tot anul 2025",
-      "link": "https://brasov-azi.ro/plan-editorial-de-articole-seo-pentru-tot-anul-2025/",
-      "date": "Mon, 01 Dec 2025 12:07:49 +0000",
-      "summary": "Introducere: De la Haos la Coerență în Strategia de Conținut (Atenție) Vă confruntați des cu dilema &#8222;Ce publicăm săptămâna aceasta&#8221;? Sunteți epuizați de procesul de a găsi idei noi în ultimul moment? Inconsistența în publicare este inamicul oricărei strategii SEO... Articolul Plan editorial de articole SEO pentru tot anul 2025 apare prima dată în Brasov AZI ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@brasov/115909491584034434",
+      "date": "Sat, 17 Jan 2026 08:28:02 +0000",
+      "content": "https:// brasov-azi.ro/hocheistul-canad ian-philippe-cornet-revine-in-liga-romana-de-hochei-semnand-din-nou-cu-echipa-corona-brasov/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@brasov/115907511571164031",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@brasov/115736902188992716",
       "date": "Wed, 17 Dec 2025 20:56:17 +0000",
       "content": "Vă simțiți copleșiți de necesitatea de a menține prezența pe mai multe rețele sociale? Publicați conținut excelent pe WordPress, dar ajungeți să faceți muncă dublă când vine vorba de promovarea pe Fediverse? Dacă sunteți un creator de conținut care utilizează Mastodon, știți cât de importantă este o etichetare corectă. Transpunerea manuală a fiecărui element de… https:// brasov-azi.ro/mastodon-wordpre ss-cum-adaugi-hashtaguri-automat-din-tagurile-wp/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@brasov/115706158037027263",
-      "date": "Fri, 12 Dec 2025 10:37:38 +0000",
-      "content": "Introducere: De la Haos la Coerență în Strategia de Conținut (Atenție) Vă confruntați des cu dilema &quot;Ce publicăm săptămâna aceasta&quot;? Sunteți epuizați de procesul de a găsi idei noi în ultimul moment? Inconsistența în publicare este inamicul oricărei strategii SEO de succes. (Interes) Soluția nu este să munciți mai mult, ci să munciți mai inteligent.… https:// brasov-azi.ro/plan-editorial-d e-articole-seo-pentru-tot-anul-2025/"
     }
   ]
 }
