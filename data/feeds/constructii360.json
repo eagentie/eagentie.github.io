@@ -4,8 +4,69 @@
   "site_feed": "https://constructii360.ro/feed/",
   "mastodon": "https://social.5th.ro/@constructii360",
   "mastodon_rss": "https://social.5th.ro/@constructii360.rss",
-  "updated_at": "2026-01-17T16:40:45Z",
-  "site_posts": [],
+  "updated_at": "2026-01-17T17:31:13Z",
+  "site_posts": [
+    {
+      "title": "Mastodon WordPress plugin: ce permisiuni și ce securitate trebuie să ai",
+      "link": "https://constructii360.ro/mastodon-wordpress-plugin-ce-permisiuni-si-ce-securitate-trebuie-sa-ai/",
+      "date": "Wed, 17 Dec 2025 16:58:54 +0000",
+      "summary": "Trecerea la Fediverse și integrarea platformei Mastodon cu site-urile tradiționale devine o necesitate pentru mulți Articolul Mastodon WordPress plugin: ce permisiuni și ce securitate trebuie să ai apare prima dată în Constructii 360 ."
+    },
+    {
+      "title": "Merită să cumperi apartament în faza de proiect? Avantaje și riscuri",
+      "link": "https://constructii360.ro/merita-sa-cumperi-apartament-in-faza-de-proiect-avantaje-si-riscuri/",
+      "date": "Thu, 20 Nov 2025 16:00:00 +0000",
+      "summary": "Orobabil ai observat că multe oferte imobiliare sunt prezentate &#238;n stadiul de proiect. Clădirea &#238;ncă Articolul Merită să cumperi apartament în faza de proiect? Avantaje și riscuri apare prima dată în Constructii 360 ."
+    },
+    {
+      "title": "ROMANIAN ENERGY WEEK 2025",
+      "link": "https://constructii360.ro/romanian-energy-week-2025/",
+      "date": "Tue, 18 Nov 2025 07:22:57 +0000",
+      "summary": "ROMANIAN ENERGY WEEK 2025: 5 zile de dezbateri, 5 teme vitale pentru energie Palatul Parlamentului Articolul ROMANIAN ENERGY WEEK 2025 apare prima dată în Constructii 360 ."
+    },
+    {
+      "title": "Biletul zilei inspirat din poker: gândire strategică și risc calculat",
+      "link": "https://constructii360.ro/biletul-zilei-inspirat-din-poker-gandire-strategica-si-risc-calculat/",
+      "date": "Sat, 15 Nov 2025 10:03:28 +0000",
+      "summary": "(Atenție) Te-ai întrebat vreodată de ce unii pariori par să câștige constant, în timp ce Articolul Biletul zilei inspirat din poker: gândire strategică și risc calculat apare prima dată în Constructii 360 ."
+    },
+    {
+      "title": "Biletul zilei vs bilete de weekend: diferențe de abordare și risc",
+      "link": "https://constructii360.ro/biletul-zilei-vs-bilete-de-weekend-diferente-de-abordare-si-risc/",
+      "date": "Fri, 14 Nov 2025 09:07:58 +0000",
+      "summary": "Ești sătul să pierzi constant bani la pariuri din cauza deciziilor luate în grabă? Mulți Articolul Biletul zilei vs bilete de weekend: diferențe de abordare și risc apare prima dată în Constructii 360 ."
+    },
+    {
+      "title": "Checklist SEO înainte de lansarea site-ului: ce verifici ca să nu pierzi trafic",
+      "link": "https://constructii360.ro/checklist-seo-inainte-de-lansarea-site-ului-ce-verifici-ca-sa-nu-pierzi-trafic/",
+      "date": "Fri, 14 Nov 2025 07:32:14 +0000",
+      "summary": "Ați investit timp și resurse semnificative în dezvoltarea noului dumneavoastră proiect web. Design-ul este impecabil, Articolul Checklist SEO înainte de lansarea site-ului: ce verifici ca să nu pierzi trafic apare prima dată în Constructii 360 ."
+    },
+    {
+      "title": "De la păcănele la biletul zilei: de ce mulți jucători migrează spre pariuri sportive",
+      "link": "https://constructii360.ro/de-la-pacanele-la-biletul-zilei-de-ce-multi-jucatori-migreaza-spre-pariuri-sportive/",
+      "date": "Fri, 14 Nov 2025 05:12:18 +0000",
+      "summary": "Ați observat o schimbare în peisajul Introducere: De la Rotiri Rapide la Analiza Sportivă Atenție: Articolul De la păcănele la biletul zilei: de ce mulți jucători migrează spre pariuri sportive apare prima dată în Constructii 360 ."
+    },
+    {
+      "title": "Ce este SEO pentru magazine online și cum crești vânzările din Google?",
+      "link": "https://constructii360.ro/ce-este-seo-pentru-magazine-online-si-cum-cresti-vanzarile-din-google/",
+      "date": "Thu, 13 Nov 2025 11:14:17 +0000",
+      "summary": "Te-ai săturat de costurile exorbitante ale publicității plătite care îți aduc un randament din ce Articolul Ce este SEO pentru magazine online și cum crești vânzările din Google? apare prima dată în Constructii 360 ."
+    },
+    {
+      "title": "Ce este turismul lent și cum îți schimbă felul în care călătorești?",
+      "link": "https://constructii360.ro/ce-este-turismul-lent-si-cum-iti-schimba-felul-in-care-calatoresti/",
+      "date": "Wed, 12 Nov 2025 14:00:00 +0000",
+      "summary": "Ai simțit vreodată că te întorci dintr-o vacanță mai obosit decât ai plecat? Alergând de Articolul Ce este turismul lent și cum îți schimbă felul în care călătorești? apare prima dată în Constructii 360 ."
+    },
+    {
+      "title": "Șape și amorse profesionale: fundația unei lucrări durabile",
+      "link": "https://constructii360.ro/sape-si-amorse-profesionale-fundatia-unei-lucrari-durabile/",
+      "date": "Thu, 06 Nov 2025 14:25:13 +0000",
+      "summary": "Pentru ca o casă să se numească cu adevărat o construcție reușită este important să Articolul Șape și amorse profesionale: fundația unei lucrări durabile apare prima dată în Constructii 360 ."
+    }
+  ],
   "mastodon_posts": [
     {
       "title": "",
