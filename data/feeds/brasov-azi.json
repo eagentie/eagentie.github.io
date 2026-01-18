@@ -4,8 +4,14 @@
   "site_feed": "https://brasov-azi.ro/feed/",
   "mastodon": "https://social.5th.ro/@brasov",
   "mastodon_rss": "https://social.5th.ro/@brasov.rss",
-  "updated_at": "2026-01-18T15:31:57Z",
+  "updated_at": "2026-01-18T16:39:15Z",
   "site_posts": [
+    {
+      "title": "Brașovul, paralizat de ger sever. Salvamontiștii cer turiștilor să își planifice deplasările cu maximă prudență",
+      "link": "https://brasov-azi.ro/brasovul-paralizat-de-ger-sever-salvamontistii-cer-turistilor-sa-isi-planifice-deplasarile-cu-maxima-prudenta/",
+      "date": "Sun, 18 Jan 2026 15:45:42 +0000",
+      "summary": "Se anunță zile extrem de reci în județul Brașov! Administrația Națională de Meteorologie (ANM) a emis mai multe avertizări Cod Galben, valabile în perioada 18 ianuarie, ora 10:00, până pe 20 ianuarie, ora 10:00, care vizează un val de ger... Articolul Brașovul, paralizat de ger sever. Salvamontiștii cer turiștilor să își planifice deplasările cu maximă prudență apare prima dată în Brasov AZI ."
+    },
     {
       "title": "Investiție de 1 milion de lei la Spitalul de Copii Brașov pentru reducerea riscului de infecții nosocomiale",
       "link": "https://brasov-azi.ro/investitie-de-1-milion-de-lei-la-spitalul-de-copii-brasov-pentru-reducerea-riscului-de-infectii-nosocomiale/",
@@ -71,15 +77,15 @@
       "link": "https://brasov-azi.ro/lucrari-la-gradinita-din-brasovul-vechi-capacitatea-se-dubleaza-prin-mansardare-si-extindere/",
       "date": "Fri, 16 Jan 2026 23:34:06 +0000",
       "summary": "A început un proiect important de modernizare a infrastructurii școlare în zona Brașovul Vechi. Grădinița situată pe strada Câmpului a intrat în faza de lucrări, având ca scop extinderea și mansardarea clădirii existente. Această investiție majoră vine în sprijinul familiilor... Articolul Lucrări la grădinița din Brașovul Vechi: capacitatea se dublează prin mansardare și extindere apare prima dată în Brasov AZI ."
-    },
-    {
-      "title": "Bent Dahl, noul antrenor al echipei Corona Brașov; Mariana Tîrcă devine director tehnic",
-      "link": "https://brasov-azi.ro/bent-dahl-noul-antrenor-al-echipei-corona-brasov-mariana-tirca-devine-director-tehnic/",
-      "date": "Fri, 16 Jan 2026 23:16:14 +0000",
-      "summary": "Clubul de handbal feminin Corona Brașov a anunțat oficial schimbări majore la nivelul băncii tehnice și al conducerii administrative, mutări care vor intra în vigoare începând cu următoarea stagiune competițională. Aceste numiri vizează consolidarea echipei în Liga Națională, aducând la... Articolul Bent Dahl, noul antrenor al echipei Corona Brașov; Mariana Tîrcă devine director tehnic apare prima dată în Brasov AZI ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@brasov/115916874862421108",
+      "date": "Sun, 18 Jan 2026 15:45:42 +0000",
+      "content": "Se anunță zile extrem de reci în județul Brașov! Administrația Națională de Meteorologie (ANM) a emis mai multe avertizări Cod Galben, valabile în perioada 18 ianuarie, ora 10:00, până pe 20 ianuarie, ora 10:00, care vizează un val de ger sever. Acest episod de vreme deosebit de rece va afecta cel mai mult zona montană… https:// brasov-azi.ro/brasovul-paraliz at-de-ger-sever-salvamontistii-cer-turistilor-sa-isi-planifice-deplasarile-cu-maxima-prudenta/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@brasov/115915300350529876",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@brasov/115907392065798461",
       "date": "Fri, 16 Jan 2026 23:34:06 +0000",
       "content": "A început un proiect important de modernizare a infrastructurii școlare în zona Brașovul Vechi. Grădinița situată pe strada Câmpului a intrat în faza de lucrări, având ca scop extinderea și mansardarea clădirii existente. Această investiție majoră vine în sprijinul familiilor din zonă, deoarece va permite dublarea numărului de locuri disponibile pentru preșcolari. Necesitatea unui https:// brasov-azi.ro/lucrari-la-gradi nita-din-brasovul-vechi-capacitatea-se-dubleaza-prin-mansardare-si-extindere/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@brasov/115907321858324024",
-      "date": "Fri, 16 Jan 2026 23:16:15 +0000",
-      "content": "Clubul de handbal feminin Corona Brașov a anunțat oficial schimbări majore la nivelul băncii tehnice și al conducerii administrative, mutări care vor intra în vigoare începând cu următoarea stagiune competițională. Aceste numiri vizează consolidarea echipei în Liga Națională, aducând la Brașov atât experiență internațională, cât și nume emblematice ale handbalului românesc. Printre cele https:// brasov-azi.ro/bent-dahl-noul-a ntrenor-al-echipei-corona-brasov-mariana-tirca-devine-director-tehnic/"
     }
   ]
 }
