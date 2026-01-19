@@ -4,8 +4,14 @@
   "site_feed": "https://clinic-sanatos.ro/feed/",
   "mastodon": "https://social.5th.ro/@clinic_sanatos",
   "mastodon_rss": "https://social.5th.ro/@clinic_sanatos.rss",
-  "updated_at": "2026-01-19T13:13:03Z",
+  "updated_at": "2026-01-19T13:54:50Z",
   "site_posts": [
+    {
+      "title": "De la mic dejun la gustări",
+      "link": "https://clinic-sanatos.ro/de-la-mic-dejun-la-gustari/",
+      "date": "Mon, 19 Jan 2026 11:46:47 +0000",
+      "summary": "Mixit oferă peste 150 de produse vegane pentru un 2026 echilibrat La &#238;nceput de an,... Articolul De la mic dejun la gustări apare prima dată în Clinic Sanatos ."
+    },
     {
       "title": "Mastodon WordPress plugin: opțiuni pentru programare și intervale de postare",
       "link": "https://clinic-sanatos.ro/mastodon-wordpress-plugin-optiuni-pentru-programare-si-intervale-de-postare/",
@@ -71,15 +77,15 @@
       "link": "https://clinic-sanatos.ro/cardiomiopatia-tipuri-cauze-si-optiuni-de-tratament/",
       "date": "Sat, 27 Sep 2025 05:58:58 +0000",
       "summary": "Cardiomiopatia este un termen medical care descrie un grup de afecțiuni ale mușchiului cardiac, miocardul.... Articolul Cardiomiopatia: tipuri, cauze și opțiuni de tratament apare prima dată în Clinic Sanatos ."
-    },
-    {
-      "title": "Cum să-ți alegi garderoba perfectă pentru fiecare sezon",
-      "link": "https://clinic-sanatos.ro/cum-sa-ti-alegi-garderoba-perfecta-pentru-fiecare-sezon/",
-      "date": "Sat, 27 Sep 2025 05:54:56 +0000",
-      "summary": "Descoperă cum să îți organizezi și să îți adaptezi garderoba în funcție de schimbările sezoniere... Articolul Cum să-ți alegi garderoba perfectă pentru fiecare sezon apare prima dată în Clinic Sanatos ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@clinic_sanatos/115922095258431641",
+      "date": "Mon, 19 Jan 2026 13:53:19 +0000",
+      "content": "Mixit oferă peste 150 de produse vegane pentru un 2026 echilibrat La început de an, tot mai mulți oameni își propun să mănânce mai echilibrat, să reducă produsele de origine animală și să aleagă ingrediente curate, funcționale și ușor de integrat în rutina zilnică. Pentru cei care vor să introducă produse vegane în alimentația lor,… .... https:// clinic-sanatos.ro/de-la-mic-de jun-la-gustari/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@clinic_sanatos/115736495093743049",

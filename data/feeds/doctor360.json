@@ -4,8 +4,14 @@
   "site_feed": "https://doctor360.ro/feed/",
   "mastodon": "https://social.5th.ro/@doctor360",
   "mastodon_rss": "https://social.5th.ro/@doctor360.rss",
-  "updated_at": "2026-01-19T13:13:06Z",
+  "updated_at": "2026-01-19T13:54:52Z",
   "site_posts": [
+    {
+      "title": "De la mic dejun la gustări",
+      "link": "https://doctor360.ro/de-la-mic-dejun-la-gustari/",
+      "date": "Mon, 19 Jan 2026 11:46:47 +0000",
+      "summary": "Mixit oferă peste 150 de produse vegane pentru un 2026 echilibrat La &#238;nceput de an, tot mai mulți oameni &#238;și propun să măn&#226;nce mai echilibrat, să reducă produsele de origine animală și să aleagă ingrediente curate, funcționale și ușor de integrat &#238;n rutina zilnică. Pentru cei care vor să introducă produse vegane &#238;n alimentația lor, [&#8230;] Articolul De la mic dejun la gustări apare prima dată în Doctor 360 ."
+    },
     {
       "title": "Implant dentar: prețul nu mai este un impediment! Iată cum îți influențează dispozitivul starea de sănătate generală",
       "link": "https://doctor360.ro/implant-dentar-pretul-nu-mai-este-un-impediment-iata-cum-iti-influenteaza-dispozitivul-starea-de-sanatate-generala/",
@@ -71,15 +77,15 @@
       "link": "https://doctor360.ro/de-ce-anxietatea-sociala-iti-poate-afecta-cariera-mai-mult-decat-crezi/",
       "date": "Fri, 10 Oct 2025 05:42:22 +0000",
       "summary": "Una dintre cele mai frecvente afecțiuni psihice din ziua de astăzi este anxietatea socială. Probabil ai întâlnit sau ai auzit diverse persoane care se țin departe de viața socială și apelează la diverse pretexte ca să refuze invitații. Sau poate te regăsești tu sau cei dragi în această situație. Este important să știi că există [&#8230;] Articolul De ce anxietatea socială îți poate afecta cariera mai mult decât crezi apare prima dată în Doctor 360 ."
-    },
-    {
-      "title": "Clinica Stomatologica Sector 2 – Solutii complete pentru sanatatea zambetului tau",
-      "link": "https://doctor360.ro/clinica-stomatologica-sector-2-solutii-complete-pentru-sanatatea-zambetului-tau/",
-      "date": "Fri, 10 Oct 2025 05:33:53 +0000",
-      "summary": "In apropierea zonei Obor, pe Strada Magura Vulturului nr. 89, se afla una dintre cele mai moderne si apreciate clinici dentare din Bucuresti &#8211; Clinica Stomatologica Sector 2. Cu o experienta de peste 15 ani, Life Dent ofera servicii stomatologice premium, intr-un mediu sigur, modern si prietenos. Amplasata strategic in zona Pantelimon, la doar cateva [&#8230;] Articolul Clinica Stomatologica Sector 2 – Solutii complete pentru sanatatea zambetului tau apare prima dată în Doctor 360 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@doctor360/115922089938983796",
+      "date": "Mon, 19 Jan 2026 13:51:58 +0000",
+      "content": "💡Mixit oferă peste 150 de produse vegane pentru un 2026 echilibrat La început de an, tot mai mulți oameni își propun să mănânce mai echilibrat, să reducă produsele de origine animală și să aleagă ingrediente curate, funcționale și ușor de integrat în rutina zilnică. Pentru cei care vor să introducă produse vegane în alimentația lor,… 💡 https:// doctor360.ro/de-la-mic-dejun-l a-gustari/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@doctor360/115858282636051591",
