@@ -4,8 +4,14 @@
   "site_feed": "https://UniversulTech.ro/feed/",
   "mastodon": "https://social.5th.ro/@UniversulTech",
   "mastodon_rss": "https://social.5th.ro/@UniversulTech.rss",
-  "updated_at": "2026-01-19T08:51:15Z",
+  "updated_at": "2026-01-19T09:50:40Z",
   "site_posts": [
+    {
+      "title": "Ghidul complet pentru analiza calității uleiului de motor – Sfaturi practice pentru managerii de flote auto",
+      "link": "https://universultech.ro/ghidul-complet-pentru-analiza-calitatii-uleiului-de-motor-sfaturi-practice-pentru-managerii-de-flote-auto/",
+      "date": "Mon, 19 Jan 2026 09:24:45 +0000",
+      "summary": "În prezent, analiza calității uleiului de motor se dovedește a fi un instrument esențial pentru managerii de flote auto. Această&#8230; Articolul Ghidul complet pentru analiza calității uleiului de motor &#8211; Sfaturi practice pentru managerii de flote auto apare prima dată în Universul Tech ."
+    },
     {
       "title": "Cum să folosești un espressor pentru cafea mereu gustoasă",
       "link": "https://universultech.ro/cum-sa-folosesti-un-espressor-pentru-cafea-mereu-gustoasa/",
@@ -71,15 +77,15 @@
       "link": "https://universultech.ro/calatorii-de-toamna-prin-transilvania-magie-pe-doua-roti/",
       "date": "Sun, 30 Nov 2025 11:55:32 +0000",
       "summary": "Toamna schimbă Transilvania într-o lume care pare desprinsă dintr-un basm vechi, unul din acelea în care culorile sunt mai intense,&#8230; Articolul Călătorii de toamnă prin Transilvania: magie pe două roți apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "Ce beneficii aduce ecosistemul Galaxy AI",
-      "link": "https://universultech.ro/ce-beneficii-aduce-ecosistemul-galaxy-ai/",
-      "date": "Fri, 28 Nov 2025 07:25:46 +0000",
-      "summary": "Inteligența artificială a devenit parte stabilă din modul în care sunt folosite telefoanele și celelalte dispozitive. Ecosistemul Galaxy AI grupează&#8230; Articolul Ce beneficii aduce ecosistemul Galaxy AI apare prima dată în Universul Tech ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@UniversulTech/115921039419891666",
+      "date": "Mon, 19 Jan 2026 09:24:48 +0000",
+      "content": "💡În prezent, analiza calității uleiului de motor se dovedește a fi un instrument esențial pentru managerii de flote auto. Această practică nu doar că ajută la menținerea vehiculelor într-o stare optimă, ci contribuie și la reducerea costurilor pe termen lung. În acest ghid, vei descoperi toate avantajele pe care le oferă analiza uleiului, de la… ✅ https:// universultech.ro/ghidul-comple t-pentru-analiza-calitatii-uleiului-de-motor-sfaturi-practice-pentru-managerii-de-flote-auto/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@UniversulTech/115808706727864374",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@UniversulTech/115690117485373058",
       "date": "Tue, 09 Dec 2025 14:38:19 +0000",
       "content": "💡Toamna schimbă Transilvania într-o lume care pare desprinsă dintr-un basm vechi, unul din acelea în care culorile sunt mai intense, liniștea mai adâncă și timpul pare să curgă altfel. Pentru motocicliști, regiunea aceasta devine, odată cu lunile septembrie și octombrie, un tărâm al magiei pure. Drumurile care vara erau pline de turiști se eliberează, iar… ✅ https:// universultech.ro/calatorii-de- toamna-prin-transilvania-magie-pe-doua-roti/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@UniversulTech/115690117327452184",
-      "date": "Tue, 09 Dec 2025 14:38:16 +0000",
-      "content": "💡Ați simțit vreodată că articolele dumneavoastră SEO, deși sunt pline de cuvinte cheie, sună rigid? Vă luptați să găsiți echilibrul între a mulțumi algoritmii Google și a oferi conținut valoros cititorilor? Nu sunteți singuri. Mult timp, optimizarea pentru motoarele de căutare a fost echivalentă cu o formulă mecanică, unde succesul depindea de o anumită densitate… ✅ https:// universultech.ro/2025-cum-scri i-articole-seo-care-par-naturale-nu-bagate-cu-cheia/"
     }
   ]
 }
