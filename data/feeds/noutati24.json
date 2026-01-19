@@ -4,8 +4,14 @@
   "site_feed": "https://noutati24.ro/feed/",
   "mastodon": "https://social.5th.ro/@noutati24",
   "mastodon_rss": "https://social.5th.ro/@noutati24.rss",
-  "updated_at": "2026-01-19T18:49:24Z",
+  "updated_at": "2026-01-19T19:30:18Z",
   "site_posts": [
+    {
+      "title": "Unde montezi corect un termostat pentru a citi temperatura reală a camerei?",
+      "link": "https://noutati24.ro/unde-montezi-corect-un-termostat-pentru-a-citi-temperatura-reala-a-camerei/",
+      "date": "Mon, 19 Jan 2026 17:23:29 +0000",
+      "summary": "Eficiența sistemului de &#238;ncălzire depinde mai puțin de puterea centralei și mai mult de precizia cu care aceasta este controlată. &#8230; Articolul Unde montezi corect un termostat pentru a citi temperatura reală a camerei? apare prima dată în Noutati 24 ."
+    },
     {
       "title": "Ghid mentenanță pentru motoare electrice",
       "link": "https://noutati24.ro/ghid-mentenanta-pentru-motoare-electrice/",
@@ -71,15 +77,15 @@
       "link": "https://noutati24.ro/freelancerii-it-si-fuga-de-taxele-din-romania-este-bulgaria-o-optiune/",
       "date": "Sat, 29 Nov 2025 13:22:00 +0000",
       "summary": "Sectorul tehnologic din Rom&#226;nia a traversat o tranziție brutală &#238;n ultimii ani, trec&#226;nd de la statutul de domeniu strategic, protejat &#8230; Articolul Freelancerii IT și &quot;fuga&quot; de taxele din România: Este Bulgaria o opțiune? apare prima dată în Noutati 24 ."
-    },
-    {
-      "title": "Ce avantaje are un ceas Samsung pentru sportivi",
-      "link": "https://noutati24.ro/ce-avantaje-are-un-ceas-samsung-pentru-sportivi/",
-      "date": "Fri, 28 Nov 2025 11:40:08 +0000",
-      "summary": "Ceasurile smart sunt folosite tot mai des în antrenamente. Ele nu înlocuiesc pregătirea sportivă, dar oferă date clare despre efort &#8230; Articolul Ce avantaje are un ceas Samsung pentru sportivi apare prima dată în Noutati 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@noutati24/115923398384313900",
+      "date": "Mon, 19 Jan 2026 19:24:43 +0000",
+      "content": "🆕Eficiența sistemului de încălzire depinde mai puțin de puterea centralei și mai mult de precizia cu care aceasta este controlată. Facturile mari la gaze și disconfortul termic (prea cald sau prea frig) au adesea o cauză banală, dar ignorată. Poziționarea greșită a senzorului care monitorizează clima interioară sabotează întregul efort de încălzire. Dispozitivul de comandă… 🌐 https:// noutati24.ro/unde-montezi-core ct-un-termostat-pentru-a-citi-temperatura-reala-a-camerei/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@noutati24/115893430248861169",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@noutati24/115694714326538501",
       "date": "Wed, 10 Dec 2025 10:07:21 +0000",
       "content": "🆕Câmpul de luptă al informației s-a schimbat radical. Comunicatul de presă tradițional, odată trimis prin fax sau email, nu mai este suficient. În 2025, succesul nu se măsoară doar în numărul de preluări, ci și în capacitatea textului de a naviga prin filtrele algoritmilor Google și de a fi consumat rapid pe orice platformă de… 🌐 https:// noutati24.ro/cum-adaptezi-comu nicatele-de-presa-in-2025-pentru-jurnalisti-si-pentru-google/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@noutati24/115694692555998489",
-      "date": "Wed, 10 Dec 2025 10:01:49 +0000",
-      "content": "❤️ Știri și articole 24/7: actualitate, economie, tehnologie, sănătate, lifestyle și povești care merită atenție. ❤️ Fără zgomot, doar informație esențială. # stiri # noutati # actualitate # news # noutati24 ⚔️ https:// noutati24.ro/"
     }
   ]
 }
