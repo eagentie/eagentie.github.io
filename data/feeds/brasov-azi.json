@@ -4,8 +4,14 @@
   "site_feed": "https://brasov-azi.ro/feed/",
   "mastodon": "https://social.5th.ro/@brasov",
   "mastodon_rss": "https://social.5th.ro/@brasov.rss",
-  "updated_at": "2026-01-20T15:47:13Z",
+  "updated_at": "2026-01-20T16:51:46Z",
   "site_posts": [
+    {
+      "title": "Kinga Janurik, portarul de HANDBAL, va juca pentru Corona Brașov începând cu 2026",
+      "link": "https://brasov-azi.ro/kinga-janurik-portarul-de-handbal-va-juca-pentru-corona-brasov-incepand-cu-2026/",
+      "date": "Tue, 20 Jan 2026 14:35:27 +0000",
+      "summary": "Corona Brașov o achiziționează pe Kinga Janurik, portărița Ungariei, din 2026. Vine de la FTC cu experiență vastă în EHF Champions League și la Jocurile Olimpic Articolul Kinga Janurik, portarul de HANDBAL, va juca pentru Corona Brașov începând cu 2026 apare prima dată în Brasov AZI ."
+    },
     {
       "title": "Advertoriale în Brașov: cum îți faci cunoscută afacerea în 2026",
       "link": "https://brasov-azi.ro/advertoriale-brasov-cum-iti-faci-cunoscuta-afacerea-2026/",
@@ -71,15 +77,15 @@
       "link": "https://brasov-azi.ro/programul-cultural-al-saptamanii-16-22-ianuarie-in-brasov-lista-completa-de-evenimente/",
       "date": "Sun, 18 Jan 2026 08:53:54 +0000",
       "summary": "Săptămâna aceasta, între 16 și 22 ianuarie 2026, Brașovul se animă cu o mulțime de evenimente culturale menite să ne scoată din rutina de iarnă. Instituțiile de cultură aflate sub tutela Consiliului Județean Brașov au pregătit un program divers, care... Articolul Programul cultural al săptămânii 16–22 ianuarie în Brașov: lista completă de evenimente apare prima dată în Brasov AZI ."
-    },
-    {
-      "title": "Paradox pe piața imobiliară: deși vânzările de locuințe scad în 2025, prețurile vor crește",
-      "link": "https://brasov-azi.ro/paradox-pe-piata-imobiliara-desi-vanzarile-de-locuinte-scad-in-2025-preturile-vor-creste/",
-      "date": "Sun, 18 Jan 2026 08:49:56 +0000",
-      "summary": "Conform datelor furnizate de Agenția Națională de Cadastru și Publicitate Imobiliară (ANCPI), piața imobiliară din România a înregistrat o încetinire notabilă pe parcursul anului 2025. Volumul tranzacțiilor cu unități locative individuale a scăzut la nivel național, iar corecțiile cele mai... Articolul Paradox pe piața imobiliară: deși vânzările de locuințe scad în 2025, prețurile vor crește apare prima dată în Brasov AZI ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@brasov/115928400268464831",
+      "date": "Tue, 20 Jan 2026 16:36:46 +0000",
+      "content": "Corona Brașov o achiziționează pe Kinga Janurik, portărița Ungariei, din 2026. Vine de la FTC cu experiență vastă în EHF Champions League și la Jocurile Olimpic https:// brasov-azi.ro/kinga-janurik-po rtarul-de-handbal-va-juca-pentru-corona-brasov-incepand-cu-2026/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@brasov/115921519793582577",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@brasov/115915300350529876",
       "date": "Sun, 18 Jan 2026 09:05:17 +0000",
       "content": "https:// brasov-azi.ro/investitie-de-1- milion-de-lei-la-spitalul-de-copii-brasov-pentru-reducerea-riscului-de-infectii-nosocomiale/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@brasov/115915295674856056",
-      "date": "Sun, 18 Jan 2026 09:04:05 +0000",
-      "content": "Un eveniment serios care ridică semne de întrebare cu privire la siguranța pe pârtiile de schi a avut loc recent în stațiunea montană Poiana Brașov. Pe o pârtie intens circulată, cablul unei instalații de transport pe cablu (telecabină sau telegondolă) s-a lăsat în mod neașteptat. Acesta a coborât până la un nivel periculos de mic,… https:// brasov-azi.ro/un-cablu-de-tele cabina-a-coborat-pana-la-nivelul-schiorilor-pe-o-partie-din-poiana-brasov-un-barbat-de-40-de-ani-fiind-ranit/"
     }
   ]
 }
