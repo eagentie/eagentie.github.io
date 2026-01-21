@@ -4,8 +4,14 @@
   "site_feed": "https://brasov-azi.ro/feed/",
   "mastodon": "https://social.5th.ro/@brasov",
   "mastodon_rss": "https://social.5th.ro/@brasov.rss",
-  "updated_at": "2026-01-21T02:31:46Z",
+  "updated_at": "2026-01-21T04:14:37Z",
   "site_posts": [
+    {
+      "title": "Rockstadt Extreme Fest confirmă prezența The Prodigy pe scena din Ghimbav, România",
+      "link": "https://brasov-azi.ro/rockstadt-extreme-fest-confirma-prezenta-the-prodigy-pe-scena-din-ghimbav-romania/",
+      "date": "Wed, 21 Jan 2026 02:08:53 +0000",
+      "summary": "Legendarii The Prodigy sunt ultimul headliner Rockstadt Extreme Fest 2026, ediție ce inaugurează o nouă locație: festivalul se mută la Ghimbav. Articolul Rockstadt Extreme Fest confirmă prezența The Prodigy pe scena din Ghimbav, România apare prima dată în Brasov AZI ."
+    },
     {
       "title": "Schiorii evită Poiana Brașov și Predeal: Noile preferințe ale românilor pentru pârtiile montane",
       "link": "https://brasov-azi.ro/schiorii-evita-poiana-brasov-si-predeal-noile-preferinte-ale-romanilor-pentru-partiile-montane/",
@@ -71,15 +77,15 @@
       "link": "https://brasov-azi.ro/investitie-de-1-milion-de-lei-la-spitalul-de-copii-brasov-pentru-reducerea-riscului-de-infectii-nosocomiale/",
       "date": "Sun, 18 Jan 2026 09:05:16 +0000",
       "summary": "Spitalul de Copii din Brașov a marcat un progres esențial în consolidarea siguranței medicale, finalizând un proiect substanțial de dotare cu aparatură modernă. Suma investită, care atinge pragul de 1 milion de lei, a fost alocată exclusiv pentru achiziția de... Articolul Investiție de 1 milion de lei la Spitalul de Copii Brașov pentru reducerea riscului de infecții nosocomiale apare prima dată în Brasov AZI ."
-    },
-    {
-      "title": "Un cablu de telecabină a coborât până la nivelul schiorilor pe o pârtie din Poiana Brașov, un bărbat de 40 de ani fiind rănit.",
-      "link": "https://brasov-azi.ro/un-cablu-de-telecabina-a-coborat-pana-la-nivelul-schiorilor-pe-o-partie-din-poiana-brasov-un-barbat-de-40-de-ani-fiind-ranit/",
-      "date": "Sun, 18 Jan 2026 09:04:05 +0000",
-      "summary": "Un eveniment serios care ridică semne de întrebare cu privire la siguranța pe pârtiile de schi a avut loc recent în stațiunea montană Poiana Brașov. Pe o pârtie intens circulată, cablul unei instalații de transport pe cablu (telecabină sau telegondolă)... Articolul Un cablu de telecabină a coborât până la nivelul schiorilor pe o pârtie din Poiana Brașov, un bărbat de 40 de ani fiind rănit. apare prima dată în Brasov AZI ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@brasov/115931126680153566",
+      "date": "Wed, 21 Jan 2026 04:10:07 +0000",
+      "content": "Legendarii The Prodigy sunt ultimul headliner Rockstadt Extreme Fest 2026, ediție ce inaugurează o nouă locație: festivalul se mută la Ghimbav. https:// brasov-azi.ro/rockstadt-extrem e-fest-confirma-prezenta-the-prodigy-pe-scena-din-ghimbav-romania/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@brasov/115928901190939511",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@brasov/115921045112532884",
       "date": "Mon, 19 Jan 2026 09:26:15 +0000",
       "content": "Cadrul istoric impresionant al Cetății Făgăraș se transformă într-un loc de poveste, special conceput pentru a-i introduce pe cei mici în lumea fascinantă a lecturii. Această inițiativă culturală urmărește să combine istoria și arhitectura medievală cu bucuria descoperirii literare, oferind copiilor o experiență de neuitat. Prin diverse activități interactive și sesiuni de lectură, organizatorii speră… https:// brasov-azi.ro/tacere/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@brasov/115916874862421108",
-      "date": "Sun, 18 Jan 2026 15:45:42 +0000",
-      "content": "Se anunță zile extrem de reci în județul Brașov! Administrația Națională de Meteorologie (ANM) a emis mai multe avertizări Cod Galben, valabile în perioada 18 ianuarie, ora 10:00, până pe 20 ianuarie, ora 10:00, care vizează un val de ger sever. Acest episod de vreme deosebit de rece va afecta cel mai mult zona montană… https:// brasov-azi.ro/brasovul-paraliz at-de-ger-sever-salvamontistii-cer-turistilor-sa-isi-planifice-deplasarile-cu-maxima-prudenta/"
     }
   ]
 }
