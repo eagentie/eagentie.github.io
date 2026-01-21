@@ -4,8 +4,14 @@
   "site_feed": "https://iEnergie.ro/feed/",
   "mastodon": "https://social.5th.ro/@ienergie",
   "mastodon_rss": "https://social.5th.ro/@ienergie.rss",
-  "updated_at": "2026-01-21T06:56:34Z",
+  "updated_at": "2026-01-21T07:44:59Z",
   "site_posts": [
+    {
+      "title": "Strategia Comisiei Europene vizează construcția primelor centrale de fuziune pe teritoriul Europei",
+      "link": "https://ienergie.ro/strategia-comisiei-europene-vizeaza-constructia-primelor-centrale-de-fuziune-pe-teritoriul-europei/",
+      "date": "Wed, 21 Jan 2026 05:08:49 +0000",
+      "summary": "Comisia Europeană dezvoltă o strategie pentru dezvoltarea centralelor de fuziune nucleară și eliminarea gazelor rusești, sporind independența UE. Articolul Strategia Comisiei Europene vizează construcția primelor centrale de fuziune pe teritoriul Europei apare prima dată în iEnergie ."
+    },
     {
       "title": "Sursele regenerabile au furnizat aproape 50% din necesarul de electricitate al UE pe parcursul anului 2024",
       "link": "https://ienergie.ro/sursele-regenerabile-au-furnizat-aproape-50-din-necesarul-de-electricitate-al-ue-pe-parcursul-anului-2024/",
@@ -71,15 +77,15 @@
       "link": "https://ienergie.ro/republish-refresh-cum-actualizezi-advertorialele-vechi-in-2025/",
       "date": "Mon, 01 Dec 2025 12:07:49 +0000",
       "summary": "Ați investit timp și resurse semnificative în crearea de advertoriale și articole. Aceste piese de conținut, odinioară puternice, stau acum prăfuite în arhivele site-ului dumneavoastră. [Mai mult...] Articolul Republish &#038; refresh: cum actualizezi advertorialele vechi în 2025 apare prima dată în iEnergie ."
-    },
-    {
-      "title": "ROMANIAN ENERGY WEEK 2025",
-      "link": "https://ienergie.ro/romanian-energy-week-2025/",
-      "date": "Tue, 18 Nov 2025 07:22:57 +0000",
-      "summary": "ROMANIAN ENERGY WEEK 2025: 5 zile de dezbateri, 5 teme vitale pentru energie Palatul Parlamentului găzduiește &#238;ntre 17 și 21 noiembrie ROMANIAN ENERGY WEEK [REW [Mai mult...] Articolul ROMANIAN ENERGY WEEK 2025 apare prima dată în iEnergie ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@ienergie/115931839768689163",
+      "date": "Wed, 21 Jan 2026 07:11:28 +0000",
+      "content": "Comisia Europeană dezvoltă o strategie pentru dezvoltarea centralelor de fuziune nucleară și eliminarea gazelor rusești, sporind independența UE. https:// ienergie.ro/strategia-comisiei -europene-vizeaza-constructia-primelor-centrale-de-fuziune-pe-teritoriul-europei/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@ienergie/115926434209252137",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@ienergie/115695034118172105",
       "date": "Wed, 10 Dec 2025 11:28:41 +0000",
       "content": "Ați investit timp și resurse semnificative în crearea de advertoriale și articole. Aceste piese de conținut, odinioară puternice, stau acum prăfuite în arhivele site-ului dumneavoastră. Știați că peste 60% din conținutul publicat începe să piardă din vizibilitate după doar un an? (Atenție) Vă confruntați cu scăderea lentă, dar sigură, a pozițiilor în Google și o… https:// ienergie.ro/republish-refresh- cum-actualizezi-advertorialele-vechi-in-2025/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@ienergie/115695033939398723",
-      "date": "Wed, 10 Dec 2025 11:28:38 +0000",
-      "content": "ROMANIAN ENERGY WEEK 2025: 5 zile de dezbateri, 5 teme vitale pentru energie Palatul Parlamentului găzduiește între 17 și 21 noiembrie ROMANIAN ENERGY WEEK [REW 2025], summit organizat în parteneriat strategic cu Ministerul Energiei, Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului, Ministerul Mediului, Apelor și Pădurilor, precum și Departamentul pentru Dezvoltare Durabilă al Guvernului și Cancelaria… https:// ienergie.ro/romanian-energy-we ek-2025/"
     }
   ]
 }
