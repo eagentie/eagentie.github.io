@@ -4,8 +4,14 @@
   "site_feed": "https://iFemeie.ro/feed/",
   "mastodon": "https://social.5th.ro/@iFemeie",
   "mastodon_rss": "https://social.5th.ro/@iFemeie.rss",
-  "updated_at": "2026-01-22T07:41:17Z",
+  "updated_at": "2026-01-22T08:52:28Z",
   "site_posts": [
+    {
+      "title": "De la conceptie la nastere: Vitaminele in sarcina si rolul important al suplimentelor Oligobs",
+      "link": "https://ifemeie.ro/de-la-conceptie-la-nastere-vitaminele-in-sarcina-si-rolul-important-al-suplimentelor-oligobs/",
+      "date": "Thu, 22 Jan 2026 08:08:45 +0000",
+      "summary": "Perioada sarcinii reprezinta una dintre cele mai frumoase, dar si solicitante etape din viata unei... Articolul De la conceptie la nastere: Vitaminele in sarcina si rolul important al suplimentelor Oligobs apare prima dată în iFemeie ."
+    },
     {
       "title": "Cum scrii postări care primesc boost-uri pe Mastodon",
       "link": "https://ifemeie.ro/cum-scrii-postari-care-primesc-boost-uri-pe-mastodon/",
@@ -65,15 +71,15 @@
       "link": "https://ifemeie.ro/ghid-pentru-parinti-cum-alegi-gradinita-potrivita-pentru-copilul-tau/",
       "date": "Sun, 16 Nov 2025 17:03:49 +0000",
       "summary": "Alegerea unei gradinite este un pas important in viata fiecarui parinte. Este momentul in care... Articolul Ghid pentru parinti. Cum alegi gradinita potrivita pentru copilul tau apare prima dată în iFemeie ."
-    },
-    {
-      "title": "Mâini de start în Texas Hold’em: ce joci și ce arunci fără milă",
-      "link": "https://ifemeie.ro/maini-de-start-in-texas-holdem-ce-joci-si-ce-arunci-fara-mila/",
-      "date": "Sat, 15 Nov 2025 10:03:28 +0000",
-      "summary": "Ați simțit vreodată că aveți ghinion constant la masa de poker? Mulți jucători amatori fac... Articolul Mâini de start în Texas Hold’em: ce joci și ce arunci fără milă apare prima dată în iFemeie ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@iFemeie/115937727336402026",
+      "date": "Thu, 22 Jan 2026 08:08:45 +0000",
+      "content": "Perioada sarcinii reprezinta una dintre cele mai frumoase, dar si solicitante etape din viata unei femei. Din momentul in care testul de sarcina devine pozitiv, corpul viitoarei mamici incepe un proces incredibil de transformare pentru a sustine dezvoltarea unei noi vieti. In acest context, nutritia joaca un rol critic, iar de multe ori alimentatia obisnuita… https:// ifemeie.ro/de-la-conceptie-la- nastere-vitaminele-in-sarcina-si-rolul-important-al-suplimentelor-oligobs/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@iFemeie/115797393280596627",

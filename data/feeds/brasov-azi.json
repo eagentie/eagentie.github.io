@@ -4,8 +4,14 @@
   "site_feed": "https://brasov-azi.ro/feed/",
   "mastodon": "https://social.5th.ro/@brasov",
   "mastodon_rss": "https://social.5th.ro/@brasov.rss",
-  "updated_at": "2026-01-22T07:40:10Z",
+  "updated_at": "2026-01-22T08:51:23Z",
   "site_posts": [
+    {
+      "title": "Orion Stars Doetinchem câștigă disputa cu CSM Corona Brașov în prima manșă a optimilor Cupei CEV",
+      "link": "https://brasov-azi.ro/orion-stars-doetinchem-castiga-disputa-cu-csm-corona-brasov-in-prima-mansa-a-optimilor-cupei-cev/",
+      "date": "Thu, 22 Jan 2026 06:43:49 +0000",
+      "summary": "CSM Corona Brașov a debutat cu un eșec în faza optimilor de finală ale Cupei CEV la volei masculin, fiind învinsă de formația olandeză Orion Stars Doetinchem. Meciul s-a încheiat cu scorul de 3-0 în favoarea gazdelor. Confruntarea a avut... Articolul Orion Stars Doetinchem câștigă disputa cu CSM Corona Brașov în prima manșă a optimilor Cupei CEV apare prima dată în Brasov AZI ."
+    },
     {
       "title": "Imobilul reprezentativ al Agenției BNR Brașov va fi modernizat complet prin lucrări ample de reabilitare și renovare de durată",
       "link": "https://brasov-azi.ro/imobilul-reprezentativ-al-agentiei-bnr-brasov-va-fi-modernizat-complet-prin-lucrari-ample-de-reabilitare-si-renovare-de-durata/",
@@ -71,15 +77,15 @@
       "link": "https://brasov-azi.ro/advertoriale-brasov-cum-iti-faci-cunoscuta-afacerea-2026/",
       "date": "Mon, 19 Jan 2026 11:20:44 +0000",
       "summary": "Un advertorial bun nu sună ca o reclamă. Sună ca un articol util, care explică, clarifică și ajută omul să ia o decizie. În 2026, exact asta face diferența: conținut credibil, publicat în context potrivit și legat inteligent în site.... Articolul Advertoriale în Brașov: cum îți faci cunoscută afacerea în 2026 apare prima dată în Brasov AZI ."
-    },
-    {
-      "title": "Comunicate de presă în Brașov în 2026: model, structură și distribuție care chiar aduce rezultate",
-      "link": "https://brasov-azi.ro/comunicate-de-presa-brasov-2026-model-structura-distributie/",
-      "date": "Mon, 19 Jan 2026 10:48:41 +0000",
-      "summary": "Un comunicat bun nu e “text de umplutură”. E o știre scurtă, clară și ușor de preluat. În 2026, câștigă comunicatele care au un unghi real, date concrete și un traseu logic spre pagina ta. PR local Vizibilitate Brand +... Articolul Comunicate de presă în Brașov în 2026: model, structură și distribuție care chiar aduce rezultate apare prima dată în Brasov AZI ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@brasov/115937874643062599",
+      "date": "Thu, 22 Jan 2026 08:46:13 +0000",
+      "content": "CSM Corona Brașov a debutat cu un eșec în faza optimilor de finală ale Cupei CEV la volei masculin, fiind învinsă de formația olandeză Orion Stars Doetinchem. Meciul s-a încheiat cu scorul de 3-0 în favoarea gazdelor. Confruntarea a avut loc miercuri seara în SaZa Topsporthal din Doetinchem și s-a întins pe durata a o… https:// brasov-azi.ro/orion-stars-doet inchem-castiga-disputa-cu-csm-corona-brasov-in-prima-mansa-a-optimilor-cupei-cev/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@brasov/115933249862868121",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@brasov/115921519793582577",
       "date": "Mon, 19 Jan 2026 11:26:58 +0000",
       "content": "📢 Despre Brasov-Azi.roBrasov-Azi.ro este publicația locală unde afacerile, organizațiile și comunitatea din Brașov își fac auzite poveștile. Oferim: știri și comunicate locale, advertoriale și campanii de promovare, articole SEO orientate pe intenție, pentru vizibilitate și trafic relevant. Dacă vrei să anunți ceva important sau să-ți promovezi brandul în Brașov, suntem aici cu soluții rapide și… https:// brasov-azi.ro/contact/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@brasov/115921495275384982",
-      "date": "Mon, 19 Jan 2026 11:20:44 +0000",
-      "content": "Un advertorial bun nu sună ca o reclamă. Sună ca un articol util, care explică, clarifică și ajută omul să ia o decizie. În 2026, exact asta face diferența: conținut credibil, publicat în context potrivit și legat inteligent în site. Vizibilitate locală Încredere Trafic + cereri Ca să legi totul într-o strategie coerentă, vezi și… https:// brasov-azi.ro/advertoriale-bra sov-cum-iti-faci-cunoscuta-afacerea-2026/"
     }
   ]
 }
