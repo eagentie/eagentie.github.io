@@ -4,8 +4,14 @@
   "site_feed": "https://brasov-azi.ro/feed/",
   "mastodon": "https://social.5th.ro/@brasov",
   "mastodon_rss": "https://social.5th.ro/@brasov.rss",
-  "updated_at": "2026-01-23T07:37:19Z",
+  "updated_at": "2026-01-23T08:47:38Z",
   "site_posts": [
+    {
+      "title": "Julia Sauter și Daniela Toth, portdrapelul României la startul Jocurilor Olimpice de iarnă 2026 Milano-Cortina",
+      "link": "https://brasov-azi.ro/julia-sauter-si-daniela-toth-portdrapelul-romaniei-la-startul-jocurilor-olimpice-de-iarna-2026-milano-cortina/",
+      "date": "Fri, 23 Jan 2026 06:22:09 +0000",
+      "summary": "România se pregătește să participe la Jocurile Olimpice de iarnă din 2026 cu o delegație numeroasă. Evenimentul sportiv de mare anvergură se va desfășura în Italia, în regiunea Milano-Cortina d’Ampezzo, între 6 și 22 februarie 2026. Delegația română va cuprinde... Articolul Julia Sauter și Daniela Toth, portdrapelul României la startul Jocurilor Olimpice de iarnă 2026 Milano-Cortina apare prima dată în Brasov AZI ."
+    },
     {
       "title": "Alexandra Crivineanu, consilier PSD: Ce face, de fapt? Bilanțul activității și promisiunile neonorate.",
       "link": "https://brasov-azi.ro/alexandra-crivineanu-consilier-psd-ce-face-de-fapt-bilantul-activitatii-si-promisiunile-neonorate/",
@@ -71,15 +77,15 @@
       "link": "https://brasov-azi.ro/orion-stars-doetinchem-castiga-disputa-cu-csm-corona-brasov-in-prima-mansa-a-optimilor-cupei-cev/",
       "date": "Thu, 22 Jan 2026 06:43:49 +0000",
       "summary": "CSM Corona Brașov a debutat cu un eșec în faza optimilor de finală ale Cupei CEV la volei masculin, fiind învinsă de formația olandeză Orion Stars Doetinchem. Meciul s-a încheiat cu scorul de 3-0 în favoarea gazdelor. Confruntarea a avut... Articolul Orion Stars Doetinchem câștigă disputa cu CSM Corona Brașov în prima manșă a optimilor Cupei CEV apare prima dată în Brasov AZI ."
-    },
-    {
-      "title": "Imobilul reprezentativ al Agenției BNR Brașov va fi modernizat complet prin lucrări ample de reabilitare și renovare de durată",
-      "link": "https://brasov-azi.ro/imobilul-reprezentativ-al-agentiei-bnr-brasov-va-fi-modernizat-complet-prin-lucrari-ample-de-reabilitare-si-renovare-de-durata/",
-      "date": "Wed, 21 Jan 2026 11:07:41 +0000",
-      "summary": "Agenția Băncii Naționale a Rom&#226;niei (BNR) din Brașov &#238;și desfășoară activitatea &#238;ntr-un spațiu cu o valoare istorică deosebită. Este vorba despre unul dintre celebrele Palate Czell, un edificiu care aparține BNR și care este, de asemenea, clasificat pe lista monumentelor... Articolul Imobilul reprezentativ al Agenției BNR Brașov va fi modernizat complet prin lucrări ample de reabilitare și renovare de durată apare prima dată în Brasov AZI ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@brasov/115943467073354095",
+      "date": "Fri, 23 Jan 2026 08:28:27 +0000",
+      "content": "România se pregătește să participe la Jocurile Olimpice de iarnă din 2026 cu o delegație numeroasă. Evenimentul sportiv de mare anvergură se va desfășura în Italia, în regiunea Milano-Cortina d’Ampezzo, între 6 și 22 februarie 2026. Delegația română va cuprinde un total de 29 de sportivi, mulți dintre aceștia provenind din zona Brașovului. Componența delegației… https:// brasov-azi.ro/julia-sauter-si- daniela-toth-portdrapelul-romaniei-la-startul-jocurilor-olimpice-de-iarna-2026-milano-cortina/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@brasov/115939132899142828",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@brasov/115937874643062599",
       "date": "Thu, 22 Jan 2026 08:46:13 +0000",
       "content": "CSM Corona Brașov a debutat cu un eșec în faza optimilor de finală ale Cupei CEV la volei masculin, fiind învinsă de formația olandeză Orion Stars Doetinchem. Meciul s-a încheiat cu scorul de 3-0 în favoarea gazdelor. Confruntarea a avut loc miercuri seara în SaZa Topsporthal din Doetinchem și s-a întins pe durata a o… https:// brasov-azi.ro/orion-stars-doet inchem-castiga-disputa-cu-csm-corona-brasov-in-prima-mansa-a-optimilor-cupei-cev/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@brasov/115933249862868121",
-      "date": "Wed, 21 Jan 2026 13:10:04 +0000",
-      "content": "Agenția Băncii Naționale a României (BNR) din Brașov își desfășoară activitatea într-un spațiu cu o valoare istorică deosebită. Este vorba despre unul dintre celebrele Palate Czell, un edificiu care aparține BNR și care este, de asemenea, clasificat pe lista monumentelor istorice ale României. Dat fiind statutul clădirii, BNR, în calitate de https:// brasov-azi.ro/imobilul-repreze ntativ-al-agentiei-bnr-brasov-va-fi-modernizat-complet-prin-lucrari-ample-de-reabilitare-si-renovare-de-durata/"
     }
   ]
 }
