@@ -4,8 +4,33 @@
   "site_feed": "https://femeie-antreprenor.ro/feed/",
   "mastodon": "https://social.5th.ro/@femeie_antreprenor",
   "mastodon_rss": "https://social.5th.ro/@femeie_antreprenor.rss",
-  "updated_at": "2026-01-27T18:57:40Z",
-  "site_posts": [],
+  "updated_at": "2026-01-27T19:39:40Z",
+  "site_posts": [
+    {
+      "title": "Târgul Educațional Mommy HAI revine pe 31 ianuarie, la Sala Palatului",
+      "link": "https://femeie-antreprenor.ro/targul-educational-mommy-hai-revine-pe-31-ianuarie-la-sala-palatului/",
+      "date": "Tue, 20 Jan 2026 15:56:53 +0000",
+      "summary": "Pe 31 ianuarie, Sala Palatului devine punctul de &#238;nt&#226;lnire al părinților care caută mai mult dec&#226;t promisiuni frumoase atunci c&#226;nd vine vorba despre educația copiilor lor. T&#226;rgul Educațional Mommy HAI, ajuns la cea de-a III-a ediție, reunește &#238;ntr-un singur loc peste 50 de instituții private de &#238;nvățăm&#226;nt: creșe, grădinițe, școli, afterschool-uri și licee, cu abordări [&#8230;] Articolul Târgul Educațional Mommy HAI revine pe 31 ianuarie, la Sala Palatului apare prima dată în Femeie Antreprenor ."
+    },
+    {
+      "title": "Petreceri pentru copii fără stres: secretele unei organizări inspirate",
+      "link": "https://femeie-antreprenor.ro/petreceri-pentru-copii-fara-stres-secretele-unei-organizari-inspirate/",
+      "date": "Wed, 31 Dec 2025 06:27:00 +0000",
+      "summary": "Pentru mulți părinți, organizarea unei petreceri pentru copii este un amestec de entuziasm și presiune. Dorința de a oferi o zi perfectă se lovește adesea de lipsa timpului, de oboseală și de grija ca totul să decurgă fără probleme. În realitate, o petrecere reușită nu înseamnă perfecțiune, ci echilibru. Atunci când este gândită inteligent și [&#8230;] Articolul Petreceri pentru copii fără stres: secretele unei organizări inspirate apare prima dată în Femeie Antreprenor ."
+    },
+    {
+      "title": "Copilul tău merită ce-i mai bun: Cum influențează o lenjerie de pat de calitate sănătatea și somnul celor mici",
+      "link": "https://femeie-antreprenor.ro/copilul-tau-merita-ce-i-mai-bun-cum-influenteaza-o-lenjerie-de-pat-de-calitate-sanatatea-si-somnul-celor-mici/",
+      "date": "Sun, 21 Dec 2025 10:37:19 +0000",
+      "summary": "Fiecare părinte își dorește un singur lucru esențial pentru copilul său: siguranță și confort în fiecare moment al zilei. Deși pare un detaliu minor, modul în care pregătești patul celui mic influențează direct nu doar somnul, ci și starea sa generală de sănătate. În primii ani de viață, copiii petrec foarte multe ore în pat, [&#8230;] Articolul Copilul tău merită ce-i mai bun: Cum influențează o lenjerie de pat de calitate sănătatea și somnul celor mici apare prima dată în Femeie Antreprenor ."
+    },
+    {
+      "title": "Cum funcționează căutarea pe Mastodon și de ce e diferită",
+      "link": "https://femeie-antreprenor.ro/cum-functioneaza-cautarea-pe-mastodon-si-de-ce-e-diferita/",
+      "date": "Wed, 17 Dec 2025 16:58:54 +0000",
+      "summary": "Ați auzit de Mastodon și v-ați alăturat rețelei, atrași de promisiunea unui spațiu social descentralizat. Totuși, v-ați lovit rapid de o problemă fundamentală: mecanismul de căutare nu funcționează așa cum sunteți obișnuiți. Unde sunt rezultatele complete? De ce pare că Mastodon ascunde informațiile? Această frustrare comună este perfect justificată. Spre deosebire de platformele centralizate, modul [&#8230;] Articolul Cum funcționează căutarea pe Mastodon și de ce e diferită apare prima dată în Femeie Antreprenor ."
+    }
+  ],
   "mastodon_posts": [
     {
       "title": "",
