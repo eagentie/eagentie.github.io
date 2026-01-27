@@ -4,7 +4,7 @@
   "site_feed": "https://stiridemocratice.ro/feed/",
   "mastodon": "https://social.5th.ro/@stiri_democratice",
   "mastodon_rss": "https://social.5th.ro/@stiri_democratice.rss",
-  "updated_at": "2026-01-27T20:48:01Z",
+  "updated_at": "2026-01-27T21:33:15Z",
   "site_posts": [
     {
       "title": "Ce face viața unui motociclist atât de interesantă",
@@ -73,5 +73,36 @@
       "summary": "Vrei să construiești o afacere de succes în educație? Imaginează-ți impactul pe care îl poți avea, ajutând oamenii să-și atingă potențialul maxim. Este posibil și mai ușor decât crezi! Află cum poți construi un brand educațional puternic și recunoscut în Europa. Construirea unui Brand Educațional de Succes în Europa Importanța Educației Sustenabile În contextul actual, [&#8230;] Articolul Cum să construiești un brand educațional recunoscut în Europa apare prima dată în Stiri democratice ."
     }
   ],
-  "mastodon_posts": []
+  "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@stiri_democratice/115808708403894913",
+      "date": "Tue, 30 Dec 2025 13:17:33 +0000",
+      "content": "Există oameni care privesc motocicliștii și văd doar zgomot, adrenalină și viteză. Dar există și cei care înțeleg că, dincolo de motor și drum, se ascunde un mod de a trăi. Viața unui motociclist nu este construită pe momente spectaculoase, ci pe o colecție de trăiri mici, intense și sincere, care se adaugă una peste… https:// stiridemocratice.ro/ce-face-vi ata-unui-motociclist-atat-de-interesanta/"
+    },
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@stiri_democratice/115736461922088017",
+      "date": "Wed, 17 Dec 2025 19:04:19 +0000",
+      "content": "V-ați săturat de algoritmii invizibili care decid ce vedeți și ce nu vedeți în fluxurile de știri? În era digitală, găsirea surselor de informații autentice, nealterate de interese comerciale ascunse, a devenit o provocare majoră. Din fericire, există o soluție descentralizată care câștigă rapid teren: Mastodon. Această rețea socială, bazată pe principii comunitare, oferă un… https:// stiridemocratice.ro/cum-gasest i-presa-si-publicatii-pe-mastodon-romania/"
+    },
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@stiri_democratice/115705951848764145",
+      "date": "Fri, 12 Dec 2025 09:45:12 +0000",
+      "content": "Mulți dintre noi privesc jocurile de noroc ca pe o formă de divertisment. Fie că este vorba de o seară la cazinoul fizic sau de o sesiune online, adrenalina este un factor motivant. Totuși, ce se întâmplă când această activitate se intersectează cu consumul de alcool? Această combinație poate transforma rapid o experiență plăcută într-un… https:// stiridemocratice.ro/cum-eviti- sa-combini-alcoolul-cu-sesiunile-lungi-la-pacanele/"
+    },
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@stiri_democratice/115705951650448805",
+      "date": "Fri, 12 Dec 2025 09:45:09 +0000",
+      "content": "A (Atenție): Ești sătul să depui constant bani la casele de pariuri, fără să înțelegi exact unde greșești? Majoritatea pariorilor se bazează pe memorie sau pe emoție. Ei se concentrează doar pe rezultatul imediat, ratând imaginea de ansamblu esențială pentru succes. I (Interes): Vrei să transformi pariurile dintr-un hobby costisitor într-o activitate strategică, bazată pe… https:// stiridemocratice.ro/jurnalul-p ariorului-cum-iti-notezi-si-analizezi-biletele-jucate/"
+    },
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@stiri_democratice/115705896415510451",
+      "date": "Fri, 12 Dec 2025 09:31:06 +0000",
+      "content": "Știri, analize și explicații despre democrație, instituții, alegeri, drepturi civice și stat de drept, prezentate echilibrat și argumentat. # democratie # politica # drepturicivice # statdedrept https:// stiridemocratice.ro"
+    }
+  ]
 }
