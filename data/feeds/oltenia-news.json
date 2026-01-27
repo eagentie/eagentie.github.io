@@ -4,7 +4,7 @@
   "site_feed": "https://oltenia-news.ro/feed/",
   "mastodon": "https://social.5th.ro/@oltenia",
   "mastodon_rss": "https://social.5th.ro/@oltenia.rss",
-  "updated_at": "2026-01-27T19:40:18Z",
+  "updated_at": "2026-01-27T20:43:08Z",
   "site_posts": [
     {
       "title": "Cum folosești listele pe Mastodon pentru feed-uri tematice",
@@ -79,42 +79,5 @@
       "summary": "Articolele SEO pentru Oltenia au un dublu rol: răspund la întrebările reale ale oamenilor din Craiova, Târgu Jiu, Râmnicu Vâlcea, Slatina și Drobeta-Turnu Severin și devin pagini de destinație utile pentru distribuirea locală. Găsești mai jos un ghid aplicat — idei pe industrii, modele de structură, exemple pe orașe și un calendar editorial pe care [&#8230;] Articolul Articole SEO pentru afaceri locale din Oltenia (exemple + idei pe industrii) apare prima dată în Oltenia News ."
     }
   ],
-  "mastodon_posts": [
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@oltenia/115736924606448952",
-      "date": "Wed, 17 Dec 2025 21:01:59 +0000",
-      "content": "Te simți copleșit de fluxul constant de informații în mediul online? Ai impresia că feed-ul tău social este haotic și plin de subiecte care nu te interesează cu adevărat? Această problemă comună de supraîncărcare informațională poate fi rezolvată eficient pe Fediverse. Pe Mastodon, există un instrument simplu, dar extrem de puternic, care îți permite să… https:// oltenia-news.ro/cum-folosesti- listele-pe-mastodon-pentru-feed-uri-tematice/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@oltenia/115706388772975046",
-      "date": "Fri, 12 Dec 2025 11:36:19 +0000",
-      "content": "Sunteți un startup promițător, gata să schimbați regulile jocului, dar bugetul de marketing este aproape inexistent? Competiția este acerbă. Fără expunere eficientă, nimeni nu va afla despre inovația pe care o aduceți. Mulți antreprenori cred că relațiile publice (PR) necesită mii de euro. Aceasta este o eroare comună. Soluția nu este să cheltuiți o avere… https:// oltenia-news.ro/2025-comunicat e-de-presa-pentru-startup-uri-cu-buget-limitat/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@oltenia/115706388641759824",
-      "date": "Fri, 12 Dec 2025 11:36:17 +0000",
-      "content": "(Atenție) V-ați întrebat vreodată care este secretul jucătorilor experimentați care reușesc să-și mărească bugetul fără să scoată bani din buzunar? Ei bine, răspunsul stă ascuns în ofertele generoase de rotiri gratuite pe care cazinourile online le pun la dispoziție. (Interes) Sute de mii de români caută zilnic cele mai bune păcănele promoții, dar puțini știu… https:// oltenia-news.ro/rotiri-gratuit e-tipuri-de-bonusuri-la-pacanele-si-cum-le-joci-inteligent/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@oltenia/115706388473390657",
-      "date": "Fri, 12 Dec 2025 11:36:14 +0000",
-      "content": "Te-ai întrebat vreodată care este calea optimă către succesul la masa de poker online? Mulți jucători, indiferent de nivel, se confruntă cu aceeași dilemă: să aleagă un format turneu rapid și concentrat sau unul lung și plin de oportunități? Industria pokerului este dominată de două structuri majore. Pe de o parte, avem Sit &amp; Go… https:// oltenia-news.ro/sit-go-vs-mtt- ce-format-de-turneu-de-poker-e-potrivit-pentru-tine/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@oltenia/115706386535161417",
-      "date": "Fri, 12 Dec 2025 11:35:45 +0000",
-      "content": "Ați observat vreodată că, atunci când căutați rapid o informație pe Google, un răspuns clar și concis apare direct în vârful paginii, chiar deasupra primului rezultat organic? Această zonă specială este Sfântul Graal al oricărui specialist SEO. Este locul unde se câștigă vizibilitatea maximă. A (Atenție): Traficul organic este vital, dar competiția este acerbă. Dacă… https:// oltenia-news.ro/cum-optimizezi -pentru-featured-snippets-si-pozitia-zero-in-google/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@oltenia/115706371662479391",
-      "date": "Fri, 12 Dec 2025 11:31:58 +0000",
-      "content": "Știri și povești din Oltenia: orașe, sate, economie, infrastructură, cultură, tradiții și oameni. Urmărește-ne pentru un flux constant de noutăți din regiune. # oltenia # stiri # politica # turism https:// oltenia-news.ro"
-    }
-  ]
+  "mastodon_posts": []
 }
