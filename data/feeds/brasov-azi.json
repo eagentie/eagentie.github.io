@@ -4,8 +4,14 @@
   "site_feed": "https://brasov-azi.ro/feed/",
   "mastodon": "https://social.5th.ro/@brasov",
   "mastodon_rss": "https://social.5th.ro/@brasov.rss",
-  "updated_at": "2026-01-27T07:41:12Z",
+  "updated_at": "2026-01-27T08:50:41Z",
   "site_posts": [
+    {
+      "title": "Ministrul Irineu Darău lansează Task Force Digitalizare: Recrutări de specialiști IT.",
+      "link": "https://brasov-azi.ro/ministrul-irineu-darau-lanseaza-task-force-digitalizare-recrutari-de-specialisti-it/",
+      "date": "Tue, 27 Jan 2026 08:01:29 +0000",
+      "summary": "Un pas concret în transformarea digitală a administrației Modernizarea digitală a structurilor guvernamentale reprezintă o provocare majoră și constantă pentru România. În acest context, Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului a inițiat o acțiune substanțială menită să accelereze progresul. Ministrul... Articolul Ministrul Irineu Darău lansează Task Force Digitalizare: Recrutări de specialiști IT. apare prima dată în Brasov AZI ."
+    },
     {
       "title": "Accesul la Cetatea Medievală Râșnov va fi fluidizat cu o parcare nouă pe DN1E, investiție de peste 10 milioane de lei",
       "link": "https://brasov-azi.ro/accesul-la-cetatea-medievala-rasnov-va-fi-fluidizat-cu-o-parcare-noua-pe-dn1e-investitie-de-peste-10-milioane-de-lei/",
@@ -71,15 +77,15 @@
       "link": "https://brasov-azi.ro/luna-ianuarie-a-fost-cea-mai-aspra-din-ultimii-9-ani-desi-recordul-de-385c-stabilit-in-brasov-nu-a-fost-atins/",
       "date": "Thu, 22 Jan 2026 10:32:23 +0000",
       "summary": "Administrația Națională de Meteorologie confirmă că ianuarie 2026 a fost cea mai rece lună din ultimii nouă ani, cu 18 zile de frig intens și ger. Articolul Luna ianuarie a fost cea mai aspră din ultimii 9 ani, deși recordul de –38,5°C stabilit în Brașov nu a fost atins apare prima dată în Brasov AZI ."
-    },
-    {
-      "title": "Handbal feminin: Renata de Arruda își va începe angajamentul la CSM Corona Brașov din 2026",
-      "link": "https://brasov-azi.ro/handbal-feminin-renata-de-arruda-isi-va-incepe-angajamentul-la-csm-corona-brasov-din-2026/",
-      "date": "Thu, 22 Jan 2026 10:29:42 +0000",
-      "summary": "Portarul brazilian Renata de Arruda ajunge la CSM Corona Brașov în 2026, aducând experiență vastă din EHF Champions League și Jocurile Olimpice. Articolul Handbal feminin: Renata de Arruda își va începe angajamentul la CSM Corona Brașov din 2026 apare prima dată în Brasov AZI ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@brasov/115966010319444410",
+      "date": "Tue, 27 Jan 2026 08:01:29 +0000",
+      "content": "Un pas concret în transformarea digitală a administrației Modernizarea digitală a structurilor guvernamentale reprezintă o provocare majoră și constantă pentru România. În acest context, Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului a inițiat o acțiune substanțială menită să accelereze progresul. Ministrul Economiei, Irineu Darău, a anunțat lansarea unui concurs https:// brasov-azi.ro/ministrul-irineu -darau-lanseaza-task-force-digitalizare-recrutari-de-specialisti-it/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@brasov/115961088174825163",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@brasov/115938768378715342",
       "date": "Thu, 22 Jan 2026 12:33:30 +0000",
       "content": "Administrația Națională de Meteorologie confirmă că ianuarie 2026 a fost cea mai rece lună din ultimii nouă ani, cu 18 zile de frig intens și ger. https:// brasov-azi.ro/luna-ianuarie-a- fost-cea-mai-aspra-din-ultimii-9-ani-desi-recordul-de-385c-stabilit-in-brasov-nu-a-fost-atins/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@brasov/115938759125766662",
-      "date": "Thu, 22 Jan 2026 12:31:09 +0000",
-      "content": "Portarul brazilian Renata de Arruda ajunge la CSM Corona Brașov în 2026, aducând experiență vastă din EHF Champions League și Jocurile Olimpice. https:// brasov-azi.ro/handbal-feminin- renata-de-arruda-isi-va-incepe-angajamentul-la-csm-corona-brasov-din-2026/"
     }
   ]
 }
