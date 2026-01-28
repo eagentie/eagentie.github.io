@@ -4,8 +4,14 @@
   "site_feed": "https://constructii360.ro/feed/",
   "mastodon": "https://social.5th.ro/@constructii360",
   "mastodon_rss": "https://social.5th.ro/@constructii360.rss",
-  "updated_at": "2026-01-28T11:35:16Z",
+  "updated_at": "2026-01-28T13:14:23Z",
   "site_posts": [
+    {
+      "title": "Eficiență energetică și design modern: Ambient Plast, soluții premium pentru locuințe noi",
+      "link": "https://constructii360.ro/tamplarie/",
+      "date": "Wed, 28 Jan 2026 12:09:21 +0000",
+      "summary": "Locuințele noi sunt proiectate cu alte așteptări decât în urmă cu 10-15 ani: eficiență energetică, Articolul Eficiență energetică și design modern: Ambient Plast, soluții premium pentru locuințe noi apare prima dată în Constructii 360 ."
+    },
     {
       "title": "Mastodon WordPress plugin: ce permisiuni și ce securitate trebuie să ai",
       "link": "https://constructii360.ro/mastodon-wordpress-plugin-ce-permisiuni-si-ce-securitate-trebuie-sa-ai/",
@@ -59,15 +65,15 @@
       "link": "https://constructii360.ro/ce-este-turismul-lent-si-cum-iti-schimba-felul-in-care-calatoresti/",
       "date": "Wed, 12 Nov 2025 14:00:00 +0000",
       "summary": "Ai simțit vreodată că te întorci dintr-o vacanță mai obosit decât ai plecat? Alergând de Articolul Ce este turismul lent și cum îți schimbă felul în care călătorești? apare prima dată în Constructii 360 ."
-    },
-    {
-      "title": "Șape și amorse profesionale: fundația unei lucrări durabile",
-      "link": "https://constructii360.ro/sape-si-amorse-profesionale-fundatia-unei-lucrari-durabile/",
-      "date": "Thu, 06 Nov 2025 14:25:13 +0000",
-      "summary": "Pentru ca o casă să se numească cu adevărat o construcție reușită este important să Articolul Șape și amorse profesionale: fundația unei lucrări durabile apare prima dată în Constructii 360 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@constructii360/115972647292109182",
+      "date": "Wed, 28 Jan 2026 12:09:22 +0000",
+      "content": "🆕Locuințele noi sunt proiectate cu alte așteptări decât în urmă cu 10-15 ani: eficiență energetică, suprafețe vitrate mari, lumină naturală, confort acustic și un design minimalist. În acest peisaj, tâmplăria nu mai este un simplu element al închiderii spațiului, ci o componentă care influențează consumul de energie, calitatea aerului din interior și felul în care… https:// constructii360.ro/tamplarie/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@constructii360/115799523631440617",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@constructii360/115695251711476635",
       "date": "Wed, 10 Dec 2025 12:24:01 +0000",
       "content": "🆕Ați investit timp și resurse semnificative în dezvoltarea noului dumneavoastră proiect web. Design-ul este impecabil, codul este curat, iar conținutul este gata să fie publicat. Dar așteptați! Lansarea unui site fără o pregătire SEO adecvată este ca și cum ați organiza o petrecere fără a trimite invitații. Puteți pierde vizibilitate prețioasă, iar munca depusă poate… https:// constructii360.ro/checklist-se o-inainte-de-lansarea-site-ului-ce-verifici-ca-sa-nu-pierzi-trafic/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@constructii360/115695246967458855",
-      "date": "Wed, 10 Dec 2025 12:22:49 +0000",
-      "content": "Informații și idei pentru construcții, renovări, materiale, utilaje și proiecte „la cheie”. Articole tehnice, inspirație și recomandări pentru profesioniști și proprietari. # constructii # renovari # materialedeconstructii # constructii360 https:// constructii360.ro"
     }
   ]
 }
