@@ -4,8 +4,14 @@
   "site_feed": "https://brasov-azi.ro/feed/",
   "mastodon": "https://social.5th.ro/@brasov",
   "mastodon_rss": "https://social.5th.ro/@brasov.rss",
-  "updated_at": "2026-01-29T10:57:43Z",
+  "updated_at": "2026-01-29T11:46:13Z",
   "site_posts": [
+    {
+      "title": "Piața Unirii devine din nou gazda principală a cunoscutului târg de specialități locale „Râșnov cu bun gust”",
+      "link": "https://brasov-azi.ro/piata-unirii-devine-din-nou-gazda-principala-a-cunoscutului-targ-de-specialitati-locale-rasnov-cu-bun-gust/",
+      "date": "Thu, 29 Jan 2026 09:04:45 +0000",
+      "summary": "Avem o veste excelentă pentru toți iubitorii de produse locale și autentice! S&#226;mbătă, 31 ianuarie, sunteți așteptați &#238;n Piața Unirii din R&#226;șnov, unde va avea loc o nouă ediție a t&#226;rgului dedicat comunității și producătorilor locali. Evenimentul, cunoscut sub numele... Articolul Piața Unirii devine din nou gazda principală a cunoscutului târg de specialități locale „Râșnov cu bun gust” apare prima dată în Brasov AZI ."
+    },
     {
       "title": "Stomatologie de urgență la Spitalul Județean Brașov, după 17 ani de așteptare.",
       "link": "https://brasov-azi.ro/stomatologie-de-urgenta-la-spitalul-judetean-brasov-dupa-17-ani-de-asteptare/",
@@ -71,15 +77,15 @@
       "link": "https://brasov-azi.ro/poiana-brasov-extinde-masivul-postavaru-deschis-complet-incluzand-partie-de-competitie-si-nocturna-functionala/",
       "date": "Thu, 22 Jan 2026 12:05:01 +0000",
       "summary": "Poiana Brașov extinde schiul pe nocturnă până la ora 20:00 (Lupului inferior/Bradul), iar pârtia de concurs Subteleferic este deschisă integral. Articolul Poiana Brașov extinde Masivul Postăvaru deschis complet, incluzând pârtie de competiție și Nocturnă funcțională apare prima dată în Brasov AZI ."
-    },
-    {
-      "title": "Nogent-sur-Marne, lângă Paris, găzduiește celebrarea Zilei Unirii Principatelor Române, Junii Brașovului fiind oaspeți speciali",
-      "link": "https://brasov-azi.ro/nogent-sur-marne-langa-paris-gazduieste-celebrarea-zilei-unirii-principatelor-romane-junii-brasovului-fiind-oaspeti-speciali/",
-      "date": "Thu, 22 Jan 2026 10:41:31 +0000",
-      "summary": "Ziua de 24 ianuarie, c&#226;nd se sărbătorește Unirea Principatelor Rom&#226;ne, primește o recunoaștere specială și &#238;n Franța, &#238;n apropierea capitalei Paris. Manifestarea are loc &#238;n localitatea Nogent-sur-Marne, un oraș cu care Brașovul se află &#238;n curs de &#238;nfrățire. Această inițiativă... Articolul Nogent-sur-Marne, lângă Paris, găzduiește celebrarea Zilei Unirii Principatelor Române, Junii Brașovului fiind oaspeți speciali apare prima dată în Brasov AZI ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@brasov/115978069285495137",
+      "date": "Thu, 29 Jan 2026 11:08:15 +0000",
+      "content": "Avem o veste excelentă pentru toți iubitorii de produse locale și autentice! Sâmbătă, 31 ianuarie, sunteți așteptați în Piața Unirii din Râșnov, unde va avea loc o nouă ediție a târgului dedicat comunității și producătorilor locali. Evenimentul, cunoscut sub numele de „Râșnov cu bun gust”, promite o atmosferă caldă și plină de arome de neuitat.… https:// brasov-azi.ro/piata-unirii-dev ine-din-nou-gazda-principala-a-cunoscutului-targ-de-specialitati-locale-rasnov-cu-bun-gust/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@brasov/115972991752957805",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@brasov/115938863023821748",
       "date": "Thu, 22 Jan 2026 12:57:35 +0000",
       "content": "Analiza raportului de activitate al consilierului local PSD Alexandra Crivineanu, consilier local din partea PSD, a prezentat recent ceea ce a numit un „bilanț de activitate”, menționat ca o demonstrație de implicare și deschidere după aproape un deceniu petrecut în Consiliul Local Brașov. Cu toate acestea, la o examinare detaliată, documentul generează mai multe nelămuriri… https:// brasov-azi.ro/alexandra-crivin eanu-consilier-psd-ce-face-de-fapt-bilantul-activitatii-si-promisiunile-neonorate/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@brasov/115938804648133017",
-      "date": "Thu, 22 Jan 2026 12:42:44 +0000",
-      "content": "Ziua de 24 ianuarie, când se sărbătorește Unirea Principatelor Române, primește o recunoaștere specială și în Franța, în apropierea capitalei Paris. Manifestarea are loc în localitatea Nogent-sur-Marne, un oraș cu care Brașovul se află în curs de înfrățire. Această inițiativă de stabilire a unei relații de înfrățire a pornit de la primarul francez, https:// brasov-azi.ro/nogent-sur-marne -langa-paris-gazduieste-celebrarea-zilei-unirii-principatelor-romane-junii-brasovului-fiind-oaspeti-speciali/"
     }
   ]
 }
