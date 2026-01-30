@@ -4,7 +4,7 @@
   "site_feed": "https://noutati24.ro/feed/",
   "mastodon": "https://social.5th.ro/@noutati24",
   "mastodon_rss": "https://social.5th.ro/@noutati24.rss",
-  "updated_at": "2026-01-30T21:40:43Z",
+  "updated_at": "2026-01-30T22:45:50Z",
   "site_posts": [
     {
       "title": "Armonia culorilor acasa: cum sa asortezi mobilierul cu decorul interior",
@@ -35,6 +35,12 @@
       "link": "https://noutati24.ro/ghid-mentenanta-pentru-motoare-electrice/",
       "date": "Wed, 14 Jan 2026 12:23:23 +0000",
       "summary": "Te-ai întrebat vreodată cât de mult depinde succesul întregii tale linii de producție de sănătatea unui singur motor electric? Deși &#8230; Articolul Ghid mentenanță pentru motoare electrice apare prima dată în Noutati 24 ."
+    },
+    {
+      "title": "Sfaturi utile. Cum să întreții un laptop pentru a avea o durată de viață cât mai mare?",
+      "link": "https://noutati24.ro/sfaturi-utile-cum-sa-intretii-un-laptop-pentru-a-avea-o-durata-de-viata-cat-mai-mare/",
+      "date": "Sun, 04 Jan 2026 10:22:00 +0000",
+      "summary": "Achiziția unui computer portabil reprezintă o investiție financiară importantă, indiferent dacă alegi un model nou sau unul recondiționat. Din păcate, &#8230; Articolul Sfaturi utile. Cum să întreții un laptop pentru a avea o durată de viață cât mai mare? apare prima dată în Noutati 24 ."
     },
     {
       "title": "Cum să alegi cel mai bun pat tapițat",
@@ -71,15 +77,15 @@
       "link": "https://noutati24.ro/nume-de-sfinti-cum-sa-alegi-protectorul-spiritual-al-bebelusului/",
       "date": "Fri, 05 Dec 2025 16:46:34 +0000",
       "summary": "Alegerea numelui pentru noul membru al familiei este, fără îndoială, una dintre primele și cele mai importante responsabilități pe care &#8230; Articolul Nume de Sfinți: Cum să alegi protectorul spiritual al bebelușului apare prima dată în Noutati 24 ."
-    },
-    {
-      "title": "Cizme statement: cum să transformi o ținută simplă într-una remarcabilă?",
-      "link": "https://noutati24.ro/cizme-statement-cum-sa-transformi-o-tinuta-simpla-intr-una-remarcabila/",
-      "date": "Fri, 05 Dec 2025 07:20:27 +0000",
-      "summary": "Cizmele statement sunt acele piese-cheie care pot schimba complet vibe-ul unei ținute. Chiar dacă porți cele mai simple articole – &#8230; Articolul Cizme statement: cum să transformi o ținută simplă într-una remarcabilă? apare prima dată în Noutati 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@noutati24/115986415518434627",
+      "date": "Fri, 30 Jan 2026 22:30:48 +0000",
+      "content": "🆕Achiziția unui computer portabil reprezintă o investiție financiară importantă, indiferent dacă alegi un model nou sau unul recondiționat. Din păcate, mulți utilizatori neglijează aspectele de bază ale mentenanței, ajungând în situația neplăcută în care dispozitivul devine lent, zgomotos sau se defectează la scurt timp după expirarea garanției. Durata de viață a unui laptop nu ține… 🌐 https:// noutati24.ro/sfaturi-utile-cum -sa-intretii-un-laptop-pentru-a-avea-o-durata-de-viata-cat-mai-mare/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@noutati24/115971281100329181",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@noutati24/115695042716058326",
       "date": "Wed, 10 Dec 2025 11:30:52 +0000",
       "content": "🆕Oameni, destine, emoție: Adela Hanafi, a lansat podcastul „Povești Nespuse cu Adela” Într-o lume adesea dominată de superficialitate și știri rapide, Adela Hanafi, Președinta Asociației CONIL și sufletul din spatele CONIL Fest, lansează un proiect special: podcastul „Povești Nespuse cu Adela”. Acest demers curajos transformă experiența personală profundă în lecții de viață universale, oferind 🌐 https:// noutati24.ro/oameni-destine-em otie-adela-hanafi-a-lansat-podcastul-povesti-nespuse-cu-adela/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@noutati24/115694742800469266",
-      "date": "Wed, 10 Dec 2025 10:14:36 +0000",
-      "content": "🆕Alegerea numelui pentru noul membru al familiei este, fără îndoială, una dintre primele și cele mai importante responsabilități pe care le ai ca părinte. În cultura românească, numele nu este doar un simplu cuvânt trecut în certificatul de naștere, ci o moștenire spirituală, o &quot;carte de vizită&quot; pentru suflet.Deși tendințele moderne aduc în prim-plan tot… 🌐 https:// noutati24.ro/nume-de-sfinti-cu m-sa-alegi-protectorul-spiritual-al-bebelusului/"
     }
   ]
 }
