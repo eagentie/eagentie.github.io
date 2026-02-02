@@ -4,8 +4,14 @@
   "site_feed": "https://recent-news.ro/feed/",
   "mastodon": "https://social.5th.ro/@recent_news",
   "mastodon_rss": "https://social.5th.ro/@recent_news.rss",
-  "updated_at": "2026-02-02T07:58:35Z",
+  "updated_at": "2026-02-02T09:02:56Z",
   "site_posts": [
+    {
+      "title": "Mai e mult pana in 2027? De ce „acum” este momentul perfect sa alegi gradinita potrivita pentru copilul tau",
+      "link": "https://recent-news.ro/mai-e-mult-pana-in-2027-de-ce-acum-este-momentul-perfect-sa-alegi-gradinita-potrivita-pentru-copilul-tau/",
+      "date": "Mon, 02 Feb 2026 05:59:33 +0000",
+      "summary": "Mai e mult pana in 2027? De ce „acum” este momentul perfect sa alegi gradinita potrivita pentru copilul tau Stim&#8230; Articolul Mai e mult pana in 2027? De ce „acum” este momentul perfect sa alegi gradinita potrivita pentru copilul tau apare prima dată în Recent News ."
+    },
     {
       "title": "Ghid: cum îți faci cont pe Mastodon România pas cu pas",
       "link": "https://recent-news.ro/ghid-cum-iti-faci-cont-pe-mastodon-romania-pas-cu-pas/",
@@ -59,15 +65,15 @@
       "link": "https://recent-news.ro/cum-analizezi-un-meci-de-fotbal-inainte-sa-pariezi-pasi-esentiali/",
       "date": "Fri, 14 Nov 2025 09:07:58 +0000",
       "summary": "Mulți pariori se bazează pe intuiție sau pe culorile echipelor atunci când decid unde să plaseze banii. Aceasta este o&#8230; Articolul Cum analizezi un meci de fotbal înainte să pariezi: pași esențiali apare prima dată în Recent News ."
-    },
-    {
-      "title": "SEO pentru site-uri multilingve: structură corectă, hreflang și conținut tradus",
-      "link": "https://recent-news.ro/seo-pentru-site-uri-multilingve-structura-corecta-hreflang-si-continut-tradus/",
-      "date": "Fri, 14 Nov 2025 07:32:14 +0000",
-      "summary": "Ați investit timp și resurse într-un site grozav, dar sunteți pregătiți să depășiți granițele naționale? Expansiunea globală sună minunat, dar&#8230; Articolul SEO pentru site-uri multilingve: structură corectă, hreflang și conținut tradus apare prima dată în Recent News ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@recent_news/115999997068801998",
+      "date": "Mon, 02 Feb 2026 08:04:46 +0000",
+      "content": "Mai e mult pana in 2027? De ce „acum” este momentul perfect sa alegi gradinita potrivita pentru copilul tauStim ce gandesti: abia am pasit in noul an, iar 2027 pare o cifra dintr-un viitor indepartat. Insa, pentru un parinte, timpul are un mod bizar de a se comprima. Intre primii pasi si prima zi de… https:// recent-news.ro/mai-e-mult-pana -in-2027-de-ce-acum-este-momentul-perfect-sa-alegi-gradinita-potrivita-pentru-copilul-tau/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@recent_news/115736500833832004",
