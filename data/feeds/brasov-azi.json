@@ -4,8 +4,14 @@
   "site_feed": "https://brasov-azi.ro/feed/",
   "mastodon": "https://social.5th.ro/@brasov",
   "mastodon_rss": "https://social.5th.ro/@brasov.rss",
-  "updated_at": "2026-02-02T10:06:55Z",
+  "updated_at": "2026-02-02T11:06:33Z",
   "site_posts": [
+    {
+      "title": "Predeal în 2026: ce faci într-un weekend (pârtii, drumeții, plimbări)",
+      "link": "https://brasov-azi.ro/predeal-in-2026-ce-faci-intr-un-weekend-partii-drumetii-plimbari/",
+      "date": "Mon, 02 Feb 2026 08:13:08 +0000",
+      "summary": "Stațiunea Predeal combină sporturile de iarnă și drumețiile montane cu obiective precum Mănăstirea și Canionul Șapte Scări. Articolul Predeal în 2026: ce faci într-un weekend (pârtii, drumeții, plimbări) apare prima dată în Brasov AZI ."
+    },
     {
       "title": "Cetatea Rupea: cum o vizitezi eficient + top puncte de belvedere (2026)",
       "link": "https://brasov-azi.ro/cetatea-rupea-cum-o-vizitezi-eficient-top-puncte-de-belvedere-2026/",
@@ -71,15 +77,15 @@
       "link": "https://brasov-azi.ro/stomatologie-de-urgenta-la-spitalul-judetean-brasov-dupa-17-ani-de-asteptare/",
       "date": "Wed, 28 Jan 2026 13:36:57 +0000",
       "summary": "Serviciul de stomatologie de urgență în cadrul Spitalului Clinic Județean de Urgență Brașov, așteptat de peste un deceniu și jumătate, este pe cale să devină funcțional. Brașovenii se apropie de momentul în care vor beneficia de acest serviciu medical esențial.... Articolul Stomatologie de urgență la Spitalul Județean Brașov, după 17 ani de așteptare. apare prima dată în Brasov AZI ."
-    },
-    {
-      "title": "Ministrul Irineu Darău lansează Task Force Digitalizare: Recrutări de specialiști IT.",
-      "link": "https://brasov-azi.ro/ministrul-irineu-darau-lanseaza-task-force-digitalizare-recrutari-de-specialisti-it/",
-      "date": "Tue, 27 Jan 2026 08:01:29 +0000",
-      "summary": "Un pas concret în transformarea digitală a administrației Modernizarea digitală a structurilor guvernamentale reprezintă o provocare majoră și constantă pentru România. În acest context, Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului a inițiat o acțiune substanțială menită să accelereze progresul. Ministrul... Articolul Ministrul Irineu Darău lansează Task Force Digitalizare: Recrutări de specialiști IT. apare prima dată în Brasov AZI ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@brasov/116000510940302890",
+      "date": "Mon, 02 Feb 2026 10:15:27 +0000",
+      "content": "Stațiunea Predeal combină sporturile de iarnă și drumețiile montane cu obiective precum Mănăstirea și Canionul Șapte Scări. https:// brasov-azi.ro/predeal-in-2026- ce-faci-intr-un-weekend-partii-drumetii-plimbari/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@brasov/115993962503376535",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@brasov/115972991752957805",
       "date": "Wed, 28 Jan 2026 13:36:58 +0000",
       "content": "Serviciul de stomatologie de urgență în cadrul Spitalului Clinic Județean de Urgență Brașov, așteptat de peste un deceniu și jumătate, este pe cale să devină funcțional. Brașovenii se apropie de momentul în care vor beneficia de acest serviciu medical esențial. După numeroase întârzieri administrative și o lungă perioadă de inactivitate politică, procedura de concurs pentru… https:// brasov-azi.ro/stomatologie-de- urgenta-la-spitalul-judetean-brasov-dupa-17-ani-de-asteptare/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@brasov/115966010319444410",
-      "date": "Tue, 27 Jan 2026 08:01:29 +0000",
-      "content": "Un pas concret în transformarea digitală a administrației Modernizarea digitală a structurilor guvernamentale reprezintă o provocare majoră și constantă pentru România. În acest context, Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului a inițiat o acțiune substanțială menită să accelereze progresul. Ministrul Economiei, Irineu Darău, a anunțat lansarea unui concurs https:// brasov-azi.ro/ministrul-irineu -darau-lanseaza-task-force-digitalizare-recrutari-de-specialisti-it/"
     }
   ]
 }
