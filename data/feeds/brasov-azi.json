@@ -4,8 +4,14 @@
   "site_feed": "https://brasov-azi.ro/feed/",
   "mastodon": "https://social.5th.ro/@brasov",
   "mastodon_rss": "https://social.5th.ro/@brasov.rss",
-  "updated_at": "2026-02-02T11:06:33Z",
+  "updated_at": "2026-02-02T11:50:33Z",
   "site_posts": [
+    {
+      "title": "Peste 4.600 de acte de stare civilă pentru nașteri înregistrate la Brașov în 2025",
+      "link": "https://brasov-azi.ro/peste-4-600-de-acte-de-stare-civila-pentru-nasteri-inregistrate-la-brasov-in-2025/",
+      "date": "Mon, 02 Feb 2026 09:35:26 +0000",
+      "summary": "Bilanțul nașterilor din Brașov 2025: Serviciul de Stare Civilă a emis 4.627 de acte, înregistrând mai mulți băieți și 130 de transcrieri. (129 caractere) Articolul Peste 4.600 de acte de stare civilă pentru nașteri înregistrate la Brașov în 2025 apare prima dată în Brasov AZI ."
+    },
     {
       "title": "Predeal în 2026: ce faci într-un weekend (pârtii, drumeții, plimbări)",
       "link": "https://brasov-azi.ro/predeal-in-2026-ce-faci-intr-un-weekend-partii-drumetii-plimbari/",
@@ -71,15 +77,15 @@
       "link": "https://brasov-azi.ro/piata-unirii-devine-din-nou-gazda-principala-a-cunoscutului-targ-de-specialitati-locale-rasnov-cu-bun-gust/",
       "date": "Thu, 29 Jan 2026 09:04:45 +0000",
       "summary": "Avem o veste excelentă pentru toți iubitorii de produse locale și autentice! S&#226;mbătă, 31 ianuarie, sunteți așteptați &#238;n Piața Unirii din R&#226;șnov, unde va avea loc o nouă ediție a t&#226;rgului dedicat comunității și producătorilor locali. Evenimentul, cunoscut sub numele... Articolul Piața Unirii devine din nou gazda principală a cunoscutului târg de specialități locale „Râșnov cu bun gust” apare prima dată în Brasov AZI ."
-    },
-    {
-      "title": "Stomatologie de urgență la Spitalul Județean Brașov, după 17 ani de așteptare.",
-      "link": "https://brasov-azi.ro/stomatologie-de-urgenta-la-spitalul-judetean-brasov-dupa-17-ani-de-asteptare/",
-      "date": "Wed, 28 Jan 2026 13:36:57 +0000",
-      "summary": "Serviciul de stomatologie de urgență în cadrul Spitalului Clinic Județean de Urgență Brașov, așteptat de peste un deceniu și jumătate, este pe cale să devină funcțional. Brașovenii se apropie de momentul în care vor beneficia de acest serviciu medical esențial.... Articolul Stomatologie de urgență la Spitalul Județean Brașov, după 17 ani de așteptare. apare prima dată în Brasov AZI ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@brasov/116000835331632830",
+      "date": "Mon, 02 Feb 2026 11:37:57 +0000",
+      "content": "Bilanțul nașterilor din Brașov 2025: Serviciul de Stare Civilă a emis 4.627 de acte, înregistrând mai mulți băieți și 130 de transcrieri. (129 caractere) https:// brasov-azi.ro/peste-4-600-de-a cte-de-stare-civila-pentru-nasteri-inregistrate-la-brasov-in-2025/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@brasov/116000510940302890",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@brasov/115978069285495137",
       "date": "Thu, 29 Jan 2026 11:08:15 +0000",
       "content": "Avem o veste excelentă pentru toți iubitorii de produse locale și autentice! Sâmbătă, 31 ianuarie, sunteți așteptați în Piața Unirii din Râșnov, unde va avea loc o nouă ediție a târgului dedicat comunității și producătorilor locali. Evenimentul, cunoscut sub numele de „Râșnov cu bun gust”, promite o atmosferă caldă și plină de arome de neuitat.… https:// brasov-azi.ro/piata-unirii-dev ine-din-nou-gazda-principala-a-cunoscutului-targ-de-specialitati-locale-rasnov-cu-bun-gust/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@brasov/115972991752957805",
-      "date": "Wed, 28 Jan 2026 13:36:58 +0000",
-      "content": "Serviciul de stomatologie de urgență în cadrul Spitalului Clinic Județean de Urgență Brașov, așteptat de peste un deceniu și jumătate, este pe cale să devină funcțional. Brașovenii se apropie de momentul în care vor beneficia de acest serviciu medical esențial. După numeroase întârzieri administrative și o lungă perioadă de inactivitate politică, procedura de concurs pentru… https:// brasov-azi.ro/stomatologie-de- urgenta-la-spitalul-judetean-brasov-dupa-17-ani-de-asteptare/"
     }
   ]
 }
