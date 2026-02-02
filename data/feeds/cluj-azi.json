@@ -4,7 +4,7 @@
   "site_feed": "https://cluj-azi.ro/feed/",
   "mastodon": "https://social.5th.ro/@cluj",
   "mastodon_rss": "https://social.5th.ro/@cluj.rss",
-  "updated_at": "2026-02-02T17:04:50Z",
+  "updated_at": "2026-02-02T17:58:18Z",
   "site_posts": [
     {
       "title": "Cum afișezi numele autorului în postarea Mastodon din WordPress",
@@ -67,5 +67,42 @@
       "summary": "Prezentăm un studiu de caz top 3 Cluj care arată cum un brand local a obținut vizibilitate și leaduri în 6–8 săptămâni, prin conținut ancorat în cartiere precum Mănăștur, Mărăști, Gheorgheni, Zorilor, Grigorescu și în localitățile Florești, Baciu, Apahida, Someșeni. Vei vedea contextul, planul pe săptămâni, execuția (structură + distribuție) și rezultatele măsurate. Pentru metoda [&#8230;] Articolul Studiu de caz: top 3 în Cluj cu conținut local – plan, execuție, rezultate apare prima dată în Cluj AZI ."
     }
   ],
-  "mastodon_posts": []
+  "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@cluj/115736919125895209",
+      "date": "Wed, 17 Dec 2025 21:00:35 +0000",
+      "content": "Ați investit timp și efort în crearea de conținut valoros pe platforma dumneavoastră wordpress. Următorul pas natural este distribuția automată în Fediverse. Vă folosiți de un mastodon wordpress plugin pentru a simplifica procesul. Dar, adesea, apare o problemă critică: deși postarea ajunge pe Mastodon, atribuirea corectă lipsește. Numele autor-ului care a scris articolul nu este… https:// cluj-azi.ro/cum-afisezi-numele -autorului-in-postarea-mastodon-din-wordpress/"
+    },
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@cluj/115706257685234444",
+      "date": "Fri, 12 Dec 2025 11:02:59 +0000",
+      "content": "Atenție: Până nu demult, publicarea unor advertoriale bazate pe structuri standard și informații superficiale era suficientă pentru a atrage trafic și vizibilitate. Însă, pe măsură ce internetul s-a umplut de zgomot, publicul a devenit din ce în ce mai pretențios. Oamenii nu mai dau click pe orice. Ne confruntăm cu o saturație masivă de informație,… https:// cluj-azi.ro/2025-advertoriale- de-autor-vs-advertoriale-scrise-generic-ce-functioneaza-mai-bine/"
+    },
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@cluj/115706257586973630",
+      "date": "Fri, 12 Dec 2025 11:02:57 +0000",
+      "content": "Ați simțit vreodată frustrarea de a vedea echipa favorită câștigând, dar cota să nu vă aducă un profit semnificativ? V-ați întrebat care este secretul pariorilor de succes care reușesc să obțină câștiguri constante pe termen lung? (A - Atenție) Dacă sunteți în căutarea unei strategii care să depășească simpla ghicire a rezultatului, răspunsul se află… https:// cluj-azi.ro/analiza-valorii-co tei-cum-gasesti-value-bet-uri-in-oferta-zilnica/"
+    },
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@cluj/115706257489559012",
+      "date": "Fri, 12 Dec 2025 11:02:56 +0000",
+      "content": "Ești gata să schimbi modul în care pariezi? Mulți pariori caută zilnic o scurtătură către câștig, apelând la diverse ponturi pariuri găsite pe internet. Deși aceste surse pot oferi o idee generală, succesul sustenabil și pe termen lung provine dintr-o singură sursă: propria ta cunoaștere. Este esențial să renunți la dependența de sugestii externe și… https:// cluj-azi.ro/cum-compui-un-bile t-al-zilei-inspirat-din-propriile-analize-nu-doar-ponturi/"
+    },
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@cluj/115706255692298834",
+      "date": "Fri, 12 Dec 2025 11:02:28 +0000",
+      "content": "Știri și povești din Cluj: oraș, cartiere, universități, tech, cultură, evenimente și afaceri locale. Fii la curent cu ce se întâmplă azi în Cluj. # cluj # stiri # turism # politica https:// cluj-azi.ro/"
+    },
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@cluj/115706253810371219",
+      "date": "Fri, 12 Dec 2025 11:02:00 +0000",
+      "content": "Introducere: De Ce Fluctuațiile Google Nu Trebuie Să Vă Panicheze Atenție (A): Ați observat vreodată acele fluctuații bruște în clasamentele Google? Vă confruntați cu scăderi neașteptate de trafic, imediat după un anunț major? Milioane de proprietari de site-uri web se panichează de fiecare dată când Google lansează un nou update Google. Acele momente de incertitudine… https:// cluj-azi.ro/cum-pregatesti-sit e-ul-pentru-urmatorul-update-de-algoritm-google/"
+    }
+  ]
 }
