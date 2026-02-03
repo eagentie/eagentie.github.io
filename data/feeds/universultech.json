@@ -4,8 +4,14 @@
   "site_feed": "https://UniversulTech.ro/feed/",
   "mastodon": "https://social.5th.ro/@UniversulTech",
   "mastodon_rss": "https://social.5th.ro/@UniversulTech.rss",
-  "updated_at": "2026-02-03T08:59:06Z",
+  "updated_at": "2026-02-03T10:01:10Z",
   "site_posts": [
+    {
+      "title": "Planificarea financiară personală – cum îți organizezi banii pentru stabilitate și liniște",
+      "link": "https://universultech.ro/planificarea-financiara-personala-cum-iti-organizezi-banii-pentru-stabilitate-si-liniste/",
+      "date": "Tue, 03 Feb 2026 09:29:02 +0000",
+      "summary": "Finanțele personale sunt unul dintre aspectele vieții care îți pot aduce fie liniște, fie stres, în funcție de modul în&#8230; Articolul Planificarea financiară personală &#8211; cum îți organizezi banii pentru stabilitate și liniște apare prima dată în Universul Tech ."
+    },
     {
       "title": "Greșeli frecvente pe care le faci când gătești și cum le poți evita",
       "link": "https://universultech.ro/greseli-frecvente-pe-care-le-faci-cand-gatesti-si-cum-le-poti-evita/",
@@ -71,15 +77,15 @@
       "link": "https://universultech.ro/cum-alegi-un-televizor-pentru-sport/",
       "date": "Mon, 15 Dec 2025 08:25:31 +0000",
       "summary": "A urmări sport pe un televizor modern presupune câteva criterii tehnice care influențează claritatea mișcării. Pentru a simplifica procesul de&#8230; Articolul Cum alegi un televizor pentru sport apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "De ce este util un aspirator cu hartă digitală",
-      "link": "https://universultech.ro/de-ce-este-util-un-aspirator-cu-harta-digitala/",
-      "date": "Fri, 12 Dec 2025 14:38:42 +0000",
-      "summary": "Un aspirator cu hartă digitală poate planifica și ajusta traseul de curățare în funcție de structura locuinței. Sistemul ajută la&#8230; Articolul De ce este util un aspirator cu hartă digitală apare prima dată în Universul Tech ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@UniversulTech/116005990966398695",
+      "date": "Tue, 03 Feb 2026 09:29:06 +0000",
+      "content": "💡Finanțele personale sunt unul dintre aspectele vieții care îți pot aduce fie liniște, fie stres, în funcție de modul în care le gestionezi. Indiferent de venitul tău, o bună organizare financiară te ajută să faci față cheltuielilor neprevăzute, să planifici obiective pe termen lung și să te bucuri de viață fără grija constantă a banilor.De… ✅ https:// universultech.ro/planificarea- financiara-personala-cum-iti-organizezi-banii-pentru-stabilitate-si-liniste/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@UniversulTech/115984742222052513",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@UniversulTech/115723120063078831",
       "date": "Mon, 15 Dec 2025 10:31:18 +0000",
       "content": "💡A urmări sport pe un televizor modern presupune câteva criterii tehnice care influențează claritatea mișcării. Pentru a simplifica procesul de selecție, este util să te concentrezi pe funcțiile care fac utilizarea zilnică mai ușoară.Transmisiunile sportive includ schimbări bruște de ritm și cadre succesive foarte apropiate.Un televizor potrivit pentru sport are o rată de reîmprospătare suficient… ✅ https:// universultech.ro/cum-alegi-un- televizor-pentru-sport/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@UniversulTech/115707107282787537",
-      "date": "Fri, 12 Dec 2025 14:39:03 +0000",
-      "content": "💡Un aspirator cu hartă digitală poate planifica și ajusta traseul de curățare în funcție de structura locuinței. Sistemul ajută la o orientare mai eficientă și la evitarea zonelor deja parcurse. 1. Ce înseamnă / Ce este Harta digitală este o reprezentare a locuinței creată de aspirator prin senzori și algoritmi de analiză. Dispozitivul memorează camerele,… ✅ https:// universultech.ro/de-ce-este-ut il-un-aspirator-cu-harta-digitala/"
     }
   ]
 }
