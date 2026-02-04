@@ -4,8 +4,14 @@
   "site_feed": "https://brasov-azi.ro/feed/",
   "mastodon": "https://social.5th.ro/@brasov",
   "mastodon_rss": "https://social.5th.ro/@brasov.rss",
-  "updated_at": "2026-02-04T09:00:42Z",
+  "updated_at": "2026-02-04T10:01:37Z",
   "site_posts": [
+    {
+      "title": "Scripcaru, Brașov: Justiția declară ilegal controlul politic asupra urbanismului orașului.",
+      "link": "https://brasov-azi.ro/scripcaru-brasov-justitia-declara-ilegal-controlul-politic-asupra-urbanismului-orasului/",
+      "date": "Wed, 04 Feb 2026 09:51:40 +0000",
+      "summary": "Grupul „Uniți pentru Brașov” (USR – FDGR) din Consiliul Local Brașov a obținut o victorie definitivă în instanță împotriva modificării considerate ilegale a structurii Comisiei Tehnice de Amenajare a Teritoriului și Urbanism (CTATU). Avocatul Alexandru Gheorghe, liderul de grup, a... Articolul Scripcaru, Brașov: Justiția declară ilegal controlul politic asupra urbanismului orașului. apare prima dată în Brasov AZI ."
+    },
     {
       "title": "Peste 4.600 de acte de stare civilă pentru nașteri înregistrate la Brașov în 2025",
       "link": "https://brasov-azi.ro/peste-4-600-de-acte-de-stare-civila-pentru-nasteri-inregistrate-la-brasov-in-2025/",
@@ -71,15 +77,15 @@
       "link": "https://brasov-azi.ro/usr-fdgr-cere-dezbatere-publica-la-brasov-pentru-decizia-majora-din-centrul-civic/",
       "date": "Fri, 30 Jan 2026 13:38:02 +0000",
       "summary": "Grupul consilierilor locali USR–FDGR din Consiliul Local Brașov a oferit explicații detaliate privind abținerea de la vot referitoare la concesionarea unui teren în Centrul Civic destinat construirii unei catedrale. Poziția lor este prezentată nu ca o opoziție față de credință... Articolul USR–FDGR cere dezbatere publică la Brașov pentru decizia majoră din Centrul Civic. apare prima dată în Brasov AZI ."
-    },
-    {
-      "title": "Piața Unirii devine din nou gazda principală a cunoscutului târg de specialități locale „Râșnov cu bun gust”",
-      "link": "https://brasov-azi.ro/piata-unirii-devine-din-nou-gazda-principala-a-cunoscutului-targ-de-specialitati-locale-rasnov-cu-bun-gust/",
-      "date": "Thu, 29 Jan 2026 09:04:45 +0000",
-      "summary": "Avem o veste excelentă pentru toți iubitorii de produse locale și autentice! S&#226;mbătă, 31 ianuarie, sunteți așteptați &#238;n Piața Unirii din R&#226;șnov, unde va avea loc o nouă ediție a t&#226;rgului dedicat comunității și producătorilor locali. Evenimentul, cunoscut sub numele... Articolul Piața Unirii devine din nou gazda principală a cunoscutului târg de specialități locale „Râșnov cu bun gust” apare prima dată în Brasov AZI ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@brasov/116011742050793275",
+      "date": "Wed, 04 Feb 2026 09:51:40 +0000",
+      "content": "https:// brasov-azi.ro/scripcaru-brasov -justitia-declara-ilegal-controlul-politic-asupra-urbanismului-orasului/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@brasov/116000835331632830",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@brasov/115984320624665841",
       "date": "Fri, 30 Jan 2026 13:38:02 +0000",
       "content": "Grupul consilierilor locali USR–FDGR din Consiliul Local Brașov a oferit explicații detaliate privind abținerea de la vot referitoare la concesionarea unui teren în Centrul Civic destinat construirii unei catedrale. Poziția lor este prezentată nu ca o opoziție față de credință sau față de Biserică, ci ca un apel ferm la respectarea legalității, la asigurarea transparenței… https:// brasov-azi.ro/usr-fdgr-cere-de zbatere-publica-la-brasov-pentru-decizia-majora-din-centrul-civic/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@brasov/115978069285495137",
-      "date": "Thu, 29 Jan 2026 11:08:15 +0000",
-      "content": "Avem o veste excelentă pentru toți iubitorii de produse locale și autentice! Sâmbătă, 31 ianuarie, sunteți așteptați în Piața Unirii din Râșnov, unde va avea loc o nouă ediție a târgului dedicat comunității și producătorilor locali. Evenimentul, cunoscut sub numele de „Râșnov cu bun gust”, promite o atmosferă caldă și plină de arome de neuitat.… https:// brasov-azi.ro/piata-unirii-dev ine-din-nou-gazda-principala-a-cunoscutului-targ-de-specialitati-locale-rasnov-cu-bun-gust/"
     }
   ]
 }
