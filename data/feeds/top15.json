@@ -4,8 +4,14 @@
   "site_feed": "https://top15.ro/feed/",
   "mastodon": "https://social.5th.ro/@top",
   "mastodon_rss": "https://social.5th.ro/@top.rss",
-  "updated_at": "2026-02-05T15:03:18Z",
+  "updated_at": "2026-02-05T15:58:34Z",
   "site_posts": [
+    {
+      "title": "Cafea pentru Birou – Aparate Profesionale & Consumabile | Livrare Gratuită",
+      "link": "https://top15.ro/cafea-pentru-birou-aparate-profesionale-consumabile-livrare-gratuita/",
+      "date": "Thu, 05 Feb 2026 13:10:38 +0000",
+      "summary": "Aparate de cafea profesionale pentru birou cu livrare gratuită. Boabe, capsule și consumabile premium. Soluții complete pentru companii. Articolul Cafea pentru Birou &#8211; Aparate Profesionale &#038; Consumabile | Livrare Gratuită apare prima dată în TOP 15 ."
+    },
     {
       "title": "Uleiuri profesionale versus uleiuri obișnuite: ce diferențiază produsele premium",
       "link": "https://top15.ro/uleiuri-profesionale-versus-uleiuri-obisnuite-ce-diferentiaza-produsele-premium/",
@@ -71,15 +77,15 @@
       "link": "https://top15.ro/cand-jocurile-intalnesc-cinematografia-adaptarile-de-film-pe-pc-si-console/",
       "date": "Tue, 16 Dec 2025 11:12:03 +0000",
       "summary": "În ultimele decenii, relația dintre cinema și jocurile video a devenit una dintre cele mai... Articolul Când jocurile întâlnesc cinematografia: adaptările de film pe PC și console apare prima dată în TOP 15 ."
-    },
-    {
-      "title": "Cum alegi un smartphone pentru camera foto",
-      "link": "https://top15.ro/cum-alegi-un-smartphone-pentru-camera-foto/",
-      "date": "Thu, 11 Dec 2025 23:31:00 +0000",
-      "summary": "Alegerea unui smartphone pentru camera foto presupune analizarea câtorva caracteristici care influențează modul în care... Articolul Cum alegi un smartphone pentru camera foto apare prima dată în TOP 15 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@top/116018663719268510",
+      "date": "Thu, 05 Feb 2026 15:11:57 +0000",
+      "content": "📰Aparate de cafea profesionale pentru birou cu livrare gratuită. Boabe, capsule și consumabile premium. Soluții complete pentru companii. 📰 https:// top15.ro/cafea-pentru-birou-ap arate-profesionale-consumabile-livrare-gratuita/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@top/115921042642549839",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@top/115728942829230517",
       "date": "Tue, 16 Dec 2025 11:12:07 +0000",
       "content": "📰În ultimele decenii, relația dintre cinema și jocurile video a devenit una dintre cele mai bogate zone ale culturii moderne. Dacă în anii ’80 și ’90 jocurile inspirate din filme erau privite ca simple extensii comerciale, astăzi multe dintre ele sunt adevărate experiențe interactive care preiau atmosfera, estetica și temele producțiilor cinematografice. În același timp,… 📰 https:// top15.ro/cand-jocurile-intalne sc-cinematografia-adaptarile-de-film-pe-pc-si-console/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@top/115703537926802089",
-      "date": "Thu, 11 Dec 2025 23:31:19 +0000",
-      "content": "📰Alegerea unui smartphone pentru camera foto presupune analizarea câtorva caracteristici care influențează modul în care sunt capturate imaginile. Diferențele dintre camere pot părea minore la prima vedere, însă modul de funcționare al componentelor determină rezultatul final.Ce înseamnă calitatea camerei pe un smartphoneCalitatea foto nu depinde doar de numărul de megapixeli. Senzorul, procesarea locală, obiectivul și… 📰 https:// top15.ro/cum-alegi-un-smartpho ne-pentru-camera-foto/"
     }
   ]
 }
