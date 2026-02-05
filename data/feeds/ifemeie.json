@@ -4,8 +4,14 @@
   "site_feed": "https://iFemeie.ro/feed/",
   "mastodon": "https://social.5th.ro/@iFemeie",
   "mastodon_rss": "https://social.5th.ro/@iFemeie.rss",
-  "updated_at": "2026-02-05T06:11:44Z",
+  "updated_at": "2026-02-05T07:17:40Z",
   "site_posts": [
+    {
+      "title": "Uleiul de rozmarin — prospețimea care trezește pielea, părul și mintea",
+      "link": "https://ifemeie.ro/uleiul-de-rozmarin-prospetimea-care-trezeste-pielea-parul-si-mintea/",
+      "date": "Thu, 05 Feb 2026 07:11:00 +0000",
+      "summary": "Există uleiuri esențiale care îți îmbracă pielea într-un parfum discret, liniștitor. Și există altele care... Articolul Uleiul de rozmarin — prospețimea care trezește pielea, părul și mintea apare prima dată în iFemeie ."
+    },
     {
       "title": "De la conceptie la nastere: Vitaminele in sarcina si rolul important al suplimentelor Oligobs",
       "link": "https://ifemeie.ro/de-la-conceptie-la-nastere-vitaminele-in-sarcina-si-rolul-important-al-suplimentelor-oligobs/",
@@ -65,15 +71,15 @@
       "link": "https://ifemeie.ro/cum-functioneaza-accesibilitatea-inteligenta-pe-tv-uri-samsung/",
       "date": "Fri, 28 Nov 2025 07:25:46 +0000",
       "summary": "Accesibilitatea inteligentă este un set de funcții pentru utilizatori cu nevoi diferite. Scopul lor este... Articolul Cum funcționează accesibilitatea inteligentă pe TV-uri Samsung apare prima dată în iFemeie ."
-    },
-    {
-      "title": "Ghid pentru parinti. Cum alegi gradinita potrivita pentru copilul tau",
-      "link": "https://ifemeie.ro/ghid-pentru-parinti-cum-alegi-gradinita-potrivita-pentru-copilul-tau/",
-      "date": "Sun, 16 Nov 2025 17:03:49 +0000",
-      "summary": "Alegerea unei gradinite este un pas important in viata fiecarui parinte. Este momentul in care... Articolul Ghid pentru parinti. Cum alegi gradinita potrivita pentru copilul tau apare prima dată în iFemeie ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@iFemeie/116016772598460523",
+      "date": "Thu, 05 Feb 2026 07:11:00 +0000",
+      "content": "Există uleiuri esențiale care îți îmbracă pielea într-un parfum discret, liniștitor. Și există altele care te trezesc pe loc, îți umplu camera de energie și îți pun sângele în mișcare. Uleiul de rozmarin face parte, cu siguranță, din a doua categorie. Cunoscut de secole pentru proprietățile sale tonice și revitalizante, uleiul de rozmarin este unul… https:// ifemeie.ro/uleiul-de-rozmarin- prospetimea-care-trezeste-pielea-parul-si-mintea/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@iFemeie/115937727336402026",
@@ -139,12 +145,6 @@
       "link": "https://social.5th.ro/@iFemeie/115695285754772738",
       "date": "Wed, 10 Dec 2025 12:32:40 +0000",
       "content": "Un bebeluș fericit se joacă pe o jucărie de călărit, ilustrând bucuria și beneficiile aduse de jucăriile potrivite. Părinții își doresc tot ce e mai bun pentru micuții lor, iar jucăriile pentru bebeluși („jucării bebe”) nu fac excepție. Acestea nu sunt doar obiecte de divertisment, ci instrumente esențiale de învățare și dezvoltare. De la primele… https:// ifemeie.ro/jucarii-bebe-import anta-pentru-dezvoltare-si-recomandari-pe-varste/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@iFemeie/115695265461942294",
-      "date": "Wed, 10 Dec 2025 12:27:31 +0000",
-      "content": "Articole despre sănătate, relații, carieră, antreprenoriat, dezvoltare personală și stil de viață echilibrat. Un loc online creat special pentru tine. # femei # stildeviață # dezvoltarepersonala # ifemeie https:// ifemeie.ro"
     }
   ]
 }
