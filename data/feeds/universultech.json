@@ -4,8 +4,14 @@
   "site_feed": "https://UniversulTech.ro/feed/",
   "mastodon": "https://social.5th.ro/@UniversulTech",
   "mastodon_rss": "https://social.5th.ro/@UniversulTech.rss",
-  "updated_at": "2026-02-06T06:08:51Z",
+  "updated_at": "2026-02-06T07:14:19Z",
   "site_posts": [
+    {
+      "title": "Arta de a te deconecta după o zi plină de muncă",
+      "link": "https://universultech.ro/arta-de-a-te-deconecta-dupa-o-zi-plina-de-munca/",
+      "date": "Fri, 06 Feb 2026 06:23:49 +0000",
+      "summary": "În zilele noastre, timpul liber a devenit aproape un moft. Trăim într-un ritm alert, în care ziua de muncă nu&#8230; Articolul Arta de a te deconecta după o zi plină de muncă apare prima dată în Universul Tech ."
+    },
     {
       "title": "Planificarea financiară personală – cum îți organizezi banii pentru stabilitate și liniște",
       "link": "https://universultech.ro/planificarea-financiara-personala-cum-iti-organizezi-banii-pentru-stabilitate-si-liniste/",
@@ -71,15 +77,15 @@
       "link": "https://universultech.ro/cum-iti-setezi-corect-linkurile-si-verificarea-site-ului-in-profil/",
       "date": "Wed, 17 Dec 2025 16:58:54 +0000",
       "summary": "Într-o lume digitală în continuă schimbare, unde platformele centralizate își modifică regulile de la o zi la alta, autenticitatea și&#8230; Articolul Cum îți setezi corect linkurile și verificarea site-ului în profil apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "Cum alegi un televizor pentru sport",
-      "link": "https://universultech.ro/cum-alegi-un-televizor-pentru-sport/",
-      "date": "Mon, 15 Dec 2025 08:25:31 +0000",
-      "summary": "A urmări sport pe un televizor modern presupune câteva criterii tehnice care influențează claritatea mișcării. Pentru a simplifica procesul de&#8230; Articolul Cum alegi un televizor pentru sport apare prima dată în Universul Tech ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@UniversulTech/116022249576590075",
+      "date": "Fri, 06 Feb 2026 06:23:52 +0000",
+      "content": "💡În zilele noastre, timpul liber a devenit aproape un moft. Trăim într-un ritm alert, în care ziua de muncă nu se mai încheie odată cu închiderea laptopului. Gândurile rămân acolo, în task-urile neterminate, în e-mailurile la care trebuie să răspundem și în numeroasele obiective pe care ni le setăm zilnic. Pe măsură ce se apropie… ✅ https:// universultech.ro/arta-de-a-te- deconecta-dupa-o-zi-plina-de-munca/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@UniversulTech/116005990966398695",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@UniversulTech/115736978094101832",
       "date": "Wed, 17 Dec 2025 21:15:35 +0000",
       "content": "💡Într-o lume digitală în continuă schimbare, unde platformele centralizate își modifică regulile de la o zi la alta, autenticitatea și controlul asupra propriei identități online au devenit esențiale. Mulți profesioniști și creatori de conținut caută alternative transparente, iar mișcarea către ecosistemele descentralizate, cum ar fi Mastodon, este din ce în ce mai vizibilă. Dacă sunteți… ✅ https:// universultech.ro/cum-iti-setez i-corect-linkurile-si-verificarea-site-ului-in-profil/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@UniversulTech/115723120063078831",
-      "date": "Mon, 15 Dec 2025 10:31:18 +0000",
-      "content": "💡A urmări sport pe un televizor modern presupune câteva criterii tehnice care influențează claritatea mișcării. Pentru a simplifica procesul de selecție, este util să te concentrezi pe funcțiile care fac utilizarea zilnică mai ușoară.Transmisiunile sportive includ schimbări bruște de ritm și cadre succesive foarte apropiate.Un televizor potrivit pentru sport are o rată de reîmprospătare suficient… ✅ https:// universultech.ro/cum-alegi-un- televizor-pentru-sport/"
     }
   ]
 }
