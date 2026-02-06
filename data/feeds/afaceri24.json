@@ -4,8 +4,14 @@
   "site_feed": "https://afaceri24.ro/feed/",
   "mastodon": "https://social.5th.ro/@afaceri24",
   "mastodon_rss": "https://social.5th.ro/@afaceri24.rss",
-  "updated_at": "2026-02-06T09:02:13Z",
+  "updated_at": "2026-02-06T10:01:07Z",
   "site_posts": [
+    {
+      "title": "Cum funcționează tehnologia AI și senzorii din aspiratorul Bespoke AI Jet Ultra",
+      "link": "https://afaceri24.ro/cum-functioneaza-tehnologia-ai-si-senzorii-din-aspiratorul-bespoke-ai-jet-ultra/",
+      "date": "Thu, 05 Feb 2026 09:50:00 +0000",
+      "summary": "Tehnologia AI dintr-un aspirator modern are rolul de a adapta curățarea la condițiile din casă. Senzorii sunt partea care măsoară ce se întâmplă în timp real. 1. Ce înseamnă / Ce este AI într-un aspirator înseamnă algoritmi care iau decizii pe baza datelor colectate. Nu este „gândire”, ci un set de reguli și modele care [&#8230;] The post Cum funcționează tehnologia AI și senzorii din aspiratorul Bespoke AI Jet Ultra appeared first on Afaceri 24 ."
+    },
     {
       "title": "Reducerea timpilor de debarasare la evenimente: eficiența utilizării unor farfurii de unică folosință premium",
       "link": "https://afaceri24.ro/reducerea-timpilor-de-debarasare-la-evenimente-eficienta-utilizarii-unor-farfurii-de-unica-folosinta-premium/",
@@ -59,15 +65,15 @@
       "link": "https://afaceri24.ro/cum-te-ajuta-dizemanepe-ro-sa-organizezi-o-petrecere-memorabila-pentru-cei-mici-chiar-la-tine-acasa/",
       "date": "Sat, 13 Dec 2025 10:15:35 +0000",
       "summary": "Organizarea unei petreceri pentru copii acasă poate părea o idee minunată la început: un spațiu familiar, un mediu confortabil, o atmosferă mai intimă. Dar, pe măsură ce te apropii de eveniment, apare inevitabil întrebarea: „Cum fac să iasă totul bine dacă nu sunt un organizator profesionist?” Adevărul este că o aniversare la domiciliu poate fi [&#8230;] The post Cum te ajută Dizemanepe.ro să organizezi o petrecere memorabilă pentru cei mici chiar la tine acasă appeared first on Afaceri 24 ."
-    },
-    {
-      "title": "De ce este importantă integrarea într-un ecosistem smart",
-      "link": "https://afaceri24.ro/de-ce-este-importanta-integrarea-intr-un-ecosistem-smart/",
-      "date": "Fri, 12 Dec 2025 10:10:00 +0000",
-      "summary": "Integrarea electrocasnicelor într-un ecosistem smart ajută la coordonarea funcțiilor și la monitorizarea consumului. Utilizatorul poate avea o imagine clară asupra modului în care sunt folosite resursele în locuință. 1. Ce înseamnă / Ce este Un ecosistem smart este un ansamblu de dispozitive conectate care comunică între ele prin rețea și pot fi gestionate din aceeași [&#8230;] The post De ce este importantă integrarea într-un ecosistem smart appeared first on Afaceri 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@afaceri24/116023065844300532",
+      "date": "Fri, 06 Feb 2026 09:51:28 +0000",
+      "content": "📄Tehnologia AI dintr-un aspirator modern are rolul de a adapta curățarea la condițiile din casă. Senzorii sunt partea care măsoară ce se întâmplă în timp real.1. Ce înseamnă / Ce esteAI într-un aspirator înseamnă algoritmi care iau decizii pe baza datelor colectate. Nu este „gândire”, ci un set de reguli și modele care recunosc tipare.Senzorii… 💡 https:// afaceri24.ro/cum-functioneaza- tehnologia-ai-si-senzorii-din-aspiratorul-bespoke-ai-jet-ultra/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@afaceri24/115986406972272208",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@afaceri24/115705176590948327",
       "date": "Fri, 12 Dec 2025 06:28:03 +0000",
       "content": "📄Aplicațiile Galaxy sunt dezvoltate pentru a funcționa coerent pe dispozitive diferite, astfel încât activitățile zilnice să poată fi gestionate fără pași suplimentari. Ele creează un flux stabil între telefon, tabletă, ceas sau alte dispozitive compatibile, folosind aceleași date în timp real.Ce înseamnă aplicațiile GalaxyAplicațiile Galaxy includ instrumente pentru organizare, comunicare, sănătate, productivitate și 💡 https:// afaceri24.ro/cum-te-ajuta-apli catiile-galaxy-in-viata-de-zi-cu-zi/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@afaceri24/115695218433082554",
-      "date": "Wed, 10 Dec 2025 12:15:33 +0000",
-      "content": "📄Aspiratorul Bespoke AI Jet Ultra folosește sisteme avansate pentru a îmbunătăți modul de curățare. Tehnologia integrează funcții automate și elemente de control inteligent.1. Ce este Bespoke AI Jet UltraBespoke AI Jet Ultra este un aspirator vertical fără fir care folosește tehnologii A pentru a ajusta modul de aspirare. Dispozitivul include senzori, analiză digitală și funcții… 💡 https:// afaceri24.ro/cum-functioneaza- tehnologia-din-aspiratorul-bespoke-ai-jet-ultra/"
     }
   ]
 }
