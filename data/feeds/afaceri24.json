@@ -4,8 +4,14 @@
   "site_feed": "https://afaceri24.ro/feed/",
   "mastodon": "https://social.5th.ro/@afaceri24",
   "mastodon_rss": "https://social.5th.ro/@afaceri24.rss",
-  "updated_at": "2026-02-06T13:35:19Z",
+  "updated_at": "2026-02-06T14:59:24Z",
   "site_posts": [
+    {
+      "title": "Cum selectați bocanci de protecție pentru diferite medii de lucru",
+      "link": "https://afaceri24.ro/bocanci-protectie/",
+      "date": "Fri, 06 Feb 2026 14:20:52 +0000",
+      "summary": "Selectarea echipamentului de protecție adecvat reprezintă o decizie critică pentru siguranța angajaților din domeniul industrial. Picioarele sunt expuse constant la riscuri diverse, de la obiecte grele până la substanțe periculoase. Alegerea corectă a încălțămintei de siguranță previne accidente grave și îmbunătățește semnificativ confortul pe parcursul programului de lucru. Fiecare mediu profesional prezintă provocări specifice care [&#8230;] The post Cum selectați bocanci de protecție pentru diferite medii de lucru appeared first on Afaceri 24 ."
+    },
     {
       "title": "Cum funcționează tehnologia AI și senzorii din aspiratorul Bespoke AI Jet Ultra",
       "link": "https://afaceri24.ro/cum-functioneaza-tehnologia-ai-si-senzorii-din-aspiratorul-bespoke-ai-jet-ultra/",
@@ -59,15 +65,15 @@
       "link": "https://afaceri24.ro/mastodon-wordpress-plugin-ce-face-un-plugin-de-auto-postare/",
       "date": "Wed, 17 Dec 2025 16:58:54 +0000",
       "summary": "Vă petreceți ore întregi creând conținut valoros pe site-ul dvs. WordPress? Odată ce articolul este publicat, urmează partea cea mai consumatoare de timp: distribuirea manuală pe toate rețelele sociale. În lumea rapidă a Fediverse-ului, a menține o prezență constantă pe Mastodon poate fi o provocare reală. Dacă sunteți în căutarea unei soluții eficiente pentru a [&#8230;] The post Mastodon WordPress plugin: ce face un plugin de auto-postare appeared first on Afaceri 24 ."
-    },
-    {
-      "title": "Cum te ajută Dizemanepe.ro să organizezi o petrecere memorabilă pentru cei mici chiar la tine acasă",
-      "link": "https://afaceri24.ro/cum-te-ajuta-dizemanepe-ro-sa-organizezi-o-petrecere-memorabila-pentru-cei-mici-chiar-la-tine-acasa/",
-      "date": "Sat, 13 Dec 2025 10:15:35 +0000",
-      "summary": "Organizarea unei petreceri pentru copii acasă poate părea o idee minunată la început: un spațiu familiar, un mediu confortabil, o atmosferă mai intimă. Dar, pe măsură ce te apropii de eveniment, apare inevitabil întrebarea: „Cum fac să iasă totul bine dacă nu sunt un organizator profesionist?” Adevărul este că o aniversare la domiciliu poate fi [&#8230;] The post Cum te ajută Dizemanepe.ro să organizezi o petrecere memorabilă pentru cei mici chiar la tine acasă appeared first on Afaceri 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@afaceri24/116024125306189037",
+      "date": "Fri, 06 Feb 2026 14:20:54 +0000",
+      "content": "📄Selectarea echipamentului de protecție adecvat reprezintă o decizie critică pentru siguranța angajaților din domeniul industrial. Picioarele sunt expuse constant la riscuri diverse, de la obiecte grele până la substanțe periculoase. Alegerea corectă a încălțămintei de siguranță previne accidente grave și îmbunătățește semnificativ confortul pe parcursul programului de lucru. Fiecare mediu profesional prezintă provocări specifice care… 💡 https:// afaceri24.ro/bocanci-protectie/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@afaceri24/116023065844300532",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@afaceri24/115711735489423814",
       "date": "Sat, 13 Dec 2025 10:16:03 +0000",
       "content": "📄Organizarea unei petreceri pentru copii acasă poate părea o idee minunată la început: un spațiu familiar, un mediu confortabil, o atmosferă mai intimă. Dar, pe măsură ce te apropii de eveniment, apare inevitabil întrebarea: „Cum fac să iasă totul bine dacă nu sunt un organizator profesionist?” Adevărul este că o aniversare la domiciliu poate fi… 💡 https:// afaceri24.ro/cum-te-ajuta-dize manepe-ro-sa-organizezi-o-petrecere-memorabila-pentru-cei-mici-chiar-la-tine-acasa/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@afaceri24/115705176590948327",
-      "date": "Fri, 12 Dec 2025 06:28:03 +0000",
-      "content": "📄Aplicațiile Galaxy sunt dezvoltate pentru a funcționa coerent pe dispozitive diferite, astfel încât activitățile zilnice să poată fi gestionate fără pași suplimentari. Ele creează un flux stabil între telefon, tabletă, ceas sau alte dispozitive compatibile, folosind aceleași date în timp real.Ce înseamnă aplicațiile GalaxyAplicațiile Galaxy includ instrumente pentru organizare, comunicare, sănătate, productivitate și 💡 https:// afaceri24.ro/cum-te-ajuta-apli catiile-galaxy-in-viata-de-zi-cu-zi/"
     }
   ]
 }
