@@ -4,8 +4,14 @@
   "site_feed": "https://doctorite.ro/feed/",
   "mastodon": "https://social.5th.ro/@DoctoriteBlog",
   "mastodon_rss": "https://social.5th.ro/@DoctoriteBlog.rss",
-  "updated_at": "2026-02-08T15:41:25Z",
+  "updated_at": "2026-02-08T16:50:28Z",
   "site_posts": [
+    {
+      "title": "Vitamina C – cum susține protecția celulelor împotriva stresului oxidativ",
+      "link": "https://doctorite.ro/vitamina-c-cum-sustine-protectia-celulelor-impotriva-stresului-oxidativ/",
+      "date": "Sun, 08 Feb 2026 16:02:29 +0000",
+      "summary": "Vitamina C este o vitamină hidrosolubilă care trebuie furnizată regulat prin alimentație, deoarece organismul uman... Articolul Vitamina C – cum susține protecția celulelor împotriva stresului oxidativ apare prima dată în Doctorite ."
+    },
     {
       "title": "Respiratia corecta si calitatea vietii: De ce nu trebuie sa ignori o deviatie de sept si care sunt optiunile de tratament",
       "link": "https://doctorite.ro/respiratia-corecta-si-calitatea-vietii-de-ce-nu-trebuie-sa-ignori-o-deviatie-de-sept-si-care-sunt-optiunile-de-tratament/",
@@ -59,15 +65,15 @@
       "link": "https://doctorite.ro/de-ce-rezultatele-pentru-dermatita-seboreica-apar-si-dispar-nu-mai-functioneaza/",
       "date": "Wed, 03 Dec 2025 12:17:22 +0000",
       "summary": "Una dintre cele mai frustrante experiențe pentru cineva cu dermatită seboreică&#160;este aceeași poveste repetată: găsești... Articolul De ce rezultatele pentru dermatita seboreică apar și dispar „nu mai funcționează” apare prima dată în Doctorite ."
-    },
-    {
-      "title": "Cum scrii un titlu de advertorial atrăgător în 2025",
-      "link": "https://doctorite.ro/cum-scrii-un-titlu-de-advertorial-atragator-in-2025/",
-      "date": "Mon, 01 Dec 2025 12:07:49 +0000",
-      "summary": "Ați investit mii de lei în campanii de native advertising. Ați creat conținut impecabil, cu... Articolul Cum scrii un titlu de advertorial atrăgător în 2025 apare prima dată în Doctorite ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@DoctoriteBlog/116035849530540475",
+      "date": "Sun, 08 Feb 2026 16:02:31 +0000",
+      "content": "Vitamina C este o vitamină hidrosolubilă care trebuie furnizată regulat prin alimentație, deoarece organismul uman nu o poate sintetiza singur. Se găsește în mod natural în numeroase fructe și legume, precum citricele, kiwi, ardeiul gras sau fructele de pădure. Datorită solubilității sale în apă, vitamina C nu este stocată în cantități mari în organism, ceea… https:// doctorite.ro/vitamina-c-cum-su stine-protectia-celulelor-impotriva-stresului-oxidativ/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@DoctoriteBlog/115934857658226110",
