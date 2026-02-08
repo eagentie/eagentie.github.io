@@ -4,8 +4,14 @@
   "site_feed": "https://UniversulTech.ro/feed/",
   "mastodon": "https://social.5th.ro/@UniversulTech",
   "mastodon_rss": "https://social.5th.ro/@UniversulTech.rss",
-  "updated_at": "2026-02-08T08:51:35Z",
+  "updated_at": "2026-02-08T09:45:35Z",
   "site_posts": [
+    {
+      "title": "De ce nu miros hainele a balsam după spălare",
+      "link": "https://universultech.ro/de-ce-nu-miros-hainele-a-balsam-dupa-spalare/",
+      "date": "Sun, 08 Feb 2026 09:03:05 +0000",
+      "summary": "Nimic nu se compară cu mirosul proaspăt de haine abia scoase din mașina de spălat, îmbibat cu aroma preferată de&#8230; Articolul De ce nu miros hainele a balsam după spălare apare prima dată în Universul Tech ."
+    },
     {
       "title": "Arta de a te deconecta după o zi plină de muncă",
       "link": "https://universultech.ro/arta-de-a-te-deconecta-dupa-o-zi-plina-de-munca/",
@@ -71,15 +77,15 @@
       "link": "https://universultech.ro/cum-iti-sustii-cresterea-afacerii-atunci-cand-ai-nevoie-de-capital-la-momentul-potrivit/",
       "date": "Wed, 24 Dec 2025 11:26:53 +0000",
       "summary": "Atunci când conduci o afacere, știi că lucrurile nu evoluează niciodată liniar. Sunt perioade în care cererea crește rapid, apar&#8230; Articolul Cum îți susții creșterea afacerii atunci când ai nevoie de capital la momentul potrivit apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "Sfaturi pentru integrarea proiectoarelor LED pe șină magnetică în showroom-uri",
-      "link": "https://universultech.ro/sfaturi-pentru-integrarea-proiectoarelor-led-pe-sina-magnetica-in-showroom-uri/",
-      "date": "Wed, 24 Dec 2025 11:26:26 +0000",
-      "summary": "În vânzări este știut faptul că fiecare detaliu contează, iar din acest punct de vedere iluminatul showroom-ului tău trebuie să&#8230; Articolul Sfaturi pentru integrarea proiectoarelor LED pe șină magnetică în showroom-uri apare prima dată în Universul Tech ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@UniversulTech/116034200411642428",
+      "date": "Sun, 08 Feb 2026 09:03:08 +0000",
+      "content": "💡Nimic nu se compară cu mirosul proaspăt de haine abia scoase din mașina de spălat, îmbibat cu aroma preferată de balsam de rufe. Cu toate acestea, mulți utilizatori de mașini de spălat moderne constată cu surprindere și frustrare că rufele lor nu păstrează mirosul plăcut al balsamului după spălare. În mod instinctiv, tindem să dăm… ✅ https:// universultech.ro/de-ce-nu-miro s-hainele-a-balsam-dupa-spalare/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@UniversulTech/116023075604636207",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@UniversulTech/115774299507412671",
       "date": "Wed, 24 Dec 2025 11:26:55 +0000",
       "content": "💡Atunci când conduci o afacere, știi că lucrurile nu evoluează niciodată liniar. Sunt perioade în care cererea crește rapid, apar oportunități neașteptate sau investiții care nu mai pot fi amânate. În același timp, există momente în care încasările întârzie, iar cheltuielile rămân constante. În acest context, accesul la capital devine un element esențial pentru stabilitatea… ✅ https:// universultech.ro/cum-iti-susti i-cresterea-afacerii-atunci-cand-ai-nevoie-de-capital-la-momentul-potrivit/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@UniversulTech/115774297791212960",
-      "date": "Wed, 24 Dec 2025 11:26:28 +0000",
-      "content": "💡În vânzări este știut faptul că fiecare detaliu contează, iar din acest punct de vedere iluminatul showroom-ului tău trebuie să fie la fel de captivant și bine organizat ca produsele pe care le expui.Integrarea proiectoarelor LED pe șină magnetică adaugă un plus de eleganță și flexibilitate și îți permite să evidențiezi articolele de top expuse… ✅ https:// universultech.ro/sfaturi-pentr u-integrarea-proiectoarelor-led-pe-sina-magnetica-in-showroom-uri/"
     }
   ]
 }
