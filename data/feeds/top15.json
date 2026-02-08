@@ -4,8 +4,14 @@
   "site_feed": "https://top15.ro/feed/",
   "mastodon": "https://social.5th.ro/@top",
   "mastodon_rss": "https://social.5th.ro/@top.rss",
-  "updated_at": "2026-02-08T05:41:46Z",
+  "updated_at": "2026-02-08T07:08:41Z",
   "site_posts": [
+    {
+      "title": "Pași siguri încă din copilărie: de ce încălțămintea din piele este cea mai bună alegere pentru cei mici",
+      "link": "https://top15.ro/pasi-siguri-inca-din-copilarie-de-ce-incaltamintea-din-piele-este-cea-mai-buna-alegere-pentru-cei-mici/",
+      "date": "Sun, 08 Feb 2026 06:53:00 +0000",
+      "summary": "Alegerea încălțămintei pentru copii este una dintre cele mai importante decizii pe care părinții le... Articolul Pași siguri încă din copilărie: de ce încălțămintea din piele este cea mai bună alegere pentru cei mici apare prima dată în TOP 15 ."
+    },
     {
       "title": "Cafea pentru Birou – Aparate Profesionale & Consumabile | Livrare Gratuită",
       "link": "https://top15.ro/cafea-pentru-birou-aparate-profesionale-consumabile-livrare-gratuita/",
@@ -71,15 +77,15 @@
       "link": "https://top15.ro/mastodon-romania-cum-te-conectezi-cu-diaspora/",
       "date": "Wed, 17 Dec 2025 16:58:54 +0000",
       "summary": "Ești obosit de algoritmii care îți decid experiența online? Te simți manipulat de platformele sociale... Articolul Mastodon România: cum te conectezi cu diaspora apare prima dată în TOP 15 ."
-    },
-    {
-      "title": "Când jocurile întâlnesc cinematografia: adaptările de film pe PC și console",
-      "link": "https://top15.ro/cand-jocurile-intalnesc-cinematografia-adaptarile-de-film-pe-pc-si-console/",
-      "date": "Tue, 16 Dec 2025 11:12:03 +0000",
-      "summary": "În ultimele decenii, relația dintre cinema și jocurile video a devenit una dintre cele mai... Articolul Când jocurile întâlnesc cinematografia: adaptările de film pe PC și console apare prima dată în TOP 15 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@top/116033689334549250",
+      "date": "Sun, 08 Feb 2026 06:53:09 +0000",
+      "content": "📰Alegerea încălțămintei pentru copii este una dintre cele mai importante decizii pe care părinții le iau în primii ani de viață ai celor mici. Picioarele copiilor sunt în continuă dezvoltare, iar fiecare etapă de creștere are nevoie de susținere corectă, confort și protecție. De aceea, tot mai mulți părinți conștienți aleg încălțăminte din piele, o… 📰 https:// top15.ro/pasi-siguri-inca-din- copilarie-de-ce-incaltamintea-din-piele-este-cea-mai-buna-alegere-pentru-cei-mici/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@top/116018663719268510",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@top/115736705227018939",
       "date": "Wed, 17 Dec 2025 20:06:11 +0000",
       "content": "📰Ești obosit de algoritmii care îți decid experiența online? Te simți manipulat de platformele sociale centralizate? Pentru mulți români, în special pentru cei care fac parte din diaspora, nevoia de conectare autentică este vitală. Rețelele mari, controlate de corporații, au devenit adesea medii zgomotoase și filtrate. Dar există o alternativă puternică și etică: comunitatea mastodon… 📰 https:// top15.ro/mastodon-romania-cum- te-conectezi-cu-diaspora/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@top/115728942829230517",
-      "date": "Tue, 16 Dec 2025 11:12:07 +0000",
-      "content": "📰În ultimele decenii, relația dintre cinema și jocurile video a devenit una dintre cele mai bogate zone ale culturii moderne. Dacă în anii ’80 și ’90 jocurile inspirate din filme erau privite ca simple extensii comerciale, astăzi multe dintre ele sunt adevărate experiențe interactive care preiau atmosfera, estetica și temele producțiilor cinematografice. În același timp,… 📰 https:// top15.ro/cand-jocurile-intalne sc-cinematografia-adaptarile-de-film-pe-pc-si-console/"
     }
   ]
 }
