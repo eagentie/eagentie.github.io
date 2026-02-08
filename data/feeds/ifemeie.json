@@ -4,8 +4,14 @@
   "site_feed": "https://iFemeie.ro/feed/",
   "mastodon": "https://social.5th.ro/@iFemeie",
   "mastodon_rss": "https://social.5th.ro/@iFemeie.rss",
-  "updated_at": "2026-02-08T22:49:07Z",
+  "updated_at": "2026-02-08T23:47:36Z",
   "site_posts": [
+    {
+      "title": "Calculator Sănătate Online: Ghid Complet pentru Monitorizarea Parametrilor Vitali",
+      "link": "https://ifemeie.ro/calculator-sanatate-online-ghid-complet-pentru-monitorizarea-parametrilor-vitali/",
+      "date": "Sun, 08 Feb 2026 21:11:13 +0000",
+      "summary": "Calculator Sănătate Online pentru monitorizarea parametrilor vitali: necesar caloric zilnic și tensiune arterială, cu interpretări clare și recomandări personal Articolul Calculator Sănătate Online: Ghid Complet pentru Monitorizarea Parametrilor Vitali apare prima dată în iFemeie ."
+    },
     {
       "title": "Uleiul de rozmarin — prospețimea care trezește pielea, părul și mintea",
       "link": "https://ifemeie.ro/uleiul-de-rozmarin-prospetimea-care-trezeste-pielea-parul-si-mintea/",
@@ -65,15 +71,15 @@
       "link": "https://ifemeie.ro/ilustrand-iubirea-in-fotografia-de-nunta/",
       "date": "Fri, 28 Nov 2025 08:36:34 +0000",
       "summary": "Fotografia reprezintă arta de a imortaliza momente, emoții și povești într-o singură imagine. Un fotograf... Articolul Ilustrand Iubirea in Fotografia de Nunta apare prima dată în iFemeie ."
-    },
-    {
-      "title": "Cum funcționează accesibilitatea inteligentă pe TV-uri Samsung",
-      "link": "https://ifemeie.ro/cum-functioneaza-accesibilitatea-inteligenta-pe-tv-uri-samsung/",
-      "date": "Fri, 28 Nov 2025 07:25:46 +0000",
-      "summary": "Accesibilitatea inteligentă este un set de funcții pentru utilizatori cu nevoi diferite. Scopul lor este... Articolul Cum funcționează accesibilitatea inteligentă pe TV-uri Samsung apare prima dată în iFemeie ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@iFemeie/116037540756493437",
+      "date": "Sun, 08 Feb 2026 23:12:37 +0000",
+      "content": "Calculator Sănătate Online pentru monitorizarea parametrilor vitali: necesar caloric zilnic și tensiune arterială, cu interpretări clare și recomandări personal https:// ifemeie.ro/calculator-sanatate -online-ghid-complet-pentru-monitorizarea-parametrilor-vitali/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@iFemeie/116016772598460523",
@@ -139,12 +145,6 @@
       "link": "https://social.5th.ro/@iFemeie/115695285897572941",
       "date": "Wed, 10 Dec 2025 12:32:43 +0000",
       "content": "Sarcina este una dintre cele mai complexe și emoționante călătorii din viața unei femei. Din momentul în care testul de sarcină devine pozitiv, universul tău se schimbă, iar prioritățile se reordonează rapid. Una dintre cele mai mari provocări logistice pentru viitoarele mămici este gestionarea calendarului medical.Când trebuie să fac prima ecografie? Care este fereastra strictă… https:// ifemeie.ro/calendarul-complet- al-analizelor-in-sarcina/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@iFemeie/115695285754772738",
-      "date": "Wed, 10 Dec 2025 12:32:40 +0000",
-      "content": "Un bebeluș fericit se joacă pe o jucărie de călărit, ilustrând bucuria și beneficiile aduse de jucăriile potrivite. Părinții își doresc tot ce e mai bun pentru micuții lor, iar jucăriile pentru bebeluși („jucării bebe”) nu fac excepție. Acestea nu sunt doar obiecte de divertisment, ci instrumente esențiale de învățare și dezvoltare. De la primele… https:// ifemeie.ro/jucarii-bebe-import anta-pentru-dezvoltare-si-recomandari-pe-varste/"
     }
   ]
 }
