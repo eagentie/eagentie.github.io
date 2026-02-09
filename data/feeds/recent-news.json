@@ -4,8 +4,20 @@
   "site_feed": "https://recent-news.ro/feed/",
   "mastodon": "https://social.5th.ro/@recent_news",
   "mastodon_rss": "https://social.5th.ro/@recent_news.rss",
-  "updated_at": "2026-02-09T09:09:49Z",
+  "updated_at": "2026-02-09T10:15:09Z",
   "site_posts": [
+    {
+      "title": "Se schimba anotimpul? Iata ce lenjerii de pat sa alegi",
+      "link": "https://recent-news.ro/se-schimba-anotimpul-iata-ce-lenjerii-de-pat-sa-alegi/",
+      "date": "Mon, 09 Feb 2026 09:47:28 +0000",
+      "summary": "Trecerea de la un anotimp la altul nu inseamna doar sa schimbi hainele din dulap sau sa reglezi centrala. Si&#8230; Articolul Se schimba anotimpul? Iata ce lenjerii de pat sa alegi apare prima dată în Recent News ."
+    },
+    {
+      "title": "Vacanta de Paste in Viseu de Sus – munte, traditii si timp pentru familie",
+      "link": "https://recent-news.ro/vacanta-de-paste-in-viseu-de-sus-munte-traditii-si-timp-pentru-familie/",
+      "date": "Mon, 09 Feb 2026 09:46:17 +0000",
+      "summary": "Pastele este sarbatoarea care te face sa incetinesti. Sa lasi orasul in urma, sa te rupi de agitatie si sa&#8230; Articolul Vacanta de Paste in Viseu de Sus – munte, traditii si timp pentru familie apare prima dată în Recent News ."
+    },
     {
       "title": "Mai e mult pana in 2027? De ce „acum” este momentul perfect sa alegi gradinita potrivita pentru copilul tau",
       "link": "https://recent-news.ro/mai-e-mult-pana-in-2027-de-ce-acum-este-momentul-perfect-sa-alegi-gradinita-potrivita-pentru-copilul-tau/",
@@ -53,21 +65,21 @@
       "link": "https://recent-news.ro/romanian-energy-week-2025/",
       "date": "Tue, 18 Nov 2025 07:22:57 +0000",
       "summary": "ROMANIAN ENERGY WEEK 2025: 5 zile de dezbateri, 5 teme vitale pentru energie Palatul Parlamentului găzduiește &#238;ntre 17 și 21&#8230; Articolul ROMANIAN ENERGY WEEK 2025 apare prima dată în Recent News ."
-    },
-    {
-      "title": "Păcănele cu miză mică: distracție maximă cu buget controlat",
-      "link": "https://recent-news.ro/pacanele-cu-miza-mica-distractie-maxima-cu-buget-controlat/",
-      "date": "Sat, 15 Nov 2025 10:03:28 +0000",
-      "summary": "Vă place senzația de adrenalină oferită de jocurile de noroc, dar sunteți îngrijorați de cât de mult cheltuiți? Nu sunteți&#8230; Articolul Păcănele cu miză mică: distracție maximă cu buget controlat apare prima dată în Recent News ."
-    },
-    {
-      "title": "Cum analizezi un meci de fotbal înainte să pariezi: pași esențiali",
-      "link": "https://recent-news.ro/cum-analizezi-un-meci-de-fotbal-inainte-sa-pariezi-pasi-esentiali/",
-      "date": "Fri, 14 Nov 2025 09:07:58 +0000",
-      "summary": "Mulți pariori se bazează pe intuiție sau pe culorile echipelor atunci când decid unde să plaseze banii. Aceasta este o&#8230; Articolul Cum analizezi un meci de fotbal înainte să pariezi: pași esențiali apare prima dată în Recent News ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@recent_news/116040037169813887",
+      "date": "Mon, 09 Feb 2026 09:47:29 +0000",
+      "content": "Trecerea de la un anotimp la altul nu inseamna doar sa schimbi hainele din dulap sau sa reglezi centrala. Si patul tau are nevoie de o „garderoba” potrivita, mai ales daca iti doresti un somn odihnitor, fara intreruperi. Lenjeria de pat nu e doar un decor dragut, este materialul care iti atinge pielea ore in… https:// recent-news.ro/se-schimba-anot impul-iata-ce-lenjerii-de-pat-sa-alegi/"
+    },
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@recent_news/116040032579606269",
+      "date": "Mon, 09 Feb 2026 09:46:19 +0000",
+      "content": "Pastele este sarbatoarea care te face sa incetinesti. Sa lasi orasul in urma, sa te rupi de agitatie si sa cauti un loc unde lucrurile se intampla firesc si simplu. Tot mai multi oameni aleg sa petreaca Pastele la munte, intr-o zona autentica, unde traditiile nu sunt doar pentru turisti, ci fac parte din viata… https:// recent-news.ro/vacanta-de-past e-in-viseu-de-sus-munte-traditii-si-timp-pentru-familie/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@recent_news/115999997068801998",
