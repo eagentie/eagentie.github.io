@@ -4,7 +4,7 @@
   "site_feed": "https://banat-news.ro/feed/",
   "mastodon": "https://social.5th.ro/@banat",
   "mastodon_rss": "https://social.5th.ro/@banat.rss",
-  "updated_at": "2026-02-09T16:12:42Z",
+  "updated_at": "2026-02-09T17:17:18Z",
   "site_posts": [
     {
       "title": "Cum postezi pe Mastodon doar din anumite categorii WordPress",
@@ -67,42 +67,5 @@
       "summary": "Gestionarea unui site web mare poate fi o adevărată provocare, mai ales când vine vorba de optimizarea pentru Articolul SEO tehnic pentru site-uri mari: crawl budget &#038; indexare apare prima dată în Banat News ."
     }
   ],
-  "mastodon_posts": [
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@banat/115736941580179249",
-      "date": "Wed, 17 Dec 2025 21:06:18 +0000",
-      "content": "Ești un creator de conținut dedicat. Probabil petreci mult timp scriind articole valoroase pe WordPress. Cu toate acestea, gestionarea promovării pe rețelele sociale descentralizate, precum Mastodon, poate deveni rapid o sarcină repetitivă și consumatoare de timp. Această problemă este comună. Vrei să îți extinzi audiența în Fediverse. Vrei, de asemenea, să păstrezi relevanța pe profilul… https:// banat-news.ro/cum-postezi-pe-m astodon-doar-din-anumite-categorii-wordpress/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@banat/115706433375050514",
-      "date": "Fri, 12 Dec 2025 11:47:40 +0000",
-      "content": "Școala timișoreană de muzică demonstrează încă o dată că este o fabrică de vedete autentice. Andreea Dobre, absolventă a prestigiosului Colegiu Național de Artă „Ion Vidu”, a ajuns în Semifinala competiției, arătând țării întregi rafinamentul și tehnica dobândite în anii de studiu din Timișoara. Tudor Chirila: „Mie îmi place personalitatea ta, dincolo de voce https:// banat-news.ro/confirmarea-exce lentei-banatene-o-absolventa-a-colegiului-national-de-arta-ion-vidu-domina-scena-la-vocea-romaniei/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@banat/115706433301289796",
-      "date": "Fri, 12 Dec 2025 11:47:38 +0000",
-      "content": "Introducere AIDA: De Ce Contează E-E-A-T Mai Mult Ca Oricând? A (Atenție): V-ați întrebat vreodată de ce traficul organic stagnează, deși investiți masiv în conținut? De ce concurența, aparent mai mică, vă depășește în rezultatele Google? Această problemă nu este un accident. Este rezultatul unei schimbări fundamentale în modul în care Google evaluează calitatea și… https:// banat-news.ro/articole-seo-si- e-e-a-t-in-2025-cum-demonstrezi-experienta-si-autoritate/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@banat/115706433189546331",
-      "date": "Fri, 12 Dec 2025 11:47:37 +0000",
-      "content": "Te-ai săturat ca biletul zilei să fie pierdut din cauza unui rezultat complet imprevizibil? Pariurile pe rezultatul final (1X2) sunt adesea supuse hazardului. Există însă o abordare mult mai stabilă și predictibilă. Concentrându-ne pe numărul total de reușite dintr-un meci, deschidem ușa către o strategie robustă. Mulți pariori de succes se bazează pe opțiunea over… https:// banat-news.ro/biletul-zilei-pe -goluri-strategie-pentru-iubitorii-de-meciuri-spectaculoase/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@banat/115706414613933148",
-      "date": "Fri, 12 Dec 2025 11:42:53 +0000",
-      "content": "Vrei să te bucuri de fiorul autentic al meselor de ruletă sau blackjack direct din confortul buzunarului tău? Accesul la jocurile de noroc a evoluat spectaculos, transformând experiența de **cazino live mobil** dintr-un lux într-o normalitate. Milioane de jucători se conectează zilnic pentru a interacționa cu dealeri reali. Această libertate aduce cu sine însă provocări… https:// banat-news.ro/cazino-live-pe-m obil-ce-trebuie-sa-stii-inainte-sa-intri-la-mese-reale/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@banat/115706405414263949",
-      "date": "Fri, 12 Dec 2025 11:40:33 +0000",
-      "content": "Știri și povești din Banat: Timișoara, orașe și sate, economie, infrastructură, cultură și comunități locale. Rămâi conectat la ce se întâmplă în vestul țării. # banat # timisoara # stiri # politic https:// banat-news.ro/"
-    }
-  ]
+  "mastodon_posts": []
 }
