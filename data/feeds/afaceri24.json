@@ -4,8 +4,14 @@
   "site_feed": "https://afaceri24.ro/feed/",
   "mastodon": "https://social.5th.ro/@afaceri24",
   "mastodon_rss": "https://social.5th.ro/@afaceri24.rss",
-  "updated_at": "2026-02-09T17:19:17Z",
+  "updated_at": "2026-02-09T18:03:51Z",
   "site_posts": [
+    {
+      "title": "Vrei să pleci la drum acum? Cum închiriezi un minivan fără să pierzi timpul",
+      "link": "https://afaceri24.ro/vrei-sa-pleci-la-drum-acum-cum-inchiriezi-un-minivan-fara-sa-pierzi-timpul/",
+      "date": "Mon, 09 Feb 2026 18:00:48 +0000",
+      "summary": "Uneori, pornirea într-o aventură spontană pare cea mai bună alegere. Fără îndoială, situațiile neprevăzute care se învârt în jurul transportului pot totuși să complice lucrurile într-o clipă. Când grupul este numeros, apare automat necesitatea de a sincroniza diferite agende și de a transporta toate bagajele eficient. Un minivan ales corect te ajută să gestionezi totul [&#8230;] The post Vrei să pleci la drum acum? Cum închiriezi un minivan fără să pierzi timpul appeared first on Afaceri 24 ."
+    },
     {
       "title": "Cum selectați bocanci de protecție pentru diferite medii de lucru",
       "link": "https://afaceri24.ro/bocanci-protectie/",
@@ -59,15 +65,15 @@
       "link": "https://afaceri24.ro/cauti-o-pompa-de-apa-sau-pentru-hidrofor-accesibila-ca-pret/",
       "date": "Tue, 23 Dec 2025 05:45:23 +0000",
       "summary": "Cum alegi tipul corect de pompă? Alegerea unei pompe potrivite poate părea complicată, mai ales când apar termeni tehnici, tipuri diferite de echipamente și diferențe mari de preț. Totuși, dacă știi ce îți trebuie și în ce scop o vei folosi, selecția devine mult mai clară. Ai la dispoziție opțiuni variate care acoperă nevoile uzuale [&#8230;] The post Cauți o pompă de apă sau pentru hidrofor accesibilă ca preț? Iată câteva sfaturi utile! appeared first on Afaceri 24 ."
-    },
-    {
-      "title": "Mastodon WordPress plugin: ce face un plugin de auto-postare",
-      "link": "https://afaceri24.ro/mastodon-wordpress-plugin-ce-face-un-plugin-de-auto-postare/",
-      "date": "Wed, 17 Dec 2025 16:58:54 +0000",
-      "summary": "Vă petreceți ore întregi creând conținut valoros pe site-ul dvs. WordPress? Odată ce articolul este publicat, urmează partea cea mai consumatoare de timp: distribuirea manuală pe toate rețelele sociale. În lumea rapidă a Fediverse-ului, a menține o prezență constantă pe Mastodon poate fi o provocare reală. Dacă sunteți în căutarea unei soluții eficiente pentru a [&#8230;] The post Mastodon WordPress plugin: ce face un plugin de auto-postare appeared first on Afaceri 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@afaceri24/116041977136535061",
+      "date": "Mon, 09 Feb 2026 18:00:51 +0000",
+      "content": "📄Uneori, pornirea într-o aventură spontană pare cea mai bună alegere. Fără îndoială, situațiile neprevăzute care se învârt în jurul transportului pot totuși să complice lucrurile într-o clipă. Când grupul este numeros, apare automat necesitatea de a sincroniza diferite agende și de a transporta toate bagajele eficient. Un minivan ales corect te ajută să gestionezi totul… 💡 https:// afaceri24.ro/vrei-sa-pleci-la- drum-acum-cum-inchiriezi-un-minivan-fara-sa-pierzi-timpul/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@afaceri24/116024125306189037",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@afaceri24/115723100089840546",
       "date": "Mon, 15 Dec 2025 10:26:13 +0000",
       "content": "📄Integrarea electrocasnicelor într-un ecosistem smart ajută la coordonarea funcțiilor și la monitorizarea consumului. Utilizatorul poate avea o imagine clară asupra modului în care sunt folosite resursele în locuință.1. Ce înseamnă / Ce esteUn ecosistem smart este un ansamblu de dispozitive conectate care comunică între ele prin rețea și pot fi gestionate din aceeași aplicație. Scopul… 💡 https:// afaceri24.ro/de-ce-este-import anta-integrarea-intr-un-ecosistem-smart/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@afaceri24/115711735489423814",
-      "date": "Sat, 13 Dec 2025 10:16:03 +0000",
-      "content": "📄Organizarea unei petreceri pentru copii acasă poate părea o idee minunată la început: un spațiu familiar, un mediu confortabil, o atmosferă mai intimă. Dar, pe măsură ce te apropii de eveniment, apare inevitabil întrebarea: „Cum fac să iasă totul bine dacă nu sunt un organizator profesionist?” Adevărul este că o aniversare la domiciliu poate fi… 💡 https:// afaceri24.ro/cum-te-ajuta-dize manepe-ro-sa-organizezi-o-petrecere-memorabila-pentru-cei-mici-chiar-la-tine-acasa/"
     }
   ]
 }

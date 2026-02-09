@@ -4,7 +4,7 @@
   "site_feed": "https://iasi-azi.ro/feed/",
   "mastodon": "https://social.5th.ro/@Iasi",
   "mastodon_rss": "https://social.5th.ro/@Iasi.rss",
-  "updated_at": "2026-02-09T17:16:45Z",
+  "updated_at": "2026-02-09T18:03:03Z",
   "site_posts": [
     {
       "title": "Cum funcționează recomandările pe Mastodon (și de ce nu sunt la fel peste tot)",
@@ -67,5 +67,42 @@
       "summary": "Publicul din Iași consumă informație în ritmul orașului: concret, cu exemple apropiate de viața de zi cu zi și cu accent pe proiecte reale. O listă curată de publicatii locale Iasi te ajută să obții apariții cu impact, să accelerezi indexarea și să transformi vizibilitatea în cereri reale. În locul „listelor cu de toate”, acest... Articolul Publicații locale &amp; nișe din Iași: criterii, liste utile și outreach care chiar funcționează apare prima dată în Iasi AZI ."
     }
   ],
-  "mastodon_posts": []
+  "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@Iasi/115736913568344379",
+      "date": "Wed, 17 Dec 2025 20:59:10 +0000",
+      "content": "V-ați săturat să vedeți pe rețelele sociale aceleași cinci persoane și aceleași subiecte promovate obsesiv de algoritmi? Mulți dintre noi simțim că suntem prinși într-o bulă, unde descoperirea de conținut nou devine din ce în ce mai dificilă. Rețelele centralizate controlează strict ce ajunge în fața noastră, bazându-se pe metrici ascunse de engagement. Iată de… https:// iasi-azi.ro/cum-functioneaza-r ecomandarile-pe-mastodon-si-de-ce-nu-sunt-la-fel-peste-tot/"
+    },
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@Iasi/115706204094094297",
+      "date": "Fri, 12 Dec 2025 10:49:21 +0000",
+      "content": "Atenție: Observați o scădere constantă a vizibilității în căutările locale, chiar dacă serviciile sau produsele dumneavoastră sunt superioare? Vă confruntați cu o concurență acerbă în orașul dumneavoastră, iar metodele clasice de promovare nu mai dau rezultatele așteptate? Interes: În peisajul digital actual, simpla prezență online nu mai este suficientă. Căutările bazate pe intenție și proximitate… https:// iasi-azi.ro/2025-advertoriale- pentru-seo-local-si-cum-atragi-clienti-din-orasul-tau/"
+    },
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@Iasi/115706203971135686",
+      "date": "Fri, 12 Dec 2025 10:49:19 +0000",
+      "content": "Ghid Esențial: Protejarea Datelor și Siguranța la Cazinourile Online [A - Atenție] Vă faceți griji în privința datelor personale atunci când jucați online? În era digitală, introducerea informațiilor bancare și a datelor de identitate pe internet ridică întotdeauna semne de întrebare. Nimeni nu dorește să devină victima fraudelor sau a scurgerilor de informații sensibile. [I… https:// iasi-azi.ro/cum-verifici-daca- un-cazino-online-este-sigur-si-protejeaza-datele-jucatorilor/"
+    },
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@Iasi/115706203808392527",
+      "date": "Fri, 12 Dec 2025 10:49:17 +0000",
+      "content": "Dacă doriți ca site-ul dumneavoastră să atingă performanțe maxime, nu este suficient să creați conținut de calitate. Modul în care informația este organizată și prezentată motoarelor de căutare este crucial. Optimizarea URL-urilor: Fundamentul unei Indexări Google de Succes Atenție: V-ați întrebat vreodată de ce unele pagini web urcă rapid în clasamente, în timp ce altele… https:// iasi-azi.ro/structura-url-uril or-seo-friendly-reguli-simple-pentru-un-site-usor-de-indexat/"
+    },
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@Iasi/115706202323796829",
+      "date": "Fri, 12 Dec 2025 10:48:54 +0000",
+      "content": "Știri și povești din Iași: oraș, cartiere, universități, cultură, evenimente și afaceri locale. Urmărește-ne dacă vrei să fii la curent cu ce se întâmplă azi în Iași. # iasi # stiri # turism # politica https:// iasi-azi.ro"
+    },
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@Iasi/115706199258395831",
+      "date": "Fri, 12 Dec 2025 10:48:07 +0000",
+      "content": "Te-ai săturat să câștigi o mână impresionantă doar pentru a pierde întreaga sesiune din cauza unei decizii pripite? Simți că ai talentul, dar îți lipsește structura? Acesta este punctul de cotitură pe care îl experimentează mulți entuziaști. Mii de jucători se regăsesc în acest limbo – poker recreativ nu mai oferă satisfacție, dar drumul către… https:// iasi-azi.ro/trecerea-de-la-joc -recreativ-la-poker-serios-pasii-de-facut/"
+    }
+  ]
 }
