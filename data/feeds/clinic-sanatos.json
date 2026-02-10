@@ -4,8 +4,14 @@
   "site_feed": "https://clinic-sanatos.ro/feed/",
   "mastodon": "https://social.5th.ro/@clinic_sanatos",
   "mastodon_rss": "https://social.5th.ro/@clinic_sanatos.rss",
-  "updated_at": "2026-02-10T17:18:53Z",
+  "updated_at": "2026-02-10T19:33:18Z",
   "site_posts": [
+    {
+      "title": "Rinita alergica – De ce este mai mult decat o simpla raceala si cand trebuie tratata corect",
+      "link": "https://clinic-sanatos.ro/rinita-alergica-de-ce-este-mai-mult-decat-o-simpla-raceala-si-cand-trebuie-tratata-corect/",
+      "date": "Tue, 10 Feb 2026 19:07:17 +0000",
+      "summary": "Rinita alergica este una dintre cele mai frecvente afectiuni respiratorii, dar si una dintre cele... Articolul Rinita alergica – De ce este mai mult decat o simpla raceala si cand trebuie tratata corect apare prima dată în Clinic Sanatos ."
+    },
     {
       "title": "De la mic dejun la gustări",
       "link": "https://clinic-sanatos.ro/de-la-mic-dejun-la-gustari/",
@@ -71,15 +77,15 @@
       "link": "https://clinic-sanatos.ro/uniforma-medicala-in-sezonul-rece-3-elemente-esentiale/",
       "date": "Mon, 13 Oct 2025 14:28:34 +0000",
       "summary": "Odată cu scăderea temperaturilor, uniforma medicală trebuie să ofere și protecție termică, pe lângă confort... Articolul Uniforma medicală în sezonul rece. 3 elemente esențiale apare prima dată în Clinic Sanatos ."
-    },
-    {
-      "title": "Cardiomiopatia: tipuri, cauze și opțiuni de tratament",
-      "link": "https://clinic-sanatos.ro/cardiomiopatia-tipuri-cauze-si-optiuni-de-tratament/",
-      "date": "Sat, 27 Sep 2025 05:58:58 +0000",
-      "summary": "Cardiomiopatia este un termen medical care descrie un grup de afecțiuni ale mușchiului cardiac, miocardul.... Articolul Cardiomiopatia: tipuri, cauze și opțiuni de tratament apare prima dată în Clinic Sanatos ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@clinic_sanatos/116047900883493244",
+      "date": "Tue, 10 Feb 2026 19:07:20 +0000",
+      "content": "Rinita alergica este una dintre cele mai frecvente afectiuni respiratorii, dar si una dintre cele mai subestimate. Multi pacienti o confunda cu o raceala banala sau cu o sensibilitate sezoniera, ignorand impactul real pe care il are asupra calitatii vietii. Congestia nazala persistenta, stranutul repetat, secretiile abundente si senzatia de nas infundat pot deveni probleme… .... https:// clinic-sanatos.ro/rinita-alerg ica-de-ce-este-mai-mult-decat-o-simpla-raceala-si-cand-trebuie-tratata-corect/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@clinic_sanatos/115922095258431641",

@@ -4,8 +4,14 @@
   "site_feed": "https://top15.ro/feed/",
   "mastodon": "https://social.5th.ro/@top",
   "mastodon_rss": "https://social.5th.ro/@top.rss",
-  "updated_at": "2026-02-10T17:19:22Z",
+  "updated_at": "2026-02-10T19:33:48Z",
   "site_posts": [
+    {
+      "title": "Aparate de masura si control: cum alegi instrumentatia corecta pentru siguranta, calitate si eficienta in 2026",
+      "link": "https://top15.ro/aparate-de-masura-si-control-cum-alegi-instrumentatia-corecta-pentru-siguranta-calitate-si-eficienta-in-2026/",
+      "date": "Tue, 10 Feb 2026 19:04:10 +0000",
+      "summary": "In industrie, energie, constructii, mentenanta, infrastructura IT sau utilitati, exista o regula simpla: ceea ce... Articolul Aparate de masura si control: cum alegi instrumentatia corecta pentru siguranta, calitate si eficienta in 2026 apare prima dată în TOP 15 ."
+    },
     {
       "title": "Pași siguri încă din copilărie: de ce încălțămintea din piele este cea mai bună alegere pentru cei mici",
       "link": "https://top15.ro/pasi-siguri-inca-din-copilarie-de-ce-incaltamintea-din-piele-este-cea-mai-buna-alegere-pentru-cei-mici/",
@@ -71,15 +77,15 @@
       "link": "https://top15.ro/stilul-arhitectural-influenteaza-alegerea-ferestrelor-de-la-estetica-la-eficienta/",
       "date": "Thu, 18 Dec 2025 10:04:53 +0000",
       "summary": "De ce consultanța HELIOS face diferența Ferestrele nu sunt doar deschiderile din ziduri care lasă... Articolul Stilul arhitectural influențează alegerea ferestrelor: de la estetică la eficiență apare prima dată în TOP 15 ."
-    },
-    {
-      "title": "Mastodon România: cum te conectezi cu diaspora",
-      "link": "https://top15.ro/mastodon-romania-cum-te-conectezi-cu-diaspora/",
-      "date": "Wed, 17 Dec 2025 16:58:54 +0000",
-      "summary": "Ești obosit de algoritmii care îți decid experiența online? Te simți manipulat de platformele sociale... Articolul Mastodon România: cum te conectezi cu diaspora apare prima dată în TOP 15 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@top/116047888649397380",
+      "date": "Tue, 10 Feb 2026 19:04:14 +0000",
+      "content": "📰In industrie, energie, constructii, mentenanta, infrastructura IT sau utilitati, exista o regula simpla: ceea ce nu masori corect, nu poti controla. Iar ceea ce nu controlezi, devine risc – risc de oprire neplanificata, risc de defect ascuns, risc de neconformitate, risc financiar. Din acest motiv, aparatele de masura si control nu sunt “unelte” in sensul… 📰 https:// top15.ro/aparate-de-masura-si- control-cum-alegi-instrumentatia-corecta-pentru-siguranta-calitate-si-eficienta-in-2026/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@top/116033689334549250",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@top/115740003332866340",
       "date": "Thu, 18 Dec 2025 10:04:56 +0000",
       "content": "📰De ce consultanța HELIOS face diferența Ferestrele nu sunt doar deschiderile din ziduri care lasă lumina să pătrundă în casă. Acestea fac parte din limbajul arhitectural al locuinței tale: modelează estetica, influențează atmosfera interiorului și contribuie la confortul termic și eficiența energetică. Alegerea ferestrelor potrivite nu se face doar printr-un configurator online sau printr-un 📰 https:// top15.ro/stilul-arhitectural-i nfluenteaza-alegerea-ferestrelor-de-la-estetica-la-eficienta/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@top/115736705227018939",
-      "date": "Wed, 17 Dec 2025 20:06:11 +0000",
-      "content": "📰Ești obosit de algoritmii care îți decid experiența online? Te simți manipulat de platformele sociale centralizate? Pentru mulți români, în special pentru cei care fac parte din diaspora, nevoia de conectare autentică este vitală. Rețelele mari, controlate de corporații, au devenit adesea medii zgomotoase și filtrate. Dar există o alternativă puternică și etică: comunitatea mastodon… 📰 https:// top15.ro/mastodon-romania-cum- te-conectezi-cu-diaspora/"
     }
   ]
 }
