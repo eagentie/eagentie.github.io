@@ -4,8 +4,69 @@
   "site_feed": "https://bucovina-news.ro/feed/",
   "mastodon": "https://social.5th.ro/@bucovina",
   "mastodon_rss": "https://social.5th.ro/@bucovina.rss",
-  "updated_at": "2026-02-10T22:03:10Z",
-  "site_posts": [],
+  "updated_at": "2026-02-10T23:00:29Z",
+  "site_posts": [
+    {
+      "title": "Cum gestionezi imagini featured în postarea Mastodon din WordPress",
+      "link": "https://bucovina-news.ro/cum-gestionezi-imagini-featured-in-postarea-mastodon-din-wordpress/",
+      "date": "Wed, 17 Dec 2025 16:58:54 +0000",
+      "summary": "Când investiți timp în crearea de conținut valoros pe platforma wordpress, doriți ca efortul dumneavoastră să fie răsplătit cu vizibilitate maximă. O problemă frecventă apare la distribuirea automată a postărilor&#8230; Articolul Cum gestionezi imagini featured în postarea Mastodon din WordPress apare prima dată în Bucovina News ."
+    },
+    {
+      "title": "2025: articole SEO pentru bloguri de nișă (medical, juridic, financiar)",
+      "link": "https://bucovina-news.ro/2025-articole-seo-pentru-bloguri-de-nisa-medical-juridic-financiar/",
+      "date": "Mon, 01 Dec 2025 12:07:49 +0000",
+      "summary": "Introducere: Miza conținutului de nișă în era încrederii digitale A (Atenție): V-ați întrebat vreodată cât de mult costă o singură informație eronată într-un domeniu sensibil? Nu vorbim doar de pierderea&#8230; Articolul 2025: articole SEO pentru bloguri de nișă (medical, juridic, financiar) apare prima dată în Bucovina News ."
+    },
+    {
+      "title": "De ce nu există biletul zilei 100% sigur și cum să-ți setezi așteptările",
+      "link": "https://bucovina-news.ro/de-ce-nu-exista-biletul-zilei-100-sigur-si-cum-sa-ti-setezi-asteptarile/",
+      "date": "Sat, 15 Nov 2025 10:03:28 +0000",
+      "summary": "Te-ai săturat să cauți formula magică? Fiecare parior visează să descopere acel secret. Toți își doresc să găsească combinația perfectă de meciuri. Acea combinație care să aducă un câștig garantat,&#8230; Articolul De ce nu există biletul zilei 100% sigur și cum să-ți setezi așteptările apare prima dată în Bucovina News ."
+    },
+    {
+      "title": "Ghid pentru sesiuni scurte și controlate de păcănele, poker și pariuri",
+      "link": "https://bucovina-news.ro/ghid-pentru-sesiuni-scurte-si-controlate-de-pacanele-poker-si-pariuri/",
+      "date": "Fri, 14 Nov 2025 09:07:58 +0000",
+      "summary": "Vă simțiți adesea copleșiți sau regretați timpul petrecut în fața ecranului jucând jocuri de noroc online? (Attention) Mulți jucători se confruntă cu dificultatea de a menține echilibrul între divertisment și&#8230; Articolul Ghid pentru sesiuni scurte și controlate de păcănele, poker și pariuri apare prima dată în Bucovina News ."
+    },
+    {
+      "title": "Cum monitorizezi concurența în SEO și găsești golurile din piață",
+      "link": "https://bucovina-news.ro/cum-monitorizezi-concurenta-in-seo-si-gasesti-golurile-din-piata/",
+      "date": "Fri, 14 Nov 2025 07:32:14 +0000",
+      "summary": "Ai simțit vreodată că munca depusă în SEO nu dă roadele așteptate? Concurența în mediul online este acerbă, iar a te baza doar pe intuiție nu mai este o opțiune&#8230; Articolul Cum monitorizezi concurența în SEO și găsești golurile din piață apare prima dată în Bucovina News ."
+    },
+    {
+      "title": "Ce este AEO (Answer Engine Optimization) și cum răspunzi mai bine la întrebările utilizatorilor?",
+      "link": "https://bucovina-news.ro/ce-este-aeo-answer-engine-optimization-si-cum-raspunzi-mai-bine-la-intrebarile-utilizatorilor/",
+      "date": "Thu, 13 Nov 2025 09:24:16 +0000",
+      "summary": "Navigați adesea pe Google și observați că răspunsul la &#238;ntrebarea dumneavoastră apare direct &#238;n partea de sus a paginii, fără a fi nevoie să dați click pe un link? Acesta&#8230; Articolul Ce este AEO (Answer Engine Optimization) și cum răspunzi mai bine la întrebările utilizatorilor? apare prima dată în Bucovina News ."
+    },
+    {
+      "title": "Excursii cu barca Ilganii de Jos – plimbări scurte de weekend",
+      "link": "https://bucovina-news.ro/excursii-cu-barca-ilganii-de-jos-plimbari-scurte-de-weekend/",
+      "date": "Thu, 04 Sep 2025 00:01:50 +0000",
+      "summary": "Visiți Delta Dunării? Doriți o escapadă relaxantă și memorabilă? Atunci excursiile cu barca Ilganii de Jos sunt alegerea perfectă! Imaginați-vă navigând pe apele liniștite, admirând peisajele încântătoare ale Deltei. Pregătiți-vă&#8230; Articolul Excursii cu barca Ilganii de Jos – plimbări scurte de weekend apare prima dată în Bucovina News ."
+    },
+    {
+      "title": "Pensiuni Ilganii de Jos în Delta Dunării – locuri cu acces ușor",
+      "link": "https://bucovina-news.ro/pensiuni-ilganii-de-jos-in-delta-dunarii-locuri-cu-acces-usor/",
+      "date": "Wed, 03 Sep 2025 23:19:17 +0000",
+      "summary": "Vrei o escapadă relaxantă în inima Deltei Dunării? Imaginează-ți: soarele cald pe față, aerul proaspăt, apa liniștită… Și tot confortul unei cazare Ilganii de Jos excelente. E posibil! Aici, vei&#8230; Articolul Pensiuni Ilganii de Jos în Delta Dunării – locuri cu acces ușor apare prima dată în Bucovina News ."
+    },
+    {
+      "title": "Construiește un PWA cu React: offline, caching, push",
+      "link": "https://bucovina-news.ro/construieste-un-pwa-cu-react-offline-caching-push/",
+      "date": "Wed, 03 Sep 2025 22:20:00 +0000",
+      "summary": "Îți dorești o aplicație web rapidă, fiabilă și disponibilă chiar și offline? Atunci ești în locul potrivit! Construirea unei PWA (Progressive Web App) cu React este soluția perfectă pentru a&#8230; Articolul Construiește un PWA cu React: offline, caching, push apare prima dată în Bucovina News ."
+    },
+    {
+      "title": "Servicii SEO Bucovina – Publicare & Redactare Continut",
+      "link": "https://bucovina-news.ro/servicii-seo-bucovina/",
+      "date": "Thu, 21 Aug 2025 07:32:35 +0000",
+      "summary": "Acoperim discret orașele din Bucovina cu servicii SEO complete: redactare și publicare pentru advertoriale, articole SEO și comunicate de presă. Mai jos găsești o hartă simplă pe orașe și, la&#8230; Articolul Servicii SEO Bucovina – Publicare &amp; Redactare Continut apare prima dată în Bucovina News ."
+    }
+  ],
   "mastodon_posts": [
     {
       "title": "",
