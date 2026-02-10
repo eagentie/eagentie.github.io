@@ -4,81 +4,8 @@
   "site_feed": "https://UniversulTech.ro/feed/",
   "mastodon": "https://social.5th.ro/@UniversulTech",
   "mastodon_rss": "https://social.5th.ro/@UniversulTech.rss",
-  "updated_at": "2026-02-10T19:33:40Z",
-  "site_posts": [
-    {
-      "title": "De ce nu miros hainele a balsam după spălare",
-      "link": "https://universultech.ro/de-ce-nu-miros-hainele-a-balsam-dupa-spalare/",
-      "date": "Sun, 08 Feb 2026 09:03:05 +0000",
-      "summary": "Nimic nu se compară cu mirosul proaspăt de haine abia scoase din mașina de spălat, îmbibat cu aroma preferată de&#8230; Articolul De ce nu miros hainele a balsam după spălare apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "Arta de a te deconecta după o zi plină de muncă",
-      "link": "https://universultech.ro/arta-de-a-te-deconecta-dupa-o-zi-plina-de-munca/",
-      "date": "Fri, 06 Feb 2026 06:23:49 +0000",
-      "summary": "În zilele noastre, timpul liber a devenit aproape un moft. Trăim într-un ritm alert, în care ziua de muncă nu&#8230; Articolul Arta de a te deconecta după o zi plină de muncă apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "Planificarea financiară personală – cum îți organizezi banii pentru stabilitate și liniște",
-      "link": "https://universultech.ro/planificarea-financiara-personala-cum-iti-organizezi-banii-pentru-stabilitate-si-liniste/",
-      "date": "Tue, 03 Feb 2026 09:29:02 +0000",
-      "summary": "Finanțele personale sunt unul dintre aspectele vieții care îți pot aduce fie liniște, fie stres, în funcție de modul în&#8230; Articolul Planificarea financiară personală &#8211; cum îți organizezi banii pentru stabilitate și liniște apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "Greșeli frecvente pe care le faci când gătești și cum le poți evita",
-      "link": "https://universultech.ro/greseli-frecvente-pe-care-le-faci-cand-gatesti-si-cum-le-poti-evita/",
-      "date": "Fri, 30 Jan 2026 15:25:12 +0000",
-      "summary": "Gătitul este o activitate care ar trebui să-ți aducă satisfacție, relaxare și bucuria de a crea ceva bun pentru tine&#8230; Articolul Greșeli frecvente pe care le faci când gătești și cum le poți evita apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "Cum au fost digitalizate sloturile: între nostalgie și tehnologie",
-      "link": "https://universultech.ro/cum-au-fost-digitalizate-sloturile-intre-nostalgie-si-tehnologie/",
-      "date": "Fri, 30 Jan 2026 09:52:00 +0000",
-      "summary": "De la mecanic la digital: ce s-a schimbat tehnic Industria de gambling online este, de multe ori, analizată prin prisma&#8230; Articolul Cum au fost digitalizate sloturile: între nostalgie și tehnologie apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "De ce cauciucul spongios este esențial pentru etanșarea și izolarea industrială",
-      "link": "https://universultech.ro/de-ce-cauciucul-spongios-este-esential-pentru-etansarea-si-izolarea-industriala/",
-      "date": "Wed, 28 Jan 2026 12:42:51 +0000",
-      "summary": "Cauciucul spongios este esențial pentru etanșarea și izolarea industrială datorită structurii sale celulare unice, care îi permite o compresibilitate foarte&#8230; Articolul De ce cauciucul spongios este esențial pentru etanșarea și izolarea industrială apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "Cum să transformi curiozitatea naturală a copilului în inovație pură?",
-      "link": "https://universultech.ro/cum-sa-transformi-curiozitatea-naturala-a-copilului-in-inovatie-pura/",
-      "date": "Wed, 21 Jan 2026 03:59:45 +0000",
-      "summary": "Creativitatea nu este un talent rar, ci o abilitate care se construiește prin practică și explorare. Dacă observi cu atenție&#8230; Articolul Cum să transformi curiozitatea naturală a copilului în inovație pură? apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "Micile componente care contează enorm în experiența de condus moto",
-      "link": "https://universultech.ro/micile-componente-care-conteaza-enorm-in-experienta-de-condus-moto/",
-      "date": "Wed, 21 Jan 2026 03:59:22 +0000",
-      "summary": "Ce detalii fac cu adevarat diferenta, pe doua roti! La prima vedere, atenția motocicliștilor se îndreaptă spre motor, suspensie sau&#8230; Articolul Micile componente care contează enorm în experiența de condus moto apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "Ghidul complet pentru analiza calității uleiului de motor – Sfaturi practice pentru managerii de flote auto",
-      "link": "https://universultech.ro/ghidul-complet-pentru-analiza-calitatii-uleiului-de-motor-sfaturi-practice-pentru-managerii-de-flote-auto/",
-      "date": "Mon, 19 Jan 2026 09:24:45 +0000",
-      "summary": "În prezent, analiza calității uleiului de motor se dovedește a fi un instrument esențial pentru managerii de flote auto. Această&#8230; Articolul Ghidul complet pentru analiza calității uleiului de motor &#8211; Sfaturi practice pentru managerii de flote auto apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "Cum să folosești un espressor pentru cafea mereu gustoasă",
-      "link": "https://universultech.ro/cum-sa-folosesti-un-espressor-pentru-cafea-mereu-gustoasa/",
-      "date": "Tue, 30 Dec 2025 13:17:04 +0000",
-      "summary": "Un espressor de cafea este mai mult decât un simplu aparat electrocasnic. El este un aliat de încredere pentru momentele&#8230; Articolul Cum să folosești un espressor pentru cafea mereu gustoasă apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "Jacuzzi-ul de acasă: o experiență completă de relaxare și confort, direct în propria locuință",
-      "link": "https://universultech.ro/jacuzzi-ul-de-acasa-o-experienta-completa-de-relaxare-si-confort-direct-in-propria-locuinta/",
-      "date": "Wed, 24 Dec 2025 11:29:09 +0000",
-      "summary": "Un jacuzzi poate transforma complet modul în care trăiești momentele de relaxare. Dacă îți dorești să te bucuri de un&#8230; Articolul Jacuzzi-ul de acasă: o experiență completă de relaxare și confort, direct în propria locuință apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "Cum îți susții creșterea afacerii atunci când ai nevoie de capital la momentul potrivit",
-      "link": "https://universultech.ro/cum-iti-sustii-cresterea-afacerii-atunci-cand-ai-nevoie-de-capital-la-momentul-potrivit/",
-      "date": "Wed, 24 Dec 2025 11:26:53 +0000",
-      "summary": "Atunci când conduci o afacere, știi că lucrurile nu evoluează niciodată liniar. Sunt perioade în care cererea crește rapid, apar&#8230; Articolul Cum îți susții creșterea afacerii atunci când ai nevoie de capital la momentul potrivit apare prima dată în Universul Tech ."
-    }
-  ],
+  "updated_at": "2026-02-10T21:05:24Z",
+  "site_posts": [],
   "mastodon_posts": [
     {
       "title": "",
