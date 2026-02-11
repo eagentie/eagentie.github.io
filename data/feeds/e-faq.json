@@ -4,8 +4,14 @@
   "site_feed": "https://e-faq.ro/feed/",
   "mastodon": "https://social.5th.ro/@efaq",
   "mastodon_rss": "https://social.5th.ro/@efaq.rss",
-  "updated_at": "2026-02-11T05:45:40Z",
+  "updated_at": "2026-02-11T07:19:50Z",
   "site_posts": [
+    {
+      "title": "Detector cabluri electrice in pereti: cum localizezi trasee ascunse fara spargeri, erori si riscuri",
+      "link": "https://e-faq.ro/detector-cabluri-electrice-in-pereti-cum-localizezi-trasee-ascunse-fara-spargeri-erori-si-riscuri/",
+      "date": "Wed, 11 Feb 2026 06:49:49 +0000",
+      "summary": "Oricine a facut renovari, instalatii electrice sau interventii in cladiri stie ca “surprizele” din pereti [&#8230;] Articolul Detector cabluri electrice in pereti: cum localizezi trasee ascunse fara spargeri, erori si riscuri apare prima dată în FAQ - Intrebari Frecvente ."
+    },
     {
       "title": "Zincul – proprietăți și rolul său în funcționarea normală a organismului",
       "link": "https://e-faq.ro/zincul-proprietati-si-rolul-sau-in-functionarea-normala-a-organismului/",
@@ -53,15 +59,15 @@
       "link": "https://e-faq.ro/cum-sa-iti-ajuti-copilul-sa-rezolve-un-puzzle-fara-sa-i-strici-distractia/",
       "date": "Wed, 03 Dec 2025 10:44:28 +0000",
       "summary": "Să recunoaștem: c&#226;nd vezi copilul &#238;ncurcat de o piesă, tentația să te bagi și să [&#8230;] Articolul Cum să îți ajuți copilul să rezolve un puzzle (fără să-i strici distracția) apare prima dată în FAQ - Intrebari Frecvente ."
-    },
-    {
-      "title": "Tehnologia ca necesitate cotidiană: digitalul nu mai este o opțiune",
-      "link": "https://e-faq.ro/tehnologia-ca-necesitate-cotidiana-digitalul-nu-mai-este-o-optiune/",
-      "date": "Mon, 01 Dec 2025 15:06:24 +0000",
-      "summary": "Tehnologia nu mai este doar un instrument de sprijin: a devenit structura de bază a [&#8230;] Articolul Tehnologia ca necesitate cotidiană: digitalul nu mai este o opțiune apare prima dată în FAQ - Intrebari Frecvente ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@efaq/116050663371073834",
+      "date": "Wed, 11 Feb 2026 06:49:52 +0000",
+      "content": "🚀 Oricine a facut renovari, instalatii electrice sau interventii in cladiri stie ca “surprizele” din pereti costa: un cablu nimerit accidental cu bormasina, un traseu necunoscut care te obliga sa schimbi planul, o teava confundata cu o doza, o zona unde nu ai voie sa tai pentru ca trece alimentarea principala. In spatele acestor situatii exista… 🔗 Complet aici: https:// e-faq.ro/detector-cabluri-elec trice-in-pereti-cum-localizezi-trasee-ascunse-fara-spargeri-erori-si-riscuri/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@efaq/116035742252318146",
