@@ -4,8 +4,14 @@
   "site_feed": "https://clasici.ro/feed/",
   "mastodon": "https://social.5th.ro/@clasici",
   "mastodon_rss": "https://social.5th.ro/@clasici.rss",
-  "updated_at": "2026-02-13T10:01:55Z",
+  "updated_at": "2026-02-13T11:01:36Z",
   "site_posts": [
+    {
+      "title": "Cotele Dunării la Isaccea în 2026: nivelul apei azi, grafic și repere pentru zonă",
+      "link": "https://clasici.ro/cotele-dunarii-la-isaccea-in-2026-nivelul-apei-azi-grafic-si-repere-pentru-zona/",
+      "date": "Fri, 13 Feb 2026 08:38:11 +0000",
+      "summary": "Te-ai întrebat vreodată cum influențează fluviul viața de zi cu zi într-un oraș portuar? Dunărea..."
+    },
     {
       "title": "Să îți cumperi patul pentru dormitor, o alegere mai dificilă decât crezi",
       "link": "https://clasici.ro/sa-iti-cumperi-patul-pentru-dormitor-o-alegere-mai-dificila-decat-crezi/",
@@ -71,15 +77,15 @@
       "link": "https://clasici.ro/cazare-jurilovca-in-delta-dunarii-poarta-catre-gura-portitei/",
       "date": "Wed, 03 Sep 2025 23:16:01 +0000",
       "summary": "Vrei să descoperi frumusețea Deltei Dunării? Îți dorești o vacanță relaxantă, departe de agitația orașului?..."
-    },
-    {
-      "title": "Îmbrăcăminte pentru copii care rezistă: ce înseamnă calitate",
-      "link": "https://clasici.ro/imbracaminte-pentru-copii-care-rezista-ce-inseamna-calitate/",
-      "date": "Wed, 03 Sep 2025 22:11:53 +0000",
-      "summary": "Obosit de hainele de copii care se rup după o singură purtare? Vrei să găsești..."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@clasici/116062945934388594",
+      "date": "Fri, 13 Feb 2026 10:53:29 +0000",
+      "content": "⭐Te-ai întrebat vreodată cum influențează fluviul viața de zi cu zi într-un oraș portuar? Dunărea este inima pulsândă a transportului și economiei în sud-estul României. Pentru localnici și navigatori, cunoașterea valorilor exacte pentru cotele Dunării Isaccea nu este doar o curiozitate, ci o necesitate vitală. Interesul pentru evoluția fluviului crește pe măsură ce fenomenele climatice… ⭐ https:// clasici.ro/cotele-dunarii-la-i saccea-in-2026-nivelul-apei-azi-grafic-si-repere-pentru-zona/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@clasici/115847694804327683",

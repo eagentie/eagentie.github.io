@@ -4,8 +4,14 @@
   "site_feed": "https://noutati24.ro/feed/",
   "mastodon": "https://social.5th.ro/@noutati24",
   "mastodon_rss": "https://social.5th.ro/@noutati24.rss",
-  "updated_at": "2026-02-13T10:01:44Z",
+  "updated_at": "2026-02-13T11:01:26Z",
   "site_posts": [
+    {
+      "title": "Cotele Dunării la Gruia în 2026: nivelul apei azi, grafic și variații locale",
+      "link": "https://noutati24.ro/cotele-dunarii-la-gruia-in-2026-nivelul-apei-azi-grafic-si-variatii-locale/",
+      "date": "Fri, 13 Feb 2026 08:38:11 +0000",
+      "summary": "Analiza rezultatelor Google pentru căutările „cotele Dunării Gruia” și „nivelul apei Gruia” relevă o concentrare pe date tehnice brute furnizate &#8230; Articolul Cotele Dunării la Gruia în 2026: nivelul apei azi, grafic și variații locale apare prima dată în Noutati 24 ."
+    },
     {
       "title": "Bocancii și echipamentele noi care elimină compromisul dintre siguranță și confort",
       "link": "https://noutati24.ro/echipament-protectie/",
@@ -71,15 +77,15 @@
       "link": "https://noutati24.ro/cum-sa-alegi-cel-mai-bun-pat-tapitat/",
       "date": "Sat, 27 Dec 2025 10:32:00 +0000",
       "summary": "Să te bucuri de un somn bun, odihnitor, fără &#238;ntreruperi, &#238;ntr-un pat cu adevărat confortabil, poate să contribuie la starea &#8230; Articolul Cum să alegi cel mai bun pat tapițat apare prima dată în Noutati 24 ."
-    },
-    {
-      "title": "Mastodon pentru dezvoltatori: API, bots și integrări",
-      "link": "https://noutati24.ro/mastodon-pentru-dezvoltatori-api-bots-si-integrari/",
-      "date": "Wed, 17 Dec 2025 16:58:54 +0000",
-      "summary": "Ați simțit vreodată că instrumentele standard de social media vă limitează creativitatea sau controlul? Vă doriți o platformă care să &#8230; Articolul Mastodon pentru dezvoltatori: API, bots și integrări apare prima dată în Noutati 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@noutati24/116062913356929797",
+      "date": "Fri, 13 Feb 2026 10:45:12 +0000",
+      "content": "🆕Analiza rezultatelor Google pentru căutările „cotele Dunării Gruia” și „nivelul apei Gruia” relevă o concentrare pe date tehnice brute furnizate de AFDJ și site-uri de meteo. Diferențiatorul acestui articol va fi interpretarea acestor date într-un context util pentru utilizatorul final, explicarea influenței barajelor de la Porțile de Fier și integrarea unor soluții moderne de monitorizare… 🌐 https:// noutati24.ro/cotele-dunarii-la -gruia-in-2026-nivelul-apei-azi-grafic-si-variatii-locale/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@noutati24/116024120005292039",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@noutati24/115847705437233606",
       "date": "Tue, 06 Jan 2026 10:35:00 +0000",
       "content": "🆕Să te bucuri de un somn bun, odihnitor, fără întreruperi, într-un pat cu adevărat confortabil, poate să contribuie la starea ta bună de sănătate. În acest fel, și calitatea vieții o să fie una așa cum îți place. De fapt, dacă nu te odinești așa cum trebuie, riști să te confrunți cu neplăceri de natură… 🌐 https:// noutati24.ro/cum-sa-alegi-cel- mai-bun-pat-tapitat/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@noutati24/115736688066338239",
-      "date": "Wed, 17 Dec 2025 20:01:49 +0000",
-      "content": "🆕Ați simțit vreodată că instrumentele standard de social media vă limitează creativitatea sau controlul? Vă doriți o platformă care să vă ofere libertatea de a construi, automatiza și inova exact așa cum vă imaginați? Vă prezentăm lumea Mastodon, un univers descentralizat unde dezvoltatorii nu sunt doar utilizatori, ci arhitecți. Această rețea open-source, bazată pe Fediverse,… 🌐 https:// noutati24.ro/mastodon-pentru-d ezvoltatori-api-bots-si-integrari/"
     }
   ]
 }
