@@ -4,8 +4,14 @@
   "site_feed": "https://recent-news.ro/feed/",
   "mastodon": "https://social.5th.ro/@recent_news",
   "mastodon_rss": "https://social.5th.ro/@recent_news.rss",
-  "updated_at": "2026-02-13T07:57:15Z",
+  "updated_at": "2026-02-13T09:01:30Z",
   "site_posts": [
+    {
+      "title": "Unde găsești suport pentru vehicule de lux",
+      "link": "https://recent-news.ro/unde-gasesti-suport-pentru-vehicule-de-lux/",
+      "date": "Fri, 13 Feb 2026 08:29:16 +0000",
+      "summary": "Deținerea unui vehicul de lux nu reprezintă doar o confirmare a succesului personal, ci și o responsabilitate majoră în ceea&#8230; Articolul Unde găsești suport pentru vehicule de lux apare prima dată în Recent News ."
+    },
     {
       "title": "Se schimba anotimpul? Iata ce lenjerii de pat sa alegi",
       "link": "https://recent-news.ro/se-schimba-anotimpul-iata-ce-lenjerii-de-pat-sa-alegi/",
@@ -59,15 +65,15 @@
       "link": "https://recent-news.ro/conil-fest-2025-editia-a-xxvii-a-a-festivalului-integrari/",
       "date": "Tue, 25 Nov 2025 06:50:40 +0000",
       "summary": "Zilele de 15 și 16 noiembrie 2025 au adus o emoție pură și o lecție de neuitat la Circul Metropolitan&#8230; Articolul CONIL Fest 2025: ediția a XXVII-a a Festivalului Integrări apare prima dată în Recent News ."
-    },
-    {
-      "title": "ROMANIAN ENERGY WEEK 2025",
-      "link": "https://recent-news.ro/romanian-energy-week-2025/",
-      "date": "Tue, 18 Nov 2025 07:22:57 +0000",
-      "summary": "ROMANIAN ENERGY WEEK 2025: 5 zile de dezbateri, 5 teme vitale pentru energie Palatul Parlamentului găzduiește &#238;ntre 17 și 21&#8230; Articolul ROMANIAN ENERGY WEEK 2025 apare prima dată în Recent News ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@recent_news/116062378932762958",
+      "date": "Fri, 13 Feb 2026 08:29:18 +0000",
+      "content": "Deținerea unui vehicul de lux nu reprezintă doar o confirmare a succesului personal, ci și o responsabilitate majoră în ceea ce privește întreținerea tehnică pe termen lung. Aceste automobile sunt adevărate bijuterii ale ingineriei moderne, integrând tehnologii de ultimă oră care necesită o atenție deosebită și cunoștințe de specialitate constante.Proprietarii de mașini premium se află… https:// recent-news.ro/unde-gasesti-su port-pentru-vehicule-de-lux/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@recent_news/116040037169813887",
