@@ -4,8 +4,14 @@
   "site_feed": "https://top15.ro/feed/",
   "mastodon": "https://social.5th.ro/@top",
   "mastodon_rss": "https://social.5th.ro/@top.rss",
-  "updated_at": "2026-02-13T11:47:39Z",
+  "updated_at": "2026-02-13T13:37:32Z",
   "site_posts": [
+    {
+      "title": "Cât de rezistente sunt paturile din lemn masiv în 2026? – 5 recomandări care rezistă testului timpului",
+      "link": "https://top15.ro/cat-de-rezistente-sunt-paturile-din-lemn-masiv-in-2026-5-recomandari-care-rezista-testului-timpului/",
+      "date": "Fri, 13 Feb 2026 12:49:01 +0000",
+      "summary": "Paturile din lemn masiv au revenit în prim-plan pentru cei care vor un dormitor stabil,... Articolul Cât de rezistente sunt paturile din lemn masiv în 2026? &#8211; 5 recomandări care rezistă testului timpului apare prima dată în TOP 15 ."
+    },
     {
       "title": "Cotele Dunării la Medgidia în 2026: nivelul apei azi, grafic și trenduri",
       "link": "https://top15.ro/cotele-dunarii-la-medgidia-in-2026-nivelul-apei-azi-grafic-si-trenduri/",
@@ -71,15 +77,15 @@
       "link": "https://top15.ro/avantajele-dispozitivelor-de-localizare-gps-pentru-firmele-de-inchirieri-auto/",
       "date": "Fri, 26 Dec 2025 10:36:51 +0000",
       "summary": "Localizare GPS sună, la prima vedere, ca un “extra” tehnic. În realitate, pentru o firmă... Articolul Avantajele dispozitivelor de localizare GPS pentru firmele de închirieri auto apare prima dată în TOP 15 ."
-    },
-    {
-      "title": "Cât de importantă este, de fapt, pompa de recirculare a apei calde pentru sistemul de încălzire?",
-      "link": "https://top15.ro/cat-de-importanta-este-de-fapt-pompa-de-recirculare-a-apei-calde-pentru-sistemul-de-incalzire/",
-      "date": "Wed, 24 Dec 2025 11:32:01 +0000",
-      "summary": "Atunci când vorbim despre un sistem de încălzire eficient, atenția se îndreaptă, de obicei, către... Articolul Cât de importantă este, de fapt, pompa de recirculare a apei calde pentru sistemul de încălzire? apare prima dată în TOP 15 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@top/116063400398037912",
+      "date": "Fri, 13 Feb 2026 12:49:04 +0000",
+      "content": "📰Paturile din lemn masiv au revenit în prim-plan pentru cei care vor un dormitor stabil, plăcut și ușor de integrat în orice stil. Lemnul masiv are acel „ceva” pe care îl simți imediat: greutate, consistență, fibră naturală, o senzație de obiect făcut să dureze.Totuși, întrebarea importantă rămâne: cât de bine rezistă un pat din lemn… 📰 https:// top15.ro/cat-de-rezistente-sun t-paturile-din-lemn-masiv-in-2026-5-recomandari-care-rezista-testului-timpului/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@top/116062934999116970",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@top/115785427430713374",
       "date": "Fri, 26 Dec 2025 10:36:53 +0000",
       "content": "📰Localizare GPS sună, la prima vedere, ca un “extra” tehnic. În realitate, pentru o firmă de închirieri auto, este una dintre puținele investiții care se simt imediat: mai puține riscuri, mai puține surprize, reacție mai rapidă când apare o problemă și, foarte important, discuții mai clare cu clientul atunci când apar neînțelegeri. Închirierea de mașini… 📰 https:// top15.ro/avantajele-dispozitiv elor-de-localizare-gps-pentru-firmele-de-inchirieri-auto/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@top/115774319745597086",
-      "date": "Wed, 24 Dec 2025 11:32:03 +0000",
-      "content": "📰Atunci când vorbim despre un sistem de încălzire eficient, atenția se îndreaptă, de obicei, către centrală, calorifere sau tipul de combustibil utilizat. Pompa de recirculare a apei calde este însă o componentă esențială, adesea trecută cu vederea, deși influențează direct confortul și consumul energetic.Fără o pompă de recirculare bine aleasă și corect dimensionată, chiar și… 📰 https:// top15.ro/cat-de-importanta-est e-de-fapt-pompa-de-recirculare-a-apei-calde-pentru-sistemul-de-incalzire/"
     }
   ]
 }

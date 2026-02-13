@@ -4,8 +4,14 @@
   "site_feed": "https://UniversulTech.ro/feed/",
   "mastodon": "https://social.5th.ro/@UniversulTech",
   "mastodon_rss": "https://social.5th.ro/@UniversulTech.rss",
-  "updated_at": "2026-02-13T11:47:31Z",
+  "updated_at": "2026-02-13T13:37:25Z",
   "site_posts": [
+    {
+      "title": "Cum să alegi chitara bass potrivită pentru stilul tău muzical",
+      "link": "https://universultech.ro/cum-sa-alegi-chitara-bass-potrivita-pentru-stilul-tau-muzical/",
+      "date": "Fri, 13 Feb 2026 12:51:45 +0000",
+      "summary": "Identificarea chitarei bass ideale este un proces personal, o căutare a instrumentului care să devină extensia propriei tale viziuni muzicale.&#8230; Articolul Cum să alegi chitara bass potrivită pentru stilul tău muzical apare prima dată în Universul Tech ."
+    },
     {
       "title": "Cotele Dunării la Sulina în 2026: nivelul apei azi, grafic și trenduri pentru Delta Dunării",
       "link": "https://universultech.ro/cotele-dunarii-la-sulina-in-2026-nivelul-apei-azi-grafic-si-trenduri-pentru-delta-dunarii/",
@@ -71,15 +77,15 @@
       "link": "https://universultech.ro/cum-sa-transformi-curiozitatea-naturala-a-copilului-in-inovatie-pura/",
       "date": "Wed, 21 Jan 2026 03:59:45 +0000",
       "summary": "Creativitatea nu este un talent rar, ci o abilitate care se construiește prin practică și explorare. Dacă observi cu atenție&#8230; Articolul Cum să transformi curiozitatea naturală a copilului în inovație pură? apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "Micile componente care contează enorm în experiența de condus moto",
-      "link": "https://universultech.ro/micile-componente-care-conteaza-enorm-in-experienta-de-condus-moto/",
-      "date": "Wed, 21 Jan 2026 03:59:22 +0000",
-      "summary": "Ce detalii fac cu adevarat diferenta, pe doua roti! La prima vedere, atenția motocicliștilor se îndreaptă spre motor, suspensie sau&#8230; Articolul Micile componente care contează enorm în experiența de condus moto apare prima dată în Universul Tech ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@UniversulTech/116063411105278690",
+      "date": "Fri, 13 Feb 2026 12:51:47 +0000",
+      "content": "💡Identificarea chitarei bass ideale este un proces personal, o căutare a instrumentului care să devină extensia propriei tale viziuni muzicale. Fie că vibrezi pe ritmuri de rock, jazz sau funk, configurația tehnică – de la esența lemnului până la arhitectura dozelor – dictează caracterul sunetului tău. Acest ghid detaliază tot ce trebuie să știi despre… ✅ https:// universultech.ro/cum-sa-alegi- chitara-bass-potrivita-pentru-stilul-tau-muzical/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@UniversulTech/116063055443886707",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@UniversulTech/115931086010142602",
       "date": "Wed, 21 Jan 2026 03:59:47 +0000",
       "content": "💡Creativitatea nu este un talent rar, ci o abilitate care se construiește prin practică și explorare. Dacă observi cu atenție modul în care copilul tău interacționează cu obiectele din jur, vei vedea o formă de inteligență vie, care caută constant să facă legături între idei. În neuropsihologie, acest proces este numit gândire divergentă, adică abilitatea… ✅ https:// universultech.ro/cum-sa-transf ormi-curiozitatea-naturala-a-copilului-in-inovatie-pura/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@UniversulTech/115931084560596212",
-      "date": "Wed, 21 Jan 2026 03:59:25 +0000",
-      "content": "💡Ce detalii fac cu adevarat diferenta, pe doua roti!La prima vedere, atenția motocicliștilor se îndreaptă spre motor, suspensie sau frâne. Totuși, experiența reală de condus este definită de o serie de componente mai mici, dar esențiale, care contribuie direct la siguranță și control. Piese aparent banale precum pedala schimbător viteză, semnalizări moto sau oglindă moto… ✅ https:// universultech.ro/micile-compon ente-care-conteaza-enorm-in-experienta-de-condus-moto/"
     }
   ]
 }
