@@ -4,8 +4,14 @@
   "site_feed": "https://doctorite.ro/feed/",
   "mastodon": "https://social.5th.ro/@DoctoriteBlog",
   "mastodon_rss": "https://social.5th.ro/@DoctoriteBlog.rss",
-  "updated_at": "2026-02-13T11:02:05Z",
+  "updated_at": "2026-02-13T11:47:15Z",
   "site_posts": [
+    {
+      "title": "Cotele Dunării la Cernavodă în 2026: nivelul apei azi, grafic și tendințe",
+      "link": "https://doctorite.ro/cotele-dunarii-la-cernavoda-in-2026-nivelul-apei-azi-grafic-si-tendinte/",
+      "date": "Fri, 13 Feb 2026 08:38:11 +0000",
+      "summary": "Analiza rezultatelor din Google pentru cuvintele cheie vizate relevă faptul că majoritatea paginilor de top... Articolul Cotele Dunării la Cernavodă în 2026: nivelul apei azi, grafic și tendințe apare prima dată în Doctorite ."
+    },
     {
       "title": "Vitamina C – cum susține protecția celulelor împotriva stresului oxidativ",
       "link": "https://doctorite.ro/vitamina-c-cum-sustine-protectia-celulelor-impotriva-stresului-oxidativ/",
@@ -59,15 +65,15 @@
       "link": "https://doctorite.ro/sinergiile-nutrientilor-de-ce-combinatiile-conteaza-pentru-omega-3/",
       "date": "Thu, 04 Dec 2025 17:50:37 +0000",
       "summary": "Acizii grași Omega-3 sunt esențiali pentru sănătatea cardiovasculară, funcția cerebrală și controlul inflamației. Totuși, eficiența... Articolul Sinergiile nutrienților: de ce combinațiile contează pentru Omega-3 apare prima dată în Doctorite ."
-    },
-    {
-      "title": "De ce rezultatele pentru dermatita seboreică apar și dispar „nu mai funcționează”",
-      "link": "https://doctorite.ro/de-ce-rezultatele-pentru-dermatita-seboreica-apar-si-dispar-nu-mai-functioneaza/",
-      "date": "Wed, 03 Dec 2025 12:17:22 +0000",
-      "summary": "Una dintre cele mai frustrante experiențe pentru cineva cu dermatită seboreică&#160;este aceeași poveste repetată: găsești... Articolul De ce rezultatele pentru dermatita seboreică apar și dispar „nu mai funcționează” apare prima dată în Doctorite ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@DoctoriteBlog/116063012516005284",
+      "date": "Fri, 13 Feb 2026 11:10:25 +0000",
+      "content": "Analiza rezultatelor din Google pentru cuvintele cheie vizate relevă faptul că majoritatea paginilor de top sunt site-uri oficiale ale autorităților hidrologice (AFDJ, INHGA) sau portaluri de știri locale. Acestea oferă date brute, tabele tehnice și cifre seci, fără a explica contextul sau impactul acestor valori asupra comunității și economiei. Diferențierea acestui articol va veni din… https:// doctorite.ro/cotele-dunarii-la -cernavoda-in-2026-nivelul-apei-azi-grafic-si-tendinte/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@DoctoriteBlog/116035849530540475",

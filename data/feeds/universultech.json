@@ -4,8 +4,14 @@
   "site_feed": "https://UniversulTech.ro/feed/",
   "mastodon": "https://social.5th.ro/@UniversulTech",
   "mastodon_rss": "https://social.5th.ro/@UniversulTech.rss",
-  "updated_at": "2026-02-13T11:02:20Z",
+  "updated_at": "2026-02-13T11:47:31Z",
   "site_posts": [
+    {
+      "title": "Cotele Dunării la Sulina în 2026: nivelul apei azi, grafic și trenduri pentru Delta Dunării",
+      "link": "https://universultech.ro/cotele-dunarii-la-sulina-in-2026-nivelul-apei-azi-grafic-si-trenduri-pentru-delta-dunarii/",
+      "date": "Fri, 13 Feb 2026 08:38:11 +0000",
+      "summary": "Te-ai întrebat vreodată cum influențează adâncimea apei planurile tale de vacanță sau succesul unei partide de pescuit în Deltă? Dunărea&#8230; Articolul Cotele Dunării la Sulina în 2026: nivelul apei azi, grafic și trenduri pentru Delta Dunării apare prima dată în Universul Tech ."
+    },
     {
       "title": "Cum influențează UX și UI succesul aplicației tale web?",
       "link": "https://universultech.ro/cum-influenteaza-ux-si-ui-succesul-aplicatiei-tale-web/",
@@ -71,15 +77,15 @@
       "link": "https://universultech.ro/micile-componente-care-conteaza-enorm-in-experienta-de-condus-moto/",
       "date": "Wed, 21 Jan 2026 03:59:22 +0000",
       "summary": "Ce detalii fac cu adevarat diferenta, pe doua roti! La prima vedere, atenția motocicliștilor se îndreaptă spre motor, suspensie sau&#8230; Articolul Micile componente care contează enorm în experiența de condus moto apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "Ghidul complet pentru analiza calității uleiului de motor – Sfaturi practice pentru managerii de flote auto",
-      "link": "https://universultech.ro/ghidul-complet-pentru-analiza-calitatii-uleiului-de-motor-sfaturi-practice-pentru-managerii-de-flote-auto/",
-      "date": "Mon, 19 Jan 2026 09:24:45 +0000",
-      "summary": "În prezent, analiza calității uleiului de motor se dovedește a fi un instrument esențial pentru managerii de flote auto. Această&#8230; Articolul Ghidul complet pentru analiza calității uleiului de motor &#8211; Sfaturi practice pentru managerii de flote auto apare prima dată în Universul Tech ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@UniversulTech/116063055443886707",
+      "date": "Fri, 13 Feb 2026 11:21:20 +0000",
+      "content": "💡Te-ai întrebat vreodată cum influențează adâncimea apei planurile tale de vacanță sau succesul unei partide de pescuit în Deltă? Dunărea este un organism viu, iar poarta sa principală de ieșire la mare necesită o atenție specială din partea tuturor vizitatorilor. Dacă vrei să explorezi brațul cel mai vechi al fluviului, trebuie să înțelegi cum variază… ✅ https:// universultech.ro/cotele-dunari i-la-sulina-in-2026-nivelul-apei-azi-grafic-si-trenduri-pentru-delta-dunarii/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@UniversulTech/116052193233070514",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@UniversulTech/115931084560596212",
       "date": "Wed, 21 Jan 2026 03:59:25 +0000",
       "content": "💡Ce detalii fac cu adevarat diferenta, pe doua roti!La prima vedere, atenția motocicliștilor se îndreaptă spre motor, suspensie sau frâne. Totuși, experiența reală de condus este definită de o serie de componente mai mici, dar esențiale, care contribuie direct la siguranță și control. Piese aparent banale precum pedala schimbător viteză, semnalizări moto sau oglindă moto… ✅ https:// universultech.ro/micile-compon ente-care-conteaza-enorm-in-experienta-de-condus-moto/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@UniversulTech/115921039419891666",
-      "date": "Mon, 19 Jan 2026 09:24:48 +0000",
-      "content": "💡În prezent, analiza calității uleiului de motor se dovedește a fi un instrument esențial pentru managerii de flote auto. Această practică nu doar că ajută la menținerea vehiculelor într-o stare optimă, ci contribuie și la reducerea costurilor pe termen lung. În acest ghid, vei descoperi toate avantajele pe care le oferă analiza uleiului, de la… ✅ https:// universultech.ro/ghidul-comple t-pentru-analiza-calitatii-uleiului-de-motor-sfaturi-practice-pentru-managerii-de-flote-auto/"
     }
   ]
 }
