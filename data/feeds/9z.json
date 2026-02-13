@@ -4,8 +4,14 @@
   "site_feed": "https://9z.ro/feed/",
   "mastodon": "https://social.5th.ro/@9z",
   "mastodon_rss": "https://social.5th.ro/@9z.rss",
-  "updated_at": "2026-02-13T09:03:29Z",
+  "updated_at": "2026-02-13T10:02:45Z",
   "site_posts": [
+    {
+      "title": "Abordarea cu tact a problemelor de incontinență în discuțiile delicate cu părinții în vârstă",
+      "link": "https://9z.ro/abordarea-cu-tact-a-problemelor-de-incontinenta-in-discutiile-delicate-cu-parintii-in-varsta/",
+      "date": "Fri, 13 Feb 2026 09:35:29 +0000",
+      "summary": "Discuțiile despre sănătatea intimă cu propriii părinți reprezintă adesea un The post Abordarea cu tact a problemelor de incontinență în discuțiile delicate cu părinții în vârstă appeared first on Advertoriale seo ."
+    },
     {
       "title": "Cum contribuie separatorul de hidrocarburi SR EN 858 la eficiența sistemelor de canalizare",
       "link": "https://9z.ro/separatoare-hidrocarburi/",
@@ -59,15 +65,15 @@
       "link": "https://9z.ro/mastodon-romania-cum-gasesti-conturi-tematice-tech-business-cultura/",
       "date": "Wed, 17 Dec 2025 16:58:54 +0000",
       "summary": "S-ar putea să te simți obosit de algoritmii rețelelor sociale The post Mastodon România: cum găsești conturi tematice (tech, business, cultură) appeared first on Advertoriale seo ."
-    },
-    {
-      "title": "Cum să creezi un living glamour cu ajutorul candelabrelor cu cristale",
-      "link": "https://9z.ro/cum-sa-creezi-un-living-glamour-cu-ajutorul-candelabrelor-cu-cristale/",
-      "date": "Tue, 16 Dec 2025 08:50:21 +0000",
-      "summary": "Un living amenajat cu bun gust atrage mereu priviri și The post Cum să creezi un living glamour cu ajutorul candelabrelor cu cristale appeared first on Advertoriale seo ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@9z/116062639360686198",
+      "date": "Fri, 13 Feb 2026 09:35:32 +0000",
+      "content": "Discuțiile despre sănătatea intimă cu propriii părinți reprezintă adesea un tabu dificil de depășit chiar și în cele mai deschise familii. Inversarea rolurilor, momentul în care copilul devine îngrijitorul părintelui, aduce cu sine provocări emoționale majore de ambele părți. Incontinența urinară este percepută de mulți vârstnici ca un semn definitiv al pierderii independenței și al… https:// 9z.ro/abordarea-cu-tact-a-prob lemelor-de-incontinenta-in-discutiile-delicate-cu-parintii-in-varsta/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@9z/116062451313106735",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@9z/115740001834176253",
       "date": "Thu, 18 Dec 2025 10:04:34 +0000",
       "content": "Atunci când alegi ferestrele pentru locuința ta, decizia pe care o iei pare adesea una usor „rezolvată” pentru momentul prezent: ai parte de izolație mai bună, design modern, facturi mai mici. În realitate însă, ferestrele sunt o investiție cu impact direct asupra confortului și costurilor tale pentru următorii 10-20 de ani. Privind spre 2035, o… https:// comunicatpresa.9z.ro/ferestrel e-in-2035-cum-te-protejeaza-astazi-o-garantie-de-10-ani-impotriva-problemelor-viitoare/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@9z/115736786602699101",
-      "date": "Wed, 17 Dec 2025 20:26:53 +0000",
-      "content": "S-ar putea să te simți obosit de algoritmii rețelelor sociale mari. Vrei un loc unde conversațiile sunt autentice? Mastodon este o alternativă descentralizată care câștigă rapid teren. Dacă ești interesat de **Mastodon Romania**, probabil te întrebi: unde găsesc cele mai relevante **conturi**? Cum mă conectez rapid la **comunități** de nișă care mă interesează? Ai ajuns… https:// 9z.ro/mastodon-romania-cum-gas esti-conturi-tematice-tech-business-cultura/"
     }
   ]
 }
