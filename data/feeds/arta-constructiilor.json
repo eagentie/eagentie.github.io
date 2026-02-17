@@ -4,8 +4,14 @@
   "site_feed": "https://arta-constructiilor.ro/feed/",
   "mastodon": "https://social.5th.ro/@ArtaConstructiilor",
   "mastodon_rss": "https://social.5th.ro/@ArtaConstructiilor.rss",
-  "updated_at": "2026-02-17T08:00:36Z",
+  "updated_at": "2026-02-17T09:05:53Z",
   "site_posts": [
+    {
+      "title": "Greșeli frecvente în renovarea locuințelor care pot favoriza apariția dăunătorilor",
+      "link": "https://arta-constructiilor.ro/greseli-frecvente-in-renovarea-locuintelor-care-pot-favoriza-aparitia-daunatorilor/",
+      "date": "Tue, 17 Feb 2026 08:01:58 +0000",
+      "summary": "Renovarea unei locuințe sau mutarea într-un spațiu recent reamenajat nu elimină automat riscul apariției dăunătorilor. Din contră, anumite greșeli făcute în timpul lucrărilor pot favoriza &#8230; Articolul Greșeli frecvente în renovarea locuințelor care pot favoriza apariția dăunătorilor apare prima dată în Arta Constructiilor ."
+    },
     {
       "title": "Cum alegi o mașină de spălat pentru apartamente mici: dimensiuni, zgomot și programe utile",
       "link": "https://arta-constructiilor.ro/cum-alegi-o-masina-de-spalat-pentru-apartamente-mici-dimensiuni-zgomot-si-programe-utile/",
@@ -59,15 +65,15 @@
       "link": "https://arta-constructiilor.ro/cum-alegi-un-tv-pentru-un-apartament-mic/",
       "date": "Fri, 28 Nov 2025 11:22:25 +0000",
       "summary": "În apartamentele mici, spațiul pentru televizor este limitat. Alegerea nu se face doar după diagonala ecranului. Trebuie analizate dimensiunile, distanța de vizionare și modul de &#8230; Articolul Cum alegi un TV pentru un apartament mic apare prima dată în Arta Constructiilor ."
-    },
-    {
-      "title": "ROMANIAN ENERGY WEEK 2025",
-      "link": "https://arta-constructiilor.ro/romanian-energy-week-2025/",
-      "date": "Tue, 18 Nov 2025 07:22:57 +0000",
-      "summary": "ROMANIAN ENERGY WEEK 2025: 5 zile de dezbateri, 5 teme vitale pentru energie Palatul Parlamentului găzduiește &#238;ntre 17 și 21 noiembrie ROMANIAN ENERGY WEEK [REW &#8230; Articolul ROMANIAN ENERGY WEEK 2025 apare prima dată în Arta Constructiilor ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@ArtaConstructiilor/116084920697792307",
+      "date": "Tue, 17 Feb 2026 08:01:58 +0000",
+      "content": "Renovarea unei locuințe sau mutarea într-un spațiu recent reamenajat nu elimină automat riscul apariției dăunătorilor. Din contră, anumite greșeli făcute în timpul lucrărilor pot favoriza infestări cu insecte precum gândaci sau ploșnițe, dar și cu rozătoare, probleme care devin vizibile abia după ocuparea locuinței. În lipsa unor verificări corecte, spațiile ascunse, .... 🌐 https:// arta-constructiilor.ro/greseli -frecvente-in-renovarea-locuintelor-care-pot-favoriza-aparitia-daunatorilor/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@ArtaConstructiilor/116040267467455317",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@ArtaConstructiilor/115689173826197034",
       "date": "Tue, 09 Dec 2025 10:38:20 +0000",
       "content": "ROMANIAN ENERGY WEEK 2025: 5 zile de dezbateri, 5 teme vitale pentru energie Palatul Parlamentului găzduiește între 17 și 21 noiembrie ROMANIAN ENERGY WEEK [REW 2025], summit organizat în parteneriat strategic cu Ministerul Energiei, Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului, Ministerul Mediului, Apelor și Pădurilor, precum și Departamentul pentru Dezvoltare Durabilă al Guvernului și Cancelaria… .... 🌐 https:// arta-constructiilor.ro/romania n-energy-week-2025/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@ArtaConstructiilor/115689173724924971",
-      "date": "Tue, 09 Dec 2025 10:38:18 +0000",
-      "content": "În apartamentele mici, spațiul pentru televizor este limitat. Alegerea nu se face doar după diagonala ecranului. Trebuie analizate dimensiunile, distanța de vizionare și modul de integrare în cameră. Ce înseamnă un TV potrivit pentru un apartament mic Un TV potrivit pentru un apartament mic este un aparat care se încadrează fizic în cameră și permite… .... 🌐 https:// arta-constructiilor.ro/cum-ale gi-un-tv-pentru-un-apartament-mic/"
     }
   ]
 }
