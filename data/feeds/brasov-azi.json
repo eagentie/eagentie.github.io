@@ -4,8 +4,81 @@
   "site_feed": "https://brasov-azi.ro/feed/",
   "mastodon": "https://social.5th.ro/@brasov",
   "mastodon_rss": "https://social.5th.ro/@brasov.rss",
-  "updated_at": "2026-02-17T15:06:00Z",
-  "site_posts": [],
+  "updated_at": "2026-02-17T16:08:33Z",
+  "site_posts": [
+    {
+      "title": "Scripcaru, Brașov: Justiția declară ilegal controlul politic asupra urbanismului orașului.",
+      "link": "https://brasov-azi.ro/scripcaru-brasov-justitia-declara-ilegal-controlul-politic-asupra-urbanismului-orasului/",
+      "date": "Wed, 04 Feb 2026 09:51:40 +0000",
+      "summary": "Grupul „Uniți pentru Brașov” (USR – FDGR) din Consiliul Local Brașov a obținut o victorie definitivă în instanță împotriva modificării considerate ilegale a structurii Comisiei Tehnice de Amenajare a Teritoriului și Urbanism (CTATU). Avocatul Alexandru Gheorghe, liderul de grup, a... Articolul Scripcaru, Brașov: Justiția declară ilegal controlul politic asupra urbanismului orașului. apare prima dată în Brasov AZI ."
+    },
+    {
+      "title": "Peste 4.600 de acte de stare civilă pentru nașteri înregistrate la Brașov în 2025",
+      "link": "https://brasov-azi.ro/peste-4-600-de-acte-de-stare-civila-pentru-nasteri-inregistrate-la-brasov-in-2025/",
+      "date": "Mon, 02 Feb 2026 09:35:26 +0000",
+      "summary": "Bilanțul nașterilor din Brașov 2025: Serviciul de Stare Civilă a emis 4.627 de acte, înregistrând mai mulți băieți și 130 de transcrieri. (129 caractere) Articolul Peste 4.600 de acte de stare civilă pentru nașteri înregistrate la Brașov în 2025 apare prima dată în Brasov AZI ."
+    },
+    {
+      "title": "Predeal în 2026: ce faci într-un weekend (pârtii, drumeții, plimbări)",
+      "link": "https://brasov-azi.ro/predeal-in-2026-ce-faci-intr-un-weekend-partii-drumetii-plimbari/",
+      "date": "Mon, 02 Feb 2026 08:13:08 +0000",
+      "summary": "Stațiunea Predeal combină sporturile de iarnă și drumețiile montane cu obiective precum Mănăstirea și Canionul Șapte Scări. Articolul Predeal în 2026: ce faci într-un weekend (pârtii, drumeții, plimbări) apare prima dată în Brasov AZI ."
+    },
+    {
+      "title": "Cetatea Rupea: cum o vizitezi eficient + top puncte de belvedere (2026)",
+      "link": "https://brasov-azi.ro/cetatea-rupea-cum-o-vizitezi-eficient-top-puncte-de-belvedere-2026/",
+      "date": "Sun, 01 Feb 2026 04:28:53 +0000",
+      "summary": "Cetatea Rupea, monument istoric din Transilvania, este ușor accesibilă lângă E60 și oferă, în doar două ore, priveliști spectaculoase. Articolul Cetatea Rupea: cum o vizitezi eficient + top puncte de belvedere (2026) apare prima dată în Brasov AZI ."
+    },
+    {
+      "title": "Cetatea Râșnov 2026: ce e deschis, cum urci și ce merită văzut (update practic)",
+      "link": "https://brasov-azi.ro/cetatea-rasnov-2026-ce-e-deschis-cum-urci-si-ce-merita-vazut-update-practic/",
+      "date": "Sat, 31 Jan 2026 08:02:47 +0000",
+      "summary": "Fortificația medievală Râșnov, care a rezistat invaziei tătare, oferă azi acces parțial (curtea exterioară) și panorame spectaculoase. Articolul Cetatea Râșnov 2026: ce e deschis, cum urci și ce merită văzut (update practic) apare prima dată în Brasov AZI ."
+    },
+    {
+      "title": "Zoo Brașov 2026: program, tarife și traseu recomandat pentru o zi lejeră",
+      "link": "https://brasov-azi.ro/zoo-brasov-2026-program-tarife-si-traseu-recomandat-pentru-o-zi-lejera/",
+      "date": "Sat, 31 Jan 2026 07:54:56 +0000",
+      "summary": "Grădina Zoologică Brașov găzduiește peste 350 de exemplare de faună rară pe 10 hectare, completate de un Planetariu educativ și zone de relaxare. Articolul Zoo Brașov 2026: program, tarife și traseu recomandat pentru o zi lejeră apare prima dată în Brasov AZI ."
+    },
+    {
+      "title": "Poarta Ecaterinei & Poarta Șchei: traseu pietonal prin Șchei, cu puncte foto",
+      "link": "https://brasov-azi.ro/poarta-ecaterinei-poarta-schei-traseu-pietonal-prin-schei-cu-puncte-foto/",
+      "date": "Sat, 31 Jan 2026 07:49:25 +0000",
+      "summary": "Poarta Ecaterinei (sec. XVI) și Poarta Șchei (sec. XIX) sunt singurele porți păstrate ale Brașovului, esențiale pentru înțelegerea istoriei cetății. Articolul Poarta Ecaterinei &#038; Poarta Șchei: traseu pietonal prin Șchei, cu puncte foto apare prima dată în Brasov AZI ."
+    },
+    {
+      "title": "Moieciu de Sus & Moieciu de Jos: idei de plimbări, puncte foto și gust local",
+      "link": "https://brasov-azi.ro/moieciu-de-sus-moieciu-de-jos-idei-de-plimbari-puncte-foto-si-gust-local/",
+      "date": "Sat, 31 Jan 2026 05:57:39 +0000",
+      "summary": "Moieciu de Jos și Sus, pe Culoarul Rucăr-Bran, combină agroturismul montan cu peisajele spectaculoase dintre Bucegi și Piatra Craiului. Articolul Moieciu de Sus &#038; Moieciu de Jos: idei de plimbări, puncte foto și gust local apare prima dată în Brasov AZI ."
+    },
+    {
+      "title": "Valea Zimbrilor (Vama Buzăului): program, bilete și cum ajungi ușor în 2026",
+      "link": "https://brasov-azi.ro/valea-zimbrilor-vama-buzaului-program-bilete-si-cum-ajungi-usor-in-2026/",
+      "date": "Sat, 31 Jan 2026 05:45:45 +0000",
+      "summary": "Rezervația Valea Zimbrilor din Vama Buzăului oferă o experiență unică de întâlnire cu bizonul european (zimbru), fiind dedicată conservării speciei. Articolul Valea Zimbrilor (Vama Buzăului): program, bilete și cum ajungi ușor în 2026 apare prima dată în Brasov AZI ."
+    },
+    {
+      "title": "O bijuterie arhitecturală a Brașovului: Strada Sforii, cel mai îngust și pitoresc pasaj urban",
+      "link": "https://brasov-azi.ro/o-bijuterie-arhitecturala-a-brasovului-strada-sforii-cel-mai-ingust-si-pitoresc-pasaj-urban/",
+      "date": "Fri, 30 Jan 2026 21:53:04 +0000",
+      "summary": "Strada Sforii din Brașov este cel mai îngust pasaj pietonal din România, un reper medieval ideal pentru o vizită scurtă și fotografii unice. Articolul O bijuterie arhitecturală a Brașovului: Strada Sforii, cel mai îngust și pitoresc pasaj urban apare prima dată în Brasov AZI ."
+    },
+    {
+      "title": "Biserica Neagră în 2026: program, bilete, concerte și cele mai bune ore de vizită",
+      "link": "https://brasov-azi.ro/biserica-neagra-in-2026-program-bilete-concerte-si-cele-mai-bune-ore-de-vizita/",
+      "date": "Fri, 30 Jan 2026 21:51:55 +0000",
+      "summary": "Plan rapid pentru Biserica Neagră Durată recomandată: O oră până la o oră și jumătate pentru o vizită completă (istorie, colecții, interior). Când să mergi: Ideal în extrasezon sau în timpul săptămânii pentru a evita aglomerația din centrul vechi al... Articolul Biserica Neagră în 2026: program, bilete, concerte și cele mai bune ore de vizită apare prima dată în Brasov AZI ."
+    },
+    {
+      "title": "USR–FDGR cere dezbatere publică la Brașov pentru decizia majoră din Centrul Civic.",
+      "link": "https://brasov-azi.ro/usr-fdgr-cere-dezbatere-publica-la-brasov-pentru-decizia-majora-din-centrul-civic/",
+      "date": "Fri, 30 Jan 2026 13:38:02 +0000",
+      "summary": "Grupul consilierilor locali USR–FDGR din Consiliul Local Brașov a oferit explicații detaliate privind abținerea de la vot referitoare la concesionarea unui teren în Centrul Civic destinat construirii unei catedrale. Poziția lor este prezentată nu ca o opoziție față de credință... Articolul USR–FDGR cere dezbatere publică la Brașov pentru decizia majoră din Centrul Civic. apare prima dată în Brasov AZI ."
+    }
+  ],
   "mastodon_posts": [
     {
       "title": "",
