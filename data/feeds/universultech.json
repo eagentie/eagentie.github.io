@@ -4,8 +4,14 @@
   "site_feed": "https://UniversulTech.ro/feed/",
   "mastodon": "https://social.5th.ro/@UniversulTech",
   "mastodon_rss": "https://social.5th.ro/@UniversulTech.rss",
-  "updated_at": "2026-02-17T11:55:18Z",
+  "updated_at": "2026-02-17T13:40:22Z",
   "site_posts": [
+    {
+      "title": "Avantajele unui telefon recondiționat față de unul nou: Economii și sustenabilitate",
+      "link": "https://universultech.ro/avantajele-unui-telefon-reconditionat-fata-de-unul-nou-economii-si-sustenabilitate/",
+      "date": "Tue, 17 Feb 2026 12:21:27 +0000",
+      "summary": "Deși noile lansări de pe piața smartphone-urilor sunt captivante, alegerea unui telefon recondiționat se dovedește a fi o strategie mult&#8230; Articolul Avantajele unui telefon recondiționat față de unul nou: Economii și sustenabilitate apare prima dată în Universul Tech ."
+    },
     {
       "title": "Cum să alegi chitara bass potrivită pentru stilul tău muzical",
       "link": "https://universultech.ro/cum-sa-alegi-chitara-bass-potrivita-pentru-stilul-tau-muzical/",
@@ -71,15 +77,15 @@
       "link": "https://universultech.ro/de-ce-cauciucul-spongios-este-esential-pentru-etansarea-si-izolarea-industriala/",
       "date": "Wed, 28 Jan 2026 12:42:51 +0000",
       "summary": "Cauciucul spongios este esențial pentru etanșarea și izolarea industrială datorită structurii sale celulare unice, care îi permite o compresibilitate foarte&#8230; Articolul De ce cauciucul spongios este esențial pentru etanșarea și izolarea industrială apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "Cum să transformi curiozitatea naturală a copilului în inovație pură?",
-      "link": "https://universultech.ro/cum-sa-transformi-curiozitatea-naturala-a-copilului-in-inovatie-pura/",
-      "date": "Wed, 21 Jan 2026 03:59:45 +0000",
-      "summary": "Creativitatea nu este un talent rar, ci o abilitate care se construiește prin practică și explorare. Dacă observi cu atenție&#8230; Articolul Cum să transformi curiozitatea naturală a copilului în inovație pură? apare prima dată în Universul Tech ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@UniversulTech/116085941241262992",
+      "date": "Tue, 17 Feb 2026 12:21:30 +0000",
+      "content": "💡Deși noile lansări de pe piața smartphone-urilor sunt captivante, alegerea unui telefon recondiționat se dovedește a fi o strategie mult mai inspirată pentru utilizatorul informat. Această opțiune îți permite să te bucuri de performanțe de top la prețuri considerabil mai mici, susținând în același timp un model de consum responsabil prin prelungirea duratei de viață… ✅ https:// universultech.ro/avantajele-un ui-telefon-reconditionat-fata-de-unul-nou-economii-si-sustenabilitate/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@UniversulTech/116063411105278690",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@UniversulTech/115972779178156781",
       "date": "Wed, 28 Jan 2026 12:42:54 +0000",
       "content": "💡Cauciucul spongios este esențial pentru etanșarea și izolarea industrială datorită structurii sale celulare unice, care îi permite o compresibilitate foarte bună și o capacitate ridicată de a reveni la forma inițială. Această flexibilitate creează o barieră sigură împotriva scurgerilor de lichide, gaze și praf, adaptându-se chiar și pe suprafețe neregulate, unde materialele solide nu ✅ https:// universultech.ro/de-ce-cauciuc ul-spongios-este-esential-pentru-etansarea-si-izolarea-industriala/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@UniversulTech/115931086010142602",
-      "date": "Wed, 21 Jan 2026 03:59:47 +0000",
-      "content": "💡Creativitatea nu este un talent rar, ci o abilitate care se construiește prin practică și explorare. Dacă observi cu atenție modul în care copilul tău interacționează cu obiectele din jur, vei vedea o formă de inteligență vie, care caută constant să facă legături între idei. În neuropsihologie, acest proces este numit gândire divergentă, adică abilitatea… ✅ https:// universultech.ro/cum-sa-transf ormi-curiozitatea-naturala-a-copilului-in-inovatie-pura/"
     }
   ]
 }

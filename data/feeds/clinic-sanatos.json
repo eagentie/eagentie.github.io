@@ -4,8 +4,14 @@
   "site_feed": "https://clinic-sanatos.ro/feed/",
   "mastodon": "https://social.5th.ro/@clinic_sanatos",
   "mastodon_rss": "https://social.5th.ro/@clinic_sanatos.rss",
-  "updated_at": "2026-02-17T11:54:59Z",
+  "updated_at": "2026-02-17T13:40:01Z",
   "site_posts": [
+    {
+      "title": "Strategii pentru fortificarea rezistenței celor mici în fața virozelor",
+      "link": "https://clinic-sanatos.ro/strategii-pentru-fortificarea-rezistentei-celor-mici-in-fata-virozelor/",
+      "date": "Tue, 17 Feb 2026 12:29:20 +0000",
+      "summary": "Odată cu scăderea temperaturilor și reîntoarcerea în colectivitate, sistemul defensiv al copilului tău intră într-o... Articolul Strategii pentru fortificarea rezistenței celor mici în fața virozelor apare prima dată în Clinic Sanatos ."
+    },
     {
       "title": "Rinita alergica – De ce este mai mult decat o simpla raceala si cand trebuie tratata corect",
       "link": "https://clinic-sanatos.ro/rinita-alergica-de-ce-este-mai-mult-decat-o-simpla-raceala-si-cand-trebuie-tratata-corect/",
@@ -71,15 +77,15 @@
       "link": "https://clinic-sanatos.ro/dincolo-de-diferente-si-cuvinte-sarbatoare-la-conil-fest/",
       "date": "Tue, 11 Nov 2025 07:01:51 +0000",
       "summary": "&#206;n iureșul cotidian, CONIL Fest ne forțează, &#238;n cel mai frumos mod, să ne oprim... Articolul Dincolo de diferențe si cuvinte: sărbătoare la CONIL Fest apare prima dată în Clinic Sanatos ."
-    },
-    {
-      "title": "Uniforma medicală în sezonul rece. 3 elemente esențiale",
-      "link": "https://clinic-sanatos.ro/uniforma-medicala-in-sezonul-rece-3-elemente-esentiale/",
-      "date": "Mon, 13 Oct 2025 14:28:34 +0000",
-      "summary": "Odată cu scăderea temperaturilor, uniforma medicală trebuie să ofere și protecție termică, pe lângă confort... Articolul Uniforma medicală în sezonul rece. 3 elemente esențiale apare prima dată în Clinic Sanatos ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@clinic_sanatos/116085972225143871",
+      "date": "Tue, 17 Feb 2026 12:29:23 +0000",
+      "content": "Odată cu scăderea temperaturilor și reîntoarcerea în colectivitate, sistemul defensiv al copilului tău intră într-o fază de testare intensă. Nu este doar o coincidență faptul că episoadele de strănut și febră devin mai frecvente în lunile de iarnă. Organismul celor mici trece printr-un proces complex de adaptare, în care barierele naturale de protecție trebuie să… .... https:// clinic-sanatos.ro/strategii-pe ntru-fortificarea-rezistentei-celor-mici-in-fata-virozelor/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@clinic_sanatos/116047900883493244",
