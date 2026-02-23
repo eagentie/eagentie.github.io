@@ -4,8 +4,14 @@
   "site_feed": "https://UniversulTech.ro/feed/",
   "mastodon": "https://social.5th.ro/@UniversulTech",
   "mastodon_rss": "https://social.5th.ro/@UniversulTech.rss",
-  "updated_at": "2026-02-23T11:54:52Z",
+  "updated_at": "2026-02-23T13:43:23Z",
   "site_posts": [
+    {
+      "title": "România de facto: realități și perspective 2026",
+      "link": "https://universultech.ro/romania-de-facto-realitati-si-perspective-2026/",
+      "date": "Mon, 23 Feb 2026 10:58:31 +0000",
+      "summary": "26 februarie 2026 &#124; 9:30 – 14:30 &#124; Arenele BNR Inflație. Deficite. Finanțare. Creștere. Riscuri. Dincolo de discurs, spre realitate. Nu vom&#8230; Articolul România de facto: realități și perspective 2026 apare prima dată în Universul Tech ."
+    },
     {
       "title": "Ghid de achiziție online pentru anvelope – raport calitate-preț excelent",
       "link": "https://universultech.ro/ghid-de-achizitie-online-pentru-anvelope-raport-calitate-pret-excelent/",
@@ -71,15 +77,15 @@
       "link": "https://universultech.ro/greseli-frecvente-pe-care-le-faci-cand-gatesti-si-cum-le-poti-evita/",
       "date": "Fri, 30 Jan 2026 15:25:12 +0000",
       "summary": "Gătitul este o activitate care ar trebui să-ți aducă satisfacție, relaxare și bucuria de a crea ceva bun pentru tine&#8230; Articolul Greșeli frecvente pe care le faci când gătești și cum le poți evita apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "Cum au fost digitalizate sloturile: între nostalgie și tehnologie",
-      "link": "https://universultech.ro/cum-au-fost-digitalizate-sloturile-intre-nostalgie-si-tehnologie/",
-      "date": "Fri, 30 Jan 2026 09:52:00 +0000",
-      "summary": "De la mecanic la digital: ce s-a schimbat tehnic Industria de gambling online este, de multe ori, analizată prin prisma&#8230; Articolul Cum au fost digitalizate sloturile: între nostalgie și tehnologie apare prima dată în Universul Tech ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@UniversulTech/116120140153143790",
+      "date": "Mon, 23 Feb 2026 13:18:44 +0000",
+      "content": "💡26 februarie 2026 | 9:30 – 14:30 | Arenele BNRInflație. Deficite. Finanțare. Creștere. Riscuri.Dincolo de discurs, spre realitate.Nu vom vorbi despre România declarată, ci despre România de facto.Despre cifre — și, mai ales, despre ce spun ele atunci când sunt puse în context.Inflația, deficitele, finanțarea economiei și perspectivele pentru 2026 nu sunt teme izolate.Ele se întâlnesc într-o întrebare… ✅ https:// universultech.ro/romania-de-fa cto-realitati-si-perspective-2026/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@UniversulTech/116091203808970125",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@UniversulTech/116005990966398695",
       "date": "Tue, 03 Feb 2026 09:29:06 +0000",
       "content": "💡Finanțele personale sunt unul dintre aspectele vieții care îți pot aduce fie liniște, fie stres, în funcție de modul în care le gestionezi. Indiferent de venitul tău, o bună organizare financiară te ajută să faci față cheltuielilor neprevăzute, să planifici obiective pe termen lung și să te bucuri de viață fără grija constantă a banilor.De… ✅ https:// universultech.ro/planificarea- financiara-personala-cum-iti-organizezi-banii-pentru-stabilitate-si-liniste/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@UniversulTech/115984742222052513",
-      "date": "Fri, 30 Jan 2026 15:25:16 +0000",
-      "content": "💡Gătitul este o activitate care ar trebui să-ți aducă satisfacție, relaxare și bucuria de a crea ceva bun pentru tine și pentru cei dragi. Totuși, de multe ori, rezultatul final nu este cel la care te așteptai, chiar dacă ai urmat o rețetă pas cu pas. De cele mai multe ori, problema nu este lipsa… ✅ https:// universultech.ro/greseli-frecv ente-pe-care-le-faci-cand-gatesti-si-cum-le-poti-evita/"
     }
   ]
 }

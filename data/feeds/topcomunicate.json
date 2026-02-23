@@ -4,8 +4,14 @@
   "site_feed": "https://topcomunicate.ro/feed/",
   "mastodon": "https://social.5th.ro/@topcomunicate_ro",
   "mastodon_rss": "https://social.5th.ro/@topcomunicate_ro.rss",
-  "updated_at": "2026-02-23T11:53:04Z",
+  "updated_at": "2026-02-23T13:41:32Z",
   "site_posts": [
+    {
+      "title": "România de facto: realități și perspective 2026",
+      "link": "https://topcomunicate.ro/romania-de-facto-realitati-si-perspective-2026/",
+      "date": "Mon, 23 Feb 2026 10:58:31 +0000",
+      "summary": "26 februarie 2026 &#124; 9:30 – 14:30 &#124; Arenele BNR Inflație. Deficite. Finanțare. Creștere. Riscuri. Dincolo de discurs, spre... The post România de facto: realități și perspective 2026 appeared first on Comunicate de presa ."
+    },
     {
       "title": "Cotele Dunării la Baziaș în 2026: nivelul apei azi, trend și istoric",
       "link": "https://topcomunicate.ro/cotele-dunarii-la-bazias-in-2026-nivelul-apei-azi-trend-si-istoric/",
@@ -71,15 +77,15 @@
       "link": "https://topcomunicate.ro/mastodon-romania-pentru-activism-civic-organizare-si-informare/",
       "date": "Wed, 17 Dec 2025 16:58:54 +0000",
       "summary": "Sunteți sătui de algoritmi care decid ce informație vedeți? V-ați simțit vreodată cenzurați sau ignorați pe platformele... The post Mastodon România pentru activism civic: organizare și informare appeared first on Comunicate de presa ."
-    },
-    {
-      "title": "Muzica ambientală la nuntă – eleganță, rafinament și emoție discretă",
-      "link": "https://topcomunicate.ro/muzica-ambientala-la-nunta-eleganta-rafinament-si-emotie-discreta/",
-      "date": "Wed, 03 Dec 2025 09:41:59 +0000",
-      "summary": "O nuntă reușită nu înseamnă doar dans, voie bună și energie. În spatele unei petreceri perfecte se... The post Muzica ambientală la nuntă – eleganță, rafinament și emoție discretă appeared first on Comunicate de presa ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@topcomunicate_ro/116120124619135021",
+      "date": "Mon, 23 Feb 2026 13:14:47 +0000",
+      "content": "⭐ 26 februarie 2026 | 9:30 – 14:30 | Arenele BNRInflație. Deficite. Finanțare. Creștere. Riscuri.Dincolo de discurs, spre realitate.Nu vom vorbi despre România declarată, ci despre România de facto.Despre cifre — și, mai ales, despre ce spun ele atunci când sunt puse în context.Inflația, deficitele, finanțarea economiei și perspectivele pentru 2026 nu sunt teme izolate.Ele se întâlnesc într-o întrebare… 🔗 Detalii aici: https:// topcomunicate.ro/romania-de-fa cto-realitati-si-perspective-2026/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@topcomunicate_ro/116063023898729456",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@topcomunicate_ro/115736721473873633",
       "date": "Wed, 17 Dec 2025 20:10:19 +0000",
       "content": "⭐ Sunteți sătui de algoritmi care decid ce informație vedeți? V-ați simțit vreodată cenzurați sau ignorați pe platformele mari de socializare centralizate? Există o alternativă puternică. În inima digitală a României, o mișcare descentralizată prinde contur, redefinind modul în care se organizează activismul civic. Aceasta este o oportunitate pentru voci autentice de a fi auzite, fără… 🔗 Detalii aici: https:// topcomunicate.ro/mastodon-roma nia-pentru-activism-civic-organizare-si-informare/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@topcomunicate_ro/115728767996090507",
-      "date": "Tue, 16 Dec 2025 10:27:39 +0000",
-      "content": "⭐ Sfârșitul anului 2025 a adus confirmarea oficială a temerilor care au planat asupra mediului de afaceri românesc în ultimele luni. Pachetul de măsuri fiscale pentru 2026, menit să corecteze deficitul bugetar galopant, lovește direct în rentabilitatea micilor afaceri. Cea mai dură măsură anunțată este dublarea efectivă a sarcinii fiscale pe distribuirea profitului: 🔗 Mai mult: https:// topcomunicate.ro/calcul-cati-b ani-economiseste-o-firma-cu-cifra-de-afaceri-de-100-000-e-mutata-la-ruse/"
     }
   ]
 }

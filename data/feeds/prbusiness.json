@@ -4,8 +4,14 @@
   "site_feed": "https://prbusiness.ro/feed/",
   "mastodon": "https://social.5th.ro/@prbusiness",
   "mastodon_rss": "https://social.5th.ro/@prbusiness.rss",
-  "updated_at": "2026-02-23T11:54:13Z",
+  "updated_at": "2026-02-23T13:42:42Z",
   "site_posts": [
+    {
+      "title": "România de facto: realități și perspective 2026",
+      "link": "https://prbusiness.ro/romania-de-facto-realitati-si-perspective-2026/",
+      "date": "Mon, 23 Feb 2026 10:58:31 +0000",
+      "summary": "26 februarie 2026 &#124; 9:30 – 14:30 &#124; Arenele BNR Inflație. Deficite. Finanțare. Creștere. Riscuri. Dincolo de discurs, spre realitate. The post România de facto: realități și perspective 2026 appeared first on PR Business ."
+    },
     {
       "title": "Cotele Dunării la Cetate în 2026: nivelul apei azi, grafic și schimbări sezoniere",
       "link": "https://prbusiness.ro/cotele-dunarii-la-cetate-in-2026-nivelul-apei-azi-grafic-si-schimbari-sezoniere/",
@@ -71,15 +77,15 @@
       "link": "https://prbusiness.ro/demo-vs-bani-reali-de-ce-e-bine-sa-testezi-pacanelele-gratuit-inainte/",
       "date": "Sat, 15 Nov 2025 10:03:28 +0000",
       "summary": "Ați simțit vreodată acea emoție, dar și acea mică teamă, când deschideți un slot nou, plin de simboluri The post Demo vs bani reali: de ce e bine să testezi păcănelele gratuit înainte appeared first on PR Business ."
-    },
-    {
-      "title": "Pariuri single vs pariuri combo: ce strategie se potrivește stilului tău",
-      "link": "https://prbusiness.ro/pariuri-single-vs-pariuri-combo-ce-strategie-se-potriveste-stilului-tau/",
-      "date": "Fri, 14 Nov 2025 09:07:58 +0000",
-      "summary": "Te-ai întrebat vreodată care este modalitatea optimă de a obține profit constant din pariuri sportive? Aceasta este o The post Pariuri single vs pariuri combo: ce strategie se potrivește stilului tău appeared first on PR Business ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@prbusiness/116120113652333770",
+      "date": "Mon, 23 Feb 2026 13:12:00 +0000",
+      "content": "26 februarie 2026 | 9:30 – 14:30 | Arenele BNRInflație. Deficite. Finanțare. Creștere. Riscuri.Dincolo de discurs, spre realitate.Nu vom vorbi despre România declarată, ci despre România de facto.Despre cifre — și, mai ales, despre ce spun ele atunci când sunt puse în context.Inflația, deficitele, finanțarea economiei și perspectivele pentru 2026 nu sunt teme izolate.Ele se întâlnesc într-o întrebare… .... Read more at: https:// prbusiness.ro/romania-de-facto -realitati-si-perspective-2026/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@prbusiness/116062940476074283",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@prbusiness/115694249714238028",
       "date": "Wed, 10 Dec 2025 08:09:12 +0000",
       "content": "Ați simțit vreodată acea emoție, dar și acea mică teamă, când deschideți un slot nou, plin de simboluri și reguli necunoscute? Marea dilemă a jucătorilor este mereu aceeași: să risc imediat bani reali sau să explorez terenul în siguranță? (Atenție) Ei bine, realitatea este că jocurile de noroc sunt concepute să fie distractive, dar și… .... More details at: https:// prbusiness.ro/demo-vs-bani-rea li-de-ce-e-bine-sa-testezi-pacanelele-gratuit-inainte/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@prbusiness/115694231171773347",
-      "date": "Wed, 10 Dec 2025 08:04:29 +0000",
-      "content": "Te-ai întrebat vreodată care este modalitatea optimă de a obține profit constant din pariuri sportive? Aceasta este o dilemă universală. Mulți pariori se luptă constant cu alegerea fundamentală. Vorbim despre securitatea unui singur eveniment. Sau mizează pe adrenalina oferită de o acumulare de selecții. Această decizie nu ține doar de noroc. Este inima oricărei strategii… .... Read more at: https:// prbusiness.ro/pariuri-single-v s-pariuri-combo-ce-strategie-se-potriveste-stilului-tau/"
     }
   ]
 }
