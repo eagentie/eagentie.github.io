@@ -4,8 +4,14 @@
   "site_feed": "https://topcomunicate.ro/feed/",
   "mastodon": "https://social.5th.ro/@topcomunicate_ro",
   "mastodon_rss": "https://social.5th.ro/@topcomunicate_ro.rss",
-  "updated_at": "2026-02-24T11:06:40Z",
+  "updated_at": "2026-02-24T11:54:37Z",
   "site_posts": [
+    {
+      "title": "Contor electric trifazat: când „trifazicul” devine subiect de factură, nu de jargon",
+      "link": "https://topcomunicate.ro/contor-electric-trifazat-cand-trifazicul-devine-subiect-de-factura-nu-de-jargon/",
+      "date": "Tue, 24 Feb 2026 11:17:54 +0000",
+      "summary": "De ce revine în prim-plan contorul trifazat În&#160;România, „trifazicul” nu mai este o discuție rezervată fabricilor. Îl... The post Contor electric trifazat: când „trifazicul” devine subiect de factură, nu de jargon appeared first on Comunicate de presa ."
+    },
     {
       "title": "România de facto: realități și perspective 2026",
       "link": "https://topcomunicate.ro/romania-de-facto-realitati-si-perspective-2026/",
@@ -71,15 +77,15 @@
       "link": "https://topcomunicate.ro/cum-poate-sa-schimbe-o-masuta-de-cafea-aspectul-livingului-tau/",
       "date": "Sat, 27 Dec 2025 10:22:00 +0000",
       "summary": "Cum poate să schimbe o măsuță de cafea aspectul livingului tău! Să îți transformi complet livingul nu... The post Cum poate să schimbe o măsuță de cafea aspectul livingului tău! appeared first on Comunicate de presa ."
-    },
-    {
-      "title": "Mastodon România pentru activism civic: organizare și informare",
-      "link": "https://topcomunicate.ro/mastodon-romania-pentru-activism-civic-organizare-si-informare/",
-      "date": "Wed, 17 Dec 2025 16:58:54 +0000",
-      "summary": "Sunteți sătui de algoritmi care decid ce informație vedeți? V-ați simțit vreodată cenzurați sau ignorați pe platformele... The post Mastodon România pentru activism civic: organizare și informare appeared first on Comunicate de presa ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@topcomunicate_ro/116125327396932324",
+      "date": "Tue, 24 Feb 2026 11:17:55 +0000",
+      "content": "⭐ De ce revine în prim-plan contorul trifazat În România, „trifazicul” nu mai este o discuție rezervată fabricilor. Îl întâlnești la firme mici cu utilaje, la gospodării care își cresc consumul și la prosumatori care produc energie. Schimbarea are un numitor comun: nevoia de claritate asupra costurilor și a profilului de consum. În Uniunea Europeană, directiva privind piața… 🔗 Detalii aici: https:// topcomunicate.ro/contor-electr ic-trifazat-cand-trifazicul-devine-subiect-de-factura-nu-de-jargon/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@topcomunicate_ro/116120124619135021",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@topcomunicate_ro/115847660608641077",
       "date": "Tue, 06 Jan 2026 10:23:36 +0000",
       "content": "⭐ 98% originalCum poate să schimbe o măsuță de cafea aspectul livingului tău!Să îți transformi complet livingul nu înseamnă să cheltuiești sume mari de bani, de care nu dispui în momentul de față. Și nici prin viitor nu pare să se schimbe ceva. Cu toate acestea, este nevoie să faci o schimbare, dar nu știi cum… 🔗 Detalii aici: https:// topcomunicate.ro/98-originalcu m-poate-sa-schimbe-o-masuta-de-cafea-aspectul-livingului-tau/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@topcomunicate_ro/115736721473873633",
-      "date": "Wed, 17 Dec 2025 20:10:19 +0000",
-      "content": "⭐ Sunteți sătui de algoritmi care decid ce informație vedeți? V-ați simțit vreodată cenzurați sau ignorați pe platformele mari de socializare centralizate? Există o alternativă puternică. În inima digitală a României, o mișcare descentralizată prinde contur, redefinind modul în care se organizează activismul civic. Aceasta este o oportunitate pentru voci autentice de a fi auzite, fără… 🔗 Detalii aici: https:// topcomunicate.ro/mastodon-roma nia-pentru-activism-civic-organizare-si-informare/"
     }
   ]
 }
