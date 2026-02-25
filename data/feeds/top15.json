@@ -4,8 +4,14 @@
   "site_feed": "https://top15.ro/feed/",
   "mastodon": "https://social.5th.ro/@top",
   "mastodon_rss": "https://social.5th.ro/@top.rss",
-  "updated_at": "2026-02-25T11:54:14Z",
+  "updated_at": "2026-02-25T13:44:33Z",
   "site_posts": [
+    {
+      "title": "Tehnologie cu suflet: Asociatia CONIL a facut pasul spre digitalizare prin PNRR pentru a fi mai aproape de copiii cu nevoi speciale",
+      "link": "https://top15.ro/tehnologie-cu-suflet-asociatia-conil-a-facut-pasul-spre-digitalizare-prin-pnrr-pentru-a-fi-mai-aproape-de-copiii-cu-nevoi-speciale/",
+      "date": "Wed, 25 Feb 2026 10:31:27 +0000",
+      "summary": "Asociatia CENTRUL DE PERFORMANTA BEFORE &#38; AFTER SCHOOL CONIL anunta cu bucurie si recunostinta apropierea... Articolul Tehnologie cu suflet: Asociatia CONIL a facut pasul spre digitalizare prin PNRR pentru a fi mai aproape de copiii cu nevoi speciale apare prima dată în TOP 15 ."
+    },
     {
       "title": "Ce faci dacă ai un accident cu mașina închiriată în Cluj-Napoca: pașii corecți, fără ambiguități",
       "link": "https://top15.ro/ce-faci-daca-ai-un-accident-cu-masina-inchiriata-in-cluj-napoca-pasii-corecti-fara-ambiguitati/",
@@ -71,15 +77,15 @@
       "link": "https://top15.ro/uleiuri-profesionale-versus-uleiuri-obisnuite-ce-diferentiaza-produsele-premium/",
       "date": "Mon, 19 Jan 2026 09:25:34 +0000",
       "summary": "În prezent, întreținerea corectă a vehiculelor și echipamentelor depinde în mare măsură de produsele pe... Articolul Uleiuri profesionale versus uleiuri obișnuite: ce diferențiază produsele premium apare prima dată în TOP 15 ."
-    },
-    {
-      "title": "Cele mai recomandate centrale pe lemne în 2026 – 5 variante de TOP",
-      "link": "https://top15.ro/cele-mai-recomandate-centrale-pe-lemne-in-2026-5-variante-de-top/",
-      "date": "Fri, 16 Jan 2026 09:24:50 +0000",
-      "summary": "Centralele pe lemne rămân o opțiune de top pentru încălzirea locuințelor și a clădirilor în... Articolul Cele mai recomandate centrale pe lemne în 2026 &#8211; 5 variante de TOP apare prima dată în TOP 15 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@top/116131330733937444",
+      "date": "Wed, 25 Feb 2026 12:44:39 +0000",
+      "content": "📰Asociatia CENTRUL DE PERFORMANTA BEFORE &amp; AFTER SCHOOL CONIL anunta cu bucurie si recunostinta apropierea de finalizarea proiectului de investitie “Transformarea digitala a Asociatiei CENTRUL DE PERFORMANTA BEFORE &amp; AFTER SCHOOL CONIL”, un demers care a transformat nu doar modul in care lucram, ci mai ales modul in care putem raspunde nevoilor 📰 https:// top15.ro/tehnologie-cu-suflet- asociatia-conil-a-facut-pasul-spre-digitalizare-prin-pnrr-pentru-a-fi-mai-aproape-de-copiii-cu-nevoi-speciale/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@top/116130733874432947",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@top/115921042642549839",
       "date": "Mon, 19 Jan 2026 09:25:37 +0000",
       "content": "📰În prezent, întreținerea corectă a vehiculelor și echipamentelor depinde în mare măsură de produsele pe care le alegi, diferențele dintre uleiurile profesionale și cele obișnuite devin tot mai relevante. Alegerea corectă dintre aceste două categorii nu doar că asigură performanțe superioare, dar contribuie și la prelungirea duratei de viață a mașinii tale. Află de ce… 📰 https:// top15.ro/uleiuri-profesionale- versus-uleiuri-obisnuite-ce-diferentiaza-produsele-premium/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@top/115904052768177578",
-      "date": "Fri, 16 Jan 2026 09:24:52 +0000",
-      "content": "📰Centralele pe lemne rămân o opțiune de top pentru încălzirea locuințelor și a clădirilor în 2026, în special pe fondul costurilor tot mai ridicate ale energiei și al orientării către soluții cu impact redus asupra mediului.În acest articol analizăm o selecție de centrale pe lemne disponibile pe Romstal.ro, evaluându-le pe baza unor criterii care influențează… 📰 https:// top15.ro/cele-mai-recomandate- centrale-pe-lemne-in-2026-5-variante-de-top/"
     }
   ]
 }

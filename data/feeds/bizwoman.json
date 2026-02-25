@@ -4,8 +4,14 @@
   "site_feed": "https://bizwoman.ro/feed/",
   "mastodon": "https://social.5th.ro/@BIZWoman",
   "mastodon_rss": "https://social.5th.ro/@BIZWoman.rss",
-  "updated_at": "2026-02-25T11:54:09Z",
+  "updated_at": "2026-02-25T13:44:27Z",
   "site_posts": [
+    {
+      "title": "Tehnologie cu suflet: Asociatia CONIL a facut pasul spre digitalizare prin PNRR pentru a fi mai aproape de copiii cu nevoi speciale",
+      "link": "https://bizwoman.ro/tehnologie-cu-suflet-asociatia-conil-a-facut-pasul-spre-digitalizare-prin-pnrr-pentru-a-fi-mai-aproape-de-copiii-cu-nevoi-speciale/",
+      "date": "Wed, 25 Feb 2026 10:31:27 +0000",
+      "summary": "Asociatia CENTRUL DE PERFORMANTA BEFORE &#38; AFTER SCHOOL CONIL anunta cu bucurie si recunostinta apropierea&#8230; Articolul Tehnologie cu suflet: Asociatia CONIL a facut pasul spre digitalizare prin PNRR pentru a fi mai aproape de copiii cu nevoi speciale apare prima dată în Biz Woman ."
+    },
     {
       "title": "Cum se schimbă SEO-ul în 2026 și ce nu mai funcționează deloc",
       "link": "https://bizwoman.ro/cum-se-schimba-seo-ul-in-2026-si-ce-nu-mai-functioneaza-deloc/",
@@ -59,15 +65,15 @@
       "link": "https://bizwoman.ro/cum-postezi-pe-mastodon-doar-cand-articolul-e-publicat-nu-draft-preview/",
       "date": "Wed, 17 Dec 2025 16:58:54 +0000",
       "summary": "Ați publicat vreodată un articol pe WordPress și, din greșeală, ați văzut că un draft&#8230; Articolul Cum postezi pe Mastodon doar când articolul e publicat (nu draft/preview) apare prima dată în Biz Woman ."
-    },
-    {
-      "title": "Oameni, destine, emoție: Adela Hanafi, a lansat podcastul „Povești Nespuse cu Adela”",
-      "link": "https://bizwoman.ro/oameni-destine-emotie-adela-hanafi-a-lansat-podcastul-povesti-nespuse-cu-adela/",
-      "date": "Wed, 10 Dec 2025 09:13:51 +0000",
-      "summary": "Oameni, destine, emoție: Adela Hanafi, a lansat podcastul „Povești Nespuse cu Adela” Într-o lume adesea&#8230; Articolul Oameni, destine, emoție: Adela Hanafi, a lansat podcastul „Povești Nespuse cu Adela” apare prima dată în Biz Woman ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@BIZWoman/116131320360105923",
+      "date": "Wed, 25 Feb 2026 12:42:00 +0000",
+      "content": "📄Asociatia CENTRUL DE PERFORMANTA BEFORE &amp; AFTER SCHOOL CONIL anunta cu bucurie si recunostinta apropierea de finalizarea proiectului de investitie “Transformarea digitala a Asociatiei CENTRUL DE PERFORMANTA BEFORE &amp; AFTER SCHOOL CONIL”, un demers care a transformat nu doar modul in care lucram, ci mai ales modul in care putem raspunde nevoilor 📄 https:// bizwoman.ro/tehnologie-cu-sufl et-asociatia-conil-a-facut-pasul-spre-digitalizare-prin-pnrr-pentru-a-fi-mai-aproape-de-copiii-cu-nevoi-speciale/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@BIZWoman/116130096724371725",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@BIZWoman/115690469141657867",
       "date": "Tue, 09 Dec 2025 16:07:45 +0000",
       "content": "📄Gala „Women in Economy” ajunge la Paris • 1 decembrie 2025, Hôtel de Ville – Paris: CONAF, alături de Ambasada României în Republica Franceză, Consulatul General al României la Paris și cu sprijinul Delegației Permanente a României pe lângă UNESCO, Institutului Cultural Român din Paris, Cercului profesioniștilor români din Franța, Primăriei Paris, reprezentanței CONAF Franța… 📄 https:// bizwoman.ro/gala-women-in-econ omy-ajunge-la-paris/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@BIZWoman/115690469060527513",
-      "date": "Tue, 09 Dec 2025 16:07:43 +0000",
-      "content": "📄Introducere: Revoluția SEO și Atractivitatea Digitală Atenție (Attention): Vă confruntați cu provocarea de a câștiga autoritate online? Știm cât de epuizant este să trimiți sute de emailuri reci, rugând webmasterii să includă un link către site-ul tău. Tacticile de *link building* manuale consumă timp prețios și adesea nu aduc rezultatele dorite. Pe măsură ce motoarele… 📄 https:// bizwoman.ro/2025-cum-scrii-art icole-seo-care-sa-atraga-backlinkuri-natural/"
     }
   ]
 }
