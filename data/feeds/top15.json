@@ -4,8 +4,14 @@
   "site_feed": "https://top15.ro/feed/",
   "mastodon": "https://social.5th.ro/@top",
   "mastodon_rss": "https://social.5th.ro/@top.rss",
-  "updated_at": "2026-02-25T07:18:28Z",
+  "updated_at": "2026-02-25T08:03:51Z",
   "site_posts": [
+    {
+      "title": "Ce faci dacă ai un accident cu mașina închiriată în Cluj-Napoca: pașii corecți, fără ambiguități",
+      "link": "https://top15.ro/ce-faci-daca-ai-un-accident-cu-masina-inchiriata-in-cluj-napoca-pasii-corecti-fara-ambiguitati/",
+      "date": "Tue, 17 Feb 2026 22:22:00 +0000",
+      "summary": "Accidentele se &#238;nt&#226;mplă. Reacția ta contează mai mult dec&#226;t incidentul Indiferent c&#226;t de atent conduci,... Articolul Ce faci dacă ai un accident cu mașina închiriată în Cluj-Napoca: pașii corecți, fără ambiguități apare prima dată în TOP 15 ."
+    },
     {
       "title": "Cum poate aerul condiționat să ajusteze automat temperatura pentru somn",
       "link": "https://top15.ro/cum-poate-aerul-conditionat-sa-ajusteze-automat-temperatura-pentru-somn/",
@@ -71,15 +77,15 @@
       "link": "https://top15.ro/inchiriere-espressoare-de-cafea-in-custodie/",
       "date": "Fri, 16 Jan 2026 04:18:42 +0000",
       "summary": "Inchiriere espressoare de cafea in custodie pentru orice companie! Articolul Inchiriere espressoare de cafea in custodie! apare prima dată în TOP 15 ."
-    },
-    {
-      "title": "Cm sa beneficiezi de un abonament de cafea la birou?",
-      "link": "https://top15.ro/cm-sa-beneficiezi-de-un-abonament-de-cafea-la-birou/",
-      "date": "Thu, 01 Jan 2026 17:45:00 +0000",
-      "summary": "Alege un abonament cafea personalizat in functie de consum, cu un espressor in comodat! Articolul Cm sa beneficiezi de un abonament de cafea la birou? apare prima dată în TOP 15 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@top/116130142493882240",
+      "date": "Wed, 25 Feb 2026 07:42:28 +0000",
+      "content": "📰Accidentele se întâmplă. Reacția ta contează mai mult decât incidentul Indiferent cât de atent conduci, există factori pe care nu îi controlezi: trafic aglomerat în Mărăști la ora 8:30, o frânare bruscă în Centru, polei dimineața devreme iarna sau un șofer neatent într-o intersecție.Dacă te afli la volanul unei mașini închiriate în Cluj-Napoca și apare… 📰 https:// top15.ro/ce-faci-daca-ai-un-ac cident-cu-masina-inchiriata-in-cluj-napoca-pasii-corecti-fara-ambiguitati/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@top/116130031166681209",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@top/115903325847143112",
       "date": "Fri, 16 Jan 2026 06:20:00 +0000",
       "content": "📰Inchiriere espressoare de cafea in custodie pentru orice companie! 📰 https:// top15.ro/inchiriere-espressoar e-de-cafea-in-custodie/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@top/115842747828400764",
-      "date": "Mon, 05 Jan 2026 13:34:13 +0000",
-      "content": "📰Alege un abonament cafea personalizat in functie de consum, cu un espressor in comodat! 📰 https:// top15.ro/cm-sa-beneficiezi-de- un-abonament-de-cafea-la-birou/"
     }
   ]
 }

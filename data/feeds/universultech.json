@@ -4,7 +4,7 @@
   "site_feed": "https://UniversulTech.ro/feed/",
   "mastodon": "https://social.5th.ro/@UniversulTech",
   "mastodon_rss": "https://social.5th.ro/@UniversulTech.rss",
-  "updated_at": "2026-02-25T07:18:20Z",
+  "updated_at": "2026-02-25T08:03:41Z",
   "site_posts": [
     {
       "title": "România de facto: realități și perspective 2026",
@@ -43,6 +43,12 @@
       "summary": "Te-ai întrebat vreodată cum influențează adâncimea apei planurile tale de vacanță sau succesul unei partide de pescuit în Deltă? Dunărea&#8230; Articolul Cotele Dunării la Sulina în 2026: nivelul apei azi, grafic și trenduri pentru Delta Dunării apare prima dată în Universul Tech ."
     },
     {
+      "title": "Închiriezi o mașină pentru mai multe persoane? Ce trebuie să știi înainte să alegi modelul",
+      "link": "https://universultech.ro/inchiriezi-o-masina-pentru-mai-multe-persoane-ce-trebuie-sa-stii-inainte-sa-alegi-modelul/",
+      "date": "Thu, 12 Feb 2026 13:22:00 +0000",
+      "summary": "O mașină pentru tine nu este aceeași cu o mașină pentru un grup C&#226;nd &#238;nchiriezi singur, decizia este simplă. Alegi&#8230; Articolul Închiriezi o mașină pentru mai multe persoane? Ce trebuie să știi înainte să alegi modelul apare prima dată în Universul Tech ."
+    },
+    {
       "title": "Cum influențează UX și UI succesul aplicației tale web?",
       "link": "https://universultech.ro/cum-influenteaza-ux-si-ui-succesul-aplicatiei-tale-web/",
       "date": "Wed, 11 Feb 2026 13:18:54 +0000",
@@ -71,15 +77,15 @@
       "link": "https://universultech.ro/arta-de-a-te-deconecta-dupa-o-zi-plina-de-munca/",
       "date": "Fri, 06 Feb 2026 06:23:49 +0000",
       "summary": "În zilele noastre, timpul liber a devenit aproape un moft. Trăim într-un ritm alert, în care ziua de muncă nu&#8230; Articolul Arta de a te deconecta după o zi plină de muncă apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "Planificarea financiară personală – cum îți organizezi banii pentru stabilitate și liniște",
-      "link": "https://universultech.ro/planificarea-financiara-personala-cum-iti-organizezi-banii-pentru-stabilitate-si-liniste/",
-      "date": "Tue, 03 Feb 2026 09:29:02 +0000",
-      "summary": "Finanțele personale sunt unul dintre aspectele vieții care îți pot aduce fie liniște, fie stres, în funcție de modul în&#8230; Articolul Planificarea financiară personală &#8211; cum îți organizezi banii pentru stabilitate și liniște apare prima dată în Universul Tech ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@UniversulTech/116130111980635194",
+      "date": "Wed, 25 Feb 2026 07:34:42 +0000",
+      "content": "💡O mașină pentru tine nu este aceeași cu o mașină pentru un grup Când închiriezi singur, decizia este simplă. Alegi ceva economic, ușor de parcat și suficient pentru bagajele tale. Când închiriezi pentru trei, patru sau cinci persoane, lucrurile se schimbă radical.Spațiul, confortul și stabilitatea nu mai sunt opționale. Devin necesare. În Cluj-Napoca, unde multe… ✅ https:// universultech.ro/inchiriezi-o- masina-pentru-mai-multe-persoane-ce-trebuie-sa-stii-inainte-sa-alegi-modelul/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@UniversulTech/116129967253241758",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@UniversulTech/116023075604636207",
       "date": "Fri, 06 Feb 2026 09:53:57 +0000",
       "content": "💡Keyword (ancoră link): NetBetTarget link: https:// casino.netbet.ro/game/shining- crownTitlu propus:Cum au fost digitalizate sloturile: între nostalgie și tehnologieIndustria de gambling online este, de multe ori, analizată prin prisma legislației sau a marketingului, dar există o dimensiune tehnologică mult mai interesantă, pe care puțini utilizatori o văd. Sloturile, ruleta, blackjack-ul și jocurile live au fost forțate ✅ https:// universultech.ro/de-la-mecanic -la-digital-ce-s-a-schimbat-tehnic/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@UniversulTech/116022249576590075",
-      "date": "Fri, 06 Feb 2026 06:23:52 +0000",
-      "content": "💡În zilele noastre, timpul liber a devenit aproape un moft. Trăim într-un ritm alert, în care ziua de muncă nu se mai încheie odată cu închiderea laptopului. Gândurile rămân acolo, în task-urile neterminate, în e-mailurile la care trebuie să răspundem și în numeroasele obiective pe care ni le setăm zilnic. Pe măsură ce se apropie… ✅ https:// universultech.ro/arta-de-a-te- deconecta-dupa-o-zi-plina-de-munca/"
     }
   ]
 }

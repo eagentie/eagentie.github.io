@@ -4,13 +4,19 @@
   "site_feed": "https://partizani.ro/feed/",
   "mastodon": "https://social.5th.ro/@Partizani",
   "mastodon_rss": "https://social.5th.ro/@Partizani.rss",
-  "updated_at": "2026-02-25T07:17:57Z",
+  "updated_at": "2026-02-25T08:03:14Z",
   "site_posts": [
     {
       "title": "Pregătește-ți mașina de aventură – Ghid de verificări și echipamente esențiale",
       "link": "https://partizani.ro/pregateste-ti-masina-de-aventura-ghid-de-verificari-si-echipamente-esentiale/",
       "date": "Tue, 24 Feb 2026 10:58:20 +0000",
       "summary": "Dacă iubești aventurile și îți place să explorezi drumuri mai puțin bătătorite, pregătirea mașinii tale pentru aceste escapade este esențială. Indiferent dacă ai în plan o excursie pe drumuri forestiere, o escapadă montană sau o călătorie prin zone izolate, echiparea corespunzătoare a vehiculului tău îți poate asigura călătorii plăcute și [&#8230;] Articolul Pregătește-ți mașina de aventură &#8211; Ghid de verificări și echipamente esențiale apare prima dată în Partizani ."
+    },
+    {
+      "title": "Contractul de închiriere auto: ce merită citit cu adevărat înainte să semnezi",
+      "link": "https://partizani.ro/contractul-de-inchiriere-auto-ce-merita-citit-cu-adevarat-inainte-sa-semnezi/",
+      "date": "Sat, 21 Feb 2026 12:01:00 +0000",
+      "summary": "Contractul nu e &#8222;h&#226;rțogăraie&#8221;, e manualul tău de evitare a surprizelor Mulți oameni se uită la contractul de &#238;nchiriere auto ca la o formalitate. &#206;l semnează rapid, mai ales c&#226;nd sunt grăbiți: tocmai au aterizat, au bagaje, copilul pl&#226;nge, au &#238;nt&#226;lnire &#238;n 40 de minute. Doar că exact &#238;n aceste [&#8230;] Articolul Contractul de închiriere auto: ce merită citit cu adevărat înainte să semnezi apare prima dată în Partizani ."
     },
     {
       "title": "Site-ul tău ar trebui să muncească pentru tine: automatizări reale care cresc afaceri în 2026",
@@ -59,15 +65,15 @@
       "link": "https://partizani.ro/companiile-si-amprenta-de-carbon-cum-reduci-emisiile-fara-sa-pierzi-performanta-economica/",
       "date": "Wed, 17 Dec 2025 10:47:33 +0000",
       "summary": "Sustenabilitatea nu mai este o opțiune rezervată companiilor care vor să pară „verzi”. A devenit o condiție esențială pentru competitivitate, reputație și supraviețuire pe termen lung. Reducerea amprentei de carbon nu înseamnă doar protejarea mediului, ci și creșterea eficienței, optimizarea costurilor și consolidarea încrederii clienților. Fie că deții o companie [&#8230;] Articolul Companiile și amprenta de carbon &#8211; cum reduci emisiile fără să pierzi performanța economică apare prima dată în Partizani ."
-    },
-    {
-      "title": "Cum transformă treptele din lemn masiv aspectul unei case",
-      "link": "https://partizani.ro/cum-transforma-treptele-din-lemn-masiv-aspectul-unei-case/",
-      "date": "Wed, 10 Dec 2025 07:37:21 +0000",
-      "summary": "Ai trecut vreodată pe lângă o casă unde scara interioară pare să fure toată atenția? Treptele din lemn masiv au acel dar rar de a schimba complet percepția asupra unui spațiu, transformând un hol banal într-un loc memorabil. Hai să explorăm pas cu pas, cum reușesc să facă asta treptele [&#8230;] Articolul Cum transformă treptele din lemn masiv aspectul unei case apare prima dată în Partizani ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@Partizani/116130121926585861",
+      "date": "Wed, 25 Feb 2026 07:37:14 +0000",
+      "content": "ℹ️Contractul nu e „hârțogăraie”, e manualul tău de evitare a surprizelor Mulți oameni se uită la contractul de închiriere auto ca la o formalitate. Îl semnează rapid, mai ales când sunt grăbiți: tocmai au aterizat, au bagaje, copilul plânge, au întâlnire în 40 de minute. Doar că exact în aceste momente apar cele mai scumpe… ℹ️ https:// partizani.ro/contractul-de-inc hiriere-auto-ce-merita-citit-cu-adevarat-inainte-sa-semnezi/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@Partizani/116130010314464627",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@Partizani/115689243660727923",
       "date": "Tue, 09 Dec 2025 10:56:05 +0000",
       "content": "ℹ️Plantele medicinale pot fi un sprijin valoros într-o dietă de slăbire, mai ales atunci când sunt folosite pentru a stimula metabolismul, a reduce apetitul sau a sprijini digestia. Ele nu înlocuiesc o alimentație echilibrată și mișcarea, însă pot amplifica efectele acestor obiceiuri. Multe dintre ele sunt folosite de secole în fitoterapie, datorită compușilor activi care… ℹ️ https:// partizani.ro/rolul-plantelor-i n-sustinerea-procesului-de-slabire/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@Partizani/115689243554502383",
-      "date": "Tue, 09 Dec 2025 10:56:04 +0000",
-      "content": "ℹ️Părinții cu micuți în pragul vârstei de 2 ani știu că aceasta este o etapă plină de energie și curiozitate. La 2 ani, cei mici sunt dornici să exploreze lumea din jur și învață într-un ritm uimitor. Aici intervin jucăriile educative potrivite vârstei, care nu doar distrează, ci îi ajută pe copii să își dezvolte… ℹ️ https:// partizani.ro/jucarii-copii-2-a ni-ghid-complet-de-jucarii-educative-potrivite-varstei/"
     }
   ]
 }

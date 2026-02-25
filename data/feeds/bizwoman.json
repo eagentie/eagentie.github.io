@@ -4,13 +4,19 @@
   "site_feed": "https://bizwoman.ro/feed/",
   "mastodon": "https://social.5th.ro/@BIZWoman",
   "mastodon_rss": "https://social.5th.ro/@BIZWoman.rss",
-  "updated_at": "2026-02-25T07:18:23Z",
+  "updated_at": "2026-02-25T08:03:45Z",
   "site_posts": [
     {
       "title": "Cum se schimbă SEO-ul în 2026 și ce nu mai funcționează deloc",
       "link": "https://bizwoman.ro/cum-se-schimba-seo-ul-in-2026-si-ce-nu-mai-functioneaza-deloc/",
       "date": "Sun, 22 Feb 2026 12:22:00 +0000",
       "summary": "SEO-ul din 2026 nu mai seamănă aproape deloc cu ce făceau majoritatea firmelor acum câțiva&#8230; Articolul Cum se schimbă SEO-ul în 2026 și ce nu mai funcționează deloc apare prima dată în Biz Woman ."
+    },
+    {
+      "title": "Călătorii cu grupul de prieteni: confort maxim într-o mașină închiriată",
+      "link": "https://bizwoman.ro/calatorii-cu-grupul-de-prieteni-confort-maxim-intr-o-masina-inchiriata/",
+      "date": "Sun, 22 Feb 2026 09:22:00 +0000",
+      "summary": "Dincolo de clasicul concediu și de perioada vacanțelor, din ce &#238;n ce mai mulți rom&#226;ni&#8230; Articolul Călătorii cu grupul de prieteni: confort maxim într-o mașină închiriată apare prima dată în Biz Woman ."
     },
     {
       "title": "Ce vor femeile de Valentine’s Day: de ce cosmeticele coreene au devenit alegerea preferată",
@@ -59,15 +65,15 @@
       "link": "https://bizwoman.ro/oameni-destine-emotie-adela-hanafi-a-lansat-podcastul-povesti-nespuse-cu-adela/",
       "date": "Wed, 10 Dec 2025 09:13:51 +0000",
       "summary": "Oameni, destine, emoție: Adela Hanafi, a lansat podcastul „Povești Nespuse cu Adela” Într-o lume adesea&#8230; Articolul Oameni, destine, emoție: Adela Hanafi, a lansat podcastul „Povești Nespuse cu Adela” apare prima dată în Biz Woman ."
-    },
-    {
-      "title": "Gala „Women in Economy” ajunge la Paris",
-      "link": "https://bizwoman.ro/gala-women-in-economy-ajunge-la-paris/",
-      "date": "Tue, 02 Dec 2025 09:22:12 +0000",
-      "summary": "Gala &#8222;Women in Economy&#8221; ajunge la Paris &#8226; 1 decembrie 2025, H&#244;tel de Ville &#8211;&#8230; Articolul Gala „Women in Economy” ajunge la Paris apare prima dată în Biz Woman ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@BIZWoman/116130096724371725",
+      "date": "Wed, 25 Feb 2026 07:30:49 +0000",
+      "content": "📄Dincolo de clasicul concediu și de perioada vacanțelor, din ce în ce mai mulți români simt nevoia să își valorifice timpul liber pe tot parcursul anului, să își transforme călătoriile într-un stil de viață sustenabil. În căutarea unor experiențe memorabile și autentice, pe care să le trăiască alături de prieteni sau familie, aceștia caută soluții,… 📄 https:// bizwoman.ro/calatorii-cu-grupu l-de-prieteni-confort-maxim-intr-o-masina-inchiriata/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@BIZWoman/116129999660295784",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@BIZWoman/115690469060527513",
       "date": "Tue, 09 Dec 2025 16:07:43 +0000",
       "content": "📄Introducere: Revoluția SEO și Atractivitatea Digitală Atenție (Attention): Vă confruntați cu provocarea de a câștiga autoritate online? Știm cât de epuizant este să trimiți sute de emailuri reci, rugând webmasterii să includă un link către site-ul tău. Tacticile de *link building* manuale consumă timp prețios și adesea nu aduc rezultatele dorite. Pe măsură ce motoarele… 📄 https:// bizwoman.ro/2025-cum-scrii-art icole-seo-care-sa-atraga-backlinkuri-natural/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@BIZWoman/115690468934608126",
-      "date": "Tue, 09 Dec 2025 16:07:42 +0000",
-      "content": "📄Fotografia reprezintă arta de a imortaliza momente, emoții și povești într-o singură imagine. Un fotograf talentat poate transforma o zi obișnuită într-o poveste fascinantă, iar Alex Bogdan ( https://www. abfoto.ro ) este un maestru în această artă. Cu un portofoliu impresionant și o abordare unică, el aduce la viață nunți și evenimente speciale într-un mod captivant.O Pasiune Transformată… 📄 https:// bizwoman.ro/ilustrand-iubirea- in-fotografia-de-nunta/"
     }
   ]
 }

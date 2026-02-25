@@ -4,13 +4,19 @@
   "site_feed": "https://topcomunicate.ro/feed/",
   "mastodon": "https://social.5th.ro/@topcomunicate_ro",
   "mastodon_rss": "https://social.5th.ro/@topcomunicate_ro.rss",
-  "updated_at": "2026-02-25T07:16:49Z",
+  "updated_at": "2026-02-25T08:01:57Z",
   "site_posts": [
     {
       "title": "Contor electric trifazat: când „trifazicul” devine subiect de factură, nu de jargon",
       "link": "https://topcomunicate.ro/contor-electric-trifazat-cand-trifazicul-devine-subiect-de-factura-nu-de-jargon/",
       "date": "Tue, 24 Feb 2026 11:17:54 +0000",
       "summary": "De ce revine în prim-plan contorul trifazat În&#160;România, „trifazicul” nu mai este o discuție rezervată fabricilor. Îl... The post Contor electric trifazat: când „trifazicul” devine subiect de factură, nu de jargon appeared first on Comunicate de presa ."
+    },
+    {
+      "title": "Cum alegi mașina potrivită iarna în Cluj-Napoca: ce contează cu adevărat",
+      "link": "https://topcomunicate.ro/cum-alegi-masina-potrivita-iarna-in-cluj-napoca-ce-conteaza-cu-adevarat/",
+      "date": "Mon, 23 Feb 2026 12:21:00 +0000",
+      "summary": "Iarna nu e dramatică, dar nici de ignorat Cluj-Napoca nu este un oraș extrem din punct de... The post Cum alegi mașina potrivită iarna în Cluj-Napoca: ce contează cu adevărat appeared first on Comunicate de presa ."
     },
     {
       "title": "România de facto: realități și perspective 2026",
@@ -71,15 +77,15 @@
       "link": "https://topcomunicate.ro/presostat-electronic-vs-presostat-mecanic-care-iti-protejeaza-mai-bine-pompa/",
       "date": "Mon, 19 Jan 2026 17:23:37 +0000",
       "summary": "Automatizarea sistemului de alimentare cu apă reprezintă pasul decisiv pentru confortul casei și longevitatea echipamentelor hidraulice. Pompa,... The post Presostat electronic vs. Presostat mecanic: Care îți protejează mai bine pompa? appeared first on Comunicate de presa ."
-    },
-    {
-      "title": "Cum să întreții sistemul de climatizare pentru a respira aer curat în mașină tot anul",
-      "link": "https://topcomunicate.ro/cum-sa-intretii-sistemul-de-climatizare-pentru-a-respira-aer-curat-in-masina-tot-anul/",
-      "date": "Tue, 13 Jan 2026 13:06:00 +0000",
-      "summary": "Sistemul de aer condiționat este considerat de mulți șoferi doar o facilitate de confort pentru zilele toride... The post Cum să întreții sistemul de climatizare pentru a respira aer curat în mașină tot anul appeared first on Comunicate de presa ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@topcomunicate_ro/116130147714037964",
+      "date": "Wed, 25 Feb 2026 07:43:47 +0000",
+      "content": "⭐ Iarna nu e dramatică, dar nici de ignorat Cluj-Napoca nu este un oraș extrem din punct de vedere climatic, însă sezonul rece aduce suficiente variabile cât să influențeze alegerea unei mașini: dimineți cu polei, drumuri umede, diferențe de temperatură între zi și noapte, zone în pantă și, ocazional, episoade serioase de ninsoare. Dacă ajungi în… 🔗 Mai mult: https:// topcomunicate.ro/cum-alegi-mas ina-potrivita-iarna-in-cluj-napoca-ce-conteaza-cu-adevarat/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@topcomunicate_ro/116130036291261199",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@topcomunicate_ro/116000023467060527",
       "date": "Mon, 02 Feb 2026 08:11:29 +0000",
       "content": "⭐ Mai e mult pana in 2027? De ce „acum” este momentul perfect sa alegi gradinita potrivita pentru copilul tauStim ce gandesti: abia am pasit in noul an, iar 2027 pare o cifra dintr-un viitor indepartat. Insa, pentru un parinte, timpul are un mod bizar de a se comprima. Intre primii pasi si prima zi de… 🔗 Detalii aici: https:// topcomunicate.ro/mai-e-mult-pa na-in-2027-de-ce-acum-este-momentul-perfect-sa-alegi-gradinita-potrivita-pentru-copilul-tau/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@topcomunicate_ro/115923408828781980",
-      "date": "Mon, 19 Jan 2026 19:27:22 +0000",
-      "content": "⭐ Automatizarea sistemului de alimentare cu apă reprezintă pasul decisiv pentru confortul casei și longevitatea echipamentelor hidraulice. Pompa, fie ea submersibilă sau de suprafață, este doar „mușchiul” instalației, în timp ce „creierul” care decide când să pornească și când să se oprească este presostatul. Alegerea acestui mic dispozitiv influențează direct modul în care 🔗 Detalii aici: https:// topcomunicate.ro/presostat-ele ctronic-vs-presostat-mecanic-care-iti-protejeaza-mai-bine-pompa/"
     }
   ]
 }
