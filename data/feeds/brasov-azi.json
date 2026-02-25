@@ -4,8 +4,14 @@
   "site_feed": "https://brasov-azi.ro/feed/",
   "mastodon": "https://social.5th.ro/@brasov",
   "mastodon_rss": "https://social.5th.ro/@brasov.rss",
-  "updated_at": "2026-02-25T10:11:01Z",
+  "updated_at": "2026-02-25T11:08:45Z",
   "site_posts": [
+    {
+      "title": "Irineu Darău: Austeritatea fără stimularea economiei înseamnă stagnare. Guvernul aprobă măsuri pentru relansare economică",
+      "link": "https://brasov-azi.ro/irineu-darau-austeritatea-fara-stimularea-economiei-inseamna-stagnare-guvernul-aproba-masuri-pentru-relansare-economica/",
+      "date": "Wed, 25 Feb 2026 11:06:47 +0000",
+      "summary": "Executivul a adoptat recent o Ordonanță de Urgență care introduce un set complex de măsuri menite să revitalizeze mediul economic național. În acest context, **Irineu Darău**, ministrul Economiei, Digitalizării, Antreprenoriatului și Turismului, a evidențiat importanța abandonării politicilor bazate exclusiv pe... Articolul Irineu Darău: Austeritatea fără stimularea economiei înseamnă stagnare. Guvernul aprobă măsuri pentru relansare economică apare prima dată în Brasov AZI ."
+    },
     {
       "title": "Scripcaru, Brașov: Justiția declară ilegal controlul politic asupra urbanismului orașului.",
       "link": "https://brasov-azi.ro/scripcaru-brasov-justitia-declara-ilegal-controlul-politic-asupra-urbanismului-orasului/",
@@ -71,15 +77,15 @@
       "link": "https://brasov-azi.ro/biserica-neagra-in-2026-program-bilete-concerte-si-cele-mai-bune-ore-de-vizita/",
       "date": "Fri, 30 Jan 2026 21:51:55 +0000",
       "summary": "Plan rapid pentru Biserica Neagră Durată recomandată: O oră până la o oră și jumătate pentru o vizită completă (istorie, colecții, interior). Când să mergi: Ideal în extrasezon sau în timpul săptămânii pentru a evita aglomerația din centrul vechi al... Articolul Biserica Neagră în 2026: program, bilete, concerte și cele mai bune ore de vizită apare prima dată în Brasov AZI ."
-    },
-    {
-      "title": "USR–FDGR cere dezbatere publică la Brașov pentru decizia majoră din Centrul Civic.",
-      "link": "https://brasov-azi.ro/usr-fdgr-cere-dezbatere-publica-la-brasov-pentru-decizia-majora-din-centrul-civic/",
-      "date": "Fri, 30 Jan 2026 13:38:02 +0000",
-      "summary": "Grupul consilierilor locali USR–FDGR din Consiliul Local Brașov a oferit explicații detaliate privind abținerea de la vot referitoare la concesionarea unui teren în Centrul Civic destinat construirii unei catedrale. Poziția lor este prezentată nu ca o opoziție față de credință... Articolul USR–FDGR cere dezbatere publică la Brașov pentru decizia majoră din Centrul Civic. apare prima dată în Brasov AZI ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@brasov/116130945966747644",
+      "date": "Wed, 25 Feb 2026 11:06:48 +0000",
+      "content": "Executivul a adoptat recent o Ordonanță de Urgență care introduce un set complex de măsuri menite să revitalizeze mediul economic național. În acest context, **Irineu Darău**, ministrul Economiei, Digitalizării, Antreprenoriatului și Turismului, a evidențiat importanța abandonării politicilor bazate exclusiv pe restricții în favoarea unor investiții bine https:// brasov-azi.ro/irineu-darau-aus teritatea-fara-stimularea-economiei-inseamna-stagnare-guvernul-aproba-masuri-pentru-relansare-economica/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@brasov/116011742050793275",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@brasov/115986739289248256",
       "date": "Fri, 30 Jan 2026 23:53:08 +0000",
       "content": "Plan rapid pentru Biserica Neagră Durată recomandată: O oră până la o oră și jumătate pentru o vizită completă (istorie, colecții, interior). Când să mergi: Ideal în extrasezon sau în timpul săptămânii pentru a evita aglomerația din centrul vechi al Brașovului. Recomandare: Vizitați dimineața devreme, imediat după deschidere, pentru a avea o experiență mai liniștită.… https:// brasov-azi.ro/biserica-neagra- in-2026-program-bilete-concerte-si-cele-mai-bune-ore-de-vizita/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@brasov/115984320624665841",
-      "date": "Fri, 30 Jan 2026 13:38:02 +0000",
-      "content": "Grupul consilierilor locali USR–FDGR din Consiliul Local Brașov a oferit explicații detaliate privind abținerea de la vot referitoare la concesionarea unui teren în Centrul Civic destinat construirii unei catedrale. Poziția lor este prezentată nu ca o opoziție față de credință sau față de Biserică, ci ca un apel ferm la respectarea legalității, la asigurarea transparenței… https:// brasov-azi.ro/usr-fdgr-cere-de zbatere-publica-la-brasov-pentru-decizia-majora-din-centrul-civic/"
     }
   ]
 }
