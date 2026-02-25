@@ -4,8 +4,14 @@
   "site_feed": "https://e-faq.ro/feed/",
   "mastodon": "https://social.5th.ro/@efaq",
   "mastodon_rss": "https://social.5th.ro/@efaq.rss",
-  "updated_at": "2026-02-25T06:16:04Z",
+  "updated_at": "2026-02-25T07:17:45Z",
   "site_posts": [
+    {
+      "title": "De ce site-ul tău WordPress are nevoie de îngrijire constantă",
+      "link": "https://e-faq.ro/de-ce-site-ul-tau-wordpress-are-nevoie-de-ingrijire-constanta/",
+      "date": "Tue, 17 Feb 2026 14:23:00 +0000",
+      "summary": "Una dintre cele mai costisitoare iluzii din mediul online este ideea că un site este [&#8230;] Articolul De ce site-ul tău WordPress are nevoie de îngrijire constantă apare prima dată în FAQ - Intrebari Frecvente ."
+    },
     {
       "title": "Detector cabluri electrice in pereti: cum localizezi trasee ascunse fara spargeri, erori si riscuri",
       "link": "https://e-faq.ro/detector-cabluri-electrice-in-pereti-cum-localizezi-trasee-ascunse-fara-spargeri-erori-si-riscuri/",
@@ -53,15 +59,15 @@
       "link": "https://e-faq.ro/de-ce-este-necesara-suplimentarea-cu-vitamina-d-in-sezonul-rece/",
       "date": "Thu, 04 Dec 2025 17:51:02 +0000",
       "summary": "Vitamina D este esențială pentru sănătatea oaselor, funcția musculară și buna funcționare a sistemului imunitar. [&#8230;] Articolul De ce este necesară suplimentarea cu vitamina D în sezonul rece apare prima dată în FAQ - Intrebari Frecvente ."
-    },
-    {
-      "title": "Cum să îți ajuți copilul să rezolve un puzzle (fără să-i strici distracția)",
-      "link": "https://e-faq.ro/cum-sa-iti-ajuti-copilul-sa-rezolve-un-puzzle-fara-sa-i-strici-distractia/",
-      "date": "Wed, 03 Dec 2025 10:44:28 +0000",
-      "summary": "Să recunoaștem: c&#226;nd vezi copilul &#238;ncurcat de o piesă, tentația să te bagi și să [&#8230;] Articolul Cum să îți ajuți copilul să rezolve un puzzle (fără să-i strici distracția) apare prima dată în FAQ - Intrebari Frecvente ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@efaq/116130025913689768",
+      "date": "Wed, 25 Feb 2026 07:12:49 +0000",
+      "content": "🚀 Una dintre cele mai costisitoare iluzii din mediul online este ideea că un site este un proiect care se termină la lansare. Mulți antreprenori privesc site-ul ca pe un obiect static: îl construiești, îl publici și apoi îl lași să „lucreze singur”. Din păcate, în cazul WordPress – și al oricărui site modern – această… 🔗 Complet aici: https:// e-faq.ro/de-ce-site-ul-tau-wor dpress-are-nevoie-de-ingrijire-constanta/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@efaq/116050663371073834",
@@ -127,12 +133,6 @@
       "link": "https://social.5th.ro/@efaq/115687016323326457",
       "date": "Tue, 09 Dec 2025 01:29:39 +0000",
       "content": "🚀 Introducere AIDA: Cum să Depășești Zgomotul Online Atenție: V-ați simțit vreodată copleșiți de avalanșa de conținut care inundă internetul? Consumatorii sunt bombardați zilnic cu mii de mesaje publicitare. Competiția este mai acerbă ca niciodată. Simplul &quot;ad&quot; tradițional nu mai funcționează. Cum puteți fi siguri că mesajul dumneavoastră ajunge la publicul potrivit și, mai ales, că… 🔗 Mai mult: https:// e-faq.ro/advertoriale-in-2025- cum-le-integrezi-intr-o-campanie-completa-de-marketing/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@efaq/115687009924117798",
-      "date": "Tue, 09 Dec 2025 01:28:01 +0000",
-      "content": "Bun venit pe profilul e-FAQ! 🌐 Pe https:// e-faq.ro găsești răspunsuri rapide la întrebări frecvente, ghiduri pas cu pas și explicații pe înțelesul tuturor. Urmează-ne pentru articole noi și dă share dacă un răspuns te-a ajutat. Idei de subiecte? Scrie-ne oricând! # faq # intrebari # ghiduri"
     }
   ]
 }

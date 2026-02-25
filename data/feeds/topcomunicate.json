@@ -4,7 +4,7 @@
   "site_feed": "https://topcomunicate.ro/feed/",
   "mastodon": "https://social.5th.ro/@topcomunicate_ro",
   "mastodon_rss": "https://social.5th.ro/@topcomunicate_ro.rss",
-  "updated_at": "2026-02-25T06:15:09Z",
+  "updated_at": "2026-02-25T07:16:49Z",
   "site_posts": [
     {
       "title": "Contor electric trifazat: când „trifazicul” devine subiect de factură, nu de jargon",
@@ -17,6 +17,12 @@
       "link": "https://topcomunicate.ro/romania-de-facto-realitati-si-perspective-2026/",
       "date": "Mon, 23 Feb 2026 10:58:31 +0000",
       "summary": "26 februarie 2026 &#124; 9:30 – 14:30 &#124; Arenele BNR Inflație. Deficite. Finanțare. Creștere. Riscuri. Dincolo de discurs, spre... The post România de facto: realități și perspective 2026 appeared first on Comunicate de presa ."
+    },
+    {
+      "title": "Site-ul tău cade când ai cele mai multe vizite?Iată de ce se întâmplă și cum se rezolvă",
+      "link": "https://topcomunicate.ro/site-ul-tau-cade-cand-ai-cele-mai-multe-viziteiata-de-ce-se-intampla-si-cum-se-rezolva/",
+      "date": "Sun, 15 Feb 2026 15:22:00 +0000",
+      "summary": "Pentru mulți antreprenori, ideea că site-ul ar putea cădea exact atunci când lucrurile merg bine pare absurdă.... The post Site-ul tău cade când ai cele mai multe vizite?Iată de ce se întâmplă și cum se rezolvă appeared first on Comunicate de presa ."
     },
     {
       "title": "Cotele Dunării la Baziaș în 2026: nivelul apei azi, trend și istoric",
@@ -71,15 +77,15 @@
       "link": "https://topcomunicate.ro/cum-sa-intretii-sistemul-de-climatizare-pentru-a-respira-aer-curat-in-masina-tot-anul/",
       "date": "Tue, 13 Jan 2026 13:06:00 +0000",
       "summary": "Sistemul de aer condiționat este considerat de mulți șoferi doar o facilitate de confort pentru zilele toride... The post Cum să întreții sistemul de climatizare pentru a respira aer curat în mașină tot anul appeared first on Comunicate de presa ."
-    },
-    {
-      "title": "Cum poate să schimbe o măsuță de cafea aspectul livingului tău!",
-      "link": "https://topcomunicate.ro/cum-poate-sa-schimbe-o-masuta-de-cafea-aspectul-livingului-tau/",
-      "date": "Sat, 27 Dec 2025 10:22:00 +0000",
-      "summary": "Cum poate să schimbe o măsuță de cafea aspectul livingului tău! Să îți transformi complet livingul nu... The post Cum poate să schimbe o măsuță de cafea aspectul livingului tău! appeared first on Comunicate de presa ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@topcomunicate_ro/116130036291261199",
+      "date": "Wed, 25 Feb 2026 07:15:27 +0000",
+      "content": "⭐ Pentru mulți antreprenori, ideea că site-ul ar putea cădea exact atunci când lucrurile merg bine pare absurdă. Trafic mai mare ar trebui să însemne mai multe vânzări, mai multe solicitări, mai multă vizibilitate. În realitate, pentru foarte multe site-uri, creșterea traficului este momentul în care apar problemele. Exact când ai cea mai mare expunere, site-ul… 🔗 Detalii aici: https:// topcomunicate.ro/site-ul-tau-c ade-cand-ai-cele-mai-multe-viziteiata-de-ce-se-intampla-si-cum-se-rezolva/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@topcomunicate_ro/116125327396932324",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@topcomunicate_ro/115923408828781980",
       "date": "Mon, 19 Jan 2026 19:27:22 +0000",
       "content": "⭐ Automatizarea sistemului de alimentare cu apă reprezintă pasul decisiv pentru confortul casei și longevitatea echipamentelor hidraulice. Pompa, fie ea submersibilă sau de suprafață, este doar „mușchiul” instalației, în timp ce „creierul” care decide când să pornească și când să se oprească este presostatul. Alegerea acestui mic dispozitiv influențează direct modul în care 🔗 Detalii aici: https:// topcomunicate.ro/presostat-ele ctronic-vs-presostat-mecanic-care-iti-protejeaza-mai-bine-pompa/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@topcomunicate_ro/115847660608641077",
-      "date": "Tue, 06 Jan 2026 10:23:36 +0000",
-      "content": "⭐ 98% originalCum poate să schimbe o măsuță de cafea aspectul livingului tău!Să îți transformi complet livingul nu înseamnă să cheltuiești sume mari de bani, de care nu dispui în momentul de față. Și nici prin viitor nu pare să se schimbe ceva. Cu toate acestea, este nevoie să faci o schimbare, dar nu știi cum… 🔗 Detalii aici: https:// topcomunicate.ro/98-originalcu m-poate-sa-schimbe-o-masuta-de-cafea-aspectul-livingului-tau/"
     }
   ]
 }

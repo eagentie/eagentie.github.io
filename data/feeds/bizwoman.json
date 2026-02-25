@@ -4,8 +4,14 @@
   "site_feed": "https://bizwoman.ro/feed/",
   "mastodon": "https://social.5th.ro/@BIZWoman",
   "mastodon_rss": "https://social.5th.ro/@BIZWoman.rss",
-  "updated_at": "2026-02-25T06:16:41Z",
+  "updated_at": "2026-02-25T07:18:23Z",
   "site_posts": [
+    {
+      "title": "Cum se schimbă SEO-ul în 2026 și ce nu mai funcționează deloc",
+      "link": "https://bizwoman.ro/cum-se-schimba-seo-ul-in-2026-si-ce-nu-mai-functioneaza-deloc/",
+      "date": "Sun, 22 Feb 2026 12:22:00 +0000",
+      "summary": "SEO-ul din 2026 nu mai seamănă aproape deloc cu ce făceau majoritatea firmelor acum câțiva&#8230; Articolul Cum se schimbă SEO-ul în 2026 și ce nu mai funcționează deloc apare prima dată în Biz Woman ."
+    },
     {
       "title": "Ce vor femeile de Valentine’s Day: de ce cosmeticele coreene au devenit alegerea preferată",
       "link": "https://bizwoman.ro/ce-vor-femeile-de-valentines-day-de-ce-cosmeticele-coreene-au-devenit-alegerea-preferata/",
@@ -59,15 +65,15 @@
       "link": "https://bizwoman.ro/gala-women-in-economy-ajunge-la-paris/",
       "date": "Tue, 02 Dec 2025 09:22:12 +0000",
       "summary": "Gala &#8222;Women in Economy&#8221; ajunge la Paris &#8226; 1 decembrie 2025, H&#244;tel de Ville &#8211;&#8230; Articolul Gala „Women in Economy” ajunge la Paris apare prima dată în Biz Woman ."
-    },
-    {
-      "title": "2025: cum scrii articole SEO care să atragă backlinkuri natural",
-      "link": "https://bizwoman.ro/2025-cum-scrii-articole-seo-care-sa-atraga-backlinkuri-natural/",
-      "date": "Mon, 01 Dec 2025 12:07:49 +0000",
-      "summary": "Introducere: Revoluția SEO și Atractivitatea Digitală Atenție (Attention): Vă confruntați cu provocarea de a câștiga&#8230; Articolul 2025: cum scrii articole SEO care să atragă backlinkuri natural apare prima dată în Biz Woman ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@BIZWoman/116129999660295784",
+      "date": "Wed, 25 Feb 2026 07:06:08 +0000",
+      "content": "📄SEO-ul din 2026 nu mai seamănă aproape deloc cu ce făceau majoritatea firmelor acum câțiva ani. Nu pentru că Google „s-a complicat”, ci pentru că utilizatorii s-au schimbat, iar Google a fost obligat să-i urmeze. Mulți antreprenori încă aplică tactici care nu mai produc rezultate sau, mai grav, produc efecte inverse.Problema nu este că SEO… 📄 https:// bizwoman.ro/cum-se-schimba-seo -ul-in-2026-si-ce-nu-mai-functioneaza-deloc/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@BIZWoman/116056431456117650",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@BIZWoman/115690468934608126",
       "date": "Tue, 09 Dec 2025 16:07:42 +0000",
       "content": "📄Fotografia reprezintă arta de a imortaliza momente, emoții și povești într-o singură imagine. Un fotograf talentat poate transforma o zi obișnuită într-o poveste fascinantă, iar Alex Bogdan ( https://www. abfoto.ro ) este un maestru în această artă. Cu un portofoliu impresionant și o abordare unică, el aduce la viață nunți și evenimente speciale într-un mod captivant.O Pasiune Transformată… 📄 https:// bizwoman.ro/ilustrand-iubirea- in-fotografia-de-nunta/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@BIZWoman/115690253716238319",
-      "date": "Tue, 09 Dec 2025 15:12:58 +0000",
-      "content": "👌 Platformă pentru femei antreprenor: articole de afaceri, inspirație, motivație și stil de viață, plus recomandări de evenimente și resurse utile. # femeiantreprenor # femeiinafaceri # antreprenoriat 👓 https:// bizwoman.ro"
     }
   ]
 }
