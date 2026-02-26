@@ -4,8 +4,14 @@
   "site_feed": "https://UniversulTech.ro/feed/",
   "mastodon": "https://social.5th.ro/@UniversulTech",
   "mastodon_rss": "https://social.5th.ro/@UniversulTech.rss",
-  "updated_at": "2026-02-26T09:06:20Z",
+  "updated_at": "2026-02-26T10:07:31Z",
   "site_posts": [
+    {
+      "title": "Ce înseamnă „confidențialitate la nivel de pixel” și unde o simți în utilizarea zilnică",
+      "link": "https://universultech.ro/ce-inseamna-confidentialitate-la-nivel-de-pixel-si-unde-o-simti-in-utilizarea-zilnica/",
+      "date": "Thu, 26 Feb 2026 07:50:47 +0000",
+      "summary": "Ce înseamnă „confidențialitate la nivel de pixel” și unde o simți în utilizarea zilnică Confidențialitatea „la nivel de pixel” se&#8230; Articolul Ce înseamnă „confidențialitate la nivel de pixel” și unde o simți în utilizarea zilnică apare prima dată în Universul Tech ."
+    },
     {
       "title": "Tehnologie cu suflet: Asociatia CONIL a facut pasul spre digitalizare prin PNRR pentru a fi mai aproape de copiii cu nevoi speciale",
       "link": "https://universultech.ro/tehnologie-cu-suflet-asociatia-conil-a-facut-pasul-spre-digitalizare-prin-pnrr-pentru-a-fi-mai-aproape-de-copiii-cu-nevoi-speciale/",
@@ -31,10 +37,22 @@
       "summary": "În era digitală, cumpărarea anvelopelor online devine rapidă și convenabilă, oferind raport calitate-preț excelent. De la înțelegerea specificațiilor până la&#8230; Articolul Ghid de achiziție online pentru anvelope &#8211; raport calitate-preț excelent apare prima dată în Universul Tech ."
     },
     {
+      "title": "Ce setări de confidențialitate merită activate pe dispozitivele tale Galaxy",
+      "link": "https://universultech.ro/ce-setari-de-confidentialitate-merita-activate-pe-dispozitivele-tale-galaxy/",
+      "date": "Wed, 18 Feb 2026 09:47:00 +0000",
+      "summary": "Ce setări de confidențialitate merită activate pe dispozitivele tale Galaxy Confidențialitatea pe telefon și tabletă ține de ce date colectează&#8230; Articolul Ce setări de confidențialitate merită activate pe dispozitivele tale Galaxy apare prima dată în Universul Tech ."
+    },
+    {
       "title": "Avantajele unui telefon recondiționat față de unul nou: Economii și sustenabilitate",
       "link": "https://universultech.ro/avantajele-unui-telefon-reconditionat-fata-de-unul-nou-economii-si-sustenabilitate/",
       "date": "Tue, 17 Feb 2026 12:21:27 +0000",
       "summary": "Deși noile lansări de pe piața smartphone-urilor sunt captivante, alegerea unui telefon recondiționat se dovedește a fi o strategie mult&#8230; Articolul Avantajele unui telefon recondiționat față de unul nou: Economii și sustenabilitate apare prima dată în Universul Tech ."
+    },
+    {
+      "title": "Ce înseamnă acoperire „acasă și în străinătate” pentru telefoane și tablete Galaxy",
+      "link": "https://universultech.ro/ce-inseamna-acoperire-acasa-si-in-strainatate-pentru-telefoane-si-tablete-galaxy/",
+      "date": "Sun, 15 Feb 2026 09:35:00 +0000",
+      "summary": "Ce înseamnă acoperire „acasă și în străinătate” pentru telefoane și tablete Galaxy Când călătorești, un incident la telefon sau tabletă&#8230; Articolul Ce înseamnă acoperire „acasă și în străinătate” pentru telefoane și tablete Galaxy apare prima dată în Universul Tech ."
     },
     {
       "title": "Cum să alegi chitara bass potrivită pentru stilul tău muzical",
@@ -59,27 +77,39 @@
       "link": "https://universultech.ro/cum-influenteaza-ux-si-ui-succesul-aplicatiei-tale-web/",
       "date": "Wed, 11 Feb 2026 13:18:54 +0000",
       "summary": "După cum este tot mai cunoscut deja, succesul unei aplicații web nu mai depinde doar de funcționalitatea sa, ci și&#8230; Articolul Cum influențează UX și UI succesul aplicației tale web? apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "Muzica și aromaterapia: Combinația perfectă pentru relaxare",
-      "link": "https://universultech.ro/muzica-si-aromaterapia-combinatia-perfecta-pentru-relaxare/",
-      "date": "Wed, 11 Feb 2026 13:17:24 +0000",
-      "summary": "Să te deconectezi după o zi plină nu e întotdeauna ușor, mai ales când locuința devine, pe rând, birou și&#8230; Articolul Muzica și aromaterapia: Combinația perfectă pentru relaxare apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "Camere termice in 2026: cum alegi corect, ce poti preveni si unde se vede cu adevarat diferenta",
-      "link": "https://universultech.ro/camere-termice-in-2026-cum-alegi-corect-ce-poti-preveni-si-unde-se-vede-cu-adevarat-diferenta/",
-      "date": "Wed, 11 Feb 2026 06:48:30 +0000",
-      "summary": "Intr-o lume in care eficienta energetica, siguranta operationala si mentenanta predictiva sunt deja standard (nu “nice to have”), imaginile termice&#8230; Articolul Camere termice in 2026: cum alegi corect, ce poti preveni si unde se vede cu adevarat diferenta apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "De ce nu miros hainele a balsam după spălare",
-      "link": "https://universultech.ro/de-ce-nu-miros-hainele-a-balsam-dupa-spalare/",
-      "date": "Sun, 08 Feb 2026 09:03:05 +0000",
-      "summary": "Nimic nu se compară cu mirosul proaspăt de haine abia scoase din mașina de spălat, îmbibat cu aroma preferată de&#8230; Articolul De ce nu miros hainele a balsam după spălare apare prima dată în Universul Tech ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@UniversulTech/116136313689659680",
+      "date": "Thu, 26 Feb 2026 09:51:53 +0000",
+      "content": "💡Ce înseamnă „confidențialitate la nivel de pixel” și unde o simți în utilizarea zilnicăConfidențialitatea „la nivel de pixel” se referă la control foarte fin asupra a ceea ce se vede sau se poate captura pe ecran. Este relevantă când lucrezi în public sau când gestionezi informații sensibile.Ce înseamnă / Ce este„Confidențialitate la nivel de pixel”… ✅ https:// universultech.ro/ce-inseamna-c onfidentialitate-la-nivel-de-pixel-si-unde-o-simti-in-utilizarea-zilnica/"
+    },
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@UniversulTech/116136301737935190",
+      "date": "Thu, 26 Feb 2026 09:48:50 +0000",
+      "content": "💡Ce setări de confidențialitate merită activate pe dispozitivele tale GalaxyConfidențialitatea pe telefon și tabletă ține de ce date colectează aplicațiile și cum sunt afișate informațiile. Câteva setări simple reduc expunerea, mai ales dacă folosești dispozitivele zilnic pentru muncă, plăți și social media.Nu trebuie să activezi tot. Contează să alegi setările care se potrivesc cu riscurile… ✅ https:// universultech.ro/ce-setari-de- confidentialitate-merita-activate-pe-dispozitivele-tale-galaxy/"
+    },
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@UniversulTech/116136287146841171",
+      "date": "Thu, 26 Feb 2026 09:45:08 +0000",
+      "content": "💡Cum îți prelungești liniștea după garanție cu opțiuni de protecție îmbunătățiteDupă ce expiră garanția, costurile de reparație pot deveni mai greu de anticipat. Opțiunile de protecție îmbunătățite pot aduce un cadru mai clar pentru service și continuitate.Ce înseamnă opțiuni de protecție îmbunătățiteSunt servicii sau planuri care extind suportul după garanția standard. Pot include ✅ https:// universultech.ro/cum-iti-prelu ngesti-linistea-dupa-garantie-cu-optiuni-de-protectie-imbunatatite/"
+    },
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@UniversulTech/116136271343542751",
+      "date": "Thu, 26 Feb 2026 09:41:06 +0000",
+      "content": "💡De ce Samsung Care+ devine util pentru dispozitivele pe care le folosești zilnicCând folosești zilnic un telefon, o tabletă sau un ceas inteligent, riscul de accidente crește. Un plan de protecție poate reduce impactul financiar și timpul pierdut cu reparații.Ce este Samsung Care+Este un serviciu de protecție pentru dispozitive, care poate acoperi anumite situații precum… ✅ https:// universultech.ro/de-ce-samsung -care-devine-util-pentru-dispozitivele-pe-care-le-folosesti-zilnic/"
+    },
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@UniversulTech/116136256739535522",
+      "date": "Thu, 26 Feb 2026 09:37:24 +0000",
+      "content": "💡Ce înseamnă acoperire „acasă și în străinătate” pentru telefoane și tablete GalaxyCând călătorești, un incident la telefon sau tabletă poate bloca accesul la bilete, plăți și documente. Acoperirea „acasă și în străinătate” este relevantă pentru a ști ce opțiuni ai dacă apare o problemă în afara țării.Este important să înțelegi limitele și pașii, nu doar… ✅ https:// universultech.ro/ce-inseamna-a coperire-acasa-si-in-strainatate-pentru-telefoane-si-tablete-galaxy/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@UniversulTech/116131370708848942",
@@ -121,36 +151,6 @@
       "link": "https://social.5th.ro/@UniversulTech/116063411105278690",
       "date": "Fri, 13 Feb 2026 12:51:47 +0000",
       "content": "💡Identificarea chitarei bass ideale este un proces personal, o căutare a instrumentului care să devină extensia propriei tale viziuni muzicale. Fie că vibrezi pe ritmuri de rock, jazz sau funk, configurația tehnică – de la esența lemnului până la arhitectura dozelor – dictează caracterul sunetului tău. Acest ghid detaliază tot ce trebuie să știi despre… ✅ https:// universultech.ro/cum-sa-alegi- chitara-bass-potrivita-pentru-stilul-tau-muzical/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@UniversulTech/116063055443886707",
-      "date": "Fri, 13 Feb 2026 11:21:20 +0000",
-      "content": "💡Te-ai întrebat vreodată cum influențează adâncimea apei planurile tale de vacanță sau succesul unei partide de pescuit în Deltă? Dunărea este un organism viu, iar poarta sa principală de ieșire la mare necesită o atenție specială din partea tuturor vizitatorilor. Dacă vrei să explorezi brațul cel mai vechi al fluviului, trebuie să înțelegi cum variază… ✅ https:// universultech.ro/cotele-dunari i-la-sulina-in-2026-nivelul-apei-azi-grafic-si-trenduri-pentru-delta-dunarii/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@UniversulTech/116052193233070514",
-      "date": "Wed, 11 Feb 2026 13:18:56 +0000",
-      "content": "💡După cum este tot mai cunoscut deja, succesul unei aplicații web nu mai depinde doar de funcționalitatea sa, ci și de experiența utilizatorului și interfața cu care acesta interacționează (UX și UI). Aceste două elemente sunt esențiale pentru a atrage și a menține atenția utilizatorilor atunci când accesează aplicația. UI ține de partea de design… ✅ https:// universultech.ro/cum-influente aza-ux-si-ui-succesul-aplicatiei-tale-web/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@UniversulTech/116052187315070483",
-      "date": "Wed, 11 Feb 2026 13:17:26 +0000",
-      "content": "💡Să te deconectezi după o zi plină nu e întotdeauna ușor, mai ales când locuința devine, pe rând, birou și spațiu de odihnă. Muzica și aromaterapia sunt două dintre cele mai simple metode de a schimba instantaneu atmosfera unei camere, ajutându-te să treci de la starea de alertă la una de relaxare. Când îmbini sunetele… ✅ https:// universultech.ro/muzica-si-aro materapia-combinatia-perfecta-pentru-relaxare/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@UniversulTech/116050658184425272",
-      "date": "Wed, 11 Feb 2026 06:48:33 +0000",
-      "content": "💡Intr-o lume in care eficienta energetica, siguranta operationala si mentenanta predictiva sunt deja standard (nu “nice to have”), imaginile termice au trecut de la zona de “gadget” la zona de instrument critic. Indiferent daca vorbim de instalatii electrice, productie industriala, utilitati, HVAC, constructii sau servicii de mentenanta pentru cladiri, camerele termale si ✅ https:// universultech.ro/camere-termic e-in-2026-cum-alegi-corect-ce-poti-preveni-si-unde-se-vede-cu-adevarat-diferenta/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@UniversulTech/116034200411642428",
-      "date": "Sun, 08 Feb 2026 09:03:08 +0000",
-      "content": "💡Nimic nu se compară cu mirosul proaspăt de haine abia scoase din mașina de spălat, îmbibat cu aroma preferată de balsam de rufe. Cu toate acestea, mulți utilizatori de mașini de spălat moderne constată cu surprindere și frustrare că rufele lor nu păstrează mirosul plăcut al balsamului după spălare. În mod instinctiv, tindem să dăm… ✅ https:// universultech.ro/de-ce-nu-miro s-hainele-a-balsam-dupa-spalare/"
     }
   ]
 }
