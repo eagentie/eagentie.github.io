@@ -4,8 +4,14 @@
   "site_feed": "https://brasov-azi.ro/feed/",
   "mastodon": "https://social.5th.ro/@brasov",
   "mastodon_rss": "https://social.5th.ro/@brasov.rss",
-  "updated_at": "2026-03-03T16:00:26Z",
+  "updated_at": "2026-03-03T17:05:10Z",
   "site_posts": [
+    {
+      "title": "Ce responsabilități ai ca șofer de autobuz? Merită să obții permisul categoria D?",
+      "link": "https://brasov-azi.ro/ce-responsabilitati-ai-ca-sofer-de-autobuz-merita-sa-obtii-permisul-categoria-d/",
+      "date": "Tue, 03 Mar 2026 14:46:24 +0000",
+      "summary": "În România, dar și la nivel european, există un deficit major de șoferi profesioniști. Cererea pentru transportul de persoane a crescut semnificativ, iar companiile caută constant oameni bine pregătiți pentru a acoperi aceste posturi libere. Obținerea permisului categoria D deschide... Articolul Ce responsabilități ai ca șofer de autobuz? Merită să obții permisul categoria D? apare prima dată în Brasov AZI ."
+    },
     {
       "title": "Irineu Darău: Austeritatea fără stimularea economiei înseamnă stagnare. Guvernul aprobă măsuri pentru relansare economică",
       "link": "https://brasov-azi.ro/irineu-darau-austeritatea-fara-stimularea-economiei-inseamna-stagnare-guvernul-aproba-masuri-pentru-relansare-economica/",
@@ -71,15 +77,15 @@
       "link": "https://brasov-azi.ro/o-bijuterie-arhitecturala-a-brasovului-strada-sforii-cel-mai-ingust-si-pitoresc-pasaj-urban/",
       "date": "Fri, 30 Jan 2026 21:53:04 +0000",
       "summary": "Strada Sforii din Brașov este cel mai îngust pasaj pietonal din România, un reper medieval ideal pentru o vizită scurtă și fotografii unice. Articolul O bijuterie arhitecturală a Brașovului: Strada Sforii, cel mai îngust și pitoresc pasaj urban apare prima dată în Brasov AZI ."
-    },
-    {
-      "title": "Biserica Neagră în 2026: program, bilete, concerte și cele mai bune ore de vizită",
-      "link": "https://brasov-azi.ro/biserica-neagra-in-2026-program-bilete-concerte-si-cele-mai-bune-ore-de-vizita/",
-      "date": "Fri, 30 Jan 2026 21:51:55 +0000",
-      "summary": "Plan rapid pentru Biserica Neagră Durată recomandată: O oră până la o oră și jumătate pentru o vizită completă (istorie, colecții, interior). Când să mergi: Ideal în extrasezon sau în timpul săptămânii pentru a evita aglomerația din centrul vechi al... Articolul Biserica Neagră în 2026: program, bilete, concerte și cele mai bune ore de vizită apare prima dată în Brasov AZI ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@brasov/116166259674445288",
+      "date": "Tue, 03 Mar 2026 16:47:32 +0000",
+      "content": "În România, dar și la nivel european, există un deficit major de șoferi profesioniști. Cererea pentru transportul de persoane a crescut semnificativ, iar companiile caută constant oameni bine pregătiți pentru a acoperi aceste posturi libere. Obținerea permisului categoria D deschide ușa către o carieră stabilă, atât în transportul public urban, cât și în cel turistic… https:// brasov-azi.ro/ce-responsabilit ati-ai-ca-sofer-de-autobuz-merita-sa-obtii-permisul-categoria-d/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@brasov/116130945966747644",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@brasov/115986744464923089",
       "date": "Fri, 30 Jan 2026 23:54:27 +0000",
       "content": "Strada Sforii din Brașov este cel mai îngust pasaj pietonal din România, un reper medieval ideal pentru o vizită scurtă și fotografii unice. https:// brasov-azi.ro/o-bijuterie-arhi tecturala-a-brasovului-strada-sforii-cel-mai-ingust-si-pitoresc-pasaj-urban/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@brasov/115986739289248256",
-      "date": "Fri, 30 Jan 2026 23:53:08 +0000",
-      "content": "Plan rapid pentru Biserica Neagră Durată recomandată: O oră până la o oră și jumătate pentru o vizită completă (istorie, colecții, interior). Când să mergi: Ideal în extrasezon sau în timpul săptămânii pentru a evita aglomerația din centrul vechi al Brașovului. Recomandare: Vizitați dimineața devreme, imediat după deschidere, pentru a avea o experiență mai liniștită.… https:// brasov-azi.ro/biserica-neagra- in-2026-program-bilete-concerte-si-cele-mai-bune-ore-de-vizita/"
     }
   ]
 }
