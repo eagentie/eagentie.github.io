@@ -4,8 +4,14 @@
   "site_feed": "https://bizwoman.ro/feed/",
   "mastodon": "https://social.5th.ro/@BIZWoman",
   "mastodon_rss": "https://social.5th.ro/@BIZWoman.rss",
-  "updated_at": "2026-03-04T19:08:14Z",
+  "updated_at": "2026-03-04T19:51:46Z",
   "site_posts": [
+    {
+      "title": "MORE Networking – 10 ani printr-o conferință despre puterea conexiunilor și comunităților",
+      "link": "https://bizwoman.ro/more-networking-10-ani-printr-o-conferinta-despre-puterea-conexiunilor-si-comunitatilor/",
+      "date": "Wed, 04 Mar 2026 17:25:54 +0000",
+      "summary": "MORE Networking celebrează 10 ani printr-o conferință despre puterea conexiunilor și comunităților O zi intensă&#8230; Articolul MORE Networking &#8211; 10 ani printr-o conferință despre puterea conexiunilor și comunităților apare prima dată în Biz Woman ."
+    },
     {
       "title": "Tehnologie cu suflet: Asociatia CONIL a facut pasul spre digitalizare prin PNRR pentru a fi mai aproape de copiii cu nevoi speciale",
       "link": "https://bizwoman.ro/tehnologie-cu-suflet-asociatia-conil-a-facut-pasul-spre-digitalizare-prin-pnrr-pentru-a-fi-mai-aproape-de-copiii-cu-nevoi-speciale/",
@@ -59,15 +65,15 @@
       "link": "https://bizwoman.ro/curierat-fara-granite-abordarea-bogo-express-pentru-livrari-nationale-si-internationale/",
       "date": "Thu, 18 Dec 2025 15:42:03 +0000",
       "summary": "Într-un context în care mobilitatea comercială și nevoia de livrare rapidă cresc constant, soluțiile de&#8230; Articolul Curierat fără granițe: abordarea Bogo Express pentru livrări naționale și internaționale apare prima dată în Biz Woman ."
-    },
-    {
-      "title": "Cum postezi pe Mastodon doar când articolul e publicat (nu draft/preview)",
-      "link": "https://bizwoman.ro/cum-postezi-pe-mastodon-doar-cand-articolul-e-publicat-nu-draft-preview/",
-      "date": "Wed, 17 Dec 2025 16:58:54 +0000",
-      "summary": "Ați publicat vreodată un articol pe WordPress și, din greșeală, ați văzut că un draft&#8230; Articolul Cum postezi pe Mastodon doar când articolul e publicat (nu draft/preview) apare prima dată în Biz Woman ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@BIZWoman/116172558914152907",
+      "date": "Wed, 04 Mar 2026 19:29:31 +0000",
+      "content": "📄MORE Networking celebrează 10 ani printr-o conferință despre puterea conexiunilor și comunităților O zi intensă de discuții, paneluri și networking dedicată liderilor de comunități, antreprenorilor și managerilor. Pe 26 martie 2026, la Aurrum Palace, are loc Conferința Anuală MORE Networking 2026 – o ediție specială care marchează 10 ani de la lansarea uneia dintre cele… 📄 https:// bizwoman.ro/more-networking-10 -ani-printr-o-conferinta-despre-puterea-conexiunilor-si-comunitatilor/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@BIZWoman/116131320360105923",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@BIZWoman/115695037590534542",
       "date": "Wed, 10 Dec 2025 11:29:34 +0000",
       "content": "📄Oameni, destine, emoție: Adela Hanafi, a lansat podcastul „Povești Nespuse cu Adela” Într-o lume adesea dominată de superficialitate și știri rapide, Adela Hanafi, Președinta Asociației CONIL și sufletul din spatele CONIL Fest, lansează un proiect special: podcastul „Povești Nespuse cu Adela”. Acest demers curajos transformă experiența personală profundă în lecții de viață universale, oferind o… 📄 https:// bizwoman.ro/oameni-destine-emo tie-adela-hanafi-a-lansat-podcastul-povesti-nespuse-cu-adela/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@BIZWoman/115690469141657867",
-      "date": "Tue, 09 Dec 2025 16:07:45 +0000",
-      "content": "📄Gala „Women in Economy” ajunge la Paris • 1 decembrie 2025, Hôtel de Ville – Paris: CONAF, alături de Ambasada României în Republica Franceză, Consulatul General al României la Paris și cu sprijinul Delegației Permanente a României pe lângă UNESCO, Institutului Cultural Român din Paris, Cercului profesioniștilor români din Franța, Primăriei Paris, reprezentanței CONAF Franța… 📄 https:// bizwoman.ro/gala-women-in-econ omy-ajunge-la-paris/"
     }
   ]
 }

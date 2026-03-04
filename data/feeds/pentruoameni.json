@@ -4,8 +4,14 @@
   "site_feed": "https://pentruoameni.ro/feed/",
   "mastodon": "https://social.5th.ro/@pentruoameni",
   "mastodon_rss": "https://social.5th.ro/@pentruoameni.rss",
-  "updated_at": "2026-03-04T19:06:28Z",
+  "updated_at": "2026-03-04T19:49:55Z",
   "site_posts": [
+    {
+      "title": "MORE Networking – 10 ani printr-o conferință despre puterea conexiunilor și comunităților",
+      "link": "https://pentruoameni.ro/more-networking-10-ani-printr-o-conferinta-despre-puterea-conexiunilor-si-comunitatilor/",
+      "date": "Wed, 04 Mar 2026 17:28:40 +0000",
+      "summary": "MORE Networking celebrează 10 ani printr-o conferință despre puterea conexiunilor și comunităților O zi intensă de discuții, paneluri și networking dedicată liderilor de comunități, antreprenorilor și managerilor. Pe 26 martie 2026, la Aurrum Palace, are loc Conferința Anuală MORE Networking 2026 &#8211; o ediție specială care marchează 10 ani de la lansarea uneia dintre cele [&#8230;] Articolul MORE Networking &#8211; 10 ani printr-o conferință despre puterea conexiunilor și comunităților apare prima dată în Pentru Oameni ."
+    },
     {
       "title": "Ce se poate întâmpla într-o călătorie și cum poți evita situațiile neplăcute cu ajutorul unei asigurări travel",
       "link": "https://pentruoameni.ro/ce-se-poate-intampla-intr-o-calatorie-si-cum-poti-evita-situatiile-neplacute-cu-ajutorul-unei-asigurari-travel/",
@@ -71,15 +77,15 @@
       "link": "https://pentruoameni.ro/ilustrand-iubirea-in-fotografia-de-nunta/",
       "date": "Fri, 28 Nov 2025 08:38:59 +0000",
       "summary": "Fotografia reprezintă arta de a imortaliza momente, emoții și povești într-o singură imagine. Un fotograf talentat poate transforma o zi obișnuită într-o poveste fascinantă, iar Alex Bogdan (https://www.abfoto.ro) este un maestru în această artă. Cu un portofoliu impresionant și o abordare unică, el aduce la viață nunți și evenimente speciale într-un mod captivant. O Pasiune [&#8230;] Articolul Ilustrand Iubirea in Fotografia de Nunta apare prima dată în Pentru Oameni ."
-    },
-    {
-      "title": "CONIL Fest 2025: ediția a XXVII-a a Festivalului Integrări",
-      "link": "https://pentruoameni.ro/conil-fest-2025-editia-a-xxvii-a-a-festivalului-integrari/",
-      "date": "Tue, 25 Nov 2025 06:50:40 +0000",
-      "summary": "Zilele de 15 și 16 noiembrie 2025 au adus o emoție pură și o lecție de neuitat la Circul Metropolitan București, unde a avut loc cea de-a XXVII-a ediție a CONIL Fest &#8211; Festivalul Integrării, sub tema profundă: &#8222;Dincolo de Diferențe&#8221;. Evenimentul nu a fost doar un spectacol, ci o celebrare vibrantă a incluziunii, diversității [&#8230;] Articolul CONIL Fest 2025: ediția a XXVII-a a Festivalului Integrări apare prima dată în Pentru Oameni ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@pentruoameni/116172598334694479",
+      "date": "Wed, 04 Mar 2026 19:39:32 +0000",
+      "content": "MORE Networking celebrează 10 ani printr-o conferință despre puterea conexiunilor și comunităților O zi intensă de discuții, paneluri și networking dedicată liderilor de comunități, antreprenorilor și managerilor. Pe 26 martie 2026, la Aurrum Palace, are loc Conferința Anuală MORE Networking 2026 – o ediție specială care marchează 10 ani de la lansarea uneia dintre cele… .... https:// pentruoameni.ro/more-networkin g-10-ani-printr-o-conferinta-despre-puterea-conexiunilor-si-comunitatilor/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@pentruoameni/116169838098740967",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@pentruoameni/115694382591635934",
       "date": "Wed, 10 Dec 2025 08:42:59 +0000",
       "content": "Fotografia reprezintă arta de a imortaliza momente, emoții și povești într-o singură imagine. Un fotograf talentat poate transforma o zi obișnuită într-o poveste fascinantă, iar Alex Bogdan ( https://www. abfoto.ro ) este un maestru în această artă. Cu un portofoliu impresionant și o abordare unică, el aduce la viață nunți și evenimente speciale într-un mod captivant.O Pasiune Transformată… .... https:// pentruoameni.ro/ilustrand-iubi rea-in-fotografia-de-nunta/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@pentruoameni/115694382486686451",
-      "date": "Wed, 10 Dec 2025 08:42:58 +0000",
-      "content": "Zilele de 15 și 16 noiembrie 2025 au adus o emoție pură și o lecție de neuitat la Circul Metropolitan București, unde a avut loc cea de-a XXVII-a ediție a CONIL Fest – Festivalul Integrării, sub tema profundă: „Dincolo de Diferențe”. Evenimentul nu a fost doar un spectacol, ci o celebrare vibrantă a incluziunii, diversității… .... https:// pentruoameni.ro/conil-fest-202 5-editia-a-xxvii-a-a-festivalului-integrari/"
     }
   ]
 }

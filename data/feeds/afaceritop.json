@@ -4,8 +4,14 @@
   "site_feed": "https://afaceritop.ro/feed/",
   "mastodon": "https://social.5th.ro/@afaceri_top",
   "mastodon_rss": "https://social.5th.ro/@afaceri_top.rss",
-  "updated_at": "2026-03-04T19:06:52Z",
+  "updated_at": "2026-03-04T19:50:20Z",
   "site_posts": [
+    {
+      "title": "MORE Networking – 10 ani printr-o conferință despre puterea conexiunilor și comunităților",
+      "link": "https://afaceritop.ro/more-networking-10-ani-printr-o-conferinta-despre-puterea-conexiunilor-si-comunitatilor/",
+      "date": "Wed, 04 Mar 2026 17:25:14 +0000",
+      "summary": "MORE Networking celebrează 10 ani printr-o conferință despre puterea conexiunilor și comunităților O zi intensă de discuții, paneluri și networking dedicată liderilor de comunități, antreprenorilor și managerilor. Pe 26 martie 2026, la Aurrum Palace, are loc Conferința Anuală MORE Networking 2026 &#8211; o ediție specială care marchează 10 ani de la lansarea uneia dintre cele [&#8230;] Articolul MORE Networking &#8211; 10 ani printr-o conferință despre puterea conexiunilor și comunităților apare prima dată în Afaceri TOP ."
+    },
     {
       "title": "De la trusou de serie la trusou cu identitate proprie",
       "link": "https://afaceritop.ro/de-la-trusou-de-serie-la-trusou-cu-identitate-proprie/",
@@ -59,15 +65,15 @@
       "link": "https://afaceritop.ro/rotile-de-motocultor-pot-fi-un-indicator-al-unei-afaceri-agricole-de-top/",
       "date": "Mon, 12 Jan 2026 05:20:17 +0000",
       "summary": "&#160; Rotile de motocultor pot fi un bun indicator al unei afaceri agricole de top. In agricultura, performanta nu se masoara doar in suprafete cultivate sau recolte obtinute, ci si in modul in care sunt utilizate si intretinute echipamentele. Rotile de motocultor spun o poveste clara despre ritmul de lucru, investitiile facute si seriozitatea unei [&#8230;] Articolul Rotile de motocultor pot fi un indicator al unei afaceri agricole de top! apare prima dată în Afaceri TOP ."
-    },
-    {
-      "title": "Cum alegi un Mastodon WordPress plugin potrivit pentru site-ul tău",
-      "link": "https://afaceritop.ro/cum-alegi-un-mastodon-wordpress-plugin-potrivit-pentru-site-ul-tau/",
-      "date": "Wed, 17 Dec 2025 16:58:54 +0000",
-      "summary": "Fediverse este noul peisaj digital. Platformele sociale descentralizate câștigă tot mai mult teren, oferind o alternativă etică și transparentă la giganții centralizați. Dacă dețineți un site construit pe cea mai populară platformă de blogging, WordPress, probabil vă întrebați cum puteți face tranziția lină și eficientă. Vreți să ajungeți la comunitățile noi fără eforturi suplimentare de [&#8230;] Articolul Cum alegi un Mastodon WordPress plugin potrivit pentru site-ul tău apare prima dată în Afaceri TOP ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@afaceri_top/116172547291218882",
+      "date": "Wed, 04 Mar 2026 19:26:33 +0000",
+      "content": "MORE Networking celebrează 10 ani printr-o conferință despre puterea conexiunilor și comunităților O zi intensă de discuții, paneluri și networking dedicată liderilor de comunități, antreprenorilor și managerilor. Pe 26 martie 2026, la Aurrum Palace, are loc Conferința Anuală MORE Networking 2026 – o ediție specială care marchează 10 ani de la lansarea uneia dintre cele… https:// afaceritop.ro/more-networking- 10-ani-printr-o-conferinta-despre-puterea-conexiunilor-si-comunitatilor/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@afaceri_top/116170638039424097",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@afaceri_top/115706093521055460",
       "date": "Fri, 12 Dec 2025 10:21:14 +0000",
       "content": "AI poate ajusta modul de funcționare al electrocasnicelor pentru a reduce consumul de energie. Procesul este automat și se bazează pe date reale din utilizare.1. Ce este optimizarea consumului cu AIOptimizarea consumului cu AI este un sistem care analizează modul de funcționare al aparatelor și ajustează parametrii pentru o eficienta energetica mai bună. Tehnologiile AI… https:// afaceritop.ro/cum-optimizeaza- ai-consumul-de-energie-in-aparatele-samsung/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@afaceri_top/115706093324927374",
-      "date": "Fri, 12 Dec 2025 10:21:11 +0000",
-      "content": "Te-ai săturat să publici articole pe blog care par să dispară în neant? Investești timp, efort și resurse în conținut SEO, dar rezultatele rămân neclare și greu de justificat? Atenție: Mulți marketeri se concentrează exclusiv pe volume mari de click-uri. Această abordare este depășită. Obținerea unui trafic organic impresionant este doar jumătatea ecuației. Dacă vizitatorii… https:// afaceritop.ro/cum-masori-perfo rmanta-articolelor-seo-in-2025-kpi-esentiali/"
     }
   ]
 }

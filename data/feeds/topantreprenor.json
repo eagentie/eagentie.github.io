@@ -4,8 +4,14 @@
   "site_feed": "https://topantreprenor.ro/feed/",
   "mastodon": "https://social.5th.ro/@topantreprenor",
   "mastodon_rss": "https://social.5th.ro/@topantreprenor.rss",
-  "updated_at": "2026-03-04T19:07:45Z",
+  "updated_at": "2026-03-04T19:51:15Z",
   "site_posts": [
+    {
+      "title": "MORE Networking – 10 ani printr-o conferință despre puterea conexiunilor și comunităților",
+      "link": "https://topantreprenor.ro/more-networking-10-ani-printr-o-conferinta-despre-puterea-conexiunilor-si-comunitatilor/",
+      "date": "Wed, 04 Mar 2026 17:29:41 +0000",
+      "summary": "MORE Networking celebrează 10 ani printr-o conferință despre puterea conexiunilor și comunităților O zi intensă de discuții, paneluri și networking dedicată liderilor de comunități, antreprenorilor și managerilor. Pe 26 martie 2026, la Aurrum Palace, are loc Conferința Anuală MORE Networking 2026 &#8211; o ediție specială care marchează 10 ani de la lansarea uneia dintre cele [&#8230;] The post MORE Networking &#8211; 10 ani printr-o conferință despre puterea conexiunilor și comunităților appeared first on Top Antreprenor ."
+    },
     {
       "title": "România de facto: realități și perspective 2026",
       "link": "https://topantreprenor.ro/romania-de-facto-realitati-si-perspective-2026/",
@@ -59,15 +65,15 @@
       "link": "https://topantreprenor.ro/lucrezi-cu-fonduri-proprii-de-ce-ai-nevoie-de-un-diriginte-de-santier-chiar-daca-legea-nu-te-obliga/",
       "date": "Thu, 15 Jan 2026 11:07:44 +0000",
       "summary": "Când începi să construiești pe cont propriu, ai impresia că totul e sub control: ai ales echipa, ai planul în mână, bugetul calculat, și te bazezi pe bună-credință. Dar realitatea din teren arată altfel. În lipsa unei persoane care să vegheze constant la calitate, fiecare pas greșit se poate transforma într-un viciu de construcție, o [&#8230;] The post Lucrezi cu fonduri proprii? De ce ai nevoie de un diriginte de șantier chiar dacă legea nu te obligă appeared first on Top Antreprenor ."
-    },
-    {
-      "title": "De ce să cumperi un Workstation refurbished în detrimentul unuia nou?",
-      "link": "https://topantreprenor.ro/de-ce-sa-cumperi-un-workstation-refurbished-in-detrimentul-unuia-nou/",
-      "date": "Sat, 10 Jan 2026 22:12:00 +0000",
-      "summary": "&#206;n lumea profesioniștilor din domeniile creative și tehnice &#8211; fie că vorbim despre arhitecți, ingineri, editori video, designeri grafici sau analiști de date &#8211; puterea de calcul nu este un moft, ci o necesitate absolută. Timpul &#238;nseamnă bani, iar un calculator care se blochează &#238;n timpul unei randări 3D sau care procesează greoi un set [&#8230;] The post De ce să cumperi un Workstation refurbished în detrimentul unuia nou? appeared first on Top Antreprenor ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@topantreprenor/116172616159526113",
+      "date": "Wed, 04 Mar 2026 19:44:04 +0000",
+      "content": "📰MORE Networking celebrează 10 ani printr-o conferință despre puterea conexiunilor și comunităților O zi intensă de discuții, paneluri și networking dedicată liderilor de comunități, antreprenorilor și managerilor. Pe 26 martie 2026, la Aurrum Palace, are loc Conferința Anuală MORE Networking 2026 – o ediție specială care marchează 10 ani de la lansarea uneia dintre cele… 🌐 https:// topantreprenor.ro/more-network ing-10-ani-printr-o-conferinta-despre-puterea-conexiunilor-si-comunitatilor/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@topantreprenor/116130779023474199",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@topantreprenor/115859640594111523",
       "date": "Thu, 08 Jan 2026 13:10:16 +0000",
       "content": "📰Într-o piață în care fiecare client vrea servicii rapide, eficiente și impecabile, produsul pe care îl folosești poate face diferența între o spălătorie plină și una care abia supraviețuiește. Spuma activă auto nu e doar un simplu detergent – este primul contact real al clientului cu serviciul tău. Iar dacă nu impresionează de la primul… 🌐 https:// topantreprenor.ro/de-ce-aleg-a ntreprenorii-spuma-activa-auto-profesionala/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@topantreprenor/115801434970274546",
-      "date": "Mon, 29 Dec 2025 06:27:49 +0000",
-      "content": "📰Cei mai mulți antreprenori își încep drumul cu o idee. În cazul Power Move Logistics, începutul a pornit dintr-o observație simplă: oamenii se mută des, iar serviciile din piață nu reușeau să țină pasul. Bucureștiul creștea, cartiere noi se ridicau rapid, iar volumul de mutări nu era acoperit de echipe pregătite pentru ritmul orașului.Fondatorul Power… 🌐 https:// topantreprenor.ro/povestea-pow er-move-logistics-cum-a-ajuns-o-echipa-de-mutari-sa-devina-un-nume-puternic-in-bucuresti/"
     }
   ]
 }
