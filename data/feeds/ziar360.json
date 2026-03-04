@@ -4,8 +4,14 @@
   "site_feed": "https://ziar360.ro/feed/",
   "mastodon": "https://social.5th.ro/@ziar360",
   "mastodon_rss": "https://social.5th.ro/@ziar360.rss",
-  "updated_at": "2026-03-04T19:50:26Z",
+  "updated_at": "2026-03-04T20:48:50Z",
   "site_posts": [
+    {
+      "title": "Monitorizare GPS în timp real: ce este și cum te ajută zi de zi?",
+      "link": "https://ziar360.ro/monitorizare-gps-in-timp-real-ce-este-si-cum-te-ajuta-zi-de-zi/",
+      "date": "Wed, 04 Mar 2026 20:01:10 +0000",
+      "summary": "Ți s-a întâmplat să pierzi de minute doar ca să afli „unde e mașina” sau „când ajunge colegul”? Sistemele de monitorizare GPS în timp real rezolvă exact genul ăsta de problemă, dar partea interesantă e alta: după ce ai vizibilitate, apar rapid și economiile — kilometri inutili, timp mort, opriri neplanificate, rute ocolitoare. Monitorizare GPS [&#8230;] The post Monitorizare GPS în timp real: ce este și cum te ajută zi de zi? appeared first on Ziar 360 ."
+    },
     {
       "title": "MORE Networking – 10 ani printr-o conferință despre puterea conexiunilor și comunităților",
       "link": "https://ziar360.ro/more-networking-10-ani-printr-o-conferinta-despre-puterea-conexiunilor-si-comunitatilor/",
@@ -59,15 +65,15 @@
       "link": "https://ziar360.ro/idei-de-cadouri-personalizate-pentru-copii-care-aduc-emotie-si-surpriza/",
       "date": "Thu, 08 Jan 2026 14:14:44 +0000",
       "summary": "De fiecare dată când vine vorba de ales un cadou pentru un copil drag, parcă intrăm în același film: rafturi pline, culori peste culori, jucării care lucesc impresionant cinci minute… și apoi dispar undeva pe fundul cutiei. Într-o lume în care totul e „de serie”, parcă simțim tot mai tare nevoia unui cadou care chiar [&#8230;] The post Idei de cadouri personalizate pentru copii care aduc emoție și surpriză appeared first on Ziar 360 ."
-    },
-    {
-      "title": "Cum să obții cafea de calitate chiar la tine acasă cu espressorul manual de la Coffee Gear",
-      "link": "https://ziar360.ro/cum-sa-obtii-cafea-de-calitate-chiar-la-tine-acasa-cu-espressorul-manual-de-la-coffee-gear/",
-      "date": "Fri, 19 Dec 2025 14:45:45 +0000",
-      "summary": "Cafeaua bună nu începe în ceașcă, ci în deciziile mici pe care le iei înainte să apeși prima dată pe manetă. Un espressor manual te obligă să fii atent, iar asta este, paradoxal, cel mai mare avantaj. Alegi boabele, controlezi măcinarea, dozezi, tasezi și urmărești extracția secundă cu secundă. Când faci totul cu mâna ta, [&#8230;] The post Cum să obții cafea de calitate chiar la tine acasă cu espressorul manual de la Coffee Gear appeared first on Ziar 360 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@ziar360/116172683563451217",
+      "date": "Wed, 04 Mar 2026 20:01:13 +0000",
+      "content": "📄Ți s-a întâmplat să pierzi de minute doar ca să afli „unde e mașina” sau „când ajunge colegul”? Sistemele de monitorizare GPS în timp real rezolvă exact genul ăsta de problemă, dar partea interesantă e alta: după ce ai vizibilitate, apar rapid și economiile — kilometri inutili, timp mort, opriri neplanificate, rute ocolitoare. Monitorizare GPS… 🌐 https:// ziar360.ro/monitorizare-gps-in -timp-real-ce-este-si-cum-te-ajuta-zi-de-zi/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@ziar360/116172622526810631",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@ziar360/115736665405988526",
       "date": "Wed, 17 Dec 2025 19:56:04 +0000",
       "content": "📄Te-ai săturat de algoritmii care decid ce vezi? Vrei să te alături unui spațiu digital unde autenticitatea primează, iar discuțiile sunt reale? Fediverse, și în special ecosistemul local, oferă exact această oportunitate. Să te integrezi în mastodon romania poate părea la început complicat. Dar nu este deloc așa! Esența rețelei stă în calitatea fiecărei conversație.… 🌐 https:// ziar360.ro/cum-sa-incepi-o-con versatie-in-mastodon-romania-fara-sa-deranjezi/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@ziar360/115735714317005667",
-      "date": "Wed, 17 Dec 2025 15:54:11 +0000",
-      "content": "📄Momentul în care decizi să faci pasul către pescuitul la crap dedicat este unul plin de entuziasm, dar și de o ușoară confuzie. Lumea acestui stil de pescuit este vastă, plină de terminologii tehnice, specificații inginerești și o varietate copleșitoare de echipamente. Totuși, nimic nu se compară cu acea primă trăsătură violentă, când senzorul țipă… 🌐 https:// ziar360.ro/cum-iti-alegi-prime le-mulinete-de-crap-pentru-sesiuni-de-neuitat-pe-balta/"
     }
   ]
 }
