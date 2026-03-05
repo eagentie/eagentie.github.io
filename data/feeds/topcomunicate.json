@@ -4,8 +4,14 @@
   "site_feed": "https://topcomunicate.ro/feed/",
   "mastodon": "https://social.5th.ro/@topcomunicate_ro",
   "mastodon_rss": "https://social.5th.ro/@topcomunicate_ro.rss",
-  "updated_at": "2026-03-05T11:47:44Z",
+  "updated_at": "2026-03-05T13:36:14Z",
   "site_posts": [
+    {
+      "title": "De ce apa caldă schimbă complet experiența într-o rulotă",
+      "link": "https://topcomunicate.ro/de-ce-apa-calda-schimba-complet-experienta-intr-o-rulota/",
+      "date": "Thu, 05 Mar 2026 12:18:11 +0000",
+      "summary": "Cei care călătoresc frecvent cu rulota sau autorulota spun adesea că libertatea este principalul motiv pentru care... The post De ce apa caldă schimbă complet experiența într-o rulotă appeared first on Comunicate de presa ."
+    },
     {
       "title": "Contor electric trifazat: când „trifazicul” devine subiect de factură, nu de jargon",
       "link": "https://topcomunicate.ro/contor-electric-trifazat-cand-trifazicul-devine-subiect-de-factura-nu-de-jargon/",
@@ -71,15 +77,15 @@
       "link": "https://topcomunicate.ro/solutii-ambalare-pentru-produsele-alimentare/",
       "date": "Mon, 02 Feb 2026 20:07:44 +0000",
       "summary": "Ambalajul este primul echipament de protecție al unui produs alimentar și, în același timp, cartea lui de... The post Soluții ambalare pentru produsele alimentare appeared first on Comunicate de presa ."
-    },
-    {
-      "title": "5 tipuri despre cum să captezi atenția prin conținut în 2026",
-      "link": "https://topcomunicate.ro/5-tipuri-despre-cum-sa-captezi-atentia-prin-continut-in-2026/",
-      "date": "Mon, 02 Feb 2026 10:03:30 +0000",
-      "summary": "În 2026, competiția pentru atenția publicului este mai mare ca niciodată. Algoritmii evoluează, publicul devine mai selectiv,... The post 5 tipuri despre cum să captezi atenția prin conținut în 2026 appeared first on Comunicate de presa ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@topcomunicate_ro/116176525290001092",
+      "date": "Thu, 05 Mar 2026 12:18:13 +0000",
+      "content": "⭐ Cei care călătoresc frecvent cu rulota sau autorulota spun adesea că libertatea este principalul motiv pentru care au ales acest stil de vacanță. Libertatea de a schimba traseul în orice moment, de a rămâne într-un loc mai mult decât ai planificat sau de a descoperi locuri în care hotelurile și pensiunile nici măcar nu există.… 🔗 Mai mult: https:// topcomunicate.ro/de-ce-apa-cal da-schimba-complet-experienta-intr-o-rulota/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@topcomunicate_ro/116137855376299931",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@topcomunicate_ro/116016842924282645",
       "date": "Thu, 05 Feb 2026 07:28:53 +0000",
       "content": "⭐ Sistemul de aer condiționat este considerat de mulți șoferi doar o facilitate de confort pentru zilele toride de vară. În realitate, acesta joacă un rol crucial în siguranța pasagerilor și în menținerea sănătății. Un sistem neîngrijit devine rapid un incubator perfect pentru bacterii, ciuperci și mucegaiuri, care sunt apoi suflate direct în plămânii celor din… 🔗 Mai mult: https:// topcomunicate.ro/cum-sa-intret ii-sistemul-de-climatizare-pentru-a-respira-aer-curat-in-masina-tot-anul/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@topcomunicate_ro/116002839986185872",
-      "date": "Mon, 02 Feb 2026 20:07:46 +0000",
-      "content": "⭐ Ambalajul este primul echipament de protecție al unui produs alimentar și, în același timp, cartea lui de vizită. De la prospețime și siguranță, până la transport și percepția consumatorului, soluțiile de ambalare joacă un rol esențial într-o industrie unde fiecare detaliu contează.și ajung în bucătăria ta în stare excelentă, în timp ce altele par că… 🔗 Mai mult: https:// topcomunicate.ro/solutii-ambal are-pentru-produsele-alimentare/"
     }
   ]
 }
