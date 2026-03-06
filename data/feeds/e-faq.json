@@ -4,8 +4,14 @@
   "site_feed": "https://e-faq.ro/feed/",
   "mastodon": "https://social.5th.ro/@efaq",
   "mastodon_rss": "https://social.5th.ro/@efaq.rss",
-  "updated_at": "2026-03-06T14:57:27Z",
+  "updated_at": "2026-03-06T15:54:39Z",
   "site_posts": [
+    {
+      "title": "Rolul unui soft de gestiune hotelieră în fidelizarea clienților",
+      "link": "https://e-faq.ro/rolul-unui-soft-de-gestiune-hoteliera-in-fidelizarea-clientilor/",
+      "date": "Fri, 06 Mar 2026 15:24:52 +0000",
+      "summary": "Un soft de gestiune hotelieră nu înlocuiește rolul personalului și nici nu acoperă integral toate [&#8230;] Articolul Rolul unui soft de gestiune hotelieră în fidelizarea clienților apare prima dată în FAQ - Intrebari Frecvente ."
+    },
     {
       "title": "De ce site-ul tău WordPress are nevoie de îngrijire constantă",
       "link": "https://e-faq.ro/de-ce-site-ul-tau-wordpress-are-nevoie-de-ingrijire-constanta/",
@@ -53,15 +59,15 @@
       "link": "https://e-faq.ro/liste-filtre-si-muting-cum-iti-cureti-feed-ul-pe-mastodon/",
       "date": "Wed, 17 Dec 2025 16:58:54 +0000",
       "summary": "V-ați săturat de zgomotul constant și de algoritmii agresivi care vă dictează ce vedeți în [&#8230;] Articolul Liste, filtre și muting: cum îți cureți feed-ul pe Mastodon apare prima dată în FAQ - Intrebari Frecvente ."
-    },
-    {
-      "title": "Plante utile pentru îmbunătățirea digestiei",
-      "link": "https://e-faq.ro/plante-utile-pentru-imbunatatirea-digestiei/",
-      "date": "Fri, 05 Dec 2025 18:06:16 +0000",
-      "summary": "Digestia poate fi afectată de alimentație neregulată, stres, mese grele sau sensibilitate gastro-intestinală. Fitoterapia oferă [&#8230;] Articolul Plante utile pentru îmbunătățirea digestiei apare prima dată în FAQ - Intrebari Frecvente ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@efaq/116182921743102447",
+      "date": "Fri, 06 Mar 2026 15:24:55 +0000",
+      "content": "🚀 Un soft de gestiune hotelieră nu înlocuiește rolul personalului și nici nu acoperă integral toate procesele operaționale sau de marketing, însă poate facilita anumite activități importante. De la centralizarea rezervărilor și urmărirea istoricului oaspeților, până la crearea de oferte sau promoții, aceste soluții sprijină gestionarea anumitor aspecte și oferă mai multă claritate în evidența 🔗 Mai mult: https:// e-faq.ro/rolul-unui-soft-de-ge stiune-hoteliera-in-fidelizarea-clientilor/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@efaq/116130137338151673",
@@ -127,12 +133,6 @@
       "link": "https://social.5th.ro/@efaq/115687016603054925",
       "date": "Tue, 09 Dec 2025 01:29:43 +0000",
       "content": "🚀 Să recunoaștem: când vezi copilul încurcat de o piesă, tentația să te bagi și să o pui tu e… uriașă. Dar adevărata magie a puzzle-urilor nu stă în imaginea finală, ci în drumul până acolo – cu încercări, greșeli și mici victorii personale. Așadar, cum îl poți ajuta pe cel mic fără să preiei controlul?… # puzzle100piese # puzzlepentru23ani 🔗 Complet aici: https:// e-faq.ro/cum-sa-iti-ajuti-copi lul-sa-rezolve-un-puzzle-fara-sa-i-strici-distractia/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@efaq/115687016458573249",
-      "date": "Tue, 09 Dec 2025 01:29:41 +0000",
-      "content": "🚀 Tehnologia nu mai este doar un instrument de sprijin: a devenit structura de bază a societăților noastre. În multe domenii, de la explorarea științifică la divertisment, astăzi ar fi imposibil să ne întoarcem înapoi. Evoluția digitală a transformat nu doar modul în care lucrăm, ci și felul în care ne distrăm, ne îngrijim, învățăm și… 🔗 Complet aici: https:// e-faq.ro/tehnologia-ca-necesit ate-cotidiana-digitalul-nu-mai-este-o-optiune/"
     }
   ]
 }
