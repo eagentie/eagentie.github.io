@@ -4,8 +4,14 @@
   "site_feed": "https://brasov-azi.ro/feed/",
   "mastodon": "https://social.5th.ro/@brasov",
   "mastodon_rss": "https://social.5th.ro/@brasov.rss",
-  "updated_at": "2026-03-09T17:59:44Z",
+  "updated_at": "2026-03-09T19:09:53Z",
   "site_posts": [
+    {
+      "title": "Închirieri auto Cluj: cum gestionezi o perioadă incertă și data de retur",
+      "link": "https://brasov-azi.ro/inchirieri-auto-cluj-cum-gestionezi-o-perioada-incerta-si-data-de-retur/",
+      "date": "Fri, 06 Mar 2026 22:34:00 +0000",
+      "summary": "C&#226;nd programul se schimbă de la o zi la alta, mobilitatea devine esențială. &#206;n Cluj-Napoca, &#238;nt&#226;lnirile de business se pot prelungi, planurile de weekend se pot schimba din mers, iar zborurile pot avea &#238;nt&#226;rzieri sau reprogramări. &#206;n astfel de situații,... Articolul Închirieri auto Cluj: cum gestionezi o perioadă incertă și data de retur apare prima dată în Brasov AZI ."
+    },
     {
       "title": "Ce responsabilități ai ca șofer de autobuz? Merită să obții permisul categoria D?",
       "link": "https://brasov-azi.ro/ce-responsabilitati-ai-ca-sofer-de-autobuz-merita-sa-obtii-permisul-categoria-d/",
@@ -71,15 +77,15 @@
       "link": "https://brasov-azi.ro/valea-zimbrilor-vama-buzaului-program-bilete-si-cum-ajungi-usor-in-2026/",
       "date": "Sat, 31 Jan 2026 05:45:45 +0000",
       "summary": "Rezervația Valea Zimbrilor din Vama Buzăului oferă o experiență unică de întâlnire cu bizonul european (zimbru), fiind dedicată conservării speciei. Articolul Valea Zimbrilor (Vama Buzăului): program, bilete și cum ajungi ușor în 2026 apare prima dată în Brasov AZI ."
-    },
-    {
-      "title": "O bijuterie arhitecturală a Brașovului: Strada Sforii, cel mai îngust și pitoresc pasaj urban",
-      "link": "https://brasov-azi.ro/o-bijuterie-arhitecturala-a-brasovului-strada-sforii-cel-mai-ingust-si-pitoresc-pasaj-urban/",
-      "date": "Fri, 30 Jan 2026 21:53:04 +0000",
-      "summary": "Strada Sforii din Brașov este cel mai îngust pasaj pietonal din România, un reper medieval ideal pentru o vizită scurtă și fotografii unice. Articolul O bijuterie arhitecturală a Brașovului: Strada Sforii, cel mai îngust și pitoresc pasaj urban apare prima dată în Brasov AZI ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@brasov/116200746574098213",
+      "date": "Mon, 09 Mar 2026 18:58:00 +0000",
+      "content": "Când programul se schimbă de la o zi la alta, mobilitatea devine esențială. În Cluj-Napoca, întâlnirile de business se pot prelungi, planurile de weekend se pot schimba din mers, iar zborurile pot avea întârzieri sau reprogramări. În astfel de situații, serviciile de închirieri auto Cluj sunt una dintre cele mai simple soluții ca să-ți păstrezi… https:// brasov-azi.ro/inchirieri-auto- cluj-cum-gestionezi-o-perioada-incerta-si-data-de-retur/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@brasov/116166259674445288",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@brasov/115988605087791696",
       "date": "Sat, 31 Jan 2026 07:47:38 +0000",
       "content": "Rezervația Valea Zimbrilor din Vama Buzăului oferă o experiență unică de întâlnire cu bizonul european (zimbru), fiind dedicată conservării speciei. https:// brasov-azi.ro/valea-zimbrilor- vama-buzaului-program-bilete-si-cum-ajungi-usor-in-2026/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@brasov/115986744464923089",
-      "date": "Fri, 30 Jan 2026 23:54:27 +0000",
-      "content": "Strada Sforii din Brașov este cel mai îngust pasaj pietonal din România, un reper medieval ideal pentru o vizită scurtă și fotografii unice. https:// brasov-azi.ro/o-bijuterie-arhi tecturala-a-brasovului-strada-sforii-cel-mai-ingust-si-pitoresc-pasaj-urban/"
     }
   ]
 }

@@ -4,8 +4,14 @@
   "site_feed": "https://prbusiness.ro/feed/",
   "mastodon": "https://social.5th.ro/@prbusiness",
   "mastodon_rss": "https://social.5th.ro/@prbusiness.rss",
-  "updated_at": "2026-03-09T18:00:16Z",
+  "updated_at": "2026-03-09T19:10:25Z",
   "site_posts": [
+    {
+      "title": "Închirieri auto Cluj-Napoca: ce mașină alegi în oraș",
+      "link": "https://prbusiness.ro/inchirieri-auto-cluj-napoca-ce-masina-alegi-in-oras/",
+      "date": "Wed, 04 Mar 2026 18:55:00 +0000",
+      "summary": "Cluj-Napoca este un oraș al contrastelor: străzi medievale &#238;nguste &#238;n zona centrală, bulevarde largi, dar foarte aglomerate &#238;n The post Închirieri auto Cluj-Napoca: ce mașină alegi în oraș appeared first on PR Business ."
+    },
     {
       "title": "Tehnologie cu suflet: Asociatia CONIL a facut pasul spre digitalizare prin PNRR pentru a fi mai aproape de copiii cu nevoi speciale",
       "link": "https://prbusiness.ro/tehnologie-cu-suflet-asociatia-conil-a-facut-pasul-spre-digitalizare-prin-pnrr-pentru-a-fi-mai-aproape-de-copiii-cu-nevoi-speciale/",
@@ -71,15 +77,15 @@
       "link": "https://prbusiness.ro/unde-gasesti-romani-pe-mastodon-hashtaguri-si-instante-utile/",
       "date": "Wed, 17 Dec 2025 16:58:54 +0000",
       "summary": "Te-ai săturat de algoritmi care decid ce informație ajunge la tine? Ești obosit de rețelele sociale centralizate care The post Unde găsești români pe Mastodon: hashtaguri și instanțe utile appeared first on PR Business ."
-    },
-    {
-      "title": "Mixit aduce gustări festive pentru petrecerea de Revelion",
-      "link": "https://prbusiness.ro/mixit-aduce-gustari-festive-pentru-petrecerea-de-revelion/",
-      "date": "Wed, 17 Dec 2025 07:26:12 +0000",
-      "summary": "&#160; &#160; Revelionul &#238;nseamnă mese festive, &#238;nt&#226;lniri cu prietenii și seri care se prelungesc mult după miezul nopții, The post Mixit aduce gustări festive pentru petrecerea de Revelion appeared first on PR Business ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@prbusiness/116200768904761538",
+      "date": "Mon, 09 Mar 2026 19:03:41 +0000",
+      "content": "Cluj-Napoca este un oraș al contrastelor: străzi medievale înguste în zona centrală, bulevarde largi, dar foarte aglomerate în cartierele Mărăști sau Mănăștur și o infrastructură în continuă dezvoltare. Uneori, ai nevoie de o mașină doar ca să-ți iasă ziua așa cum ai plănuit-o, fără să depinzi de capriciile vremii sau de timpii de așteptare ai… .... Read more at: https:// prbusiness.ro/inchirieri-auto- cluj-napoca-ce-masina-alegi-in-oras/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@prbusiness/116131828568373415",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@prbusiness/115736652951478232",
       "date": "Wed, 17 Dec 2025 19:52:54 +0000",
       "content": "Te-ai săturat de algoritmi care decid ce informație ajunge la tine? Ești obosit de rețelele sociale centralizate care îți monetizează fiecare clic și interacțiune? A sosit momentul să descoperi Fediverse. Acesta este un spațiu online nou, autentic, unde libertatea de exprimare este prioritară. Mastodon, pilonul acestei rețele descentralizate, devine rapid locul unde poți găsi discuții… .... More details at: https:// prbusiness.ro/unde-gasesti-rom ani-pe-mastodon-hashtaguri-si-instante-utile/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@prbusiness/115734214719950476",
-      "date": "Wed, 17 Dec 2025 09:32:49 +0000",
-      "content": "Revelionul înseamnă mese festive, întâlniri cu prietenii și seri care se prelungesc mult după miezul nopții, iar gustările joacă un rol tot mai important în completarea meniului clasic. Pentru cei care caută alternative ușor de servit și potrivite pentru preferințe diferite, Mixit propune selecția „Gustări festive” – o colecție de texturi crocante și… .... Read more at: https:// prbusiness.ro/mixit-aduce-gust ari-festive-pentru-petrecerea-de-revelion/"
     }
   ]
 }
