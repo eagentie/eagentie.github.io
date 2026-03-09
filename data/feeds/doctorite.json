@@ -4,8 +4,14 @@
   "site_feed": "https://doctorite.ro/feed/",
   "mastodon": "https://social.5th.ro/@DoctoriteBlog",
   "mastodon_rss": "https://social.5th.ro/@DoctoriteBlog.rss",
-  "updated_at": "2026-03-09T13:40:54Z",
+  "updated_at": "2026-03-09T15:10:25Z",
   "site_posts": [
+    {
+      "title": "Rolul magneziului în sănătatea oaselor și prevenirea osteoporozei",
+      "link": "https://doctorite.ro/rolul-magneziului-in-sanatatea-oaselor-si-prevenirea-osteoporozei/",
+      "date": "Mon, 09 Mar 2026 13:50:42 +0000",
+      "summary": "Magneziul are un rol crucial, adesea trecut cu vederea, în menținerea sănătății oaselor și prevenirea... Articolul Rolul magneziului în sănătatea oaselor și prevenirea osteoporozei apare prima dată în Doctorite ."
+    },
     {
       "title": "Cotele Dunării la Cernavodă în 2026: nivelul apei azi, grafic și tendințe",
       "link": "https://doctorite.ro/cotele-dunarii-la-cernavoda-in-2026-nivelul-apei-azi-grafic-si-tendinte/",
@@ -59,15 +65,15 @@
       "link": "https://doctorite.ro/de-ce-combinatiile-sunt-importante-pentru-magneziu/",
       "date": "Thu, 04 Dec 2025 18:58:45 +0000",
       "summary": "Magneziul este un mineral esențial implicat în sute de procese biochimice din organism, inclusiv funcționarea... Articolul De ce combinațiile sunt importante pentru magneziu apare prima dată în Doctorite ."
-    },
-    {
-      "title": "Sinergiile nutrienților: de ce combinațiile contează pentru Omega-3",
-      "link": "https://doctorite.ro/sinergiile-nutrientilor-de-ce-combinatiile-conteaza-pentru-omega-3/",
-      "date": "Thu, 04 Dec 2025 17:50:37 +0000",
-      "summary": "Acizii grași Omega-3 sunt esențiali pentru sănătatea cardiovasculară, funcția cerebrală și controlul inflamației. Totuși, eficiența... Articolul Sinergiile nutrienților: de ce combinațiile contează pentru Omega-3 apare prima dată în Doctorite ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@DoctoriteBlog/116199538344157971",
+      "date": "Mon, 09 Mar 2026 13:50:44 +0000",
+      "content": "Magneziul are un rol crucial, adesea trecut cu vederea, în menținerea sănătății oaselor și prevenirea osteoporozei. Deși calciul este, de obicei, vedetă când vine vorba de sănătatea oaselor, importanța magneziului nu poate fi subestimată. Prin contribuția sa la mineralizarea oaselor, sinteza proteinelor și reglarea altor nutrienți vitali, magneziul este un element cheie pentru a susține… https:// doctorite.ro/rolul-magneziului -in-sanatatea-oaselor-si-prevenirea-osteoporozei/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@DoctoriteBlog/116063012516005284",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@DoctoriteBlog/115689902968703482",
       "date": "Tue, 09 Dec 2025 13:43:46 +0000",
       "content": "Una dintre cele mai frustrante experiențe pentru cineva cu dermatită seboreică este aceeași poveste repetată: găsești un tratament, vezi rezultate rapide, iar apoi, la câteva săptămâni, problema revine. Iar asta creează impresia că produsul „nu mai funcționează”. Dar, de fapt, dermatita nu este o problemă care se rezolvă definitiv, ci una care se gestionează în timp.… https:// doctorite.ro/de-ce-rezultatele -pentru-dermatita-seboreica-apar-si-dispar-nu-mai-functioneaza/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@DoctoriteBlog/115689880618553542",
-      "date": "Tue, 09 Dec 2025 13:38:05 +0000",
-      "content": "💉 Blog de sănătate și stil de viață explicat pe înțelesul tuturor: sfaturi medicale, prevenție, mituri demontate și recomandări pentru toată familia. # sanatate # doctorite # medicina # stildeviata 💊 https:// doctorite.ro"
     }
   ]
 }
