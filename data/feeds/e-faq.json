@@ -4,63 +4,8 @@
   "site_feed": "https://e-faq.ro/feed/",
   "mastodon": "https://social.5th.ro/@efaq",
   "mastodon_rss": "https://social.5th.ro/@efaq.rss",
-  "updated_at": "2026-03-11T17:13:19Z",
-  "site_posts": [
-    {
-      "title": "Rolul unui soft de gestiune hotelieră în fidelizarea clienților",
-      "link": "https://e-faq.ro/rolul-unui-soft-de-gestiune-hoteliera-in-fidelizarea-clientilor/",
-      "date": "Fri, 06 Mar 2026 15:24:52 +0000",
-      "summary": "Un soft de gestiune hotelieră nu înlocuiește rolul personalului și nici nu acoperă integral toate [&#8230;] Articolul Rolul unui soft de gestiune hotelieră în fidelizarea clienților apare prima dată în FAQ - Intrebari Frecvente ."
-    },
-    {
-      "title": "De ce site-ul tău WordPress are nevoie de îngrijire constantă",
-      "link": "https://e-faq.ro/de-ce-site-ul-tau-wordpress-are-nevoie-de-ingrijire-constanta/",
-      "date": "Tue, 17 Feb 2026 14:23:00 +0000",
-      "summary": "Una dintre cele mai costisitoare iluzii din mediul online este ideea că un site este [&#8230;] Articolul De ce site-ul tău WordPress are nevoie de îngrijire constantă apare prima dată în FAQ - Intrebari Frecvente ."
-    },
-    {
-      "title": "Cum reduci costurile unei închirieri auto în Cluj-Napoca fără să faci compromisuri greșite",
-      "link": "https://e-faq.ro/cum-reduci-costurile-unei-inchirieri-auto-in-cluj-napoca-fara-sa-faci-compromisuri-gresite/",
-      "date": "Tue, 17 Feb 2026 14:21:00 +0000",
-      "summary": "Preț mic nu &#238;nseamnă automat alegere bună C&#226;nd cauți servicii de &#238;nchirieri auto &#238;n Cluj-Napoca, [&#8230;] Articolul Cum reduci costurile unei închirieri auto în Cluj-Napoca fără să faci compromisuri greșite apare prima dată în FAQ - Intrebari Frecvente ."
-    },
-    {
-      "title": "Detector cabluri electrice in pereti: cum localizezi trasee ascunse fara spargeri, erori si riscuri",
-      "link": "https://e-faq.ro/detector-cabluri-electrice-in-pereti-cum-localizezi-trasee-ascunse-fara-spargeri-erori-si-riscuri/",
-      "date": "Wed, 11 Feb 2026 06:49:49 +0000",
-      "summary": "Oricine a facut renovari, instalatii electrice sau interventii in cladiri stie ca “surprizele” din pereti [&#8230;] Articolul Detector cabluri electrice in pereti: cum localizezi trasee ascunse fara spargeri, erori si riscuri apare prima dată în FAQ - Intrebari Frecvente ."
-    },
-    {
-      "title": "Zincul – proprietăți și rolul său în funcționarea normală a organismului",
-      "link": "https://e-faq.ro/zincul-proprietati-si-rolul-sau-in-functionarea-normala-a-organismului/",
-      "date": "Sun, 08 Feb 2026 15:35:12 +0000",
-      "summary": "Zincul este un oligoelement esențial care trebuie furnizat zilnic prin alimentație, deoarece organismul nu îl [&#8230;] Articolul Zincul – proprietăți și rolul său în funcționarea normală a organismului apare prima dată în FAQ - Intrebari Frecvente ."
-    },
-    {
-      "title": "Placare scară interioară cu lemn: top 10 avantaje",
-      "link": "https://e-faq.ro/placare-scara-interioara-cu-lemn-top-10-avantaje/",
-      "date": "Tue, 27 Jan 2026 05:14:12 +0000",
-      "summary": "Alegerea serviciului de placare scară interioară cu lemn e una dintre acele decizii care schimbă [&#8230;] Articolul Placare scară interioară cu lemn: top 10 avantaje apare prima dată în FAQ - Intrebari Frecvente ."
-    },
-    {
-      "title": "Unde gasesc ulei mct in Romania? – Top magazine din Romania in 2026",
-      "link": "https://e-faq.ro/unde-gasesc-ulei-mct-in-romania-top-magazine-din-romania-in-2026/",
-      "date": "Sat, 24 Jan 2026 13:11:53 +0000",
-      "summary": "Unde găsesc ulei MCT? Ghid complet pentru a alege ulei de cocos MCT de calitate în România. Transparență totală la compoziție C8/C10 și utilizare keto. Articolul Unde gasesc ulei mct in Romania? &#8211; Top magazine din Romania in 2026 apare prima dată în FAQ - Intrebari Frecvente ."
-    },
-    {
-      "title": "Parintii aleg si recomanda cresa si gradinita Taramul Cunoasterii din Bucuresti pentru educatia timpurie",
-      "link": "https://e-faq.ro/parintii-aleg-si-recomanda-cresa-si-gradinita-taramul-cunoasterii-din-bucuresti-pentru-educatia-timpurie/",
-      "date": "Thu, 22 Jan 2026 08:08:12 +0000",
-      "summary": "Alegerea primei institutii de invatamant pentru cei mici reprezinta una dintre cele mai dificile si [&#8230;] Articolul Parintii aleg si recomanda cresa si gradinita Taramul Cunoasterii din Bucuresti pentru educatia timpurie apare prima dată în FAQ - Intrebari Frecvente ."
-    },
-    {
-      "title": "Liste, filtre și muting: cum îți cureți feed-ul pe Mastodon",
-      "link": "https://e-faq.ro/liste-filtre-si-muting-cum-iti-cureti-feed-ul-pe-mastodon/",
-      "date": "Wed, 17 Dec 2025 16:58:54 +0000",
-      "summary": "V-ați săturat de zgomotul constant și de algoritmii agresivi care vă dictează ce vedeți în [&#8230;] Articolul Liste, filtre și muting: cum îți cureți feed-ul pe Mastodon apare prima dată în FAQ - Intrebari Frecvente ."
-    }
-  ],
+  "updated_at": "2026-03-11T18:04:31Z",
+  "site_posts": [],
   "mastodon_posts": [
     {
       "title": "",
