@@ -4,8 +4,14 @@
   "site_feed": "https://e-faq.ro/feed/",
   "mastodon": "https://social.5th.ro/@efaq",
   "mastodon_rss": "https://social.5th.ro/@efaq.rss",
-  "updated_at": "2026-03-16T11:12:06Z",
+  "updated_at": "2026-03-16T11:57:14Z",
   "site_posts": [
+    {
+      "title": "Lumea cărților pentru copii",
+      "link": "https://e-faq.ro/lumea-cartilor-pentru-copii/",
+      "date": "Mon, 16 Mar 2026 11:36:52 +0000",
+      "summary": "În ziua de azi se găsesc o mulțime de cărți pentru copii, povești frumoase, incredibile [&#8230;] Articolul Lumea cărților pentru copii apare prima dată în FAQ - Intrebari Frecvente ."
+    },
     {
       "title": "Rolul unui soft de gestiune hotelieră în fidelizarea clienților",
       "link": "https://e-faq.ro/rolul-unui-soft-de-gestiune-hoteliera-in-fidelizarea-clientilor/",
@@ -53,15 +59,15 @@
       "link": "https://e-faq.ro/parintii-aleg-si-recomanda-cresa-si-gradinita-taramul-cunoasterii-din-bucuresti-pentru-educatia-timpurie/",
       "date": "Thu, 22 Jan 2026 08:08:12 +0000",
       "summary": "Alegerea primei institutii de invatamant pentru cei mici reprezinta una dintre cele mai dificile si [&#8230;] Articolul Parintii aleg si recomanda cresa si gradinita Taramul Cunoasterii din Bucuresti pentru educatia timpurie apare prima dată în FAQ - Intrebari Frecvente ."
-    },
-    {
-      "title": "Liste, filtre și muting: cum îți cureți feed-ul pe Mastodon",
-      "link": "https://e-faq.ro/liste-filtre-si-muting-cum-iti-cureti-feed-ul-pe-mastodon/",
-      "date": "Wed, 17 Dec 2025 16:58:54 +0000",
-      "summary": "V-ați săturat de zgomotul constant și de algoritmii agresivi care vă dictează ce vedeți în [&#8230;] Articolul Liste, filtre și muting: cum îți cureți feed-ul pe Mastodon apare prima dată în FAQ - Intrebari Frecvente ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@efaq/116238648262487092",
+      "date": "Mon, 16 Mar 2026 11:36:54 +0000",
+      "content": "🚀 În ziua de azi se găsesc o mulțime de cărți pentru copii, povești frumoase, incredibile și pline de culoare. Întrebarea este dacă în lumea aceasta fantastică a noilor cărți pentru copii, cu subiecte actuale, culori și desene, își mai pot găsi locul și cărțile vechi? Ei bine, un schimb de experiențe între adulți și copii… 🔗 Citeste tot: https:// e-faq.ro/lumea-cartilor-pentru -copii/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@efaq/116182921743102447",
@@ -127,12 +133,6 @@
       "link": "https://social.5th.ro/@efaq/115687016721022740",
       "date": "Tue, 09 Dec 2025 01:29:45 +0000",
       "content": "🚀 Vitamina D este esențială pentru sănătatea oaselor, funcția musculară și buna funcționare a sistemului imunitar. În sezonul rece, expunerea la lumina solară se reduce semnificativ, iar sinteza cutanată a vitaminei D scade. Latitudinea, temperaturile scăzute și timpul petrecut predominant în interior fac ca aportul natural să fie insuficient. De aceea, suplimentarea devine o măsură utilă… 🔗 Complet aici: https:// e-faq.ro/de-ce-este-necesara-s uplimentarea-cu-vitamina-d-in-sezonul-rece/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@efaq/115687016603054925",
-      "date": "Tue, 09 Dec 2025 01:29:43 +0000",
-      "content": "🚀 Să recunoaștem: când vezi copilul încurcat de o piesă, tentația să te bagi și să o pui tu e… uriașă. Dar adevărata magie a puzzle-urilor nu stă în imaginea finală, ci în drumul până acolo – cu încercări, greșeli și mici victorii personale. Așadar, cum îl poți ajuta pe cel mic fără să preiei controlul?… # puzzle100piese # puzzlepentru23ani 🔗 Complet aici: https:// e-faq.ro/cum-sa-iti-ajuti-copi lul-sa-rezolve-un-puzzle-fara-sa-i-strici-distractia/"
     }
   ]
 }
