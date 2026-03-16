@@ -4,8 +4,14 @@
   "site_feed": "https://partizani.ro/feed/",
   "mastodon": "https://social.5th.ro/@Partizani",
   "mastodon_rss": "https://social.5th.ro/@Partizani.rss",
-  "updated_at": "2026-03-16T13:54:08Z",
+  "updated_at": "2026-03-16T15:19:29Z",
   "site_posts": [
+    {
+      "title": "De ce aleg tot mai multe companii să externalizeze serviciile de relații cu clienții",
+      "link": "https://partizani.ro/de-ce-aleg-tot-mai-multe-companii-sa-externalizeze-serviciile-de-relatii-cu-clientii/",
+      "date": "Mon, 16 Mar 2026 15:10:52 +0000",
+      "summary": "În ultimii ani, modul în care companiile gestionează relația cu clienții s-a schimbat semnificativ. Consumatorii se așteaptă la răspunsuri rapide, suport profesionist și soluții eficiente, indiferent de canalul de comunicare folosit. Pentru multe organizații, gestionarea internă a tuturor interacțiunilor cu clienții poate deveni costisitoare și dificil de scalat. Din acest [&#8230;] Articolul De ce aleg tot mai multe companii să externalizeze serviciile de relații cu clienții apare prima dată în Partizani ."
+    },
     {
       "title": "Pregătește-ți mașina de aventură – Ghid de verificări și echipamente esențiale",
       "link": "https://partizani.ro/pregateste-ti-masina-de-aventura-ghid-de-verificari-si-echipamente-esentiale/",
@@ -59,15 +65,15 @@
       "link": "https://partizani.ro/cum-postezi-imagini-pe-mastodon-alt-text-accesibilitate-descrieri/",
       "date": "Wed, 17 Dec 2025 16:58:54 +0000",
       "summary": "Atenție: Te-ai săturat ca postările tale să fie ignorate pe platformele sociale tradiționale? Ești un utilizator activ pe Mastodon și vrei ca mesajul tău să ajungă la cât mai multă lume? Interes: Platforma descentralizată îți oferă libertate, dar publicarea eficientă a conținutului vizual necesită o strategie bine pusă la punct. [&#8230;] Articolul Cum postezi imagini pe Mastodon: alt text, accesibilitate, descrieri apare prima dată în Partizani ."
-    },
-    {
-      "title": "Companiile și amprenta de carbon – cum reduci emisiile fără să pierzi performanța economică",
-      "link": "https://partizani.ro/companiile-si-amprenta-de-carbon-cum-reduci-emisiile-fara-sa-pierzi-performanta-economica/",
-      "date": "Wed, 17 Dec 2025 10:47:33 +0000",
-      "summary": "Sustenabilitatea nu mai este o opțiune rezervată companiilor care vor să pară „verzi”. A devenit o condiție esențială pentru competitivitate, reputație și supraviețuire pe termen lung. Reducerea amprentei de carbon nu înseamnă doar protejarea mediului, ci și creșterea eficienței, optimizarea costurilor și consolidarea încrederii clienților. Fie că deții o companie [&#8230;] Articolul Companiile și amprenta de carbon &#8211; cum reduci emisiile fără să pierzi performanța economică apare prima dată în Partizani ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@Partizani/116239489778700106",
+      "date": "Mon, 16 Mar 2026 15:10:55 +0000",
+      "content": "ℹ️În ultimii ani, modul în care companiile gestionează relația cu clienții s-a schimbat semnificativ. Consumatorii se așteaptă la răspunsuri rapide, suport profesionist și soluții eficiente, indiferent de canalul de comunicare folosit. Pentru multe organizații, gestionarea internă a tuturor interacțiunilor cu clienții poate deveni costisitoare și dificil de scalat. Din acest motiv, tot ℹ️ https:// partizani.ro/de-ce-aleg-tot-ma i-multe-companii-sa-externalizeze-serviciile-de-relatii-cu-clientii/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@Partizani/116130121926585861",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@Partizani/115694124708392134",
       "date": "Wed, 10 Dec 2025 07:37:24 +0000",
       "content": "ℹ️Ai trecut vreodată pe lângă o casă unde scara interioară pare să fure toată atenția? Treptele din lemn masiv au acel dar rar de a schimba complet percepția asupra unui spațiu, transformând un hol banal într-un loc memorabil. Hai să explorăm pas cu pas, cum reușesc să facă asta treptele din lemn masiv. Ce au… ℹ️ https:// partizani.ro/cum-transforma-tr eptele-din-lemn-masiv-aspectul-unei-case/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@Partizani/115689243660727923",
-      "date": "Tue, 09 Dec 2025 10:56:05 +0000",
-      "content": "ℹ️Plantele medicinale pot fi un sprijin valoros într-o dietă de slăbire, mai ales atunci când sunt folosite pentru a stimula metabolismul, a reduce apetitul sau a sprijini digestia. Ele nu înlocuiesc o alimentație echilibrată și mișcarea, însă pot amplifica efectele acestor obiceiuri. Multe dintre ele sunt folosite de secole în fitoterapie, datorită compușilor activi care… ℹ️ https:// partizani.ro/rolul-plantelor-i n-sustinerea-procesului-de-slabire/"
     }
   ]
 }

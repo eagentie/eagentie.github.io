@@ -4,8 +4,14 @@
   "site_feed": "https://UniversulTech.ro/feed/",
   "mastodon": "https://social.5th.ro/@UniversulTech",
   "mastodon_rss": "https://social.5th.ro/@UniversulTech.rss",
-  "updated_at": "2026-03-16T13:54:33Z",
+  "updated_at": "2026-03-16T15:19:55Z",
   "site_posts": [
+    {
+      "title": "Cum să plătești mai puțin pe asigurarea RCA",
+      "link": "https://universultech.ro/cum-sa-platesti-mai-putin-pe-asigurarea-rca/",
+      "date": "Mon, 16 Mar 2026 13:55:00 +0000",
+      "summary": "Asigurarea RCA este o cheltuială obligatorie pentru orice proprietar de autovehicul din România. Indiferent dacă folosești mașina zilnic sau doar&#8230; Articolul Cum să plătești mai puțin pe asigurarea RCA apare prima dată în Universul Tech ."
+    },
     {
       "title": "Cum alegi fertilizantul potrivit pentru gazon + 6 soluții recomandate pentru un teren verde sănătos",
       "link": "https://universultech.ro/cum-alegi-fertilizantul-potrivit-pentru-gazon-6-solutii-recomandate-pentru-un-teren-verde-sanatos/",
@@ -71,15 +77,15 @@
       "link": "https://universultech.ro/romania-de-facto-realitati-si-perspective-2026/",
       "date": "Mon, 23 Feb 2026 10:58:31 +0000",
       "summary": "26 februarie 2026 &#124; 9:30 – 14:30 &#124; Arenele BNR Inflație. Deficite. Finanțare. Creștere. Riscuri. Dincolo de discurs, spre realitate. Nu vom&#8230; Articolul România de facto: realități și perspective 2026 apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "De ce site-urile „frumoase” pierd bani și cele simple câștigă în 2026",
-      "link": "https://universultech.ro/de-ce-site-urile-frumoase-pierd-bani-si-cele-simple-castiga-in-2026/",
-      "date": "Sat, 21 Feb 2026 10:34:00 +0000",
-      "summary": "În 2026, ideea de „site frumos” a devenit una dintre cele mai periculoase capcane pentru afaceri. Nu pentru că designul&#8230; Articolul De ce site-urile „frumoase” pierd bani și cele simple câștigă în 2026 apare prima dată în Universul Tech ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@UniversulTech/116239191412641836",
+      "date": "Mon, 16 Mar 2026 13:55:02 +0000",
+      "content": "💡Asigurarea RCA este o cheltuială obligatorie pentru orice proprietar de autovehicul din România. Indiferent dacă folosești mașina zilnic sau doar ocazional, legea impune existența unei polițe valabile pentru a putea circula pe drumurile publice. Dincolo de obligația legală, RCA-ul reprezintă o formă de protecție financiară importantă, deoarece acoperă daunele provocate altor participanți la trafic în… ✅ https:// universultech.ro/cum-sa-plates ti-mai-putin-pe-asigurarea-rca/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@UniversulTech/116238110724168822",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@UniversulTech/116136287146841171",
       "date": "Thu, 26 Feb 2026 09:45:08 +0000",
       "content": "💡Cum îți prelungești liniștea după garanție cu opțiuni de protecție îmbunătățiteDupă ce expiră garanția, costurile de reparație pot deveni mai greu de anticipat. Opțiunile de protecție îmbunătățite pot aduce un cadru mai clar pentru service și continuitate.Ce înseamnă opțiuni de protecție îmbunătățiteSunt servicii sau planuri care extind suportul după garanția standard. Pot include ✅ https:// universultech.ro/cum-iti-prelu ngesti-linistea-dupa-garantie-cu-optiuni-de-protectie-imbunatatite/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@UniversulTech/116136271343542751",
-      "date": "Thu, 26 Feb 2026 09:41:06 +0000",
-      "content": "💡De ce Samsung Care+ devine util pentru dispozitivele pe care le folosești zilnicCând folosești zilnic un telefon, o tabletă sau un ceas inteligent, riscul de accidente crește. Un plan de protecție poate reduce impactul financiar și timpul pierdut cu reparații.Ce este Samsung Care+Este un serviciu de protecție pentru dispozitive, care poate acoperi anumite situații precum… ✅ https:// universultech.ro/de-ce-samsung -care-devine-util-pentru-dispozitivele-pe-care-le-folosesti-zilnic/"
     }
   ]
 }
