@@ -4,8 +4,14 @@
   "site_feed": "https://arta-constructiilor.ro/feed/",
   "mastodon": "https://social.5th.ro/@ArtaConstructiilor",
   "mastodon_rss": "https://social.5th.ro/@ArtaConstructiilor.rss",
-  "updated_at": "2026-03-17T18:09:39Z",
+  "updated_at": "2026-03-17T19:20:58Z",
   "site_posts": [
+    {
+      "title": "Contactori modulare 4P: componente esențiale în automatizarea modernă",
+      "link": "https://arta-constructiilor.ro/contactori-modulare-4p-componente-esentiale-in-automatizarea-moderna/",
+      "date": "Tue, 17 Mar 2026 18:57:56 +0000",
+      "summary": "Un&#160;contactor&#160;este practic un releu de putere electromecanic, acționat de la distanță, care permite pornirea și oprirea sigură a curentului electric către motoare, pompe sau sisteme &#8230; Articolul Contactori modulare 4P: componente esențiale în automatizarea modernă apare prima dată în Arta Constructiilor ."
+    },
     {
       "title": "Greșeli frecvente în renovarea locuințelor care pot favoriza apariția dăunătorilor",
       "link": "https://arta-constructiilor.ro/greseli-frecvente-in-renovarea-locuintelor-care-pot-favoriza-aparitia-daunatorilor/",
@@ -59,15 +65,15 @@
       "link": "https://arta-constructiilor.ro/2025-cum-adaptezi-articolele-seo-pentru-social-media-si-newsletter/",
       "date": "Mon, 01 Dec 2025 12:07:49 +0000",
       "summary": "Introducere: De ce Repurposing Content este Noua Regulă de Aur în Marketingul Digital Atenție: Simți că depui eforturi uriașe pentru a crea conținut nou, dar &#8230; Articolul 2025: cum adaptezi articolele SEO pentru social media și newsletter apare prima dată în Arta Constructiilor ."
-    },
-    {
-      "title": "Cum alegi un TV pentru un apartament mic",
-      "link": "https://arta-constructiilor.ro/cum-alegi-un-tv-pentru-un-apartament-mic/",
-      "date": "Fri, 28 Nov 2025 11:22:25 +0000",
-      "summary": "În apartamentele mici, spațiul pentru televizor este limitat. Alegerea nu se face doar după diagonala ecranului. Trebuie analizate dimensiunile, distanța de vizionare și modul de &#8230; Articolul Cum alegi un TV pentru un apartament mic apare prima dată în Arta Constructiilor ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@ArtaConstructiilor/116246044762789767",
+      "date": "Tue, 17 Mar 2026 18:57:56 +0000",
+      "content": "Un contactor este practic un releu de putere electromecanic, acționat de la distanță, care permite pornirea și oprirea sigură a curentului electric către motoare, pompe sau sisteme de iluminat. Astfel, în infrastructura electrică, un contactor funcționează ca un întrerupător telecomandat pentru circuite de mare putere. Un contactor modular este conceput special pentru montaj pe șină DIN în .... 🌐 https:// arta-constructiilor.ro/contact ori-modulare-4p-componente-esentiale-in-automatizarea-moderna/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@ArtaConstructiilor/116084920697792307",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@ArtaConstructiilor/115723110135884576",
       "date": "Mon, 15 Dec 2025 10:28:47 +0000",
       "content": "Identificarea automată a scenelor prin AI este o funcție care analizează imaginea în timp real și adaptează setările pentru o redare mai clară. Procesul este discret și urmărește să reducă necesitatea ajustărilor manuale.AI Scene Detection se referă la capacitatea unui sistem de a recunoaște elementele vizuale dintr-un cadru. Tehnologia clasifică obiecte, texturi, luminozitate și tipuri… .... 🌐 https:// arta-constructiilor.ro/cum-fun ctioneaza-ai-scene-detection/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@ArtaConstructiilor/115689173826197034",
-      "date": "Tue, 09 Dec 2025 10:38:20 +0000",
-      "content": "ROMANIAN ENERGY WEEK 2025: 5 zile de dezbateri, 5 teme vitale pentru energie Palatul Parlamentului găzduiește între 17 și 21 noiembrie ROMANIAN ENERGY WEEK [REW 2025], summit organizat în parteneriat strategic cu Ministerul Energiei, Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului, Ministerul Mediului, Apelor și Pădurilor, precum și Departamentul pentru Dezvoltare Durabilă al Guvernului și Cancelaria… .... 🌐 https:// arta-constructiilor.ro/romania n-energy-week-2025/"
     }
   ]
 }
