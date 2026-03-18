@@ -4,8 +4,14 @@
   "site_feed": "https://e-faq.ro/feed/",
   "mastodon": "https://social.5th.ro/@efaq",
   "mastodon_rss": "https://social.5th.ro/@efaq.rss",
-  "updated_at": "2026-03-18T15:37:53Z",
+  "updated_at": "2026-03-18T17:18:08Z",
   "site_posts": [
+    {
+      "title": "Rolul pompelor de apă moderne în gestionarea sustenabilă a apei",
+      "link": "https://e-faq.ro/rolul-pompelor-de-apa-moderne-in-gestionarea-sustenabila-a-apei/",
+      "date": "Wed, 18 Mar 2026 16:17:45 +0000",
+      "summary": "Gestionarea sustenabilă a apei capătă o importanță tot mai mare la nivel global, deoarece schimbările [&#8230;] Articolul Rolul pompelor de apă moderne în gestionarea sustenabilă a apei apare prima dată în FAQ - Intrebari Frecvente ."
+    },
     {
       "title": "Lumea cărților pentru copii",
       "link": "https://e-faq.ro/lumea-cartilor-pentru-copii/",
@@ -53,15 +59,15 @@
       "link": "https://e-faq.ro/unde-gasesc-ulei-mct-in-romania-top-magazine-din-romania-in-2026/",
       "date": "Sat, 24 Jan 2026 13:11:53 +0000",
       "summary": "Unde găsesc ulei MCT? Ghid complet pentru a alege ulei de cocos MCT de calitate în România. Transparență totală la compoziție C8/C10 și utilizare keto. Articolul Unde gasesc ulei mct in Romania? &#8211; Top magazine din Romania in 2026 apare prima dată în FAQ - Intrebari Frecvente ."
-    },
-    {
-      "title": "Parintii aleg si recomanda cresa si gradinita Taramul Cunoasterii din Bucuresti pentru educatia timpurie",
-      "link": "https://e-faq.ro/parintii-aleg-si-recomanda-cresa-si-gradinita-taramul-cunoasterii-din-bucuresti-pentru-educatia-timpurie/",
-      "date": "Thu, 22 Jan 2026 08:08:12 +0000",
-      "summary": "Alegerea primei institutii de invatamant pentru cei mici reprezinta una dintre cele mai dificile si [&#8230;] Articolul Parintii aleg si recomanda cresa si gradinita Taramul Cunoasterii din Bucuresti pentru educatia timpurie apare prima dată în FAQ - Intrebari Frecvente ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@efaq/116251077417248667",
+      "date": "Wed, 18 Mar 2026 16:17:48 +0000",
+      "content": "🚀 Gestionarea sustenabilă a apei capătă o importanță tot mai mare la nivel global, deoarece schimbările climatice, deficitul de apă și creșterea cererii populației necesită soluții eficiente și durabile.Utilizarea unei pompe de apă moderne nu mai este doar o chestiune de confort, ci o condiție esențială pentru ca sistemele de tratare a apei să fie eficiente… 🔗 Mai mult: https:// e-faq.ro/rolul-pompelor-de-apa -moderne-in-gestionarea-sustenabila-a-apei/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@efaq/116238648262487092",
@@ -127,12 +133,6 @@
       "link": "https://social.5th.ro/@efaq/115687016825613877",
       "date": "Tue, 09 Dec 2025 01:29:47 +0000",
       "content": "🚀 Digestia poate fi afectată de alimentație neregulată, stres, mese grele sau sensibilitate gastro-intestinală. Fitoterapia oferă numeroase plante care sprijină funcționarea stomacului și a intestinelor, reduc balonarea, stimulează producția de sucuri digestive și calmează disconfortul abdominal. Plantele pot fi consumate sub formă de ceai, tinctură sau capsule, fiind o soluție naturală și blândă pentru susținerea 🔗 Mai mult: https:// e-faq.ro/plante-utile-pentru-i mbunatatirea-digestiei/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@efaq/115687016721022740",
-      "date": "Tue, 09 Dec 2025 01:29:45 +0000",
-      "content": "🚀 Vitamina D este esențială pentru sănătatea oaselor, funcția musculară și buna funcționare a sistemului imunitar. În sezonul rece, expunerea la lumina solară se reduce semnificativ, iar sinteza cutanată a vitaminei D scade. Latitudinea, temperaturile scăzute și timpul petrecut predominant în interior fac ca aportul natural să fie insuficient. De aceea, suplimentarea devine o măsură utilă… 🔗 Complet aici: https:// e-faq.ro/de-ce-este-necesara-s uplimentarea-cu-vitamina-d-in-sezonul-rece/"
     }
   ]
 }

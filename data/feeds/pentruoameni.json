@@ -4,8 +4,14 @@
   "site_feed": "https://pentruoameni.ro/feed/",
   "mastodon": "https://social.5th.ro/@pentruoameni",
   "mastodon_rss": "https://social.5th.ro/@pentruoameni.rss",
-  "updated_at": "2026-03-18T15:36:43Z",
+  "updated_at": "2026-03-18T17:16:51Z",
   "site_posts": [
+    {
+      "title": "Capcanele antrenamentului: Greșeli care îți sabotează activitatea fizică constantă",
+      "link": "https://pentruoameni.ro/capcanele-antrenamentului-greseli-care-iti-saboteaza-activitatea-fizica-constanta/",
+      "date": "Wed, 18 Mar 2026 16:17:10 +0000",
+      "summary": "Tu ești arhitectul propriului stil de viață, dar uneori planurile tale sunt subminate de așteptări nerealiste sau de o abordare rigidă a sportului. A rămâne activ pe termen lung presupune o înțelegere profundă a modului în care funcționează corpul și mintea ta. În rândurile ce urmează, vei descoperi acele erori comune care îți fură motivația [&#8230;] Articolul Capcanele antrenamentului: Greșeli care îți sabotează activitatea fizică constantă apare prima dată în Pentru Oameni ."
+    },
     {
       "title": "De ce lubrifianții industriali de performanță sunt esențiali pentru utilaje?",
       "link": "https://pentruoameni.ro/de-ce-lubrifiantii-industriali-de-performanta-sunt-esentiali-pentru-utilaje/",
@@ -71,15 +77,15 @@
       "link": "https://pentruoameni.ro/video-pe-mastodon-formate-limite-si-bune-practici/",
       "date": "Wed, 17 Dec 2025 16:58:54 +0000",
       "summary": "Ești un creator de conținut care caută o alternativă autentică la platformele tradiționale? Ai descoperit puterea descentralizată a rețelei Mastodon, dar te întrebi cum funcționează de fapt conținutul video? Spre deosebire de giganții media, unde compresia și redarea sunt automate, încărcarea unui video pe Mastodon vine cu propriul set de reguli și cele mai bune [&#8230;] Articolul Video pe Mastodon: formate, limite și bune practici apare prima dată în Pentru Oameni ."
-    },
-    {
-      "title": "Top 5 plaje din Phuket unde merită să petreci o zi întreagă",
-      "link": "https://pentruoameni.ro/top-5-plaje-din-phuket-unde-merita-sa-petreci-o-zi-intreaga/",
-      "date": "Thu, 11 Dec 2025 22:12:00 +0000",
-      "summary": "Phuket este genul acela de loc &#238;n care nu ai cum să te plictisești. Fiecare colț al insulei pare g&#226;ndit pentru relaxare, descoperire și momente de neuitat. Dacă plănuiești o vacanță &#238;n Phuket, cel mai probabil &#238;ți vei petrece mare parte din timp pe plajă. &#206;nsă tocmai aici vine provocarea: cum alegi c&#226;teva plaje care [&#8230;] Articolul Top 5 plaje din Phuket unde merită să petreci o zi întreagă apare prima dată în Pentru Oameni ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@pentruoameni/116251075106804443",
+      "date": "Wed, 18 Mar 2026 16:17:13 +0000",
+      "content": "Tu ești arhitectul propriului stil de viață, dar uneori planurile tale sunt subminate de așteptări nerealiste sau de o abordare rigidă a sportului. A rămâne activ pe termen lung presupune o înțelegere profundă a modului în care funcționează corpul și mintea ta. În rândurile ce urmează, vei descoperi acele erori comune care îți fură motivația… .... https:// pentruoameni.ro/capcanele-antr enamentului-greseli-care-iti-saboteaza-activitatea-fizica-constanta/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@pentruoameni/116246083933779332",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@pentruoameni/115736473021489309",
       "date": "Wed, 17 Dec 2025 19:07:08 +0000",
       "content": "Ești un creator de conținut care caută o alternativă autentică la platformele tradiționale? Ai descoperit puterea descentralizată a rețelei Mastodon, dar te întrebi cum funcționează de fapt conținutul video? Spre deosebire de giganții media, unde compresia și redarea sunt automate, încărcarea unui video pe Mastodon vine cu propriul set de reguli și cele mai bune… .... https:// pentruoameni.ro/video-pe-masto don-formate-limite-si-bune-practici/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@pentruoameni/115736396081228131",
-      "date": "Wed, 17 Dec 2025 18:47:34 +0000",
-      "content": "Phuket este genul acela de loc în care nu ai cum să te plictisești. Fiecare colț al insulei pare gândit pentru relaxare, descoperire și momente de neuitat. Dacă plănuiești o vacanță în Phuket, cel mai probabil îți vei petrece mare parte din timp pe plajă. Însă tocmai aici vine provocarea: cum alegi câteva plaje care… .... https:// pentruoameni.ro/top-5-plaje-di n-phuket-unde-merita-sa-petreci-o-zi-intreaga/"
     }
   ]
 }
