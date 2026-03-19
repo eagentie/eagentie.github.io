@@ -4,8 +4,14 @@
   "site_feed": "https://pentruoameni.ro/feed/",
   "mastodon": "https://social.5th.ro/@pentruoameni",
   "mastodon_rss": "https://social.5th.ro/@pentruoameni.rss",
-  "updated_at": "2026-03-19T11:49:26Z",
+  "updated_at": "2026-03-19T13:41:37Z",
   "site_posts": [
+    {
+      "title": "Top 5 motive pentru a investi în siguranțe electrice automate de calitate",
+      "link": "https://pentruoameni.ro/top-5-motive-pentru-a-investi-in-sigurante-electrice-automate-de-calitate/",
+      "date": "Thu, 19 Mar 2026 12:59:43 +0000",
+      "summary": "Într-o locuință modernă, unde siguranța și confortul sunt prioritare, calitatea instalației electrice nu este negociabilă. Siguranțele automate reprezintă prima linie de apărare, fiind esențiale pentru a-ți proteja casa împotriva riscurilor cauzate de scurtcircuite sau suprasarcini. Dar de ce este important să investești în produse de calitate atunci când vine vorba de siguranțe electrice? În articolul [&#8230;] Articolul Top 5 motive pentru a investi în siguranțe electrice automate de calitate apare prima dată în Pentru Oameni ."
+    },
     {
       "title": "Capcanele antrenamentului: Greșeli care îți sabotează activitatea fizică constantă",
       "link": "https://pentruoameni.ro/capcanele-antrenamentului-greseli-care-iti-saboteaza-activitatea-fizica-constanta/",
@@ -71,15 +77,15 @@
       "link": "https://pentruoameni.ro/ce-este-un-gps-tracker-si-cum-functioneaza-localizarea-in-timp-real/",
       "date": "Fri, 26 Dec 2025 10:36:17 +0000",
       "summary": "Un GPS tracker este un dispozitiv mic (uneori cât o brichetă, alteori mai compact) care îți arată unde se află un vehicul, un utilaj sau chiar un obiect valoros. Practic, îl folosești când vrei localizare clară, fără să depinzi de “unde ai parcat” sau de apeluri la șofer din în de minute. În viața reală, [&#8230;] Articolul Ce este un GPS tracker și cum funcționează localizarea în timp real? apare prima dată în Pentru Oameni ."
-    },
-    {
-      "title": "Video pe Mastodon: formate, limite și bune practici",
-      "link": "https://pentruoameni.ro/video-pe-mastodon-formate-limite-si-bune-practici/",
-      "date": "Wed, 17 Dec 2025 16:58:54 +0000",
-      "summary": "Ești un creator de conținut care caută o alternativă autentică la platformele tradiționale? Ai descoperit puterea descentralizată a rețelei Mastodon, dar te întrebi cum funcționează de fapt conținutul video? Spre deosebire de giganții media, unde compresia și redarea sunt automate, încărcarea unui video pe Mastodon vine cu propriul set de reguli și cele mai bune [&#8230;] Articolul Video pe Mastodon: formate, limite și bune practici apare prima dată în Pentru Oameni ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@pentruoameni/116255960948374650",
+      "date": "Thu, 19 Mar 2026 12:59:45 +0000",
+      "content": "Într-o locuință modernă, unde siguranța și confortul sunt prioritare, calitatea instalației electrice nu este negociabilă. Siguranțele automate reprezintă prima linie de apărare, fiind esențiale pentru a-ți proteja casa împotriva riscurilor cauzate de scurtcircuite sau suprasarcini.Dar de ce este important să investești în produse de calitate atunci când vine vorba de siguranțe electrice? În .... https:// pentruoameni.ro/top-5-motive-p entru-a-investi-in-sigurante-electrice-automate-de-calitate/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@pentruoameni/116251075106804443",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@pentruoameni/115785425168913776",
       "date": "Fri, 26 Dec 2025 10:36:19 +0000",
       "content": "Un GPS tracker este un dispozitiv mic (uneori cât o brichetă, alteori mai compact) care îți arată unde se află un vehicul, un utilaj sau chiar un obiect valoros. Practic, îl folosești când vrei localizare clară, fără să depinzi de “unde ai parcat” sau de apeluri la șofer din în de minute. În viața reală,… .... https:// pentruoameni.ro/ce-este-un-gps -tracker-si-cum-functioneaza-localizarea-in-timp-real/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@pentruoameni/115736473021489309",
-      "date": "Wed, 17 Dec 2025 19:07:08 +0000",
-      "content": "Ești un creator de conținut care caută o alternativă autentică la platformele tradiționale? Ai descoperit puterea descentralizată a rețelei Mastodon, dar te întrebi cum funcționează de fapt conținutul video? Spre deosebire de giganții media, unde compresia și redarea sunt automate, încărcarea unui video pe Mastodon vine cu propriul set de reguli și cele mai bune… .... https:// pentruoameni.ro/video-pe-masto don-formate-limite-si-bune-practici/"
     }
   ]
 }

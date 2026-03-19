@@ -4,8 +4,14 @@
   "site_feed": "https://e-faq.ro/feed/",
   "mastodon": "https://social.5th.ro/@efaq",
   "mastodon_rss": "https://social.5th.ro/@efaq.rss",
-  "updated_at": "2026-03-19T11:50:40Z",
+  "updated_at": "2026-03-19T13:42:44Z",
   "site_posts": [
+    {
+      "title": "Operatii de amigdale: amigdalectomie si amigdalotomie. Cum alegi corect interventia potrivita",
+      "link": "https://e-faq.ro/operatii-de-amigdale-amigdalectomie-si-amigdalotomie-cum-alegi-corect-interventia-potrivita/",
+      "date": "Thu, 19 Mar 2026 12:58:30 +0000",
+      "summary": "Decizia de a interveni chirurgical asupra amigdalelor nu este niciodata una superficiala. Pentru multi parinti, [&#8230;] Articolul Operatii de amigdale: amigdalectomie si amigdalotomie. Cum alegi corect interventia potrivita apare prima dată în FAQ - Intrebari Frecvente ."
+    },
     {
       "title": "Rolul pompelor de apă moderne în gestionarea sustenabilă a apei",
       "link": "https://e-faq.ro/rolul-pompelor-de-apa-moderne-in-gestionarea-sustenabila-a-apei/",
@@ -53,15 +59,15 @@
       "link": "https://e-faq.ro/placare-scara-interioara-cu-lemn-top-10-avantaje/",
       "date": "Tue, 27 Jan 2026 05:14:12 +0000",
       "summary": "Alegerea serviciului de placare scară interioară cu lemn e una dintre acele decizii care schimbă [&#8230;] Articolul Placare scară interioară cu lemn: top 10 avantaje apare prima dată în FAQ - Intrebari Frecvente ."
-    },
-    {
-      "title": "Unde gasesc ulei mct in Romania? – Top magazine din Romania in 2026",
-      "link": "https://e-faq.ro/unde-gasesc-ulei-mct-in-romania-top-magazine-din-romania-in-2026/",
-      "date": "Sat, 24 Jan 2026 13:11:53 +0000",
-      "summary": "Unde găsesc ulei MCT? Ghid complet pentru a alege ulei de cocos MCT de calitate în România. Transparență totală la compoziție C8/C10 și utilizare keto. Articolul Unde gasesc ulei mct in Romania? &#8211; Top magazine din Romania in 2026 apare prima dată în FAQ - Intrebari Frecvente ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@efaq/116255956258008151",
+      "date": "Thu, 19 Mar 2026 12:58:33 +0000",
+      "content": "🚀 Decizia de a interveni chirurgical asupra amigdalelor nu este niciodata una superficiala. Pentru multi parinti, dar si pentru pacientii adulti, termenii medicali pot crea confuzie: Amigdalectomia sau Amigdalotomia? Care este diferenta? Care este mai sigura? Care are recuperare mai usoara? Care este indicata in cazul copilului meu?Acest ghid explica in detaliu 🔗 Citeste tot: https:// e-faq.ro/operatii-de-amigdale- amigdalectomie-si-amigdalotomie-cum-alegi-corect-interventia-potrivita/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@efaq/116251077417248667",
@@ -127,12 +133,6 @@
       "link": "https://social.5th.ro/@efaq/115736748779744516",
       "date": "Wed, 17 Dec 2025 20:17:16 +0000",
       "content": "🚀 V-ați săturat de zgomotul constant și de algoritmii agresivi care vă dictează ce vedeți în feed-ul rețelelor sociale? Pe măsură ce migrația către platforme descentralizate, cum ar fi Mastodon, capătă amploare, controlul asupra experienței devine primordial. Această rețea unică vă oferă pârghii puternice pentru a vă modela spațiul digital exact cum doriți. Dacă sunteți în… 🔗 Complet aici: https:// e-faq.ro/liste-filtre-si-mutin g-cum-iti-cureti-feed-ul-pe-mastodon/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@efaq/115687016825613877",
-      "date": "Tue, 09 Dec 2025 01:29:47 +0000",
-      "content": "🚀 Digestia poate fi afectată de alimentație neregulată, stres, mese grele sau sensibilitate gastro-intestinală. Fitoterapia oferă numeroase plante care sprijină funcționarea stomacului și a intestinelor, reduc balonarea, stimulează producția de sucuri digestive și calmează disconfortul abdominal. Plantele pot fi consumate sub formă de ceai, tinctură sau capsule, fiind o soluție naturală și blândă pentru susținerea 🔗 Mai mult: https:// e-faq.ro/plante-utile-pentru-i mbunatatirea-digestiei/"
     }
   ]
 }
