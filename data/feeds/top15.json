@@ -4,8 +4,14 @@
   "site_feed": "https://top15.ro/feed/",
   "mastodon": "https://social.5th.ro/@top",
   "mastodon_rss": "https://social.5th.ro/@top.rss",
-  "updated_at": "2026-03-20T06:08:20Z",
+  "updated_at": "2026-03-20T07:15:02Z",
   "site_posts": [
+    {
+      "title": "De ce televizoarele premium devin tot mai inteligente",
+      "link": "https://top15.ro/de-ce-televizoarele-premium-devin-tot-mai-inteligente/",
+      "date": "Wed, 18 Mar 2026 06:57:00 +0000",
+      "summary": "De la simplu ecran la centru digital al caseiTelevizoarele premium nu mai sunt doar dispozitive... Articolul De ce televizoarele premium devin tot mai inteligente apare prima dată în TOP 15 ."
+    },
     {
       "title": "Cele mai frecvente greșeli la cumpărarea jantelor auto și cum să le eviți",
       "link": "https://top15.ro/cele-mai-frecvente-greseli-la-cumpararea-jantelor-auto-si-cum-sa-le-eviti/",
@@ -71,15 +77,15 @@
       "link": "https://top15.ro/cum-poate-aerul-conditionat-sa-ajusteze-automat-temperatura-pentru-somn/",
       "date": "Mon, 16 Feb 2026 06:01:37 +0000",
       "summary": "Cum poate aerul condiționat să ajusteze automat temperatura pentru somn Temperatura din dormitor influențează calitatea... Articolul Cum poate aerul condiționat să ajusteze automat temperatura pentru somn apare prima dată în TOP 15 ."
-    },
-    {
-      "title": "Cât de rezistente sunt paturile din lemn masiv în 2026? – 5 recomandări care rezistă testului timpului",
-      "link": "https://top15.ro/cat-de-rezistente-sunt-paturile-din-lemn-masiv-in-2026-5-recomandari-care-rezista-testului-timpului/",
-      "date": "Fri, 13 Feb 2026 12:49:01 +0000",
-      "summary": "Paturile din lemn masiv au revenit în prim-plan pentru cei care vor un dormitor stabil,... Articolul Cât de rezistente sunt paturile din lemn masiv în 2026? &#8211; 5 recomandări care rezistă testului timpului apare prima dată în TOP 15 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@top/116260205613586786",
+      "date": "Fri, 20 Mar 2026 06:59:13 +0000",
+      "content": "📰De la simplu ecran la centru digital al caseiTelevizoarele premium nu mai sunt doar dispozitive pentru redarea conținutului video, ci au devenit adevărate hub-uri digitale. Evoluția tehnologică a adus în prim-plan conceptul de „smart living”, unde fiecare dispozitiv contribuie la o experiență conectată. Astăzi, utilizatorii nu caută doar calitate a imaginii, ci și funcționalități inteligente… 📰 https:// top15.ro/de-ce-televizoarele-p remium-devin-tot-mai-inteligente/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@top/116246078706477073",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@top/116130142493882240",
       "date": "Wed, 25 Feb 2026 07:42:28 +0000",
       "content": "📰Accidentele se întâmplă. Reacția ta contează mai mult decât incidentul Indiferent cât de atent conduci, există factori pe care nu îi controlezi: trafic aglomerat în Mărăști la ora 8:30, o frânare bruscă în Centru, polei dimineața devreme iarna sau un șofer neatent într-o intersecție.Dacă te afli la volanul unei mașini închiriate în Cluj-Napoca și apare… 📰 https:// top15.ro/ce-faci-daca-ai-un-ac cident-cu-masina-inchiriata-in-cluj-napoca-pasii-corecti-fara-ambiguitati/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@top/116130031166681209",
-      "date": "Wed, 25 Feb 2026 07:14:09 +0000",
-      "content": "📰Pentru foarte multe afaceri, pierderea clienților este pusă pe seama prețurilor, concurenței sau lipsei de promovare. Rareori site-ul este suspectul principal. Și totuși, în mediul online, un site care nu funcționează corect este una dintre cele mai rapide și mai sigure metode de a alunga clienți care erau deja interesați.Un site nu trebuie să fie… 📰 https:// top15.ro/cum-sa-eviti-sa-pierz i-clienti-din-cauza-unui-site-care-nu-functioneaza/"
     }
   ]
 }

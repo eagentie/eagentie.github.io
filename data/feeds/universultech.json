@@ -4,8 +4,14 @@
   "site_feed": "https://UniversulTech.ro/feed/",
   "mastodon": "https://social.5th.ro/@UniversulTech",
   "mastodon_rss": "https://social.5th.ro/@UniversulTech.rss",
-  "updated_at": "2026-03-20T06:08:11Z",
+  "updated_at": "2026-03-20T07:14:53Z",
   "site_posts": [
+    {
+      "title": "De ce Galaxy S26 este optimizat pentru AI",
+      "link": "https://universultech.ro/de-ce-galaxy-s26-este-optimizat-pentru-ai/",
+      "date": "Thu, 19 Mar 2026 07:07:00 +0000",
+      "summary": "Un telefon construit pentru inteligență, nu doar pentru viteză&#206;n ultimii ani, evoluția smartphone-urilor a trecut de la performanța brută la&#8230; Articolul De ce Galaxy S26 este optimizat pentru AI apare prima dată în Universul Tech ."
+    },
     {
       "title": "Cum te ajută ecosistemul Samsung să faci curățenia de Paște mai rapid",
       "link": "https://universultech.ro/cum-te-ajuta-ecosistemul-samsung-sa-faci-curatenia-de-paste-mai-rapid/",
@@ -71,15 +77,15 @@
       "link": "https://universultech.ro/ce-inseamna-confidentialitate-la-nivel-de-pixel-si-unde-o-simti-in-utilizarea-zilnica/",
       "date": "Thu, 26 Feb 2026 07:50:47 +0000",
       "summary": "Ce înseamnă „confidențialitate la nivel de pixel” și unde o simți în utilizarea zilnică Confidențialitatea „la nivel de pixel” se&#8230; Articolul Ce înseamnă „confidențialitate la nivel de pixel” și unde o simți în utilizarea zilnică apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "Tehnologie cu suflet: Asociatia CONIL a facut pasul spre digitalizare prin PNRR pentru a fi mai aproape de copiii cu nevoi speciale",
-      "link": "https://universultech.ro/tehnologie-cu-suflet-asociatia-conil-a-facut-pasul-spre-digitalizare-prin-pnrr-pentru-a-fi-mai-aproape-de-copiii-cu-nevoi-speciale/",
-      "date": "Wed, 25 Feb 2026 10:31:27 +0000",
-      "summary": "Asociatia CENTRUL DE PERFORMANTA BEFORE &#38; AFTER SCHOOL CONIL anunta cu bucurie si recunostinta apropierea de finalizarea proiectului de investitie&#8230; Articolul Tehnologie cu suflet: Asociatia CONIL a facut pasul spre digitalizare prin PNRR pentru a fi mai aproape de copiii cu nevoi speciale apare prima dată în Universul Tech ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@UniversulTech/116260247103929204",
+      "date": "Fri, 20 Mar 2026 07:09:46 +0000",
+      "content": "💡Un telefon construit pentru inteligență, nu doar pentru vitezăÎn ultimii ani, evoluția smartphone-urilor a trecut de la performanța brută la inteligență contextuală. Galaxy S26 este un exemplu clar al acestei tranziții, fiind proiectat încă de la bază pentru a susține funcții avansate de inteligență artificială. Nu mai vorbim doar despre un dispozitiv rapid, ci despre… ✅ https:// universultech.ro/de-ce-galaxy- s26-este-optimizat-pentru-ai/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@UniversulTech/116246554436785251",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@UniversulTech/116136313689659680",
       "date": "Thu, 26 Feb 2026 09:51:53 +0000",
       "content": "💡Ce înseamnă „confidențialitate la nivel de pixel” și unde o simți în utilizarea zilnicăConfidențialitatea „la nivel de pixel” se referă la control foarte fin asupra a ceea ce se vede sau se poate captura pe ecran. Este relevantă când lucrezi în public sau când gestionezi informații sensibile.Ce înseamnă / Ce este„Confidențialitate la nivel de pixel”… ✅ https:// universultech.ro/ce-inseamna-c onfidentialitate-la-nivel-de-pixel-si-unde-o-simti-in-utilizarea-zilnica/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@UniversulTech/116136301737935190",
-      "date": "Thu, 26 Feb 2026 09:48:50 +0000",
-      "content": "💡Ce setări de confidențialitate merită activate pe dispozitivele tale GalaxyConfidențialitatea pe telefon și tabletă ține de ce date colectează aplicațiile și cum sunt afișate informațiile. Câteva setări simple reduc expunerea, mai ales dacă folosești dispozitivele zilnic pentru muncă, plăți și social media.Nu trebuie să activezi tot. Contează să alegi setările care se potrivesc cu riscurile… ✅ https:// universultech.ro/ce-setari-de- confidentialitate-merita-activate-pe-dispozitivele-tale-galaxy/"
     }
   ]
 }

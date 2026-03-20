@@ -4,8 +4,14 @@
   "site_feed": "https://noutati24.ro/feed/",
   "mastodon": "https://social.5th.ro/@noutati24",
   "mastodon_rss": "https://social.5th.ro/@noutati24.rss",
-  "updated_at": "2026-03-20T06:07:06Z",
+  "updated_at": "2026-03-20T07:13:48Z",
   "site_posts": [
+    {
+      "title": "Ce funcții inteligente aduce noul Galaxy S26",
+      "link": "https://noutati24.ro/ce-functii-inteligente-aduce-noul-galaxy-s26/",
+      "date": "Thu, 19 Mar 2026 06:59:00 +0000",
+      "summary": "Un smartphone construit &#238;n jurul inteligenței artificialeNoul Galaxy S26 marchează o schimbare clară &#238;n modul &#238;n care sunt concepute telefoanele &#8230; Articolul Ce funcții inteligente aduce noul Galaxy S26 apare prima dată în Noutati 24 ."
+    },
     {
       "title": "MORE Networking – 10 ani printr-o conferință despre puterea conexiunilor și comunităților",
       "link": "https://noutati24.ro/more-networking-10-ani-printr-o-conferinta-despre-puterea-conexiunilor-si-comunitatilor/",
@@ -71,15 +77,15 @@
       "link": "https://noutati24.ro/ghid-mentenanta-pentru-motoare-electrice/",
       "date": "Wed, 14 Jan 2026 12:23:23 +0000",
       "summary": "Te-ai întrebat vreodată cât de mult depinde succesul întregii tale linii de producție de sănătatea unui singur motor electric? Deși &#8230; Articolul Ghid mentenanță pentru motoare electrice apare prima dată în Noutati 24 ."
-    },
-    {
-      "title": "De ce orientarea spre Sud sau spre Vest a apartamentului este cea mai căutată de cumpărători?",
-      "link": "https://noutati24.ro/de-ce-orientarea-spre-sud-sau-spre-vest-a-apartamentului-este-cea-mai-cautata-de-cumparatori/",
-      "date": "Tue, 13 Jan 2026 22:22:00 +0000",
-      "summary": "Lumina naturală vinde. Acesta este un adevăr pe care agenții imobiliari &#238;l cunosc foarte bine. C&#226;nd un potențial client intră &#8230; Articolul De ce orientarea spre Sud sau spre Vest a apartamentului este cea mai căutată de cumpărători? apare prima dată în Noutati 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@noutati24/116260212737256166",
+      "date": "Fri, 20 Mar 2026 07:01:02 +0000",
+      "content": "🆕Un smartphone construit în jurul inteligenței artificialeNoul Galaxy S26 marchează o schimbare clară în modul în care sunt concepute telefoanele moderne. Accentul nu mai cade doar pe performanță hardware, ci pe integrarea unor funcții inteligente care simplifică utilizarea zilnică. Practic, dispozitivul nu mai este doar un instrument, ci un asistent digital capabil să optimizeze fiecare… 🌐 https:// noutati24.ro/ce-functii-inteli gente-aduce-noul-galaxy-s26/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@noutati24/116172592572976432",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@noutati24/115939857093670180",
       "date": "Thu, 22 Jan 2026 17:10:23 +0000",
       "content": "🆕Te-ai întrebat vreodată cum poți elimina stresul zilnic fără a părăsi locuința? Investiția într-o cadă cu hidromasaj este soluția ideală pentru sănătatea ta. Descoperă în continuare la ce criterii să fii atent atunci când alegi modelul ideal pentru tine. Cum alegi o cadă cu hidromasaj acasă Alegerea unei căzi cu hidromasaj pentru uz rezidențial începe… 🌐 https:// noutati24.ro/cazi-cu-hidromasa j-alegerea-ideala-pentru-relaxare-si-terapie-la-domiciliu/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@noutati24/115923398384313900",
-      "date": "Mon, 19 Jan 2026 19:24:43 +0000",
-      "content": "🆕Eficiența sistemului de încălzire depinde mai puțin de puterea centralei și mai mult de precizia cu care aceasta este controlată. Facturile mari la gaze și disconfortul termic (prea cald sau prea frig) au adesea o cauză banală, dar ignorată. Poziționarea greșită a senzorului care monitorizează clima interioară sabotează întregul efort de încălzire. Dispozitivul de comandă… 🌐 https:// noutati24.ro/unde-montezi-core ct-un-termostat-pentru-a-citi-temperatura-reala-a-camerei/"
     }
   ]
 }
