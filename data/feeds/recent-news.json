@@ -4,8 +4,14 @@
   "site_feed": "https://recent-news.ro/feed/",
   "mastodon": "https://social.5th.ro/@recent_news",
   "mastodon_rss": "https://social.5th.ro/@recent_news.rss",
-  "updated_at": "2026-03-21T21:37:48Z",
+  "updated_at": "2026-03-21T22:42:34Z",
   "site_posts": [
+    {
+      "title": "Cum alegi o firma de amenajari interioare serioasa? Ghid complet pentru o renovare fara stres",
+      "link": "https://recent-news.ro/cum-alegi-o-firma-de-amenajari-interioare-serioasa-ghid-complet-pentru-o-renovare-fara-stres/",
+      "date": "Sat, 21 Mar 2026 22:17:28 +0000",
+      "summary": "Renovarea unei locuinte este una dintre cele mai importante investitii pe care le facem in confortul nostru. Fie ca este&#8230; Articolul Cum alegi o firma de amenajari interioare serioasa? Ghid complet pentru o renovare fara stres apare prima dată în Recent News ."
+    },
     {
       "title": "Greșeli frecvente în dotarea unui salon beauty și cum pot fi evitate?",
       "link": "https://recent-news.ro/greseli-frecvente-in-dotarea-unui-salon-beauty-si-cum-pot-fi-evitate/",
@@ -59,15 +65,15 @@
       "link": "https://recent-news.ro/mixit-aduce-gustari-festive-pentru-petrecerea-de-revelion/",
       "date": "Wed, 17 Dec 2025 07:26:12 +0000",
       "summary": "&#160; &#160; Revelionul &#238;nseamnă mese festive, &#238;nt&#226;lniri cu prietenii și seri care se prelungesc mult după miezul nopții, iar gustările&#8230; Articolul Mixit aduce gustări festive pentru petrecerea de Revelion apare prima dată în Recent News ."
-    },
-    {
-      "title": "Oameni, destine, emoție: Adela Hanafi, a lansat podcastul „Povești Nespuse cu Adela”",
-      "link": "https://recent-news.ro/oameni-destine-emotie-adela-hanafi-a-lansat-podcastul-povesti-nespuse-cu-adela/",
-      "date": "Wed, 10 Dec 2025 09:13:51 +0000",
-      "summary": "Oameni, destine, emoție: Adela Hanafi, a lansat podcastul „Povești Nespuse cu Adela” Într-o lume adesea dominată de superficialitate și știri&#8230; Articolul Oameni, destine, emoție: Adela Hanafi, a lansat podcastul „Povești Nespuse cu Adela” apare prima dată în Recent News ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@recent_news/116269478769852281",
+      "date": "Sat, 21 Mar 2026 22:17:30 +0000",
+      "content": "Renovarea unei locuinte este una dintre cele mai importante investitii pe care le facem in confortul nostru. Fie ca este vorba despre un apartament nou, o casa care are nevoie de modernizare sau o renovare completa, alegerea unei firme de amenajari interioare serioase poate face diferenta dintre un proiect reusit si o experienta frustranta. In… https:// recent-news.ro/cum-alegi-o-fir ma-de-amenajari-interioare-serioasa-ghid-complet-pentru-o-renovare-fara-stres/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@recent_news/116219542242139179",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@recent_news/115695156590745562",
       "date": "Wed, 10 Dec 2025 11:59:49 +0000",
       "content": "Gala „Women in Economy” ajunge la Paris • 1 decembrie 2025, Hôtel de Ville – Paris: CONAF, alături de Ambasada României în Republica Franceză, Consulatul General al României la Paris și cu sprijinul Delegației Permanente a României pe lângă UNESCO, Institutului Cultural Român din Paris, Cercului profesioniștilor români din Franța, Primăriei Paris, reprezentanței CONAF Franța… https:// recent-news.ro/gala-women-in-e conomy-ajunge-la-paris/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@recent_news/115695156474321267",
-      "date": "Wed, 10 Dec 2025 11:59:48 +0000",
-      "content": "Câte comunicate de presă trimise de compania dumneavoastră ajung cu adevărat pe biroul redactorilor, și nu în dosarul de spam? Trăim în era supraîncărcării informaționale, iar o distribuție email ineficientă poate anula ore de muncă dedicată creării unui material valoros. Nu este vorba doar de filtrele tehnice automate. Este vorba despre câștigarea imediată a atenției… https:// recent-news.ro/2025-cum-scrii- comunicate-de-presa-care-nu-ajung-direct-in-spam/"
     }
   ]
 }
