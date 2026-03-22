@@ -4,8 +4,14 @@
   "site_feed": "https://UniversulTech.ro/feed/",
   "mastodon": "https://social.5th.ro/@UniversulTech",
   "mastodon_rss": "https://social.5th.ro/@UniversulTech.rss",
-  "updated_at": "2026-03-22T18:56:43Z",
+  "updated_at": "2026-03-22T19:38:29Z",
   "site_posts": [
+    {
+      "title": "De ce televizoarele Samsung sunt populare la nivel global",
+      "link": "https://universultech.ro/de-ce-televizoarele-samsung-sunt-populare-la-nivel-global/",
+      "date": "Sun, 22 Mar 2026 17:35:48 +0000",
+      "summary": "O combinație între tehnologie și experiență Popularitatea televizoarelor nu mai este determinată doar de dimensiunea ecranului sau de rezoluție. Utilizatorii&#8230; Articolul De ce televizoarele Samsung sunt populare la nivel global apare prima dată în Universul Tech ."
+    },
     {
       "title": "De ce Galaxy S26 este optimizat pentru AI",
       "link": "https://universultech.ro/de-ce-galaxy-s26-este-optimizat-pentru-ai/",
@@ -71,15 +77,15 @@
       "link": "https://universultech.ro/cum-sa-transformi-trotineta-electrica-intr-un-aliat-al-economiei-financiare/",
       "date": "Thu, 26 Feb 2026 12:11:12 +0000",
       "summary": "Prețurile combustibilului cresc constant și întreținerea mașinii devine din ce în ce mai scumpă, dar o trotinetă electrică se poate&#8230; Articolul Cum să transformi trotinetă electrică într-un aliat al economiei financiare apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "Ce înseamnă „confidențialitate la nivel de pixel” și unde o simți în utilizarea zilnică",
-      "link": "https://universultech.ro/ce-inseamna-confidentialitate-la-nivel-de-pixel-si-unde-o-simti-in-utilizarea-zilnica/",
-      "date": "Thu, 26 Feb 2026 07:50:47 +0000",
-      "summary": "Ce înseamnă „confidențialitate la nivel de pixel” și unde o simți în utilizarea zilnică Confidențialitatea „la nivel de pixel” se&#8230; Articolul Ce înseamnă „confidențialitate la nivel de pixel” și unde o simți în utilizarea zilnică apare prima dată în Universul Tech ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@UniversulTech/116274511571101391",
+      "date": "Sun, 22 Mar 2026 19:37:25 +0000",
+      "content": "💡O combinație între tehnologie și experiențăPopularitatea televizoarelor nu mai este determinată doar de dimensiunea ecranului sau de rezoluție. Utilizatorii caută o experiență completă, care să includă imagine de calitate, funcții inteligente și integrare ușoară în viața de zi cu zi. În acest context, televizoarele Samsung au reușit să se impună la nivel global printr-o abordare… ✅ https:// universultech.ro/de-ce-televiz oarele-samsung-sunt-populare-la-nivel-global/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@UniversulTech/116260247103929204",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@UniversulTech/116136861661628161",
       "date": "Thu, 26 Feb 2026 12:11:14 +0000",
       "content": "💡Prețurile combustibilului cresc constant și întreținerea mașinii devine din ce în ce mai scumpă, dar o trotinetă electrică se poate dovedi un adevărat partener de nădejde în gestionarea cheltuielilor zilnice. Alegerea unei trotinete electrice nu aduce doar beneficii financiare, ci și o flexibilitate sporită atunci când vine vorba de deplasarea în mediul urban. În acest… ✅ https:// universultech.ro/cum-sa-transf ormi-trotineta-electrica-intr-un-aliat-al-economiei-financiare/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@UniversulTech/116136313689659680",
-      "date": "Thu, 26 Feb 2026 09:51:53 +0000",
-      "content": "💡Ce înseamnă „confidențialitate la nivel de pixel” și unde o simți în utilizarea zilnicăConfidențialitatea „la nivel de pixel” se referă la control foarte fin asupra a ceea ce se vede sau se poate captura pe ecran. Este relevantă când lucrezi în public sau când gestionezi informații sensibile.Ce înseamnă / Ce este„Confidențialitate la nivel de pixel”… ✅ https:// universultech.ro/ce-inseamna-c onfidentialitate-la-nivel-de-pixel-si-unde-o-simti-in-utilizarea-zilnica/"
     }
   ]
 }

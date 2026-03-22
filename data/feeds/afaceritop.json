@@ -4,8 +4,14 @@
   "site_feed": "https://afaceritop.ro/feed/",
   "mastodon": "https://social.5th.ro/@afaceri_top",
   "mastodon_rss": "https://social.5th.ro/@afaceri_top.rss",
-  "updated_at": "2026-03-22T18:55:27Z",
+  "updated_at": "2026-03-22T19:37:14Z",
   "site_posts": [
+    {
+      "title": "Ce beneficii aduce Galaxy S26 pentru utilizatorii moderni",
+      "link": "https://afaceritop.ro/ce-beneficii-aduce-galaxy-s26-pentru-utilizatorii-moderni/",
+      "date": "Fri, 20 Mar 2026 19:23:00 +0000",
+      "summary": "Ce beneficii aduce Galaxy S26 pentru utilizatorii moderni De la utilizare activă la interacțiune inteligentă Modul în care folosim smartphone-ul s-a schimbat constant în ultimul deceniu, dar în ultimii ani ritmul acestei transformări s-a accelerat vizibil. Dacă înainte telefonul era un instrument pe care îl controlam manual, astăzi devine tot mai mult un sistem care [&#8230;] Articolul Ce beneficii aduce Galaxy S26 pentru utilizatorii moderni apare prima dată în Afaceri TOP ."
+    },
     {
       "title": "De ce telefoanele AI devin noul standard în industrie",
       "link": "https://afaceritop.ro/de-ce-telefoanele-ai-devin-noul-standard-in-industrie/",
@@ -59,15 +65,15 @@
       "link": "https://afaceritop.ro/cum-functioneaza-modul-eco-la-electrocasnice-ce-parametri-schimba-si-ce-economii-aduce/",
       "date": "Fri, 06 Feb 2026 07:56:50 +0000",
       "summary": "Modul ECO este o setare care reduce consumul în timpul funcționării. Face asta prin ajustări simple ale parametrilor de lucru. 1. Ce înseamnă / Ce este Modul ECO înseamnă un program sau o opțiune de funcționare orientată spre eficiență energetică. Nu schimbă scopul aparatului, dar schimbă felul în care folosește energia și timpul. În multe [&#8230;] Articolul Cum funcționează modul ECO la electrocasnice: ce parametri schimbă și ce economii aduce apare prima dată în Afaceri TOP ."
-    },
-    {
-      "title": "Târgul Educațional Mommy HAI revine pe 31 ianuarie, la Sala Palatului",
-      "link": "https://afaceritop.ro/targul-educational-mommy-hai-revine-pe-31-ianuarie-la-sala-palatului/",
-      "date": "Tue, 20 Jan 2026 15:56:53 +0000",
-      "summary": "Pe 31 ianuarie, Sala Palatului devine punctul de &#238;nt&#226;lnire al părinților care caută mai mult dec&#226;t promisiuni frumoase atunci c&#226;nd vine vorba despre educația copiilor lor. T&#226;rgul Educațional Mommy HAI, ajuns la cea de-a III-a ediție, reunește &#238;ntr-un singur loc peste 50 de instituții private de &#238;nvățăm&#226;nt: creșe, grădinițe, școli, afterschool-uri și licee, cu abordări [&#8230;] Articolul Târgul Educațional Mommy HAI revine pe 31 ianuarie, la Sala Palatului apare prima dată în Afaceri TOP ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@afaceri_top/116274465030149815",
+      "date": "Sun, 22 Mar 2026 19:25:35 +0000",
+      "content": "Ce beneficii aduce Galaxy S26 pentru utilizatorii moderniDe la utilizare activă la interacțiune inteligentăModul în care folosim smartphone-ul s-a schimbat constant în ultimul deceniu, dar în ultimii ani ritmul acestei transformări s-a accelerat vizibil. Dacă înainte telefonul era un instrument pe care îl controlam manual, astăzi devine tot mai mult un sistem care reacționează la… https:// afaceritop.ro/ce-beneficii-adu ce-galaxy-s26-pentru-utilizatorii-moderni/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@afaceri_top/116250781435892132",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@afaceri_top/115880918430692442",
       "date": "Mon, 12 Jan 2026 07:21:30 +0000",
       "content": "Rotile de motocultor pot fi un bun indicator al unei afaceri agricole de top. In agricultura, performanta nu se masoara doar in suprafete cultivate sau recolte obtinute, ci si in modul in care sunt utilizate si intretinute echipamentele. Rotile de motocultor spun o poveste clara despre ritmul de lucru, investitiile facute si seriozitatea unei… https:// afaceritop.ro/rotile-de-motocu ltor-pot-fi-un-indicator-al-unei-afaceri-agricole-de-top/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@afaceri_top/115736566407792771",
-      "date": "Wed, 17 Dec 2025 19:30:53 +0000",
-      "content": "Fediverse este noul peisaj digital. Platformele sociale descentralizate câștigă tot mai mult teren, oferind o alternativă etică și transparentă la giganții centralizați. Dacă dețineți un site construit pe cea mai populară platformă de blogging, WordPress, probabil vă întrebați cum puteți face tranziția lină și eficientă. Vreți să ajungeți la comunitățile noi fără eforturi suplimentare de… https:// afaceritop.ro/cum-alegi-un-mas todon-wordpress-plugin-potrivit-pentru-site-ul-tau/"
     }
   ]
 }

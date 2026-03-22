@@ -4,8 +4,14 @@
   "site_feed": "https://top15.ro/feed/",
   "mastodon": "https://social.5th.ro/@top",
   "mastodon_rss": "https://social.5th.ro/@top.rss",
-  "updated_at": "2026-03-22T18:56:51Z",
+  "updated_at": "2026-03-22T19:38:37Z",
   "site_posts": [
+    {
+      "title": "De ce asistenții vocali devin mai inteligenți",
+      "link": "https://top15.ro/de-ce-asistentii-vocali-devin-mai-inteligenti/",
+      "date": "Sun, 22 Mar 2026 19:34:00 +0000",
+      "summary": "O evoluție dictată de nevoile utilizatorilor Asistenții vocali au pornit ca instrumente simple, capabile să... Articolul De ce asistenții vocali devin mai inteligenți apare prima dată în TOP 15 ."
+    },
     {
       "title": "De ce televizoarele premium devin tot mai inteligente",
       "link": "https://top15.ro/de-ce-televizoarele-premium-devin-tot-mai-inteligente/",
@@ -71,15 +77,15 @@
       "link": "https://top15.ro/ce-faci-daca-ai-un-accident-cu-masina-inchiriata-in-cluj-napoca-pasii-corecti-fara-ambiguitati/",
       "date": "Tue, 17 Feb 2026 22:22:00 +0000",
       "summary": "Accidentele se &#238;nt&#226;mplă. Reacția ta contează mai mult dec&#226;t incidentul Indiferent c&#226;t de atent conduci,... Articolul Ce faci dacă ai un accident cu mașina închiriată în Cluj-Napoca: pașii corecți, fără ambiguități apare prima dată în TOP 15 ."
-    },
-    {
-      "title": "Cum poate aerul condiționat să ajusteze automat temperatura pentru somn",
-      "link": "https://top15.ro/cum-poate-aerul-conditionat-sa-ajusteze-automat-temperatura-pentru-somn/",
-      "date": "Mon, 16 Feb 2026 06:01:37 +0000",
-      "summary": "Cum poate aerul condiționat să ajusteze automat temperatura pentru somn Temperatura din dormitor influențează calitatea... Articolul Cum poate aerul condiționat să ajusteze automat temperatura pentru somn apare prima dată în TOP 15 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@top/116274506403965856",
+      "date": "Sun, 22 Mar 2026 19:36:06 +0000",
+      "content": "📰O evoluție dictată de nevoile utilizatorilorAsistenții vocali au pornit ca instrumente simple, capabile să execute comenzi de bază. Astăzi, însă, evoluția lor este determinată de cerințele tot mai complexe ale utilizatorilor. Oamenii nu mai vor doar să pornească un dispozitiv sau să seteze o alarmă, ci să interacționeze natural cu tehnologia, fără pași complicați.Această schimbare… 📰 https:// top15.ro/de-ce-asistentii-voca li-devin-mai-inteligenti/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@top/116260205613586786",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@top/116130733874432947",
       "date": "Wed, 25 Feb 2026 10:12:51 +0000",
       "content": "📰Majoritatea dintre noi ne amintim sunetul sâcâitor și lumina care tremura în vechile birouri, școli sau spitale. Acea atmosferă apăsătoare era cauzată de tuburile fluorescente clasice, o tehnologie care a dominat iluminatul comercial zeci de ani. Trecerea la iluminatul modern nu este doar un moft sau o măsură de reducere a facturii la energie electrică.… 📰 https:// top15.ro/de-ce-noile-neoane-le d-nu-palpaie-si-protejeaza-vederea/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@top/116130142493882240",
-      "date": "Wed, 25 Feb 2026 07:42:28 +0000",
-      "content": "📰Accidentele se întâmplă. Reacția ta contează mai mult decât incidentul Indiferent cât de atent conduci, există factori pe care nu îi controlezi: trafic aglomerat în Mărăști la ora 8:30, o frânare bruscă în Centru, polei dimineața devreme iarna sau un șofer neatent într-o intersecție.Dacă te afli la volanul unei mașini închiriate în Cluj-Napoca și apare… 📰 https:// top15.ro/ce-faci-daca-ai-un-ac cident-cu-masina-inchiriata-in-cluj-napoca-pasii-corecti-fara-ambiguitati/"
     }
   ]
 }
