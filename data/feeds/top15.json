@@ -4,8 +4,14 @@
   "site_feed": "https://top15.ro/feed/",
   "mastodon": "https://social.5th.ro/@top",
   "mastodon_rss": "https://social.5th.ro/@top.rss",
-  "updated_at": "2026-03-23T10:15:14Z",
+  "updated_at": "2026-03-23T11:10:10Z",
   "site_posts": [
+    {
+      "title": "Curele dințate și Poly-V: când merită upgrade-ul față de curelele clasice",
+      "link": "https://top15.ro/curele-dintate-si-poly-v-cand-merita-upgrade-ul-fata-de-curelele-clasice/",
+      "date": "Mon, 23 Mar 2026 10:51:54 +0000",
+      "summary": "În multe aplicații, curelele clasice își fac treaba foarte bine și rămân o alegere corectă.... Articolul Curele dințate și Poly-V: când merită upgrade-ul față de curelele clasice apare prima dată în TOP 15 ."
+    },
     {
       "title": "De ce asistenții vocali devin mai inteligenți",
       "link": "https://top15.ro/de-ce-asistentii-vocali-devin-mai-inteligenti/",
@@ -71,15 +77,15 @@
       "link": "https://top15.ro/tehnologie-cu-suflet-asociatia-conil-a-facut-pasul-spre-digitalizare-prin-pnrr-pentru-a-fi-mai-aproape-de-copiii-cu-nevoi-speciale/",
       "date": "Wed, 25 Feb 2026 10:31:27 +0000",
       "summary": "Asociatia CENTRUL DE PERFORMANTA BEFORE &#38; AFTER SCHOOL CONIL anunta cu bucurie si recunostinta apropierea... Articolul Tehnologie cu suflet: Asociatia CONIL a facut pasul spre digitalizare prin PNRR pentru a fi mai aproape de copiii cu nevoi speciale apare prima dată în TOP 15 ."
-    },
-    {
-      "title": "Ce faci dacă ai un accident cu mașina închiriată în Cluj-Napoca: pașii corecți, fără ambiguități",
-      "link": "https://top15.ro/ce-faci-daca-ai-un-accident-cu-masina-inchiriata-in-cluj-napoca-pasii-corecti-fara-ambiguitati/",
-      "date": "Tue, 17 Feb 2026 22:22:00 +0000",
-      "summary": "Accidentele se &#238;nt&#226;mplă. Reacția ta contează mai mult dec&#226;t incidentul Indiferent c&#226;t de atent conduci,... Articolul Ce faci dacă ai un accident cu mașina închiriată în Cluj-Napoca: pașii corecți, fără ambiguități apare prima dată în TOP 15 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@top/116278108291747514",
+      "date": "Mon, 23 Mar 2026 10:52:07 +0000",
+      "content": "📰În multe aplicații, curelele clasice își fac treaba foarte bine și rămân o alegere corectă. Totuși, există situații în care randamentul, precizia și spațiul disponibil devin mai importante decât simpla înlocuire a unei piese uzate cu una similară. Exact aici intră în discuție soluțiile moderne de transmisie, iar cele mai frecvent comparate variante sunt curelele… 📰 https:// top15.ro/curele-dintate-si-pol y-v-cand-merita-upgrade-ul-fata-de-curelele-clasice/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@top/116274506403965856",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@top/116131330733937444",
       "date": "Wed, 25 Feb 2026 12:44:39 +0000",
       "content": "📰Asociatia CENTRUL DE PERFORMANTA BEFORE &amp; AFTER SCHOOL CONIL anunta cu bucurie si recunostinta apropierea de finalizarea proiectului de investitie “Transformarea digitala a Asociatiei CENTRUL DE PERFORMANTA BEFORE &amp; AFTER SCHOOL CONIL”, un demers care a transformat nu doar modul in care lucram, ci mai ales modul in care putem raspunde nevoilor 📰 https:// top15.ro/tehnologie-cu-suflet- asociatia-conil-a-facut-pasul-spre-digitalizare-prin-pnrr-pentru-a-fi-mai-aproape-de-copiii-cu-nevoi-speciale/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@top/116130733874432947",
-      "date": "Wed, 25 Feb 2026 10:12:51 +0000",
-      "content": "📰Majoritatea dintre noi ne amintim sunetul sâcâitor și lumina care tremura în vechile birouri, școli sau spitale. Acea atmosferă apăsătoare era cauzată de tuburile fluorescente clasice, o tehnologie care a dominat iluminatul comercial zeci de ani. Trecerea la iluminatul modern nu este doar un moft sau o măsură de reducere a facturii la energie electrică.… 📰 https:// top15.ro/de-ce-noile-neoane-le d-nu-palpaie-si-protejeaza-vederea/"
     }
   ]
 }

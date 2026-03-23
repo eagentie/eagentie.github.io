@@ -4,8 +4,14 @@
   "site_feed": "https://afaceri24.ro/feed/",
   "mastodon": "https://social.5th.ro/@afaceri24",
   "mastodon_rss": "https://social.5th.ro/@afaceri24.rss",
-  "updated_at": "2026-03-23T10:14:15Z",
+  "updated_at": "2026-03-23T11:09:17Z",
   "site_posts": [
+    {
+      "title": "Optimizarea infrastructurii sanitare prin implementarea stațiilor de epurare monobloc în zone fără canalizare",
+      "link": "https://afaceri24.ro/optimizarea-infrastructurii-sanitare-prin-implementarea-statiilor-de-epurare-monobloc-in-zone-fara-canalizare/",
+      "date": "Mon, 23 Mar 2026 10:17:34 +0000",
+      "summary": "Sursa foto: Shutterstock&#160; Imaginea poate fi descărcată de aici. (a nu se publica acest text)&#160; În multe localități din România, extinderea rețelelor publice de canalizare avansează lent. Dacă dezvolți o casă, un ansamblu rezidențial sau o pensiune într-o zonă fără canalizare, trebuie să gestionezi apele uzate în mod legal, sigur și eficient. Fără o soluție [&#8230;] The post Optimizarea infrastructurii sanitare prin implementarea stațiilor de epurare monobloc în zone fără canalizare appeared first on Afaceri 24 ."
+    },
     {
       "title": "Cum optimizează Galaxy S26 multitasking-ul",
       "link": "https://afaceri24.ro/cum-optimizeaza-galaxy-s26-multitasking-ul/",
@@ -59,15 +65,15 @@
       "link": "https://afaceri24.ro/de-la-trusou-de-serie-la-trusou-cu-identitate-proprie-2/",
       "date": "Wed, 04 Mar 2026 09:12:34 +0000",
       "summary": "Lovia: Trusourile de botez personalizate, între tradiție și noua estetică a amintirilor de familie Un atelier românesc propune un model diferit pe piața articolelor de botez: seturi complete din bumbac natural, broderie personalizată cu numele copilului și data botezului, livrate în cutii de lemn masiv Piața articolelor de botez din România traversează o schimbare vizibilă [&#8230;] The post De la trusou de serie la trusou cu identitate proprie appeared first on Afaceri 24 ."
-    },
-    {
-      "title": "Cum optimizezi curățenia pe zone cu un aspirator AI",
-      "link": "https://afaceri24.ro/cum-optimizezi-curatenia-pe-zone-cu-un-aspirator-ai/",
-      "date": "Fri, 27 Feb 2026 06:03:21 +0000",
-      "summary": "Cum optimizezi curățenia pe zone cu un aspirator AI Curățenia pe zone diferite necesită abordări diferite. Aspiratoarele cu AI pot adapta automat modul de lucru. Ce înseamnă Optimizarea curățeniei pe zone cu un aspirator AI înseamnă ajustarea automată a procesului în funcție de spațiu. Sistemul tratează diferit treptele, colțurile sau suprafețele deschise. Această tehnologie permite [&#8230;] The post Cum optimizezi curățenia pe zone cu un aspirator AI appeared first on Afaceri 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@afaceri24/116277972590299370",
+      "date": "Mon, 23 Mar 2026 10:17:36 +0000",
+      "content": "📄Sursa foto: Shutterstock Imaginea poate fi descărcată de aici. (a nu se publica acest text) În multe localități din România, extinderea rețelelor publice de canalizare avansează lent. Dacă dezvolți o casă, un ansamblu rezidențial sau o pensiune într-o zonă fără canalizare, trebuie să gestionezi apele uzate în mod legal, sigur și eficient. Fără o soluție… 💡 https:// afaceri24.ro/optimizarea-infra structurii-sanitare-prin-implementarea-statiilor-de-epurare-monobloc-in-zone-fara-canalizare/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@afaceri24/116274454360638526",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@afaceri24/116141553949945154",
       "date": "Fri, 27 Feb 2026 08:04:33 +0000",
       "content": "📄Cum optimizezi curățenia pe zone cu un aspirator AICurățenia pe zone diferite necesită abordări diferite. Aspiratoarele cu AI pot adapta automat modul de lucru.Ce înseamnăOptimizarea curățeniei pe zone cu un aspirator AI înseamnă ajustarea automată a procesului în funcție de spațiu. Sistemul tratează diferit treptele, colțurile sau suprafețele deschise. Această tehnologie permite o curățare mai… 💡 https:// afaceri24.ro/cum-optimizezi-cu ratenia-pe-zone-cu-un-aspirator-ai/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@afaceri24/116137849755574598",
-      "date": "Thu, 26 Feb 2026 16:22:31 +0000",
-      "content": "📄Insula Corfu rămâne una dintre cele mai populare destinații grecești pentru turiștii români care caută un amestec de istorie venețiană și peisaje verzi. Această fâșie de pământ din Marea Ionică are o varietate surprinzătoare de microclimate și atmosfere locale. Poți alege o zonă unde muzica se aude până în zori sau poți opta pentru un… 💡 https:// afaceri24.ro/ghidul-statiunilo r-din-corfu-de-la-petrecerile-din-kavos-la-linistea-din-kassiopi/"
     }
   ]
 }
