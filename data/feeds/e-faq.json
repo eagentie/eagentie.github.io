@@ -4,8 +4,14 @@
   "site_feed": "https://e-faq.ro/feed/",
   "mastodon": "https://social.5th.ro/@efaq",
   "mastodon_rss": "https://social.5th.ro/@efaq.rss",
-  "updated_at": "2026-03-24T15:19:51Z",
+  "updated_at": "2026-03-24T17:15:04Z",
   "site_posts": [
+    {
+      "title": "Espressor în Custodie: Ghidul Complet pentru Cafeaua Premium fără Costuri de Achiziție",
+      "link": "https://e-faq.ro/espressor-in-custodie-ghidul-complet-pentru-cafeaua-premium-fara-costuri-de-achizitie/",
+      "date": "Tue, 24 Mar 2026 14:43:12 +0000",
+      "summary": "Espressor în custodie fără investiție inițială! Aparate profesionale livrate și instalate gratuit. Plătești doar cafeaua. Descoperă oferta pe Expresorul.ro Articolul Espressor în Custodie: Ghidul Complet pentru Cafeaua Premium fără Costuri de Achiziție apare prima dată în FAQ - Intrebari Frecvente ."
+    },
     {
       "title": "Operatii de amigdale: amigdalectomie si amigdalotomie. Cum alegi corect interventia potrivita",
       "link": "https://e-faq.ro/operatii-de-amigdale-amigdalectomie-si-amigdalotomie-cum-alegi-corect-interventia-potrivita/",
@@ -53,15 +59,15 @@
       "link": "https://e-faq.ro/zincul-proprietati-si-rolul-sau-in-functionarea-normala-a-organismului/",
       "date": "Sun, 08 Feb 2026 15:35:12 +0000",
       "summary": "Zincul este un oligoelement esențial care trebuie furnizat zilnic prin alimentație, deoarece organismul nu îl [&#8230;] Articolul Zincul – proprietăți și rolul său în funcționarea normală a organismului apare prima dată în FAQ - Intrebari Frecvente ."
-    },
-    {
-      "title": "Placare scară interioară cu lemn: top 10 avantaje",
-      "link": "https://e-faq.ro/placare-scara-interioara-cu-lemn-top-10-avantaje/",
-      "date": "Tue, 27 Jan 2026 05:14:12 +0000",
-      "summary": "Alegerea serviciului de placare scară interioară cu lemn e una dintre acele decizii care schimbă [&#8230;] Articolul Placare scară interioară cu lemn: top 10 avantaje apare prima dată în FAQ - Intrebari Frecvente ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@efaq/116285156188721367",
+      "date": "Tue, 24 Mar 2026 16:44:29 +0000",
+      "content": "🚀 &lt;p&gt;Espressor în custodie fără investiție inițială! Aparate profesionale livrate și instalate gratuit. Plătești doar cafeaua. Descoperă oferta pe Expresorul.ro&lt;/p&gt; 🔗 Citeste tot: https:// e-faq.ro/espressor-in-custodie -ghidul-complet-pentru-cafeaua-premium-fara-costuri-de-achizitie/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@efaq/116255956258008151",
@@ -127,12 +133,6 @@
       "link": "https://social.5th.ro/@efaq/115937725344106306",
       "date": "Thu, 22 Jan 2026 08:08:15 +0000",
       "content": "🚀 Alegerea primei institutii de invatamant pentru cei mici reprezinta una dintre cele mai dificile si importante decizii pe care un parinte trebuie sa le ia. In peisajul educational actual, o unitate de tip cresa si gradinita trebuie sa ofere mai mult decat supraveghere; trebuie sa creeze un univers al sigurantei, al explorarii si al dezvoltarii… 🔗 Mai mult: https:// e-faq.ro/parintii-aleg-si-reco manda-cresa-si-gradinita-taramul-cunoasterii-din-bucuresti-pentru-educatia-timpurie/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@efaq/115736748779744516",
-      "date": "Wed, 17 Dec 2025 20:17:16 +0000",
-      "content": "🚀 V-ați săturat de zgomotul constant și de algoritmii agresivi care vă dictează ce vedeți în feed-ul rețelelor sociale? Pe măsură ce migrația către platforme descentralizate, cum ar fi Mastodon, capătă amploare, controlul asupra experienței devine primordial. Această rețea unică vă oferă pârghii puternice pentru a vă modela spațiul digital exact cum doriți. Dacă sunteți în… 🔗 Complet aici: https:// e-faq.ro/liste-filtre-si-mutin g-cum-iti-cureti-feed-ul-pe-mastodon/"
     }
   ]
 }
