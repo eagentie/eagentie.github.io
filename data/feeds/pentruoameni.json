@@ -4,8 +4,14 @@
   "site_feed": "https://pentruoameni.ro/feed/",
   "mastodon": "https://social.5th.ro/@pentruoameni",
   "mastodon_rss": "https://social.5th.ro/@pentruoameni.rss",
-  "updated_at": "2026-03-25T10:07:51Z",
+  "updated_at": "2026-03-25T11:05:56Z",
   "site_posts": [
+    {
+      "title": "Tehnici eficiente pentru a planta semințele de gazon corect și uniform",
+      "link": "https://pentruoameni.ro/tehnici-eficiente-pentru-a-planta-semintele-de-gazon-corect-si-uniform/",
+      "date": "Wed, 25 Mar 2026 10:57:35 +0000",
+      "summary": "Planificarea și însămânțarea unui gazon pot părea o provocare, dar cu tehnicile potrivite, poți transforma acest proces într-o activitate simplă și chiar plăcută. Un gazon uniform și sănătos nu doar că îmbunătățește aspectul general al grădinii tale, ci aduce și un sentiment de împlinire. De la pregătirea solului, alegerea semințelor potrivite, până la tehnicile de răspândire [&#8230;] Articolul Tehnici eficiente pentru a planta semințele de gazon corect și uniform apare prima dată în Pentru Oameni ."
+    },
     {
       "title": "Top 5 motive pentru a investi în siguranțe electrice automate de calitate",
       "link": "https://pentruoameni.ro/top-5-motive-pentru-a-investi-in-sigurante-electrice-automate-de-calitate/",
@@ -71,15 +77,15 @@
       "link": "https://pentruoameni.ro/monitorizare-flota-auto-ce-rapoarte-conteaza-cu-adevarat/",
       "date": "Tue, 30 Dec 2025 14:50:05 +0000",
       "summary": "Monitorizare flotă auto nu înseamnă doar să vezi mașinile pe hartă, ci să poți lua decizii rapide pe baza unor rapoarte care spun clar ce s-a întâmplat: kilometri, timpi, opriri, costuri și disciplină în trafic. Un sistem bun îți arată unde se pierd minutele și banii, fără să fie nevoie să „interpretezi” după telefoane, foi [&#8230;] Articolul Monitorizare flotă auto: Ce rapoarte contează cu adevărat apare prima dată în Pentru Oameni ."
-    },
-    {
-      "title": "Ce este un GPS tracker și cum funcționează localizarea în timp real?",
-      "link": "https://pentruoameni.ro/ce-este-un-gps-tracker-si-cum-functioneaza-localizarea-in-timp-real/",
-      "date": "Fri, 26 Dec 2025 10:36:17 +0000",
-      "summary": "Un GPS tracker este un dispozitiv mic (uneori cât o brichetă, alteori mai compact) care îți arată unde se află un vehicul, un utilaj sau chiar un obiect valoros. Practic, îl folosești când vrei localizare clară, fără să depinzi de “unde ai parcat” sau de apeluri la șofer din în de minute. În viața reală, [&#8230;] Articolul Ce este un GPS tracker și cum funcționează localizarea în timp real? apare prima dată în Pentru Oameni ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@pentruoameni/116289454614281320",
+      "date": "Wed, 25 Mar 2026 10:57:38 +0000",
+      "content": "Planificarea și însămânțarea unui gazon pot părea o provocare, dar cu tehnicile potrivite, poți transforma acest proces într-o activitate simplă și chiar plăcută. Un gazon uniform și sănătos nu doar că îmbunătățește aspectul general al grădinii tale, ci aduce și un sentiment de împlinire. De la pregătirea solului, alegerea semințelor potrivite, până la tehnicile de răspândire… .... https:// pentruoameni.ro/tehnici-eficie nte-pentru-a-planta-semintele-de-gazon-corect-si-uniform/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@pentruoameni/116255960948374650",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@pentruoameni/115809072443653782",
       "date": "Tue, 30 Dec 2025 14:50:07 +0000",
       "content": "Monitorizare flotă auto nu înseamnă doar să vezi mașinile pe hartă, ci să poți lua decizii rapide pe baza unor rapoarte care spun clar ce s-a întâmplat: kilometri, timpi, opriri, costuri și disciplină în trafic. Un sistem bun îți arată unde se pierd minutele și banii, fără să fie nevoie să „interpretezi” după telefoane, foi… .... https:// pentruoameni.ro/monitorizare-f lota-auto-ce-rapoarte-conteaza-cu-adevarat/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@pentruoameni/115785425168913776",
-      "date": "Fri, 26 Dec 2025 10:36:19 +0000",
-      "content": "Un GPS tracker este un dispozitiv mic (uneori cât o brichetă, alteori mai compact) care îți arată unde se află un vehicul, un utilaj sau chiar un obiect valoros. Practic, îl folosești când vrei localizare clară, fără să depinzi de “unde ai parcat” sau de apeluri la șofer din în de minute. În viața reală,… .... https:// pentruoameni.ro/ce-este-un-gps -tracker-si-cum-functioneaza-localizarea-in-timp-real/"
     }
   ]
 }

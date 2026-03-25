@@ -4,8 +4,14 @@
   "site_feed": "https://doctorite.ro/feed/",
   "mastodon": "https://social.5th.ro/@DoctoriteBlog",
   "mastodon_rss": "https://social.5th.ro/@DoctoriteBlog.rss",
-  "updated_at": "2026-03-25T10:09:13Z",
+  "updated_at": "2026-03-25T11:07:19Z",
   "site_posts": [
+    {
+      "title": "Când este recomandată radiografia dentară și ce probleme poate descoperi din timp",
+      "link": "https://doctorite.ro/cand-este-recomandata-radiografia-dentara-si-ce-probleme-poate-descoperi-din-timp/",
+      "date": "Wed, 25 Mar 2026 10:58:57 +0000",
+      "summary": "Cei mai mulți oameni ajung la dentist în același moment: când începe să doară. E... Articolul Când este recomandată radiografia dentară și ce probleme poate descoperi din timp apare prima dată în Doctorite ."
+    },
     {
       "title": "Rolul magneziului în sănătatea oaselor și prevenirea osteoporozei",
       "link": "https://doctorite.ro/rolul-magneziului-in-sanatatea-oaselor-si-prevenirea-osteoporozei/",
@@ -59,15 +65,15 @@
       "link": "https://doctorite.ro/baiat-sau-fetita-saptamana-exacta-in-care-ecografia-poate-confirma-sexul-bebelusului/",
       "date": "Fri, 05 Dec 2025 16:45:47 +0000",
       "summary": "Dintre toate surprizele pe care le rezervă viața, puține se compară cu momentul dezvăluirii sexului... Articolul Băiat sau fetiță? Săptămâna exactă în care ecografia poate confirma sexul bebelușului apare prima dată în Doctorite ."
-    },
-    {
-      "title": "De ce combinațiile sunt importante pentru magneziu",
-      "link": "https://doctorite.ro/de-ce-combinatiile-sunt-importante-pentru-magneziu/",
-      "date": "Thu, 04 Dec 2025 18:58:45 +0000",
-      "summary": "Magneziul este un mineral esențial implicat în sute de procese biochimice din organism, inclusiv funcționarea... Articolul De ce combinațiile sunt importante pentru magneziu apare prima dată în Doctorite ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@DoctoriteBlog/116289459962284212",
+      "date": "Wed, 25 Mar 2026 10:58:59 +0000",
+      "content": "Cei mai mulți oameni ajung la dentist în același moment: când începe să doară. E firesc. Dacă nu simți nimic, dacă în oglindă totul pare în regulă și dacă poți mânca fără probleme, ai tendința să amâni. Spui că mergi săptămâna viitoare. Sau luna viitoare. Sau când se mai liniștește programul. Doar că dinții nu… https:// doctorite.ro/cand-este-recoman data-radiografia-dentara-si-ce-probleme-poate-descoperi-din-timp/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@DoctoriteBlog/116199538344157971",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@DoctoriteBlog/115689903136433278",
       "date": "Tue, 09 Dec 2025 13:43:48 +0000",
       "content": "Acizii grași Omega-3 sunt esențiali pentru sănătatea cardiovasculară, funcția cerebrală și controlul inflamației. Totuși, eficiența lor poate crește atunci când sunt combinați cu alți nutrienți care le susțin absorbția, stabilitatea și modul de acțiune. În alimentația modernă, unde raportul dintre grăsimile „bune” și cele „rele” este dezechilibrat, alegerea partenerilor potriviți pentru Omega-3 poate https:// doctorite.ro/sinergiile-nutrie ntilor-de-ce-combinatiile-conteaza-pentru-omega-3/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@DoctoriteBlog/115689902968703482",
-      "date": "Tue, 09 Dec 2025 13:43:46 +0000",
-      "content": "Una dintre cele mai frustrante experiențe pentru cineva cu dermatită seboreică este aceeași poveste repetată: găsești un tratament, vezi rezultate rapide, iar apoi, la câteva săptămâni, problema revine. Iar asta creează impresia că produsul „nu mai funcționează”. Dar, de fapt, dermatita nu este o problemă care se rezolvă definitiv, ci una care se gestionează în timp.… https:// doctorite.ro/de-ce-rezultatele -pentru-dermatita-seboreica-apar-si-dispar-nu-mai-functioneaza/"
     }
   ]
 }
