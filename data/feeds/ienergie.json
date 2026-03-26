@@ -4,8 +4,14 @@
   "site_feed": "https://iEnergie.ro/feed/",
   "mastodon": "https://social.5th.ro/@ienergie",
   "mastodon_rss": "https://social.5th.ro/@ienergie.rss",
-  "updated_at": "2026-03-26T17:20:02Z",
+  "updated_at": "2026-03-26T19:32:51Z",
   "site_posts": [
+    {
+      "title": "Separator de sarcina 4P tetrapolar: cum a ajuns un aparat de tablou să conteze în siguranța de zi cu zi",
+      "link": "https://ienergie.ro/separator-de-sarcina-4p-tetrapolar-cum-a-ajuns-un-aparat-de-tablou-sa-conteze-in-siguranta-de-zi-cu-zi/",
+      "date": "Thu, 26 Mar 2026 18:48:36 +0000",
+      "summary": "Un subiect tehnic cu miză practică În aparență, discuția despre un separator de sarcină pare strict „pentru electricieni”. Deși denumirea „Separator de sarcina 4P tetrapolar” [Mai mult...] Articolul Separator de sarcina 4P tetrapolar: cum a ajuns un aparat de tablou să conteze în siguranța de zi cu zi apare prima dată în iEnergie ."
+    },
     {
       "title": "Tablă perforată vs. materiale clasice: ce alegi când vrei durabilitate și design modern",
       "link": "https://ienergie.ro/tabla-perforata-vs-materiale-clasice-ce-alegi-cand-vrei-durabilitate-si-design-modern/",
@@ -71,15 +77,15 @@
       "link": "https://ienergie.ro/preluare-de-235-mw-de-catre-ox2-romania-compania-a-cumparat-trei-proiecte-eoliene-dezvoltate-de-future-power/",
       "date": "Tue, 20 Jan 2026 07:58:44 +0000",
       "summary": "OX2 România, divizie a grupului suedez OX2, a finalizat achiziția a trei noi proiecte de energie eoliană de la compania Future Power. Aceste proiecte, localizate [Mai mult...] Articolul Preluare de 235 MW de către OX2 România: Compania a cumpărat trei proiecte eoliene dezvoltate de Future Power apare prima dată în iEnergie ."
-    },
-    {
-      "title": "Statul preia controlul total: Detalii esențiale despre mecanismul de plafonare-compensare la curent și gaze",
-      "link": "https://ienergie.ro/statul-preia-controlul-total-detalii-esentiale-despre-mecanismul-de-plafonare-compensare-la-curent-si-gaze/",
-      "date": "Tue, 20 Jan 2026 07:57:30 +0000",
-      "summary": "Reprezentanții Asociației Furnizorilor de Energie din România (AFEER) au analizat impactul schemei de subvenționare aplicate prin plafonarea și compensarea facturilor la energie electrică și gaze [Mai mult...] Articolul Statul preia controlul total: Detalii esențiale despre mecanismul de plafonare-compensare la curent și gaze apare prima dată în iEnergie ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@ienergie/116296969021395154",
+      "date": "Thu, 26 Mar 2026 18:48:38 +0000",
+      "content": "Un subiect tehnic cu miză practică În aparență, discuția despre un separator de sarcină pare strict „pentru electricieni”. Deși denumirea „Separator de sarcina 4P tetrapolar” pare un fragment dintr-o fișă tehnică, întrebarea din spate e foarte practică: cum oprești energia în siguranță? În realitate, subiectul a devenit relevant pentru oricine are un tablou modern: https:// ienergie.ro/separator-de-sarci na-4p-tetrapolar-cum-a-ajuns-un-aparat-de-tablou-sa-conteze-in-siguranta-de-zi-cu-zi/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@ienergie/116246071489056226",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@ienergie/115926363639580898",
       "date": "Tue, 20 Jan 2026 07:58:49 +0000",
       "content": "OX2 România, divizie a grupului suedez OX2, a finalizat achiziția a trei noi proiecte de energie eoliană de la compania Future Power. Aceste proiecte, localizate în județele Vaslui și Vrancea, adaugă o capacitate totală de 235 MW portofoliului dezvoltatorului de energie regenerabilă. Prin această tranzacție strategică, OX2 își consolidează prezența pe piața energetică https:// ienergie.ro/preluare-de-235-mw -de-catre-ox2-romania-compania-a-cumparat-trei-proiecte-eoliene-dezvoltate-de-future-power/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@ienergie/115926358627620471",
-      "date": "Tue, 20 Jan 2026 07:57:33 +0000",
-      "content": "Reprezentanții Asociației Furnizorilor de Energie din România (AFEER) au analizat impactul schemei de subvenționare aplicate prin plafonarea și compensarea facturilor la energie electrică și gaze naturale. Conform evaluărilor AFEER, în perioada de implementare a acestei scheme, statul a încasat sume substanțiale de la companiile din sectorul energetic, totalizând https:// ienergie.ro/statul-preia-contr olul-total-detalii-esentiale-despre-mecanismul-de-plafonare-compensare-la-curent-si-gaze/"
     }
   ]
 }
