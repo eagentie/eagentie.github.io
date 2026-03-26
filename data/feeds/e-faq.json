@@ -4,8 +4,14 @@
   "site_feed": "https://e-faq.ro/feed/",
   "mastodon": "https://social.5th.ro/@efaq",
   "mastodon_rss": "https://social.5th.ro/@efaq.rss",
-  "updated_at": "2026-03-26T05:50:09Z",
+  "updated_at": "2026-03-26T07:36:49Z",
   "site_posts": [
+    {
+      "title": "Releul termic: dispozitivul discret care protejează motoarele din fabrici și locuințe",
+      "link": "https://e-faq.ro/releul-termic-dispozitivul-discret-care-protejeaza-motoarele-din-fabrici-si-locuinte/",
+      "date": "Thu, 26 Mar 2026 07:31:39 +0000",
+      "summary": "Când un motor electric cedează brusc în mijlocul unei linii de producție, costurile nu vin [&#8230;] Articolul Releul termic: dispozitivul discret care protejează motoarele din fabrici și locuințe apare prima dată în FAQ - Intrebari Frecvente ."
+    },
     {
       "title": "Espressor în Custodie: Ghidul Complet pentru Cafeaua Premium fără Costuri de Achiziție",
       "link": "https://e-faq.ro/espressor-in-custodie-ghidul-complet-pentru-cafeaua-premium-fara-costuri-de-achizitie/",
@@ -53,15 +59,15 @@
       "link": "https://e-faq.ro/detector-cabluri-electrice-in-pereti-cum-localizezi-trasee-ascunse-fara-spargeri-erori-si-riscuri/",
       "date": "Wed, 11 Feb 2026 06:49:49 +0000",
       "summary": "Oricine a facut renovari, instalatii electrice sau interventii in cladiri stie ca “surprizele” din pereti [&#8230;] Articolul Detector cabluri electrice in pereti: cum localizezi trasee ascunse fara spargeri, erori si riscuri apare prima dată în FAQ - Intrebari Frecvente ."
-    },
-    {
-      "title": "Zincul – proprietăți și rolul său în funcționarea normală a organismului",
-      "link": "https://e-faq.ro/zincul-proprietati-si-rolul-sau-in-functionarea-normala-a-organismului/",
-      "date": "Sun, 08 Feb 2026 15:35:12 +0000",
-      "summary": "Zincul este un oligoelement esențial care trebuie furnizat zilnic prin alimentație, deoarece organismul nu îl [&#8230;] Articolul Zincul – proprietăți și rolul său în funcționarea normală a organismului apare prima dată în FAQ - Intrebari Frecvente ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@efaq/116294307170751106",
+      "date": "Thu, 26 Mar 2026 07:31:42 +0000",
+      "content": "🚀 Când un motor electric cedează brusc în mijlocul unei linii de producție, costurile nu vin doar din reparații — vin din orele de oprire, din comenzile întârziate, din lanțurile de aprovizionare perturbate. De multe ori, cauza directă a unui astfel de incident ar fi putut fi prevenită cu un dispozitiv mic, adesea ignorat în fazele… 🔗 Citeste tot: https:// e-faq.ro/releul-termic-dispozi tivul-discret-care-protejeaza-motoarele-din-fabrici-si-locuinte/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@efaq/116285156188721367",
@@ -127,12 +133,6 @@
       "link": "https://social.5th.ro/@efaq/115950721121771049",
       "date": "Sat, 24 Jan 2026 15:13:15 +0000",
       "content": "🚀 &lt;p&gt;Unde găsesc ulei MCT? Ghid complet pentru a alege ulei de cocos MCT de calitate în România. Transparență totală la compoziție C8/C10 și utilizare keto.&lt;/p&gt; 🔗 Citeste tot: https:// e-faq.ro/unde-gasesc-ulei-mct- in-romania-top-magazine-din-romania-in-2026/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@efaq/115937725344106306",
-      "date": "Thu, 22 Jan 2026 08:08:15 +0000",
-      "content": "🚀 Alegerea primei institutii de invatamant pentru cei mici reprezinta una dintre cele mai dificile si importante decizii pe care un parinte trebuie sa le ia. In peisajul educational actual, o unitate de tip cresa si gradinita trebuie sa ofere mai mult decat supraveghere; trebuie sa creeze un univers al sigurantei, al explorarii si al dezvoltarii… 🔗 Mai mult: https:// e-faq.ro/parintii-aleg-si-reco manda-cresa-si-gradinita-taramul-cunoasterii-din-bucuresti-pentru-educatia-timpurie/"
     }
   ]
 }
