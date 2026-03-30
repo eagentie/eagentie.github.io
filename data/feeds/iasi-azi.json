@@ -4,8 +4,14 @@
   "site_feed": "https://iasi-azi.ro/feed/",
   "mastodon": "https://social.5th.ro/@Iasi",
   "mastodon_rss": "https://social.5th.ro/@Iasi.rss",
-  "updated_at": "2026-03-30T17:11:02Z",
+  "updated_at": "2026-03-30T18:05:49Z",
   "site_posts": [
+    {
+      "title": "Forumvideochat.ro – povești despre VivaDiva și alte studiouri pe care modele din Iași le descoperă prea târziu",
+      "link": "https://iasi-azi.ro/forumvideochat-ro-povesti-despre-vivadiva-si-alte-studiouri-pe-care-modele-din-iasi-le-descopera-prea-tarziu/",
+      "date": "Mon, 30 Mar 2026 17:13:04 +0000",
+      "summary": "Când Andra s-a gândit prima dată să devină model de videochat în Iași, totul părea foarte simplu. Văzuse câteva anunțuri online care promiteau câștiguri mari și un stil de viață complet diferit de cel al unui job obișnuit. Ideea de independență financiară o atrăgea, iar imaginile cu vacanțe, haine de firmă și mașini scumpe păreau... Articolul Forumvideochat.ro – povești despre VivaDiva și alte studiouri pe care modele din Iași le descoperă prea târziu apare prima dată în Iasi AZI ."
+    },
     {
       "title": "Cum funcționează recomandările pe Mastodon (și de ce nu sunt la fel peste tot)",
       "link": "https://iasi-azi.ro/cum-functioneaza-recomandarile-pe-mastodon-si-de-ce-nu-sunt-la-fel-peste-tot/",
@@ -59,15 +65,15 @@
       "link": "https://iasi-azi.ro/core-web-vitals-in-2025-cum-atingi-100-100/",
       "date": "Wed, 03 Sep 2025 22:20:32 +0000",
       "summary": "Vrei să-ți îmbunătățești performanța site-ului și să obții un scor de 100/100 la Lighthouse? Atunci trebuie să înțelegi importanța Core Web Vitals. Un site rapid și eficient este esențial pentru succesul online, iar această resursă te va ghida pas cu pas. Ce sunt Core Web Vitals? Core Web Vitals sunt o serie de metrici cheie... Articolul Core Web Vitals în 2025: cum atingi 100/100 apare prima dată în Iasi AZI ."
-    },
-    {
-      "title": "Publicații locale & nișe din Iași: criterii, liste utile și outreach care chiar funcționează",
-      "link": "https://iasi-azi.ro/publicatii-locale-iasi-nise/",
-      "date": "Sun, 17 Aug 2025 13:23:49 +0000",
-      "summary": "Publicul din Iași consumă informație în ritmul orașului: concret, cu exemple apropiate de viața de zi cu zi și cu accent pe proiecte reale. O listă curată de publicatii locale Iasi te ajută să obții apariții cu impact, să accelerezi indexarea și să transformi vizibilitatea în cereri reale. În locul „listelor cu de toate”, acest... Articolul Publicații locale &amp; nișe din Iași: criterii, liste utile și outreach care chiar funcționează apare prima dată în Iasi AZI ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@Iasi/116319242462611569",
+      "date": "Mon, 30 Mar 2026 17:13:04 +0000",
+      "content": "Când Andra s-a gândit prima dată să devină model de videochat în Iași, totul părea foarte simplu. Văzuse câteva anunțuri online care promiteau câștiguri mari și un stil de viață complet diferit de cel al unui job obișnuit. Ideea de independență financiară o atrăgea, iar imaginile cu vacanțe, haine de firmă și mașini scumpe păreau… https:// iasi-azi.ro/forumvideochat-ro- povesti-despre-vivadiva-si-alte-studiouri-pe-care-modele-din-iasi-le-descopera-prea-tarziu/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@Iasi/115736913568344379",
