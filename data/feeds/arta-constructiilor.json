@@ -4,8 +4,14 @@
   "site_feed": "https://arta-constructiilor.ro/feed/",
   "mastodon": "https://social.5th.ro/@ArtaConstructiilor",
   "mastodon_rss": "https://social.5th.ro/@ArtaConstructiilor.rss",
-  "updated_at": "2026-03-30T03:39:26Z",
+  "updated_at": "2026-03-30T06:07:34Z",
   "site_posts": [
+    {
+      "title": "WC cu bideu încorporat sau separat? Iată ce diferențe există",
+      "link": "https://arta-constructiilor.ro/wc-cu-bideu-incorporat-sau-separat-iata-ce-diferente-exista/",
+      "date": "Mon, 30 Mar 2026 04:34:47 +0000",
+      "summary": "Bideul a fost mulți ani ceva exotic, întâlnit mai degrabă în hoteluri luxoase sau în casele oamenilor care călătoriseră mult. Apoi a dispărut discret din &#8230; Articolul WC cu bideu încorporat sau separat? Iată ce diferențe există apare prima dată în Arta Constructiilor ."
+    },
     {
       "title": "Contactori modulare 4P: componente esențiale în automatizarea modernă",
       "link": "https://arta-constructiilor.ro/contactori-modulare-4p-componente-esentiale-in-automatizarea-moderna/",
@@ -59,15 +65,15 @@
       "link": "https://arta-constructiilor.ro/jucarii-copii-2-ani-idei-educative-sigure-si-distractive-pentru-micii-exploratori/",
       "date": "Mon, 01 Dec 2025 16:11:24 +0000",
       "summary": "La v&#226;rsta de 2 ani, copiii sunt plini de energie și curiozitate &#8211; adevărați mici exploratori dornici să descopere lumea prin joacă. Alegerea de jucării &#8230; Articolul Jucării copii 2 ani: Idei educative, sigure și distractive pentru micii exploratori apare prima dată în Arta Constructiilor ."
-    },
-    {
-      "title": "2025: cum adaptezi articolele SEO pentru social media și newsletter",
-      "link": "https://arta-constructiilor.ro/2025-cum-adaptezi-articolele-seo-pentru-social-media-si-newsletter/",
-      "date": "Mon, 01 Dec 2025 12:07:49 +0000",
-      "summary": "Introducere: De ce Repurposing Content este Noua Regulă de Aur în Marketingul Digital Atenție: Simți că depui eforturi uriașe pentru a crea conținut nou, dar &#8230; Articolul 2025: cum adaptezi articolele SEO pentru social media și newsletter apare prima dată în Arta Constructiilor ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@ArtaConstructiilor/116316260780419162",
+      "date": "Mon, 30 Mar 2026 04:34:47 +0000",
+      "content": "Bideul a fost mulți ani ceva exotic, întâlnit mai degrabă în hoteluri luxoase sau în casele oamenilor care călătoriseră mult. Apoi a dispărut discret din proiectele de renovare, sacrificat, de obicei, în favoarea spațiului.Acum revine, dar într-o formă complet diferită: nu ca obiect separat montat lângă WC, ci integrat direct în vasul de toaletă. Și… .... 🌐 https:// arta-constructiilor.ro/wc-cu-b ideu-incorporat-sau-separat-iata-ce-diferente-exista/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@ArtaConstructiilor/116246044762789767",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@ArtaConstructiilor/115736891415472483",
       "date": "Wed, 17 Dec 2025 20:53:32 +0000",
       "content": "Ghid Esențial pentru Automatizarea Mastodon: Optimizarea Postărilor cu Șabloane de Text Ați publicat vreodată un articol nou pe blogul dvs. și v-ați simțit copleșit de procesul de distribuire manuală pe toate rețelele sociale? Ritmul rapid al Fediverse-ului, în special al platformei Mastodon, cere o prezență constantă și profesională. Totuși, a copia și lipi conținut pentru… .... 🌐 https:// arta-constructiilor.ro/mastodo n-wordpress-plugin-cum-setezi-sabloane-de-text-pentru-postari/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@ArtaConstructiilor/115723110135884576",
-      "date": "Mon, 15 Dec 2025 10:28:47 +0000",
-      "content": "Identificarea automată a scenelor prin AI este o funcție care analizează imaginea în timp real și adaptează setările pentru o redare mai clară. Procesul este discret și urmărește să reducă necesitatea ajustărilor manuale.AI Scene Detection se referă la capacitatea unui sistem de a recunoaște elementele vizuale dintr-un cadru. Tehnologia clasifică obiecte, texturi, luminozitate și tipuri… .... 🌐 https:// arta-constructiilor.ro/cum-fun ctioneaza-ai-scene-detection/"
     }
   ]
 }
