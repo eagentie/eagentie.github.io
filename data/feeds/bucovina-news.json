@@ -4,8 +4,14 @@
   "site_feed": "https://bucovina-news.ro/feed/",
   "mastodon": "https://social.5th.ro/@bucovina",
   "mastodon_rss": "https://social.5th.ro/@bucovina.rss",
-  "updated_at": "2026-03-30T15:40:04Z",
+  "updated_at": "2026-03-30T17:11:51Z",
   "site_posts": [
+    {
+      "title": "Păreri VivaDiva pe Forumvideochat.ro – diferența dintre reclamele studiourilor mici și realitatea din videochatul din Iași",
+      "link": "https://bucovina-news.ro/pareri-vivadiva-pe-forumvideochat-ro-diferenta-dintre-reclamele-studiourilor-mici-si-realitatea-din-videochatul-din-iasi/",
+      "date": "Mon, 30 Mar 2026 17:11:20 +0000",
+      "summary": "Dacă ai căutat pe internet păreri VivaDiva sau informații despre studiouri de videochat din Iași, probabil ai observat cât de promițătoare sunt anunțurile de recrutare. Studiourile mai mici sau mai&#8230; Articolul Păreri VivaDiva pe Forumvideochat.ro – diferența dintre reclamele studiourilor mici și realitatea din videochatul din Iași apare prima dată în Bucovina News ."
+    },
     {
       "title": "Cum gestionezi imagini featured în postarea Mastodon din WordPress",
       "link": "https://bucovina-news.ro/cum-gestionezi-imagini-featured-in-postarea-mastodon-din-wordpress/",
@@ -59,15 +65,15 @@
       "link": "https://bucovina-news.ro/construieste-un-pwa-cu-react-offline-caching-push/",
       "date": "Wed, 03 Sep 2025 22:20:00 +0000",
       "summary": "Îți dorești o aplicație web rapidă, fiabilă și disponibilă chiar și offline? Atunci ești în locul potrivit! Construirea unei PWA (Progressive Web App) cu React este soluția perfectă pentru a&#8230; Articolul Construiește un PWA cu React: offline, caching, push apare prima dată în Bucovina News ."
-    },
-    {
-      "title": "Servicii SEO Bucovina – Publicare & Redactare Continut",
-      "link": "https://bucovina-news.ro/servicii-seo-bucovina/",
-      "date": "Thu, 21 Aug 2025 07:32:35 +0000",
-      "summary": "Acoperim discret orașele din Bucovina cu servicii SEO complete: redactare și publicare pentru advertoriale, articole SEO și comunicate de presă. Mai jos găsești o hartă simplă pe orașe și, la&#8230; Articolul Servicii SEO Bucovina – Publicare &amp; Redactare Continut apare prima dată în Bucovina News ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@bucovina/116319235663255939",
+      "date": "Mon, 30 Mar 2026 17:11:20 +0000",
+      "content": "Dacă ai căutat pe internet păreri VivaDiva sau informații despre studiouri de videochat din Iași, probabil ai observat cât de promițătoare sunt anunțurile de recrutare. Studiourile mai mici sau mai puțin cunoscute spun adesea că oferă bonusuri foarte mari, trafic garantat și câștiguri rapide încă din primele luni. În reclame, totul pare ideal: camere https:// bucovina-news.ro/pareri-vivadi va-pe-forumvideochat-ro-diferenta-dintre-reclamele-studiourilor-mici-si-realitatea-din-videochatul-din-iasi/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@bucovina/115736936054127961",

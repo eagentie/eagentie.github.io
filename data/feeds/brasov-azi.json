@@ -4,8 +4,14 @@
   "site_feed": "https://brasov-azi.ro/feed/",
   "mastodon": "https://social.5th.ro/@brasov",
   "mastodon_rss": "https://social.5th.ro/@brasov.rss",
-  "updated_at": "2026-03-30T15:39:38Z",
+  "updated_at": "2026-03-30T17:11:25Z",
   "site_posts": [
+    {
+      "title": "Păreri VivaDiva – ce spun modelele pe Forumvideochat.ro despre studiourile mici de videochat din Iași",
+      "link": "https://brasov-azi.ro/pareri-vivadiva-ce-spun-modelele-pe-forumvideochat-ro-despre-studiourile-mici-de-videochat-din-iasi/",
+      "date": "Mon, 30 Mar 2026 17:09:06 +0000",
+      "summary": "Dacă te gândești să devii model de videochat în Iași, probabil ai văzut deja numeroase anunțuri online. Multe dintre ele promit câștiguri foarte mari, bonusuri consistente la început și condiții excelente de lucru. Dacă ai căutat pe internet păreri VivaDiva... Articolul Păreri VivaDiva – ce spun modelele pe Forumvideochat.ro despre studiourile mici de videochat din Iași apare prima dată în Brasov AZI ."
+    },
     {
       "title": "Închirieri auto Cluj: cum gestionezi o perioadă incertă și data de retur",
       "link": "https://brasov-azi.ro/inchirieri-auto-cluj-cum-gestionezi-o-perioada-incerta-si-data-de-retur/",
@@ -71,15 +77,15 @@
       "link": "https://brasov-azi.ro/poarta-ecaterinei-poarta-schei-traseu-pietonal-prin-schei-cu-puncte-foto/",
       "date": "Sat, 31 Jan 2026 07:49:25 +0000",
       "summary": "Poarta Ecaterinei (sec. XVI) și Poarta Șchei (sec. XIX) sunt singurele porți păstrate ale Brașovului, esențiale pentru înțelegerea istoriei cetății. Articolul Poarta Ecaterinei &#038; Poarta Șchei: traseu pietonal prin Șchei, cu puncte foto apare prima dată în Brasov AZI ."
-    },
-    {
-      "title": "Moieciu de Sus & Moieciu de Jos: idei de plimbări, puncte foto și gust local",
-      "link": "https://brasov-azi.ro/moieciu-de-sus-moieciu-de-jos-idei-de-plimbari-puncte-foto-si-gust-local/",
-      "date": "Sat, 31 Jan 2026 05:57:39 +0000",
-      "summary": "Moieciu de Jos și Sus, pe Culoarul Rucăr-Bran, combină agroturismul montan cu peisajele spectaculoase dintre Bucegi și Piatra Craiului. Articolul Moieciu de Sus &#038; Moieciu de Jos: idei de plimbări, puncte foto și gust local apare prima dată în Brasov AZI ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@brasov/116319226877677768",
+      "date": "Mon, 30 Mar 2026 17:09:06 +0000",
+      "content": "Dacă te gândești să devii model de videochat în Iași, probabil ai văzut deja numeroase anunțuri online. Multe dintre ele promit câștiguri foarte mari, bonusuri consistente la început și condiții excelente de lucru. Dacă ai căutat pe internet păreri VivaDiva sau informații despre alte studiouri din oraș, ai observat probabil că reclamele sunt foarte convingătoare.… https:// brasov-azi.ro/pareri-vivadiva- ce-spun-modelele-pe-forumvideochat-ro-despre-studiourile-mici-de-videochat-din-iasi/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@brasov/116200822369478813",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@brasov/115989091171068103",
       "date": "Sat, 31 Jan 2026 09:51:15 +0000",
       "content": "Poarta Ecaterinei (sec. XVI) și Poarta Șchei (sec. XIX) sunt singurele porți păstrate ale Brașovului, esențiale pentru înțelegerea istoriei cetății. https:// brasov-azi.ro/poarta-ecaterine i-poarta-schei-traseu-pietonal-prin-schei-cu-puncte-foto/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@brasov/115988662439599229",
-      "date": "Sat, 31 Jan 2026 08:02:13 +0000",
-      "content": "Moieciu de Jos și Sus, pe Culoarul Rucăr-Bran, combină agroturismul montan cu peisajele spectaculoase dintre Bucegi și Piatra Craiului. https:// brasov-azi.ro/moieciu-de-sus-m oieciu-de-jos-idei-de-plimbari-puncte-foto-si-gust-local/"
     }
   ]
 }

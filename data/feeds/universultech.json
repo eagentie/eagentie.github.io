@@ -4,8 +4,14 @@
   "site_feed": "https://UniversulTech.ro/feed/",
   "mastodon": "https://social.5th.ro/@UniversulTech",
   "mastodon_rss": "https://social.5th.ro/@UniversulTech.rss",
-  "updated_at": "2026-03-30T15:40:54Z",
+  "updated_at": "2026-03-30T17:12:37Z",
   "site_posts": [
+    {
+      "title": "Ghidul complet pentru integrarea acumulatorilor în sistemele fotovoltaice",
+      "link": "https://universultech.ro/ghidul-complet-pentru-integrarea-acumulatorilor-in-sistemele-fotovoltaice/",
+      "date": "Mon, 30 Mar 2026 17:05:46 +0000",
+      "summary": "Integrarea acumulatorilor în sistemele fotovoltaice nu mai este doar o tendință, ci o necesitate în lumea modernă, unde eficiența energetică&#8230; Articolul Ghidul complet pentru integrarea acumulatorilor în sistemele fotovoltaice apare prima dată în Universul Tech ."
+    },
     {
       "title": "De ce televizoarele Samsung sunt populare la nivel global",
       "link": "https://universultech.ro/de-ce-televizoarele-samsung-sunt-populare-la-nivel-global/",
@@ -71,15 +77,15 @@
       "link": "https://universultech.ro/top-5-ustensile-care-nu-trebuie-sa-ti-lipseasca-din-trusa-de-scule-pentru-casa/",
       "date": "Thu, 26 Feb 2026 13:15:21 +0000",
       "summary": "În orice locuință, apariția unor mici reparații sau a unor proiecte de bricolaj necesită să ai la îndemână un set&#8230; Articolul Top 5 ustensile care nu trebuie să-ți lipsească din trusa de scule pentru casă apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "Cum să transformi trotinetă electrică într-un aliat al economiei financiare",
-      "link": "https://universultech.ro/cum-sa-transformi-trotineta-electrica-intr-un-aliat-al-economiei-financiare/",
-      "date": "Thu, 26 Feb 2026 12:11:12 +0000",
-      "summary": "Prețurile combustibilului cresc constant și întreținerea mașinii devine din ce în ce mai scumpă, dar o trotinetă electrică se poate&#8230; Articolul Cum să transformi trotinetă electrică într-un aliat al economiei financiare apare prima dată în Universul Tech ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@UniversulTech/116319213994074549",
+      "date": "Mon, 30 Mar 2026 17:05:50 +0000",
+      "content": "💡Integrarea acumulatorilor în sistemele fotovoltaice nu mai este doar o tendință, ci o necesitate în lumea modernă, unde eficiența energetică și sustenabilitatea devin tot mai importante. Într-o eră în care sursele de energie regenerabilă câștigă teren, devine esențial să știi cum să optimizezi consumul și stocarea energiei solare. Acest ghid îți va oferi toate informațiile… ✅ https:// universultech.ro/ghidul-comple t-pentru-integrarea-acumulatorilor-in-sistemele-fotovoltaice/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@UniversulTech/116274511571101391",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@UniversulTech/116137113916686026",
       "date": "Thu, 26 Feb 2026 13:15:23 +0000",
       "content": "💡În orice locuință, apariția unor mici reparații sau a unor proiecte de bricolaj necesită să ai la îndemână un set de ustensile de bază. Chiar dacă nu ai experiență vastă în domeniul reparațiilor, o trusă bine echipată poate transforma orice problemă minoră într-o soluție rapidă și eficientă.Sursa foto: pexels.comArticolul de față îți va prezenta top… ✅ https:// universultech.ro/top-5-ustensi le-care-nu-trebuie-sa-ti-lipseasca-din-trusa-de-scule-pentru-casa/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@UniversulTech/116136861661628161",
-      "date": "Thu, 26 Feb 2026 12:11:14 +0000",
-      "content": "💡Prețurile combustibilului cresc constant și întreținerea mașinii devine din ce în ce mai scumpă, dar o trotinetă electrică se poate dovedi un adevărat partener de nădejde în gestionarea cheltuielilor zilnice. Alegerea unei trotinete electrice nu aduce doar beneficii financiare, ci și o flexibilitate sporită atunci când vine vorba de deplasarea în mediul urban. În acest… ✅ https:// universultech.ro/cum-sa-transf ormi-trotineta-electrica-intr-un-aliat-al-economiei-financiare/"
     }
   ]
 }
