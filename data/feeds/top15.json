@@ -4,7 +4,7 @@
   "site_feed": "https://top15.ro/feed/",
   "mastodon": "https://social.5th.ro/@top",
   "mastodon_rss": "https://social.5th.ro/@top.rss",
-  "updated_at": "2026-03-30T08:01:33Z",
+  "updated_at": "2026-03-30T09:48:11Z",
   "site_posts": [
     {
       "title": "Curele dințate și Poly-V: când merită upgrade-ul față de curelele clasice",
@@ -17,6 +17,12 @@
       "link": "https://top15.ro/de-ce-asistentii-vocali-devin-mai-inteligenti/",
       "date": "Sun, 22 Mar 2026 19:34:00 +0000",
       "summary": "O evoluție dictată de nevoile utilizatorilor Asistenții vocali au pornit ca instrumente simple, capabile să... Articolul De ce asistenții vocali devin mai inteligenți apare prima dată în TOP 15 ."
+    },
+    {
+      "title": "Top 15 semne care îți spun că ai găsit locuința perfectă în București",
+      "link": "https://top15.ro/top-15-semne-care-iti-spun-ca-ai-gasit-locuinta-perfecta-in-bucuresti/",
+      "date": "Wed, 18 Mar 2026 11:22:00 +0000",
+      "summary": "Căutarea unei case noi este un proces care &#238;mbină analiza tehnică riguroasă cu instinctul personal.... Articolul Top 15 semne care îți spun că ai găsit locuința perfectă în București apare prima dată în TOP 15 ."
     },
     {
       "title": "De ce televizoarele premium devin tot mai inteligente",
@@ -71,15 +77,15 @@
       "link": "https://top15.ro/ghid-pentru-comandarea-anvelopelor-de-vara-in-sezonul-rece/",
       "date": "Thu, 26 Feb 2026 13:04:30 +0000",
       "summary": "Comandarea anvelopelor de vară în sezonul rece poate părea un pas neobișnuit, dar are beneficii... Articolul Ghid pentru comandarea anvelopelor de vară în sezonul rece apare prima dată în TOP 15 ."
-    },
-    {
-      "title": "Tehnologie cu suflet: Asociatia CONIL a facut pasul spre digitalizare prin PNRR pentru a fi mai aproape de copiii cu nevoi speciale",
-      "link": "https://top15.ro/tehnologie-cu-suflet-asociatia-conil-a-facut-pasul-spre-digitalizare-prin-pnrr-pentru-a-fi-mai-aproape-de-copiii-cu-nevoi-speciale/",
-      "date": "Wed, 25 Feb 2026 10:31:27 +0000",
-      "summary": "Asociatia CENTRUL DE PERFORMANTA BEFORE &#38; AFTER SCHOOL CONIL anunta cu bucurie si recunostinta apropierea... Articolul Tehnologie cu suflet: Asociatia CONIL a facut pasul spre digitalizare prin PNRR pentru a fi mai aproape de copiii cu nevoi speciale apare prima dată în TOP 15 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@top/116317380699031670",
+      "date": "Mon, 30 Mar 2026 09:19:36 +0000",
+      "content": "📰Căutarea unei case noi este un proces care îmbină analiza tehnică riguroasă cu instinctul personal. În agitația imobiliară din Capitală, poți vizita zeci de proprietăți fără să simți că vreuna ți se potrivește cu adevărat. Totuși, există un moment în care toate piesele puzzle-ului se așază la locul lor. Identificarea acestor semne te ajută să… 📰 https:// top15.ro/top-15-semne-care-iti -spun-ca-ai-gasit-locuinta-perfecta-in-bucuresti/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@top/116278108291747514",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@top/116137071358070043",
       "date": "Thu, 26 Feb 2026 13:04:34 +0000",
       "content": "📰Comandarea anvelopelor de vară în sezonul rece poate părea un pas neobișnuit, dar are beneficii semnificative. Planificând din timp, te poți bucura de o gamă largă de oferte și discounturi, evitând stresul achizițiilor în ultimul moment.Sursa foto: pexels.comÎn acest ghid, vei descoperi sfaturi practice și recomandări utile care te vor ajuta să faci cele mai… 📰 https:// top15.ro/ghid-pentru-comandare a-anvelopelor-de-vara-in-sezonul-rece/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@top/116131330733937444",
-      "date": "Wed, 25 Feb 2026 12:44:39 +0000",
-      "content": "📰Asociatia CENTRUL DE PERFORMANTA BEFORE &amp; AFTER SCHOOL CONIL anunta cu bucurie si recunostinta apropierea de finalizarea proiectului de investitie “Transformarea digitala a Asociatiei CENTRUL DE PERFORMANTA BEFORE &amp; AFTER SCHOOL CONIL”, un demers care a transformat nu doar modul in care lucram, ci mai ales modul in care putem raspunde nevoilor 📰 https:// top15.ro/tehnologie-cu-suflet- asociatia-conil-a-facut-pasul-spre-digitalizare-prin-pnrr-pentru-a-fi-mai-aproape-de-copiii-cu-nevoi-speciale/"
     }
   ]
 }
