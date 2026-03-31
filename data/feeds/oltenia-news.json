@@ -4,7 +4,7 @@
   "site_feed": "https://oltenia-news.ro/feed/",
   "mastodon": "https://social.5th.ro/@oltenia",
   "mastodon_rss": "https://social.5th.ro/@oltenia.rss",
-  "updated_at": "2026-03-31T09:17:06Z",
+  "updated_at": "2026-03-31T10:15:18Z",
   "site_posts": [
     {
       "title": "Cum folosești listele pe Mastodon pentru feed-uri tematice",
@@ -80,6 +80,12 @@
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@oltenia/116323066577899609",
+      "date": "Tue, 31 Mar 2026 09:25:36 +0000",
+      "content": "Identificarea corectă a unui rulment pare simplă doar până în momentul în care trebuie să înlocuiești unul uzat și descoperi că marcajul este șters, dimensiunile nu sunt notate nicăieri, iar aplicația în care lucrează are condiții speciale. În practică, mulți utilizatori pornesc de la ideea că orice rulment „de aceeași mărime” ar trebui să funcționeze.… https:// oltenia-news.ro/rulmenti-ghid- de-identificare-dupa-cod-dimensiuni-si-utilizare-industriale-si-auto/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@oltenia/115736924606448952",
