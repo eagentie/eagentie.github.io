@@ -4,13 +4,19 @@
   "site_feed": "https://UniversulTech.ro/feed/",
   "mastodon": "https://social.5th.ro/@UniversulTech",
   "mastodon_rss": "https://social.5th.ro/@UniversulTech.rss",
-  "updated_at": "2026-03-31T05:54:59Z",
+  "updated_at": "2026-03-31T07:45:17Z",
   "site_posts": [
     {
       "title": "Ghidul complet pentru integrarea acumulatorilor în sistemele fotovoltaice",
       "link": "https://universultech.ro/ghidul-complet-pentru-integrarea-acumulatorilor-in-sistemele-fotovoltaice/",
       "date": "Mon, 30 Mar 2026 17:05:46 +0000",
       "summary": "Integrarea acumulatorilor în sistemele fotovoltaice nu mai este doar o tendință, ci o necesitate în lumea modernă, unde eficiența energetică&#8230; Articolul Ghidul complet pentru integrarea acumulatorilor în sistemele fotovoltaice apare prima dată în Universul Tech ."
+    },
+    {
+      "title": "Ce tehnologii definesc televizoarele moderne",
+      "link": "https://universultech.ro/ce-tehnologii-definesc-televizoarele-moderne/",
+      "date": "Wed, 25 Mar 2026 08:01:00 +0000",
+      "summary": "Evoluția experienței de vizionare Televizoarele moderne nu mai sunt doar dispozitive pentru redarea conținutului, ci platforme complexe care integrează tehnologii&#8230; Articolul Ce tehnologii definesc televizoarele moderne apare prima dată în Universul Tech ."
     },
     {
       "title": "De ce televizoarele Samsung sunt populare la nivel global",
@@ -71,15 +77,15 @@
       "link": "https://universultech.ro/ce-rol-au-solutiile-knox-in-protejarea-datelor-pe-telefoane-si-alte-dispozitive/",
       "date": "Fri, 27 Feb 2026 09:49:00 +0000",
       "summary": "Ce rol au soluțiile Knox în protejarea datelor pe telefoane și alte dispozitive Când folosești zilnic telefonul, tableta sau alte&#8230; Articolul Ce rol au soluțiile Knox în protejarea datelor pe telefoane și alte dispozitive apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "Top 5 ustensile care nu trebuie să-ți lipsească din trusa de scule pentru casă",
-      "link": "https://universultech.ro/top-5-ustensile-care-nu-trebuie-sa-ti-lipseasca-din-trusa-de-scule-pentru-casa/",
-      "date": "Thu, 26 Feb 2026 13:15:21 +0000",
-      "summary": "În orice locuință, apariția unor mici reparații sau a unor proiecte de bricolaj necesită să ai la îndemână un set&#8230; Articolul Top 5 ustensile care nu trebuie să-ți lipsească din trusa de scule pentru casă apare prima dată în Universul Tech ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@UniversulTech/116322506628220506",
+      "date": "Tue, 31 Mar 2026 07:03:11 +0000",
+      "content": "💡Evoluția experienței de vizionareTelevizoarele moderne nu mai sunt doar dispozitive pentru redarea conținutului, ci platforme complexe care integrează tehnologii avansate. Evoluția lor este determinată de dorința utilizatorilor de a avea o experiență mai realistă, mai interactivă și mai personalizată.Astăzi, accentul nu mai este pus doar pe dimensiunea ecranului, ci pe calitatea imaginii, inteligența software și… ✅ https:// universultech.ro/ce-tehnologii -definesc-televizoarele-moderne/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@UniversulTech/116319213994074549",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@UniversulTech/116141975982115972",
       "date": "Fri, 27 Feb 2026 09:51:52 +0000",
       "content": "💡Ce rol au soluțiile Knox în protejarea datelor pe telefoane și alte dispozitiveCând folosești zilnic telefonul, tableta sau alte dispozitive conectate, datele circulă constant între aplicații și rețele. Soluțiile Knox sunt relevante pentru că vizează protecția la nivel de sistem, nu doar la nivel de aplicație.Ce înseamnă / Ce esteSoluțiile Knox sunt un set de… ✅ https:// universultech.ro/ce-rol-au-sol utiile-knox-in-protejarea-datelor-pe-telefoane-si-alte-dispozitive/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@UniversulTech/116137113916686026",
-      "date": "Thu, 26 Feb 2026 13:15:23 +0000",
-      "content": "💡În orice locuință, apariția unor mici reparații sau a unor proiecte de bricolaj necesită să ai la îndemână un set de ustensile de bază. Chiar dacă nu ai experiență vastă în domeniul reparațiilor, o trusă bine echipată poate transforma orice problemă minoră într-o soluție rapidă și eficientă.Sursa foto: pexels.comArticolul de față îți va prezenta top… ✅ https:// universultech.ro/top-5-ustensi le-care-nu-trebuie-sa-ti-lipseasca-din-trusa-de-scule-pentru-casa/"
     }
   ]
 }
