@@ -4,8 +4,14 @@
   "site_feed": "https://recent-news.ro/feed/",
   "mastodon": "https://social.5th.ro/@recent_news",
   "mastodon_rss": "https://social.5th.ro/@recent_news.rss",
-  "updated_at": "2026-03-31T15:21:30Z",
+  "updated_at": "2026-03-31T17:12:49Z",
   "site_posts": [
+    {
+      "title": "Vrei să începi în videochat în Iași? Află pe Forumvideochat.ro ce nu îți spun reclamele Viva Diva!",
+      "link": "https://recent-news.ro/vrei-sa-incepi-in-videochat-in-iasi-afla-pe-forumvideochat-ro-ce-nu-iti-spun-reclamele-viva-diva/",
+      "date": "Tue, 31 Mar 2026 15:40:55 +0000",
+      "summary": "Într-o industrie în care promisiunile sunt peste tot, dar informațiile reale sunt greu de verificat, există un singur loc unde&#8230; Articolul Vrei să începi în videochat în Iași? Află pe Forumvideochat.ro ce nu îți spun reclamele Viva Diva! apare prima dată în Recent News ."
+    },
     {
       "title": "Cum alegi o firma de amenajari interioare serioasa? Ghid complet pentru o renovare fara stres",
       "link": "https://recent-news.ro/cum-alegi-o-firma-de-amenajari-interioare-serioasa-ghid-complet-pentru-o-renovare-fara-stres/",
@@ -59,15 +65,15 @@
       "link": "https://recent-news.ro/ghid-cum-iti-faci-cont-pe-mastodon-romania-pas-cu-pas/",
       "date": "Wed, 17 Dec 2025 16:58:54 +0000",
       "summary": "Sunteți obosit de algoritmii care decid ce merită să vedeți? Vă simțiți urmărit la fiecare click și manipulat de știri&#8230; Articolul Ghid: cum îți faci cont pe Mastodon România pas cu pas apare prima dată în Recent News ."
-    },
-    {
-      "title": "Mixit aduce gustări festive pentru petrecerea de Revelion",
-      "link": "https://recent-news.ro/mixit-aduce-gustari-festive-pentru-petrecerea-de-revelion/",
-      "date": "Wed, 17 Dec 2025 07:26:12 +0000",
-      "summary": "&#160; &#160; Revelionul &#238;nseamnă mese festive, &#238;nt&#226;lniri cu prietenii și seri care se prelungesc mult după miezul nopții, iar gustările&#8230; Articolul Mixit aduce gustări festive pentru petrecerea de Revelion apare prima dată în Recent News ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@recent_news/116324542548151833",
+      "date": "Tue, 31 Mar 2026 15:40:57 +0000",
+      "content": "Într-o industrie în care promisiunile sunt peste tot, dar informațiile reale sunt greu de verificat, există un singur loc unde poți afla adevărul direct de la sursă: Forumvideochat.ro. Este singura platformă dedicată domeniului de videochat în Iași unde modele cu experiență directă aleg să vorbească deschis despre parcursul lor, despre greșelile făcute la început și… https:// recent-news.ro/vrei-sa-incepi- in-videochat-in-iasi-afla-pe-forumvideochat-ro-ce-nu-iti-spun-reclamele-viva-diva/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@recent_news/116269478769852281",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@recent_news/115695156734789813",
       "date": "Wed, 10 Dec 2025 11:59:52 +0000",
       "content": "https:// recent-news.ro/oameni-destine- emotie-adela-hanafi-a-lansat-podcastul-povesti-nespuse-cu-adela/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@recent_news/115695156590745562",
-      "date": "Wed, 10 Dec 2025 11:59:49 +0000",
-      "content": "Gala „Women in Economy” ajunge la Paris • 1 decembrie 2025, Hôtel de Ville – Paris: CONAF, alături de Ambasada României în Republica Franceză, Consulatul General al României la Paris și cu sprijinul Delegației Permanente a României pe lângă UNESCO, Institutului Cultural Român din Paris, Cercului profesioniștilor români din Franța, Primăriei Paris, reprezentanței CONAF Franța… https:// recent-news.ro/gala-women-in-e conomy-ajunge-la-paris/"
     }
   ]
 }

@@ -4,8 +4,14 @@
   "site_feed": "https://top15.ro/feed/",
   "mastodon": "https://social.5th.ro/@top",
   "mastodon_rss": "https://social.5th.ro/@top.rss",
-  "updated_at": "2026-03-31T15:23:17Z",
+  "updated_at": "2026-03-31T17:14:40Z",
   "site_posts": [
+    {
+      "title": "Lumina care schimbă o cameră: de ce veioza a redevenit piesa centrală în designul interior",
+      "link": "https://top15.ro/lumina-care-schimba-o-camera-de-ce-veioza-a-redevenit-piesa-centrala-in-designul-interior/",
+      "date": "Tue, 31 Mar 2026 15:51:39 +0000",
+      "summary": "Într-o epocă dominată de ecrane și lumină artificială, modul în care ne iluminăm spațiile în... Articolul Lumina care schimbă o cameră: de ce veioza a redevenit piesa centrală în designul interior apare prima dată în TOP 15 ."
+    },
     {
       "title": "Cum va evolua ecosistemul Galaxy în următorii ani",
       "link": "https://top15.ro/cum-va-evolua-ecosistemul-galaxy-in-urmatorii-ani/",
@@ -71,15 +77,15 @@
       "link": "https://top15.ro/care-sunt-cele-mai-recomandate-suplimente-pentru-paraziti-intestinali-top-7-suplimente-eficiente-in-2026/",
       "date": "Wed, 04 Mar 2026 07:53:37 +0000",
       "summary": "Acest sirop de inspirație ayurvedică reprezintă o soluție versatilă, fiind extrem de apreciat de părinți... Articolul Care sunt cele mai recomandate suplimente pentru paraziți intestinali? Top 7 suplimente eficiente în 2026 apare prima dată în TOP 15 ."
-    },
-    {
-      "title": "Sauna: secretul longevității într-o societate modernă",
-      "link": "https://top15.ro/sauna-secretul-longevitatii-intr-o-societate-moderna/",
-      "date": "Thu, 26 Feb 2026 13:36:44 +0000",
-      "summary": "Stresul și stilul de viață haotic își pun amprenta asupra sănătății tale, iar găsirea unor... Articolul Sauna: secretul longevității într-o societate modernă apare prima dată în TOP 15 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@top/116324584755058464",
+      "date": "Tue, 31 Mar 2026 15:51:41 +0000",
+      "content": "📰Într-o epocă dominată de ecrane și lumină artificială, modul în care ne iluminăm spațiile în care trăim și muncim a devenit mai relevant ca niciodată. Departe de a fi un simplu accesoriu decorativ, veioza trăiește o renaștere silențioasă în casele românilor, iar motivele țin mai puțin de estetică și mai mult de sănătate, productivitate și… 📰 https:// top15.ro/lumina-care-schimba-o -camera-de-ce-veioza-a-redevenit-piesa-centrala-in-designul-interior/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@top/116322542077584705",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@top/116169822770786986",
       "date": "Wed, 04 Mar 2026 07:53:41 +0000",
       "content": "📰Acest sirop de inspirație ayurvedică reprezintă o soluție versatilă, fiind extrem de apreciat de părinți datorită gustului prietenos și formei lichide ușor de dozat. Este conceput pentru a susține eliminarea paraziților și pentru a restabili echilibrul florei intestinale, fiind potrivit de la vârste fragede până la vârsta adultă.Fotografie de Sora Shimazaki pe 📰 https:// top15.ro/care-sunt-cele-mai-re comandate-suplimente-pentru-paraziti-intestinali-top-7-suplimente-eficiente-in-2026/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@top/116137198043029128",
-      "date": "Thu, 26 Feb 2026 13:36:47 +0000",
-      "content": "📰Stresul și stilul de viață haotic își pun amprenta asupra sănătății tale, iar găsirea unor metode eficiente de relaxare și îngrijire personală devine esențială. Sauna, cunoscută de secole pentru proprietățile sale benefice, pare să fie cheia spre o viață mai lungă și mai sănătoasă. Acest articol explorează motivele pentru care saunele sunt din ce în… 📰 https:// top15.ro/sauna-secretul-longev itatii-intr-o-societate-moderna/"
     }
   ]
 }

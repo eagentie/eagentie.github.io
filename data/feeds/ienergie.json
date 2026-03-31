@@ -4,8 +4,14 @@
   "site_feed": "https://iEnergie.ro/feed/",
   "mastodon": "https://social.5th.ro/@ienergie",
   "mastodon_rss": "https://social.5th.ro/@ienergie.rss",
-  "updated_at": "2026-03-31T15:23:03Z",
+  "updated_at": "2026-03-31T17:14:27Z",
   "site_posts": [
+    {
+      "title": "Videochat premium vs. Viva Diva: vezi ce spun modelele din Iași pe Forumvideochat.ro",
+      "link": "https://ienergie.ro/videochat-premium-vs-viva-diva-vezi-ce-spun-modelele-din-iasi-pe-forumvideochat-ro/",
+      "date": "Tue, 31 Mar 2026 15:46:48 +0000",
+      "summary": "Când începi să te interesezi de videochat în Iași, una dintre cele mai mari probleme este că, la prima vedere, toate studiourile par să ofere [Mai mult...] Articolul Videochat premium vs. Viva Diva: vezi ce spun modelele din Iași pe Forumvideochat.ro apare prima dată în iEnergie ."
+    },
     {
       "title": "Separator de sarcina 4P tetrapolar: cum a ajuns un aparat de tablou să conteze în siguranța de zi cu zi",
       "link": "https://ienergie.ro/separator-de-sarcina-4p-tetrapolar-cum-a-ajuns-un-aparat-de-tablou-sa-conteze-in-siguranta-de-zi-cu-zi/",
@@ -71,15 +77,15 @@
       "link": "https://ienergie.ro/rwea-rpia-si-patres-cer-anre-decalarea-cu-pana-la-3-ani-a-licitatiilor-de-racordare-pe-fondul-riscului-de-blocaj-in-conectarea-la-retea/",
       "date": "Tue, 20 Jan 2026 08:01:25 +0000",
       "summary": "Asociațiile majore din sectorul energiei regenerabile, respectiv Asociația Română pentru Energie Eoliană (RWEA), Asociația Industriei Fotovoltaice din România (RPIA) și Organizația Patronală a Producătorilor de [Mai mult...] Articolul RWEA, RPIA și PATRES cer ANRE decalarea cu până la 3 ani a licitațiilor de racordare, pe fondul riscului de blocaj în conectarea la rețea apare prima dată în iEnergie ."
-    },
-    {
-      "title": "Preluare de 235 MW de către OX2 România: Compania a cumpărat trei proiecte eoliene dezvoltate de Future Power",
-      "link": "https://ienergie.ro/preluare-de-235-mw-de-catre-ox2-romania-compania-a-cumparat-trei-proiecte-eoliene-dezvoltate-de-future-power/",
-      "date": "Tue, 20 Jan 2026 07:58:44 +0000",
-      "summary": "OX2 România, divizie a grupului suedez OX2, a finalizat achiziția a trei noi proiecte de energie eoliană de la compania Future Power. Aceste proiecte, localizate [Mai mult...] Articolul Preluare de 235 MW de către OX2 România: Compania a cumpărat trei proiecte eoliene dezvoltate de Future Power apare prima dată în iEnergie ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@ienergie/116324565716344183",
+      "date": "Tue, 31 Mar 2026 15:46:51 +0000",
+      "content": "Când începi să te interesezi de videochat în Iași, una dintre cele mai mari probleme este că, la prima vedere, toate studiourile par să ofere aceleași lucruri. Toate vorbesc despre câștiguri, despre susținere și despre oportunități. Însă abia după ce citești experiențele reale ale fetelor care au lucrat în mai multe locuri îți dai seama… https:// ienergie.ro/videochat-premium- vs-viva-diva-vezi-ce-spun-modelele-din-iasi-pe-forumvideochat-ro/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@ienergie/116296969021395154",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@ienergie/115926374014445496",
       "date": "Tue, 20 Jan 2026 08:01:27 +0000",
       "content": "Asociațiile majore din sectorul energiei regenerabile, respectiv Asociația Română pentru Energie Eoliană (RWEA), Asociația Industriei Fotovoltaice din România (RPIA) și Organizația Patronală a Producătorilor de Energie din Surse Regenerabile din România (PATRES), lansează un avertisment serios privind riscul iminent al unui blocaj în https:// ienergie.ro/rwea-rpia-si-patre s-cer-anre-decalarea-cu-pana-la-3-ani-a-licitatiilor-de-racordare-pe-fondul-riscului-de-blocaj-in-conectarea-la-retea/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@ienergie/115926363639580898",
-      "date": "Tue, 20 Jan 2026 07:58:49 +0000",
-      "content": "OX2 România, divizie a grupului suedez OX2, a finalizat achiziția a trei noi proiecte de energie eoliană de la compania Future Power. Aceste proiecte, localizate în județele Vaslui și Vrancea, adaugă o capacitate totală de 235 MW portofoliului dezvoltatorului de energie regenerabilă. Prin această tranzacție strategică, OX2 își consolidează prezența pe piața energetică https:// ienergie.ro/preluare-de-235-mw -de-catre-ox2-romania-compania-a-cumparat-trei-proiecte-eoliene-dezvoltate-de-future-power/"
     }
   ]
 }
