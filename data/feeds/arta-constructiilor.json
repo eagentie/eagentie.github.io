@@ -4,8 +4,14 @@
   "site_feed": "https://arta-constructiilor.ro/feed/",
   "mastodon": "https://social.5th.ro/@ArtaConstructiilor",
   "mastodon_rss": "https://social.5th.ro/@ArtaConstructiilor.rss",
-  "updated_at": "2026-04-06T06:07:39Z",
+  "updated_at": "2026-04-06T08:02:27Z",
   "site_posts": [
+    {
+      "title": "Agrotextil GeoTerra 100 g/m²: alb vs negru – când și de ce se folosește",
+      "link": "https://arta-constructiilor.ro/agrotextil-geoterra-100-g-m%c2%b2-alb-vs-negru-cand-si-de-ce-se-foloseste/",
+      "date": "Sat, 04 Apr 2026 18:51:45 +0000",
+      "summary": "&#160; Ce este agrotextilul și la ce folosește Agrotextilul GeoTerra de 100 g/m&#178; este un material profesional de mulcire, fabricat din polipropilenă stabilizată UV. Se &#8230; Articolul Agrotextil GeoTerra 100 g/m²: alb vs negru – când și de ce se folosește apare prima dată în Arta Constructiilor ."
+    },
     {
       "title": "WC cu bideu încorporat sau separat? Iată ce diferențe există",
       "link": "https://arta-constructiilor.ro/wc-cu-bideu-incorporat-sau-separat-iata-ce-diferente-exista/",
@@ -59,15 +65,15 @@
       "link": "https://arta-constructiilor.ro/puzzle-uri-pentru-scolari-si-adolescenti-7-14-ani-provocari-inteligente-pentru-minti-agere/",
       "date": "Wed, 03 Dec 2025 10:26:28 +0000",
       "summary": "Dacă micuțul tău a trecut de perioada &#8222;puzzle-urilor cu animale haioase&#8221; și se uită deja cu interes la provocări mai serioase, &#238;nseamnă că e pregătit &#8230; Articolul Puzzle-uri pentru școlari și adolescenți (7-14 ani): provocări inteligente pentru minți agere apare prima dată în Arta Constructiilor ."
-    },
-    {
-      "title": "Jucării copii 2 ani: Idei educative, sigure și distractive pentru micii exploratori",
-      "link": "https://arta-constructiilor.ro/jucarii-copii-2-ani-idei-educative-sigure-si-distractive-pentru-micii-exploratori/",
-      "date": "Mon, 01 Dec 2025 16:11:24 +0000",
-      "summary": "La v&#226;rsta de 2 ani, copiii sunt plini de energie și curiozitate &#8211; adevărați mici exploratori dornici să descopere lumea prin joacă. Alegerea de jucării &#8230; Articolul Jucării copii 2 ani: Idei educative, sigure și distractive pentru micii exploratori apare prima dată în Arta Constructiilor ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@ArtaConstructiilor/116356512030429981",
+      "date": "Mon, 06 Apr 2026 07:11:13 +0000",
+      "content": "Ce este agrotextilul și la ce folosește Agrotextilul GeoTerra de 100 g/m² este un material profesional de mulcire, fabricat din polipropilenă stabilizată UV. Se folosește pentru controlul buruienilor și pentru menținerea umidității în sol. Spre deosebire de folia din plastic, agrotextilul este permeabil la apă și aer, permițând solului să respire în timp ce… .... 🌐 https:// arta-constructiilor.ro/agrotex til-geoterra-100-g-m%c2%b2-alb-vs-negru-cand-si-de-ce-se-foloseste/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@ArtaConstructiilor/116316260780419162",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@ArtaConstructiilor/115739758197643884",
       "date": "Thu, 18 Dec 2025 09:02:36 +0000",
       "content": "Rulmenții cu bile sunt esențiali pentru orice sistem de rotație care are nevoie de mișcare lină, precizie și fiabilitate pe termen lung. De la motoare electrice, ventilatoare, utilaje industriale și până la aplicații auto sau echipamente de precizie, rulmenții de calitate asigură funcționarea corectă a ansamblurilor mecanice și reduc la minimum frecarea și uzura componentelor.… .... 🌐 https:// arta-constructiilor.ro/rulment i-cu-bile-precizie-rezistenta-si-performanta-pentru-orice-aplicatie/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@ArtaConstructiilor/115736891415472483",
-      "date": "Wed, 17 Dec 2025 20:53:32 +0000",
-      "content": "Ghid Esențial pentru Automatizarea Mastodon: Optimizarea Postărilor cu Șabloane de Text Ați publicat vreodată un articol nou pe blogul dvs. și v-ați simțit copleșit de procesul de distribuire manuală pe toate rețelele sociale? Ritmul rapid al Fediverse-ului, în special al platformei Mastodon, cere o prezență constantă și profesională. Totuși, a copia și lipi conținut pentru… .... 🌐 https:// arta-constructiilor.ro/mastodo n-wordpress-plugin-cum-setezi-sabloane-de-text-pentru-postari/"
     }
   ]
 }
