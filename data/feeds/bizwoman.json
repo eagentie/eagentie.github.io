@@ -4,8 +4,14 @@
   "site_feed": "https://bizwoman.ro/feed/",
   "mastodon": "https://social.5th.ro/@BIZWoman",
   "mastodon_rss": "https://social.5th.ro/@BIZWoman.rss",
-  "updated_at": "2026-04-06T11:59:11Z",
+  "updated_at": "2026-04-06T13:46:34Z",
   "site_posts": [
+    {
+      "title": "Ce se întâmplă când incidentele la plată ale clienților devin o regulă? Cum verifici incidentele la plată?",
+      "link": "https://bizwoman.ro/raportul-cip-centrala-incidentelor-de-plati/",
+      "date": "Mon, 06 Apr 2026 13:10:38 +0000",
+      "summary": "Când ai un portofoliu diversificat de clienți este important să cunoști capacitatea de plată a&#8230; Articolul Ce se întâmplă când incidentele la plată ale clienților devin o regulă? Cum verifici incidentele la plată? apare prima dată în Biz Woman ."
+    },
     {
       "title": "Localizare GPS auto: Cum funcționează și ce beneficii ai",
       "link": "https://bizwoman.ro/localizare-gps-auto-cum-functioneaza-si-ce-beneficii-ai/",
@@ -59,15 +65,15 @@
       "link": "https://bizwoman.ro/7-intrebari-la-care-trebuie-sa-raspunzi-inainte-sa-investesti-intr-o-spalatorie-self-service/",
       "date": "Thu, 08 Jan 2026 13:10:44 +0000",
       "summary": "Gândul de a investi într-o spălătorie self service e din ce în ce mai tentant&#8230; Articolul 7 întrebări la care trebuie să răspunzi înainte să investești într-o spălătorie self service apare prima dată în Biz Woman ."
-    },
-    {
-      "title": "Când alegi paturi foarte mari și lenjerii pe măsură: Ghid complet pentru confort, eleganță și potrivire perfectă",
-      "link": "https://bizwoman.ro/cand-alegi-paturi-foarte-mari-si-lenjerii-pe-masura-ghid-complet-pentru-confort-eleganta-si-potrivire-perfecta/",
-      "date": "Tue, 06 Jan 2026 10:46:24 +0000",
-      "summary": "În ultimii ani, paturile foarte mari au devenit sinonime cu luxul, relaxarea și confortul suprem.&#8230; Articolul Când alegi paturi foarte mari și lenjerii pe măsură: Ghid complet pentru confort, eleganță și potrivire perfectă apare prima dată în Biz Woman ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@BIZWoman/116357925439404023",
+      "date": "Mon, 06 Apr 2026 13:10:40 +0000",
+      "content": "📄Când ai un portofoliu diversificat de clienți este important să cunoști capacitatea de plată a acestora. Prin verificarea tuturor situațiilor financiare și juridice ale partenerilor și clienților reușești să monitorizezi activitatea acestora și să eviți situațiile neplăcute. Incidentele la plată dese indică probleme financiare și o gestionare defectuoasă a fluxului de numerar. Ce sunt rapoartele… 📄 https:// bizwoman.ro/raportul-cip-centr ala-incidentelor-de-plati/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@BIZWoman/116172680774556289",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@BIZWoman/115741329045240460",
       "date": "Thu, 18 Dec 2025 15:42:05 +0000",
       "content": "📄Într-un context în care mobilitatea comercială și nevoia de livrare rapidă cresc constant, soluțiile de curierat trebuie să ofere nu doar acoperire extinsă, ci și claritate, flexibilitate și suport real pentru utilizatori. Atât companiile, cât și persoanele care trimit colete ocazional caută soluții prin care expedierea să fie simplă, predictibilă și ușor de gestionat. Bogo… 📄 https:// bizwoman.ro/curierat-fara-gran ite-abordarea-bogo-express-pentru-livrari-nationale-si-internationale/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@BIZWoman/115736511633543771",
-      "date": "Wed, 17 Dec 2025 19:16:57 +0000",
-      "content": "📄Ați publicat vreodată un articol pe WordPress și, din greșeală, ați văzut că un draft sau o previzualizare a fost trimisă automat pe rețelele sociale? Această frustrare este comună, mai ales când încercați să mențineți o prezență profesională pe platforme descentralizate precum Mastodon. Automatizarea este vitală pentru orice creator de conținut. Totuși, automatizarea necontrolată poate… 📄 https:// bizwoman.ro/cum-postezi-pe-mas todon-doar-cand-articolul-e-publicat-nu-draft-preview/"
     }
   ]
 }
