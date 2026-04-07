@@ -4,8 +4,14 @@
   "site_feed": "https://afaceritop.ro/feed/",
   "mastodon": "https://social.5th.ro/@afaceri_top",
   "mastodon_rss": "https://social.5th.ro/@afaceri_top.rss",
-  "updated_at": "2026-04-07T14:00:35Z",
+  "updated_at": "2026-04-07T15:42:05Z",
   "site_posts": [
+    {
+      "title": "Ce înseamnă GPS localizare auto pentru flotă",
+      "link": "https://afaceritop.ro/ce-inseamna-gps-localizare-auto-pentru-flota/",
+      "date": "Tue, 07 Apr 2026 14:43:12 +0000",
+      "summary": "Un sistem GPS localizare auto îți permite să vezi în timp real unde se află mașinile tale și cum sunt folosite, fără presupuneri sau estimări. Pe scurt, un tracker GPS auto se conectează la baterie, trimite date pe un server, iar tu accesezi totul printr-o aplicație. Spre deosebire de un GPS de navigație obișnuit, un sistem [&#8230;] Articolul Ce înseamnă GPS localizare auto pentru flotă apare prima dată în Afaceri TOP ."
+    },
     {
       "title": "De ce ecosistemul Galaxy este tot mai popular",
       "link": "https://afaceritop.ro/de-ce-ecosistemul-galaxy-este-tot-mai-popular/",
@@ -59,15 +65,15 @@
       "link": "https://afaceritop.ro/dragobete-si-8-martie-cum-transformi-aceasta-perioada-intr-un-festival-al-rasfatuluifebruarie-si-inceputul-lunii-martie-marcheaza-an-de-an/",
       "date": "Tue, 17 Feb 2026 09:13:47 +0000",
       "summary": "Dragobete și 8 Martie: cum transformi această perioadă într-un festival al răsfățului Februarie și începutul lunii martie marchează, an de an, sezonul dedicat iubirii și aprecierii. Dragobetele aduce tradiția locală în prim-plan, în timp ce 1 și 8 Martie devin ocazii perfecte pentru a celebra femeile importante din viața noastră. În această perioadă, gesturile mici, [&#8230;] Articolul Dragobete și 8 Martie: cum transformi această perioadă într-un festival al răsfățuluiFebruarie și începutul lunii martie marchează, an de an apare prima dată în Afaceri TOP ."
-    },
-    {
-      "title": "De ce este importantă integrarea într-un ecosistem smart",
-      "link": "https://afaceritop.ro/de-ce-este-importanta-integrarea-intr-un-ecosistem-smart/",
-      "date": "Sun, 15 Feb 2026 07:12:00 +0000",
-      "summary": "De ce este importantă integrarea într-un ecosistem smart Integrarea într-un ecosistem smart devine relevantă pe măsură ce locuințele folosesc tot mai multe dispozitive conectate. Subiectul ține de funcționalitate, control și eficiență, nu de tendințe. Ce este un ecosistem smart Un ecosistem smart este un ansamblu de dispozitive și servicii conectate între ele. Acestea comunică printr-o [&#8230;] Articolul De ce este importantă integrarea într-un ecosistem smart apare prima dată în Afaceri TOP ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@afaceri_top/116363951826858080",
+      "date": "Tue, 07 Apr 2026 14:43:15 +0000",
+      "content": "Un sistem GPS localizare auto îți permite să vezi în timp real unde se află mașinile tale și cum sunt folosite, fără presupuneri sau estimări. Pe scurt, un tracker GPS auto se conectează la baterie, trimite date pe un server, iar tu accesezi totul printr-o aplicație. Spre deosebire de un GPS de navigație obișnuit, un sistem… https:// afaceritop.ro/ce-inseamna-gps- localizare-auto-pentru-flota/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@afaceri_top/116322464936306547",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@afaceri_top/116023092400064588",
       "date": "Fri, 06 Feb 2026 09:58:13 +0000",
       "content": "Modul ECO este o setare care reduce consumul în timpul funcționării. Face asta prin ajustări simple ale parametrilor de lucru.1. Ce înseamnă / Ce esteModul ECO înseamnă un program sau o opțiune de funcționare orientată spre eficiență energetică. Nu schimbă scopul aparatului, dar schimbă felul în care folosește energia și timpul.În multe cazuri, modul ECO… https:// afaceritop.ro/cum-functioneaza -modul-eco-la-electrocasnice-ce-parametri-schimba-si-ce-economii-aduce/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@afaceri_top/115928725539324657",
-      "date": "Tue, 20 Jan 2026 17:59:29 +0000",
-      "content": "Pe 31 ianuarie, Sala Palatului devine punctul de întâlnire al părinților care caută mai mult decât promisiuni frumoase atunci când vine vorba despre educația copiilor lor. Târgul Educațional Mommy HAI, ajuns la cea de-a III-a ediție, reunește într-un singur loc peste 50 de instituții private de învățământ: creșe, grădinițe, școli, afterschool-uri și licee, cu abordări… https:// afaceritop.ro/targul-education al-mommy-hai-revine-pe-31-ianuarie-la-sala-palatului/"
     }
   ]
 }
