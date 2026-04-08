@@ -4,8 +4,14 @@
   "site_feed": "https://brasov-azi.ro/feed/",
   "mastodon": "https://social.5th.ro/@brasov",
   "mastodon_rss": "https://social.5th.ro/@brasov.rss",
-  "updated_at": "2026-04-08T03:31:51Z",
+  "updated_at": "2026-04-08T05:56:48Z",
   "site_posts": [
+    {
+      "title": "Cum alegi corect o firmă de producție publicitară în București pentru un proiect fără întârzieri",
+      "link": "https://brasov-azi.ro/cum-alegi-corect-o-firma-de-productie-publicitara-in-bucuresti-pentru-un-proiect-fara-intarzieri/",
+      "date": "Wed, 08 Apr 2026 02:49:53 +0000",
+      "summary": "&#206;ntr-o piață at&#226;t de dinamică precum cea din Capitală, imaginea afacerii tale depinde enorm de prima impresie vizuală. Vrei ca brandul tău să strălucească și să atragă privirile trecătorilor &#238;ncă din prima secundă? Alegerea unor soluții de producție publicitară București... Articolul Cum alegi corect o firmă de producție publicitară în București pentru un proiect fără întârzieri apare prima dată în Brasov AZI ."
+    },
     {
       "title": "Păreri VivaDiva – ce spun modelele pe Forumvideochat.ro despre studiourile mici de videochat din Iași",
       "link": "https://brasov-azi.ro/pareri-vivadiva-ce-spun-modelele-pe-forumvideochat-ro-despre-studiourile-mici-de-videochat-din-iasi/",
@@ -71,15 +77,15 @@
       "link": "https://brasov-azi.ro/zoo-brasov-2026-program-tarife-si-traseu-recomandat-pentru-o-zi-lejera/",
       "date": "Sat, 31 Jan 2026 07:54:56 +0000",
       "summary": "Grădina Zoologică Brașov găzduiește peste 350 de exemplare de faună rară pe 10 hectare, completate de un Planetariu educativ și zone de relaxare. Articolul Zoo Brașov 2026: program, tarife și traseu recomandat pentru o zi lejeră apare prima dată în Brasov AZI ."
-    },
-    {
-      "title": "Poarta Ecaterinei & Poarta Șchei: traseu pietonal prin Șchei, cu puncte foto",
-      "link": "https://brasov-azi.ro/poarta-ecaterinei-poarta-schei-traseu-pietonal-prin-schei-cu-puncte-foto/",
-      "date": "Sat, 31 Jan 2026 07:49:25 +0000",
-      "summary": "Poarta Ecaterinei (sec. XVI) și Poarta Șchei (sec. XIX) sunt singurele porți păstrate ale Brașovului, esențiale pentru înțelegerea istoriei cetății. Articolul Poarta Ecaterinei &#038; Poarta Șchei: traseu pietonal prin Șchei, cu puncte foto apare prima dată în Brasov AZI ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@brasov/116367521818389710",
+      "date": "Wed, 08 Apr 2026 05:51:09 +0000",
+      "content": "Într-o piață atât de dinamică precum cea din Capitală, imaginea afacerii tale depinde enorm de prima impresie vizuală. Vrei ca brandul tău să strălucească și să atragă privirile trecătorilor încă din prima secundă? Alegerea unor soluții de producție publicitară București de înaltă calitate este pasul esențial pentru a transforma trecătorii în clienți loiali. Imaginează-ți un… https:// brasov-azi.ro/cum-alegi-corect -o-firma-de-productie-publicitara-in-bucuresti-pentru-un-proiect-fara-intarzieri/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@brasov/116319226877677768",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@brasov/115989127928822783",
       "date": "Sat, 31 Jan 2026 10:00:36 +0000",
       "content": "Grădina Zoologică Brașov găzduiește peste 350 de exemplare de faună rară pe 10 hectare, completate de un Planetariu educativ și zone de relaxare. https:// brasov-azi.ro/zoo-brasov-2026- program-tarife-si-traseu-recomandat-pentru-o-zi-lejera/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@brasov/115989091171068103",
-      "date": "Sat, 31 Jan 2026 09:51:15 +0000",
-      "content": "Poarta Ecaterinei (sec. XVI) și Poarta Șchei (sec. XIX) sunt singurele porți păstrate ale Brașovului, esențiale pentru înțelegerea istoriei cetății. https:// brasov-azi.ro/poarta-ecaterine i-poarta-schei-traseu-pietonal-prin-schei-cu-puncte-foto/"
     }
   ]
 }
