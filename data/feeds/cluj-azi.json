@@ -4,8 +4,14 @@
   "site_feed": "https://cluj-azi.ro/feed/",
   "mastodon": "https://social.5th.ro/@cluj",
   "mastodon_rss": "https://social.5th.ro/@cluj.rss",
-  "updated_at": "2026-04-08T05:56:53Z",
+  "updated_at": "2026-04-08T07:52:35Z",
   "site_posts": [
+    {
+      "title": "Standuri expoziționale și materiale pentru evenimente: cum pregătești o prezență care se vede",
+      "link": "https://cluj-azi.ro/standuri-expozitionale-si-materiale-pentru-evenimente-cum-pregatesti-o-prezenta-care-se-vede/",
+      "date": "Wed, 08 Apr 2026 02:56:32 +0000",
+      "summary": "Te-ai &#238;ntrebat vreodată de ce unele zone dintr-o expoziție sunt mereu aglomerate, &#238;n timp ce altele răm&#226;n pustii? Răspunsul nu stă doar &#238;n notorietatea brandului, ci &#238;n modul &#238;n care este construită prezența fizică la fața locului. Participarea la un t&#226;rg este o oportunitate uriașă pentru orice afacere care vrea să crească rapid. O strategie [&#8230;] Articolul Standuri expoziționale și materiale pentru evenimente: cum pregătești o prezență care se vede apare prima dată în Cluj AZI ."
+    },
     {
       "title": "Modelele află pe Forumvideochat.ro adevărul despre VivaDiva și celelalte studiouri de videochat din Iași",
       "link": "https://cluj-azi.ro/modelele-afla-pe-forumvideochat-ro-adevarul-despre-vivadiva-si-celelalte-studiouri-de-videochat-din-iasi/",
@@ -59,15 +65,15 @@
       "link": "https://cluj-azi.ro/kubernetes-pentru-incepatori-de-la-zero-la-cluster/",
       "date": "Wed, 03 Sep 2025 22:20:24 +0000",
       "summary": "Gestionarea aplicațiilor moderne este o provocare. Imaginează-ți sute de containere, fiecare rulând o parte a aplicației tale. Cum le gestionezi eficient? Soluția este Kubernetes, un sistem puternic de orchestrare a containerelor care îți simplifică viața. Ce este Kubernetes? O scurtă introducere în lumea containerelor Înainte de a discuta despre Kubernetes, trebuie să înțelegem conceptul de [&#8230;] Articolul Kubernetes pentru începători: de la zero la cluster apare prima dată în Cluj AZI ."
-    },
-    {
-      "title": "Greșeli SEO în Cluj – cum le eviți (checklist 2025)",
-      "link": "https://cluj-azi.ro/greseli-articole-seo-de-evitat/",
-      "date": "Mon, 18 Aug 2025 09:06:21 +0000",
-      "summary": "În piețe competitive precum Cluj-Napoca, câteva greșeli SEO repetate (thin content, titluri slabe, interlinking incoerent, canibalizare) pot bloca creșterea chiar dacă ai subiecte bune. Mai jos găsești un ghid practic cu remedii rapide, exemple pentru cartiere (Mănăștur, Mărăști, Gheorgheni, Zorilor, Grigorescu) și zona metropolitană (Florești, Baciu, Apahida, Someșeni). După ce corectezi problemele critice, optimizează tehnic [&#8230;] Articolul Greșeli SEO în Cluj – cum le eviți (checklist 2025) apare prima dată în Cluj AZI ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@cluj/116367548302284703",
+      "date": "Wed, 08 Apr 2026 05:57:53 +0000",
+      "content": "Te-ai întrebat vreodată de ce unele zone dintr-o expoziție sunt mereu aglomerate, în timp ce altele rămân pustii? Răspunsul nu stă doar în notorietatea brandului, ci în modul în care este construită prezența fizică la fața locului. Participarea la un târg este o oportunitate uriașă pentru orice afacere care vrea să crească rapid. O strategie… https:// cluj-azi.ro/standuri-expozitio nale-si-materiale-pentru-evenimente-cum-pregatesti-o-prezenta-care-se-vede/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@cluj/116319250715659291",
