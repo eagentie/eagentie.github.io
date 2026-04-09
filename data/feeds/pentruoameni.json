@@ -4,8 +4,14 @@
   "site_feed": "https://pentruoameni.ro/feed/",
   "mastodon": "https://social.5th.ro/@pentruoameni",
   "mastodon_rss": "https://social.5th.ro/@pentruoameni.rss",
-  "updated_at": "2026-04-09T07:54:08Z",
+  "updated_at": "2026-04-09T09:39:06Z",
   "site_posts": [
+    {
+      "title": "Monitorizare GPS Flotă Auto: Cum Reduci Costurile Rapid?",
+      "link": "https://pentruoameni.ro/monitorizare-gps-flota-auto-cum-reduci-costurile-rapid/",
+      "date": "Thu, 09 Apr 2026 09:13:18 +0000",
+      "summary": "Ți s-a întâmplat să ai impresia că „se evaporă” banii din flotă, deși ai același număr de mașini, aceiași șoferi și, teoretic, aceleași rute? Monitorizare GPS Flotă Auto e una dintre puținele soluții care atacă direct scurgerile reale: consum umflat, kilometri inutili, timp mort, rute ocolite, opriri neplanificate și service făcut „după ureche”. Dacă implementezi [&#8230;] Articolul Monitorizare GPS Flotă Auto: Cum Reduci Costurile Rapid? apare prima dată în Pentru Oameni ."
+    },
     {
       "title": "Ce influențează prețul pentru trepte din lemn?",
       "link": "https://pentruoameni.ro/ce-influenteaza-pretul-pentru-trepte-din-lemn/",
@@ -71,15 +77,15 @@
       "link": "https://pentruoameni.ro/cotele-dunarii-la-rast-in-2026-nivelul-apei-azi-grafic-si-evolutie-recenta/",
       "date": "Fri, 13 Feb 2026 08:38:11 +0000",
       "summary": "Analiza primelor 10 rezultate Google indică faptul că majoritatea site-urilor care oferă informații despre cotele Dunării sunt platforme tehnice, precum AFDJ sau INHGA, care prezintă date brute, tabele și cifre fără context explicativ. Diferențierea acestui articol va veni din interpretarea acestor date într-un limbaj accesibil, oferind o perspectivă utilă pentru activitățile economice și de agrement [&#8230;] Articolul Cotele Dunării la Rast în 2026: nivelul apei azi, grafic și evoluție recentă apare prima dată în Pentru Oameni ."
-    },
-    {
-      "title": "Mai e mult pana in 2027? De ce „acum” este momentul perfect sa alegi gradinita potrivita pentru copilul tau",
-      "link": "https://pentruoameni.ro/mai-e-mult-pana-in-2027-de-ce-acum-este-momentul-perfect-sa-alegi-gradinita-potrivita-pentru-copilul-tau/",
-      "date": "Mon, 02 Feb 2026 05:59:33 +0000",
-      "summary": "Mai e mult pana in 2027? De ce „acum” este momentul perfect sa alegi gradinita potrivita pentru copilul tau Stim ce gandesti: abia am pasit in noul an, iar 2027 pare o cifra dintr-un viitor indepartat. Insa, pentru un parinte, timpul are un mod bizar de a se comprima. Intre primii pasi si prima zi [&#8230;] Articolul Mai e mult pana in 2027? De ce „acum” este momentul perfect sa alegi gradinita potrivita pentru copilul tau apare prima dată în Pentru Oameni ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@pentruoameni/116373979145567243",
+      "date": "Thu, 09 Apr 2026 09:13:20 +0000",
+      "content": "Ți s-a întâmplat să ai impresia că „se evaporă” banii din flotă, deși ai același număr de mașini, aceiași șoferi și, teoretic, aceleași rute? Monitorizare GPS Flotă Auto e una dintre puținele soluții care atacă direct scurgerile reale: consum umflat, kilometri inutili, timp mort, rute ocolite, opriri neplanificate și service făcut „după ureche”. Dacă implementezi… .... https:// pentruoameni.ro/monitorizare-g ps-flota-auto-cum-reduci-costurile-rapid/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@pentruoameni/116323000131801243",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@pentruoameni/116062996361936936",
       "date": "Fri, 13 Feb 2026 11:06:19 +0000",
       "content": "Analiza primelor 10 rezultate Google indică faptul că majoritatea site-urilor care oferă informații despre cotele Dunării sunt platforme tehnice, precum AFDJ sau INHGA, care prezintă date brute, tabele și cifre fără context explicativ. Diferențierea acestui articol va veni din interpretarea acestor date într-un limbaj accesibil, oferind o perspectivă utilă pentru activitățile economice și de .... https:// pentruoameni.ro/cotele-dunarii -la-rast-in-2026-nivelul-apei-azi-grafic-si-evolutie-recenta/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@pentruoameni/115999986485784280",
-      "date": "Mon, 02 Feb 2026 08:02:05 +0000",
-      "content": "Mai e mult pana in 2027? De ce „acum” este momentul perfect sa alegi gradinita potrivita pentru copilul tauStim ce gandesti: abia am pasit in noul an, iar 2027 pare o cifra dintr-un viitor indepartat. Insa, pentru un parinte, timpul are un mod bizar de a se comprima. Intre primii pasi si prima zi de… .... https:// pentruoameni.ro/mai-e-mult-pan a-in-2027-de-ce-acum-este-momentul-perfect-sa-alegi-gradinita-potrivita-pentru-copilul-tau/"
     }
   ]
 }
