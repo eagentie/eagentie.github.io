@@ -4,8 +4,14 @@
   "site_feed": "https://e-faq.ro/feed/",
   "mastodon": "https://social.5th.ro/@efaq",
   "mastodon_rss": "https://social.5th.ro/@efaq.rss",
-  "updated_at": "2026-04-10T11:12:28Z",
+  "updated_at": "2026-04-10T11:59:38Z",
   "site_posts": [
+    {
+      "title": "Întrebări frecvente despre producția publicitară în București pentru firme și branduri",
+      "link": "https://e-faq.ro/intrebari-frecvente-productie-publicitara-bucuresti/",
+      "date": "Fri, 10 Apr 2026 11:20:32 +0000",
+      "summary": "Companiile care vor să fie mai vizibile în piață nu se bazează doar pe promovarea [&#8230;] Articolul Întrebări frecvente despre producția publicitară în București pentru firme și branduri apare prima dată în FAQ - Intrebari Frecvente ."
+    },
     {
       "title": "Renovare simplă, efect de durată",
       "link": "https://e-faq.ro/renovare-simpla-efect-de-durata/",
@@ -53,15 +59,15 @@
       "link": "https://e-faq.ro/rolul-unui-soft-de-gestiune-hoteliera-in-fidelizarea-clientilor/",
       "date": "Fri, 06 Mar 2026 15:24:52 +0000",
       "summary": "Un soft de gestiune hotelieră nu înlocuiește rolul personalului și nici nu acoperă integral toate [&#8230;] Articolul Rolul unui soft de gestiune hotelieră în fidelizarea clienților apare prima dată în FAQ - Intrebari Frecvente ."
-    },
-    {
-      "title": "De ce site-ul tău WordPress are nevoie de îngrijire constantă",
-      "link": "https://e-faq.ro/de-ce-site-ul-tau-wordpress-are-nevoie-de-ingrijire-constanta/",
-      "date": "Tue, 17 Feb 2026 14:23:00 +0000",
-      "summary": "Una dintre cele mai costisitoare iluzii din mediul online este ideea că un site este [&#8230;] Articolul De ce site-ul tău WordPress are nevoie de îngrijire constantă apare prima dată în FAQ - Intrebari Frecvente ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@efaq/116380141808065311",
+      "date": "Fri, 10 Apr 2026 11:20:34 +0000",
+      "content": "🚀 Companiile care vor să fie mai vizibile în piață nu se bazează doar pe promovarea online. În multe cazuri, primul contact real cu un potențial client are loc în spațiul fizic: la sediu, în showroom, în magazin, la recepție sau la un eveniment. Din acest motiv, interesul pentru producție publicitară București rămâne ridicat în 2026,… 🔗 Complet aici: https:// e-faq.ro/intrebari-frecvente-p roductie-publicitara-bucuresti/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@efaq/116379560108627717",
@@ -127,12 +133,6 @@
       "link": "https://social.5th.ro/@efaq/116050663371073834",
       "date": "Wed, 11 Feb 2026 06:49:52 +0000",
       "content": "🚀 Oricine a facut renovari, instalatii electrice sau interventii in cladiri stie ca “surprizele” din pereti costa: un cablu nimerit accidental cu bormasina, un traseu necunoscut care te obliga sa schimbi planul, o teava confundata cu o doza, o zona unde nu ai voie sa tai pentru ca trece alimentarea principala. In spatele acestor situatii exista… 🔗 Complet aici: https:// e-faq.ro/detector-cabluri-elec trice-in-pereti-cum-localizezi-trasee-ascunse-fara-spargeri-erori-si-riscuri/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@efaq/116035742252318146",
-      "date": "Sun, 08 Feb 2026 15:35:14 +0000",
-      "content": "🚀 Zincul este un oligoelement esențial care trebuie furnizat zilnic prin alimentație, deoarece organismul nu îl poate produce singur. Se găsește în mod natural în alimente precum carnea, peștele, ouăle, produsele lactate, cerealele integrale și semințele. Zincul este implicat în activitatea a numeroase enzime și participă la procese fundamentale pentru menținerea funcțiilor normale ale 🔗 Citeste tot: https:// e-faq.ro/zincul-proprietati-si -rolul-sau-in-functionarea-normala-a-organismului/"
     }
   ]
 }

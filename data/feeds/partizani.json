@@ -4,8 +4,14 @@
   "site_feed": "https://partizani.ro/feed/",
   "mastodon": "https://social.5th.ro/@Partizani",
   "mastodon_rss": "https://social.5th.ro/@Partizani.rss",
-  "updated_at": "2026-04-10T11:12:42Z",
+  "updated_at": "2026-04-10T11:59:52Z",
   "site_posts": [
+    {
+      "title": "Cum alegi corect materialele vizuale pentru un business local care vrea să fie remarcat",
+      "link": "https://partizani.ro/cum-alegi-corect-materialele-vizuale-pentru-un-business-local/",
+      "date": "Fri, 10 Apr 2026 11:35:11 +0000",
+      "summary": "Pentru multe afaceri locale, promovarea nu începe și nu se termină online. De cele mai multe ori, primul contact real cu un potențial client are loc în fața sediului, în magazin, într-un showroom, la recepție sau la un eveniment. Din acest motiv, materialele vizuale folosite de un business au un [&#8230;] Articolul Cum alegi corect materialele vizuale pentru un business local care vrea să fie remarcat apare prima dată în Partizani ."
+    },
     {
       "title": "Detalii care aduc armonie",
       "link": "https://partizani.ro/detalii-care-aduc-armonie/",
@@ -59,15 +65,15 @@
       "link": "https://partizani.ro/cum-sa-alegi-o-lenjerie-de-pat-potrivita-pentru-dormitorul-matrimonial-in-functie-de-personalitatea-voastra-de-cuplu/",
       "date": "Tue, 03 Feb 2026 09:35:08 +0000",
       "summary": "Dormitorul matrimonial este mai mult decât un spațiu de dormit. Este locul în care vă încheiați zilele, unde vă relaxați, comunicați și vă reconectați ca pereche. De aceea, fiecare element din acest spațiu contează, iar lenjeria de pat joacă un rol mult mai important decât pare la prima vedere. O [&#8230;] Articolul ​​Cum să alegi o lenjerie de pat potrivită pentru dormitorul matrimonial în funcție de personalitatea voastră de cuplu apare prima dată în Partizani ."
-    },
-    {
-      "title": "Cum să îți organizezi studioul de muzică pentru o productivitate maximă",
-      "link": "https://partizani.ro/cum-sa-iti-organizezi-studioul-de-muzica-pentru-o-productivitate-maxima/",
-      "date": "Fri, 16 Jan 2026 09:22:43 +0000",
-      "summary": "Organizarea eficientă a studioului este esențială pentru orice muzician sau producător care dorește să își maximizeze performanța și creativitatea. Un spațiu de lucru bine structurat economisește timp, crește productivitatea și stimulează inspirația. În acest articol vei descoperi sfaturi practice despre alegerea echipamentelor potrivite, optimizarea spațiului și crearea unui mediu ergonomic, [&#8230;] Articolul Cum să îți organizezi studioul de muzică pentru o productivitate maximă apare prima dată în Partizani ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@Partizani/116380199423060155",
+      "date": "Fri, 10 Apr 2026 11:35:14 +0000",
+      "content": "ℹ️Pentru multe afaceri locale, promovarea nu începe și nu se termină online. De cele mai multe ori, primul contact real cu un potențial client are loc în fața sediului, în magazin, într-un showroom, la recepție sau la un eveniment. Din acest motiv, materialele vizuale folosite de un business au un rol mult mai mare decât… ℹ️ https:// partizani.ro/cum-alegi-corect- materialele-vizuale-pentru-un-business-local/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@Partizani/116379556990326268",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@Partizani/115774315396349786",
       "date": "Wed, 24 Dec 2025 11:30:57 +0000",
       "content": "ℹ️Alegerea distribuitoarelor-colectoare pentru calorifere este un pas esențial în realizarea unui sistem de încălzire eficient și ușor de controlat. Deși aceste componente sunt adesea considerate detalii tehnice, ele influențează direct confortul termic, consumul de energie și flexibilitatea instalației.Mulți proprietari descoperă importanța distribuitoare ℹ️ https:// partizani.ro/la-ce-trebuie-sa- fii-atent-cand-alegi-distribuitoare-colectoare-pentru-calorifere-greseli-pe-care-sa-le-eviti/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@Partizani/115736886095441338",
-      "date": "Wed, 17 Dec 2025 20:52:11 +0000",
-      "content": "ℹ️Atenție: Te-ai săturat ca postările tale să fie ignorate pe platformele sociale tradiționale? Ești un utilizator activ pe Mastodon și vrei ca mesajul tău să ajungă la cât mai multă lume? Interes: Platforma descentralizată îți oferă libertate, dar publicarea eficientă a conținutului vizual necesită o strategie bine pusă la punct. Nu este suficient să încarci… ℹ️ https:// partizani.ro/cum-postezi-imagi ni-pe-mastodon-alt-text-accesibilitate-descrieri/"
     }
   ]
 }
