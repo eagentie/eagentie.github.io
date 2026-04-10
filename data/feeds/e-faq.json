@@ -4,8 +4,14 @@
   "site_feed": "https://e-faq.ro/feed/",
   "mastodon": "https://social.5th.ro/@efaq",
   "mastodon_rss": "https://social.5th.ro/@efaq.rss",
-  "updated_at": "2026-04-10T07:59:03Z",
+  "updated_at": "2026-04-10T09:38:43Z",
   "site_posts": [
+    {
+      "title": "Renovare simplă, efect de durată",
+      "link": "https://e-faq.ro/renovare-simpla-efect-de-durata/",
+      "date": "Fri, 10 Apr 2026 08:52:36 +0000",
+      "summary": "O renovare reușită nu presupune întotdeauna lucrări complicate sau investiții greu de gestionat. De multe [&#8230;] Articolul Renovare simplă, efect de durată apare prima dată în FAQ - Intrebari Frecvente ."
+    },
     {
       "title": "Cum alegi cel mai bun studio de videochat din Iași? Alege dintre Viva Diva și Heylux pe Forumvideochat.ro!",
       "link": "https://e-faq.ro/cum-alegi-cel-mai-bun-studio-de-videochat-din-iasi-alege-dintre-viva-diva-si-heylux-pe-forumvideochat-ro/",
@@ -53,15 +59,15 @@
       "link": "https://e-faq.ro/de-ce-site-ul-tau-wordpress-are-nevoie-de-ingrijire-constanta/",
       "date": "Tue, 17 Feb 2026 14:23:00 +0000",
       "summary": "Una dintre cele mai costisitoare iluzii din mediul online este ideea că un site este [&#8230;] Articolul De ce site-ul tău WordPress are nevoie de îngrijire constantă apare prima dată în FAQ - Intrebari Frecvente ."
-    },
-    {
-      "title": "Cum reduci costurile unei închirieri auto în Cluj-Napoca fără să faci compromisuri greșite",
-      "link": "https://e-faq.ro/cum-reduci-costurile-unei-inchirieri-auto-in-cluj-napoca-fara-sa-faci-compromisuri-gresite/",
-      "date": "Tue, 17 Feb 2026 14:21:00 +0000",
-      "summary": "Preț mic nu &#238;nseamnă automat alegere bună C&#226;nd cauți servicii de &#238;nchirieri auto &#238;n Cluj-Napoca, [&#8230;] Articolul Cum reduci costurile unei închirieri auto în Cluj-Napoca fără să faci compromisuri greșite apare prima dată în FAQ - Intrebari Frecvente ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@efaq/116379560108627717",
+      "date": "Fri, 10 Apr 2026 08:52:38 +0000",
+      "content": "🚀 O renovare reușită nu presupune întotdeauna lucrări complicate sau investiții greu de gestionat. De multe ori, schimbarea pardoselii este suficientă pentru a transforma radical atmosfera unei locuințe. Textura, culoarea și finisajul influențează luminozitatea, percepția spațiului și confortul zilnic. În viziunea Diego, soluțiile moderne pentru pardoseală combină montajul eficient cu un rezultat estetic de impact, capabil… 🔗 Citeste tot: https:// e-faq.ro/renovare-simpla-efect -de-durata/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@efaq/116324535987331783",
@@ -127,12 +133,6 @@
       "link": "https://social.5th.ro/@efaq/116035742252318146",
       "date": "Sun, 08 Feb 2026 15:35:14 +0000",
       "content": "🚀 Zincul este un oligoelement esențial care trebuie furnizat zilnic prin alimentație, deoarece organismul nu îl poate produce singur. Se găsește în mod natural în alimente precum carnea, peștele, ouăle, produsele lactate, cerealele integrale și semințele. Zincul este implicat în activitatea a numeroase enzime și participă la procese fundamentale pentru menținerea funcțiilor normale ale 🔗 Citeste tot: https:// e-faq.ro/zincul-proprietati-si -rolul-sau-in-functionarea-normala-a-organismului/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@efaq/115965352737485984",
-      "date": "Tue, 27 Jan 2026 05:14:15 +0000",
-      "content": "🚀 Alegerea serviciului de placare scară interioară cu lemn e una dintre acele decizii care schimbă radical felul în care se simte casa, nu doar cum arată în poze. O scară din beton sau metal poate fi perfect funcțională, dar lemnul adaugă imediat căldură, confort și un aer mai „de acasă”. Dacă alegi corect esența, finisajul… 🔗 Citeste tot: https:// e-faq.ro/placare-scara-interio ara-cu-lemn-top-10-avantaje/"
     }
   ]
 }

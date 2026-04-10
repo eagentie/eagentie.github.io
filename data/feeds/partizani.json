@@ -4,8 +4,14 @@
   "site_feed": "https://partizani.ro/feed/",
   "mastodon": "https://social.5th.ro/@Partizani",
   "mastodon_rss": "https://social.5th.ro/@Partizani.rss",
-  "updated_at": "2026-04-10T07:59:17Z",
+  "updated_at": "2026-04-10T09:38:57Z",
   "site_posts": [
+    {
+      "title": "Detalii care aduc armonie",
+      "link": "https://partizani.ro/detalii-care-aduc-armonie/",
+      "date": "Fri, 10 Apr 2026 08:51:48 +0000",
+      "summary": "Armonia unei încăperi nu este rezultatul întâmplării, ci al unor alegeri atente, în care fiecare element contribuie la echilibrul general. Texturile, proporțiile și finisajele definesc atmosfera, iar intervențiile discrete pot avea un impact surprinzător. În colecțiile Diego, atenția pentru detalii se reflectă în soluții care îmbină estetica și funcționalitatea. Echilibrul [&#8230;] Articolul Detalii care aduc armonie apare prima dată în Partizani ."
+    },
     {
       "title": "Filtrele pentru țigări rulate: ce ascund în interior și cum îți influențează experiența",
       "link": "https://partizani.ro/filtrele-pentru-tigari-rulate-ce-ascund-in-interior-si-cum-iti-influenteaza-experienta/",
@@ -59,15 +65,15 @@
       "link": "https://partizani.ro/cum-sa-iti-organizezi-studioul-de-muzica-pentru-o-productivitate-maxima/",
       "date": "Fri, 16 Jan 2026 09:22:43 +0000",
       "summary": "Organizarea eficientă a studioului este esențială pentru orice muzician sau producător care dorește să își maximizeze performanța și creativitatea. Un spațiu de lucru bine structurat economisește timp, crește productivitatea și stimulează inspirația. În acest articol vei descoperi sfaturi practice despre alegerea echipamentelor potrivite, optimizarea spațiului și crearea unui mediu ergonomic, [&#8230;] Articolul Cum să îți organizezi studioul de muzică pentru o productivitate maximă apare prima dată în Partizani ."
-    },
-    {
-      "title": "La ce trebuie să fii atent când alegi distribuitoare-colectoare pentru calorifere? Greșeli pe care să le eviți",
-      "link": "https://partizani.ro/la-ce-trebuie-sa-fii-atent-cand-alegi-distribuitoare-colectoare-pentru-calorifere-greseli-pe-care-sa-le-eviti/",
-      "date": "Wed, 24 Dec 2025 11:30:54 +0000",
-      "summary": "Alegerea distribuitoarelor-colectoare pentru calorifere este un pas esențial în realizarea unui sistem de încălzire eficient și ușor de controlat. Deși aceste componente sunt adesea considerate detalii tehnice, ele influențează direct confortul termic, consumul de energie și flexibilitatea instalației. Mulți proprietari descoperă importanța distribuitoare colectoare pentru calorifere abia după ce apar [&#8230;] Articolul La ce trebuie să fii atent când alegi distribuitoare-colectoare pentru calorifere? Greșeli pe care să le eviți apare prima dată în Partizani ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@Partizani/116379556990326268",
+      "date": "Fri, 10 Apr 2026 08:51:51 +0000",
+      "content": "ℹ️Armonia unei încăperi nu este rezultatul întâmplării, ci al unor alegeri atente, în care fiecare element contribuie la echilibrul general. Texturile, proporțiile și finisajele definesc atmosfera, iar intervențiile discrete pot avea un impact surprinzător. În colecțiile Diego, atenția pentru detalii se reflectă în soluții care îmbină estetica și funcționalitatea.Echilibrul începe de la bază Covoarele au… ℹ️ https:// partizani.ro/detalii-care-aduc -armonie/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@Partizani/116277471214091325",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@Partizani/115736886095441338",
       "date": "Wed, 17 Dec 2025 20:52:11 +0000",
       "content": "ℹ️Atenție: Te-ai săturat ca postările tale să fie ignorate pe platformele sociale tradiționale? Ești un utilizator activ pe Mastodon și vrei ca mesajul tău să ajungă la cât mai multă lume? Interes: Platforma descentralizată îți oferă libertate, dar publicarea eficientă a conținutului vizual necesită o strategie bine pusă la punct. Nu este suficient să încarci… ℹ️ https:// partizani.ro/cum-postezi-imagi ni-pe-mastodon-alt-text-accesibilitate-descrieri/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@Partizani/115734508775094421",
-      "date": "Wed, 17 Dec 2025 10:47:36 +0000",
-      "content": "ℹ️Sustenabilitatea nu mai este o opțiune rezervată companiilor care vor să pară „verzi”. A devenit o condiție esențială pentru competitivitate, reputație și supraviețuire pe termen lung. Reducerea amprentei de carbon nu înseamnă doar protejarea mediului, ci și creșterea eficienței, optimizarea costurilor și consolidarea încrederii clienților.Fie că deții o companie mică sau conduci ℹ️ https:// partizani.ro/companiile-si-amp renta-de-carbon-cum-reduci-emisiile-fara-sa-pierzi-performanta-economica/"
     }
   ]
 }

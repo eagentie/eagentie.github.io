@@ -4,8 +4,14 @@
   "site_feed": "https://dobrogea-news.ro/feed/",
   "mastodon": "https://social.5th.ro/@dobrogea",
   "mastodon_rss": "https://social.5th.ro/@dobrogea.rss",
-  "updated_at": "2026-04-10T07:58:32Z",
+  "updated_at": "2026-04-10T09:38:10Z",
   "site_posts": [
+    {
+      "title": "Curele, rulmenți și motoare electrice într-un singur loc: de ce merită să comanzi de la curea.ro",
+      "link": "https://dobrogea-news.ro/curele-rulmenti-si-motoare-electrice-intr-un-singur-loc-de-ce-merita-sa-comanzi-de-la-curea-ro/",
+      "date": "Fri, 10 Apr 2026 09:12:45 +0000",
+      "summary": "Când ai de făcut o reparație, o intervenție de mentenanță sau o înlocuire rapidă într-un sistem de transmisie, ultimul lucru&#8230; Articolul Curele, rulmenți și motoare electrice într-un singur loc: de ce merită să comanzi de la curea.ro apare prima dată în Dobrogea News ."
+    },
     {
       "title": "Materiale promoționale personalizate pentru companii: ce alegi în funcție de campanie și buget",
       "link": "https://dobrogea-news.ro/materiale-promotionale-personalizate-pentru-companii-ce-alegi-in-functie-de-campanie-si-buget/",
@@ -59,15 +65,15 @@
       "link": "https://dobrogea-news.ro/rotiri-gratuite-la-pacanele-cum-functioneaza-ofertele-promotionale-din-cazinourile-online/",
       "date": "Thu, 13 Nov 2025 19:31:26 +0000",
       "summary": "Atenție: Cine nu și-ar dori să joace la favoritele păcănele online fără să cheltuiască niciun leu? Această oportunitate sună incredibil,&#8230; Articolul Rotiri gratuite la păcănele: cum funcționează ofertele promoționale din cazinourile online apare prima dată în Dobrogea News ."
-    },
-    {
-      "title": "De la izvor la Deltă: povestea Dunării care traversează Europa",
-      "link": "https://dobrogea-news.ro/de-la-izvor-la-delta-povestea-dunarii-care-traverseaza-europa/",
-      "date": "Tue, 09 Sep 2025 06:36:44 +0000",
-      "summary": "Te-ai întrebat vreodată unde izvorăște Dunărea? Această arteră vitală a Europei, cu apele sale limpezi care se transformă într-un delta&#8230; Articolul De la izvor la Deltă: povestea Dunării care traversează Europa apare prima dată în Dobrogea News ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@dobrogea/116379661931317826",
+      "date": "Fri, 10 Apr 2026 09:18:32 +0000",
+      "content": "Când ai de făcut o reparație, o intervenție de mentenanță sau o înlocuire rapidă într-un sistem de transmisie, ultimul lucru pe care îl vrei este să pierzi timp pe mai multe site-uri. În teorie, pare simplu: ai nevoie de o curea, de unul sau mai mulți rulmenți și poate de un motor nou. În practică,… https:// dobrogea-news.ro/curele-rulmen ti-si-motoare-electrice-intr-un-singur-loc-de-ce-merita-sa-comanzi-de-la-curea-ro/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@dobrogea/116367618081788116",
