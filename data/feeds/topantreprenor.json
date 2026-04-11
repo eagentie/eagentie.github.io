@@ -4,8 +4,14 @@
   "site_feed": "https://topantreprenor.ro/feed/",
   "mastodon": "https://social.5th.ro/@topantreprenor",
   "mastodon_rss": "https://social.5th.ro/@topantreprenor.rss",
-  "updated_at": "2026-04-10T23:52:04Z",
+  "updated_at": "2026-04-11T03:19:23Z",
   "site_posts": [
+    {
+      "title": "Ce trebuie să verifice un proprietar după primirea unei notificări sau a unei decizii de expropriere",
+      "link": "https://topantreprenor.ro/ce-trebuie-sa-verifice-un-proprietar-dupa-primirea-unei-notificari-sau-a-unei-decizii-de-expropriere/",
+      "date": "Sat, 11 Apr 2026 02:54:35 +0000",
+      "summary": "Primirea unei notificări sau a unei decizii de expropriere este, pentru cei mai mulți proprietari, un moment dificil. Dincolo de limbajul administrativ și juridic, apar imediat câteva întrebări firești: ce efecte produce procedura asupra dreptului de proprietate, dacă suma comunicată este corectă și dacă există motive reale pentru verificarea despăgubirii. În practică, primul pas util [&#8230;] The post Ce trebuie să verifice un proprietar după primirea unei notificări sau a unei decizii de expropriere appeared first on Top Antreprenor ."
+    },
     {
       "title": "Cum aleg antreprenorii un partener bun pentru producție publicitară în București",
       "link": "https://topantreprenor.ro/cum-aleg-antreprenorii-productie-publicitara-bucuresti/",
@@ -59,15 +65,15 @@
       "link": "https://topantreprenor.ro/romania-de-facto-realitati-si-perspective-2026/",
       "date": "Mon, 23 Feb 2026 10:58:31 +0000",
       "summary": "26 februarie 2026 &#124; 9:30 – 14:30 &#124; Arenele BNR Inflație. Deficite. Finanțare. Creștere. Riscuri. Dincolo de discurs, spre realitate. Nu vom vorbi despre România declarată, ci despre România de facto.Despre cifre — și, mai ales, despre ce spun ele atunci când sunt puse în context. Inflația, deficitele, finanțarea economiei și perspectivele pentru 2026 nu sunt teme izolate.Ele [&#8230;] The post România de facto: realități și perspective 2026 appeared first on Top Antreprenor ."
-    },
-    {
-      "title": "Cotele Dunării la Agigea în 2026: nivelul apei azi, grafic și alerte locale",
-      "link": "https://topantreprenor.ro/cotele-dunarii-la-agigea-in-2026-nivelul-apei-azi-grafic-si-alerte-locale/",
-      "date": "Fri, 13 Feb 2026 08:38:11 +0000",
-      "summary": "Analiza primelor 10 rezultate din Google arată că majoritatea site-urilor care furnizează informații despre nivelul fluviului sunt platforme tehnice oficiale (AFDJ) sau portaluri de știri locale. Elementele care diferențiază acest articol vor fi abordarea conversațională, integrarea tehnologiilor de monitorizare estimate pentru 2026 și explicarea contextului hidrologic pe înțelesul tuturor, oferind o structură optimizată pentru dispozitive [&#8230;] The post Cotele Dunării la Agigea în 2026: nivelul apei azi, grafic și alerte locale appeared first on Top Antreprenor ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@topantreprenor/116383814493032128",
+      "date": "Sat, 11 Apr 2026 02:54:35 +0000",
+      "content": "📰Primirea unei notificări sau a unei decizii de expropriere este, pentru cei mai mulți proprietari, un moment dificil. Dincolo de limbajul administrativ și juridic, apar imediat câteva întrebări firești: ce efecte produce procedura asupra dreptului de proprietate, dacă suma comunicată este corectă și dacă există motive reale pentru verificarea despăgubirii. În 🌐 https:// topantreprenor.ro/ce-trebuie-s a-verifice-un-proprietar-dupa-primirea-unei-notificari-sau-a-unei-decizii-de-expropriere/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@topantreprenor/116380034194015418",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@topantreprenor/116063018287549382",
       "date": "Fri, 13 Feb 2026 11:11:54 +0000",
       "content": "📰Analiza primelor 10 rezultate din Google arată că majoritatea site-urilor care furnizează informații despre nivelul fluviului sunt platforme tehnice oficiale (AFDJ) sau portaluri de știri locale. Elementele care diferențiază acest articol vor fi abordarea conversațională, integrarea tehnologiilor de monitorizare estimate pentru 2026 și explicarea contextului hidrologic pe înțelesul tuturor, 🌐 https:// topantreprenor.ro/cotele-dunar ii-la-agigea-in-2026-nivelul-apei-azi-grafic-si-alerte-locale/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@topantreprenor/116062963212405094",
-      "date": "Fri, 13 Feb 2026 10:57:53 +0000",
-      "content": "📰Analiză sumară a rezultatelor Google: Primele rezultate pentru aceste cuvinte cheie sunt dominate de site-uri oficiale (AFDJ) și portaluri de știri locale. Acestea oferă date brute, dar adesea duc lipsă de context, explicații pe înțelesul tuturor sau o structură ușor de parcurs pe dispozitive mobile. Articolul de mai jos se diferențiază prin oferirea unui context… 🌐 https:// topantreprenor.ro/cotele-dunar ii-la-zimnicea-in-2026-nivelul-apei-azi-grafic-si-tendinte-pe-termen-scurt/"
     }
   ]
 }
