@@ -4,8 +4,14 @@
   "site_feed": "https://UniversulTech.ro/feed/",
   "mastodon": "https://social.5th.ro/@UniversulTech",
   "mastodon_rss": "https://social.5th.ro/@UniversulTech.rss",
-  "updated_at": "2026-04-13T09:12:05Z",
+  "updated_at": "2026-04-13T10:57:00Z",
   "site_posts": [
+    {
+      "title": "Avantajele utilizării unei platforme online pentru a găsi locuința potrivită",
+      "link": "https://universultech.ro/avantajele-utilizarii-unei-platforme-online-pentru-a-gasi-locuinta-potrivita/",
+      "date": "Mon, 13 Apr 2026 09:38:00 +0000",
+      "summary": "Avantajele utilizării unei platforme online pentru a găsi locuința potrivită Piața imobiliară a evoluat considerabil &#238;n ultimii ani, iar modul&#8230; Articolul Avantajele utilizării unei platforme online pentru a găsi locuința potrivită apare prima dată în Universul Tech ."
+    },
     {
       "title": "Ghidul complet pentru integrarea acumulatorilor în sistemele fotovoltaice",
       "link": "https://universultech.ro/ghidul-complet-pentru-integrarea-acumulatorilor-in-sistemele-fotovoltaice/",
@@ -71,15 +77,15 @@
       "link": "https://universultech.ro/stilul-live-edge-in-proiectele-premium-de-dining-argumente-de-materialitate-durabilitate-si-diferentiere-sfaturi-de-alegere-a-meselor/",
       "date": "Fri, 06 Mar 2026 09:52:46 +0000",
       "summary": "În ultimii ani, zona de dining a trecut printr-o recalibrare vizibilă în proiectele de arhitectură și design interior. Dacă, pentru&#8230; Articolul Stilul „Live Edge” în proiectele premium de dining: argumente de materialitate, durabilitate și diferențiere + sfaturi de alegere a meselor apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "Ce rol au soluțiile Knox în protejarea datelor pe telefoane și alte dispozitive",
-      "link": "https://universultech.ro/ce-rol-au-solutiile-knox-in-protejarea-datelor-pe-telefoane-si-alte-dispozitive/",
-      "date": "Fri, 27 Feb 2026 09:49:00 +0000",
-      "summary": "Ce rol au soluțiile Knox în protejarea datelor pe telefoane și alte dispozitive Când folosești zilnic telefonul, tableta sau alte&#8230; Articolul Ce rol au soluțiile Knox în protejarea datelor pe telefoane și alte dispozitive apare prima dată în Universul Tech ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@UniversulTech/116396728308247420",
+      "date": "Mon, 13 Apr 2026 09:38:44 +0000",
+      "content": "💡Avantajele utilizării unei platforme online pentru a găsi locuința potrivită Piața imobiliară a evoluat considerabil în ultimii ani, iar modul în care oamenii caută o locuință s-a schimbat odată cu dezvoltarea tehnologiei. Dacă în trecut procesul presupunea vizite repetate la agenții imobiliare sau consultarea anunțurilor din ziare, astăzi majoritatea celor interesați preferă să își înceapă… ✅ https:// universultech.ro/avantajele-ut ilizarii-unei-platforme-online-pentru-a-gasi-locuinta-potrivita/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@UniversulTech/116322506628220506",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@UniversulTech/116181615884680757",
       "date": "Fri, 06 Mar 2026 09:52:49 +0000",
       "content": "💡În ultimii ani, zona de dining a trecut printr-o recalibrare vizibilă în proiectele de arhitectură și design interior. Dacă, pentru o perioadă, suprafețele perfect rectilinii și finisajele industriale au dominat spațiile rezidențiale și HoReCa, astăzi asistăm la o reîntoarcere atent dozată către materialitatea autentică. În acest ✅ https:// universultech.ro/stilul-live-e dge-in-proiectele-premium-de-dining-argumente-de-materialitate-durabilitate-si-diferentiere-sfaturi-de-alegere-a-meselor/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@UniversulTech/116141975982115972",
-      "date": "Fri, 27 Feb 2026 09:51:52 +0000",
-      "content": "💡Ce rol au soluțiile Knox în protejarea datelor pe telefoane și alte dispozitiveCând folosești zilnic telefonul, tableta sau alte dispozitive conectate, datele circulă constant între aplicații și rețele. Soluțiile Knox sunt relevante pentru că vizează protecția la nivel de sistem, nu doar la nivel de aplicație.Ce înseamnă / Ce esteSoluțiile Knox sunt un set de… ✅ https:// universultech.ro/ce-rol-au-sol utiile-knox-in-protejarea-datelor-pe-telefoane-si-alte-dispozitive/"
     }
   ]
 }
