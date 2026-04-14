@@ -4,8 +4,14 @@
   "site_feed": "https://pentruoameni.ro/feed/",
   "mastodon": "https://social.5th.ro/@pentruoameni",
   "mastodon_rss": "https://social.5th.ro/@pentruoameni.rss",
-  "updated_at": "2026-04-14T14:10:29Z",
+  "updated_at": "2026-04-14T15:37:41Z",
   "site_posts": [
+    {
+      "title": "Cum să optimizezi bugetul și să obții rezultate cu soluții complete în construcții",
+      "link": "https://pentruoameni.ro/cum-sa-optimizezi-bugetul-si-sa-obtii-rezultate-cu-solutii-complete-in-constructii/",
+      "date": "Tue, 14 Apr 2026 14:16:43 +0000",
+      "summary": "Fiecare proiect de construcție vine cu propriile provocări, așa că optimizarea bugetului fără a compromite calitatea devine o prioritate. Acest articol te va ghida printr-o serie de strategii practice și recomandări valoroase, astfel încât să poți lua decizii informate și să obții rezultate de succes în construcțiile tale. Află cum să prioritizezi investițiile, să utilizezi [&#8230;] Articolul Cum să optimizezi bugetul și să obții rezultate cu soluții complete în construcții apare prima dată în Pentru Oameni ."
+    },
     {
       "title": "Accesorii elegante pentru orice încăpere",
       "link": "https://pentruoameni.ro/accesorii-elegante-pentru-orice-incapere/",
@@ -71,15 +77,15 @@
       "link": "https://pentruoameni.ro/vitamina-d-vs-vitamina-c-alegerea-potrivita-pentru-imunitatea-ta-primavara/",
       "date": "Tue, 17 Mar 2026 19:05:32 +0000",
       "summary": "Primăvara aduce cu sine nu doar o explozie de culori și natură revigorată, ci și o nevoie acută de a-ți consolida imunitatea. Cu toate că vremea devine mai blândă, riscurile pentru sănătatea ta persistă, iar alegerea vitaminelor potrivite joacă un rol crucial. În acest context, vitamina D și vitamina C sunt frecvent discutate, dar care [&#8230;] Articolul Vitamina D vs. Vitamina C: alegerea potrivită pentru imunitatea ta primăvara apare prima dată în Pentru Oameni ."
-    },
-    {
-      "title": "MORE Networking – 10 ani printr-o conferință despre puterea conexiunilor și comunităților",
-      "link": "https://pentruoameni.ro/more-networking-10-ani-printr-o-conferinta-despre-puterea-conexiunilor-si-comunitatilor/",
-      "date": "Wed, 04 Mar 2026 17:28:40 +0000",
-      "summary": "MORE Networking celebrează 10 ani printr-o conferință despre puterea conexiunilor și comunităților O zi intensă de discuții, paneluri și networking dedicată liderilor de comunități, antreprenorilor și managerilor. Pe 26 martie 2026, la Aurrum Palace, are loc Conferința Anuală MORE Networking 2026 &#8211; o ediție specială care marchează 10 ani de la lansarea uneia dintre cele [&#8230;] Articolul MORE Networking &#8211; 10 ani printr-o conferință despre puterea conexiunilor și comunităților apare prima dată în Pentru Oameni ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@pentruoameni/116403483899352210",
+      "date": "Tue, 14 Apr 2026 14:16:46 +0000",
+      "content": "Fiecare proiect de construcție vine cu propriile provocări, așa că optimizarea bugetului fără a compromite calitatea devine o prioritate. Acest articol te va ghida printr-o serie de strategii practice și recomandări valoroase, astfel încât să poți lua decizii informate și să obții rezultate de succes în construcțiile tale. Află cum să prioritizezi investițiile, să utilizezi… .... https:// pentruoameni.ro/cum-sa-optimiz ezi-bugetul-si-sa-obtii-rezultate-cu-solutii-complete-in-constructii/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@pentruoameni/116379555002856212",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@pentruoameni/116246074819317914",
       "date": "Tue, 17 Mar 2026 19:05:35 +0000",
       "content": "Primăvara aduce cu sine nu doar o explozie de culori și natură revigorată, ci și o nevoie acută de a-ți consolida imunitatea. Cu toate că vremea devine mai blândă, riscurile pentru sănătatea ta persistă, iar alegerea vitaminelor potrivite joacă un rol crucial. În acest context, vitamina D și vitamina C sunt frecvent discutate, dar care… .... https:// pentruoameni.ro/vitamina-d-vs- vitamina-c-alegerea-potrivita-pentru-imunitatea-ta-primavara/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@pentruoameni/116172598334694479",
-      "date": "Wed, 04 Mar 2026 19:39:32 +0000",
-      "content": "MORE Networking celebrează 10 ani printr-o conferință despre puterea conexiunilor și comunităților O zi intensă de discuții, paneluri și networking dedicată liderilor de comunități, antreprenorilor și managerilor. Pe 26 martie 2026, la Aurrum Palace, are loc Conferința Anuală MORE Networking 2026 – o ediție specială care marchează 10 ani de la lansarea uneia dintre cele… .... https:// pentruoameni.ro/more-networkin g-10-ani-printr-o-conferinta-despre-puterea-conexiunilor-si-comunitatilor/"
     }
   ]
 }
