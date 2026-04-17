@@ -4,8 +4,14 @@
   "site_feed": "https://recent-news.ro/feed/",
   "mastodon": "https://social.5th.ro/@recent_news",
   "mastodon_rss": "https://social.5th.ro/@recent_news.rss",
-  "updated_at": "2026-04-17T09:45:18Z",
+  "updated_at": "2026-04-17T11:12:06Z",
   "site_posts": [
+    {
+      "title": "Torturi de nuntă și candy bar în 2026",
+      "link": "https://recent-news.ro/torturi-de-nunta-si-candy-bar-in-2026/",
+      "date": "Fri, 17 Apr 2026 08:06:04 +0000",
+      "summary": "Sezonul de nunți 2026 se anunță mai creativ, mai personal și mai atent la detalii ca niciodată. Cuplurile nu mai&#8230; Articolul Torturi de nuntă și candy bar în 2026 apare prima dată în Recent News ."
+    },
     {
       "title": "Vrei să începi în videochat în Iași? Află pe Forumvideochat.ro ce nu îți spun reclamele Viva Diva!",
       "link": "https://recent-news.ro/vrei-sa-incepi-in-videochat-in-iasi-afla-pe-forumvideochat-ro-ce-nu-iti-spun-reclamele-viva-diva/",
@@ -59,15 +65,15 @@
       "link": "https://recent-news.ro/mai-e-mult-pana-in-2027-de-ce-acum-este-momentul-perfect-sa-alegi-gradinita-potrivita-pentru-copilul-tau/",
       "date": "Mon, 02 Feb 2026 05:59:33 +0000",
       "summary": "Mai e mult pana in 2027? De ce „acum” este momentul perfect sa alegi gradinita potrivita pentru copilul tau Stim&#8230; Articolul Mai e mult pana in 2027? De ce „acum” este momentul perfect sa alegi gradinita potrivita pentru copilul tau apare prima dată în Recent News ."
-    },
-    {
-      "title": "Ghid: cum îți faci cont pe Mastodon România pas cu pas",
-      "link": "https://recent-news.ro/ghid-cum-iti-faci-cont-pe-mastodon-romania-pas-cu-pas/",
-      "date": "Wed, 17 Dec 2025 16:58:54 +0000",
-      "summary": "Sunteți obosit de algoritmii care decid ce merită să vedeți? Vă simțiți urmărit la fiecare click și manipulat de știri&#8230; Articolul Ghid: cum îți faci cont pe Mastodon România pas cu pas apare prima dată în Recent News ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@recent_news/116419726408311330",
+      "date": "Fri, 17 Apr 2026 11:07:27 +0000",
+      "content": "Sezonul de nunți 2026 se anunță mai creativ, mai personal și mai atent la detalii ca niciodată. Cuplurile nu mai caută doar un tort de nuntă frumos, ci o experiență completă – iar aici intervin elemente esențiale precum tortul de nuntă personalizat și candy bar-ul pentru eveniment. Brandul Mai Mult Decât Un Dulce vine în… https:// recent-news.ro/torturi-de-nunt a-si-candy-bar-in-2026/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@recent_news/116324542548151833",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@recent_news/115734209410591802",
       "date": "Wed, 17 Dec 2025 09:31:28 +0000",
       "content": "Revelionul înseamnă mese festive, întâlniri cu prietenii și seri care se prelungesc mult după miezul nopții, iar gustările joacă un rol tot mai important în completarea meniului clasic. Pentru cei care caută alternative ușor de servit și potrivite pentru preferințe diferite, Mixit propune selecția „Gustări festive” – o colecție de texturi crocante și… https:// recent-news.ro/mixit-aduce-gus tari-festive-pentru-petrecerea-de-revelion/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@recent_news/115695156734789813",
-      "date": "Wed, 10 Dec 2025 11:59:52 +0000",
-      "content": "https:// recent-news.ro/oameni-destine- emotie-adela-hanafi-a-lansat-podcastul-povesti-nespuse-cu-adela/"
     }
   ]
 }
