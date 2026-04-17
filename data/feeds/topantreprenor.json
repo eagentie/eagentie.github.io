@@ -4,8 +4,14 @@
   "site_feed": "https://topantreprenor.ro/feed/",
   "mastodon": "https://social.5th.ro/@topantreprenor",
   "mastodon_rss": "https://social.5th.ro/@topantreprenor.rss",
-  "updated_at": "2026-04-17T13:59:00Z",
+  "updated_at": "2026-04-17T15:15:51Z",
   "site_posts": [
+    {
+      "title": "Woot.ro lanseaza aplicatie mobila nativa",
+      "link": "https://topantreprenor.ro/woot-ro-lanseaza-aplicatie-mobila-nativa/",
+      "date": "Fri, 17 Apr 2026 15:10:55 +0000",
+      "summary": "70% dintre cei 100.000 de utilizatori activi acceseaza deja platforma de pe telefon Dupa 9 ani de activitate si peste 4 milioane de colete expediate, woot.ro face urmatorul pas in dezvoltarea platformei: o aplicatie mobila nativa, disponibila pe Google Play si App Store.Decizia vine direct din comportamentul utilizatorilor. In acest moment, 70% dintre cei 100.000 [&#8230;] The post Woot.ro lanseaza aplicatie mobila nativa appeared first on Top Antreprenor ."
+    },
     {
       "title": "Ce trebuie să verifice un proprietar după primirea unei notificări sau a unei decizii de expropriere",
       "link": "https://topantreprenor.ro/ce-trebuie-sa-verifice-un-proprietar-dupa-primirea-unei-notificari-sau-a-unei-decizii-de-expropriere/",
@@ -59,15 +65,15 @@
       "link": "https://topantreprenor.ro/more-networking-10-ani-printr-o-conferinta-despre-puterea-conexiunilor-si-comunitatilor/",
       "date": "Wed, 04 Mar 2026 17:29:41 +0000",
       "summary": "MORE Networking celebrează 10 ani printr-o conferință despre puterea conexiunilor și comunităților O zi intensă de discuții, paneluri și networking dedicată liderilor de comunități, antreprenorilor și managerilor. Pe 26 martie 2026, la Aurrum Palace, are loc Conferința Anuală MORE Networking 2026 &#8211; o ediție specială care marchează 10 ani de la lansarea uneia dintre cele [&#8230;] The post MORE Networking &#8211; 10 ani printr-o conferință despre puterea conexiunilor și comunităților appeared first on Top Antreprenor ."
-    },
-    {
-      "title": "România de facto: realități și perspective 2026",
-      "link": "https://topantreprenor.ro/romania-de-facto-realitati-si-perspective-2026/",
-      "date": "Mon, 23 Feb 2026 10:58:31 +0000",
-      "summary": "26 februarie 2026 &#124; 9:30 – 14:30 &#124; Arenele BNR Inflație. Deficite. Finanțare. Creștere. Riscuri. Dincolo de discurs, spre realitate. Nu vom vorbi despre România declarată, ci despre România de facto.Despre cifre — și, mai ales, despre ce spun ele atunci când sunt puse în context. Inflația, deficitele, finanțarea economiei și perspectivele pentru 2026 nu sunt teme izolate.Ele [&#8230;] The post România de facto: realități și perspective 2026 appeared first on Top Antreprenor ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@topantreprenor/116420683740436300",
+      "date": "Fri, 17 Apr 2026 15:10:55 +0000",
+      "content": "📰70% dintre cei 100.000 de utilizatori activi acceseaza deja platforma de pe telefonDupa 9 ani de activitate si peste 4 milioane de colete expediate, woot.ro face urmatorul pas in dezvoltarea platformei: o aplicatie mobila nativa, disponibila pe Google Play si App Store.Decizia vine direct din comportamentul utilizatorilor. In acest moment, 70% dintre cei 100.000 de… 🌐 https:// topantreprenor.ro/woot-ro-lans eaza-aplicatie-mobila-nativa/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@topantreprenor/116383814493032128",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@topantreprenor/116120119261452019",
       "date": "Mon, 23 Feb 2026 13:13:25 +0000",
       "content": "📰26 februarie 2026 | 9:30 – 14:30 | Arenele BNRInflație. Deficite. Finanțare. Creștere. Riscuri.Dincolo de discurs, spre realitate.Nu vom vorbi despre România declarată, ci despre România de facto.Despre cifre — și, mai ales, despre ce spun ele atunci când sunt puse în context.Inflația, deficitele, finanțarea economiei și perspectivele pentru 2026 nu sunt teme izolate.Ele se întâlnesc într-o întrebare… 🌐 https:// topantreprenor.ro/romania-de-f acto-realitati-si-perspective-2026/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@topantreprenor/116063018287549382",
-      "date": "Fri, 13 Feb 2026 11:11:54 +0000",
-      "content": "📰Analiza primelor 10 rezultate din Google arată că majoritatea site-urilor care furnizează informații despre nivelul fluviului sunt platforme tehnice oficiale (AFDJ) sau portaluri de știri locale. Elementele care diferențiază acest articol vor fi abordarea conversațională, integrarea tehnologiilor de monitorizare estimate pentru 2026 și explicarea contextului hidrologic pe înțelesul tuturor, 🌐 https:// topantreprenor.ro/cotele-dunar ii-la-agigea-in-2026-nivelul-apei-azi-grafic-si-alerte-locale/"
     }
   ]
 }

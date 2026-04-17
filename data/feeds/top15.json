@@ -4,8 +4,14 @@
   "site_feed": "https://top15.ro/feed/",
   "mastodon": "https://social.5th.ro/@top",
   "mastodon_rss": "https://social.5th.ro/@top.rss",
-  "updated_at": "2026-04-17T13:59:39Z",
+  "updated_at": "2026-04-17T15:16:56Z",
   "site_posts": [
+    {
+      "title": "Externalizarea serviciilor IT devine o soluție tot mai utilizată de companiile din România",
+      "link": "https://top15.ro/externalizarea-serviciilor-it-devine-o-solutie-tot-mai-utilizata-de-companiile-din-romania/",
+      "date": "Fri, 17 Apr 2026 15:12:08 +0000",
+      "summary": "Tot mai multe companii din România aleg să externalizeze serviciile IT și de marketing online,... Articolul Externalizarea serviciilor IT devine o soluție tot mai utilizată de companiile din România apare prima dată în TOP 15 ."
+    },
     {
       "title": "Rolul luminii în solar: lumina difuză vs directă (Crystal Clear)",
       "link": "https://top15.ro/rolul-luminii-in-solar-lumina-difuza-vs-directa-crystal-clear/",
@@ -71,15 +77,15 @@
       "link": "https://top15.ro/importanta-unui-soft-de-gestiune-pentru-optimizarea-operatiunilor-din-magazinul-tau/",
       "date": "Fri, 06 Mar 2026 15:26:05 +0000",
       "summary": "Administrarea unui magazin implică o serie de activități care trebuie coordonate constant, de la gestionarea... Articolul Importanța unui soft de gestiune pentru optimizarea operațiunilor din magazinul tău apare prima dată în TOP 15 ."
-    },
-    {
-      "title": "De unde pot achiziționa online inele de logodnă cu diamante autentice și certificate în 2026?",
-      "link": "https://top15.ro/de-unde-pot-achizitiona-online-inele-de-logodna-cu-diamante-autentice-si-certificate-in-2026/",
-      "date": "Fri, 06 Mar 2026 09:53:19 +0000",
-      "summary": "Alegerea inelului de logodnă rămâne, probabil, cel mai încărcat de emoție gest pe care un... Articolul De unde pot achiziționa online inele de logodnă cu diamante autentice și certificate în 2026? apare prima dată în TOP 15 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@top/116420688670766403",
+      "date": "Fri, 17 Apr 2026 15:12:10 +0000",
+      "content": "📰Tot mai multe companii din România aleg să externalizeze serviciile IT și de marketing online, pe fondul nevoii de eficientizare și reducere a costurilor operaționale.Potrivit unui interviu recent acordat de reprezentanții companiei Ro2Biz Online Software, externalizarea permite firmelor să gestioneze într-un mod unitar toate procesele digitale, de la infrastructura IT până la 📰 https:// top15.ro/externalizarea-servic iilor-it-devine-o-solutie-tot-mai-utilizata-de-companiile-din-romania/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@top/116356517148671274",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@top/116182926684625004",
       "date": "Fri, 06 Mar 2026 15:26:10 +0000",
       "content": "📰Administrarea unui magazin implică o serie de activități care trebuie coordonate constant, de la gestionarea stocurilor și urmărirea vânzărilor, până la comunicarea cu clienții și organizarea ofertelor.Pe măsură ce volumul operațiunilor crește, devine tot mai dificil să menții o evidență clară folosind metode manuale sau instrumente separate. În acest context, un soft de gestiune magazin… 📰 https:// top15.ro/importanta-unui-soft- de-gestiune-pentru-optimizarea-operatiunilor-din-magazinul-tau/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@top/116181618089824490",
-      "date": "Fri, 06 Mar 2026 09:53:23 +0000",
-      "content": "📰Alegerea inelului de logodnă rămâne, probabil, cel mai încărcat de emoție gest pe care un bărbat îl face în parcursul său spre o viață în doi. Nu este vorba doar despre un metal prețios sau o piatră sclipitoare, ci despre o promisiune mută, menită să strălucească la fel de intens și peste decenii. În 2026,… 📰 https:// top15.ro/de-unde-pot-achizitio na-online-inele-de-logodna-cu-diamante-autentice-si-certificate-in-2026/"
     }
   ]
 }

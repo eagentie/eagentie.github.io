@@ -4,8 +4,14 @@
   "site_feed": "https://prbusiness.ro/feed/",
   "mastodon": "https://social.5th.ro/@prbusiness",
   "mastodon_rss": "https://social.5th.ro/@prbusiness.rss",
-  "updated_at": "2026-04-17T13:58:50Z",
+  "updated_at": "2026-04-17T15:15:41Z",
   "site_posts": [
+    {
+      "title": "Woot.ro, platforma cu cei mai multi curieri integrati din Romania, lanseaza aplicatie mobila nativa",
+      "link": "https://prbusiness.ro/woot-ro-platforma-cu-cei-mai-multi-curieri-integrati-din-romania-lanseaza-aplicatie-mobila-nativa/",
+      "date": "Fri, 17 Apr 2026 15:10:15 +0000",
+      "summary": "Intr-o piata in care agregatorii de curierat au devenit o alternativa tot mai folosita la contractele directe, diferentiatorul The post Woot.ro, platforma cu cei mai multi curieri integrati din Romania, lanseaza aplicatie mobila nativa appeared first on PR Business ."
+    },
     {
       "title": "Matricea Succesului: un nou tip de eveniment în România, la intersecția dintre imobiliare, credite și asigurări",
       "link": "https://prbusiness.ro/matricea-succesului-un-nou-tip-de-eveniment-in-romania-la-intersectia-dintre-imobiliare-credite-si-asigurari/",
@@ -71,15 +77,15 @@
       "link": "https://prbusiness.ro/ce-trebuie-sa-stii-despre-spuma-activa-auto-daca-detii-o-spalatorie-self-service/",
       "date": "Wed, 14 Jan 2026 08:12:48 +0000",
       "summary": "Dacă ai o spălătorie self service sau te pregătești să intri în acest domeniu, știi deja cât de The post Ce trebuie să știi despre spuma activă auto dacă deții o spălătorie self service appeared first on PR Business ."
-    },
-    {
-      "title": "Dirigintele de șantier: Garanția unei construcții fără probleme și fără abateri legale",
-      "link": "https://prbusiness.ro/dirigintele-de-santier-garantia-unei-constructii-fara-probleme-si-fara-abateri-legale/",
-      "date": "Mon, 12 Jan 2026 12:27:31 +0000",
-      "summary": "Atunci când începi un proiect de construcție – fie o locuință individuală, fie o dezvoltare mai amplă – The post Dirigintele de șantier: Garanția unei construcții fără probleme și fără abateri legale appeared first on PR Business ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@prbusiness/116420681200294243",
+      "date": "Fri, 17 Apr 2026 15:10:16 +0000",
+      "content": ".... More details at: https:// prbusiness.ro/woot-ro-platform a-cu-cei-mai-multi-curieri-integrati-din-romania-lanseaza-aplicatie-mobila-nativa/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@prbusiness/116419280234952753",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@prbusiness/115986416130947086",
       "date": "Fri, 30 Jan 2026 22:30:57 +0000",
       "content": "Există o discrepanță vizibilă între modul în care un utilizator obișnuit își cumpără un computer și strategia de achiziție a unei multinaționale. În timp ce consumatorul individual este adesea sedus de carcasele lucioase, de marketingul agresiv din magazinele de electronice și de eticheta &quot;Nou&quot;, departamentele de achiziții ale marilor corporații urmează o logică total .... Read more at: https:// prbusiness.ro/de-ce-marile-cor poratii-prefera-echipamentele-refurbished-in-locul-celor-noi-de-consum/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@prbusiness/115892444843646019",
-      "date": "Wed, 14 Jan 2026 08:12:49 +0000",
-      "content": "Dacă ai o spălătorie self service sau te pregătești să intri în acest domeniu, știi deja cât de important e ca mașinile să iasă perfect curate după fiecare spălare. Și dacă ar fi să alegi un singur produs care face toată diferența în experiența clientului, acela ar fi, fără îndoială, spuma activă auto.Este produsul care… .... More details at: https:// prbusiness.ro/ce-trebuie-sa-st ii-despre-spuma-activa-auto-daca-detii-o-spalatorie-self-service/"
     }
   ]
 }
