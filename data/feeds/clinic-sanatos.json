@@ -4,8 +4,14 @@
   "site_feed": "https://clinic-sanatos.ro/feed/",
   "mastodon": "https://social.5th.ro/@clinic_sanatos",
   "mastodon_rss": "https://social.5th.ro/@clinic_sanatos.rss",
-  "updated_at": "2026-04-22T15:40:37Z",
+  "updated_at": "2026-04-22T17:15:43Z",
   "site_posts": [
+    {
+      "title": "Cum arată autismul la maturitate, dincolo de diagnostic",
+      "link": "https://clinic-sanatos.ro/cum-arata-autismul-la-maturitate-dincolo-de-diagnostic/",
+      "date": "Wed, 22 Apr 2026 15:52:09 +0000",
+      "summary": "Imaginea despre autism a fost construită de-a lungul timpului aproape exclusiv în jurul copiilor. Copilul... Articolul Cum arată autismul la maturitate, dincolo de diagnostic apare prima dată în Clinic Sanatos ."
+    },
     {
       "title": "Aminoacizii în alimentație: de ce sunt importanți pentru organism",
       "link": "https://clinic-sanatos.ro/aminoacizii-in-alimentatie-de-ce-sunt-importanti-pentru-organism/",
@@ -71,12 +77,6 @@
       "link": "https://clinic-sanatos.ro/pariuri-sportive-pe-termen-lung-diferenta-dintre-hobby-si-sursa-de-stres/",
       "date": "Fri, 14 Nov 2025 09:07:58 +0000",
       "summary": "Sună tentant să îmbini pasiunea pentru sport cu posibilitatea de a obține câștiguri. Mii de... Articolul Pariuri sportive pe termen lung: diferența dintre hobby și sursă de stres apare prima dată în Clinic Sanatos ."
-    },
-    {
-      "title": "SEO pentru site-uri cu conținut generat de utilizatori: riscuri și beneficii",
-      "link": "https://clinic-sanatos.ro/seo-pentru-site-uri-cu-continut-generat-de-utilizatori-riscuri-si-beneficii/",
-      "date": "Fri, 14 Nov 2025 07:32:14 +0000",
-      "summary": "Vă simțiți copleșit de nevoia constantă de a genera conținut proaspăt și relevant pentru a... Articolul SEO pentru site-uri cu conținut generat de utilizatori: riscuri și beneficii apare prima dată în Clinic Sanatos ."
     }
   ],
   "mastodon_posts": []

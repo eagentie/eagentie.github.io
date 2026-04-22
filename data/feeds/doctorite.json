@@ -4,8 +4,14 @@
   "site_feed": "https://doctorite.ro/feed/",
   "mastodon": "https://social.5th.ro/@DoctoriteBlog",
   "mastodon_rss": "https://social.5th.ro/@DoctoriteBlog.rss",
-  "updated_at": "2026-04-22T15:40:43Z",
+  "updated_at": "2026-04-22T17:15:48Z",
   "site_posts": [
+    {
+      "title": "Te simți mereu tensionată fără motiv? Semnele anxietății pe care mulți le ignoră",
+      "link": "https://doctorite.ro/te-simti-mereu-tensionata-fara-motiv-semnele-anxietatii-pe-care-multi-le-ignora/",
+      "date": "Wed, 22 Apr 2026 15:50:19 +0000",
+      "summary": "Cu toții recunoaștem o versiune a anxietății care are, în general, aceste semnale: inima bătând... Articolul Te simți mereu tensionată fără motiv? Semnele anxietății pe care mulți le ignoră apare prima dată în Doctorite ."
+    },
     {
       "title": "Când este recomandată radiografia dentară și ce probleme poate descoperi din timp",
       "link": "https://doctorite.ro/cand-este-recomandata-radiografia-dentara-si-ce-probleme-poate-descoperi-din-timp/",
@@ -59,12 +65,6 @@
       "link": "https://doctorite.ro/igiena-si-confortul-pacientului-imobilizat/",
       "date": "Fri, 12 Dec 2025 10:13:10 +0000",
       "summary": "Îngrijirea unui pacient imobilizat la pat, fie temporar din cauza unei recuperări post-operatorii, fie permanent... Articolul Igiena și confortul pacientului imobilizat apare prima dată în Doctorite ."
-    },
-    {
-      "title": "Băiat sau fetiță? Săptămâna exactă în care ecografia poate confirma sexul bebelușului",
-      "link": "https://doctorite.ro/baiat-sau-fetita-saptamana-exacta-in-care-ecografia-poate-confirma-sexul-bebelusului/",
-      "date": "Fri, 05 Dec 2025 16:45:47 +0000",
-      "summary": "Dintre toate surprizele pe care le rezervă viața, puține se compară cu momentul dezvăluirii sexului... Articolul Băiat sau fetiță? Săptămâna exactă în care ecografia poate confirma sexul bebelușului apare prima dată în Doctorite ."
     }
   ],
   "mastodon_posts": []
