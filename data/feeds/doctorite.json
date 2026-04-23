@@ -4,7 +4,68 @@
   "site_feed": "https://doctorite.ro/feed/",
   "mastodon": "https://social.5th.ro/@DoctoriteBlog",
   "mastodon_rss": "https://social.5th.ro/@DoctoriteBlog.rss",
-  "updated_at": "2026-04-23T16:07:52Z",
-  "site_posts": [],
+  "updated_at": "2026-04-23T17:44:54Z",
+  "site_posts": [
+    {
+      "title": "Te simți mereu tensionată fără motiv? Semnele anxietății pe care mulți le ignoră",
+      "link": "https://doctorite.ro/te-simti-mereu-tensionata-fara-motiv-semnele-anxietatii-pe-care-multi-le-ignora/",
+      "date": "Wed, 22 Apr 2026 15:50:19 +0000",
+      "summary": "Cu toții recunoaștem o versiune a anxietății care are, în general, aceste semnale: inima bătând... Articolul Te simți mereu tensionată fără motiv? Semnele anxietății pe care mulți le ignoră apare prima dată în Doctorite ."
+    },
+    {
+      "title": "Când este recomandată radiografia dentară și ce probleme poate descoperi din timp",
+      "link": "https://doctorite.ro/cand-este-recomandata-radiografia-dentara-si-ce-probleme-poate-descoperi-din-timp/",
+      "date": "Wed, 25 Mar 2026 10:58:57 +0000",
+      "summary": "Cei mai mulți oameni ajung la dentist în același moment: când începe să doară. E... Articolul Când este recomandată radiografia dentară și ce probleme poate descoperi din timp apare prima dată în Doctorite ."
+    },
+    {
+      "title": "Rolul magneziului în sănătatea oaselor și prevenirea osteoporozei",
+      "link": "https://doctorite.ro/rolul-magneziului-in-sanatatea-oaselor-si-prevenirea-osteoporozei/",
+      "date": "Mon, 09 Mar 2026 13:50:42 +0000",
+      "summary": "Magneziul are un rol crucial, adesea trecut cu vederea, în menținerea sănătății oaselor și prevenirea... Articolul Rolul magneziului în sănătatea oaselor și prevenirea osteoporozei apare prima dată în Doctorite ."
+    },
+    {
+      "title": "Cotele Dunării la Cernavodă în 2026: nivelul apei azi, grafic și tendințe",
+      "link": "https://doctorite.ro/cotele-dunarii-la-cernavoda-in-2026-nivelul-apei-azi-grafic-si-tendinte/",
+      "date": "Fri, 13 Feb 2026 08:38:11 +0000",
+      "summary": "Analiza rezultatelor din Google pentru cuvintele cheie vizate relevă faptul că majoritatea paginilor de top... Articolul Cotele Dunării la Cernavodă în 2026: nivelul apei azi, grafic și tendințe apare prima dată în Doctorite ."
+    },
+    {
+      "title": "Vitamina C – cum susține protecția celulelor împotriva stresului oxidativ",
+      "link": "https://doctorite.ro/vitamina-c-cum-sustine-protectia-celulelor-impotriva-stresului-oxidativ/",
+      "date": "Sun, 08 Feb 2026 16:02:29 +0000",
+      "summary": "Vitamina C este o vitamină hidrosolubilă care trebuie furnizată regulat prin alimentație, deoarece organismul uman... Articolul Vitamina C – cum susține protecția celulelor împotriva stresului oxidativ apare prima dată în Doctorite ."
+    },
+    {
+      "title": "Respiratia corecta si calitatea vietii: De ce nu trebuie sa ignori o deviatie de sept si care sunt optiunile de tratament",
+      "link": "https://doctorite.ro/respiratia-corecta-si-calitatea-vietii-de-ce-nu-trebuie-sa-ignori-o-deviatie-de-sept-si-care-sunt-optiunile-de-tratament/",
+      "date": "Wed, 21 Jan 2026 19:58:55 +0000",
+      "summary": "Respiratia este functia vitala pe care o indeplinim de aproximativ 20.000 de ori pe zi,... Articolul Respiratia corecta si calitatea vietii: De ce nu trebuie sa ignori o deviatie de sept si care sunt optiunile de tratament apare prima dată în Doctorite ."
+    },
+    {
+      "title": "Susținerea imunității în sezonul rece: ce trebuie să știi",
+      "link": "https://doctorite.ro/sustinerea-imunitatii-in-sezonul-rece-ce-trebuie-sa-stii/",
+      "date": "Thu, 08 Jan 2026 12:36:00 +0000",
+      "summary": "Sezonul rece vine adesea la pachet cu schimbări de temperatură, mai puține ore de lumină... Articolul Susținerea imunității în sezonul rece: ce trebuie să știi apare prima dată în Doctorite ."
+    },
+    {
+      "title": "Etapele tratamentului cu aparat dentar invizibil.",
+      "link": "https://doctorite.ro/etapele-tratamentului-cu-aparat-dentar-invizibil/",
+      "date": "Tue, 23 Dec 2025 05:21:34 +0000",
+      "summary": "Etapele tratamentului cu aparat dentar invizibil. Iată &#238;n ce constă procesul de la A la... Articolul Etapele tratamentului cu aparat dentar invizibil. apare prima dată în Doctorite ."
+    },
+    {
+      "title": "Hashtaguri pe Mastodon: cum te găsește lumea mai ușor",
+      "link": "https://doctorite.ro/hashtaguri-pe-mastodon-cum-te-gaseste-lumea-mai-usor/",
+      "date": "Wed, 17 Dec 2025 16:58:54 +0000",
+      "summary": "Introducere: De Ce Vizibilitatea Pe Mastodon Depinde De Tine? V-ați săturat de algoritmii care decid... Articolul Hashtaguri pe Mastodon: cum te găsește lumea mai ușor apare prima dată în Doctorite ."
+    },
+    {
+      "title": "Igiena și confortul pacientului imobilizat",
+      "link": "https://doctorite.ro/igiena-si-confortul-pacientului-imobilizat/",
+      "date": "Fri, 12 Dec 2025 10:13:10 +0000",
+      "summary": "Îngrijirea unui pacient imobilizat la pat, fie temporar din cauza unei recuperări post-operatorii, fie permanent... Articolul Igiena și confortul pacientului imobilizat apare prima dată în Doctorite ."
+    }
+  ],
   "mastodon_posts": []
 }
