@@ -4,8 +4,14 @@
   "site_feed": "https://e-faq.ro/feed/",
   "mastodon": "https://social.5th.ro/@efaq",
   "mastodon_rss": "https://social.5th.ro/@efaq.rss",
-  "updated_at": "2026-04-23T08:12:48Z",
+  "updated_at": "2026-04-23T09:56:53Z",
   "site_posts": [
+    {
+      "title": "Espressor in custodie pemntru orice companie",
+      "link": "https://e-faq.ro/espressor-in-custodie-pemntru-orice-companie/",
+      "date": "Thu, 23 Apr 2026 06:53:03 +0000",
+      "summary": "Afli totul despre espressoarele în custodie — ce înseamnă, cum funcționează sistemul, ce avantaje aduce și unde găsești cele mai bune oferte. Articolul Espressor in custodie pemntru orice companie apare prima dată în FAQ - Intrebari Frecvente ."
+    },
     {
       "title": "Întrebări frecvente despre producția publicitară în București pentru firme și branduri",
       "link": "https://e-faq.ro/intrebari-frecvente-productie-publicitara-bucuresti/",
@@ -53,12 +59,6 @@
       "link": "https://e-faq.ro/lumea-cartilor-pentru-copii/",
       "date": "Mon, 16 Mar 2026 11:36:52 +0000",
       "summary": "În ziua de azi se găsesc o mulțime de cărți pentru copii, povești frumoase, incredibile [&#8230;] Articolul Lumea cărților pentru copii apare prima dată în FAQ - Intrebari Frecvente ."
-    },
-    {
-      "title": "Rolul unui soft de gestiune hotelieră în fidelizarea clienților",
-      "link": "https://e-faq.ro/rolul-unui-soft-de-gestiune-hoteliera-in-fidelizarea-clientilor/",
-      "date": "Fri, 06 Mar 2026 15:24:52 +0000",
-      "summary": "Un soft de gestiune hotelieră nu înlocuiește rolul personalului și nici nu acoperă integral toate [&#8230;] Articolul Rolul unui soft de gestiune hotelieră în fidelizarea clienților apare prima dată în FAQ - Intrebari Frecvente ."
     }
   ],
   "mastodon_posts": []
