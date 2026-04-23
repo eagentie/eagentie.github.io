@@ -4,8 +4,14 @@
   "site_feed": "https://cluj-azi.ro/feed/",
   "mastodon": "https://social.5th.ro/@cluj",
   "mastodon_rss": "https://social.5th.ro/@cluj.rss",
-  "updated_at": "2026-04-23T17:44:16Z",
+  "updated_at": "2026-04-23T19:40:41Z",
   "site_posts": [
+    {
+      "title": "Ploșnițe de pat în Cluj-Napoca: greșeala pe care o fac majoritatea",
+      "link": "https://cluj-azi.ro/plosnite-de-pat-in-cluj-napoca-greseala-pe-care-o-fac-majoritatea/",
+      "date": "Thu, 23 Apr 2026 19:32:40 +0000",
+      "summary": "Ploșnițele de pat au devenit una dintre cele mai frecvente probleme cu care se confruntă locuitorii din Cluj-Napoca în ultimii ani. Specialiștii în dezinsecție semnalează o creștere îngrijorătoare a cazurilor, în special în apartamentele din blocuri, hoteluri și unități de cazare în regim turistic. Problema nu ține de curățenie — ploșnițele se transportă în bagaje, [&#8230;] Articolul Ploșnițe de pat în Cluj-Napoca: greșeala pe care o fac majoritatea apare prima dată în Cluj AZI ."
+    },
     {
       "title": "Standuri expoziționale și materiale pentru evenimente: cum pregătești o prezență care se vede",
       "link": "https://cluj-azi.ro/standuri-expozitionale-si-materiale-pentru-evenimente-cum-pregatesti-o-prezenta-care-se-vede/",
@@ -59,12 +65,6 @@
       "link": "https://cluj-azi.ro/cazare-sfantu-gheorghe-in-delta-dunarii-intre-dunare-si-mare/",
       "date": "Wed, 03 Sep 2025 23:19:28 +0000",
       "summary": "Vrei să evadezi din rutina zilnică și să te bucuri de o vacanță de neuitat în inima Deltei Dunării? Visul tău de relaxare devine realitate! Descoperă frumusețea sălbatică a Deltei și găsește cazarea perfectă pentru tine. Cazare Sfântu Gheorghe: Găsește-ți refugiul perfect Sfântu Gheorghe, un sat pitoresc în Delta Dunării, oferă o gamă variată de [&#8230;] Articolul Cazare Sfântu Gheorghe în Delta Dunării – între Dunăre și mare apare prima dată în Cluj AZI ."
-    },
-    {
-      "title": "Kubernetes pentru începători: de la zero la cluster",
-      "link": "https://cluj-azi.ro/kubernetes-pentru-incepatori-de-la-zero-la-cluster/",
-      "date": "Wed, 03 Sep 2025 22:20:24 +0000",
-      "summary": "Gestionarea aplicațiilor moderne este o provocare. Imaginează-ți sute de containere, fiecare rulând o parte a aplicației tale. Cum le gestionezi eficient? Soluția este Kubernetes, un sistem puternic de orchestrare a containerelor care îți simplifică viața. Ce este Kubernetes? O scurtă introducere în lumea containerelor Înainte de a discuta despre Kubernetes, trebuie să înțelegem conceptul de [&#8230;] Articolul Kubernetes pentru începători: de la zero la cluster apare prima dată în Cluj AZI ."
     }
   ],
   "mastodon_posts": []
