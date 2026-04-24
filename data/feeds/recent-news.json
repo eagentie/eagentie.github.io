@@ -4,8 +4,14 @@
   "site_feed": "https://recent-news.ro/feed/",
   "mastodon": "https://social.5th.ro/@recent_news",
   "mastodon_rss": "https://social.5th.ro/@recent_news.rss",
-  "updated_at": "2026-04-24T03:48:58Z",
+  "updated_at": "2026-04-24T06:19:44Z",
   "site_posts": [
+    {
+      "title": "Care sunt cele mai potrivite perne atunci când ai probleme cu spatele?",
+      "link": "https://recent-news.ro/care-sunt-cele-mai-potrivite-perne-atunci-cand-ai-probleme-cu-spatele/",
+      "date": "Fri, 24 Apr 2026 04:05:37 +0000",
+      "summary": "Dacă te-ai trezit măcar o dată cu senzația că ești un robot care are nevoie de mult ulei ca să&#8230; Articolul Care sunt cele mai potrivite perne atunci când ai probleme cu spatele? apare prima dată în Recent News ."
+    },
     {
       "title": "Torturi de nuntă și candy bar în 2026",
       "link": "https://recent-news.ro/torturi-de-nunta-si-candy-bar-in-2026/",
@@ -59,12 +65,6 @@
       "link": "https://recent-news.ro/vacanta-de-paste-in-viseu-de-sus-munte-traditii-si-timp-pentru-familie/",
       "date": "Mon, 09 Feb 2026 09:46:17 +0000",
       "summary": "Pastele este sarbatoarea care te face sa incetinesti. Sa lasi orasul in urma, sa te rupi de agitatie si sa&#8230; Articolul Vacanta de Paste in Viseu de Sus – munte, traditii si timp pentru familie apare prima dată în Recent News ."
-    },
-    {
-      "title": "Mai e mult pana in 2027? De ce „acum” este momentul perfect sa alegi gradinita potrivita pentru copilul tau",
-      "link": "https://recent-news.ro/mai-e-mult-pana-in-2027-de-ce-acum-este-momentul-perfect-sa-alegi-gradinita-potrivita-pentru-copilul-tau/",
-      "date": "Mon, 02 Feb 2026 05:59:33 +0000",
-      "summary": "Mai e mult pana in 2027? De ce „acum” este momentul perfect sa alegi gradinita potrivita pentru copilul tau Stim&#8230; Articolul Mai e mult pana in 2027? De ce „acum” este momentul perfect sa alegi gradinita potrivita pentru copilul tau apare prima dată în Recent News ."
     }
   ],
   "mastodon_posts": []
