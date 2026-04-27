@@ -4,8 +4,14 @@
   "site_feed": "https://topcomunicate.ro/feed/",
   "mastodon": "https://social.5th.ro/@topcomunicate_ro",
   "mastodon_rss": "https://social.5th.ro/@topcomunicate_ro.rss",
-  "updated_at": "2026-04-27T14:25:37Z",
+  "updated_at": "2026-04-27T16:54:40Z",
   "site_posts": [
+    {
+      "title": "Mic ghid pentru cei care au nevoie de inchirierea unui autocar",
+      "link": "https://topcomunicate.ro/mic-ghid-pentru-cei-care-au-nevoie-de-inchirierea-unui-autocar/",
+      "date": "Mon, 20 Apr 2026 10:03:00 +0000",
+      "summary": "Urmeaza sa incepi organizarea unei calatorii pentru un grup de persoane? Daca numarul celor care vor participa... The post Mic ghid pentru cei care au nevoie de inchirierea unui autocar appeared first on Comunicate de presa ."
+    },
     {
       "title": "Woot.ro lanseaza aplicatie mobila nativa pentru cei 100.000 de utilizatori activi ai platformei",
       "link": "https://topcomunicate.ro/woot-ro-lanseaza-aplicatie-mobila-nativa-pentru-cei-100-000-de-utilizatori-activi-ai-platformei/",
@@ -71,12 +77,6 @@
       "link": "https://topcomunicate.ro/cotele-dunarii-la-bazias-in-2026-nivelul-apei-azi-trend-si-istoric/",
       "date": "Fri, 13 Feb 2026 08:38:11 +0000",
       "summary": "Analiza succintă a primelor 10 rezultate Google indică faptul că majoritatea site-urilor care rankează pentru „cotele Dunării... The post Cotele Dunării la Baziaș în 2026: nivelul apei azi, trend și istoric appeared first on Comunicate de presa ."
-    },
-    {
-      "title": "Invitații online – soluția modernă pentru evenimente organizate fără stress",
-      "link": "https://topcomunicate.ro/invitatii-online-solutia-moderna-pentru-evenimente-organizate-fara-stress/",
-      "date": "Wed, 11 Feb 2026 17:06:36 +0000",
-      "summary": "Într-o lume în care digitalizarea face parte din viața de zi cu zi, organizarea unui eveniment important... The post Invitații online – soluția modernă pentru evenimente organizate fără stress appeared first on Comunicate de presa ."
     }
   ],
   "mastodon_posts": []
