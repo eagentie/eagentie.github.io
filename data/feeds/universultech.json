@@ -4,8 +4,14 @@
   "site_feed": "https://UniversulTech.ro/feed/",
   "mastodon": "https://social.5th.ro/@UniversulTech",
   "mastodon_rss": "https://social.5th.ro/@UniversulTech.rss",
-  "updated_at": "2026-04-27T04:00:39Z",
+  "updated_at": "2026-04-27T06:42:04Z",
   "site_posts": [
+    {
+      "title": "Cum alegi căști wireless fără întreruperi de conexiune?",
+      "link": "https://universultech.ro/cum-alegi-casti-wireless-fara-intreruperi-de-conexiune/",
+      "date": "Sun, 26 Apr 2026 05:37:00 +0000",
+      "summary": "Cele mai bune căști wireless fără întreruperi de conexiune sunt cele care folosesc tehnologii Bluetooth moderne, oferă compatibilitate bună cu&#8230; Articolul Cum alegi căști wireless fără întreruperi de conexiune? apare prima dată în Universul Tech ."
+    },
     {
       "title": "Avantajele colaborării cu o firmă de construcții ce oferă soluții complete și personalizate pentru proiectele tale comerciale",
       "link": "https://universultech.ro/avantajele-colaborarii-cu-o-firma-de-constructii-ce-ofera-solutii-complete-si-personalizate-pentru-proiectele-tale-comerciale/",
@@ -71,12 +77,6 @@
       "link": "https://universultech.ro/livingul-prinde-viata-tipuri-de-corpuri-de-iluminat-si-cum-le-alegi-inteligent/",
       "date": "Tue, 10 Mar 2026 10:37:43 +0000",
       "summary": "Iluminatul are un impact mult mai mare asupra atmosferei din living decât pare la prima vedere. De multe ori alegerea&#8230; Articolul Livingul prinde viață: tipuri de corpuri de iluminat și cum le alegi inteligent apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "Pașii esențiali pentru a găsi o mașină rulată fiabilă",
-      "link": "https://universultech.ro/pasii-esentiali-pentru-a-gasi-o-masina-rulata-fiabila/",
-      "date": "Tue, 10 Mar 2026 09:52:12 +0000",
-      "summary": "Alegerea unei mașini rulate poate părea copleșitoare, deoarece opțiunile auto sunt vaste și variate astăzi. Totuși, cu puțină cercetare și&#8230; Articolul Pașii esențiali pentru a găsi o mașină rulată fiabilă apare prima dată în Universul Tech ."
     }
   ],
   "mastodon_posts": []
