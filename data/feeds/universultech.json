@@ -4,8 +4,14 @@
   "site_feed": "https://UniversulTech.ro/feed/",
   "mastodon": "https://social.5th.ro/@UniversulTech",
   "mastodon_rss": "https://social.5th.ro/@UniversulTech.rss",
-  "updated_at": "2026-04-27T09:30:12Z",
+  "updated_at": "2026-04-27T12:00:46Z",
   "site_posts": [
+    {
+      "title": "Ce înseamnă încărcare rapidă la căști?",
+      "link": "https://universultech.ro/ce-inseamna-incarcare-rapida-la-casti/",
+      "date": "Sun, 26 Apr 2026 10:35:00 +0000",
+      "summary": "Încărcarea rapidă la căști înseamnă că acestea pot obține câteva ore de utilizare după doar câteva minute de alimentare, iar&#8230; Articolul Ce înseamnă încărcare rapidă la căști? apare prima dată în Universul Tech ."
+    },
     {
       "title": "Cum alegi căști wireless fără întreruperi de conexiune?",
       "link": "https://universultech.ro/cum-alegi-casti-wireless-fara-intreruperi-de-conexiune/",
@@ -71,12 +77,6 @@
       "link": "https://universultech.ro/are-nevoie-un-magazin-mic-de-un-soft-de-gestiune-in-2026-tehnologia-care-asigura-eficienta-si-competitivitate/",
       "date": "Fri, 13 Mar 2026 08:43:17 +0000",
       "summary": "În 2026, chiar și magazinele mici se confruntă cu provocări tot mai complexe: stocuri, vânzări, clienți și raportare fiscală pot&#8230; Articolul Are nevoie un magazin mic de un soft de gestiune în 2026? Tehnologia care asigură eficiență și competitivitate apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "Livingul prinde viață: tipuri de corpuri de iluminat și cum le alegi inteligent",
-      "link": "https://universultech.ro/livingul-prinde-viata-tipuri-de-corpuri-de-iluminat-si-cum-le-alegi-inteligent/",
-      "date": "Tue, 10 Mar 2026 10:37:43 +0000",
-      "summary": "Iluminatul are un impact mult mai mare asupra atmosferei din living decât pare la prima vedere. De multe ori alegerea&#8230; Articolul Livingul prinde viață: tipuri de corpuri de iluminat și cum le alegi inteligent apare prima dată în Universul Tech ."
     }
   ],
   "mastodon_posts": []

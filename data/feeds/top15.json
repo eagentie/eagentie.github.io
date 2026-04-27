@@ -4,8 +4,14 @@
   "site_feed": "https://top15.ro/feed/",
   "mastodon": "https://social.5th.ro/@top",
   "mastodon_rss": "https://social.5th.ro/@top.rss",
-  "updated_at": "2026-04-27T09:30:20Z",
+  "updated_at": "2026-04-27T12:00:54Z",
   "site_posts": [
+    {
+      "title": "Zâmbește rapid: Top 15 locații pentru Implant Dentar în București și reabilitări orale în 24 de ore",
+      "link": "https://top15.ro/zambeste-rapid-top-15-locatii-pentru-implant-dentar-in-bucuresti-si-reabilitari-orale-in-24-de-ore/",
+      "date": "Sun, 26 Apr 2026 09:39:00 +0000",
+      "summary": "Sănătatea orală ne afectează nu doar nutriția, ci și viața socială și încrederea în sine.... Articolul Zâmbește rapid: Top 15 locații pentru Implant Dentar în București și reabilitări orale în 24 de ore apare prima dată în TOP 15 ."
+    },
     {
       "title": "Externalizarea serviciilor IT devine o soluție tot mai utilizată de companiile din România",
       "link": "https://top15.ro/externalizarea-serviciilor-it-devine-o-solutie-tot-mai-utilizata-de-companiile-din-romania/",
@@ -71,12 +77,6 @@
       "link": "https://top15.ro/idei-creative-pentru-casa-din-carti/",
       "date": "Mon, 16 Mar 2026 11:38:40 +0000",
       "summary": "Cărțile pot fi o sursă excelentă de inspirație pentru aranjarea casei. Multe cărți oferă perspective,... Articolul Idei creative pentru casă din cărți apare prima dată în TOP 15 ."
-    },
-    {
-      "title": "Importanța unui soft de gestiune pentru optimizarea operațiunilor din magazinul tău",
-      "link": "https://top15.ro/importanta-unui-soft-de-gestiune-pentru-optimizarea-operatiunilor-din-magazinul-tau/",
-      "date": "Fri, 06 Mar 2026 15:26:05 +0000",
-      "summary": "Administrarea unui magazin implică o serie de activități care trebuie coordonate constant, de la gestionarea... Articolul Importanța unui soft de gestiune pentru optimizarea operațiunilor din magazinul tău apare prima dată în TOP 15 ."
     }
   ],
   "mastodon_posts": []
