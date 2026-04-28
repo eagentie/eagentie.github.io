@@ -4,13 +4,19 @@
   "site_feed": "https://top15.ro/feed/",
   "mastodon": "https://social.5th.ro/@top",
   "mastodon_rss": "https://social.5th.ro/@top.rss",
-  "updated_at": "2026-04-28T09:35:25Z",
+  "updated_at": "2026-04-28T12:03:12Z",
   "site_posts": [
     {
       "title": "Zâmbește rapid: Top 15 locații pentru Implant Dentar în București și reabilitări orale în 24 de ore",
       "link": "https://top15.ro/zambeste-rapid-top-15-locatii-pentru-implant-dentar-in-bucuresti-si-reabilitari-orale-in-24-de-ore/",
       "date": "Sun, 26 Apr 2026 09:39:00 +0000",
       "summary": "Sănătatea orală ne afectează nu doar nutriția, ci și viața socială și încrederea în sine.... Articolul Zâmbește rapid: Top 15 locații pentru Implant Dentar în București și reabilitări orale în 24 de ore apare prima dată în TOP 15 ."
+    },
+    {
+      "title": "Ce monitor este bun pentru gaming?",
+      "link": "https://top15.ro/ce-monitor-este-bun-pentru-gaming/",
+      "date": "Fri, 24 Apr 2026 11:48:05 +0000",
+      "summary": "Un monitor bun pentru gaming este unul cu rată de refresh ridicată (144Hz sau mai... Articolul Ce monitor este bun pentru gaming? apare prima dată în TOP 15 ."
     },
     {
       "title": "Externalizarea serviciilor IT devine o soluție tot mai utilizată de companiile din România",
@@ -71,15 +77,15 @@
       "link": "https://top15.ro/top-15-motive-pentru-care-companiile-aleg-sa-externalizeze-serviciile-de-call-center/",
       "date": "Mon, 16 Mar 2026 14:54:34 +0000",
       "summary": "Într-un mediu de afaceri în care viteza de reacție, calitatea interacțiunii cu clientul și eficiența... Articolul Top 15 motive pentru care companiile aleg să externalizeze serviciile de call center apare prima dată în TOP 15 ."
-    },
-    {
-      "title": "Idei creative pentru casă din cărți",
-      "link": "https://top15.ro/idei-creative-pentru-casa-din-carti/",
-      "date": "Mon, 16 Mar 2026 11:38:40 +0000",
-      "summary": "Cărțile pot fi o sursă excelentă de inspirație pentru aranjarea casei. Multe cărți oferă perspective,... Articolul Idei creative pentru casă din cărți apare prima dată în TOP 15 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@top/116482173868716432",
+      "date": "Tue, 28 Apr 2026 11:48:40 +0000",
+      "content": "📰Un monitor bun pentru gaming este unul cu rată de refresh ridicată (144Hz sau mai mult), timp de răspuns mic și rezoluție potrivită pentru sistemul tău. În 2026, cele mai bune monitoare oferă imagini fluide, latență redusă și culori clare, ceea ce îmbunătățește semnificativ experiența în jocuri, fie că vorbim de titluri competitive sau single-player.… 📰 https:// top15.ro/ce-monitor-este-bun-p entru-gaming/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@top/116420688670766403",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@top/116238655366742548",
       "date": "Mon, 16 Mar 2026 11:38:43 +0000",
       "content": "📰Cărțile pot fi o sursă excelentă de inspirație pentru aranjarea casei. Multe cărți oferă perspective, idei și sfaturi practice despre designul interior, decorare și crearea unei case confortabile și elegante. Acestea pot acoperi diverse aspecte, de la palete de culori și aranjamente de mobilier până la stiluri specifice de design și cum să vă personalizați… 📰 https:// top15.ro/idei-creative-pentru- casa-din-carti/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@top/116182926684625004",
-      "date": "Fri, 06 Mar 2026 15:26:10 +0000",
-      "content": "📰Administrarea unui magazin implică o serie de activități care trebuie coordonate constant, de la gestionarea stocurilor și urmărirea vânzărilor, până la comunicarea cu clienții și organizarea ofertelor.Pe măsură ce volumul operațiunilor crește, devine tot mai dificil să menții o evidență clară folosind metode manuale sau instrumente separate. În acest context, un soft de gestiune magazin… 📰 https:// top15.ro/importanta-unui-soft- de-gestiune-pentru-optimizarea-operatiunilor-din-magazinul-tau/"
     }
   ]
 }
