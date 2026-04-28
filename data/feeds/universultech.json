@@ -4,8 +4,14 @@
   "site_feed": "https://UniversulTech.ro/feed/",
   "mastodon": "https://social.5th.ro/@UniversulTech",
   "mastodon_rss": "https://social.5th.ro/@UniversulTech.rss",
-  "updated_at": "2026-04-28T06:44:56Z",
+  "updated_at": "2026-04-28T09:35:16Z",
   "site_posts": [
+    {
+      "title": "Cum alegi un televizor cu sunet bun?",
+      "link": "https://universultech.ro/cum-alegi-un-televizor-cu-sunet-bun/",
+      "date": "Tue, 28 Apr 2026 09:12:45 +0000",
+      "summary": "Alegi un televizor cu sunet bun verificând puterea difuzoarelor, tehnologiile audio integrate și capacitatea de a reda clar dialogurile și&#8230; Articolul Cum alegi un televizor cu sunet bun? apare prima dată în Universul Tech ."
+    },
     {
       "title": "Ce înseamnă încărcare rapidă la căști?",
       "link": "https://universultech.ro/ce-inseamna-incarcare-rapida-la-casti/",
@@ -71,15 +77,15 @@
       "link": "https://universultech.ro/cum-alegi-fertilizantul-potrivit-pentru-gazon-6-solutii-recomandate-pentru-un-teren-verde-sanatos/",
       "date": "Mon, 16 Mar 2026 09:20:09 +0000",
       "summary": "Un gazon sănătos și verde transformă orice grădină într-un spațiu plăcut și îngrijit, însă alegerea fertilizantului potrivit poate fi uneori&#8230; Articolul Cum alegi fertilizantul potrivit pentru gazon + 6 soluții recomandate pentru un teren verde sănătos apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "Are nevoie un magazin mic de un soft de gestiune în 2026? Tehnologia care asigură eficiență și competitivitate",
-      "link": "https://universultech.ro/are-nevoie-un-magazin-mic-de-un-soft-de-gestiune-in-2026-tehnologia-care-asigura-eficienta-si-competitivitate/",
-      "date": "Fri, 13 Mar 2026 08:43:17 +0000",
-      "summary": "În 2026, chiar și magazinele mici se confruntă cu provocări tot mai complexe: stocuri, vânzări, clienți și raportare fiscală pot&#8230; Articolul Are nevoie un magazin mic de un soft de gestiune în 2026? Tehnologia care asigură eficiență și competitivitate apare prima dată în Universul Tech ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@UniversulTech/116481560979641607",
+      "date": "Tue, 28 Apr 2026 09:12:48 +0000",
+      "content": "💡Alegi un televizor cu sunet bun verificând puterea difuzoarelor, tehnologiile audio integrate și capacitatea de a reda clar dialogurile și efectele sonore fără echipamente externe. În 2026, cele mai bune modele combină hardware performant cu procesare inteligentă a sunetului, oferind o experiență echilibrată chiar și fără soundbar. Introducere Pentru mulți utilizatori, imaginea este primul criteriu… ✅ https:// universultech.ro/cum-alegi-un- televizor-cu-sunet-bun/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@UniversulTech/116403485977285604",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@UniversulTech/116204441847048625",
       "date": "Tue, 10 Mar 2026 10:37:46 +0000",
       "content": "💡Iluminatul are un impact mult mai mare asupra atmosferei din living decât pare la prima vedere. De multe ori alegerea corpurilor de iluminat se face rapid, în funcție de design sau de preț, fără să te gândești la modul în care lumina influențează confortul, funcționalitatea sau estetica încăperii.Livingul este, în general, spațiul în care petreci cel… ✅ https:// universultech.ro/livingul-prin de-viata-tipuri-de-corpuri-de-iluminat-si-cum-le-alegi-inteligent/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@UniversulTech/116204262919494852",
-      "date": "Tue, 10 Mar 2026 09:52:16 +0000",
-      "content": "💡Alegerea unei mașini rulate poate părea copleșitoare, deoarece opțiunile auto sunt vaste și variate astăzi. Totuși, cu puțină cercetare și planificare atentă, poți descoperi un vehicul ce îmbină perfect fiabilitatea cu prețul accesibil. De la evaluarea nevoilor personale și analiza istoricului vehiculului, până la inspecția fizică și testul de conducere, toate aspectele importante vor fi… ✅ https:// universultech.ro/pasii-esentia li-pentru-a-gasi-o-masina-rulata-fiabila/"
     }
   ]
 }
