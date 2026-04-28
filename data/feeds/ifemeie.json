@@ -4,8 +4,14 @@
   "site_feed": "https://iFemeie.ro/feed/",
   "mastodon": "https://social.5th.ro/@iFemeie",
   "mastodon_rss": "https://social.5th.ro/@iFemeie.rss",
-  "updated_at": "2026-04-28T12:02:59Z",
+  "updated_at": "2026-04-28T14:42:01Z",
   "site_posts": [
+    {
+      "title": "Te simți gol pe dinăuntru fără motiv? Un semnal pe care nu trebuie să-l ignori",
+      "link": "https://ifemeie.ro/te-simti-gol-pe-dinauntru-fara-motiv-un-semnal-pe-care-nu-trebuie-sa-l-ignori/",
+      "date": "Tue, 28 Apr 2026 14:19:41 +0000",
+      "summary": "Nu plângi și nu ești trist în mod vizibil. Mergi la muncă, răspunzi la mesaje... Articolul Te simți gol pe dinăuntru fără motiv? Un semnal pe care nu trebuie să-l ignori apare prima dată în iFemeie ."
+    },
     {
       "title": "Păreri VivaDiva pe Forumvideochat.ro – ce spun mdoelele cu experiență despre studiourile de videochat din Iași",
       "link": "https://ifemeie.ro/pareri-vivadiva-pe-forumvideochat-ro-ce-spun-mdoelele-cu-experienta-despre-studiourile-de-videochat-din-iasi/",
@@ -65,15 +71,15 @@
       "link": "https://ifemeie.ro/jucarii-bebe-importanta-pentru-dezvoltare-si-recomandari-pe-varste/",
       "date": "Mon, 01 Dec 2025 17:54:34 +0000",
       "summary": "Un bebeluș fericit se joacă pe o jucărie de călărit, ilustr&#226;nd bucuria și beneficiile aduse... Articolul Jucării bebe – Importanța pentru dezvoltare și recomandări pe vârste apare prima dată în iFemeie ."
-    },
-    {
-      "title": "2025: cum verifici calitatea site-urilor unde publici advertoriale",
-      "link": "https://ifemeie.ro/2025-cum-verifici-calitatea-site-urilor-unde-publici-advertoriale/",
-      "date": "Mon, 01 Dec 2025 12:07:49 +0000",
-      "summary": "Atenție: Ați investit recent în advertoriale și nu ați văzut rezultatele scontate? Vă simțiți copleșiți... Articolul 2025: cum verifici calitatea site-urilor unde publici advertoriale apare prima dată în iFemeie ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@iFemeie/116482767701475329",
+      "date": "Tue, 28 Apr 2026 14:19:41 +0000",
+      "content": "Nu plângi și nu ești trist în mod vizibil. Mergi la muncă, răspunzi la mesaje și funcționezi cât se poate de normal, dar parcă lipsește ceva și ai un fel de amorțeală interioară, ca și cum lucrurile care înainte contau nu mai produc niciun efect în prezent. Mâncarea preferată are același gust ca oricare alta,… https:// ifemeie.ro/te-simti-gol-pe-din auntru-fara-motiv-un-semnal-pe-care-nu-trebuie-sa-l-ignori/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@iFemeie/116319217931393775",
@@ -139,12 +145,6 @@
       "link": "https://social.5th.ro/@iFemeie/115695287901823278",
       "date": "Wed, 10 Dec 2025 12:33:13 +0000",
       "content": "Electrocasnicele inteligente pot ajusta consumul de energie în funcție de modul în care sunt folosite. Aceste funcții se bazează pe analiză în timp real și pe automatizare.1. Ce înseamnă / Ce esteElectrocasnicele inteligente sunt dispozitive care folosesc senzori, algoritmi și tehnologii AI pentru a controla consumul în mod eficient. Ele fac parte dintr-un ecosistem conectat,… https:// ifemeie.ro/de-ce-electrocasnic ele-inteligente-reduc-consumul/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@iFemeie/115695287805355423",
-      "date": "Wed, 10 Dec 2025 12:33:12 +0000",
-      "content": "Oameni, destine, emoție: Adela Hanafi, a lansat podcastul „Povești Nespuse cu Adela” Într-o lume adesea dominată de superficialitate și știri rapide, Adela Hanafi, Președinta Asociației CONIL și sufletul din spatele CONIL Fest, lansează un proiect special: podcastul „Povești Nespuse cu Adela”. Acest demers curajos transformă experiența personală profundă în lecții de viață universale, oferind o… https:// ifemeie.ro/oameni-destine-emot ie-adela-hanafi-a-lansat-podcastul-povesti-nespuse-cu-adela/"
     }
   ]
 }
