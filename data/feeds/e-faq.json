@@ -4,7 +4,7 @@
   "site_feed": "https://e-faq.ro/feed/",
   "mastodon": "https://social.5th.ro/@efaq",
   "mastodon_rss": "https://social.5th.ro/@efaq.rss",
-  "updated_at": "2026-04-30T06:41:25Z",
+  "updated_at": "2026-04-30T09:24:52Z",
   "site_posts": [
     {
       "title": "Espressor in custodie pemntru orice companie",
@@ -23,6 +23,12 @@
       "link": "https://e-faq.ro/renovare-simpla-efect-de-durata/",
       "date": "Fri, 10 Apr 2026 08:52:36 +0000",
       "summary": "O renovare reușită nu presupune întotdeauna lucrări complicate sau investiții greu de gestionat. De multe [&#8230;] Articolul Renovare simplă, efect de durată apare prima dată în FAQ - Intrebari Frecvente ."
+    },
+    {
+      "title": "Casă sau apartament? Cum știi care este opțiunea cea mai bună pentru tine?",
+      "link": "https://e-faq.ro/casa-sau-apartament-cum-stii-care-este-optiunea-cea-mai-buna-pentru-tine/",
+      "date": "Sat, 04 Apr 2026 13:22:00 +0000",
+      "summary": "Alegerea locuinței este probabil cea mai mare decizie financiară pe care o vei lua. Această [&#8230;] Articolul Casă sau apartament? Cum știi care este opțiunea cea mai bună pentru tine? apare prima dată în FAQ - Intrebari Frecvente ."
     },
     {
       "title": "Cum alegi cel mai bun studio de videochat din Iași? Alege dintre Viva Diva și Heylux pe Forumvideochat.ro!",
@@ -53,15 +59,15 @@
       "link": "https://e-faq.ro/rolul-pompelor-de-apa-moderne-in-gestionarea-sustenabila-a-apei/",
       "date": "Wed, 18 Mar 2026 16:17:45 +0000",
       "summary": "Gestionarea sustenabilă a apei capătă o importanță tot mai mare la nivel global, deoarece schimbările [&#8230;] Articolul Rolul pompelor de apă moderne în gestionarea sustenabilă a apei apare prima dată în FAQ - Intrebari Frecvente ."
-    },
-    {
-      "title": "Lumea cărților pentru copii",
-      "link": "https://e-faq.ro/lumea-cartilor-pentru-copii/",
-      "date": "Mon, 16 Mar 2026 11:36:52 +0000",
-      "summary": "În ziua de azi se găsesc o mulțime de cărți pentru copii, povești frumoase, incredibile [&#8230;] Articolul Lumea cărților pentru copii apare prima dată în FAQ - Intrebari Frecvente ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@efaq/116492757746883850",
+      "date": "Thu, 30 Apr 2026 08:40:17 +0000",
+      "content": "🚀 Alegerea locuinței este probabil cea mai mare decizie financiară pe care o vei lua. Această hotărâre îți va dicta ritmul zilnic pentru următorii zece sau douăzeci de ani. Nu este o simplă achiziție de metri pătrați, ci o alegere a stilului de viață. Mulți cumpărători se simt atrași de liniștea unei curți, în timp ce… 🔗 Citeste tot: https:// e-faq.ro/casa-sau-apartament-c um-stii-care-este-optiunea-cea-mai-buna-pentru-tine/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@efaq/116380141808065311",
@@ -127,12 +133,6 @@
       "link": "https://social.5th.ro/@efaq/116130025913689768",
       "date": "Wed, 25 Feb 2026 07:12:49 +0000",
       "content": "🚀 Una dintre cele mai costisitoare iluzii din mediul online este ideea că un site este un proiect care se termină la lansare. Mulți antreprenori privesc site-ul ca pe un obiect static: îl construiești, îl publici și apoi îl lași să „lucreze singur”. Din păcate, în cazul WordPress – și al oricărui site modern – această… 🔗 Complet aici: https:// e-faq.ro/de-ce-site-ul-tau-wor dpress-are-nevoie-de-ingrijire-constanta/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@efaq/116050663371073834",
-      "date": "Wed, 11 Feb 2026 06:49:52 +0000",
-      "content": "🚀 Oricine a facut renovari, instalatii electrice sau interventii in cladiri stie ca “surprizele” din pereti costa: un cablu nimerit accidental cu bormasina, un traseu necunoscut care te obliga sa schimbi planul, o teava confundata cu o doza, o zona unde nu ai voie sa tai pentru ca trece alimentarea principala. In spatele acestor situatii exista… 🔗 Complet aici: https:// e-faq.ro/detector-cabluri-elec trice-in-pereti-cum-localizezi-trasee-ascunse-fara-spargeri-erori-si-riscuri/"
     }
   ]
 }
