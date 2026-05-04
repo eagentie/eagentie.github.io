@@ -4,8 +4,14 @@
   "site_feed": "https://top15.ro/feed/",
   "mastodon": "https://social.5th.ro/@top",
   "mastodon_rss": "https://social.5th.ro/@top.rss",
-  "updated_at": "2026-05-04T04:09:22Z",
+  "updated_at": "2026-05-04T07:23:58Z",
   "site_posts": [
+    {
+      "title": "15 gadgeturi tehnologice care nu ar trebui să vă lipsească niciodată",
+      "link": "https://top15.ro/15-gadgeturi-tehnologice-care-nu-ar-trebui-sa-va-lipseasca-niciodata/",
+      "date": "Mon, 04 May 2026 05:52:23 +0000",
+      "summary": "Tehnologia evoluează rapid, iar gadgeturile moderne ne pot ușura viața mai mult decât ne-am imaginat... Articolul 15 gadgeturi tehnologice care nu ar trebui să vă lipsească niciodată apare prima dată în TOP 15 ."
+    },
     {
       "title": "Ce modele de căști se încarcă cel mai rapid?",
       "link": "https://top15.ro/ce-modele-de-casti-se-incarca-cel-mai-rapid/",
@@ -71,15 +77,15 @@
       "link": "https://top15.ro/de-ce-televizoarele-premium-devin-tot-mai-inteligente/",
       "date": "Wed, 18 Mar 2026 06:57:00 +0000",
       "summary": "De la simplu ecran la centru digital al caseiTelevizoarele premium nu mai sunt doar dispozitive... Articolul De ce televizoarele premium devin tot mai inteligente apare prima dată în TOP 15 ."
-    },
-    {
-      "title": "Cele mai frecvente greșeli la cumpărarea jantelor auto și cum să le eviți",
-      "link": "https://top15.ro/cele-mai-frecvente-greseli-la-cumpararea-jantelor-auto-si-cum-sa-le-eviti/",
-      "date": "Tue, 17 Mar 2026 19:06:31 +0000",
-      "summary": "Alegerea jantelor potrivite pentru mașina ta nu este doar o chestiune de estetică, ci are... Articolul Cele mai frecvente greșeli la cumpărarea jantelor auto și cum să le eviți apare prima dată în TOP 15 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@top/116514746912564862",
+      "date": "Mon, 04 May 2026 05:52:25 +0000",
+      "content": "📰Tehnologia evoluează rapid, iar gadgeturile moderne ne pot ușura viața mai mult decât ne-am imaginat vreodată. Fie că vorbim despre productivitate, divertisment sau siguranță, există câteva dispozitive care merită cu siguranță investiția. Iată 15 gadgeturi tehnologice esențiale pe care ar trebui să le aveți.1. Smartphone performantUn telefon inteligent rămâne centrul ecosistemului digital personal. Alegeți 📰 https:// top15.ro/15-gadgeturi-tehnolog ice-care-nu-ar-trebui-sa-va-lipseasca-niciodata/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@top/116487688247713644",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@top/116246078706477073",
       "date": "Tue, 17 Mar 2026 19:06:34 +0000",
       "content": "📰Alegerea jantelor potrivite pentru mașina ta nu este doar o chestiune de estetică, ci are un impact semnificativ asupra performanței și siguranței vehiculului. Mulți șoferi fac greșeli frecvente atunci când cumpară jante, lucru care poate duce la probleme mecanice sau costuri suplimentare neașteptate. În acest articol, vei descoperi cele mai comune erori pe care să… 📰 https:// top15.ro/cele-mai-frecvente-gr eseli-la-cumpararea-jantelor-auto-si-cum-sa-le-eviti/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@top/116239425630560702",
-      "date": "Mon, 16 Mar 2026 14:54:36 +0000",
-      "content": "📰Într-un mediu de afaceri în care viteza de reacție, calitatea interacțiunii cu clientul și eficiența operațională contează mai mult ca oricând, tot mai multe companii aleg să externalizeze serviciile de call center. De la suport pentru clienți și preluarea solicitărilor inbound până la campanii outbound, vânzări și back-office, colaborarea cu un partener specializat poate aduce… 📰 https:// top15.ro/top-15-motive-pentru- care-companiile-aleg-sa-externalizeze-serviciile-de-call-center/"
     }
   ]
 }
