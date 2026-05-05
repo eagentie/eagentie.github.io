@@ -4,8 +4,14 @@
   "site_feed": "https://topcomunicate.ro/feed/",
   "mastodon": "https://social.5th.ro/@topcomunicate_ro",
   "mastodon_rss": "https://social.5th.ro/@topcomunicate_ro.rss",
-  "updated_at": "2026-05-05T11:37:42Z",
+  "updated_at": "2026-05-05T14:24:16Z",
   "site_posts": [
+    {
+      "title": "Motion Clinic, clinică nouă de recuperare medicală – Snagov Plaza",
+      "link": "https://topcomunicate.ro/motion-clinic-recuperare-medicala-snagov-plaza/",
+      "date": "Tue, 05 May 2026 12:29:32 +0000",
+      "summary": "Motion Clinic anunță deschiderea clinicii de recuperare medicală din Snagov Plaza, Ilfov, un spațiu dedicat pacienților care... The post Motion Clinic, clinică nouă de recuperare medicală &#8211; Snagov Plaza appeared first on Comunicate de presa ."
+    },
     {
       "title": "Instrumente online care îți scutesc drumuri și timp pierdut în 2026",
       "link": "https://topcomunicate.ro/instrumente-online-care-iti-scutesc-drumuri-si-timp-pierdut-in-2026/",
@@ -71,15 +77,15 @@
       "link": "https://topcomunicate.ro/cum-alegi-masina-potrivita-iarna-in-cluj-napoca-ce-conteaza-cu-adevarat/",
       "date": "Mon, 23 Feb 2026 12:21:00 +0000",
       "summary": "Iarna nu e dramatică, dar nici de ignorat Cluj-Napoca nu este un oraș extrem din punct de... The post Cum alegi mașina potrivită iarna în Cluj-Napoca: ce contează cu adevărat appeared first on Comunicate de presa ."
-    },
-    {
-      "title": "România de facto: realități și perspective 2026",
-      "link": "https://topcomunicate.ro/romania-de-facto-realitati-si-perspective-2026/",
-      "date": "Mon, 23 Feb 2026 10:58:31 +0000",
-      "summary": "26 februarie 2026 &#124; 9:30 – 14:30 &#124; Arenele BNR Inflație. Deficite. Finanțare. Creștere. Riscuri. Dincolo de discurs, spre... The post România de facto: realități și perspective 2026 appeared first on Comunicate de presa ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@topcomunicate_ro/116521970844530452",
+      "date": "Tue, 05 May 2026 12:29:34 +0000",
+      "content": "⭐ Motion Clinic anunță deschiderea clinicii de recuperare medicală din Snagov Plaza, Ilfov, un spațiu dedicat pacienților care au nevoie de fizioterapie, kinetoterapie, terapie manuală, ortopedie și infiltrații, într-un cadru modern și ușor accesibil. Noua clinică este situată pe Șoseaua București–Ploiești 129, Snagov Plaza, Intersecția Snagov, DN1, Vlădiceasca, Ilfov. Locația este potrivită pentru pacienții 🔗 Mai mult: https:// topcomunicate.ro/motion-clinic -recuperare-medicala-snagov-plaza/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@topcomunicate_ro/116514378126877267",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@topcomunicate_ro/116130147714037964",
       "date": "Wed, 25 Feb 2026 07:43:47 +0000",
       "content": "⭐ Iarna nu e dramatică, dar nici de ignorat Cluj-Napoca nu este un oraș extrem din punct de vedere climatic, însă sezonul rece aduce suficiente variabile cât să influențeze alegerea unei mașini: dimineți cu polei, drumuri umede, diferențe de temperatură între zi și noapte, zone în pantă și, ocazional, episoade serioase de ninsoare. Dacă ajungi în… 🔗 Mai mult: https:// topcomunicate.ro/cum-alegi-mas ina-potrivita-iarna-in-cluj-napoca-ce-conteaza-cu-adevarat/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@topcomunicate_ro/116130036291261199",
-      "date": "Wed, 25 Feb 2026 07:15:27 +0000",
-      "content": "⭐ Pentru mulți antreprenori, ideea că site-ul ar putea cădea exact atunci când lucrurile merg bine pare absurdă. Trafic mai mare ar trebui să însemne mai multe vânzări, mai multe solicitări, mai multă vizibilitate. În realitate, pentru foarte multe site-uri, creșterea traficului este momentul în care apar problemele. Exact când ai cea mai mare expunere, site-ul… 🔗 Detalii aici: https:// topcomunicate.ro/site-ul-tau-c ade-cand-ai-cele-mai-multe-viziteiata-de-ce-se-intampla-si-cum-se-rezolva/"
     }
   ]
 }
