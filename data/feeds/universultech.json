@@ -4,8 +4,14 @@
   "site_feed": "https://UniversulTech.ro/feed/",
   "mastodon": "https://social.5th.ro/@UniversulTech",
   "mastodon_rss": "https://social.5th.ro/@UniversulTech.rss",
-  "updated_at": "2026-05-06T12:06:27Z",
+  "updated_at": "2026-05-06T14:47:07Z",
   "site_posts": [
+    {
+      "title": "Rolul consumabilelor de calitate în eficiența biroului tău",
+      "link": "https://universultech.ro/rolul-consumabilelor-de-calitate-in-eficienta-biroului-tau/",
+      "date": "Wed, 06 May 2026 13:03:52 +0000",
+      "summary": "Într-un mediu de lucru modern, unde viteza de reacție și precizia sunt esențiale, detaliile logistice pot face diferența între o&#8230; Articolul Rolul consumabilelor de calitate în eficiența biroului tău apare prima dată în Universul Tech ."
+    },
     {
       "title": "Ce înseamnă low latency la căști wireless?",
       "link": "https://universultech.ro/ce-inseamna-low-latency-la-casti-wireless/",
@@ -71,15 +77,15 @@
       "link": "https://universultech.ro/cum-te-ajuta-ecosistemul-samsung-sa-faci-curatenia-de-paste-mai-rapid/",
       "date": "Mon, 16 Mar 2026 21:05:00 +0000",
       "summary": "Pregătirile de sărbători devin mai simple cu tehnologia potrivităCurățenia de Paște este, pentru mulți, una dintre cele mai solicitante activități&#8230; Articolul Cum te ajută ecosistemul Samsung să faci curățenia de Paște mai rapid apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "Cum să plătești mai puțin pe asigurarea RCA",
-      "link": "https://universultech.ro/cum-sa-platesti-mai-putin-pe-asigurarea-rca/",
-      "date": "Mon, 16 Mar 2026 13:55:00 +0000",
-      "summary": "Asigurarea RCA este o cheltuială obligatorie pentru orice proprietar de autovehicul din România. Indiferent dacă folosești mașina zilnic sau doar&#8230; Articolul Cum să plătești mai puțin pe asigurarea RCA apare prima dată în Universul Tech ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@UniversulTech/116527768275462180",
+      "date": "Wed, 06 May 2026 13:03:56 +0000",
+      "content": "💡Într-un mediu de lucru modern, unde viteza de reacție și precizia sunt esențiale, detaliile logistice pot face diferența între o zi productivă și una marcată de frustrări tehnice. Tu, în calitate de profesionist sau manager, știi că fluxul de lucru depinde de o multitudine de factori, însă adesea ignori elementele de bază care susțin infrastructura zilnică:… ✅ https:// universultech.ro/rolul-consuma bilelor-de-calitate-in-eficienta-biroului-tau/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@UniversulTech/116487719922608050",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@UniversulTech/116238110724168822",
       "date": "Mon, 16 Mar 2026 09:20:12 +0000",
       "content": "💡Un gazon sănătos și verde transformă orice grădină într-un spațiu plăcut și îngrijit, însă alegerea fertilizantului potrivit poate fi uneori dificilă. În 2026, oferta este variată - de la granulați organici și biostimulatori, până la fertilizanți profesioniști cu eliberare lentă - ceea ce face decizia și mai provocatoare. Pentru a simplifica alegerea, am selectat 6 ✅ https:// universultech.ro/cum-alegi-fer tilizantul-potrivit-pentru-gazon-6-solutii-recomandate-pentru-un-teren-verde-sanatos/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@UniversulTech/116220978835714854",
-      "date": "Fri, 13 Mar 2026 08:43:20 +0000",
-      "content": "💡În 2026, chiar și magazinele mici se confruntă cu provocări tot mai complexe: stocuri, vânzări, clienți și raportare fiscală pot deveni copleșitoare. Mulți proprietari se întreabă: „Am nevoie de un soft de gestiune pentru magazin?” Răspunsul depășește confortul - tehnologia potrivită transformă un magazin mic într-o afacere agilă, capabilă să răspundă rapid ✅ https:// universultech.ro/are-nevoie-un -magazin-mic-de-un-soft-de-gestiune-in-2026-tehnologia-care-asigura-eficienta-si-competitivitate/"
     }
   ]
 }

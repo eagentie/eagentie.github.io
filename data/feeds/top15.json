@@ -4,8 +4,14 @@
   "site_feed": "https://top15.ro/feed/",
   "mastodon": "https://social.5th.ro/@top",
   "mastodon_rss": "https://social.5th.ro/@top.rss",
-  "updated_at": "2026-05-06T12:06:35Z",
+  "updated_at": "2026-05-06T14:47:16Z",
   "site_posts": [
+    {
+      "title": "Credite nevoi personale: între „am nevoie” și „am rezolvat”",
+      "link": "https://top15.ro/credite-nevoi-personale-intre-am-nevoie-si-am-rezolvat/",
+      "date": "Wed, 06 May 2026 12:10:34 +0000",
+      "summary": "Accesarea unui credit nu ar trebui să fie doar o chestiune financiară, ar trebui să... Articolul Credite nevoi personale: între „am nevoie” și „am rezolvat” apare prima dată în TOP 15 ."
+    },
     {
       "title": "Motion Clinic s-a deschis în Snagov Plaza: fizioterapie, kinetoterapie și recuperare medicală în Ilfov",
       "link": "https://top15.ro/motion-clinic-s-a-deschis-in-snagov-plaza-fizioterapie-kinetoterapie-si-recuperare-medicala-in-ilfov/",
@@ -71,15 +77,15 @@
       "link": "https://top15.ro/de-ce-asistentii-vocali-devin-mai-inteligenti/",
       "date": "Sun, 22 Mar 2026 19:34:00 +0000",
       "summary": "O evoluție dictată de nevoile utilizatorilor Asistenții vocali au pornit ca instrumente simple, capabile să... Articolul De ce asistenții vocali devin mai inteligenți apare prima dată în TOP 15 ."
-    },
-    {
-      "title": "Top 15 semne care îți spun că ai găsit locuința perfectă în București",
-      "link": "https://top15.ro/top-15-semne-care-iti-spun-ca-ai-gasit-locuinta-perfecta-in-bucuresti/",
-      "date": "Wed, 18 Mar 2026 11:22:00 +0000",
-      "summary": "Căutarea unei case noi este un proces care &#238;mbină analiza tehnică riguroasă cu instinctul personal.... Articolul Top 15 semne care îți spun că ai găsit locuința perfectă în București apare prima dată în TOP 15 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@top/116527558710763602",
+      "date": "Wed, 06 May 2026 12:10:38 +0000",
+      "content": "📰Accesarea unui credit nu ar trebui să fie doar o chestiune financiară, ar trebui să fie o decizie ce ține de responsabilitate. Impulsul inițial de „am nevoie” ar trebui chibzuit cu atenție, astfel ca creditul să ofere satisfacția de „am rezolvat” și să nu devină o povară greu de gestionat. Vedem că accesul la finanțare… 📰 https:// top15.ro/credite-nevoi-persona le-intre-am-nevoie-si-am-rezolvat/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@top/116521926185520976",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@top/116274506403965856",
       "date": "Sun, 22 Mar 2026 19:36:06 +0000",
       "content": "📰O evoluție dictată de nevoile utilizatorilorAsistenții vocali au pornit ca instrumente simple, capabile să execute comenzi de bază. Astăzi, însă, evoluția lor este determinată de cerințele tot mai complexe ale utilizatorilor. Oamenii nu mai vor doar să pornească un dispozitiv sau să seteze o alarmă, ci să interacționeze natural cu tehnologia, fără pași complicați.Această schimbare… 📰 https:// top15.ro/de-ce-asistentii-voca li-devin-mai-inteligenti/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@top/116260205613586786",
-      "date": "Fri, 20 Mar 2026 06:59:13 +0000",
-      "content": "📰De la simplu ecran la centru digital al caseiTelevizoarele premium nu mai sunt doar dispozitive pentru redarea conținutului video, ci au devenit adevărate hub-uri digitale. Evoluția tehnologică a adus în prim-plan conceptul de „smart living”, unde fiecare dispozitiv contribuie la o experiență conectată. Astăzi, utilizatorii nu caută doar calitate a imaginii, ci și funcționalități inteligente… 📰 https:// top15.ro/de-ce-televizoarele-p remium-devin-tot-mai-inteligente/"
     }
   ]
 }
