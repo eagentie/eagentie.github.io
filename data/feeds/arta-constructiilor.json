@@ -4,8 +4,14 @@
   "site_feed": "https://arta-constructiilor.ro/feed/",
   "mastodon": "https://social.5th.ro/@ArtaConstructiilor",
   "mastodon_rss": "https://social.5th.ro/@ArtaConstructiilor.rss",
-  "updated_at": "2026-05-06T06:45:26Z",
+  "updated_at": "2026-05-06T09:37:34Z",
   "site_posts": [
+    {
+      "title": "De la balcon simplu la spațiu util cu sticlă glisantă Ambient Plast",
+      "link": "https://arta-constructiilor.ro/sticla-glisanta/",
+      "date": "Wed, 06 May 2026 07:23:11 +0000",
+      "summary": "Un balcon poate rămâne doar o anexă expusă ploii, vântului și prafului sau poate deveni un spațiu care completează firesc locuința. Diferența o face sistemul &#8230; Articolul De la balcon simplu la spațiu util cu sticlă glisantă Ambient Plast apare prima dată în Arta Constructiilor ."
+    },
     {
       "title": "Cum îți construiești un business imobiliar predictibil: Matricea Succesului, Bucuresti, 22 aprilie",
       "link": "https://arta-constructiilor.ro/cum-iti-construiesti-un-business-imobiliar-predictibil-matricea-succesului-bucuresti-22-aprilie/",
@@ -59,15 +65,15 @@
       "link": "https://arta-constructiilor.ro/mastodon-wordpress-plugin-cum-setezi-sabloane-de-text-pentru-postari/",
       "date": "Wed, 17 Dec 2025 16:58:54 +0000",
       "summary": "Ghid Esențial pentru Automatizarea Mastodon: Optimizarea Postărilor cu Șabloane de Text Ați publicat vreodată un articol nou pe blogul dvs. și v-ați simțit copleșit de &#8230; Articolul Mastodon WordPress plugin: cum setezi șabloane de text pentru postări apare prima dată în Arta Constructiilor ."
-    },
-    {
-      "title": "Cum funcționează AI Scene Detection",
-      "link": "https://arta-constructiilor.ro/cum-functioneaza-ai-scene-detection/",
-      "date": "Mon, 15 Dec 2025 08:25:31 +0000",
-      "summary": "Identificarea automată a scenelor prin AI este o funcție care analizează imaginea în timp real și adaptează setările pentru o redare mai clară. Procesul este &#8230; Articolul Cum funcționează AI Scene Detection apare prima dată în Arta Constructiilor ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@ArtaConstructiilor/116526428430552761",
+      "date": "Wed, 06 May 2026 07:23:11 +0000",
+      "content": "Un balcon poate rămâne doar o anexă expusă ploii, vântului și prafului sau poate deveni un spațiu care completează firesc locuința. Diferența o face sistemul ales. Când proprietarul își dorește mai multă lumină, protecție și libertate în utilizare, soluțiile moderne din sticlă securizată schimbă complet felul în care este perceput și folosit acest loc. Cu… .... 🌐 https:// arta-constructiilor.ro/sticla- glisanta/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@ArtaConstructiilor/116419257715073074",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@ArtaConstructiilor/115797098916642465",
       "date": "Sun, 28 Dec 2025 12:05:06 +0000",
       "content": "/tmp/tmpmv67bdd4.html .... 🌐 https:// arta-constructiilor.ro/mielomu l-multiplu-si-nefropatia-de-contrast/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@ArtaConstructiilor/115797098792516835",
-      "date": "Sun, 28 Dec 2025 12:05:04 +0000",
-      "content": "/tmp/tmporyvuhfp.html .... 🌐 https:// arta-constructiilor.ro/eczema- vs-psoriazis-cum-le-deosebesti/"
     }
   ]
 }

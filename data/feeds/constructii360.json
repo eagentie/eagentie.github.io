@@ -4,8 +4,14 @@
   "site_feed": "https://constructii360.ro/feed/",
   "mastodon": "https://social.5th.ro/@constructii360",
   "mastodon_rss": "https://social.5th.ro/@constructii360.rss",
-  "updated_at": "2026-05-06T06:44:43Z",
+  "updated_at": "2026-05-06T09:36:47Z",
   "site_posts": [
+    {
+      "title": "De ce să comanzi ferestrele și ușile de la fabrica de tâmplărie PVC Ambient Plast",
+      "link": "https://constructii360.ro/tamplarie-pvc/",
+      "date": "Wed, 06 May 2026 07:24:35 +0000",
+      "summary": "Ferestrele și ușile influențează direct confortul din casă, nivelul de izolare termică și fonică, consumul Articolul De ce să comanzi ferestrele și ușile de la fabrica de tâmplărie PVC Ambient Plast apare prima dată în Constructii 360 ."
+    },
     {
       "title": "Daunatorii- Probleme invizibile care pot apărea în locuințe la câteva luni după renovare",
       "link": "https://constructii360.ro/daunatorii-probleme-invizibile-care-pot-aparea-in-locuinte-la-cateva-luni-dupa-renovare/",
@@ -59,15 +65,15 @@
       "link": "https://constructii360.ro/biletul-zilei-vs-bilete-de-weekend-diferente-de-abordare-si-risc/",
       "date": "Fri, 14 Nov 2025 09:07:58 +0000",
       "summary": "Ești sătul să pierzi constant bani la pariuri din cauza deciziilor luate în grabă? Mulți Articolul Biletul zilei vs bilete de weekend: diferențe de abordare și risc apare prima dată în Constructii 360 ."
-    },
-    {
-      "title": "Checklist SEO înainte de lansarea site-ului: ce verifici ca să nu pierzi trafic",
-      "link": "https://constructii360.ro/checklist-seo-inainte-de-lansarea-site-ului-ce-verifici-ca-sa-nu-pierzi-trafic/",
-      "date": "Fri, 14 Nov 2025 07:32:14 +0000",
-      "summary": "Ați investit timp și resurse semnificative în dezvoltarea noului dumneavoastră proiect web. Design-ul este impecabil, Articolul Checklist SEO înainte de lansarea site-ului: ce verifici ca să nu pierzi trafic apare prima dată în Constructii 360 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@constructii360/116526433972725832",
+      "date": "Wed, 06 May 2026 07:24:36 +0000",
+      "content": "🆕Ferestrele și ușile influențează direct confortul din casă, nivelul de izolare termică și fonică, consumul de energie și chiar aspectul general al locuinței. Tocmai de aceea, tot mai mulți clienți preferă să discute direct cu un producător care poate explica diferențele dintre sisteme și poate propune o soluție adaptată proiectului. Când comanzi direct de la… https:// constructii360.ro/tamplarie-pv c/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@constructii360/116217120810570707",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@constructii360/115736870166353733",
       "date": "Wed, 17 Dec 2025 20:48:08 +0000",
       "content": "🆕Trecerea la Fediverse și integrarea platformei Mastodon cu site-urile tradiționale devine o necesitate pentru mulți creatori de conținut. Site-ul tău WordPress este inima prezenței tale online, iar securitatea lui nu trebuie compromisă. Conectarea acestor două lumi implică adesea utilizarea unor plugin-uri specializate. Însă, te-ai întrebat vreodată ce anume permisiuni cere un astfel de instrument https:// constructii360.ro/mastodon-wor dpress-plugin-ce-permisiuni-si-ce-securitate-trebuie-sa-ai/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@constructii360/115695252061110810",
-      "date": "Wed, 10 Dec 2025 12:24:06 +0000",
-      "content": "🆕Orobabil ai observat că multe oferte imobiliare sunt prezentate în stadiul de proiect. Clădirea încă nu există sau e abia la nivel de fundație, iar tu trebuie să iei o decizie bazată pe randări, planuri și promisiuni. Pentru unii cumpărători, acest lucru poate părea riscant. Pentru alții însă, reprezintă o oportunitate de a obține mai… https:// constructii360.ro/merita-sa-cu mperi-apartament-in-faza-de-proiect-avantaje-si-riscuri/"
     }
   ]
 }
