@@ -4,8 +4,14 @@
   "site_feed": "https://doctorite.ro/feed/",
   "mastodon": "https://social.5th.ro/@DoctoriteBlog",
   "mastodon_rss": "https://social.5th.ro/@DoctoriteBlog.rss",
-  "updated_at": "2026-05-10T18:05:34Z",
+  "updated_at": "2026-05-10T19:33:30Z",
   "site_posts": [
+    {
+      "title": "Unde merită să investești în București: zonele care îți oferă randament și confort",
+      "link": "https://doctorite.ro/unde-merita-sa-investesti-in-bucuresti-zonele-care-iti-ofera-randament-si-confort/",
+      "date": "Sun, 10 May 2026 18:10:00 +0000",
+      "summary": "Piața imobiliară din București continuă să atragă tot mai mulți cumpărători interesați de locuințe moderne,... Articolul Unde merită să investești în București: zonele care îți oferă randament și confort apare prima dată în Doctorite ."
+    },
     {
       "title": "Varicele netratate: riscuri, simptome și soluții chirurgicale",
       "link": "https://doctorite.ro/varicele-netratate-riscuri-simptome-si-solutii-chirurgicale/",
@@ -59,15 +65,15 @@
       "link": "https://doctorite.ro/sustinerea-imunitatii-in-sezonul-rece-ce-trebuie-sa-stii/",
       "date": "Thu, 08 Jan 2026 12:36:00 +0000",
       "summary": "Sezonul rece vine adesea la pachet cu schimbări de temperatură, mai puține ore de lumină... Articolul Susținerea imunității în sezonul rece: ce trebuie să știi apare prima dată în Doctorite ."
-    },
-    {
-      "title": "Etapele tratamentului cu aparat dentar invizibil.",
-      "link": "https://doctorite.ro/etapele-tratamentului-cu-aparat-dentar-invizibil/",
-      "date": "Tue, 23 Dec 2025 05:21:34 +0000",
-      "summary": "Etapele tratamentului cu aparat dentar invizibil. Iată &#238;n ce constă procesul de la A la... Articolul Etapele tratamentului cu aparat dentar invizibil. apare prima dată în Doctorite ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@DoctoriteBlog/116551623927202020",
+      "date": "Sun, 10 May 2026 18:10:44 +0000",
+      "content": "Piața imobiliară din București continuă să atragă tot mai mulți cumpărători interesați de locuințe moderne, bine poziționate și cu potențial ridicat de creștere. Fie că vorbim despre o locuință personală sau o investiție, alegerea zonei potrivite este esențială. Pipera – dezvoltare rapidă și oportunități multiple Zona Pipera este una dintre cele mai dinamice din București,… https:// doctorite.ro/unde-merita-sa-in vestesti-in-bucuresti-zonele-care-iti-ofera-randament-si-confort/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@DoctoriteBlog/116549627163816438",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@DoctoriteBlog/115689903400419144",
       "date": "Tue, 09 Dec 2025 13:43:52 +0000",
       "content": "Dintre toate surprizele pe care le rezervă viața, puține se compară cu momentul dezvăluirii sexului copilului tău. Este clipa în care „bebe” devine „el” sau „ea”, momentul în care poți începe să vizualizezi viitorul cu mai multă claritate și, desigur, startul oficial al dezbaterilor în familie despre nume.Curiozitatea viitorilor părinți este adesea copleșitoare. Imediat ce… https:// doctorite.ro/baiat-sau-fetita- saptamana-exacta-in-care-ecografia-poate-confirma-sexul-bebelusului/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@DoctoriteBlog/115689903267024222",
-      "date": "Tue, 09 Dec 2025 13:43:50 +0000",
-      "content": "Magneziul este un mineral esențial implicat în sute de procese biochimice din organism, inclusiv funcționarea sistemului nervos, relaxarea musculară, producția de energie și menținerea unui ritm cardiac stabil. Totuși, absorbția și eficiența sa pot varia în funcție de dieta zilnică și de nutrienții cu care este asociat. Unele vitamine și minerale îi pot crește biodisponibilitatea,… https:// doctorite.ro/de-ce-combinatiil e-sunt-importante-pentru-magneziu/"
     }
   ]
 }
