@@ -4,8 +4,14 @@
   "site_feed": "https://e-faq.ro/feed/",
   "mastodon": "https://social.5th.ro/@efaq",
   "mastodon_rss": "https://social.5th.ro/@efaq.rss",
-  "updated_at": "2026-05-10T09:02:01Z",
+  "updated_at": "2026-05-10T10:37:42Z",
   "site_posts": [
+    {
+      "title": "Cum alegi tratamentul potrivit pentru varice",
+      "link": "https://e-faq.ro/cum-alegi-tratamentul-potrivit-pentru-varice/",
+      "date": "Sun, 10 May 2026 06:30:00 +0000",
+      "summary": "Te-ai întrebat vreodată de ce simți picioarele grele la finalul zilei? Această senzație, alături de [&#8230;] Articolul Cum alegi tratamentul potrivit pentru varice apare prima dată în FAQ - Intrebari Frecvente ."
+    },
     {
       "title": "Espressor in custodie pemntru orice companie",
       "link": "https://e-faq.ro/espressor-in-custodie-pemntru-orice-companie/",
@@ -53,15 +59,15 @@
       "link": "https://e-faq.ro/operatii-de-amigdale-amigdalectomie-si-amigdalotomie-cum-alegi-corect-interventia-potrivita/",
       "date": "Thu, 19 Mar 2026 12:58:30 +0000",
       "summary": "Decizia de a interveni chirurgical asupra amigdalelor nu este niciodata una superficiala. Pentru multi parinti, [&#8230;] Articolul Operatii de amigdale: amigdalectomie si amigdalotomie. Cum alegi corect interventia potrivita apare prima dată în FAQ - Intrebari Frecvente ."
-    },
-    {
-      "title": "Rolul pompelor de apă moderne în gestionarea sustenabilă a apei",
-      "link": "https://e-faq.ro/rolul-pompelor-de-apa-moderne-in-gestionarea-sustenabila-a-apei/",
-      "date": "Wed, 18 Mar 2026 16:17:45 +0000",
-      "summary": "Gestionarea sustenabilă a apei capătă o importanță tot mai mare la nivel global, deoarece schimbările [&#8230;] Articolul Rolul pompelor de apă moderne în gestionarea sustenabilă a apei apare prima dată în FAQ - Intrebari Frecvente ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@efaq/116549653215139371",
+      "date": "Sun, 10 May 2026 09:49:33 +0000",
+      "content": "🚀 Te-ai întrebat vreodată de ce simți picioarele grele la finalul zilei? Această senzație, alături de venele vizibile, nu este doar o problemă de estetică, ci un semnal de alarmă al corpului tău. Mulți români suferă de insuficiență venoasă cronică fără să știe că soluțiile moderne sunt acum extrem de accesibile. Imaginează-ți o viață fără durere,… 🔗 Mai mult: https:// e-faq.ro/cum-alegi-tratamentul -potrivit-pentru-varice/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@efaq/116492757746883850",
@@ -127,12 +133,6 @@
       "link": "https://social.5th.ro/@efaq/116130137338151673",
       "date": "Wed, 25 Feb 2026 07:41:09 +0000",
       "content": "🚀 Preț mic nu înseamnă automat alegere bună Când cauți servicii de închirieri auto în Cluj-Napoca, primul reflex este să sortezi după cel mai mic preț pe zi. Este normal. Bugetul contează. Problema este că prețul afișat inițial nu spune toată povestea. Uneori, diferența dintre o ofertă „ieftină” și una corectă devine vizibilă abia la final:… 🔗 Mai mult: https:// e-faq.ro/cum-reduci-costurile- unei-inchirieri-auto-in-cluj-napoca-fara-sa-faci-compromisuri-gresite/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@efaq/116130025913689768",
-      "date": "Wed, 25 Feb 2026 07:12:49 +0000",
-      "content": "🚀 Una dintre cele mai costisitoare iluzii din mediul online este ideea că un site este un proiect care se termină la lansare. Mulți antreprenori privesc site-ul ca pe un obiect static: îl construiești, îl publici și apoi îl lași să „lucreze singur”. Din păcate, în cazul WordPress – și al oricărui site modern – această… 🔗 Complet aici: https:// e-faq.ro/de-ce-site-ul-tau-wor dpress-are-nevoie-de-ingrijire-constanta/"
     }
   ]
 }

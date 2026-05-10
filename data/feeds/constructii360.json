@@ -4,8 +4,14 @@
   "site_feed": "https://constructii360.ro/feed/",
   "mastodon": "https://social.5th.ro/@constructii360",
   "mastodon_rss": "https://social.5th.ro/@constructii360.rss",
-  "updated_at": "2026-05-10T09:01:44Z",
+  "updated_at": "2026-05-10T10:37:24Z",
   "site_posts": [
+    {
+      "title": "Cele mai frecvente situații care pot necesita chirurgie de urgență",
+      "link": "https://constructii360.ro/cele-mai-frecvente-situatii-care-pot-necesita-chirurgie-de-urgenta/",
+      "date": "Sun, 10 May 2026 06:30:00 +0000",
+      "summary": "Ai simțit vreodată o durere abdominală atât de intensă încât te-a pus la pământ? Astfel Articolul Cele mai frecvente situații care pot necesita chirurgie de urgență apare prima dată în Constructii 360 ."
+    },
     {
       "title": "De ce să comanzi ferestrele și ușile de la fabrica de tâmplărie PVC Ambient Plast",
       "link": "https://constructii360.ro/tamplarie-pvc/",
@@ -59,15 +65,15 @@
       "link": "https://constructii360.ro/biletul-zilei-inspirat-din-poker-gandire-strategica-si-risc-calculat/",
       "date": "Sat, 15 Nov 2025 10:03:28 +0000",
       "summary": "(Atenție) Te-ai întrebat vreodată de ce unii pariori par să câștige constant, în timp ce Articolul Biletul zilei inspirat din poker: gândire strategică și risc calculat apare prima dată în Constructii 360 ."
-    },
-    {
-      "title": "Biletul zilei vs bilete de weekend: diferențe de abordare și risc",
-      "link": "https://constructii360.ro/biletul-zilei-vs-bilete-de-weekend-diferente-de-abordare-si-risc/",
-      "date": "Fri, 14 Nov 2025 09:07:58 +0000",
-      "summary": "Ești sătul să pierzi constant bani la pariuri din cauza deciziilor luate în grabă? Mulți Articolul Biletul zilei vs bilete de weekend: diferențe de abordare și risc apare prima dată în Constructii 360 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@constructii360/116549704943284144",
+      "date": "Sun, 10 May 2026 10:02:43 +0000",
+      "content": "🆕Ai simțit vreodată o durere abdominală atât de intensă încât te-a pus la pământ? Astfel de momente sunt extrem de alarmante și pot indica o problemă medicală severă care nu suportă amânare. Intervenția rapidă este adesea factorul decisiv între o recuperare ușoară și complicații majore. Dacă te afli în capitală, accesul la servicii de chirurgie… https:// constructii360.ro/cele-mai-fre cvente-situatii-care-pot-necesita-chirurgie-de-urgenta/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@constructii360/116526433972725832",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@constructii360/115797038321537657",
       "date": "Sun, 28 Dec 2025 11:49:41 +0000",
       "content": "🆕/tmp/tmpgt4olds2.html https:// constructii360.ro/frica-de-rad iatii-irationala-sau-justificata/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@constructii360/115736870166353733",
-      "date": "Wed, 17 Dec 2025 20:48:08 +0000",
-      "content": "🆕Trecerea la Fediverse și integrarea platformei Mastodon cu site-urile tradiționale devine o necesitate pentru mulți creatori de conținut. Site-ul tău WordPress este inima prezenței tale online, iar securitatea lui nu trebuie compromisă. Conectarea acestor două lumi implică adesea utilizarea unor plugin-uri specializate. Însă, te-ai întrebat vreodată ce anume permisiuni cere un astfel de instrument https:// constructii360.ro/mastodon-wor dpress-plugin-ce-permisiuni-si-ce-securitate-trebuie-sa-ai/"
     }
   ]
 }

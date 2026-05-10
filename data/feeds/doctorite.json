@@ -4,8 +4,14 @@
   "site_feed": "https://doctorite.ro/feed/",
   "mastodon": "https://social.5th.ro/@DoctoriteBlog",
   "mastodon_rss": "https://social.5th.ro/@DoctoriteBlog.rss",
-  "updated_at": "2026-05-10T09:02:25Z",
+  "updated_at": "2026-05-10T10:38:07Z",
   "site_posts": [
+    {
+      "title": "Varicele netratate: riscuri, simptome și soluții chirurgicale",
+      "link": "https://doctorite.ro/varicele-netratate-riscuri-simptome-si-solutii-chirurgicale/",
+      "date": "Sun, 10 May 2026 06:30:00 +0000",
+      "summary": "Te-ai simțit vreodată stânjenit de aspectul picioarelor tale sau ai resimțit o greutate insuportabilă după... Articolul Varicele netratate: riscuri, simptome și soluții chirurgicale apare prima dată în Doctorite ."
+    },
     {
       "title": "Amețeli, palpitații și oboseală: când începi cu medicul de familie și când ai nevoie de cardiolog",
       "link": "https://doctorite.ro/ameteli-palpitatii-si-oboseala-cand-incepi-cu-medicul-de-familie-si-cand-ai-nevoie-de-cardiolog/",
@@ -59,15 +65,15 @@
       "link": "https://doctorite.ro/etapele-tratamentului-cu-aparat-dentar-invizibil/",
       "date": "Tue, 23 Dec 2025 05:21:34 +0000",
       "summary": "Etapele tratamentului cu aparat dentar invizibil. Iată &#238;n ce constă procesul de la A la... Articolul Etapele tratamentului cu aparat dentar invizibil. apare prima dată în Doctorite ."
-    },
-    {
-      "title": "Hashtaguri pe Mastodon: cum te găsește lumea mai ușor",
-      "link": "https://doctorite.ro/hashtaguri-pe-mastodon-cum-te-gaseste-lumea-mai-usor/",
-      "date": "Wed, 17 Dec 2025 16:58:54 +0000",
-      "summary": "Introducere: De Ce Vizibilitatea Pe Mastodon Depinde De Tine? V-ați săturat de algoritmii care decid... Articolul Hashtaguri pe Mastodon: cum te găsește lumea mai ușor apare prima dată în Doctorite ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@DoctoriteBlog/116549627163816438",
+      "date": "Sun, 10 May 2026 09:42:56 +0000",
+      "content": "Te-ai simțit vreodată stânjenit de aspectul picioarelor tale sau ai resimțit o greutate insuportabilă după o zi lungă de muncă? Această senzație de picioare obosite nu este doar o urmare a efortului fizic, ci poate fi primul semnal de alarmă al unei afecțiuni serioase. Multe persoane aleg să ignore aceste semne, considerându-le pur estetice, însă… https:// doctorite.ro/varicele-netratat e-riscuri-simptome-si-solutii-chirurgicale/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@DoctoriteBlog/116289459962284212",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@DoctoriteBlog/115689903267024222",
       "date": "Tue, 09 Dec 2025 13:43:50 +0000",
       "content": "Magneziul este un mineral esențial implicat în sute de procese biochimice din organism, inclusiv funcționarea sistemului nervos, relaxarea musculară, producția de energie și menținerea unui ritm cardiac stabil. Totuși, absorbția și eficiența sa pot varia în funcție de dieta zilnică și de nutrienții cu care este asociat. Unele vitamine și minerale îi pot crește biodisponibilitatea,… https:// doctorite.ro/de-ce-combinatiil e-sunt-importante-pentru-magneziu/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@DoctoriteBlog/115689903136433278",
-      "date": "Tue, 09 Dec 2025 13:43:48 +0000",
-      "content": "Acizii grași Omega-3 sunt esențiali pentru sănătatea cardiovasculară, funcția cerebrală și controlul inflamației. Totuși, eficiența lor poate crește atunci când sunt combinați cu alți nutrienți care le susțin absorbția, stabilitatea și modul de acțiune. În alimentația modernă, unde raportul dintre grăsimile „bune” și cele „rele” este dezechilibrat, alegerea partenerilor potriviți pentru Omega-3 poate https:// doctorite.ro/sinergiile-nutrie ntilor-de-ce-combinatiile-conteaza-pentru-omega-3/"
     }
   ]
 }

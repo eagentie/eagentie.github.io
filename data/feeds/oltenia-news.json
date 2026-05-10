@@ -4,8 +4,14 @@
   "site_feed": "https://oltenia-news.ro/feed/",
   "mastodon": "https://social.5th.ro/@oltenia",
   "mastodon_rss": "https://social.5th.ro/@oltenia.rss",
-  "updated_at": "2026-05-10T09:01:50Z",
+  "updated_at": "2026-05-10T10:37:30Z",
   "site_posts": [
+    {
+      "title": "Operație cancer colon București: pașii de la diagnostic la intervenție",
+      "link": "https://oltenia-news.ro/operatie-cancer-colon-bucuresti-pasii-de-la-diagnostic-la-interventie/",
+      "date": "Sun, 10 May 2026 06:30:00 +0000",
+      "summary": "Te-ai întrebat vreodată care sunt pașii exacți atunci când te confrunți cu o problemă gravă de sănătate? Un diagnostic oncologic aduce multă teamă, dar informația corectă este primul pas spre vindecare. În prezent, medicina a avansat enorm, oferind soluții personalizate și sigure pentru fiecare pacient în parte. Bucureștiul a devenit un centru de excelență în [&#8230;] Articolul Operație cancer colon București: pașii de la diagnostic la intervenție apare prima dată în Oltenia News ."
+    },
     {
       "title": "Rulmenți: ghid de identificare după cod, dimensiuni și utilizare (industriale și auto)",
       "link": "https://oltenia-news.ro/rulmenti-ghid-de-identificare-dupa-cod-dimensiuni-si-utilizare-industriale-si-auto/",
@@ -71,15 +77,15 @@
       "link": "https://oltenia-news.ro/pensiuni-ilganii-de-sus-in-delta-dunarii-recomandari-pentru-cupluri/",
       "date": "Wed, 03 Sep 2025 23:19:25 +0000",
       "summary": "Visând la o escapadă romantică într-un loc liniștit și pitoresc? Imaginați-vă trezindu-vă la răsăritul soarelui, cu aerul curat al Deltei Dunării umplându-vă plămânii. Cazare Ilganii de Sus este cheia către o vacanță de vis! Găsiți liniștea și romantismul pe care le căutați, descoperind farmecul unic al Deltei. Pensiuni Ilganii de Sus: Oază de liniște în [&#8230;] Articolul Pensiuni Ilganii de Sus în Delta Dunării – recomandări pentru cupluri apare prima dată în Oltenia News ."
-    },
-    {
-      "title": "Data warehouse modern: ClickHouse vs BigQuery",
-      "link": "https://oltenia-news.ro/data-warehouse-modern-clickhouse-vs-bigquery/",
-      "date": "Wed, 03 Sep 2025 22:20:16 +0000",
-      "summary": "Analiza datelor la scară mare a devenit esențială pentru multe companii. Dar alegerea soluției potrivite poate fi dificilă. Vrei să optimizezi procesele de analytics și să obții informații valoroase rapid? Atunci trebuie să înțelegi diferențele dintre platformele populare de data warehouse, precum ClickHouse și BigQuery. Alegerea Platformei de Data Warehouse: ClickHouse vs. BigQuery Ce este [&#8230;] Articolul Data warehouse modern: ClickHouse vs BigQuery apare prima dată în Oltenia News ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@oltenia/116549710155714303",
+      "date": "Sun, 10 May 2026 10:04:02 +0000",
+      "content": "Te-ai întrebat vreodată care sunt pașii exacți atunci când te confrunți cu o problemă gravă de sănătate? Un diagnostic oncologic aduce multă teamă, dar informația corectă este primul pas spre vindecare. În prezent, medicina a avansat enorm, oferind soluții personalizate și sigure pentru fiecare pacient în parte. Bucureștiul a devenit un centru de excelență în… https:// oltenia-news.ro/operatie-cance r-colon-bucuresti-pasii-de-la-diagnostic-la-interventie/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@oltenia/116324580038192630",

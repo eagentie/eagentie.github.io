@@ -4,8 +4,14 @@
   "site_feed": "https://clasici.ro/feed/",
   "mastodon": "https://social.5th.ro/@clasici",
   "mastodon_rss": "https://social.5th.ro/@clasici.rss",
-  "updated_at": "2026-05-10T09:01:53Z",
+  "updated_at": "2026-05-10T10:37:33Z",
   "site_posts": [
+    {
+      "title": "Medic chirurg Medicover Pipera: când să programezi un consult",
+      "link": "https://clasici.ro/medic-chirurg-medicover-pipera-cand-sa-programezi-un-consult/",
+      "date": "Sun, 10 May 2026 06:30:00 +0000",
+      "summary": "Vă confruntați cu dureri abdominale persistente sau ați observat recent modificări neobișnuite la nivelul corpului?..."
+    },
     {
       "title": "Cotele Dunării la Isaccea în 2026: nivelul apei azi, grafic și repere pentru zonă",
       "link": "https://clasici.ro/cotele-dunarii-la-isaccea-in-2026-nivelul-apei-azi-grafic-si-repere-pentru-zona/",
@@ -71,15 +77,15 @@
       "link": "https://clasici.ro/excursii-jurilovca-in-delta-dunarii-poarta-spre-gura-portitei/",
       "date": "Wed, 03 Sep 2025 23:58:29 +0000",
       "summary": "Visiți Delta Dunării? Atunci pregătiți-vă pentru o aventură de neuitat! Imagine: soarele răsare peste apele..."
-    },
-    {
-      "title": "Cazare Jurilovca în Delta Dunării – poarta către Gura Portiței",
-      "link": "https://clasici.ro/cazare-jurilovca-in-delta-dunarii-poarta-catre-gura-portitei/",
-      "date": "Wed, 03 Sep 2025 23:16:01 +0000",
-      "summary": "Vrei să descoperi frumusețea Deltei Dunării? Îți dorești o vacanță relaxantă, departe de agitația orașului?..."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@clasici/116549580801138193",
+      "date": "Sun, 10 May 2026 09:31:08 +0000",
+      "content": "⭐Vă confruntați cu dureri abdominale persistente sau ați observat recent modificări neobișnuite la nivelul corpului? Sănătatea este cel mai prețios bun pe care îl deținem, iar prevenția joacă un rol crucial în menținerea acesteia pe termen lung. Alegerea unui specialist cu experiență reprezintă primul pas esențial către o recuperare rapidă și sigură. Dacă locuiți sau… ⭐ https:// clasici.ro/medic-chirurg-medic over-pipera-cand-sa-programezi-un-consult/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@clasici/116062945934388594",

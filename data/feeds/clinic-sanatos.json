@@ -4,8 +4,14 @@
   "site_feed": "https://clinic-sanatos.ro/feed/",
   "mastodon": "https://social.5th.ro/@clinic_sanatos",
   "mastodon_rss": "https://social.5th.ro/@clinic_sanatos.rss",
-  "updated_at": "2026-05-10T09:02:19Z",
+  "updated_at": "2026-05-10T10:38:01Z",
   "site_posts": [
+    {
+      "title": "Chirurgia minim invazivă în cancerul de colon: ce opțiuni există",
+      "link": "https://clinic-sanatos.ro/chirurgia-minim-invaziva-in-cancerul-de-colon-ce-optiuni-exista/",
+      "date": "Sun, 10 May 2026 06:30:00 +0000",
+      "summary": "Te-ai întrebat vreodată cum a evoluat medicina modernă în lupta împotriva afecțiunilor oncologice? Diagnosticul de... Articolul Chirurgia minim invazivă în cancerul de colon: ce opțiuni există apare prima dată în Clinic Sanatos ."
+    },
     {
       "title": "Ce ceasuri inteligente sunt bune pentru stres și recuperare?",
       "link": "https://clinic-sanatos.ro/ce-ceasuri-inteligente-sunt-bune-pentru-stres-si-recuperare/",
@@ -71,15 +77,15 @@
       "link": "https://clinic-sanatos.ro/importanta-vitaminelor-si-mineralelor-in-timpul-unei-diete-de-slabire/",
       "date": "Sun, 30 Nov 2025 11:56:38 +0000",
       "summary": "Adoptarea unei diete de slăbire implică nu doar reducerea aportului caloric, ci și menținerea unei... Articolul Importanța vitaminelor și mineralelor în timpul unei diete de slăbire apare prima dată în Clinic Sanatos ."
-    },
-    {
-      "title": "Pariuri responsabile: semne că e timpul să te oprești sau să reduci miza",
-      "link": "https://clinic-sanatos.ro/pariuri-responsabile-semne-ca-e-timpul-sa-te-opresti-sau-sa-reduci-miza/",
-      "date": "Sat, 15 Nov 2025 10:03:28 +0000",
-      "summary": "Pasiunile noastre ne pot aduce bucurie și adrenalină. Totuși, dacă vă bucurați de emoția oferită... Articolul Pariuri responsabile: semne că e timpul să te oprești sau să reduci miza apare prima dată în Clinic Sanatos ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@clinic_sanatos/116549658603454965",
+      "date": "Sun, 10 May 2026 09:50:55 +0000",
+      "content": "Te-ai întrebat vreodată cum a evoluat medicina modernă în lupta împotriva afecțiunilor oncologice? Diagnosticul de cancer colorectal nu mai reprezintă astăzi o sentință fără speranță, ci începutul unui plan terapeutic bine structurat. Tehnologia actuală permite intervenții precise, care pun pe primul loc confortul și siguranța pacientului. Interesul pentru metodele de tratament mai puțin traumatice a… .... https:// clinic-sanatos.ro/chirurgia-mi nim-invaziva-in-cancerul-de-colon-ce-optiuni-exista/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@clinic_sanatos/116481029613168704",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@clinic_sanatos/115694658464618416",
       "date": "Wed, 10 Dec 2025 09:53:09 +0000",
       "content": "Pasiunile noastre ne pot aduce bucurie și adrenalină. Totuși, dacă vă bucurați de emoția oferită de pariuri, știți cât de ușor se poate pierde limita dintre divertisment și problemă. Menținerea unor pariuri responsabile nu este doar o recomandare de marketing. Este o necesitate absolută pentru bunăstarea dumneavoastră financiară și emoțională. Foarte puțini oameni recunosc instantaneu… .... https:// clinic-sanatos.ro/pariuri-resp onsabile-semne-ca-e-timpul-sa-te-opresti-sau-sa-reduci-miza/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@clinic_sanatos/115694635903234967",
-      "date": "Wed, 10 Dec 2025 09:47:24 +0000",
-      "content": "Informații medicale explicate clar: simptome, prevenție, analize, tratamente și stil de viață sănătos. Un punct de plecare înainte de a ajunge la medic, nu un înlocuitor. # sanatate # preventie # doctor # sanatos # medic https:// clinic-sanatos.ro"
     }
   ]
 }

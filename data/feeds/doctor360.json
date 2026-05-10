@@ -4,8 +4,14 @@
   "site_feed": "https://doctor360.ro/feed/",
   "mastodon": "https://social.5th.ro/@doctor360",
   "mastodon_rss": "https://social.5th.ro/@doctor360.rss",
-  "updated_at": "2026-05-10T09:02:22Z",
+  "updated_at": "2026-05-10T10:38:04Z",
   "site_posts": [
+    {
+      "title": "Operație varice București: când devine necesar tratamentul chirurgical",
+      "link": "https://doctor360.ro/operatie-varice-bucuresti-cand-devine-necesar-tratamentul-chirurgical/",
+      "date": "Sun, 10 May 2026 06:30:00 +0000",
+      "summary": "Vă confruntați des cu senzația de picioare grele sau umflate la finalul zilei? Această stare nu este doar o urmare a oboselii, ci poate fi primul semn pentru insuficienta venoasa, o afecțiune care progresează în timp. Multe persoane amână vizita la medic, sperând că simptomele vor trece de la sine, însă venele dilatate pot ascunde [&#8230;] Articolul Operație varice București: când devine necesar tratamentul chirurgical apare prima dată în Doctor 360 ."
+    },
     {
       "title": "Adenomioza: De ce uterul devine dureros, mărit și inflamat",
       "link": "https://doctor360.ro/adenomioza-de-ce-uterul-devine-dureros-marit-si-inflamat/",
@@ -71,15 +77,15 @@
       "link": "https://doctor360.ro/cum-citesti-tabelul-de-plati-la-pacanele-si-ce-inseamna-rtp/",
       "date": "Fri, 14 Nov 2025 09:07:58 +0000",
       "summary": "Vrei să înțelegi de ce unele rotiri par să ofere mai mult decât altele? Mulți jucători apasă pur și simplu butonul de Spin, lăsând totul la mâna norocului. Dar jucătorii informați știu că succesul la păcănele online depinde și de înțelegerea mecanismelor interne. E momentul să trecem dincolo de simpla speranță. Află cum să descifrezi [&#8230;] Articolul Cum citești tabelul de plăți la păcănele și ce înseamnă RTP apare prima dată în Doctor 360 ."
-    },
-    {
-      "title": "SEO pentru magazine online: cum transformi traficul organic în vânzări",
-      "link": "https://doctor360.ro/seo-pentru-magazine-online-cum-transformi-traficul-organic-in-vanzari/",
-      "date": "Fri, 14 Nov 2025 07:32:14 +0000",
-      "summary": "Mulți proprietari de afaceri online se confruntă cu aceeași dilemă: cum să transforme vizitatorii pasivi în cumpărători activi. Ați investit timp și bani în construirea unui magazin atractiv. Vedeți cifre mari în rapoartele de trafic, dar la sfârșitul lunii, linia de jos rămâne sub așteptări. Acesta este un semn clar că există o deconectare majoră [&#8230;] Articolul SEO pentru magazine online: cum transformi traficul organic în vânzări apare prima dată în Doctor 360 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@doctor360/116549647903688110",
+      "date": "Sun, 10 May 2026 09:48:12 +0000",
+      "content": "💡Vă confruntați des cu senzația de picioare grele sau umflate la finalul zilei? Această stare nu este doar o urmare a oboselii, ci poate fi primul semn pentru insuficienta venoasa, o afecțiune care progresează în timp. Multe persoane amână vizita la medic, sperând că simptomele vor trece de la sine, însă venele dilatate pot ascunde… 💡 https:// doctor360.ro/operatie-varice-b ucuresti-cand-devine-necesar-tratamentul-chirurgical/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@doctor360/116142175984614473",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@doctor360/115694558683529077",
       "date": "Wed, 10 Dec 2025 09:27:46 +0000",
       "content": "💡Vrei să înțelegi de ce unele rotiri par să ofere mai mult decât altele? Mulți jucători apasă pur și simplu butonul de Spin, lăsând totul la mâna norocului. Dar jucătorii informați știu că succesul la păcănele online depinde și de înțelegerea mecanismelor interne. E momentul să trecem dincolo de simpla speranță. Află cum să descifrezi… 💡 https:// doctor360.ro/cum-citesti-tabel ul-de-plati-la-pacanele-si-ce-inseamna-rtp/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@doctor360/115694542230637931",
-      "date": "Wed, 10 Dec 2025 09:23:35 +0000",
-      "content": "Articole despre sănătate, prevenție, analize, tratamente și stil de viață, explicate pe înțelesul tuturor. O privire „360°” asupra relației dintre pacient și medic. # sanatate # doctor # preventie # medic https:// doctor360.ro"
     }
   ]
 }

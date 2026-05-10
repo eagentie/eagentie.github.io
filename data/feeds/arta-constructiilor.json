@@ -4,8 +4,14 @@
   "site_feed": "https://arta-constructiilor.ro/feed/",
   "mastodon": "https://social.5th.ro/@ArtaConstructiilor",
   "mastodon_rss": "https://social.5th.ro/@ArtaConstructiilor.rss",
-  "updated_at": "2026-05-10T09:02:34Z",
+  "updated_at": "2026-05-10T10:38:16Z",
   "site_posts": [
+    {
+      "title": "Colecistectomie laparoscopică București: ce înseamnă operația de colecist",
+      "link": "https://arta-constructiilor.ro/colecistectomie-laparoscopica-bucuresti-ce-inseamna-operatia-de-colecist/",
+      "date": "Sun, 10 May 2026 06:30:00 +0000",
+      "summary": "Introducere Ai simțit vreodată o durere ascuțită în partea dreaptă a abdomenului, imediat după o masă mai grasă? Această stare de disconfort nu trebuie ignorată, &#8230; Articolul Colecistectomie laparoscopică București: ce înseamnă operația de colecist apare prima dată în Arta Constructiilor ."
+    },
     {
       "title": "De la balcon simplu la spațiu util cu sticlă glisantă Ambient Plast",
       "link": "https://arta-constructiilor.ro/sticla-glisanta/",
@@ -59,15 +65,15 @@
       "link": "https://arta-constructiilor.ro/rulmenti-cu-bile-precizie-rezistenta-si-performanta-pentru-orice-aplicatie/",
       "date": "Thu, 18 Dec 2025 09:02:20 +0000",
       "summary": "Rulmenții cu bile sunt esențiali pentru orice sistem de rotație care are nevoie de mișcare lină, precizie și fiabilitate pe termen lung. De la motoare &#8230; Articolul Rulmenți cu bile – precizie, rezistență și performanță pentru orice aplicație apare prima dată în Arta Constructiilor ."
-    },
-    {
-      "title": "Mastodon WordPress plugin: cum setezi șabloane de text pentru postări",
-      "link": "https://arta-constructiilor.ro/mastodon-wordpress-plugin-cum-setezi-sabloane-de-text-pentru-postari/",
-      "date": "Wed, 17 Dec 2025 16:58:54 +0000",
-      "summary": "Ghid Esențial pentru Automatizarea Mastodon: Optimizarea Postărilor cu Șabloane de Text Ați publicat vreodată un articol nou pe blogul dvs. și v-ați simțit copleșit de &#8230; Articolul Mastodon WordPress plugin: cum setezi șabloane de text pentru postări apare prima dată în Arta Constructiilor ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@ArtaConstructiilor/116549694789832488",
+      "date": "Sun, 10 May 2026 10:00:08 +0000",
+      "content": "Introducere Ai simțit vreodată o durere ascuțită în partea dreaptă a abdomenului, imediat după o masă mai grasă? Această stare de disconfort nu trebuie ignorată, deoarece poate indica prezența unor calculi, afecțiune cunoscută sub numele de litiaza biliara. Mulți pacienți amână vizita la medic din cauza temerilor legate de intervențiile chirurgicale clasice. Totuși, medicina modernă… .... 🌐 https:// arta-constructiilor.ro/colecis tectomie-laparoscopica-bucuresti-ce-inseamna-operatia-de-colecist/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@ArtaConstructiilor/116526428430552761",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@ArtaConstructiilor/115797099031412730",
       "date": "Sun, 28 Dec 2025 12:05:08 +0000",
       "content": "/tmp/tmppy8zntbc.html .... 🌐 https:// arta-constructiilor.ro/analiza -spectroscopica-a-leziunilor-cutanate/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@ArtaConstructiilor/115797098916642465",
-      "date": "Sun, 28 Dec 2025 12:05:06 +0000",
-      "content": "/tmp/tmpmv67bdd4.html .... 🌐 https:// arta-constructiilor.ro/mielomu l-multiplu-si-nefropatia-de-contrast/"
     }
   ]
 }
