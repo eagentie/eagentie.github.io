@@ -4,8 +4,14 @@
   "site_feed": "https://UniversulTech.ro/feed/",
   "mastodon": "https://social.5th.ro/@UniversulTech",
   "mastodon_rss": "https://social.5th.ro/@UniversulTech.rss",
-  "updated_at": "2026-05-11T12:23:15Z",
+  "updated_at": "2026-05-11T16:12:26Z",
   "site_posts": [
+    {
+      "title": "Copilul tău mănâncă doar 3 alimente? Ce spune asta despre dezvoltarea lui",
+      "link": "https://universultech.ro/copilul-tau-mananca-doar-3-alimente-ce-spune-asta-despre-dezvoltarea-lui/",
+      "date": "Mon, 11 May 2026 15:30:08 +0000",
+      "summary": "Ora cinei s-a transformat pentru multe familii dintr-un moment de tihnă într-un adevărat câmp de luptă psihologică. Farfuria cu legume&#8230; Articolul Copilul tău mănâncă doar 3 alimente? Ce spune asta despre dezvoltarea lui apare prima dată în Universul Tech ."
+    },
     {
       "title": "Rolul consumabilelor de calitate în eficiența biroului tău",
       "link": "https://universultech.ro/rolul-consumabilelor-de-calitate-in-eficienta-biroului-tau/",
@@ -71,15 +77,15 @@
       "link": "https://universultech.ro/de-ce-galaxy-s26-este-optimizat-pentru-ai/",
       "date": "Thu, 19 Mar 2026 07:07:00 +0000",
       "summary": "Un telefon construit pentru inteligență, nu doar pentru viteză&#206;n ultimii ani, evoluția smartphone-urilor a trecut de la performanța brută la&#8230; Articolul De ce Galaxy S26 este optimizat pentru AI apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "Cum te ajută ecosistemul Samsung să faci curățenia de Paște mai rapid",
-      "link": "https://universultech.ro/cum-te-ajuta-ecosistemul-samsung-sa-faci-curatenia-de-paste-mai-rapid/",
-      "date": "Mon, 16 Mar 2026 21:05:00 +0000",
-      "summary": "Pregătirile de sărbători devin mai simple cu tehnologia potrivităCurățenia de Paște este, pentru mulți, una dintre cele mai solicitante activități&#8230; Articolul Cum te ajută ecosistemul Samsung să faci curățenia de Paște mai rapid apare prima dată în Universul Tech ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@UniversulTech/116556654948590467",
+      "date": "Mon, 11 May 2026 15:30:11 +0000",
+      "content": "💡Ora cinei s-a transformat pentru multe familii dintr-un moment de tihnă într-un adevărat câmp de luptă psihologică. Farfuria cu legume verzi rămâne neatinsă, în timp ce micuțul tău solicită, pentru a zecea oară în această săptămână, aceeași porție de paste simple sau aceiași biscuiți. Această conduită, cunoscută în literatura de specialitate sub numele de picky eating sau… ✅ https:// universultech.ro/copilul-tau-m ananca-doar-3-alimente-ce-spune-asta-despre-dezvoltarea-lui/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@UniversulTech/116527768275462180",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@UniversulTech/116239191412641836",
       "date": "Mon, 16 Mar 2026 13:55:02 +0000",
       "content": "💡Asigurarea RCA este o cheltuială obligatorie pentru orice proprietar de autovehicul din România. Indiferent dacă folosești mașina zilnic sau doar ocazional, legea impune existența unei polițe valabile pentru a putea circula pe drumurile publice. Dincolo de obligația legală, RCA-ul reprezintă o formă de protecție financiară importantă, deoarece acoperă daunele provocate altor participanți la trafic în… ✅ https:// universultech.ro/cum-sa-plates ti-mai-putin-pe-asigurarea-rca/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@UniversulTech/116238110724168822",
-      "date": "Mon, 16 Mar 2026 09:20:12 +0000",
-      "content": "💡Un gazon sănătos și verde transformă orice grădină într-un spațiu plăcut și îngrijit, însă alegerea fertilizantului potrivit poate fi uneori dificilă. În 2026, oferta este variată - de la granulați organici și biostimulatori, până la fertilizanți profesioniști cu eliberare lentă - ceea ce face decizia și mai provocatoare. Pentru a simplifica alegerea, am selectat 6 ✅ https:// universultech.ro/cum-alegi-fer tilizantul-potrivit-pentru-gazon-6-solutii-recomandate-pentru-un-teren-verde-sanatos/"
     }
   ]
 }
