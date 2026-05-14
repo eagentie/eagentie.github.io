@@ -4,8 +4,14 @@
   "site_feed": "https://UniversulTech.ro/feed/",
   "mastodon": "https://social.5th.ro/@UniversulTech",
   "mastodon_rss": "https://social.5th.ro/@UniversulTech.rss",
-  "updated_at": "2026-05-14T07:21:32Z",
+  "updated_at": "2026-05-14T10:33:48Z",
   "site_posts": [
+    {
+      "title": "Cum te pot ajuta stabilizatoarele de tensiune să reduci riscurile asociate defecțiunilor tehnice",
+      "link": "https://universultech.ro/cum-te-pot-ajuta-stabilizatoarele-de-tensiune-sa-reduci-riscurile-asociate-defectiunilor-tehnice/",
+      "date": "Thu, 14 May 2026 08:25:44 +0000",
+      "summary": "Stabilizatoarele de tensiune te pot ajuta să eviți defecțiunile tehnice cauzate de variațiile de tensiune, oferindu-ți siguranța și liniștea de&#8230; Articolul Cum te pot ajuta stabilizatoarele de tensiune să reduci riscurile asociate defecțiunilor tehnice apare prima dată în Universul Tech ."
+    },
     {
       "title": "Copilul tău mănâncă doar 3 alimente? Ce spune asta despre dezvoltarea lui",
       "link": "https://universultech.ro/copilul-tau-mananca-doar-3-alimente-ce-spune-asta-despre-dezvoltarea-lui/",
@@ -71,15 +77,15 @@
       "link": "https://universultech.ro/de-ce-televizoarele-samsung-sunt-populare-la-nivel-global/",
       "date": "Sun, 22 Mar 2026 17:35:48 +0000",
       "summary": "O combinație între tehnologie și experiență Popularitatea televizoarelor nu mai este determinată doar de dimensiunea ecranului sau de rezoluție. Utilizatorii&#8230; Articolul De ce televizoarele Samsung sunt populare la nivel global apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "De ce Galaxy S26 este optimizat pentru AI",
-      "link": "https://universultech.ro/de-ce-galaxy-s26-este-optimizat-pentru-ai/",
-      "date": "Thu, 19 Mar 2026 07:07:00 +0000",
-      "summary": "Un telefon construit pentru inteligență, nu doar pentru viteză&#206;n ultimii ani, evoluția smartphone-urilor a trecut de la performanța brută la&#8230; Articolul De ce Galaxy S26 este optimizat pentru AI apare prima dată în Universul Tech ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@UniversulTech/116571973025823312",
+      "date": "Thu, 14 May 2026 08:25:47 +0000",
+      "content": "💡Stabilizatoarele de tensiune te pot ajuta să eviți defecțiunile tehnice cauzate de variațiile de tensiune, oferindu-ți siguranța și liniștea de care ai nevoie. Află cum pot acestea să protejeze aparatele din casa ta și să le prelungească durata de viață. Descoperă soluțiile oferite de stabilizatoarele de tensiune, care îți reduc costurile de întreținere și asigură… ✅ https:// universultech.ro/cum-te-pot-aj uta-stabilizatoarele-de-tensiune-sa-reduci-riscurile-asociate-defectiunilor-tehnice/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@UniversulTech/116556654948590467",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@UniversulTech/116246554436785251",
       "date": "Tue, 17 Mar 2026 21:07:33 +0000",
       "content": "💡Pregătirile de sărbători devin mai simple cu tehnologia potrivităCurățenia de Paște este, pentru mulți, una dintre cele mai solicitante activități din an. Organizarea, timpul limitat și dorința de a avea totul impecabil pot transforma această perioadă într-o provocare. Din fericire, tehnologia modernă vine în sprijinul utilizatorilor, oferind soluții inteligente care reduc efortul și optimizează ✅ https:// universultech.ro/cum-te-ajuta- ecosistemul-samsung-sa-faci-curatenia-de-paste-mai-rapid/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@UniversulTech/116239191412641836",
-      "date": "Mon, 16 Mar 2026 13:55:02 +0000",
-      "content": "💡Asigurarea RCA este o cheltuială obligatorie pentru orice proprietar de autovehicul din România. Indiferent dacă folosești mașina zilnic sau doar ocazional, legea impune existența unei polițe valabile pentru a putea circula pe drumurile publice. Dincolo de obligația legală, RCA-ul reprezintă o formă de protecție financiară importantă, deoarece acoperă daunele provocate altor participanți la trafic în… ✅ https:// universultech.ro/cum-sa-plates ti-mai-putin-pe-asigurarea-rca/"
     }
   ]
 }
