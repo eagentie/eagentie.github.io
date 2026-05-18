@@ -4,8 +4,14 @@
   "site_feed": "https://iEnergie.ro/feed/",
   "mastodon": "https://social.5th.ro/@ienergie",
   "mastodon_rss": "https://social.5th.ro/@ienergie.rss",
-  "updated_at": "2026-05-18T08:53:31Z",
+  "updated_at": "2026-05-18T12:48:17Z",
   "site_posts": [
+    {
+      "title": "Ce consum are un aer condiționat: tot ce trebuie să știi pentru a economisi energie și bani",
+      "link": "https://ienergie.ro/ce-consum-are-un-aer-conditionat-tot-ce-trebuie-sa-stii-pentru-a-economisi-energie-si-bani/",
+      "date": "Mon, 18 May 2026 10:10:20 +0000",
+      "summary": "Factura de curent în lunile de vară poate crește cu 30–50% dacă ai un aer condiționat vechi sau folosit incorect. Și totuși, mulți proprietari nu [Mai mult...] Articolul Ce consum are un aer condiționat: tot ce trebuie să știi pentru a economisi energie și bani apare prima dată în iEnergie ."
+    },
     {
       "title": "Videochat premium vs. Viva Diva: vezi ce spun modelele din Iași pe Forumvideochat.ro",
       "link": "https://ienergie.ro/videochat-premium-vs-viva-diva-vezi-ce-spun-modelele-din-iasi-pe-forumvideochat-ro/",
@@ -71,15 +77,15 @@
       "link": "https://ienergie.ro/cese-preia-strategic-propunerile-orse-de-combatere-a-saraciei-energetice-printr-un-aviz-cheie-lansat-inaintea-pachetului-energie-pentru-cetateni/",
       "date": "Tue, 20 Jan 2026 08:05:17 +0000",
       "summary": "Măsurile urgente pentru combaterea sărăciei energetice, elaborate de Observatorul Român al Sărăciei Energetice (ORSE), au fost integrate într-un aviz strategic adoptat de Comitetul Economic și [Mai mult...] Articolul CESE preia strategic propunerile ORSE de combatere a sărăciei energetice, printr-un aviz cheie lansat înaintea Pachetului Energie pentru Cetățeni apare prima dată în iEnergie ."
-    },
-    {
-      "title": "RWEA, RPIA și PATRES cer ANRE decalarea cu până la 3 ani a licitațiilor de racordare, pe fondul riscului de blocaj în conectarea la rețea",
-      "link": "https://ienergie.ro/rwea-rpia-si-patres-cer-anre-decalarea-cu-pana-la-3-ani-a-licitatiilor-de-racordare-pe-fondul-riscului-de-blocaj-in-conectarea-la-retea/",
-      "date": "Tue, 20 Jan 2026 08:01:25 +0000",
-      "summary": "Asociațiile majore din sectorul energiei regenerabile, respectiv Asociația Română pentru Energie Eoliană (RWEA), Asociația Industriei Fotovoltaice din România (RPIA) și Organizația Patronală a Producătorilor de [Mai mult...] Articolul RWEA, RPIA și PATRES cer ANRE decalarea cu până la 3 ani a licitațiilor de racordare, pe fondul riscului de blocaj în conectarea la rețea apare prima dată în iEnergie ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@ienergie/116595033584561910",
+      "date": "Mon, 18 May 2026 10:10:23 +0000",
+      "content": "Factura de curent în lunile de vară poate crește cu 30–50% dacă ai un aer condiționat vechi sau folosit incorect. Și totuși, mulți proprietari nu știu cu exactitate cât consumă aparatul lor — sau cum să calculeze costul real al răcorii din cameră. Răspunsul depinde de putere, eficiență energetică, temperatura setată și câte ore funcționează… https:// ienergie.ro/ce-consum-are-un-a er-conditionat-tot-ce-trebuie-sa-stii-pentru-a-economisi-energie-si-bani/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@ienergie/116324565716344183",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@ienergie/115926389210016799",
       "date": "Tue, 20 Jan 2026 08:05:19 +0000",
       "content": "Măsurile urgente pentru combaterea sărăciei energetice, elaborate de Observatorul Român al Sărăciei Energetice (ORSE), au fost integrate într-un aviz strategic adoptat de Comitetul Economic și Social European (CESE). Acest document a fost solicitat de Comisia Europeană în contextul pregătirii Pachetului Energie pentru Cetățeni, ce https:// ienergie.ro/cese-preia-strateg ic-propunerile-orse-de-combatere-a-saraciei-energetice-printr-un-aviz-cheie-lansat-inaintea-pachetului-energie-pentru-cetateni/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@ienergie/115926374014445496",
-      "date": "Tue, 20 Jan 2026 08:01:27 +0000",
-      "content": "Asociațiile majore din sectorul energiei regenerabile, respectiv Asociația Română pentru Energie Eoliană (RWEA), Asociația Industriei Fotovoltaice din România (RPIA) și Organizația Patronală a Producătorilor de Energie din Surse Regenerabile din România (PATRES), lansează un avertisment serios privind riscul iminent al unui blocaj în https:// ienergie.ro/rwea-rpia-si-patre s-cer-anre-decalarea-cu-pana-la-3-ani-a-licitatiilor-de-racordare-pe-fondul-riscului-de-blocaj-in-conectarea-la-retea/"
     }
   ]
 }

@@ -4,8 +4,14 @@
   "site_feed": "https://top15.ro/feed/",
   "mastodon": "https://social.5th.ro/@top",
   "mastodon_rss": "https://social.5th.ro/@top.rss",
-  "updated_at": "2026-05-18T08:53:43Z",
+  "updated_at": "2026-05-18T12:48:32Z",
   "site_posts": [
+    {
+      "title": "Înlocuitori sănătoși pentru cafea: ghidul complet pentru reducerea cofeinei",
+      "link": "https://top15.ro/inlocuitori-sanatosi-pentru-cafea-ghidul-complet-pentru-reducerea-cofeinei/",
+      "date": "Mon, 18 May 2026 10:13:25 +0000",
+      "summary": "Reducerea cofeinei a devenit una dintre cele mai discutate schimbări de stil de viață. Tot... Articolul Înlocuitori sănătoși pentru cafea: ghidul complet pentru reducerea cofeinei apare prima dată în TOP 15 ."
+    },
     {
       "title": "Credite nevoi personale: între „am nevoie” și „am rezolvat”",
       "link": "https://top15.ro/credite-nevoi-personale-intre-am-nevoie-si-am-rezolvat/",
@@ -71,15 +77,15 @@
       "link": "https://top15.ro/curele-dintate-si-poly-v-cand-merita-upgrade-ul-fata-de-curelele-clasice/",
       "date": "Mon, 23 Mar 2026 10:51:54 +0000",
       "summary": "În multe aplicații, curelele clasice își fac treaba foarte bine și rămân o alegere corectă.... Articolul Curele dințate și Poly-V: când merită upgrade-ul față de curelele clasice apare prima dată în TOP 15 ."
-    },
-    {
-      "title": "De ce asistenții vocali devin mai inteligenți",
-      "link": "https://top15.ro/de-ce-asistentii-vocali-devin-mai-inteligenti/",
-      "date": "Sun, 22 Mar 2026 19:34:00 +0000",
-      "summary": "O evoluție dictată de nevoile utilizatorilor Asistenții vocali au pornit ca instrumente simple, capabile să... Articolul De ce asistenții vocali devin mai inteligenți apare prima dată în TOP 15 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@top/116595045640175066",
+      "date": "Mon, 18 May 2026 10:13:27 +0000",
+      "content": "📰Reducerea cofeinei a devenit una dintre cele mai discutate schimbări de stil de viață. Tot mai mulți adulți caută alternative care să livreze energie fără efectele secundare ale cafelei. Vestea bună: există înlocuitori reali, susținuți de cercetare, care oferă gust, arome complexe și beneficii pentru sănătate.Acest ghid prezintă cei mai relevanți înlocuitori și criteriile pe… 📰 https:// top15.ro/inlocuitori-sanatosi- pentru-cafea-ghidul-complet-pentru-reducerea-cofeinei/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@top/116527558710763602",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@top/116278108291747514",
       "date": "Mon, 23 Mar 2026 10:52:07 +0000",
       "content": "📰În multe aplicații, curelele clasice își fac treaba foarte bine și rămân o alegere corectă. Totuși, există situații în care randamentul, precizia și spațiul disponibil devin mai importante decât simpla înlocuire a unei piese uzate cu una similară. Exact aici intră în discuție soluțiile moderne de transmisie, iar cele mai frecvent comparate variante sunt curelele… 📰 https:// top15.ro/curele-dintate-si-pol y-v-cand-merita-upgrade-ul-fata-de-curelele-clasice/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@top/116274506403965856",
-      "date": "Sun, 22 Mar 2026 19:36:06 +0000",
-      "content": "📰O evoluție dictată de nevoile utilizatorilorAsistenții vocali au pornit ca instrumente simple, capabile să execute comenzi de bază. Astăzi, însă, evoluția lor este determinată de cerințele tot mai complexe ale utilizatorilor. Oamenii nu mai vor doar să pornească un dispozitiv sau să seteze o alarmă, ci să interacționeze natural cu tehnologia, fără pași complicați.Această schimbare… 📰 https:// top15.ro/de-ce-asistentii-voca li-devin-mai-inteligenti/"
     }
   ]
 }
