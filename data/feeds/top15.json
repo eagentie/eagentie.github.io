@@ -4,8 +4,14 @@
   "site_feed": "https://top15.ro/feed/",
   "mastodon": "https://social.5th.ro/@top",
   "mastodon_rss": "https://social.5th.ro/@top.rss",
-  "updated_at": "2026-05-18T16:34:16Z",
+  "updated_at": "2026-05-18T19:03:05Z",
   "site_posts": [
+    {
+      "title": "Cum să alegi un apartament premium în București: zonele care îți oferă siguranță și confort",
+      "link": "https://top15.ro/cum-sa-alegi-un-apartament-premium-in-bucuresti-zonele-care-iti-ofera-siguranta-si-confort/",
+      "date": "Mon, 18 May 2026 18:00:00 +0000",
+      "summary": "Cum să alegi un apartament premium în București: zonele care îți oferă siguranță și confort... Articolul Cum să alegi un apartament premium în București: zonele care îți oferă siguranță și confort apare prima dată în TOP 15 ."
+    },
     {
       "title": "Înlocuitori sănătoși pentru cafea: ghidul complet pentru reducerea cofeinei",
       "link": "https://top15.ro/inlocuitori-sanatosi-pentru-cafea-ghidul-complet-pentru-reducerea-cofeinei/",
@@ -71,15 +77,15 @@
       "link": "https://top15.ro/cum-va-evolua-ecosistemul-galaxy-in-urmatorii-ani/",
       "date": "Thu, 26 Mar 2026 08:10:00 +0000",
       "summary": "Un sistem care devine tot mai inteligent Ecosistemele digitale au trecut de la simple conexiuni... Articolul Cum va evolua ecosistemul Galaxy în următorii ani apare prima dată în TOP 15 ."
-    },
-    {
-      "title": "Curele dințate și Poly-V: când merită upgrade-ul față de curelele clasice",
-      "link": "https://top15.ro/curele-dintate-si-poly-v-cand-merita-upgrade-ul-fata-de-curelele-clasice/",
-      "date": "Mon, 23 Mar 2026 10:51:54 +0000",
-      "summary": "În multe aplicații, curelele clasice își fac treaba foarte bine și rămân o alegere corectă.... Articolul Curele dințate și Poly-V: când merită upgrade-ul față de curelele clasice apare prima dată în TOP 15 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@top/116596885170091757",
+      "date": "Mon, 18 May 2026 18:01:16 +0000",
+      "content": "📰Cum să alegi un apartament premium în București: zonele care îți oferă siguranță și confortAchiziția unei locuințe în București a devenit în ultimii ani o decizie strategică, mai ales în contextul dezvoltării accelerate a pieței imobiliare. Fie că îți dorești un spațiu pentru locuit sau o investiție sigură, alegerea zonei potrivite este esențială. Platformele moderne… 📰 https:// top15.ro/cum-sa-alegi-un-apart ament-premium-in-bucuresti-zonele-care-iti-ofera-siguranta-si-confort/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@top/116595045640175066",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@top/116317380699031670",
       "date": "Mon, 30 Mar 2026 09:19:36 +0000",
       "content": "📰Căutarea unei case noi este un proces care îmbină analiza tehnică riguroasă cu instinctul personal. În agitația imobiliară din Capitală, poți vizita zeci de proprietăți fără să simți că vreuna ți se potrivește cu adevărat. Totuși, există un moment în care toate piesele puzzle-ului se așază la locul lor. Identificarea acestor semne te ajută să… 📰 https:// top15.ro/top-15-semne-care-iti -spun-ca-ai-gasit-locuinta-perfecta-in-bucuresti/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@top/116278108291747514",
-      "date": "Mon, 23 Mar 2026 10:52:07 +0000",
-      "content": "📰În multe aplicații, curelele clasice își fac treaba foarte bine și rămân o alegere corectă. Totuși, există situații în care randamentul, precizia și spațiul disponibil devin mai importante decât simpla înlocuire a unei piese uzate cu una similară. Exact aici intră în discuție soluțiile moderne de transmisie, iar cele mai frecvent comparate variante sunt curelele… 📰 https:// top15.ro/curele-dintate-si-pol y-v-cand-merita-upgrade-ul-fata-de-curelele-clasice/"
     }
   ]
 }
