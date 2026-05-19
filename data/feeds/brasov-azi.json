@@ -4,8 +4,14 @@
   "site_feed": "https://brasov-azi.ro/feed/",
   "mastodon": "https://social.5th.ro/@brasov",
   "mastodon_rss": "https://social.5th.ro/@brasov.rss",
-  "updated_at": "2026-05-19T04:33:00Z",
+  "updated_at": "2026-05-19T08:38:04Z",
   "site_posts": [
+    {
+      "title": "Curele trapezoidale: tipuri, utilizări și cum alegi corect pentru utilaje și aplicații industriale",
+      "link": "https://brasov-azi.ro/curele-trapezoidale-tipuri-utilizari-si-cum-alegi-corect-pentru-utilaje-si-aplicatii-industriale/",
+      "date": "Sat, 16 May 2026 05:43:06 +0000",
+      "summary": "Curelele trapezoidale sunt unele dintre cele mai folosite componente în sistemele de transmisie mecanică. Le întâlnim în utilaje agricole, echipamente de grădinărit, compresoare, ventilatoare, pompe, mașini industriale și multe alte aplicații unde mișcarea trebuie transmisă eficient de la un arbore... Articolul Curele trapezoidale: tipuri, utilizări și cum alegi corect pentru utilaje și aplicații industriale apare prima dată în Brasov AZI ."
+    },
     {
       "title": "Cum alegi corect o firmă de producție publicitară în București pentru un proiect fără întârzieri",
       "link": "https://brasov-azi.ro/cum-alegi-corect-o-firma-de-productie-publicitara-in-bucuresti-pentru-un-proiect-fara-intarzieri/",
@@ -71,15 +77,15 @@
       "link": "https://brasov-azi.ro/cetatea-rasnov-2026-ce-e-deschis-cum-urci-si-ce-merita-vazut-update-practic/",
       "date": "Sat, 31 Jan 2026 08:02:47 +0000",
       "summary": "Fortificația medievală Râșnov, care a rezistat invaziei tătare, oferă azi acces parțial (curtea exterioară) și panorame spectaculoase. Articolul Cetatea Râșnov 2026: ce e deschis, cum urci și ce merită văzut (update practic) apare prima dată în Brasov AZI ."
-    },
-    {
-      "title": "Zoo Brașov 2026: program, tarife și traseu recomandat pentru o zi lejeră",
-      "link": "https://brasov-azi.ro/zoo-brasov-2026-program-tarife-si-traseu-recomandat-pentru-o-zi-lejera/",
-      "date": "Sat, 31 Jan 2026 07:54:56 +0000",
-      "summary": "Grădina Zoologică Brașov găzduiește peste 350 de exemplare de faună rară pe 10 hectare, completate de un Planetariu educativ și zone de relaxare. Articolul Zoo Brașov 2026: program, tarife și traseu recomandat pentru o zi lejeră apare prima dată în Brasov AZI ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@brasov/116599656751961414",
+      "date": "Tue, 19 May 2026 05:46:07 +0000",
+      "content": "Curelele trapezoidale sunt unele dintre cele mai folosite componente în sistemele de transmisie mecanică. Le întâlnim în utilaje agricole, echipamente de grădinărit, compresoare, ventilatoare, pompe, mașini industriale și multe alte aplicații unde mișcarea trebuie transmisă eficient de la un arbore la altul. Chiar dacă par piese simple, alegerea corectă a unei curele poate https:// brasov-azi.ro/curele-trapezoid ale-tipuri-utilizari-si-cum-alegi-corect-pentru-utilaje-si-aplicatii-industriale/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@brasov/116367521818389710",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@brasov/115989147001597328",
       "date": "Sat, 31 Jan 2026 10:05:27 +0000",
       "content": "Fortificația medievală Râșnov, care a rezistat invaziei tătare, oferă azi acces parțial (curtea exterioară) și panorame spectaculoase. https:// brasov-azi.ro/cetatea-rasnov-2 026-ce-e-deschis-cum-urci-si-ce-merita-vazut-update-practic/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@brasov/115989127928822783",
-      "date": "Sat, 31 Jan 2026 10:00:36 +0000",
-      "content": "Grădina Zoologică Brașov găzduiește peste 350 de exemplare de faună rară pe 10 hectare, completate de un Planetariu educativ și zone de relaxare. https:// brasov-azi.ro/zoo-brasov-2026- program-tarife-si-traseu-recomandat-pentru-o-zi-lejera/"
     }
   ]
 }
