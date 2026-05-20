@@ -4,8 +4,14 @@
   "site_feed": "https://doctor360.ro/feed/",
   "mastodon": "https://social.5th.ro/@doctor360",
   "mastodon_rss": "https://social.5th.ro/@doctor360.rss",
-  "updated_at": "2026-05-20T15:55:25Z",
+  "updated_at": "2026-05-20T18:32:02Z",
   "site_posts": [
+    {
+      "title": "Claritate medicală: Cum funcționează testarea genetică și cine are nevoie de ea?",
+      "link": "https://doctor360.ro/claritate-medicala-cum-functioneaza-testarea-genetica-si-cine-are-nevoie-de-ea/",
+      "date": "Wed, 20 May 2026 18:29:53 +0000",
+      "summary": "Testarea genetică oferă informații importante pentru pacienții aflați în diferite etape ale vieții sau ale bolii. Recomandările pentru testele genetice depind de contextul individual al pacientului, de istoricul medical personal, de cel familial și de planurile de sănătate. Întrucât presupune un proces complex, de care nu e nevoie întotdeauna, e esențial să înțelegem de la [&#8230;] Articolul Claritate medicală: Cum funcționează testarea genetică și cine are nevoie de ea? apare prima dată în Doctor 360 ."
+    },
     {
       "title": "Operație varice București: când devine necesar tratamentul chirurgical",
       "link": "https://doctor360.ro/operatie-varice-bucuresti-cand-devine-necesar-tratamentul-chirurgical/",
@@ -71,15 +77,15 @@
       "link": "https://doctor360.ro/cum-joaca-profesionistii-din-pozitie-la-masa-de-poker/",
       "date": "Sat, 15 Nov 2025 10:03:28 +0000",
       "summary": "V-ați simțit vreodată frustrat că pierdeți poturi mari, deși ați avut o mână decentă? Mulți jucători amatori se concentrează exclusiv pe cărțile pe care le primesc. Totuși, secretul marilor câștigători nu stă doar în noroc, ci în modul în care aceștia gestionează avantajul strategic. Acesta este momentul în care intră în joc conceptul fundamental de [&#8230;] Articolul Cum joacă profesioniștii din poziție la masa de poker apare prima dată în Doctor 360 ."
-    },
-    {
-      "title": "Cum citești tabelul de plăți la păcănele și ce înseamnă RTP",
-      "link": "https://doctor360.ro/cum-citesti-tabelul-de-plati-la-pacanele-si-ce-inseamna-rtp/",
-      "date": "Fri, 14 Nov 2025 09:07:58 +0000",
-      "summary": "Vrei să înțelegi de ce unele rotiri par să ofere mai mult decât altele? Mulți jucători apasă pur și simplu butonul de Spin, lăsând totul la mâna norocului. Dar jucătorii informați știu că succesul la păcănele online depinde și de înțelegerea mecanismelor interne. E momentul să trecem dincolo de simpla speranță. Află cum să descifrezi [&#8230;] Articolul Cum citești tabelul de plăți la păcănele și ce înseamnă RTP apare prima dată în Doctor 360 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@doctor360/116608322398753862",
+      "date": "Wed, 20 May 2026 18:29:54 +0000",
+      "content": "💡Testarea genetică oferă informații importante pentru pacienții aflați în diferite etape ale vieții sau ale bolii. Recomandările pentru testele genetice depind de contextul individual al pacientului, de istoricul medical personal, de cel familial și de planurile de sănătate. Întrucât presupune un proces complex, de care nu e nevoie întotdeauna, e esențial să înțelegem de la… 💡 https:// doctor360.ro/claritate-medical a-cum-functioneaza-testarea-genetica-si-cine-are-nevoie-de-ea/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@doctor360/116549647903688110",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@doctor360/115694570644402226",
       "date": "Wed, 10 Dec 2025 09:30:49 +0000",
       "content": "💡V-ați simțit vreodată frustrat că pierdeți poturi mari, deși ați avut o mână decentă? Mulți jucători amatori se concentrează exclusiv pe cărțile pe care le primesc. Totuși, secretul marilor câștigători nu stă doar în noroc, ci în modul în care aceștia gestionează avantajul strategic. Acesta este momentul în care intră în joc conceptul fundamental de… 💡 https:// doctor360.ro/cum-joaca-profesi onistii-din-pozitie-la-masa-de-poker/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@doctor360/115694558683529077",
-      "date": "Wed, 10 Dec 2025 09:27:46 +0000",
-      "content": "💡Vrei să înțelegi de ce unele rotiri par să ofere mai mult decât altele? Mulți jucători apasă pur și simplu butonul de Spin, lăsând totul la mâna norocului. Dar jucătorii informați știu că succesul la păcănele online depinde și de înțelegerea mecanismelor interne. E momentul să trecem dincolo de simpla speranță. Află cum să descifrezi… 💡 https:// doctor360.ro/cum-citesti-tabel ul-de-plati-la-pacanele-si-ce-inseamna-rtp/"
     }
   ]
 }
