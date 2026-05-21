@@ -4,8 +4,14 @@
   "site_feed": "https://iEnergie.ro/feed/",
   "mastodon": "https://social.5th.ro/@ienergie",
   "mastodon_rss": "https://social.5th.ro/@ienergie.rss",
-  "updated_at": "2026-05-21T13:32:36Z",
+  "updated_at": "2026-05-21T16:49:35Z",
   "site_posts": [
+    {
+      "title": "Componentele esențiale ale utilajelor folosite în construcția drumurilor",
+      "link": "https://ienergie.ro/componentele-esentiale-ale-utilajelor-folosite-in-constructia-drumurilor/",
+      "date": "Thu, 21 May 2026 15:56:33 +0000",
+      "summary": "Drumurile care rezistă ani buni nu se fac din asfalt turnat la întâmplare și două utilaje scoase pe șantier la prima oră. În spatele fiecărui [Mai mult...] Articolul Componentele esențiale ale utilajelor folosite în construcția drumurilor apare prima dată în iEnergie ."
+    },
     {
       "title": "Ce consum are un aer condiționat: tot ce trebuie să știi pentru a economisi energie și bani",
       "link": "https://ienergie.ro/ce-consum-are-un-aer-conditionat-tot-ce-trebuie-sa-stii-pentru-a-economisi-energie-si-bani/",
@@ -71,15 +77,15 @@
       "link": "https://ienergie.ro/bogdan-ivan-capacitatea-de-interventie-este-asigurata-pentru-aversele-majore-prognozate-in-mare-parte-a-tarii-la-sfarsitul-saptamanii/",
       "date": "Tue, 20 Jan 2026 08:09:11 +0000",
       "summary": "Deși majoritatea avariilor cauzate de condițiile meteorologice extreme au fost remediate, un număr de aproximativ 11.250 de locuințe din județele Alba, Maramureș, Sălaj, Prahova și [Mai mult...] Articolul Bogdan Ivan: Capacitatea de intervenție este asigurată pentru aversele majore prognozate în mare parte a ţării la sfârșitul săptămânii apare prima dată în iEnergie ."
-    },
-    {
-      "title": "CESE preia strategic propunerile ORSE de combatere a sărăciei energetice, printr-un aviz cheie lansat înaintea Pachetului Energie pentru Cetățeni",
-      "link": "https://ienergie.ro/cese-preia-strategic-propunerile-orse-de-combatere-a-saraciei-energetice-printr-un-aviz-cheie-lansat-inaintea-pachetului-energie-pentru-cetateni/",
-      "date": "Tue, 20 Jan 2026 08:05:17 +0000",
-      "summary": "Măsurile urgente pentru combaterea sărăciei energetice, elaborate de Observatorul Român al Sărăciei Energetice (ORSE), au fost integrate într-un aviz strategic adoptat de Comitetul Economic și [Mai mult...] Articolul CESE preia strategic propunerile ORSE de combatere a sărăciei energetice, printr-un aviz cheie lansat înaintea Pachetului Energie pentru Cetățeni apare prima dată în iEnergie ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@ienergie/116613381853319003",
+      "date": "Thu, 21 May 2026 15:56:35 +0000",
+      "content": "Drumurile care rezistă ani buni nu se fac din asfalt turnat la întâmplare și două utilaje scoase pe șantier la prima oră. În spatele fiecărui kilometru stau sisteme hidraulice, componente de precizie și utilaje care trag serios la muncă zi de zi. Dacă lucrezi în domeniu sau cauți piese pentru echipamente grele, merită să știi… https:// ienergie.ro/componentele-esent iale-ale-utilajelor-folosite-in-constructia-drumurilor/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@ienergie/116595033584561910",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@ienergie/115926404500478824",
       "date": "Tue, 20 Jan 2026 08:09:13 +0000",
       "content": "Deși majoritatea avariilor cauzate de condițiile meteorologice extreme au fost remediate, un număr de aproximativ 11.250 de locuințe din județele Alba, Maramureș, Sălaj, Prahova și Cluj rămân nealimentate cu energie electrică. Ministrul Energiei, Bogdan Ivan, a transmis, la încheierea ședinței Comandamentului Energetic Național, că echipele https:// ienergie.ro/bogdan-ivan-capaci tatea-de-interventie-este-asigurata-pentru-aversele-majore-prognozate-in-mare-parte-a-tarii-la-sfarsitul-saptamanii/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@ienergie/115926389210016799",
-      "date": "Tue, 20 Jan 2026 08:05:19 +0000",
-      "content": "Măsurile urgente pentru combaterea sărăciei energetice, elaborate de Observatorul Român al Sărăciei Energetice (ORSE), au fost integrate într-un aviz strategic adoptat de Comitetul Economic și Social European (CESE). Acest document a fost solicitat de Comisia Europeană în contextul pregătirii Pachetului Energie pentru Cetățeni, ce https:// ienergie.ro/cese-preia-strateg ic-propunerile-orse-de-combatere-a-saraciei-energetice-printr-un-aviz-cheie-lansat-inaintea-pachetului-energie-pentru-cetateni/"
     }
   ]
 }

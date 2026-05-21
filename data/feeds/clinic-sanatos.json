@@ -4,8 +4,14 @@
   "site_feed": "https://clinic-sanatos.ro/feed/",
   "mastodon": "https://social.5th.ro/@clinic_sanatos",
   "mastodon_rss": "https://social.5th.ro/@clinic_sanatos.rss",
-  "updated_at": "2026-05-21T13:32:20Z",
+  "updated_at": "2026-05-21T16:49:18Z",
   "site_posts": [
+    {
+      "title": "Infecții urinare repetate: Legătura dintre leucocitele crescute și sănătatea aparatului renal",
+      "link": "https://clinic-sanatos.ro/infectii-urinare-repetate-legatura-dintre-leucocitele-crescute-si-sanatatea-aparatului-renal/",
+      "date": "Thu, 21 May 2026 15:52:17 +0000",
+      "summary": "În momentul în care analizele de sânge indică valori peste limitele normale pentru leucocite, organismul... Articolul Infecții urinare repetate: Legătura dintre leucocitele crescute și sănătatea aparatului renal apare prima dată în Clinic Sanatos ."
+    },
     {
       "title": "Chirurgia minim invazivă în cancerul de colon: ce opțiuni există",
       "link": "https://clinic-sanatos.ro/chirurgia-minim-invaziva-in-cancerul-de-colon-ce-optiuni-exista/",
@@ -71,15 +77,15 @@
       "link": "https://clinic-sanatos.ro/articole-seo-evergreen-in-2025-subiecte-care-nu-se-demodeaza/",
       "date": "Mon, 01 Dec 2025 06:51:37 +0000",
       "summary": "V-ați săturat să scrieți articole care își pierd relevanța după doar câteva săptămâni? Aceasta este... Articolul Articole SEO evergreen în 2025: subiecte care nu se demodează apare prima dată în Clinic Sanatos ."
-    },
-    {
-      "title": "Importanța vitaminelor și mineralelor în timpul unei diete de slăbire",
-      "link": "https://clinic-sanatos.ro/importanta-vitaminelor-si-mineralelor-in-timpul-unei-diete-de-slabire/",
-      "date": "Sun, 30 Nov 2025 11:56:38 +0000",
-      "summary": "Adoptarea unei diete de slăbire implică nu doar reducerea aportului caloric, ci și menținerea unei... Articolul Importanța vitaminelor și mineralelor în timpul unei diete de slăbire apare prima dată în Clinic Sanatos ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@clinic_sanatos/116613365101552852",
+      "date": "Thu, 21 May 2026 15:52:19 +0000",
+      "content": "În momentul în care analizele de sânge indică valori peste limitele normale pentru leucocite, organismul nostru transmite un mesaj clar: lupta împotriva infecției a devenit prioritară pentru întreg sistemul imunitar, nu se mai desfășoară doar la nivelul vezicii și sistemului urinar. Pacienții cu infecții urinare repetate vor avea nevoie în permanență de monitorizarea .... https:// clinic-sanatos.ro/infectii-uri nare-repetate-legatura-dintre-leucocitele-crescute-si-sanatatea-aparatului-renal/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@clinic_sanatos/116549658603454965",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@clinic_sanatos/115694665049807446",
       "date": "Wed, 10 Dec 2025 09:54:49 +0000",
       "content": "Adoptarea unei diete de slăbire implică nu doar reducerea aportului caloric, ci și menținerea unei nutriții echilibrate. Atunci când aportul de alimente scade, crește riscul apariției deficiențelor de vitamine și minerale esențiale. Aceste carențe pot afecta nivelul de energie, buna funcționare a metabolismului și starea generală de sănătate. De aceea, suplimentarea adecvată devine un sprijin… .... https:// clinic-sanatos.ro/importanta-v itaminelor-si-mineralelor-in-timpul-unei-diete-de-slabire/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@clinic_sanatos/115694658464618416",
-      "date": "Wed, 10 Dec 2025 09:53:09 +0000",
-      "content": "Pasiunile noastre ne pot aduce bucurie și adrenalină. Totuși, dacă vă bucurați de emoția oferită de pariuri, știți cât de ușor se poate pierde limita dintre divertisment și problemă. Menținerea unor pariuri responsabile nu este doar o recomandare de marketing. Este o necesitate absolută pentru bunăstarea dumneavoastră financiară și emoțională. Foarte puțini oameni recunosc instantaneu… .... https:// clinic-sanatos.ro/pariuri-resp onsabile-semne-ca-e-timpul-sa-te-opresti-sau-sa-reduci-miza/"
     }
   ]
 }
