@@ -4,8 +4,14 @@
   "site_feed": "https://recent-news.ro/feed/",
   "mastodon": "https://social.5th.ro/@recent_news",
   "mastodon_rss": "https://social.5th.ro/@recent_news.rss",
-  "updated_at": "2026-05-22T15:20:49Z",
+  "updated_at": "2026-05-22T18:03:09Z",
   "site_posts": [
+    {
+      "title": "Ce înseamnă cafea de specialitate și cum alegi una bună",
+      "link": "https://recent-news.ro/ce-inseamna-cafea-de-specialitate-si-cum-alegi-una-buna/",
+      "date": "Fri, 22 May 2026 15:40:57 +0000",
+      "summary": "Dacă ai început să fii atent/ă la ce cafea bei, sigur ai auzit deja termenul „cafea de specialitate”. Dar ce înseamnă,&#8230; Articolul Ce înseamnă cafea de specialitate și cum alegi una bună apare prima dată în Recent News ."
+    },
     {
       "title": "Rapsodia Cake – deserturi premium pentru nunți, botezuri, evenimente corporate și aniversări",
       "link": "https://recent-news.ro/rapsodia-cake-deserturi-premium-pentru-nunti-botezuri-evenimente-corporate-si-aniversari/",
@@ -59,15 +65,15 @@
       "link": "https://recent-news.ro/unde-gasesti-suport-pentru-vehicule-de-lux/",
       "date": "Fri, 13 Feb 2026 08:29:16 +0000",
       "summary": "Deținerea unui vehicul de lux nu reprezintă doar o confirmare a succesului personal, ci și o responsabilitate majoră în ceea&#8230; Articolul Unde găsești suport pentru vehicule de lux apare prima dată în Recent News ."
-    },
-    {
-      "title": "Se schimba anotimpul? Iata ce lenjerii de pat sa alegi",
-      "link": "https://recent-news.ro/se-schimba-anotimpul-iata-ce-lenjerii-de-pat-sa-alegi/",
-      "date": "Mon, 09 Feb 2026 09:47:28 +0000",
-      "summary": "Trecerea de la un anotimp la altul nu inseamna doar sa schimbi hainele din dulap sau sa reglezi centrala. Si&#8230; Articolul Se schimba anotimpul? Iata ce lenjerii de pat sa alegi apare prima dată în Recent News ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@recent_news/116618982819877211",
+      "date": "Fri, 22 May 2026 15:40:59 +0000",
+      "content": "Dacă ai început să fii atent/ă la ce cafea bei, sigur ai auzit deja termenul „cafea de specialitate”. Dar ce înseamnă, de fapt cafea de specialitate? Și mai important: cum știi că alegi una bună? Noi lucrăm zilnic cu cafea, alegem boabe din locuri cunoscute pentru calitatea lor, le prăjim, le preparăm și le servim în… https:// recent-news.ro/ce-inseamna-caf ea-de-specialitate-si-cum-alegi-una-buna/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@recent_news/116565908154311029",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@recent_news/115999997068801998",
       "date": "Mon, 02 Feb 2026 08:04:46 +0000",
       "content": "Mai e mult pana in 2027? De ce „acum” este momentul perfect sa alegi gradinita potrivita pentru copilul tauStim ce gandesti: abia am pasit in noul an, iar 2027 pare o cifra dintr-un viitor indepartat. Insa, pentru un parinte, timpul are un mod bizar de a se comprima. Intre primii pasi si prima zi de… https:// recent-news.ro/mai-e-mult-pana -in-2027-de-ce-acum-este-momentul-perfect-sa-alegi-gradinita-potrivita-pentru-copilul-tau/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@recent_news/115736500833832004",
-      "date": "Wed, 17 Dec 2025 19:14:13 +0000",
-      "content": "Sunteți obosit de algoritmii care decid ce merită să vedeți? Vă simțiți urmărit la fiecare click și manipulat de știri irelevante? Nu sunteți singur. Milioane de utilizatori caută acum o alternativă reală la platformele sociale tradiționale, centralizate. Această căutare a dus la o creștere spectaculoasă a rețelelor descentralizate. Dintre acestea, Mastodon se distinge ca fiind… https:// recent-news.ro/ghid-cum-iti-fa ci-cont-pe-mastodon-romania-pas-cu-pas/"
     }
   ]
 }
