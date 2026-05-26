@@ -4,13 +4,19 @@
   "site_feed": "https://topcomunicate.ro/feed/",
   "mastodon": "https://social.5th.ro/@topcomunicate_ro",
   "mastodon_rss": "https://social.5th.ro/@topcomunicate_ro.rss",
-  "updated_at": "2026-05-26T08:42:14Z",
+  "updated_at": "2026-05-26T16:51:59Z",
   "site_posts": [
     {
       "title": "Poezia mișcărilor repetitive în căutarea prădătorilor ascunși sub covoarele de nuferi",
       "link": "https://topcomunicate.ro/poezia-miscarilor-repetitive-in-cautarea-pradatorilor-ascunsi-sub-covoarele-de-nuferi/",
       "date": "Tue, 26 May 2026 06:51:36 +0000",
       "summary": "Lumina blândă a dimineții se cerne printre sălciile bătrâne, transformând aburul ce se ridică din baltă într-o... The post Poezia mișcărilor repetitive în căutarea prădătorilor ascunși sub covoarele de nuferi appeared first on Comunicate de presa ."
+    },
+    {
+      "title": "ARDAR – Asociația care promovează transparența în vânzarea mașinilor rulate. Ce trebuie să știi despre ea?",
+      "link": "https://topcomunicate.ro/ardar-asociatia-care-promoveaza-transparenta-in-vanzarea-masinilor-rulate-ce-trebuie-sa-stii-despre-ea/",
+      "date": "Wed, 20 May 2026 13:31:00 +0000",
+      "summary": "Piața mașinilor rulate din România a crescut mult, iar cumpărătorii au devenit mai atenți la fiecare detaliu.... The post ARDAR – Asociația care promovează transparența în vânzarea mașinilor rulate. Ce trebuie să știi despre ea? appeared first on Comunicate de presa ."
     },
     {
       "title": "Motion Clinic, clinică nouă de recuperare medicală – Snagov Plaza",
@@ -71,15 +77,15 @@
       "link": "https://topcomunicate.ro/de-ce-apa-calda-schimba-complet-experienta-intr-o-rulota/",
       "date": "Thu, 05 Mar 2026 12:18:11 +0000",
       "summary": "Cei care călătoresc frecvent cu rulota sau autorulota spun adesea că libertatea este principalul motiv pentru care... The post De ce apa caldă schimbă complet experiența într-o rulotă appeared first on Comunicate de presa ."
-    },
-    {
-      "title": "Contor electric trifazat: când „trifazicul” devine subiect de factură, nu de jargon",
-      "link": "https://topcomunicate.ro/contor-electric-trifazat-cand-trifazicul-devine-subiect-de-factura-nu-de-jargon/",
-      "date": "Tue, 24 Feb 2026 11:17:54 +0000",
-      "summary": "De ce revine în prim-plan contorul trifazat În&#160;România, „trifazicul” nu mai este o discuție rezervată fabricilor. Îl... The post Contor electric trifazat: când „trifazicul” devine subiect de factură, nu de jargon appeared first on Comunicate de presa ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@topcomunicate_ro/116640623871837637",
+      "date": "Tue, 26 May 2026 11:24:35 +0000",
+      "content": "⭐ Piața mașinilor rulate din România a crescut mult, iar cumpărătorii au devenit mai atenți la fiecare detaliu. Prețul contează, marca atrage, dotările pot convinge, dar decizia finală depinde tot mai des de încrederea în dealerul care vinde mașina. O ofertă bună trebuie susținută de acte, explicații, istoric și o relație comercială asumată.ARDAR apare 🔗 Detalii aici: https:// topcomunicate.ro/ardar-asociat ia-care-promoveaza-transparenta-in-vanzarea-masinilor-rulate-ce-trebuie-sa-stii-despre-ea/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@topcomunicate_ro/116639550505869495",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@topcomunicate_ro/116137855376299931",
       "date": "Thu, 26 Feb 2026 16:23:57 +0000",
       "content": "⭐ Drumul spre Thassos, insula de smarald a Greciei, îți scoate în cale o dilemă pe care mulți turiști o au înainte să ajungă la malul mării Egee. Te oprești în Keramoti sau alegi portul mai mare din Kavala? Ambele variante au particularități care îți pot influența starea de spirit încă de la începutul concediului. Alegerea… 🔗 Mai mult: https:// topcomunicate.ro/feribot-catre -thassos-keramoti-sau-kavala-avantaje-si-dezavantaje/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@topcomunicate_ro/116130772304284491",
-      "date": "Wed, 25 Feb 2026 10:22:38 +0000",
-      "content": "⭐ Iluminatul a depășit demult stadiul de simplă necesitate funcțională. În designul interior modern, corpurile de iluminat au devenit piese centrale care dictează atmosfera întregii încăperi. Dintre toate inovațiile recente, structurile geometrice modulare au câștigat o popularitate imensă. Acestea transformă un tavan banal într-o operă de artă tehnologică, oferind în același timp o 🔗 Detalii aici: https:// topcomunicate.ro/sistemul-modu lar-hexagon-led-ce-este-si-unde-se-potriveste-cel-mai-bine/"
     }
   ]
 }
