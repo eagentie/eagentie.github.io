@@ -4,8 +4,14 @@
   "site_feed": "https://top15.ro/feed/",
   "mastodon": "https://social.5th.ro/@top",
   "mastodon_rss": "https://social.5th.ro/@top.rss",
-  "updated_at": "2026-05-27T04:49:27Z",
+  "updated_at": "2026-05-27T08:49:41Z",
   "site_posts": [
+    {
+      "title": "Ce căști aleg utilizatorii care lucrează mult?",
+      "link": "https://top15.ro/ce-casti-aleg-utilizatorii-care-lucreaza-mult/",
+      "date": "Tue, 26 May 2026 07:23:00 +0000",
+      "summary": "Introducere Utilizatorii care lucrează mult aleg căști wireless confortabile, stabile în apeluri și ușor de... Articolul Ce căști aleg utilizatorii care lucrează mult? apare prima dată în TOP 15 ."
+    },
     {
       "title": "Ce să alegi pentru sănătatea inimii: Omega-3 din ulei de pește sau din ulei de krill? TOP 7 suplimente apreciate pentru echilibru cardiovascular în 2026",
       "link": "https://top15.ro/ce-sa-alegi-pentru-sanatatea-inimii-omega-3-din-ulei-de-peste-sau-din-ulei-de-krill-top-7-suplimente-apreciate-pentru-echilibru-cardiovascular-in-2026/",
@@ -71,15 +77,15 @@
       "link": "https://top15.ro/externalizarea-serviciilor-it-devine-o-solutie-tot-mai-utilizata-de-companiile-din-romania/",
       "date": "Fri, 17 Apr 2026 15:12:08 +0000",
       "summary": "Tot mai multe companii din România aleg să externalizeze serviciile IT și de marketing online,... Articolul Externalizarea serviciilor IT devine o soluție tot mai utilizată de companiile din România apare prima dată în TOP 15 ."
-    },
-    {
-      "title": "Rolul luminii în solar: lumina difuză vs directă (Crystal Clear)",
-      "link": "https://top15.ro/rolul-luminii-in-solar-lumina-difuza-vs-directa-crystal-clear/",
-      "date": "Sun, 05 Apr 2026 15:38:41 +0000",
-      "summary": "Lumina din solar poate fi directă (Crystal Clear) sau difuză (EVA/LD). Folia Crystal Clear transmite... Articolul Rolul luminii în solar: lumina difuză vs directă (Crystal Clear) apare prima dată în TOP 15 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@top/116645343544099927",
+      "date": "Wed, 27 May 2026 07:24:52 +0000",
+      "content": "📰IntroducereUtilizatorii care lucrează mult aleg căști wireless confortabile, stabile în apeluri și ușor de folosit pe parcursul întregii zile. În 2026, o pereche potrivită trebuie să ajute la concentrare, comunicare clară și trecere rapidă între telefon, tabletă și conținut. Pentru cei care au multe întâlniri, lucrează remote sau alternează între birou și deplasări, căștile devin… 📰 https:// top15.ro/ce-casti-aleg-utiliza torii-care-lucreaza-mult/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@top/116601622392366350",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@top/116356517148671274",
       "date": "Mon, 06 Apr 2026 07:12:31 +0000",
       "content": "📰Lumina din solar poate fi directă (Crystal Clear) sau difuză (EVA/LD). Folia Crystal Clear transmite lumina într-un fascicul concentrat, maximizând energia luminoasă totală, în timp ce folia difuză împrăștie lumina pe întreaga suprafață a culturii. Lumina difuză reduce umbrele și arsurile pe frunze, beneficiind în special culturile înalte și dense, iar lumina directă susține fotosinteza… 📰 https:// top15.ro/rolul-luminii-in-sola r-lumina-difuza-vs-directa-crystal-clear/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@top/116324584755058464",
-      "date": "Tue, 31 Mar 2026 15:51:41 +0000",
-      "content": "📰Într-o epocă dominată de ecrane și lumină artificială, modul în care ne iluminăm spațiile în care trăim și muncim a devenit mai relevant ca niciodată. Departe de a fi un simplu accesoriu decorativ, veioza trăiește o renaștere silențioasă în casele românilor, iar motivele țin mai puțin de estetică și mai mult de sănătate, productivitate și… 📰 https:// top15.ro/lumina-care-schimba-o -camera-de-ce-veioza-a-redevenit-piesa-centrala-in-designul-interior/"
     }
   ]
 }

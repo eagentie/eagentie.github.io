@@ -4,8 +4,14 @@
   "site_feed": "https://iFemeie.ro/feed/",
   "mastodon": "https://social.5th.ro/@iFemeie",
   "mastodon_rss": "https://social.5th.ro/@iFemeie.rss",
-  "updated_at": "2026-05-27T04:49:12Z",
+  "updated_at": "2026-05-27T08:49:28Z",
   "site_posts": [
+    {
+      "title": "Cum alegi căști wireless pentru utilizare intensă?",
+      "link": "https://ifemeie.ro/cum-alegi-casti-wireless-pentru-utilizare-intensa/",
+      "date": "Sun, 24 May 2026 07:24:00 +0000",
+      "summary": "Introducere Alegi căști wireless pentru utilizare intensă atunci când ai nevoie de confort pe termen... Articolul Cum alegi căști wireless pentru utilizare intensă? apare prima dată în iFemeie ."
+    },
     {
       "title": "Te simți gol pe dinăuntru fără motiv? Un semnal pe care nu trebuie să-l ignori",
       "link": "https://ifemeie.ro/te-simti-gol-pe-dinauntru-fara-motiv-un-semnal-pe-care-nu-trebuie-sa-l-ignori/",
@@ -65,15 +71,15 @@
       "link": "https://ifemeie.ro/vacanta-romantica-in-creta-idei-pentru-un-sejur-in-doi/",
       "date": "Thu, 04 Dec 2025 16:07:00 +0000",
       "summary": "Creta este una dintre acele destinații care par g&#226;ndite special pentru escapade &#238;n doi. Are... Articolul Vacanță romantică în Creta – idei pentru un sejur în doi apare prima dată în iFemeie ."
-    },
-    {
-      "title": "Jucării bebe – Importanța pentru dezvoltare și recomandări pe vârste",
-      "link": "https://ifemeie.ro/jucarii-bebe-importanta-pentru-dezvoltare-si-recomandari-pe-varste/",
-      "date": "Mon, 01 Dec 2025 17:54:34 +0000",
-      "summary": "Un bebeluș fericit se joacă pe o jucărie de călărit, ilustr&#226;nd bucuria și beneficiile aduse... Articolul Jucării bebe – Importanța pentru dezvoltare și recomandări pe vârste apare prima dată în iFemeie ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@iFemeie/116645349100800532",
+      "date": "Wed, 27 May 2026 07:26:17 +0000",
+      "content": "IntroducereAlegi căști wireless pentru utilizare intensă atunci când ai nevoie de confort pe termen lung, apeluri clare, conectare stabilă și o experiență audio care rezistă unui program aglomerat. În 2026, utilizarea intensă înseamnă mai mult decât muzică. Înseamnă ședințe, apeluri, drumuri, conținut video, lucru pe tabletă și trecere rapidă între activități fără întreruperi inutile.De ce… https:// ifemeie.ro/cum-alegi-casti-wir eless-pentru-utilizare-intensa/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@iFemeie/116482767701475329",
@@ -139,12 +145,6 @@
       "link": "https://social.5th.ro/@iFemeie/115736380329205662",
       "date": "Wed, 17 Dec 2025 18:43:34 +0000",
       "content": "Creta este una dintre acele destinații care par gândite special pentru escapade în doi. Are tot ce trebuie: peisaje spectaculoase, plaje izolate, sate liniștite, restaurante cu apusuri perfecte și o atmosferă relaxată, fără agitație. Dacă vrei să planifici o vacanță în Creta care să rămână memorabilă, ai la dispoziție o mulțime de opțiuni. Important este… https:// ifemeie.ro/vacanta-romantica-i n-creta-idei-pentru-un-sejur-in-doi/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@iFemeie/115695287901823278",
-      "date": "Wed, 10 Dec 2025 12:33:13 +0000",
-      "content": "Electrocasnicele inteligente pot ajusta consumul de energie în funcție de modul în care sunt folosite. Aceste funcții se bazează pe analiză în timp real și pe automatizare.1. Ce înseamnă / Ce esteElectrocasnicele inteligente sunt dispozitive care folosesc senzori, algoritmi și tehnologii AI pentru a controla consumul în mod eficient. Ele fac parte dintr-un ecosistem conectat,… https:// ifemeie.ro/de-ce-electrocasnic ele-inteligente-reduc-consumul/"
     }
   ]
 }

@@ -4,8 +4,14 @@
   "site_feed": "https://UniversulTech.ro/feed/",
   "mastodon": "https://social.5th.ro/@UniversulTech",
   "mastodon_rss": "https://social.5th.ro/@UniversulTech.rss",
-  "updated_at": "2026-05-27T04:49:15Z",
+  "updated_at": "2026-05-27T08:49:31Z",
   "site_posts": [
+    {
+      "title": "Cum alegi căști pentru muncă și apeluri?",
+      "link": "https://universultech.ro/cum-alegi-casti-pentru-munca-si-apeluri/",
+      "date": "Wed, 27 May 2026 04:15:10 +0000",
+      "summary": "Introducere Alegi căști pentru muncă și apeluri după claritatea vocii, confortul la purtare, stabilitatea conexiunii și felul în care se&#8230; Articolul Cum alegi căști pentru muncă și apeluri? apare prima dată în Universul Tech ."
+    },
     {
       "title": "Te simți mereu obosit? Ce suplimente pentru energie pot ajuta în perioadele solicitante",
       "link": "https://universultech.ro/te-simti-mereu-obosit-ce-suplimente-pentru-energie-pot-ajuta-in-perioadele-solicitante/",
@@ -71,15 +77,15 @@
       "link": "https://universultech.ro/avantajele-utilizarii-unei-platforme-online-pentru-a-gasi-locuinta-potrivita/",
       "date": "Mon, 13 Apr 2026 09:38:00 +0000",
       "summary": "Avantajele utilizării unei platforme online pentru a găsi locuința potrivită Piața imobiliară a evoluat considerabil &#238;n ultimii ani, iar modul&#8230; Articolul Avantajele utilizării unei platforme online pentru a găsi locuința potrivită apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "Ghidul complet pentru integrarea acumulatorilor în sistemele fotovoltaice",
-      "link": "https://universultech.ro/ghidul-complet-pentru-integrarea-acumulatorilor-in-sistemele-fotovoltaice/",
-      "date": "Mon, 30 Mar 2026 17:05:46 +0000",
-      "summary": "Integrarea acumulatorilor în sistemele fotovoltaice nu mai este doar o tendință, ci o necesitate în lumea modernă, unde eficiența energetică&#8230; Articolul Ghidul complet pentru integrarea acumulatorilor în sistemele fotovoltaice apare prima dată în Universul Tech ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@UniversulTech/116645310334175712",
+      "date": "Wed, 27 May 2026 07:16:25 +0000",
+      "content": "💡IntroducereAlegi căști pentru muncă și apeluri după claritatea vocii, confortul la purtare, stabilitatea conexiunii și felul în care se integrează cu dispozitivele pe care le folosești zilnic. În 2026, cele mai bune căști wireless nu sunt doar pentru muzică. Ele trebuie să te ajute să participi la întâlniri, să vorbești clar, să te concentrezi și… ✅ https:// universultech.ro/cum-alegi-cas ti-pentru-munca-si-apeluri/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@UniversulTech/116639522094393378",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@UniversulTech/116319213994074549",
       "date": "Mon, 30 Mar 2026 17:05:50 +0000",
       "content": "💡Integrarea acumulatorilor în sistemele fotovoltaice nu mai este doar o tendință, ci o necesitate în lumea modernă, unde eficiența energetică și sustenabilitatea devin tot mai importante. Într-o eră în care sursele de energie regenerabilă câștigă teren, devine esențial să știi cum să optimizezi consumul și stocarea energiei solare. Acest ghid îți va oferi toate informațiile… ✅ https:// universultech.ro/ghidul-comple t-pentru-integrarea-acumulatorilor-in-sistemele-fotovoltaice/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@UniversulTech/116274511571101391",
-      "date": "Sun, 22 Mar 2026 19:37:25 +0000",
-      "content": "💡O combinație între tehnologie și experiențăPopularitatea televizoarelor nu mai este determinată doar de dimensiunea ecranului sau de rezoluție. Utilizatorii caută o experiență completă, care să includă imagine de calitate, funcții inteligente și integrare ușoară în viața de zi cu zi. În acest context, televizoarele Samsung au reușit să se impună la nivel global printr-o abordare… ✅ https:// universultech.ro/de-ce-televiz oarele-samsung-sunt-populare-la-nivel-global/"
     }
   ]
 }
