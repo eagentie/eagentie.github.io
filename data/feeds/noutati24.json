@@ -4,8 +4,14 @@
   "site_feed": "https://noutati24.ro/feed/",
   "mastodon": "https://social.5th.ro/@noutati24",
   "mastodon_rss": "https://social.5th.ro/@noutati24.rss",
-  "updated_at": "2026-05-27T19:33:12Z",
+  "updated_at": "2026-05-27T22:08:13Z",
   "site_posts": [
+    {
+      "title": "Întâlnirea premierului Ilie Bolojan cu marea gimnastă Nadia Comăneci",
+      "link": "https://noutati24.ro/intalnirea-premierului-ilie-bolojan-cu-marea-gimnasta-nadia-comaneci/",
+      "date": "Wed, 27 May 2026 18:52:00 +0000",
+      "summary": "Galerie foto [embedded content] COMUNICAT DE PRESĂ Premierul Ilie Bolojan: Mulțumesc Nadiei Comăneci pentru ceea ce a făcut pentru România! &#8230; Articolul Întâlnirea premierului Ilie Bolojan cu marea gimnastă Nadia Comăneci apare prima dată în Noutati 24 ."
+    },
     {
       "title": "Cum funcționează editarea inteligentă foto-video?",
       "link": "https://noutati24.ro/cum-functioneaza-editarea-inteligenta-foto-video/",
@@ -71,15 +77,15 @@
       "link": "https://noutati24.ro/echipament-protectie/",
       "date": "Fri, 06 Feb 2026 14:19:31 +0000",
       "summary": "Timp de decenii, lucrătorii din industrie au acceptat o regulă nescrisă: echipamentul care te protejează trebuie să fie greu și &#8230; Articolul Bocancii și echipamentele noi care elimină compromisul dintre siguranță și confort apare prima dată în Noutati 24 ."
-    },
-    {
-      "title": "Mai e mult pana in 2027? De ce „acum” este momentul perfect sa alegi gradinita potrivita pentru copilul tau",
-      "link": "https://noutati24.ro/mai-e-mult-pana-in-2027-de-ce-acum-este-momentul-perfect-sa-alegi-gradinita-potrivita-pentru-copilul-tau/",
-      "date": "Mon, 02 Feb 2026 05:59:33 +0000",
-      "summary": "Mai e mult pana in 2027? De ce „acum” este momentul perfect sa alegi gradinita potrivita pentru copilul tau Stim &#8230; Articolul Mai e mult pana in 2027? De ce „acum” este momentul perfect sa alegi gradinita potrivita pentru copilul tau apare prima dată în Noutati 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@noutati24/116648284914484681",
+      "date": "Wed, 27 May 2026 19:52:54 +0000",
+      "content": "🆕Galerie foto [embedded content] COMUNICAT DE PRESĂ Premierul Ilie Bolojan: Mulțumesc Nadiei Comăneci pentru ceea ce a făcut pentru România! Marea gimnastă a României, Nadia Comăneci, a revenit astăzi, la Palatul Victoria, pentru o întâlnire cu prim-ministrul Ilie Bolojan, cu vicepremierul Tánczos Barna și cu președintele Comitetului Olimpic și Sportiv Român, Mihai Covaliu. Întâlnirea a… 🌐 https:// noutati24.ro/intalnirea-premie rului-ilie-bolojan-cu-marea-gimnasta-nadia-comaneci/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@noutati24/116645365523157555",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@noutati24/116024120005292039",
       "date": "Fri, 06 Feb 2026 14:19:33 +0000",
       "content": "🆕Timp de decenii, lucrătorii din industrie au acceptat o regulă nescrisă: echipamentul care te protejează trebuie să fie greu și incomod. Bocancii rigizi provocau dureri după câteva ore, iar salopetele groase limitau mișcările în sezonul cald. Această eră s-a încheiat. Producătorii europeni au reinventat echipamentul individual de protecție folosind materiale și tehnologii care oferă simultan… 🌐 https:// noutati24.ro/echipament-protec tie/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@noutati24/116016837708091975",
-      "date": "Thu, 05 Feb 2026 07:27:34 +0000",
-      "content": "🆕Motorul cu ardere internă funcționează pe baza unui amestec precis de combustibil și aer. Pentru fiecare litru de benzină sau motorină ars, motorul consumă mii de litri de aer atmosferic. Calitatea acestui aer este critică pentru longevitatea componentelor interne. Într-un mediu ideal, steril, filtrele ar rezista zeci de mii de kilometri fără probleme. Totuși, realitatea… 🌐 https:// noutati24.ro/cat-de-des-trebui e-inlocuit-filtrul-de-aer-al-masinii-daca-locuiesti-intr-o-zona-cu-mult-praf/"
     }
   ]
 }
