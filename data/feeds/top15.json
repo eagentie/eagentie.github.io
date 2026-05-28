@@ -4,8 +4,14 @@
   "site_feed": "https://top15.ro/feed/",
   "mastodon": "https://social.5th.ro/@top",
   "mastodon_rss": "https://social.5th.ro/@top.rss",
-  "updated_at": "2026-05-28T08:54:18Z",
+  "updated_at": "2026-05-28T12:46:09Z",
   "site_posts": [
+    {
+      "title": "Ce înseamnă experiență unificată între dispozitive?",
+      "link": "https://top15.ro/ce-inseamna-experienta-unificata-intre-dispozitive/",
+      "date": "Wed, 27 May 2026 11:03:00 +0000",
+      "summary": "Experiență unificată între dispozitive înseamnă ca telefonul, tableta, căștile și aplicațiile tale să funcționeze împreună,... Articolul Ce înseamnă experiență unificată între dispozitive? apare prima dată în TOP 15 ."
+    },
     {
       "title": "Ce căști aleg utilizatorii care lucrează mult?",
       "link": "https://top15.ro/ce-casti-aleg-utilizatorii-care-lucreaza-mult/",
@@ -71,15 +77,15 @@
       "link": "https://top15.ro/zambeste-rapid-top-15-locatii-pentru-implant-dentar-in-bucuresti-si-reabilitari-orale-in-24-de-ore/",
       "date": "Sun, 26 Apr 2026 09:39:00 +0000",
       "summary": "Sănătatea orală ne afectează nu doar nutriția, ci și viața socială și încrederea în sine.... Articolul Zâmbește rapid: Top 15 locații pentru Implant Dentar în București și reabilitări orale în 24 de ore apare prima dată în TOP 15 ."
-    },
-    {
-      "title": "Ce monitor este bun pentru gaming?",
-      "link": "https://top15.ro/ce-monitor-este-bun-pentru-gaming/",
-      "date": "Fri, 24 Apr 2026 11:48:05 +0000",
-      "summary": "Un monitor bun pentru gaming este unul cu rată de refresh ridicată (144Hz sau mai... Articolul Ce monitor este bun pentru gaming? apare prima dată în TOP 15 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@top/116651871582077539",
+      "date": "Thu, 28 May 2026 11:05:02 +0000",
+      "content": "📰Experiență unificată între dispozitive înseamnă ca telefonul, tableta, căștile și aplicațiile tale să funcționeze împreună, fără pași complicați. În 2026, utilizatorii caută dispozitive care se conectează rapid, păstrează continuitatea activităților și oferă acces la aceleași informații de pe ecrane diferite. În ecosistemul Samsung, această idee poate fi observată prin modul în care Galaxy Tab S11,… 📰 https:// top15.ro/ce-inseamna-experient a-unificata-intre-dispozitive/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@top/116651093686619952",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@top/116482173868716432",
       "date": "Tue, 28 Apr 2026 11:48:40 +0000",
       "content": "📰Un monitor bun pentru gaming este unul cu rată de refresh ridicată (144Hz sau mai mult), timp de răspuns mic și rezoluție potrivită pentru sistemul tău. În 2026, cele mai bune monitoare oferă imagini fluide, latență redusă și culori clare, ceea ce îmbunătățește semnificativ experiența în jocuri, fie că vorbim de titluri competitive sau single-player.… 📰 https:// top15.ro/ce-monitor-este-bun-p entru-gaming/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@top/116420688670766403",
-      "date": "Fri, 17 Apr 2026 15:12:10 +0000",
-      "content": "📰Tot mai multe companii din România aleg să externalizeze serviciile IT și de marketing online, pe fondul nevoii de eficientizare și reducere a costurilor operaționale.Potrivit unui interviu recent acordat de reprezentanții companiei Ro2Biz Online Software, externalizarea permite firmelor să gestioneze într-un mod unitar toate procesele digitale, de la infrastructura IT până la 📰 https:// top15.ro/externalizarea-servic iilor-it-devine-o-solutie-tot-mai-utilizata-de-companiile-din-romania/"
     }
   ]
 }
