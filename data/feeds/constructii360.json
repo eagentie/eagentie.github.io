@@ -4,8 +4,14 @@
   "site_feed": "https://constructii360.ro/feed/",
   "mastodon": "https://social.5th.ro/@constructii360",
   "mastodon_rss": "https://social.5th.ro/@constructii360.rss",
-  "updated_at": "2026-05-28T04:38:19Z",
+  "updated_at": "2026-05-28T08:53:06Z",
   "site_posts": [
+    {
+      "title": "Cum faci mai mult loc și mai puțin haos în zona de gătit",
+      "link": "https://constructii360.ro/cum-faci-mai-mult-loc-si-mai-putin-haos-in-zona-de-gatit/",
+      "date": "Thu, 28 May 2026 07:03:04 +0000",
+      "summary": "Sursa: freepik Există bucătării mari în care totul pare înghesuit și există bucătării mici în Articolul Cum faci mai mult loc și mai puțin haos în zona de gătit apare prima dată în Constructii 360 ."
+    },
     {
       "title": "Cele mai frecvente situații care pot necesita chirurgie de urgență",
       "link": "https://constructii360.ro/cele-mai-frecvente-situatii-care-pot-necesita-chirurgie-de-urgenta/",
@@ -59,15 +65,15 @@
       "link": "https://constructii360.ro/romanian-energy-week-2025/",
       "date": "Tue, 18 Nov 2025 07:22:57 +0000",
       "summary": "ROMANIAN ENERGY WEEK 2025: 5 zile de dezbateri, 5 teme vitale pentru energie Palatul Parlamentului Articolul ROMANIAN ENERGY WEEK 2025 apare prima dată în Constructii 360 ."
-    },
-    {
-      "title": "Biletul zilei inspirat din poker: gândire strategică și risc calculat",
-      "link": "https://constructii360.ro/biletul-zilei-inspirat-din-poker-gandire-strategica-si-risc-calculat/",
-      "date": "Sat, 15 Nov 2025 10:03:28 +0000",
-      "summary": "(Atenție) Te-ai întrebat vreodată de ce unii pariori par să câștige constant, în timp ce Articolul Biletul zilei inspirat din poker: gândire strategică și risc calculat apare prima dată în Constructii 360 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@constructii360/116650920186559228",
+      "date": "Thu, 28 May 2026 07:03:05 +0000",
+      "content": "🆕Sursa: freepik Există bucătării mari în care totul pare înghesuit și există bucătării mici în care ai impresia că fiecare lucru este exact unde trebuie. Diferența nu stă mereu în metri pătrați, ci în felul în care îți organizezi spațiul și în alegerile pe care le faci zi de zi. Dacă simți că în bucătăria… https:// constructii360.ro/cum-faci-mai -mult-loc-si-mai-putin-haos-in-zona-de-gatit/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@constructii360/116549704943284144",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@constructii360/115797038438248171",
       "date": "Sun, 28 Dec 2025 11:49:43 +0000",
       "content": "🆕/tmp/tmpbqk66b1q.html https:// constructii360.ro/dismorfia-co rporala-si-procedurile-estetice-cand-sa-refuzi-pacientul/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@constructii360/115797038321537657",
-      "date": "Sun, 28 Dec 2025 11:49:41 +0000",
-      "content": "🆕/tmp/tmpgt4olds2.html https:// constructii360.ro/frica-de-rad iatii-irationala-sau-justificata/"
     }
   ]
 }

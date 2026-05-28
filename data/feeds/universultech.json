@@ -4,7 +4,7 @@
   "site_feed": "https://UniversulTech.ro/feed/",
   "mastodon": "https://social.5th.ro/@UniversulTech",
   "mastodon_rss": "https://social.5th.ro/@UniversulTech.rss",
-  "updated_at": "2026-05-28T04:39:09Z",
+  "updated_at": "2026-05-28T08:54:08Z",
   "site_posts": [
     {
       "title": "Cum alegi căști pentru muncă și apeluri?",
@@ -17,6 +17,12 @@
       "link": "https://universultech.ro/te-simti-mereu-obosit-ce-suplimente-pentru-energie-pot-ajuta-in-perioadele-solicitante/",
       "date": "Tue, 26 May 2026 06:43:32 +0000",
       "summary": "Sunt perioade în care programul devine tot mai aglomerat, somnul nu mai este suficient, iar oboseala începe să se acumuleze&#8230; Articolul Te simți mereu obosit? Ce suplimente pentru energie pot ajuta în perioadele solicitante apare prima dată în Universul Tech ."
+    },
+    {
+      "title": "Cum îți transformă AI experiența vizuală?",
+      "link": "https://universultech.ro/cum-iti-transforma-ai-experienta-vizuala/",
+      "date": "Wed, 20 May 2026 07:47:00 +0000",
+      "summary": "AI îți transformă experiența vizuală prin faptul că ajută televizorul să adapteze imaginea la conținutul urmărit, la ritmul scenelor și&#8230; Articolul Cum îți transformă AI experiența vizuală? apare prima dată în Universul Tech ."
     },
     {
       "title": "Cele mai populare branduri pentru chirie auto din flota Justrent",
@@ -71,15 +77,15 @@
       "link": "https://universultech.ro/avantajele-colaborarii-cu-o-firma-de-constructii-ce-ofera-solutii-complete-si-personalizate-pentru-proiectele-tale-comerciale/",
       "date": "Tue, 14 Apr 2026 14:17:16 +0000",
       "summary": "În prezent, colaborarea cu o firmă ce oferă soluții complete și personalizate aduce numeroase beneficii esențiale pentru succesul proiectului tău.&#8230; Articolul Avantajele colaborării cu o firmă de construcții ce oferă soluții complete și personalizate pentru proiectele tale comerciale apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "Avantajele utilizării unei platforme online pentru a găsi locuința potrivită",
-      "link": "https://universultech.ro/avantajele-utilizarii-unei-platforme-online-pentru-a-gasi-locuinta-potrivita/",
-      "date": "Mon, 13 Apr 2026 09:38:00 +0000",
-      "summary": "Avantajele utilizării unei platforme online pentru a găsi locuința potrivită Piața imobiliară a evoluat considerabil &#238;n ultimii ani, iar modul&#8230; Articolul Avantajele utilizării unei platforme online pentru a găsi locuința potrivită apare prima dată în Universul Tech ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@UniversulTech/116651099055388148",
+      "date": "Thu, 28 May 2026 07:48:34 +0000",
+      "content": "💡AI îți transformă experiența vizuală prin faptul că ajută televizorul să adapteze imaginea la conținutul urmărit, la ritmul scenelor și la modul în care folosești ecranul în fiecare zi. În 2026, un TV cu AI nu mai este ales doar pentru rezoluție sau diagonală, ci pentru felul în care face sportul mai clar, filmele mai… ✅ https:// universultech.ro/cum-iti-trans forma-ai-experienta-vizuala/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@UniversulTech/116645310334175712",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@UniversulTech/116322506628220506",
       "date": "Tue, 31 Mar 2026 07:03:11 +0000",
       "content": "💡Evoluția experienței de vizionareTelevizoarele moderne nu mai sunt doar dispozitive pentru redarea conținutului, ci platforme complexe care integrează tehnologii avansate. Evoluția lor este determinată de dorința utilizatorilor de a avea o experiență mai realistă, mai interactivă și mai personalizată.Astăzi, accentul nu mai este pus doar pe dimensiunea ecranului, ci pe calitatea imaginii, inteligența software și… ✅ https:// universultech.ro/ce-tehnologii -definesc-televizoarele-moderne/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@UniversulTech/116319213994074549",
-      "date": "Mon, 30 Mar 2026 17:05:50 +0000",
-      "content": "💡Integrarea acumulatorilor în sistemele fotovoltaice nu mai este doar o tendință, ci o necesitate în lumea modernă, unde eficiența energetică și sustenabilitatea devin tot mai importante. Într-o eră în care sursele de energie regenerabilă câștigă teren, devine esențial să știi cum să optimizezi consumul și stocarea energiei solare. Acest ghid îți va oferi toate informațiile… ✅ https:// universultech.ro/ghidul-comple t-pentru-integrarea-acumulatorilor-in-sistemele-fotovoltaice/"
     }
   ]
 }

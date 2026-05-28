@@ -4,13 +4,19 @@
   "site_feed": "https://top15.ro/feed/",
   "mastodon": "https://social.5th.ro/@top",
   "mastodon_rss": "https://social.5th.ro/@top.rss",
-  "updated_at": "2026-05-28T04:39:17Z",
+  "updated_at": "2026-05-28T08:54:18Z",
   "site_posts": [
     {
       "title": "Ce căști aleg utilizatorii care lucrează mult?",
       "link": "https://top15.ro/ce-casti-aleg-utilizatorii-care-lucreaza-mult/",
       "date": "Tue, 26 May 2026 07:23:00 +0000",
       "summary": "Introducere Utilizatorii care lucrează mult aleg căști wireless confortabile, stabile în apeluri și ușor de... Articolul Ce căști aleg utilizatorii care lucrează mult? apare prima dată în TOP 15 ."
+    },
+    {
+      "title": "Ce experiență oferă televizoarele Samsung moderne?",
+      "link": "https://top15.ro/ce-experienta-ofera-televizoarele-samsung-moderne/",
+      "date": "Sun, 24 May 2026 07:45:00 +0000",
+      "summary": "Televizoarele Samsung moderne oferă o experiență de vizionare mai clară, mai conectată și mai personalizată,... Articolul Ce experiență oferă televizoarele Samsung moderne? apare prima dată în TOP 15 ."
     },
     {
       "title": "Ce să alegi pentru sănătatea inimii: Omega-3 din ulei de pește sau din ulei de krill? TOP 7 suplimente apreciate pentru echilibru cardiovascular în 2026",
@@ -71,15 +77,15 @@
       "link": "https://top15.ro/ce-monitor-este-bun-pentru-gaming/",
       "date": "Fri, 24 Apr 2026 11:48:05 +0000",
       "summary": "Un monitor bun pentru gaming este unul cu rată de refresh ridicată (144Hz sau mai... Articolul Ce monitor este bun pentru gaming? apare prima dată în TOP 15 ."
-    },
-    {
-      "title": "Externalizarea serviciilor IT devine o soluție tot mai utilizată de companiile din România",
-      "link": "https://top15.ro/externalizarea-serviciilor-it-devine-o-solutie-tot-mai-utilizata-de-companiile-din-romania/",
-      "date": "Fri, 17 Apr 2026 15:12:08 +0000",
-      "summary": "Tot mai multe companii din România aleg să externalizeze serviciile IT și de marketing online,... Articolul Externalizarea serviciilor IT devine o soluție tot mai utilizată de companiile din România apare prima dată în TOP 15 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@top/116651093686619952",
+      "date": "Thu, 28 May 2026 07:47:12 +0000",
+      "content": "📰Televizoarele Samsung moderne oferă o experiență de vizionare mai clară, mai conectată și mai personalizată, potrivită pentru sport, filme, gaming și divertisment de familie. În 2026, utilizatorii caută un smart TV care să nu fie doar un ecran bun, ci un centru de entertainment capabil să adapteze imaginea, sunetul și accesul la conținut în funcție… 📰 https:// top15.ro/ce-experienta-ofera-t elevizoarele-samsung-moderne/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@top/116645343544099927",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@top/116420688670766403",
       "date": "Fri, 17 Apr 2026 15:12:10 +0000",
       "content": "📰Tot mai multe companii din România aleg să externalizeze serviciile IT și de marketing online, pe fondul nevoii de eficientizare și reducere a costurilor operaționale.Potrivit unui interviu recent acordat de reprezentanții companiei Ro2Biz Online Software, externalizarea permite firmelor să gestioneze într-un mod unitar toate procesele digitale, de la infrastructura IT până la 📰 https:// top15.ro/externalizarea-servic iilor-it-devine-o-solutie-tot-mai-utilizata-de-companiile-din-romania/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@top/116356517148671274",
-      "date": "Mon, 06 Apr 2026 07:12:31 +0000",
-      "content": "📰Lumina din solar poate fi directă (Crystal Clear) sau difuză (EVA/LD). Folia Crystal Clear transmite lumina într-un fascicul concentrat, maximizând energia luminoasă totală, în timp ce folia difuză împrăștie lumina pe întreaga suprafață a culturii. Lumina difuză reduce umbrele și arsurile pe frunze, beneficiind în special culturile înalte și dense, iar lumina directă susține fotosinteza… 📰 https:// top15.ro/rolul-luminii-in-sola r-lumina-difuza-vs-directa-crystal-clear/"
     }
   ]
 }
