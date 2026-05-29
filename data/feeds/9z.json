@@ -4,7 +4,7 @@
   "site_feed": "https://9z.ro/feed/",
   "mastodon": "https://social.5th.ro/@9z",
   "mastodon_rss": "https://social.5th.ro/@9z.rss",
-  "updated_at": "2026-05-29T12:28:28Z",
+  "updated_at": "2026-05-29T16:54:32Z",
   "site_posts": [
     {
       "title": "Polipi nazali: cauze, simptome, diagnosticare și tratament",
@@ -70,6 +70,12 @@
   "mastodon_posts": [
     {
       "title": "",
+      "link": "https://social.5th.ro/@9z/116658165775747407",
+      "date": "Fri, 29 May 2026 13:45:43 +0000",
+      "content": "Peste 20.000 de vizitatori au celebrat dreptul fiecarui copil de a conta In zilele de 23 si 24 mai 2026, Bucurestiul a gazduit cea mai importanta si frumoasa sarbatoare dedicata incluziunii copiilor, CONIL Fest 2026, editia cu tema &quot;Toti Copiii Conteaza&quot;. Evenimentul organizat de Asociația CONIL în parteneriat cu Circul Metropolitan București, s-a bucurat de… https:// comunicatpresa.9z.ro/toti-copi ii-conteaza-cel-mai-incluziv-festival-din-romania/"
+    },
+    {
+      "title": "",
       "link": "https://social.5th.ro/@9z/116650889689829929",
       "date": "Thu, 28 May 2026 06:55:19 +0000",
       "content": "Polipii nazali sunt excrescențe moi, nedureroase, formate din mucoasa inflamată a nasului sau a sinusurilor. În majoritatea cazurilor apar pe ambele părți și se asociază cu inflamație de durată. Polipii mici pot trece neobservați, dar cei mai mari pot îngusta spațiul prin care circulă aerul și pot întreține congestia. Mai jos găsești un ghid orientat… https:// 9z.ro/polipi-nazali-cauze-simp tome-diagnosticare-si-tratament/"
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@9z/116487365240470234",
       "date": "Wed, 29 Apr 2026 09:48:54 +0000",
       "content": "Percepția generală despre un aparat dentar din safir pornește, de cele mai multe ori, de la aspectul său aproape invizibil, însă realitatea este mult mai complexă decât atât. Mulți pacienți aleg această variantă tocmai pentru discreție, dar în spatele acestui avantaj vizual se află o soluție ortodontică eficientă, concepută pentru rezultate funcționale reale. Pentru cei… https:// 9z.ro/aparatul-dentar-din-safi r-este-doar-estetic-ce-trebuie-sa-stii-cu-adevarat/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@9z/116420677013954519",
-      "date": "Fri, 17 Apr 2026 15:09:13 +0000",
-      "content": "Platforma romaneasca de curierat woot.ro anunta lansarea aplicatiei mobile, disponibila incepand de astazi pe Google Play si App Store.Piata de curierat din Romania a inregistrat o crestere de 27% in 2024, ajungand la 335 de milioane de trimiteri anual, iar ANCOM estimeaza ca aceasta va depasi 1,5 miliarde de euro inainte de 2030. In acest… https:// comunicatpresa.9z.ro/woot-ro-l anseaza-aplicatia-mobila-care-aduce-intr-un-singur-loc-cele-mai-mari-firme-de-curierat-din-romania/"
     }
   ]
 }

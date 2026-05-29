@@ -4,8 +4,14 @@
   "site_feed": "https://clinic-sanatos.ro/feed/",
   "mastodon": "https://social.5th.ro/@clinic_sanatos",
   "mastodon_rss": "https://social.5th.ro/@clinic_sanatos.rss",
-  "updated_at": "2026-05-29T12:27:55Z",
+  "updated_at": "2026-05-29T16:54:03Z",
   "site_posts": [
+    {
+      "title": "Un festival pentru toți copiii Romaniei – tipici și atipici, impreuna!",
+      "link": "https://clinic-sanatos.ro/un-festival-pentru-toti-copiii-romaniei-tipici-si-atipici-impreuna/",
+      "date": "Fri, 29 May 2026 10:43:03 +0000",
+      "summary": "Peste 20.000 de vizitatori au celebrat dreptul fiecarui copil de a conta In zilele de... Articolul Un festival pentru toți copiii Romaniei – tipici și atipici, impreuna! apare prima dată în Clinic Sanatos ."
+    },
     {
       "title": "Infecții urinare repetate: Legătura dintre leucocitele crescute și sănătatea aparatului renal",
       "link": "https://clinic-sanatos.ro/infectii-urinare-repetate-legatura-dintre-leucocitele-crescute-si-sanatatea-aparatului-renal/",
@@ -71,15 +77,15 @@
       "link": "https://clinic-sanatos.ro/salteaua-sprijinul-invizibil-al-sanatatii-tale-zilnice/",
       "date": "Tue, 09 Dec 2025 23:40:54 +0000",
       "summary": "În spatele fiecărei zile productive se află o noapte de somn de calitate. Deși de... Articolul Salteaua – sprijinul invizibil al sănătății tale zilnice apare prima dată în Clinic Sanatos ."
-    },
-    {
-      "title": "Articole SEO evergreen în 2025: subiecte care nu se demodează",
-      "link": "https://clinic-sanatos.ro/articole-seo-evergreen-in-2025-subiecte-care-nu-se-demodeaza/",
-      "date": "Mon, 01 Dec 2025 06:51:37 +0000",
-      "summary": "V-ați săturat să scrieți articole care își pierd relevanța după doar câteva săptămâni? Aceasta este... Articolul Articole SEO evergreen în 2025: subiecte care nu se demodează apare prima dată în Clinic Sanatos ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@clinic_sanatos/116658160227988068",
+      "date": "Fri, 29 May 2026 13:44:19 +0000",
+      "content": "Peste 20.000 de vizitatori au celebrat dreptul fiecarui copil de a conta In zilele de 23 si 24 mai 2026, Bucurestiul a gazduit cea mai importanta si frumoasa sarbatoare dedicata incluziunii copiilor, CONIL Fest 2026, editia cu tema &quot;Toti Copiii Conteaza&quot;. Evenimentul organizat de Asociația CONIL în parteneriat cu Circul Metropolitan București, s-a bucurat de… .... https:// clinic-sanatos.ro/un-festival- pentru-toti-copiii-romaniei-tipici-si-atipici-impreuna/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@clinic_sanatos/116613365101552852",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@clinic_sanatos/115694665149174297",
       "date": "Wed, 10 Dec 2025 09:54:51 +0000",
       "content": "V-ați săturat să scrieți articole care își pierd relevanța după doar câteva săptămâni? Aceasta este o provocare comună pentru mulți creatori de conținut. Ritmul rapid al internetului face ca efortul depus azi să se poată estompa rapid. Soluția strategică stă în adoptarea unei abordări bazate pe conținut evergreen. Aceste materiale fundamentale sunt concepute să reziste… .... https:// clinic-sanatos.ro/articole-seo -evergreen-in-2025-subiecte-care-nu-se-demodeaza/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@clinic_sanatos/115694665049807446",
-      "date": "Wed, 10 Dec 2025 09:54:49 +0000",
-      "content": "Adoptarea unei diete de slăbire implică nu doar reducerea aportului caloric, ci și menținerea unei nutriții echilibrate. Atunci când aportul de alimente scade, crește riscul apariției deficiențelor de vitamine și minerale esențiale. Aceste carențe pot afecta nivelul de energie, buna funcționare a metabolismului și starea generală de sănătate. De aceea, suplimentarea adecvată devine un sprijin… .... https:// clinic-sanatos.ro/importanta-v itaminelor-si-mineralelor-in-timpul-unei-diete-de-slabire/"
     }
   ]
 }

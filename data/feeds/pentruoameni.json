@@ -4,8 +4,14 @@
   "site_feed": "https://pentruoameni.ro/feed/",
   "mastodon": "https://social.5th.ro/@pentruoameni",
   "mastodon_rss": "https://social.5th.ro/@pentruoameni.rss",
-  "updated_at": "2026-05-29T12:26:25Z",
+  "updated_at": "2026-05-29T16:52:35Z",
   "site_posts": [
+    {
+      "title": "CONIL FEST 2026: Locul unde fiecare copil apartine",
+      "link": "https://pentruoameni.ro/conil-fest-2026-locul-unde-fiecare-copil-apartine/",
+      "date": "Fri, 29 May 2026 10:53:57 +0000",
+      "summary": "Peste 20.000 de vizitatori au celebrat dreptul fiecarui copil de a conta In zilele de 23 si 24 mai 2026, Bucurestiul a gazduit cea mai importanta si frumoasa sarbatoare dedicata incluziunii copiilor, CONIL Fest 2026, editia cu tema &#8222;Toti Copiii Conteaza&#8222;. Evenimentul organizat de Asociația CONIL &#238;n parteneriat cu Circul Metropolitan București, s-a bucurat de [&#8230;] Articolul CONIL FEST 2026: Locul unde fiecare copil apartine apare prima dată în Pentru Oameni ."
+    },
     {
       "title": "Anvelope reșapate vs. anvelope noi: Ce trebuie să știi înainte de a alege",
       "link": "https://pentruoameni.ro/anvelope-resapate-vs-anvelope-noi-ce-trebuie-sa-stii-inainte-de-a-alege/",
@@ -71,15 +77,15 @@
       "link": "https://pentruoameni.ro/de-ce-lubrifiantii-industriali-de-performanta-sunt-esentiali-pentru-utilaje/",
       "date": "Tue, 17 Mar 2026 19:07:52 +0000",
       "summary": "Pentru orice domeniu industrial care se folosește de mașini-unelte, utilaje și mașinării de forță, eficiența și longevitatea acestor echipamente esențiale se află în centrul tuturor activităților de producție. Alegerea lubrifianților industriali de performanță potriviți nu mai este, în acest domeniu, doar o decizie de simplă întreținere, ci o investiție strategică în viitorul afacerii tale. Pe [&#8230;] Articolul De ce lubrifianții industriali de performanță sunt esențiali pentru utilaje? apare prima dată în Pentru Oameni ."
-    },
-    {
-      "title": "Top 5 gadgeturi de Florii pentru pasionații de tehnologie care îndrăgesc muzica",
-      "link": "https://pentruoameni.ro/top-5-gadgeturi-de-florii-pentru-pasionatii-de-tehnologie-care-indragesc-muzica/",
-      "date": "Tue, 17 Mar 2026 19:07:11 +0000",
-      "summary": "Floriile sunt momentul ideal să îți surprinzi prietenii sau familia cu daruri speciale, mai ales dacă aceștia sunt pasionați de tehnologie și muzică. În acest articol vei descoperi top cinci gadgeturi care îmbină cel mai bine aceste două pasiuni, oferindu-le celor dragi o experiență audio de neuitat. De la boxe portabile cu sunet premium la [&#8230;] Articolul Top 5 gadgeturi de Florii pentru pasionații de tehnologie care îndrăgesc muzica apare prima dată în Pentru Oameni ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@pentruoameni/116658203033005076",
+      "date": "Fri, 29 May 2026 13:55:12 +0000",
+      "content": "Peste 20.000 de vizitatori au celebrat dreptul fiecarui copil de a conta In zilele de 23 si 24 mai 2026, Bucurestiul a gazduit cea mai importanta si frumoasa sarbatoare dedicata incluziunii copiilor, CONIL Fest 2026, editia cu tema &quot;Toti Copiii Conteaza&quot;. Evenimentul organizat de Asociația CONIL în parteneriat cu Circul Metropolitan București, s-a bucurat de… .... https:// pentruoameni.ro/conil-fest-202 6-locul-unde-fiecare-copil-apartine/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@pentruoameni/116419423840084973",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@pentruoameni/116246083933779332",
       "date": "Tue, 17 Mar 2026 19:07:54 +0000",
       "content": "Pentru orice domeniu industrial care se folosește de mașini-unelte, utilaje și mașinării de forță, eficiența și longevitatea acestor echipamente esențiale se află în centrul tuturor activităților de producție.Alegerea lubrifianților industriali de performanță potriviți nu mai este, în acest domeniu, doar o decizie de simplă întreținere, ci o investiție strategică în viitorul afacerii tale. .... https:// pentruoameni.ro/de-ce-lubrifia ntii-industriali-de-performanta-sunt-esentiali-pentru-utilaje/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@pentruoameni/116246081270485508",
-      "date": "Tue, 17 Mar 2026 19:07:13 +0000",
-      "content": "Floriile sunt momentul ideal să îți surprinzi prietenii sau familia cu daruri speciale, mai ales dacă aceștia sunt pasionați de tehnologie și muzică. În acest articol vei descoperi top cinci gadgeturi care îmbină cel mai bine aceste două pasiuni, oferindu-le celor dragi o experiență audio de neuitat. De la boxe portabile cu sunet premium la… .... https:// pentruoameni.ro/top-5-gadgetur i-de-florii-pentru-pasionatii-de-tehnologie-care-indragesc-muzica/"
     }
   ]
 }
