@@ -4,8 +4,14 @@
   "site_feed": "https://noutati24.ro/feed/",
   "mastodon": "https://social.5th.ro/@noutati24",
   "mastodon_rss": "https://social.5th.ro/@noutati24.rss",
-  "updated_at": "2026-06-02T20:18:29Z",
+  "updated_at": "2026-06-02T23:08:34Z",
   "site_posts": [
+    {
+      "title": "Stadiul implementării Programului SAFE",
+      "link": "https://noutati24.ro/stadiul-implementarii-programului-safe/",
+      "date": "Tue, 02 Jun 2026 17:06:00 +0000",
+      "summary": "COMUNICAT DE PRESĂ Instrumentul „Acțiunea pentru securitatea Europei” (SAFE) prin consolidarea industriei europene de apărare presupune alocarea către România a &#8230; Articolul Stadiul implementării Programului SAFE apare prima dată în Noutati 24 ."
+    },
     {
       "title": "Torturi absolvire 2026 – Torturi pentru final de an școlar și lice",
       "link": "https://noutati24.ro/torturi-absolvire-2026-torturi-pentru-final-de-an-scolar-si-lice/",
@@ -71,15 +77,15 @@
       "link": "https://noutati24.ro/tipuri-de-decor-interior-in-care-poti-integra-un-dulap-din-inox/",
       "date": "Wed, 20 May 2026 06:21:05 +0000",
       "summary": "Integrarea unui dulap din inox &#238;n amenajarea interioară nu mai este de mult timp limitată la spațiile strict utilitare, iar &#8230; Articolul Tipuri de decor interior în care poți integra un dulap din inox apare prima dată în Noutati 24 ."
-    },
-    {
-      "title": "Cum influențează AI televizoarele viitorului",
-      "link": "https://noutati24.ro/cum-influenteaza-ai-televizoarele-viitorului/",
-      "date": "Fri, 27 Mar 2026 08:12:00 +0000",
-      "summary": "Televizoarele au trecut prin transformări majore, de la simple ecrane pentru difuzarea programelor TV la centre multimedia complexe. În prezent, &#8230; Articolul Cum influențează AI televizoarele viitorului apare prima dată în Noutati 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@noutati24/116682409763119667",
+      "date": "Tue, 02 Jun 2026 20:31:17 +0000",
+      "content": "🆕COMUNICAT DE PRESĂ Instrumentul „Acțiunea pentru securitatea Europei” (SAFE) prin consolidarea industriei europene de apărare presupune alocarea către România a unei sume de 16,68 miliarde Euro pentru achiziția de echipamente militare sau cu utilizare duală, precum și pentru infrastructură duală. Potrivit Regulamentului (UE) 2025/1.106, statele membre au putut semna într-o primă etapă contracte de achiziție… 🌐 https:// noutati24.ro/stadiul-implement arii-programului-safe/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@noutati24/116680591728575416",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@noutati24/116606169308316613",
       "date": "Wed, 20 May 2026 09:22:20 +0000",
       "content": "🆕Integrarea unui dulap din inox în amenajarea interioară nu mai este de mult timp limitată la spațiile strict utilitare, iar tendințele actuale din design arată că materialele industriale au început să fie valorificate și în contexte rezidențiale sau comerciale cu un accent estetic tot mai rafinat. Inoxul, prin aspectul său curat, ușor lucios și prin… 🌐 https:// noutati24.ro/tipuri-de-decor-i nterior-in-care-poti-integra-un-dulap-din-inox/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@noutati24/116322547654866283",
-      "date": "Tue, 31 Mar 2026 07:13:37 +0000",
-      "content": "🆕Televizoarele au trecut prin transformări majore, de la simple ecrane pentru difuzarea programelor TV la centre multimedia complexe. În prezent, inteligența artificială devine elementul care redefinește această categorie de produse, schimbând modul în care conținutul este livrat și consumat.Astăzi, televizoarele nu mai sunt doar dispozitive de redare, ci sisteme capabile să analizeze imaginea, sunetul și… 🌐 https:// noutati24.ro/cum-influenteaza- ai-televizoarele-viitorului/"
     }
   ]
 }
