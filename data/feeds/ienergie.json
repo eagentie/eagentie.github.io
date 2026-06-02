@@ -4,8 +4,14 @@
   "site_feed": "https://iEnergie.ro/feed/",
   "mastodon": "https://social.5th.ro/@ienergie",
   "mastodon_rss": "https://social.5th.ro/@ienergie.rss",
-  "updated_at": "2026-06-02T11:43:10Z",
+  "updated_at": "2026-06-02T16:55:15Z",
   "site_posts": [
+    {
+      "title": "De la pasiune la cercetare aplicată: un elev Am School construiește și pregătește lansarea unei rachete",
+      "link": "https://ienergie.ro/de-la-pasiune-la-cercetare-aplicata-un-elev-am-school-construieste-si-pregateste-lansarea-unei-rachete/",
+      "date": "Tue, 02 Jun 2026 11:20:39 +0000",
+      "summary": "Erik Culescu, elev &#238;n clasa a XII-a, pasionat de astronomie, inginerie aerospațială și tehnologie, pregătește prezentarea unui proiect educațional rar &#238;nt&#226;lnit &#238;n Rom&#226;nia: o rachetă [Mai mult...] Articolul De la pasiune la cercetare aplicată: un elev Am School construiește și pregătește lansarea unei rachete apare prima dată în iEnergie ."
+    },
     {
       "title": "Componentele esențiale ale utilajelor folosite în construcția drumurilor",
       "link": "https://ienergie.ro/componentele-esentiale-ale-utilajelor-folosite-in-constructia-drumurilor/",
@@ -71,15 +77,15 @@
       "link": "https://ienergie.ro/introducere-in-tariful-binom-intelegerea-conceptului-si-motivele-pentru-care-este-dezbatut-intens-in-perioada-curenta/",
       "date": "Tue, 20 Jan 2026 08:10:25 +0000",
       "summary": "Tariful binom reprezintă o metodă modernă de repartizare a costurilor asociate cu serviciile de distribuție a energiei electrice între utilizatorii rețelei. Este important de subliniat [Mai mult...] Articolul Introducere în tariful binom: înțelegerea conceptului și motivele pentru care este dezbătut intens în perioada curentă apare prima dată în iEnergie ."
-    },
-    {
-      "title": "Bogdan Ivan: Capacitatea de intervenție este asigurată pentru aversele majore prognozate în mare parte a ţării la sfârșitul săptămânii",
-      "link": "https://ienergie.ro/bogdan-ivan-capacitatea-de-interventie-este-asigurata-pentru-aversele-majore-prognozate-in-mare-parte-a-tarii-la-sfarsitul-saptamanii/",
-      "date": "Tue, 20 Jan 2026 08:09:11 +0000",
-      "summary": "Deși majoritatea avariilor cauzate de condițiile meteorologice extreme au fost remediate, un număr de aproximativ 11.250 de locuințe din județele Alba, Maramureș, Sălaj, Prahova și [Mai mult...] Articolul Bogdan Ivan: Capacitatea de intervenție este asigurată pentru aversele majore prognozate în mare parte a ţării la sfârșitul săptămânii apare prima dată în iEnergie ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@ienergie/116680974089637346",
+      "date": "Tue, 02 Jun 2026 14:26:11 +0000",
+      "content": "Erik Culescu, elev în clasa a XII-a, pasionat de astronomie, inginerie aerospațială și tehnologie, pregătește prezentarea unui proiect educațional rar întâlnit în România: o rachetă proiectată și construită aproape integral de el. Racheta, cu o înălțime de aproximativ 2 metri, reprezintă rezultatul a luni întregi de documentare, calcule, simulări și lucru practic. Proiectul https:// ienergie.ro/de-la-pasiune-la-c ercetare-aplicata-un-elev-am-school-construieste-si-pregateste-lansarea-unei-rachete/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@ienergie/116613381853319003",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@ienergie/115926409364999390",
       "date": "Tue, 20 Jan 2026 08:10:27 +0000",
       "content": "Tariful binom reprezintă o metodă modernă de repartizare a costurilor asociate cu serviciile de distribuție a energiei electrice între utilizatorii rețelei. Este important de subliniat că această structură tarifară nu introduce taxe suplimentare și nu majorează veniturile totale reglementate ale operatorilor de distribuție. În schimb, scopul său este de a https:// ienergie.ro/introducere-in-tar iful-binom-intelegerea-conceptului-si-motivele-pentru-care-este-dezbatut-intens-in-perioada-curenta/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@ienergie/115926404500478824",
-      "date": "Tue, 20 Jan 2026 08:09:13 +0000",
-      "content": "Deși majoritatea avariilor cauzate de condițiile meteorologice extreme au fost remediate, un număr de aproximativ 11.250 de locuințe din județele Alba, Maramureș, Sălaj, Prahova și Cluj rămân nealimentate cu energie electrică. Ministrul Energiei, Bogdan Ivan, a transmis, la încheierea ședinței Comandamentului Energetic Național, că echipele https:// ienergie.ro/bogdan-ivan-capaci tatea-de-interventie-este-asigurata-pentru-aversele-majore-prognozate-in-mare-parte-a-tarii-la-sfarsitul-saptamanii/"
     }
   ]
 }

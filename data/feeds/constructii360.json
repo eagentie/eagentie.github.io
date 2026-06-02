@@ -4,8 +4,14 @@
   "site_feed": "https://constructii360.ro/feed/",
   "mastodon": "https://social.5th.ro/@constructii360",
   "mastodon_rss": "https://social.5th.ro/@constructii360.rss",
-  "updated_at": "2026-06-02T11:42:23Z",
+  "updated_at": "2026-06-02T16:54:25Z",
   "site_posts": [
+    {
+      "title": "De la pasiune la cercetare aplicată: un elev Am School construiește și pregătește lansarea unei rachete",
+      "link": "https://constructii360.ro/de-la-pasiune-la-cercetare-aplicata-un-elev-am-school-construieste-si-pregateste-lansarea-unei-rachete/",
+      "date": "Tue, 02 Jun 2026 11:19:38 +0000",
+      "summary": "Erik Culescu, elev &#238;n clasa a XII-a, pasionat de astronomie, inginerie aerospațială și tehnologie, pregătește Articolul De la pasiune la cercetare aplicată: un elev Am School construiește și pregătește lansarea unei rachete apare prima dată în Constructii 360 ."
+    },
     {
       "title": "Cum faci mai mult loc și mai puțin haos în zona de gătit",
       "link": "https://constructii360.ro/cum-faci-mai-mult-loc-si-mai-putin-haos-in-zona-de-gatit/",
@@ -59,15 +65,15 @@
       "link": "https://constructii360.ro/merita-sa-cumperi-apartament-in-faza-de-proiect-avantaje-si-riscuri/",
       "date": "Thu, 20 Nov 2025 16:00:00 +0000",
       "summary": "Orobabil ai observat că multe oferte imobiliare sunt prezentate &#238;n stadiul de proiect. Clădirea &#238;ncă Articolul Merită să cumperi apartament în faza de proiect? Avantaje și riscuri apare prima dată în Constructii 360 ."
-    },
-    {
-      "title": "ROMANIAN ENERGY WEEK 2025",
-      "link": "https://constructii360.ro/romanian-energy-week-2025/",
-      "date": "Tue, 18 Nov 2025 07:22:57 +0000",
-      "summary": "ROMANIAN ENERGY WEEK 2025: 5 zile de dezbateri, 5 teme vitale pentru energie Palatul Parlamentului Articolul ROMANIAN ENERGY WEEK 2025 apare prima dată în Constructii 360 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@constructii360/116680957914951693",
+      "date": "Tue, 02 Jun 2026 14:22:04 +0000",
+      "content": "🆕Erik Culescu, elev în clasa a XII-a, pasionat de astronomie, inginerie aerospațială și tehnologie, pregătește prezentarea unui proiect educațional rar întâlnit în România: o rachetă proiectată și construită aproape integral de el. Racheta, cu o înălțime de aproximativ 2 metri, reprezintă rezultatul a luni întregi de documentare, calcule, simulări și lucru practic. https:// constructii360.ro/de-la-pasiun e-la-cercetare-aplicata-un-elev-am-school-construieste-si-pregateste-lansarea-unei-rachete/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@constructii360/116650920186559228",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@constructii360/115797038552026908",
       "date": "Sun, 28 Dec 2025 11:49:45 +0000",
       "content": "🆕/tmp/tmp12x0i71q.html https:// constructii360.ro/implantul-de ntar-tot-ce-trebuie-sa-stii-inainte-sa-decizi/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@constructii360/115797038438248171",
-      "date": "Sun, 28 Dec 2025 11:49:43 +0000",
-      "content": "🆕/tmp/tmpbqk66b1q.html https:// constructii360.ro/dismorfia-co rporala-si-procedurile-estetice-cand-sa-refuzi-pacientul/"
     }
   ]
 }

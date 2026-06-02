@@ -4,8 +4,14 @@
   "site_feed": "https://solutii-constructii.ro/feed/",
   "mastodon": "https://social.5th.ro/@SolutiiConstructii",
   "mastodon_rss": "https://social.5th.ro/@SolutiiConstructii.rss",
-  "updated_at": "2026-06-02T11:42:46Z",
+  "updated_at": "2026-06-02T16:54:49Z",
   "site_posts": [
+    {
+      "title": "De la pasiune la cercetare aplicată: un elev Am School construiește și pregătește lansarea unei rachete",
+      "link": "https://solutii-constructii.ro/de-la-pasiune-la-cercetare-aplicata-un-elev-am-school-construieste-si-pregateste-lansarea-unei-rachete/",
+      "date": "Tue, 02 Jun 2026 11:21:17 +0000",
+      "summary": "Erik Culescu, elev &#238;n clasa a XII-a, pasionat de astronomie, inginerie aerospațială și tehnologie, pregătește prezentarea unui proiect Articolul De la pasiune la cercetare aplicată: un elev Am School construiește și pregătește lansarea unei rachete apare prima dată în Solutii Constructii ."
+    },
     {
       "title": "Detalii tehnice pe care trebuie sa le stii cand construiesti un gard",
       "link": "https://solutii-constructii.ro/detalii-tehnice-pe-care-trebuie-sa-le-stii-cand-construiesti-un-gard/",
@@ -71,15 +77,15 @@
       "link": "https://solutii-constructii.ro/ce-noutati-aduce-tehnologia-vision-inside-in-frigorifice/",
       "date": "Mon, 15 Dec 2025 08:18:46 +0000",
       "summary": "Funcțiile de recunoaștere vizuală au evoluat semnificativ în ultimele generații de frigidere. Sistemele pot identifica mai precis alimentele Articolul Ce noutăți aduce tehnologia Vision Inside în frigorifice apare prima dată în Solutii Constructii ."
-    },
-    {
-      "title": "Avantajele treptelor din lemn masiv față de alte materiale",
-      "link": "https://solutii-constructii.ro/avantajele-treptelor-din-lemn-masiv-fata-de-alte-materiale/",
-      "date": "Wed, 10 Dec 2025 07:36:55 +0000",
-      "summary": "Când te gândești la o scară interioară, ce te atrage mai mult: un aspect rece și modern sau Articolul Avantajele treptelor din lemn masiv față de alte materiale apare prima dată în Solutii Constructii ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@SolutiiConstructii/116680979264533061",
+      "date": "Tue, 02 Jun 2026 14:27:30 +0000",
+      "content": "Erik Culescu, elev în clasa a XII-a, pasionat de astronomie, inginerie aerospațială și tehnologie, pregătește prezentarea unui proiect educațional rar întâlnit în România: o rachetă proiectată și construită aproape integral de el. Racheta, cu o înălțime de aproximativ 2 metri, reprezintă rezultatul a luni întregi de documentare, calcule, simulări și ... 🌐 Vezi: https:// solutii-constructii.ro/de-la-p asiune-la-cercetare-aplicata-un-elev-am-school-construieste-si-pregateste-lansarea-unei-rachete/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@SolutiiConstructii/116662630645935695",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@SolutiiConstructii/115736880758500929",
       "date": "Wed, 17 Dec 2025 20:50:50 +0000",
       "content": "Vă simțiți copleșiți de algoritmii rețelelor sociale centralizate? Sunteți un specialist IT sau faceți parte din comunitatea de dezvoltatori care caută o platformă de discuții autentice, fără publicitate agresivă și fără urmărire constantă? Ați auzit despre Mastodon, dar nu știți exact cum se integrează în peisajul tehnic din România?Ei bine, Mastodon nu este doar o… ... 🌐 Vezi: https:// solutii-constructii.ro/mastodo n-romania-pentru-it-isti-comunitati-proiecte-si-joburi/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@SolutiiConstructii/115723080232860139",
-      "date": "Mon, 15 Dec 2025 10:21:10 +0000",
-      "content": "Funcțiile de recunoaștere vizuală au evoluat semnificativ în ultimele generații de frigidere. Sistemele pot identifica mai precis alimentele și pot actualiza automat informațiile despre stocul intern.1. Ce înseamnă / Ce esteVision Inside este un sistem care analizează conținutul frigiderului folosind camere interne și algoritmi AI. Scopul este monitorizarea alimentelor și menținerea unei ... 🌐 Continuarea: https:// solutii-constructii.ro/ce-nout ati-aduce-tehnologia-vision-inside-in-frigorifice/"
     }
   ]
 }

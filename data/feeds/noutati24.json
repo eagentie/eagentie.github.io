@@ -4,8 +4,14 @@
   "site_feed": "https://noutati24.ro/feed/",
   "mastodon": "https://social.5th.ro/@noutati24",
   "mastodon_rss": "https://social.5th.ro/@noutati24.rss",
-  "updated_at": "2026-06-02T11:42:20Z",
+  "updated_at": "2026-06-02T16:54:23Z",
   "site_posts": [
+    {
+      "title": "Torturi absolvire 2026 – Torturi pentru final de an școlar și lice",
+      "link": "https://noutati24.ro/torturi-absolvire-2026-torturi-pentru-final-de-an-scolar-si-lice/",
+      "date": "Tue, 02 Jun 2026 09:47:34 +0000",
+      "summary": "Iunie &#8211; luna balurilor, a absolvirilor și a momentelor care merită sărbătorite cu ceva mai mult dec&#226;t un dulce Luna &#8230; Articolul Torturi absolvire 2026 – Torturi pentru final de an școlar și lice apare prima dată în Noutati 24 ."
+    },
     {
       "title": "Ajutoare de urgență pentru familiile din Galați afectate de explozia provocată de dronă",
       "link": "https://noutati24.ro/ajutoare-de-urgenta-pentru-familiile-din-galati-afectate-de-explozia-provocata-de-drona/",
@@ -71,15 +77,15 @@
       "link": "https://noutati24.ro/cum-influenteaza-ai-televizoarele-viitorului/",
       "date": "Fri, 27 Mar 2026 08:12:00 +0000",
       "summary": "Televizoarele au trecut prin transformări majore, de la simple ecrane pentru difuzarea programelor TV la centre multimedia complexe. În prezent, &#8230; Articolul Cum influențează AI televizoarele viitorului apare prima dată în Noutati 24 ."
-    },
-    {
-      "title": "Ce funcții inteligente aduce noul Galaxy S26",
-      "link": "https://noutati24.ro/ce-functii-inteligente-aduce-noul-galaxy-s26/",
-      "date": "Thu, 19 Mar 2026 06:59:00 +0000",
-      "summary": "Un smartphone construit &#238;n jurul inteligenței artificialeNoul Galaxy S26 marchează o schimbare clară &#238;n modul &#238;n care sunt concepute telefoanele &#8230; Articolul Ce funcții inteligente aduce noul Galaxy S26 apare prima dată în Noutati 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@noutati24/116680591728575416",
+      "date": "Tue, 02 Jun 2026 12:48:56 +0000",
+      "content": "🆕Iunie – luna balurilor, a absolvirilor și a momentelor care merită sărbătorite cu ceva mai mult decât un dulce Luna iunie are o magie aparte. Este perioada în care se încheie un capitol important și începe o nouă aventură. Pentru unii copii este finalul clasei a IV-a. Pentru alții, emoția absolvirii clasei a VIII-a, a… 🌐 https:// noutati24.ro/torturi-absolvire -2026-torturi-pentru-final-de-an-scolar-si-lice/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@noutati24/116659649834151758",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@noutati24/116322547654866283",
       "date": "Tue, 31 Mar 2026 07:13:37 +0000",
       "content": "🆕Televizoarele au trecut prin transformări majore, de la simple ecrane pentru difuzarea programelor TV la centre multimedia complexe. În prezent, inteligența artificială devine elementul care redefinește această categorie de produse, schimbând modul în care conținutul este livrat și consumat.Astăzi, televizoarele nu mai sunt doar dispozitive de redare, ci sisteme capabile să analizeze imaginea, sunetul și… 🌐 https:// noutati24.ro/cum-influenteaza- ai-televizoarele-viitorului/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@noutati24/116260212737256166",
-      "date": "Fri, 20 Mar 2026 07:01:02 +0000",
-      "content": "🆕Un smartphone construit în jurul inteligenței artificialeNoul Galaxy S26 marchează o schimbare clară în modul în care sunt concepute telefoanele moderne. Accentul nu mai cade doar pe performanță hardware, ci pe integrarea unor funcții inteligente care simplifică utilizarea zilnică. Practic, dispozitivul nu mai este doar un instrument, ci un asistent digital capabil să optimizeze fiecare… 🌐 https:// noutati24.ro/ce-functii-inteli gente-aduce-noul-galaxy-s26/"
     }
   ]
 }
