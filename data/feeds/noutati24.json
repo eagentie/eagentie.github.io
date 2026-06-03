@@ -4,8 +4,14 @@
   "site_feed": "https://noutati24.ro/feed/",
   "mastodon": "https://social.5th.ro/@noutati24",
   "mastodon_rss": "https://social.5th.ro/@noutati24.rss",
-  "updated_at": "2026-06-03T20:27:54Z",
+  "updated_at": "2026-06-03T23:14:27Z",
   "site_posts": [
+    {
+      "title": "Ședință extraordinară de Guvern în format hibrid",
+      "link": "https://noutati24.ro/sedinta-extraordinara-de-guvern-in-format-hibrid/",
+      "date": "Wed, 03 Jun 2026 13:18:00 +0000",
+      "summary": "Guvernul României Guvernul este autoritatea publică a puterii executive, care funcționează în baza votului de încredere acordat de Parlament și &#8230; Articolul Ședință extraordinară de Guvern în format hibrid apare prima dată în Noutati 24 ."
+    },
     {
       "title": "Stadiul implementării Programului SAFE",
       "link": "https://noutati24.ro/stadiul-implementarii-programului-safe/",
@@ -71,15 +77,15 @@
       "link": "https://noutati24.ro/cum-sa-alegi-un-apartament-in-sectorul-3-zonele-care-ofera-confort-si-investitii-sigure/",
       "date": "Fri, 22 May 2026 17:57:00 +0000",
       "summary": "Cum să alegi un apartament în Sectorul 3: zonele care oferă confort și investiții sigure Sectorul 3 din București a &#8230; Articolul Cum să alegi un apartament în Sectorul 3: zonele care oferă confort și investiții sigure apare prima dată în Noutati 24 ."
-    },
-    {
-      "title": "Tipuri de decor interior în care poți integra un dulap din inox",
-      "link": "https://noutati24.ro/tipuri-de-decor-interior-in-care-poti-integra-un-dulap-din-inox/",
-      "date": "Wed, 20 May 2026 06:21:05 +0000",
-      "summary": "Integrarea unui dulap din inox &#238;n amenajarea interioară nu mai este de mult timp limitată la spațiile strict utilitare, iar &#8230; Articolul Tipuri de decor interior în care poți integra un dulap din inox apare prima dată în Noutati 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@noutati24/116688076703417209",
+      "date": "Wed, 03 Jun 2026 20:32:28 +0000",
+      "content": "🆕Guvernul României Guvernul este autoritatea publică a puterii executive, care funcționează în baza votului de încredere acordat de Parlament și care asigură realizarea politicii interne și externe a țării și exercită conducerea generală a administrației publice. Află mai multeArticol preluat de pe gov.ro 🌐 https:// noutati24.ro/sedinta-extraordi nara-de-guvern-in-format-hibrid/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@noutati24/116682409763119667",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@noutati24/116619518913878830",
       "date": "Fri, 22 May 2026 17:57:19 +0000",
       "content": "🆕Cum să alegi un apartament în Sectorul 3: zonele care oferă confort și investiții sigureSectorul 3 din București a devenit în ultimii ani una dintre cele mai atractive zone pentru cumpărătorii de locuințe. Dezvoltarea accelerată, infrastructura modernizată și diversitatea ofertelor au transformat această parte a orașului într-o alegere excelentă atât pentru locuire, cât și pentru… 🌐 https:// noutati24.ro/cum-sa-alegi-un-a partament-in-sectorul-3-zonele-care-ofera-confort-si-investitii-sigure/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@noutati24/116606169308316613",
-      "date": "Wed, 20 May 2026 09:22:20 +0000",
-      "content": "🆕Integrarea unui dulap din inox în amenajarea interioară nu mai este de mult timp limitată la spațiile strict utilitare, iar tendințele actuale din design arată că materialele industriale au început să fie valorificate și în contexte rezidențiale sau comerciale cu un accent estetic tot mai rafinat. Inoxul, prin aspectul său curat, ușor lucios și prin… 🌐 https:// noutati24.ro/tipuri-de-decor-i nterior-in-care-poti-integra-un-dulap-din-inox/"
     }
   ]
 }
