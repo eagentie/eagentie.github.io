@@ -4,8 +4,20 @@
   "site_feed": "https://noutati24.ro/feed/",
   "mastodon": "https://social.5th.ro/@noutati24",
   "mastodon_rss": "https://social.5th.ro/@noutati24.rss",
-  "updated_at": "2026-06-05T19:07:52Z",
+  "updated_at": "2026-06-05T20:56:02Z",
   "site_posts": [
+    {
+      "title": "COMUNICAT DE PRESĂ",
+      "link": "https://noutati24.ro/comunicat-de-presa/",
+      "date": "Fri, 05 Jun 2026 16:12:00 +0000",
+      "summary": "În data de 05.06.2026, în jurul orei 06:20, Garda de Coastă a primit o informare din partea Agenției Române de &#8230; Articolul COMUNICAT DE PRESĂ apare prima dată în Noutati 24 ."
+    },
+    {
+      "title": "Ședința de guvern din 5 iunie 2026",
+      "link": "https://noutati24.ro/sedinta-de-guvern-din-5-iunie-2026/",
+      "date": "Fri, 05 Jun 2026 15:14:00 +0000",
+      "summary": "Guvernul României Guvernul este autoritatea publică a puterii executive, care funcționează în baza votului de încredere acordat de Parlament și &#8230; Articolul Ședința de guvern din 5 iunie 2026 apare prima dată în Noutati 24 ."
+    },
     {
       "title": "Ședință extraordinară de Guvern în format hibrid",
       "link": "https://noutati24.ro/sedinta-extraordinara-de-guvern-in-format-hibrid/",
@@ -65,21 +77,21 @@
       "link": "https://noutati24.ro/conferinta-de-presa-sustinuta-de-ministrul-dragos-pislaru-ministrul-investitiilor-si-proiectelor-europene-ministrul-interimar-al-muncii-familiei-tineretului-si-solidaritatii-sociale-pe-tema-proie/",
       "date": "Mon, 25 May 2026 17:14:00 +0000",
       "summary": "Galerie foto [embedded content] Conferință de presă susținută de ministrul Dragoș Pîslaru, ministrul Investițiilor și Proiectelor Europene, ministrul interimar al &#8230; Articolul Conferință de presă susținută de ministrul Dragoș Pîslaru, ministrul Investițiilor și Proiectelor Europene, ministrul interimar al Muncii, Familiei, Tineretului și Solidarității Sociale, pe tema proiectului legii salarizării unitare apare prima dată în Noutati 24 ."
-    },
-    {
-      "title": "Aproximativ 5.300 de proiecte finanțate din PNRR, derulate de autoritățile locale, analizate în videoconferința premierului Ilie Bolojan cu prefecții",
-      "link": "https://noutati24.ro/aproximativ-5-300-de-proiecte-finantate-din-pnrr-derulate-de-autoritatile-locale-analizate-in-videoconferinta-premierului-ilie-bolojan-cu-prefectii/",
-      "date": "Sun, 24 May 2026 18:58:00 +0000",
-      "summary": "Galerie foto COMUNICAT DE PRESĂ Premierul Ilie Bolojan a participat astăzi, împreună cu vicepremierul Cătălin Predoiu, ministrul Afacerilor Interne, și &#8230; Articolul Aproximativ 5.300 de proiecte finanțate din PNRR, derulate de autoritățile locale, analizate în videoconferința premierului Ilie Bolojan cu prefecții apare prima dată în Noutati 24 ."
-    },
-    {
-      "title": "Cum să alegi un apartament în Sectorul 3: zonele care oferă confort și investiții sigure",
-      "link": "https://noutati24.ro/cum-sa-alegi-un-apartament-in-sectorul-3-zonele-care-ofera-confort-si-investitii-sigure/",
-      "date": "Fri, 22 May 2026 17:57:00 +0000",
-      "summary": "Cum să alegi un apartament în Sectorul 3: zonele care oferă confort și investiții sigure Sectorul 3 din București a &#8230; Articolul Cum să alegi un apartament în Sectorul 3: zonele care oferă confort și investiții sigure apare prima dată în Noutati 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@noutati24/116699436635360756",
+      "date": "Fri, 05 Jun 2026 20:41:27 +0000",
+      "content": "🆕Guvernul României Guvernul este autoritatea publică a puterii executive, care funcționează în baza votului de încredere acordat de Parlament și care asigură realizarea politicii interne și externe a țării și exercită conducerea generală a administrației publice. Află mai multeArticol preluat de pe gov.ro 🌐 https:// noutati24.ro/sedinta-de-guvern -din-5-iunie-2026/"
+    },
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@noutati24/116699436446109713",
+      "date": "Fri, 05 Jun 2026 20:41:24 +0000",
+      "content": "🆕În data de 05.06.2026, în jurul orei 06:20, Garda de Coastă a primit o informare din partea Agenției Române de Salvare a Vieții Omenești pe Mare, cu privire la faptul că în Dana 78, în Portul Constanța, a fost observat un obiect plutitor, posibil dronă. Au fost informate MApN și SRI. Totodată, s-a relaționat cu… 🌐 https:// noutati24.ro/comunicat-de-pres a/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@noutati24/116688076703417209",
@@ -139,18 +151,6 @@
       "link": "https://social.5th.ro/@noutati24/116642578515687085",
       "date": "Tue, 26 May 2026 19:41:41 +0000",
       "content": "🆕Galerie foto COMUNICAT DE PRESĂ Premierul Ilie Bolojan a participat astăzi, împreună cu vicepremierul Cătălin Predoiu, ministrul Afacerilor Interne, și cu ministrul Finanțelor, Alexandru Nazare, la videoconferința cu prefecții, organizată pe tema analizei celor aproximativ 5.300 de contracte finanțate prin PNRR, aflate în 🌐 https:// noutati24.ro/aproximativ-5-300 -de-proiecte-finantate-din-pnrr-derulate-de-autoritatile-locale-analizate-in-videoconferinta-premierului-ilie-bolojan-cu-prefectii/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@noutati24/116642578361507127",
-      "date": "Tue, 26 May 2026 19:41:38 +0000",
-      "content": "🆕Galerie foto [embedded content] Conferință de presă susținută de ministrul Dragoș Pîslaru, ministrul Investițiilor și Proiectelor Europene, ministrul interimar al Muncii, Familiei, Tineretului și Solidarității Sociale, pe tema proiectului legii salarizării unitare [Check against 🌐 https:// noutati24.ro/conferinta-de-pre sa-sustinuta-de-ministrul-dragos-pislaru-ministrul-investitiilor-si-proiectelor-europene-ministrul-interimar-al-muncii-familiei-tineretului-si-solidaritatii-sociale-pe-tema-proie/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@noutati24/116619518913878830",
-      "date": "Fri, 22 May 2026 17:57:19 +0000",
-      "content": "🆕Cum să alegi un apartament în Sectorul 3: zonele care oferă confort și investiții sigureSectorul 3 din București a devenit în ultimii ani una dintre cele mai atractive zone pentru cumpărătorii de locuințe. Dezvoltarea accelerată, infrastructura modernizată și diversitatea ofertelor au transformat această parte a orașului într-o alegere excelentă atât pentru locuire, cât și pentru… 🌐 https:// noutati24.ro/cum-sa-alegi-un-a partament-in-sectorul-3-zonele-care-ofera-confort-si-investitii-sigure/"
     }
   ]
 }
