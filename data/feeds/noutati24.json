@@ -4,8 +4,14 @@
   "site_feed": "https://noutati24.ro/feed/",
   "mastodon": "https://social.5th.ro/@noutati24",
   "mastodon_rss": "https://social.5th.ro/@noutati24.rss",
-  "updated_at": "2026-06-06T19:46:11Z",
+  "updated_at": "2026-06-06T21:17:49Z",
   "site_posts": [
+    {
+      "title": "Vizita premierului Ilie Bolojan în județul Hunedoara",
+      "link": "https://noutati24.ro/vizita-premierului-ilie-bolojan-in-judetul-hunedoara/",
+      "date": "Sat, 06 Jun 2026 11:46:00 +0000",
+      "summary": "Galerie foto COMUNICAT DE PRESĂ Premierul Ilie Bolojan, vizită la centrala Mintia, investiție ajunsă la 83% stadiu de realizare Prim-ministrul &#8230; Articolul Vizita premierului Ilie Bolojan în județul Hunedoara apare prima dată în Noutati 24 ."
+    },
     {
       "title": "COMUNICAT DE PRESĂ",
       "link": "https://noutati24.ro/comunicat-de-presa/",
@@ -71,15 +77,15 @@
       "link": "https://noutati24.ro/cum-functioneaza-editarea-inteligenta-foto-video/",
       "date": "Tue, 26 May 2026 07:29:00 +0000",
       "summary": "Cum funcționează editarea inteligentă foto-video? Editarea inteligentă foto-video funcționează prin analizarea imaginii sau a clipului și prin propunerea unor ajustări &#8230; Articolul Cum funcționează editarea inteligentă foto-video? apare prima dată în Noutati 24 ."
-    },
-    {
-      "title": "Conferință de presă susținută de ministrul Dragoș Pîslaru, ministrul Investițiilor și Proiectelor Europene, ministrul interimar al Muncii, Familiei, Tineretului și Solidarității Sociale, pe tema proiectului legii salarizării unitare",
-      "link": "https://noutati24.ro/conferinta-de-presa-sustinuta-de-ministrul-dragos-pislaru-ministrul-investitiilor-si-proiectelor-europene-ministrul-interimar-al-muncii-familiei-tineretului-si-solidaritatii-sociale-pe-tema-proie/",
-      "date": "Mon, 25 May 2026 17:14:00 +0000",
-      "summary": "Galerie foto [embedded content] Conferință de presă susținută de ministrul Dragoș Pîslaru, ministrul Investițiilor și Proiectelor Europene, ministrul interimar al &#8230; Articolul Conferință de presă susținută de ministrul Dragoș Pîslaru, ministrul Investițiilor și Proiectelor Europene, ministrul interimar al Muncii, Familiei, Tineretului și Solidarității Sociale, pe tema proiectului legii salarizării unitare apare prima dată în Noutati 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@noutati24/116705137481581317",
+      "date": "Sat, 06 Jun 2026 20:51:15 +0000",
+      "content": "🆕Galerie foto COMUNICAT DE PRESĂ Premierul Ilie Bolojan, vizită la centrala Mintia, investiție ajunsă la 83% stadiu de realizare Prim-ministrul Ilie Bolojan a vizitat astăzi proiectul centralei pe gaze de la Mintia, obiectiv strategic de importanță națională în domeniul energiei. Guvernul a susținut accelerarea derulării investiției având în vedere impactul semnificativ asupra securității energetice a… 🌐 https:// noutati24.ro/vizita-premierulu i-ilie-bolojan-in-judetul-hunedoara/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@noutati24/116699436635360756",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@noutati24/116645365523157555",
       "date": "Wed, 27 May 2026 07:30:27 +0000",
       "content": "🆕Cum funcționează editarea inteligentă foto-video?Editarea inteligentă foto-video funcționează prin analizarea imaginii sau a clipului și prin propunerea unor ajustări care pot îmbunătăți rapid rezultatul final. AI poate recunoaște elemente precum lumina, fundalul, subiectul, mișcarea, sunetul sau compoziția. În 2026, utilizatorii caută instrumente care nu doar editează, ci îi ajută să obțină conținut mai clar, mai… 🌐 https:// noutati24.ro/cum-functioneaza- editarea-inteligenta-foto-video/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@noutati24/116642578515687085",
-      "date": "Tue, 26 May 2026 19:41:41 +0000",
-      "content": "🆕Galerie foto COMUNICAT DE PRESĂ Premierul Ilie Bolojan a participat astăzi, împreună cu vicepremierul Cătălin Predoiu, ministrul Afacerilor Interne, și cu ministrul Finanțelor, Alexandru Nazare, la videoconferința cu prefecții, organizată pe tema analizei celor aproximativ 5.300 de contracte finanțate prin PNRR, aflate în 🌐 https:// noutati24.ro/aproximativ-5-300 -de-proiecte-finantate-din-pnrr-derulate-de-autoritatile-locale-analizate-in-videoconferinta-premierului-ilie-bolojan-cu-prefectii/"
     }
   ]
 }
