@@ -4,8 +4,14 @@
   "site_feed": "https://clinic-sanatos.ro/feed/",
   "mastodon": "https://social.5th.ro/@clinic_sanatos",
   "mastodon_rss": "https://social.5th.ro/@clinic_sanatos.rss",
-  "updated_at": "2026-06-08T05:01:41Z",
+  "updated_at": "2026-06-08T09:56:27Z",
   "site_posts": [
+    {
+      "title": "Motion Clinic – recuperare medicală, fizioterapie și kinetoterapie pentru o viață activă",
+      "link": "https://clinic-sanatos.ro/motion-clinic-recuperare-medicala-snagov/",
+      "date": "Fri, 05 Jun 2026 09:06:05 +0000",
+      "summary": "Sănătatea fizică nu înseamnă doar absența durerii. Înseamnă libertatea de a te mișca, de a... Articolul Motion Clinic – recuperare medicală, fizioterapie și kinetoterapie pentru o viață activă apare prima dată în Clinic Sanatos ."
+    },
     {
       "title": "Un festival pentru toți copiii Romaniei – tipici și atipici, impreuna!",
       "link": "https://clinic-sanatos.ro/un-festival-pentru-toti-copiii-romaniei-tipici-si-atipici-impreuna/",
@@ -71,15 +77,15 @@
       "link": "https://clinic-sanatos.ro/suplimente-alimentare-gravide-beneficiile-oligobs-prenatal-cu-omega-3-in-dezvoltarea-sarcinii/",
       "date": "Mon, 15 Dec 2025 15:22:49 +0000",
       "summary": "Importanta nutritiei in timpul sarcinii Sarcina este, fara doar si poate, o perioada definitorie atat... Articolul Suplimente alimentare gravide: beneficiile Oligobs Prenatal cu Omega 3 în dezvoltarea sarcinii apare prima dată în Clinic Sanatos ."
-    },
-    {
-      "title": "Salteaua – sprijinul invizibil al sănătății tale zilnice",
-      "link": "https://clinic-sanatos.ro/salteaua-sprijinul-invizibil-al-sanatatii-tale-zilnice/",
-      "date": "Tue, 09 Dec 2025 23:40:54 +0000",
-      "summary": "În spatele fiecărei zile productive se află o noapte de somn de calitate. Deși de... Articolul Salteaua – sprijinul invizibil al sănătății tale zilnice apare prima dată în Clinic Sanatos ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@clinic_sanatos/116713696507726115",
+      "date": "Mon, 08 Jun 2026 09:07:55 +0000",
+      "content": "Sănătatea fizică nu înseamnă doar absența durerii. Înseamnă libertatea de a te mișca, de a lucra, de a face sport, de a te odihni bine și de a te bucura de activitățile zilnice fără disconfort constant. Atunci când apar durerile de spate, rigiditatea, accidentările sau problemele articulare, corpul transmite un semnal care nu ar trebui… .... https:// clinic-sanatos.ro/motion-clini c-recuperare-medicala-snagov/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@clinic_sanatos/116658160227988068",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@clinic_sanatos/115694665239696785",
       "date": "Wed, 10 Dec 2025 09:54:52 +0000",
       "content": "În spatele fiecărei zile productive se află o noapte de somn de calitate. Deși de multe ori nu îi acordăm atenția cuvenită, salteaua este elementul care susține acest proces esențial de refacere. Corpul are nevoie de un suport corect pentru a se relaxa complet, iar mintea are nevoie de stabilitate pentru a intra în somnul… .... https:// clinic-sanatos.ro/salteaua-spr ijinul-invizibil-al-sanatatii-tale-zilnice/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@clinic_sanatos/115694665149174297",
-      "date": "Wed, 10 Dec 2025 09:54:51 +0000",
-      "content": "V-ați săturat să scrieți articole care își pierd relevanța după doar câteva săptămâni? Aceasta este o provocare comună pentru mulți creatori de conținut. Ritmul rapid al internetului face ca efortul depus azi să se poată estompa rapid. Soluția strategică stă în adoptarea unei abordări bazate pe conținut evergreen. Aceste materiale fundamentale sunt concepute să reziste… .... https:// clinic-sanatos.ro/articole-seo -evergreen-in-2025-subiecte-care-nu-se-demodeaza/"
     }
   ]
 }
