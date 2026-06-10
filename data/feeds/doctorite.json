@@ -4,8 +4,14 @@
   "site_feed": "https://doctorite.ro/feed/",
   "mastodon": "https://social.5th.ro/@DoctoriteBlog",
   "mastodon_rss": "https://social.5th.ro/@DoctoriteBlog.rss",
-  "updated_at": "2026-06-10T11:04:46Z",
+  "updated_at": "2026-06-10T14:29:35Z",
   "site_posts": [
+    {
+      "title": "Ambrozia trebuie smulsă acum: apel la voluntari pentru acțiune de curățare în Parcul Natural Văcărești",
+      "link": "https://doctorite.ro/ambrozia-trebuie-smulsa-acum-apel-la-voluntari-pentru-actiune-de-curatare-in-parcul-natural-vacaresti/",
+      "date": "Wed, 10 Jun 2026 13:13:14 +0000",
+      "summary": "Asociația Stop Ambroziei organizează sâmbătă, 13 iunie, între orele 08:00 și 14:00, o acțiune de&#160;curățare&#160;a... Articolul Ambrozia trebuie smulsă acum: apel la voluntari pentru acțiune de curățare în Parcul Natural Văcărești apare prima dată în Doctorite ."
+    },
     {
       "title": "Investigatia pe care o tot amani — de ce RMN-ul sau CT-ul din Bucuresti nu trebuie sa fie un cosmar logistic",
       "link": "https://doctorite.ro/investigatia-pe-care-o-tot-amani-de-ce-rmn-ul-sau-ct-ul-din-bucuresti-nu-trebuie-sa-fie-un-cosmar-logistic/",
@@ -59,15 +65,15 @@
       "link": "https://doctorite.ro/vitamina-c-cum-sustine-protectia-celulelor-impotriva-stresului-oxidativ/",
       "date": "Sun, 08 Feb 2026 16:02:29 +0000",
       "summary": "Vitamina C este o vitamină hidrosolubilă care trebuie furnizată regulat prin alimentație, deoarece organismul uman... Articolul Vitamina C – cum susține protecția celulelor împotriva stresului oxidativ apare prima dată în Doctorite ."
-    },
-    {
-      "title": "Respiratia corecta si calitatea vietii: De ce nu trebuie sa ignori o deviatie de sept si care sunt optiunile de tratament",
-      "link": "https://doctorite.ro/respiratia-corecta-si-calitatea-vietii-de-ce-nu-trebuie-sa-ignori-o-deviatie-de-sept-si-care-sunt-optiunile-de-tratament/",
-      "date": "Wed, 21 Jan 2026 19:58:55 +0000",
-      "summary": "Respiratia este functia vitala pe care o indeplinim de aproximativ 20.000 de ori pe zi,... Articolul Respiratia corecta si calitatea vietii: De ce nu trebuie sa ignori o deviatie de sept si care sunt optiunile de tratament apare prima dată în Doctorite ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@DoctoriteBlog/116725985885677356",
+      "date": "Wed, 10 Jun 2026 13:13:16 +0000",
+      "content": "Asociația Stop Ambroziei organizează sâmbătă, 13 iunie, între orele 08:00 și 14:00, o acțiune de curățare a ambroziei din Parcul Natural Văcărești, în parteneriat cu Administrația Parcului Natural Văcărești și Primăria Capitalei. Acțiunea este prima dintr-o serie de intervenții programate de Asociația Stop Ambroziei în luna iunie, o perioadă-cheie pentru combaterea plantei. https:// doctorite.ro/ambrozia-trebuie- smulsa-acum-apel-la-voluntari-pentru-actiune-de-curatare-in-parcul-natural-vacaresti/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@DoctoriteBlog/116556690216634337",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@DoctoriteBlog/115736523245175908",
       "date": "Wed, 17 Dec 2025 19:19:55 +0000",
       "content": "Introducere: De Ce Vizibilitatea Pe Mastodon Depinde De Tine? V-ați săturat de algoritmii care decid ce merită să vedeți și cine merită să vă vadă? În rețelele sociale tradiționale, vizibilitatea depinde de secretele unui cod complex. Această frustrare este comună. Când trecem la alternative, ne așteptăm la o schimbare de paradigmă. Aici intervine Mastodon. Fiind… https:// doctorite.ro/hashtaguri-pe-mas todon-cum-te-gaseste-lumea-mai-usor/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@DoctoriteBlog/115706061972767433",
-      "date": "Fri, 12 Dec 2025 10:13:12 +0000",
-      "content": "Îngrijirea unui pacient imobilizat la pat, fie temporar din cauza unei recuperări post-operatorii, fie permanent în contextul unor afecțiuni cronice, reprezintă o provocare complexă pentru familie și personalul de asistență. Dincolo de administrarea tratamentului medicamentos, calitatea vieții pacientului depinde fundamental de menținerea unei igiene riguroase și a unui nivel optim de confort fizic.Pielea, fiind cel… https:// doctorite.ro/igiena-si-confort ul-pacientului-imobilizat/"
     }
   ]
 }

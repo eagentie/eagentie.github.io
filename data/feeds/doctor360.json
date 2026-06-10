@@ -4,8 +4,14 @@
   "site_feed": "https://doctor360.ro/feed/",
   "mastodon": "https://social.5th.ro/@doctor360",
   "mastodon_rss": "https://social.5th.ro/@doctor360.rss",
-  "updated_at": "2026-06-10T11:04:43Z",
+  "updated_at": "2026-06-10T14:29:32Z",
   "site_posts": [
+    {
+      "title": "Ambrozia trebuie smulsă acum: apel la voluntari pentru acțiune de curățare în Parcul Natural Văcărești",
+      "link": "https://doctor360.ro/ambrozia-trebuie-smulsa-acum-apel-la-voluntari-pentru-actiune-de-curatare-in-parcul-natural-vacaresti/",
+      "date": "Wed, 10 Jun 2026 13:40:31 +0000",
+      "summary": "Asociația Stop Ambroziei organizează sâmbătă, 13 iunie, între orele 08:00 și 14:00, o acțiune de&#160;curățare&#160;a ambroziei din Parcul Natural Văcărești, în parteneriat cu Administrația Parcului Natural Văcărești și Primăria Capitalei.&#160;Acțiunea este prima dintr-o serie de intervenții programate de Asociația Stop Ambroziei în luna iunie, o perioadă-cheie pentru combaterea plantei.&#160;Voluntarii se pot&#160;înscrie&#160;pe site-ul asociației: https://stopambroziei.ro/voluntariat/.&#160;&#160; Ambrozia [&#8230;] Articolul Ambrozia trebuie smulsă acum: apel la voluntari pentru acțiune de curățare în Parcul Natural Văcărești apare prima dată în Doctor 360 ."
+    },
     {
       "title": "Când se recomandă testul cu spirometru și ce rezultate oferă?",
       "link": "https://doctor360.ro/cand-se-recomanda-testul-cu-spirometru-si-ce-rezultate-ofera/",
@@ -71,15 +77,15 @@
       "link": "https://doctor360.ro/advertoriale-vs-articole-de-blog-in-2025-ce-prefera-google/",
       "date": "Mon, 01 Dec 2025 12:07:49 +0000",
       "summary": "Marketingul digital evoluează cu o viteză uimitoare. Companiile se luptă constant să înțeleagă unde să își aloce bugetele pentru a obține vizibilitate maximă. (A &#8211; Atenție) Dilema centrală rămâne: este mai eficient să investești în promovare plătită, mascată, sau să construiești o bibliotecă solidă de conținut valoros și autentic? (I &#8211; Interes) Miza este uriașă. [&#8230;] Articolul Advertoriale vs articole de blog în 2025: ce preferă Google apare prima dată în Doctor 360 ."
-    },
-    {
-      "title": "Cum influenteaza zincul calitatea laptelui matern si dezvoltarea sugarului?",
-      "link": "https://doctor360.ro/cum-influenteaza-zincul-calitatea-laptelui-matern-si-dezvoltarea-sugarului/",
-      "date": "Sun, 16 Nov 2025 16:51:30 +0000",
-      "summary": "In primele luni de viata, alimentatia sugarului este esentiala pentru o crestere armonioasa si pentru dezvoltarea imunitatii. Laptele matern este considerat alimentul perfect pentru bebelus, oferind nu doar nutrienti, ci si o legatura emotionala profunda intre mama si copil. Printre elementele esentiale care contribuie la calitatea acestui lapte se numara zincul. Desi adesea trecut cu [&#8230;] Articolul Cum influenteaza zincul calitatea laptelui matern si dezvoltarea sugarului? apare prima dată în Doctor 360 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@doctor360/116726093030680036",
+      "date": "Wed, 10 Jun 2026 13:40:31 +0000",
+      "content": "💡Asociația Stop Ambroziei organizează sâmbătă, 13 iunie, între orele 08:00 și 14:00, o acțiune de curățare a ambroziei din Parcul Natural Văcărești, în parteneriat cu Administrația Parcului Natural Văcărești și Primăria Capitalei. Acțiunea este prima dintr-o serie de intervenții programate de Asociația Stop Ambroziei în luna iunie, o perioadă-cheie pentru combaterea 💡 https:// doctor360.ro/ambrozia-trebuie- smulsa-acum-apel-la-voluntari-pentru-actiune-de-curatare-in-parcul-natural-vacaresti/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@doctor360/116618979897271116",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@doctor360/115694570915496070",
       "date": "Wed, 10 Dec 2025 09:30:53 +0000",
       "content": "💡Marketingul digital evoluează cu o viteză uimitoare. Companiile se luptă constant să înțeleagă unde să își aloce bugetele pentru a obține vizibilitate maximă. (A - Atenție) Dilema centrală rămâne: este mai eficient să investești în promovare plătită, mascată, sau să construiești o bibliotecă solidă de conținut valoros și autentic? (I - Interes) Miza este uriașă.… 💡 https:// doctor360.ro/advertoriale-vs-a rticole-de-blog-in-2025-ce-prefera-google/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@doctor360/115694570789130629",
-      "date": "Wed, 10 Dec 2025 09:30:51 +0000",
-      "content": "💡In primele luni de viata, alimentatia sugarului este esentiala pentru o crestere armonioasa si pentru dezvoltarea imunitatii. Laptele matern este considerat alimentul perfect pentru bebelus, oferind nu doar nutrienti, ci si o legatura emotionala profunda intre mama si copil. Printre elementele esentiale care contribuie la calitatea acestui lapte se numara zincul. Desi adesea trecut cu… 💡 https:// doctor360.ro/cum-influenteaza- zincul-calitatea-laptelui-matern-si-dezvoltarea-sugarului/"
     }
   ]
 }
