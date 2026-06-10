@@ -4,8 +4,14 @@
   "site_feed": "https://femeiaz.ro/feed/",
   "mastodon": "https://social.5th.ro/@femeiAZ",
   "mastodon_rss": "https://social.5th.ro/@femeiAZ.rss",
-  "updated_at": "2026-06-10T01:30:59Z",
+  "updated_at": "2026-06-10T06:41:42Z",
   "site_posts": [
+    {
+      "title": "De la simptom la sursă: cum schimbă brain mapping abordarea sănătății mintale",
+      "link": "https://femeiaz.ro/2026/06/10/de-la-simptom-la-sursa-cum-schimba-brain-mapping-abordarea-sanatatii-mintale/",
+      "date": "Wed, 10 Jun 2026 06:27:16 +0000",
+      "summary": "Timp îndelungat, evaluarea stării psihice s-a bazat aproape exclusiv pe ceea ce spune pacientul, adică, pe descrierea simptomelor, pe istoricul&#8230; Articolul De la simptom la sursă: cum schimbă brain mapping abordarea sănătății mintale apare prima dată în Femei A-Z ."
+    },
     {
       "title": "CONIL FEST 2026: o lume in care niciun copil nu e lasat in urma",
       "link": "https://femeiaz.ro/2026/05/29/conil-fest-2026-o-lume-in-care-niciun-copil-nu-e-lasat-in-urma/",
@@ -59,15 +65,15 @@
       "link": "https://femeiaz.ro/2025/12/01/advertoriale-pentru-ecommerce-in-2025-cum-vinzi-produse-prin-continut/",
       "date": "Mon, 01 Dec 2025 12:07:49 +0000",
       "summary": "În peisajul digital saturat de astăzi, a vinde produse nu mai este suficient. Afacerea dumneavoastră de eCommerce are nevoie de&#8230; Articolul Advertoriale pentru eCommerce în 2025: cum vinzi produse prin conținut apare prima dată în Femei A-Z ."
-    },
-    {
-      "title": "Ilustrand Iubirea in Fotografia de Nunta",
-      "link": "https://femeiaz.ro/2025/11/28/ilustrand-iubirea-in-fotografia-de-nunta/",
-      "date": "Fri, 28 Nov 2025 08:35:11 +0000",
-      "summary": "Fotografia reprezintă arta de a imortaliza momente, emoții și povești într-o singură imagine. Un fotograf talentat poate transforma o zi&#8230; Articolul Ilustrand Iubirea in Fotografia de Nunta apare prima dată în Femei A-Z ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@femeiAZ/116724389458905092",
+      "date": "Wed, 10 Jun 2026 06:27:17 +0000",
+      "content": "https:// femeiaz.ro/2026/06/10/de-la-si mptom-la-sursa-cum-schimba-brain-mapping-abordarea-sanatatii-mintale/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@femeiAZ/116658176742627954",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@femeiAZ/115695329656767855",
       "date": "Wed, 10 Dec 2025 12:43:50 +0000",
       "content": "Alegerea unei crese este una dintre cele mai importante decizii pe care le iei in primii ani de viata ai copilului tau. Este momentul in care incepi sa il lasi sa exploreze lumea in afara familiei, intr-un mediu nou, unde va invata sa se joace, sa comunice si sa descopere lucruri noi. Gasirea unei optiuni… https:// femeiaz.ro/2025/11/16/recomand ari-pentru-parinti-sfaturi-pentru-a-alege-cresa-potrivita-pentru-copilul-tau/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@femeiAZ/115695305622688320",
-      "date": "Wed, 10 Dec 2025 12:37:44 +0000",
-      "content": "Articole pentru femeia de azi: carieră, familie, relații, sănătate, frumusețe, bani și echilibru emoțional. Conținut sincer, modern și ușor de pus în practică. # femeie # stildeviață # relatii # dezvoltarepersonala https:// femeiaz.ro"
     }
   ]
 }
