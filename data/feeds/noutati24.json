@@ -4,8 +4,14 @@
   "site_feed": "https://noutati24.ro/feed/",
   "mastodon": "https://social.5th.ro/@noutati24",
   "mastodon_rss": "https://social.5th.ro/@noutati24.rss",
-  "updated_at": "2026-06-12T19:21:27Z",
+  "updated_at": "2026-06-12T22:00:26Z",
   "site_posts": [
+    {
+      "title": "Ședința de guvern din 12 iunie 2026",
+      "link": "https://noutati24.ro/sedinta-de-guvern-din-12-iunie-2026/",
+      "date": "Fri, 12 Jun 2026 11:57:00 +0000",
+      "summary": "Guvernul României Guvernul este autoritatea publică a puterii executive, care funcționează în baza votului de încredere acordat de Parlament și &#8230; Articolul Ședința de guvern din 12 iunie 2026 apare prima dată în Noutati 24 ."
+    },
     {
       "title": "Vizita premierului Ilie Bolojan în județul Hunedoara",
       "link": "https://noutati24.ro/vizita-premierului-ilie-bolojan-in-judetul-hunedoara/",
@@ -71,15 +77,15 @@
       "link": "https://noutati24.ro/intalnirea-premierului-ilie-bolojan-cu-marea-gimnasta-nadia-comaneci/",
       "date": "Wed, 27 May 2026 18:52:00 +0000",
       "summary": "Galerie foto [embedded content] COMUNICAT DE PRESĂ Premierul Ilie Bolojan: Mulțumesc Nadiei Comăneci pentru ceea ce a făcut pentru România! &#8230; Articolul Întâlnirea premierului Ilie Bolojan cu marea gimnastă Nadia Comăneci apare prima dată în Noutati 24 ."
-    },
-    {
-      "title": "Cum funcționează editarea inteligentă foto-video?",
-      "link": "https://noutati24.ro/cum-functioneaza-editarea-inteligenta-foto-video/",
-      "date": "Tue, 26 May 2026 07:29:00 +0000",
-      "summary": "Cum funcționează editarea inteligentă foto-video? Editarea inteligentă foto-video funcționează prin analizarea imaginii sau a clipului și prin propunerea unor ajustări &#8230; Articolul Cum funcționează editarea inteligentă foto-video? apare prima dată în Noutati 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@noutati24/116739198802203263",
+      "date": "Fri, 12 Jun 2026 21:13:29 +0000",
+      "content": "🆕Guvernul României Guvernul este autoritatea publică a puterii executive, care funcționează în baza votului de încredere acordat de Parlament și care asigură realizarea politicii interne și externe a țării și exercită conducerea generală a administrației publice. Află mai multeArticol preluat de pe gov.ro 🌐 https:// noutati24.ro/sedinta-de-guvern -din-12-iunie-2026/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@noutati24/116705137481581317",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@noutati24/116648284914484681",
       "date": "Wed, 27 May 2026 19:52:54 +0000",
       "content": "🆕Galerie foto [embedded content] COMUNICAT DE PRESĂ Premierul Ilie Bolojan: Mulțumesc Nadiei Comăneci pentru ceea ce a făcut pentru România! Marea gimnastă a României, Nadia Comăneci, a revenit astăzi, la Palatul Victoria, pentru o întâlnire cu prim-ministrul Ilie Bolojan, cu vicepremierul Tánczos Barna și cu președintele Comitetului Olimpic și Sportiv Român, Mihai Covaliu. Întâlnirea a… 🌐 https:// noutati24.ro/intalnirea-premie rului-ilie-bolojan-cu-marea-gimnasta-nadia-comaneci/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@noutati24/116645365523157555",
-      "date": "Wed, 27 May 2026 07:30:27 +0000",
-      "content": "🆕Cum funcționează editarea inteligentă foto-video?Editarea inteligentă foto-video funcționează prin analizarea imaginii sau a clipului și prin propunerea unor ajustări care pot îmbunătăți rapid rezultatul final. AI poate recunoaște elemente precum lumina, fundalul, subiectul, mișcarea, sunetul sau compoziția. În 2026, utilizatorii caută instrumente care nu doar editează, ci îi ajută să obțină conținut mai clar, mai… 🌐 https:// noutati24.ro/cum-functioneaza- editarea-inteligenta-foto-video/"
     }
   ]
 }
