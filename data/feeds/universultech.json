@@ -4,8 +4,14 @@
   "site_feed": "https://UniversulTech.ro/feed/",
   "mastodon": "https://social.5th.ro/@UniversulTech",
   "mastodon_rss": "https://social.5th.ro/@UniversulTech.rss",
-  "updated_at": "2026-06-17T05:16:21Z",
+  "updated_at": "2026-06-17T10:05:26Z",
   "site_posts": [
+    {
+      "title": "Cum îți afectează motorul mașinii un ulei de proastă calitate",
+      "link": "https://universultech.ro/cum-iti-afecteaza-motorul-masinii-un-ulei-de-proasta-calitate/",
+      "date": "Wed, 17 Jun 2026 08:42:45 +0000",
+      "summary": "Mulți șoferi acordă atenție consumului de combustibil, stării anvelopelor sau frecvenței reviziilor, însă nu întotdeauna acordă aceeași importanță uleiului de&#8230; Articolul Cum îți afectează motorul mașinii un ulei de proastă calitate apare prima dată în Universul Tech ."
+    },
     {
       "title": "Experiența de party pe care o poți lua oriunde: sunet portabil pentru vibe-uri de neuitat",
       "link": "https://universultech.ro/experienta-de-party-pe-care-o-poti-lua-oriunde-sunet-portabil-pentru-vibe-uri-de-neuitat/",
@@ -71,15 +77,15 @@
       "link": "https://universultech.ro/ce-inseamna-low-latency-la-casti-wireless/",
       "date": "Wed, 29 Apr 2026 11:17:00 +0000",
       "summary": "Low latency la căști wireless înseamnă o întârziere foarte mică între momentul în care sunetul este generat pe telefon și&#8230; Articolul Ce înseamnă low latency la căști wireless? apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "Cum alegi un televizor cu sunet bun?",
-      "link": "https://universultech.ro/cum-alegi-un-televizor-cu-sunet-bun/",
-      "date": "Tue, 28 Apr 2026 09:12:45 +0000",
-      "summary": "Alegi un televizor cu sunet bun verificând puterea difuzoarelor, tehnologiile audio integrate și capacitatea de a reda clar dialogurile și&#8230; Articolul Cum alegi un televizor cu sunet bun? apare prima dată în Universul Tech ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@UniversulTech/116764558499068762",
+      "date": "Wed, 17 Jun 2026 08:42:48 +0000",
+      "content": "💡Mulți șoferi acordă atenție consumului de combustibil, stării anvelopelor sau frecvenței reviziilor, însă nu întotdeauna acordă aceeași importanță uleiului de motor. În realitate, acesta este unul dintre cele mai importante consumabile ale unei mașini. Rolul său nu se limitează la simpla lubrifiere a componentelor interne, ci contribuie la răcirea motorului, reducerea uzurii, prevenirea depunerilor și… ✅ https:// universultech.ro/cum-iti-afect eaza-motorul-masinii-un-ulei-de-proasta-calitate/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@UniversulTech/116723812782875516",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@UniversulTech/116487719922608050",
       "date": "Wed, 29 Apr 2026 11:19:06 +0000",
       "content": "💡Low latency la căști wireless înseamnă o întârziere foarte mică între momentul în care sunetul este generat pe telefon și momentul în care îl auzi în căști, iar cele mai bune modele în 2026, precum Samsung Galaxy Buds, sunt optimizate pentru a reduce acest decalaj și a oferi o experiență sincronizată în jocuri și conținut… ✅ https:// universultech.ro/ce-inseamna-l ow-latency-la-casti-wireless/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@UniversulTech/116481560979641607",
-      "date": "Tue, 28 Apr 2026 09:12:48 +0000",
-      "content": "💡Alegi un televizor cu sunet bun verificând puterea difuzoarelor, tehnologiile audio integrate și capacitatea de a reda clar dialogurile și efectele sonore fără echipamente externe. În 2026, cele mai bune modele combină hardware performant cu procesare inteligentă a sunetului, oferind o experiență echilibrată chiar și fără soundbar. Introducere Pentru mulți utilizatori, imaginea este primul criteriu… ✅ https:// universultech.ro/cum-alegi-un- televizor-cu-sunet-bun/"
     }
   ]
 }

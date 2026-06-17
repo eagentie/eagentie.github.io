@@ -4,8 +4,14 @@
   "site_feed": "https://recent-news.ro/feed/",
   "mastodon": "https://social.5th.ro/@recent_news",
   "mastodon_rss": "https://social.5th.ro/@recent_news.rss",
-  "updated_at": "2026-06-17T05:14:37Z",
+  "updated_at": "2026-06-17T10:03:31Z",
   "site_posts": [
+    {
+      "title": "cățeluși rase mici de companie – https://tinytreasuresteacups.",
+      "link": "https://recent-news.ro/catelusi-rase-mici-de-companie-https-tinytreasuresteacups/",
+      "date": "Wed, 17 Jun 2026 03:00:09 +0000",
+      "summary": "cățeluși rase mici de companie &#8211; https://tinytreasuresteacups.com/ro/ De ce rasele mici de companie sunt tot mai populare Interesul pentru cățeluși&#8230; Articolul cățeluși rase mici de companie &#8211; https://tinytreasuresteacups. apare prima dată în Recent News ."
+    },
     {
       "title": "De la pasiune la cercetare aplicată: un elev Am School construiește și pregătește lansarea unei rachete",
       "link": "https://recent-news.ro/de-la-pasiune-la-cercetare-aplicata-un-elev-am-school-construieste-si-pregateste-lansarea-unei-rachete/",
@@ -59,15 +65,15 @@
       "link": "https://recent-news.ro/more-networking-10-ani-printr-o-conferinta-despre-puterea-conexiunilor-si-comunitatilor/",
       "date": "Wed, 04 Mar 2026 17:28:57 +0000",
       "summary": "MORE Networking celebrează 10 ani printr-o conferință despre puterea conexiunilor și comunităților O zi intensă de discuții, paneluri și networking&#8230; Articolul MORE Networking &#8211; 10 ani printr-o conferință despre puterea conexiunilor și comunităților apare prima dată în Recent News ."
-    },
-    {
-      "title": "De la trusou de serie la trusou cu identitate proprie",
-      "link": "https://recent-news.ro/de-la-trusou-de-serie-la-trusou-cu-identitate-proprie/",
-      "date": "Wed, 04 Mar 2026 09:12:34 +0000",
-      "summary": "Lovia: Trusourile de botez personalizate, între tradiție și noua estetică a amintirilor de familie Un atelier românesc propune un model&#8230; Articolul De la trusou de serie la trusou cu identitate proprie apare prima dată în Recent News ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@recent_news/116763924004875182",
+      "date": "Wed, 17 Jun 2026 06:01:26 +0000",
+      "content": "cățeluși rase mici de companie - https:// tinytreasuresteacups.com/ro/De ce rasele mici de companie sunt tot mai populareInteresul pentru cățeluși rase mici de companie a crescut puternic în România în ultimii ani, în special în mediul urban. Stilul de viață modern, locuințele de tip apartament și programul încărcat au făcut ca tot mai mulți oameni să prefere… https:// recent-news.ro/catelusi-rase-m ici-de-companie-https-tinytreasuresteacups/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@recent_news/116680968346340303",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@recent_news/116040037169813887",
       "date": "Mon, 09 Feb 2026 09:47:29 +0000",
       "content": "Trecerea de la un anotimp la altul nu inseamna doar sa schimbi hainele din dulap sau sa reglezi centrala. Si patul tau are nevoie de o „garderoba” potrivita, mai ales daca iti doresti un somn odihnitor, fara intreruperi. Lenjeria de pat nu e doar un decor dragut, este materialul care iti atinge pielea ore in… https:// recent-news.ro/se-schimba-anot impul-iata-ce-lenjerii-de-pat-sa-alegi/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@recent_news/116040032579606269",
-      "date": "Mon, 09 Feb 2026 09:46:19 +0000",
-      "content": "Pastele este sarbatoarea care te face sa incetinesti. Sa lasi orasul in urma, sa te rupi de agitatie si sa cauti un loc unde lucrurile se intampla firesc si simplu. Tot mai multi oameni aleg sa petreaca Pastele la munte, intr-o zona autentica, unde traditiile nu sunt doar pentru turisti, ci fac parte din viata… https:// recent-news.ro/vacanta-de-past e-in-viseu-de-sus-munte-traditii-si-timp-pentru-familie/"
     }
   ]
 }

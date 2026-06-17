@@ -4,8 +4,14 @@
   "site_feed": "https://e-faq.ro/feed/",
   "mastodon": "https://social.5th.ro/@efaq",
   "mastodon_rss": "https://social.5th.ro/@efaq.rss",
-  "updated_at": "2026-06-17T05:15:41Z",
+  "updated_at": "2026-06-17T10:04:43Z",
   "site_posts": [
+    {
+      "title": "Cum găsești o licență Windows originală fără să plătești prea mult?",
+      "link": "https://e-faq.ro/cum-gasesti-o-licenta-windows-originala-fara-sa-platesti-prea-mult/",
+      "date": "Wed, 17 Jun 2026 08:47:13 +0000",
+      "summary": "Cumpărarea unei licențe Windows 11 nu trebuie să fie complicată sau costisitoare. Există numeroase opțiuni [&#8230;] Articolul Cum găsești o licență Windows originală fără să plătești prea mult? apare prima dată în FAQ - Intrebari Frecvente ."
+    },
     {
       "title": "Espressor în Custodie pentru Birou — Întrebări și Răspunsuri",
       "link": "https://e-faq.ro/espressor-in-custodie-pentru-birou-intrebari-si-raspunsuri/",
@@ -53,15 +59,15 @@
       "link": "https://e-faq.ro/releul-termic-dispozitivul-discret-care-protejeaza-motoarele-din-fabrici-si-locuinte/",
       "date": "Thu, 26 Mar 2026 07:31:39 +0000",
       "summary": "Când un motor electric cedează brusc în mijlocul unei linii de producție, costurile nu vin [&#8230;] Articolul Releul termic: dispozitivul discret care protejează motoarele din fabrici și locuințe apare prima dată în FAQ - Intrebari Frecvente ."
-    },
-    {
-      "title": "Espressor în Custodie: Ghidul Complet pentru Cafeaua Premium fără Costuri de Achiziție",
-      "link": "https://e-faq.ro/espressor-in-custodie-ghidul-complet-pentru-cafeaua-premium-fara-costuri-de-achizitie/",
-      "date": "Tue, 24 Mar 2026 14:43:12 +0000",
-      "summary": "Espressor în custodie fără investiție inițială! Aparate profesionale livrate și instalate gratuit. Plătești doar cafeaua. Descoperă oferta pe Expresorul.ro Articolul Espressor în Custodie: Ghidul Complet pentru Cafeaua Premium fără Costuri de Achiziție apare prima dată în FAQ - Intrebari Frecvente ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@efaq/116764576115905720",
+      "date": "Wed, 17 Jun 2026 08:47:16 +0000",
+      "content": "🚀 Cumpărarea unei licențe Windows 11 nu trebuie să fie complicată sau costisitoare. Există numeroase opțiuni disponibile online, însă este important să alegi o platformă de încredere și să înțelegi diferențele dintre tipurile de licențe existente. Descoperă principalele aspecte pe care ar trebui să le verifici înainte de a face o achiziție. Produsele digitale au devenit… 🔗 Complet aici: https:// e-faq.ro/cum-gasesti-o-licenta -windows-originala-fara-sa-platesti-prea-mult/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@efaq/116720194944893981",
@@ -127,12 +133,6 @@
       "link": "https://social.5th.ro/@efaq/116238648262487092",
       "date": "Mon, 16 Mar 2026 11:36:54 +0000",
       "content": "🚀 În ziua de azi se găsesc o mulțime de cărți pentru copii, povești frumoase, incredibile și pline de culoare. Întrebarea este dacă în lumea aceasta fantastică a noilor cărți pentru copii, cu subiecte actuale, culori și desene, își mai pot găsi locul și cărțile vechi? Ei bine, un schimb de experiențe între adulți și copii… 🔗 Citeste tot: https:// e-faq.ro/lumea-cartilor-pentru -copii/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@efaq/116182921743102447",
-      "date": "Fri, 06 Mar 2026 15:24:55 +0000",
-      "content": "🚀 Un soft de gestiune hotelieră nu înlocuiește rolul personalului și nici nu acoperă integral toate procesele operaționale sau de marketing, însă poate facilita anumite activități importante. De la centralizarea rezervărilor și urmărirea istoricului oaspeților, până la crearea de oferte sau promoții, aceste soluții sprijină gestionarea anumitor aspecte și oferă mai multă claritate în evidența 🔗 Mai mult: https:// e-faq.ro/rolul-unui-soft-de-ge stiune-hoteliera-in-fidelizarea-clientilor/"
     }
   ]
 }
