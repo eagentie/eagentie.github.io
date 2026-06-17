@@ -4,8 +4,14 @@
   "site_feed": "https://brasov-azi.ro/feed/",
   "mastodon": "https://social.5th.ro/@brasov",
   "mastodon_rss": "https://social.5th.ro/@brasov.rss",
-  "updated_at": "2026-06-17T10:04:13Z",
+  "updated_at": "2026-06-17T13:59:37Z",
   "site_posts": [
+    {
+      "title": "Cum eviți problemele când răspunzi la anunțuri online",
+      "link": "https://brasov-azi.ro/cum-eviti-problemele-cand-raspunzi-la-anunturi-online/",
+      "date": "Wed, 17 Jun 2026 11:55:16 +0000",
+      "summary": "Un ghid practic despre cum răspunzi mai atent la anunțuri online, ce întrebări trebuie să pui, cum verifici oferta și ce semne ar trebui tratate cu prudență. Articolul Cum eviți problemele când răspunzi la anunțuri online apare prima dată în Brasov AZI ."
+    },
     {
       "title": "Curele trapezoidale: tipuri, utilizări și cum alegi corect pentru utilaje și aplicații industriale",
       "link": "https://brasov-azi.ro/curele-trapezoidale-tipuri-utilizari-si-cum-alegi-corect-pentru-utilaje-si-aplicatii-industriale/",
@@ -71,15 +77,15 @@
       "link": "https://brasov-azi.ro/cetatea-rupea-cum-o-vizitezi-eficient-top-puncte-de-belvedere-2026/",
       "date": "Sun, 01 Feb 2026 04:28:53 +0000",
       "summary": "Cetatea Rupea, monument istoric din Transilvania, este ușor accesibilă lângă E60 și oferă, în doar două ore, priveliști spectaculoase. Articolul Cetatea Rupea: cum o vizitezi eficient + top puncte de belvedere (2026) apare prima dată în Brasov AZI ."
-    },
-    {
-      "title": "Cetatea Râșnov 2026: ce e deschis, cum urci și ce merită văzut (update practic)",
-      "link": "https://brasov-azi.ro/cetatea-rasnov-2026-ce-e-deschis-cum-urci-si-ce-merita-vazut-update-practic/",
-      "date": "Sat, 31 Jan 2026 08:02:47 +0000",
-      "summary": "Fortificația medievală Râșnov, care a rezistat invaziei tătare, oferă azi acces parțial (curtea exterioară) și panorame spectaculoase. Articolul Cetatea Râșnov 2026: ce e deschis, cum urci și ce merită văzut (update practic) apare prima dată în Brasov AZI ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@brasov/116765315329441237",
+      "date": "Wed, 17 Jun 2026 11:55:16 +0000",
+      "content": "Un ghid practic despre cum răspunzi mai atent la anunțuri online, ce întrebări trebuie să pui, cum verifici oferta și ce semne ar trebui tratate cu prudență. https:// brasov-azi.ro/cum-eviti-proble mele-cand-raspunzi-la-anunturi-online/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@brasov/116599656751961414",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@brasov/115993962503376535",
       "date": "Sun, 01 Feb 2026 06:30:06 +0000",
       "content": "Cetatea Rupea, monument istoric din Transilvania, este ușor accesibilă lângă E60 și oferă, în doar două ore, priveliști spectaculoase. https:// brasov-azi.ro/cetatea-rupea-cu m-o-vizitezi-eficient-top-puncte-de-belvedere-2026/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@brasov/115989147001597328",
-      "date": "Sat, 31 Jan 2026 10:05:27 +0000",
-      "content": "Fortificația medievală Râșnov, care a rezistat invaziei tătare, oferă azi acces parțial (curtea exterioară) și panorame spectaculoase. https:// brasov-azi.ro/cetatea-rasnov-2 026-ce-e-deschis-cum-urci-si-ce-merita-vazut-update-practic/"
     }
   ]
 }
