@@ -4,8 +4,14 @@
   "site_feed": "https://pentruoameni.ro/feed/",
   "mastodon": "https://social.5th.ro/@pentruoameni",
   "mastodon_rss": "https://social.5th.ro/@pentruoameni.rss",
-  "updated_at": "2026-06-18T11:16:21Z",
+  "updated_at": "2026-06-18T14:23:47Z",
   "site_posts": [
+    {
+      "title": "Cele mai căutate zone rezidențiale din nordul Capitalei pentru un stil de viață modern",
+      "link": "https://pentruoameni.ro/cele-mai-cautate-zone-rezidentiale-din-nordul-capitalei-pentru-un-stil-de-viata-modern/",
+      "date": "Sun, 07 Jun 2026 13:18:00 +0000",
+      "summary": "Achiziția unei locuințe premium reprezintă una dintre cele mai importante decizii financiare și personale pe care o poate lua o familie sau un investitor. &#206;n ultimii ani, nordul Bucureștiului a devenit polul principal al dezvoltărilor rezidențiale moderne, atrăg&#226;nd cumpărători interesați de confort, accesibilitate și un mediu urban de &#238;naltă calitate. Zone precum Aviației, Băneasa și [&#8230;] Articolul Cele mai căutate zone rezidențiale din nordul Capitalei pentru un stil de viață modern apare prima dată în Pentru Oameni ."
+    },
     {
       "title": "CONIL FEST 2026: Locul unde fiecare copil apartine",
       "link": "https://pentruoameni.ro/conil-fest-2026-locul-unde-fiecare-copil-apartine/",
@@ -71,15 +77,15 @@
       "link": "https://pentruoameni.ro/capcanele-antrenamentului-greseli-care-iti-saboteaza-activitatea-fizica-constanta/",
       "date": "Wed, 18 Mar 2026 16:17:10 +0000",
       "summary": "Tu ești arhitectul propriului stil de viață, dar uneori planurile tale sunt subminate de așteptări nerealiste sau de o abordare rigidă a sportului. A rămâne activ pe termen lung presupune o înțelegere profundă a modului în care funcționează corpul și mintea ta. În rândurile ce urmează, vei descoperi acele erori comune care îți fură motivația [&#8230;] Articolul Capcanele antrenamentului: Greșeli care îți sabotează activitatea fizică constantă apare prima dată în Pentru Oameni ."
-    },
-    {
-      "title": "De ce lubrifianții industriali de performanță sunt esențiali pentru utilaje?",
-      "link": "https://pentruoameni.ro/de-ce-lubrifiantii-industriali-de-performanta-sunt-esentiali-pentru-utilaje/",
-      "date": "Tue, 17 Mar 2026 19:07:52 +0000",
-      "summary": "Pentru orice domeniu industrial care se folosește de mașini-unelte, utilaje și mașinării de forță, eficiența și longevitatea acestor echipamente esențiale se află în centrul tuturor activităților de producție. Alegerea lubrifianților industriali de performanță potriviți nu mai este, în acest domeniu, doar o decizie de simplă întreținere, ci o investiție strategică în viitorul afacerii tale. Pe [&#8230;] Articolul De ce lubrifianții industriali de performanță sunt esențiali pentru utilaje? apare prima dată în Pentru Oameni ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@pentruoameni/116771314394292628",
+      "date": "Thu, 18 Jun 2026 13:20:54 +0000",
+      "content": "Achiziția unei locuințe premium reprezintă una dintre cele mai importante decizii financiare și personale pe care o poate lua o familie sau un investitor. În ultimii ani, nordul Bucureștiului a devenit polul principal al dezvoltărilor rezidențiale moderne, atrăgând cumpărători interesați de confort, accesibilitate și un mediu urban de înaltă calitate. Zone precum Aviației, Băneasa .... https:// pentruoameni.ro/cele-mai-cauta te-zone-rezidentiale-din-nordul-capitalei-pentru-un-stil-de-viata-modern/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@pentruoameni/116658203033005076",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@pentruoameni/116251075106804443",
       "date": "Wed, 18 Mar 2026 16:17:13 +0000",
       "content": "Tu ești arhitectul propriului stil de viață, dar uneori planurile tale sunt subminate de așteptări nerealiste sau de o abordare rigidă a sportului. A rămâne activ pe termen lung presupune o înțelegere profundă a modului în care funcționează corpul și mintea ta. În rândurile ce urmează, vei descoperi acele erori comune care îți fură motivația… .... https:// pentruoameni.ro/capcanele-antr enamentului-greseli-care-iti-saboteaza-activitatea-fizica-constanta/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@pentruoameni/116246083933779332",
-      "date": "Tue, 17 Mar 2026 19:07:54 +0000",
-      "content": "Pentru orice domeniu industrial care se folosește de mașini-unelte, utilaje și mașinării de forță, eficiența și longevitatea acestor echipamente esențiale se află în centrul tuturor activităților de producție.Alegerea lubrifianților industriali de performanță potriviți nu mai este, în acest domeniu, doar o decizie de simplă întreținere, ci o investiție strategică în viitorul afacerii tale. .... https:// pentruoameni.ro/de-ce-lubrifia ntii-industriali-de-performanta-sunt-esentiali-pentru-utilaje/"
     }
   ]
 }
