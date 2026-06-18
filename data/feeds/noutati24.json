@@ -4,8 +4,14 @@
   "site_feed": "https://noutati24.ro/feed/",
   "mastodon": "https://social.5th.ro/@noutati24",
   "mastodon_rss": "https://social.5th.ro/@noutati24.rss",
-  "updated_at": "2026-06-18T20:38:05Z",
+  "updated_at": "2026-06-18T23:04:32Z",
   "site_posts": [
+    {
+      "title": "Ședința de guvern din 18 iunie 2026",
+      "link": "https://noutati24.ro/sedinta-de-guvern-din-18-iunie-2026/",
+      "date": "Thu, 18 Jun 2026 14:10:00 +0000",
+      "summary": "Guvernul României Guvernul este autoritatea publică a puterii executive, care funcționează în baza votului de încredere acordat de Parlament și &#8230; Articolul Ședința de guvern din 18 iunie 2026 apare prima dată în Noutati 24 ."
+    },
     {
       "title": "TABARA DE VARA LA BRAN — O SAPTAMANA CARE SCHIMBA TOT",
       "link": "https://noutati24.ro/tabara-de-vara-la-bran-o-saptamana-care-schimba-tot/",
@@ -71,15 +77,15 @@
       "link": "https://noutati24.ro/intrevederea-premierului-ilie-bolojan-cu-reprezentantii-companiei-atkinsrealis-canada/",
       "date": "Thu, 28 May 2026 18:13:00 +0000",
       "summary": "Galerie foto COMUNICAT DE PRESĂ Reprezentanții Guvernului și cei ai companiei AtkinsRealis Canada au analizat astăzi, la Palatul Victoria, stadiul &#8230; Articolul Întrevederea premierului Ilie Bolojan cu reprezentanții companiei AtkinsRealis Canada apare prima dată în Noutati 24 ."
-    },
-    {
-      "title": "Ședința de guvern din 28 mai",
-      "link": "https://noutati24.ro/sedinta-de-guvern-din-28-mai/",
-      "date": "Thu, 28 May 2026 13:13:00 +0000",
-      "summary": "Guvernul României Guvernul este autoritatea publică a puterii executive, care funcționează în baza votului de încredere acordat de Parlament și &#8230; Articolul Ședința de guvern din 28 mai apare prima dată în Noutati 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@noutati24/116773322118531864",
+      "date": "Thu, 18 Jun 2026 21:51:30 +0000",
+      "content": "🆕Guvernul României Guvernul este autoritatea publică a puterii executive, care funcționează în baza votului de încredere acordat de Parlament și care asigură realizarea politicii interne și externe a țării și exercită conducerea generală a administrației publice. Află mai multeArticol preluat de pe gov.ro 🌐 https:// noutati24.ro/sedinta-de-guvern -din-18-iunie-2026/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@noutati24/116759574236025345",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@noutati24/116653980717332949",
       "date": "Thu, 28 May 2026 20:01:25 +0000",
       "content": "🆕Guvernul României Guvernul este autoritatea publică a puterii executive, care funcționează în baza votului de încredere acordat de Parlament și care asigură realizarea politicii interne și externe a țării și exercită conducerea generală a administrației publice. Află mai multeArticol preluat de pe gov.ro 🌐 https:// noutati24.ro/sedinta-de-guvern -din-28-mai/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@noutati24/116653980518137262",
-      "date": "Thu, 28 May 2026 20:01:22 +0000",
-      "content": "🆕Galerie foto COMUNICAT DE PRESĂ Reprezentanții Guvernului și cei ai companiei AtkinsRealis Canada au analizat astăzi, la Palatul Victoria, stadiul implementării proiectului de retehnologizare a Unității 1 și al pregătirii proiectului pentru realizarea reactoarelor 3 și 4 de la CNE Cernavodă. Proiectul de retehnologizare a Unității 1 de la Cernavodă se desfășoară conform calendarului de… 🌐 https:// noutati24.ro/intrevederea-prem ierului-ilie-bolojan-cu-reprezentantii-companiei-atkinsrealis-canada/"
     }
   ]
 }
