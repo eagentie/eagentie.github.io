@@ -4,8 +4,14 @@
   "site_feed": "https://noutati24.ro/feed/",
   "mastodon": "https://social.5th.ro/@noutati24",
   "mastodon_rss": "https://social.5th.ro/@noutati24.rss",
-  "updated_at": "2026-06-22T13:04:12Z",
+  "updated_at": "2026-06-22T17:48:05Z",
   "site_posts": [
+    {
+      "title": "Important: Siguranța locuinței tale depinde de un regulator de GPL de calitate",
+      "link": "https://noutati24.ro/important-siguranta-locuintei-tale-depinde-de-un-regulator-de-gpl-de-calitate/",
+      "date": "Mon, 22 Jun 2026 14:02:55 +0000",
+      "summary": "Gazul folosit &#238;n locuință, la centrală, aragaz, boiler, &#238;ncălzitoare sau alte echipamente trebuie controlat corect &#238;nainte să ajungă la consumator. &#8230; Articolul Important: Siguranța locuinței tale depinde de un regulator de GPL de calitate apare prima dată în Noutati 24 ."
+    },
     {
       "title": "Ședința de guvern din 18 iunie 2026",
       "link": "https://noutati24.ro/sedinta-de-guvern-din-18-iunie-2026/",
@@ -71,15 +77,15 @@
       "link": "https://noutati24.ro/ajutoare-de-urgenta-pentru-familiile-din-galati-afectate-de-explozia-provocata-de-drona/",
       "date": "Fri, 29 May 2026 18:50:00 +0000",
       "summary": "COMUNICAT DE PRESĂ&#160; Familiile și persoanele din Galați ale căror locuințe au fost&#160;afectate de prăbușirea dronei din noaptea de 29 &#8230; Articolul Ajutoare de urgență pentru familiile din Galați afectate de explozia provocată de dronă apare prima dată în Noutati 24 ."
-    },
-    {
-      "title": "Vizita premierului Ilie Bolojan în Republica Moldova",
-      "link": "https://noutati24.ro/vizita-premierului-ilie-bolojan-in-republica-moldova/",
-      "date": "Fri, 29 May 2026 09:53:00 +0000",
-      "summary": "Galerie foto Vizita prim-ministrului Ilie Bolojan în Republica Moldova COMUNICAT DE PRESĂ Securitatea regională, parcursul european al Republicii Moldova, cooperarea &#8230; Articolul Vizita premierului Ilie Bolojan în Republica Moldova apare prima dată în Noutati 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@noutati24/116794857537165824",
+      "date": "Mon, 22 Jun 2026 17:08:14 +0000",
+      "content": "🆕Gazul folosit în locuință, la centrală, aragaz, boiler, încălzitoare sau alte echipamente trebuie controlat corect înainte să ajungă la consumator. Regulatorul de GPL are un rol direct în această etapă, deoarece reduce și stabilizează presiunea gazului din butelie sau din instalație, astfel încât aparatul alimentat să funcționeze în parametri siguri. Un regulator slab, ales greșit… 🌐 https:// noutati24.ro/important-siguran ta-locuintei-tale-depinde-de-un-regulator-de-gpl-de-calitate/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@noutati24/116793582771013754",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@noutati24/116659649834151758",
       "date": "Fri, 29 May 2026 20:03:08 +0000",
       "content": "🆕Galerie foto Vizita prim-ministrului Ilie Bolojan în Republica Moldova COMUNICAT DE PRESĂ Securitatea regională, parcursul european al Republicii Moldova, cooperarea bilaterală și reforma administrației publice locale au fost principalele teme abordate de prim-ministrul României, Ilie Bolojan, în cadrul vizitei efectuate astăzi la Chișinău. Premierul român a avut întrevederi cu președinta Republicii Moldova, Maia 🌐 https:// noutati24.ro/vizita-premierulu i-ilie-bolojan-in-republica-moldova/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@noutati24/116659649507112157",
-      "date": "Fri, 29 May 2026 20:03:03 +0000",
-      "content": "🆕COMUNICAT DE PRESĂ Familiile și persoanele din Galați ale căror locuințe au fost afectate de prăbușirea dronei din noaptea de 29 mai 2026 vor primi ajutoare financiare de urgență. Decizia a fost luată în ședința Comitetului Național pentru Situații de Urgență, convocat de prim-ministrul Ilie Bolojan. Ajutoarele acordate vor fi de:- 10.000 de lei pentru fiecare… 🌐 https:// noutati24.ro/ajutoare-de-urgen ta-pentru-familiile-din-galati-afectate-de-explozia-provocata-de-drona/"
     }
   ]
 }

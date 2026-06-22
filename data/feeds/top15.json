@@ -4,8 +4,14 @@
   "site_feed": "https://top15.ro/feed/",
   "mastodon": "https://social.5th.ro/@top",
   "mastodon_rss": "https://social.5th.ro/@top.rss",
-  "updated_at": "2026-06-22T13:05:13Z",
+  "updated_at": "2026-06-22T17:49:06Z",
   "site_posts": [
+    {
+      "title": "Diferențele majore dintre un hidrofor clasic și o pompă submersibilă",
+      "link": "https://top15.ro/diferentele-majore-dintre-un-hidrofor-clasic-si-o-pompa-submersibila/",
+      "date": "Mon, 22 Jun 2026 14:02:44 +0000",
+      "summary": "Asigurarea apei curente reprezintă o prioritate atunci c&#226;nd locuiești la casă și nu ai posibilitatea... Articolul Diferențele majore dintre un hidrofor clasic și o pompă submersibilă apare prima dată în TOP 15 ."
+    },
     {
       "title": "Cele mai bune zone de cazare pentru o vacanță în Zakynthos",
       "link": "https://top15.ro/cele-mai-bune-zone-de-cazare-pentru-o-vacanta-in-zakynthos/",
@@ -71,15 +77,15 @@
       "link": "https://top15.ro/credite-nevoi-personale-intre-am-nevoie-si-am-rezolvat/",
       "date": "Wed, 06 May 2026 12:10:34 +0000",
       "summary": "Accesarea unui credit nu ar trebui să fie doar o chestiune financiară, ar trebui să... Articolul Credite nevoi personale: între „am nevoie” și „am rezolvat” apare prima dată în TOP 15 ."
-    },
-    {
-      "title": "Motion Clinic s-a deschis în Snagov Plaza: fizioterapie, kinetoterapie și recuperare medicală în Ilfov",
-      "link": "https://top15.ro/motion-clinic-s-a-deschis-in-snagov-plaza-fizioterapie-kinetoterapie-si-recuperare-medicala-in-ilfov/",
-      "date": "Tue, 05 May 2026 12:18:09 +0000",
-      "summary": "Motion Clinic anunță deschiderea clinicii de fizioterapie, kinetoterapie și recuperare medicală din Snagov Plaza, Ilfov.... Articolul Motion Clinic s-a deschis în Snagov Plaza: fizioterapie, kinetoterapie și recuperare medicală în Ilfov apare prima dată în TOP 15 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@top/116794840710553236",
+      "date": "Mon, 22 Jun 2026 17:03:57 +0000",
+      "content": "📰Asigurarea apei curente reprezintă o prioritate atunci când locuiești la casă și nu ai posibilitatea să te conectezi la o rețea publică de distribuție. Alimentarea bucătăriei, a băilor și funcționarea corectă a electrocasnicelor depind în totalitate de sistemul pe care îl instalezi în curte. Când începi să cauți soluții, observi rapid că ai la dispoziție… 📰 https:// top15.ro/diferentele-majore-di ntre-un-hidrofor-clasic-si-o-pompa-submersibila/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@top/116793572233475210",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@top/116527558710763602",
       "date": "Wed, 06 May 2026 12:10:38 +0000",
       "content": "📰Accesarea unui credit nu ar trebui să fie doar o chestiune financiară, ar trebui să fie o decizie ce ține de responsabilitate. Impulsul inițial de „am nevoie” ar trebui chibzuit cu atenție, astfel ca creditul să ofere satisfacția de „am rezolvat” și să nu devină o povară greu de gestionat. Vedem că accesul la finanțare… 📰 https:// top15.ro/credite-nevoi-persona le-intre-am-nevoie-si-am-rezolvat/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@top/116521926185520976",
-      "date": "Tue, 05 May 2026 12:18:12 +0000",
-      "content": "📰Motion Clinic anunță deschiderea clinicii de fizioterapie, kinetoterapie și recuperare medicală din Snagov Plaza, Ilfov. Noua clinică se adresează pacienților care au nevoie de evaluare, tratament și recuperare într-un cadru modern, accesibil și orientat către funcționalitate. Clinica este situată pe Șoseaua București–Ploiești 129, Snagov Plaza, Intersecția Snagov, DN1, 📰 https:// top15.ro/motion-clinic-s-a-des chis-in-snagov-plaza-fizioterapie-kinetoterapie-si-recuperare-medicala-in-ilfov/"
     }
   ]
 }
