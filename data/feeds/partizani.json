@@ -4,8 +4,14 @@
   "site_feed": "https://partizani.ro/feed/",
   "mastodon": "https://social.5th.ro/@Partizani",
   "mastodon_rss": "https://social.5th.ro/@Partizani.rss",
-  "updated_at": "2026-06-22T06:41:07Z",
+  "updated_at": "2026-06-22T13:04:42Z",
   "site_posts": [
+    {
+      "title": "Sisteme de încălzire prin pardoseală: merită investiția?",
+      "link": "https://partizani.ro/sisteme-de-incalzire-prin-pardoseala-merita-investitia/",
+      "date": "Thu, 18 Jun 2026 08:05:22 +0000",
+      "summary": "Acum câțiva ani încălzirea prin pardoseală era considerată un lux. Motivele sunt destul de clare: nu mai simți curenții de aer rece de la nivelul podelei, nu mai ai calorifere care ocupă loc pe pereți și, la final de lună, factura la energie arată mai bine decât te-ai aștepta. Ce [&#8230;] Articolul Sisteme de încălzire prin pardoseală: merită investiția? apare prima dată în Partizani ."
+    },
     {
       "title": "Ce trebuie să știi despre montajul unei fațade din lemn exotic pentru clădirea ta?",
       "link": "https://partizani.ro/ce-trebuie-sa-stii-despre-montajul-unei-fatade-din-lemn-exotic-pentru-cladirea-ta/",
@@ -59,12 +65,6 @@
       "link": "https://partizani.ro/site-ul-tau-ar-trebui-sa-munceasca-pentru-tine-automatizari-reale-care-cresc-afaceri-in-2026/",
       "date": "Sat, 14 Feb 2026 23:22:00 +0000",
       "summary": "În 2026, un site care doar „prezintă informații” este un activ mort. Arată bine, poate chiar primește trafic, dar nu contribuie activ la creșterea afacerii. Antreprenorii care câștigă piață sunt cei care au înțeles un lucru esențial: site-ul trebuie să muncească, nu doar să existe. Automatizarea nu mai este un [&#8230;] Articolul Site-ul tău ar trebui să muncească pentru tine: automatizări reale care cresc afaceri în 2026 apare prima dată în Partizani ."
-    },
-    {
-      "title": "Împrumutul rapid: situații reale în care te poate scoate din impas",
-      "link": "https://partizani.ro/imprumutul-rapid-situatii-reale-in-care-te-poate-scoate-din-impas/",
-      "date": "Wed, 11 Feb 2026 14:00:59 +0000",
-      "summary": "Stabilitatea financiară nu urmează întotdeauna un plan bine stabilit. Chiar dacă ai un buget organizat și economii, pot apărea cheltuieli neașteptate care îți pun presiune pe resursele disponibile. În astfel de momente, un împrumut rapid poate fi o soluție temporară pentru a gestiona situația fără să faci compromisuri majore. Un [&#8230;] Articolul Împrumutul rapid: situații reale în care te poate scoate din impas apare prima dată în Partizani ."
     }
   ],
   "mastodon_posts": []

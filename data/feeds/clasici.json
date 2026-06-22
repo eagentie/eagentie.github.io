@@ -4,8 +4,14 @@
   "site_feed": "https://clasici.ro/feed/",
   "mastodon": "https://social.5th.ro/@clasici",
   "mastodon_rss": "https://social.5th.ro/@clasici.rss",
-  "updated_at": "2026-06-22T06:40:46Z",
+  "updated_at": "2026-06-22T13:04:22Z",
   "site_posts": [
+    {
+      "title": "Ce deserturi tradiționale merită încercate în Roma",
+      "link": "https://clasici.ro/ce-deserturi-traditionale-merita-incercate-in-roma/",
+      "date": "Fri, 12 Jun 2026 10:45:00 +0000",
+      "summary": "G&#226;ndul la capitala Italiei te duce instantaneu la Colosseum, la străduțele pietruite din Trastevere și..."
+    },
     {
       "title": "Medic chirurg Medicover Pipera: când să programezi un consult",
       "link": "https://clasici.ro/medic-chirurg-medicover-pipera-cand-sa-programezi-un-consult/",
@@ -71,15 +77,15 @@
       "link": "https://clasici.ro/cum-sa-iti-vopsesti-corect-suvitele-si-sa-obtii-un-look-spectaculos/",
       "date": "Wed, 08 Oct 2025 07:56:35 +0000",
       "summary": "Schimbarea culorii părului rămâne una dintre cele mai accesibile și creative modalități de a-ți exprima..."
-    },
-    {
-      "title": "Excursii Jurilovca în Delta Dunării – poarta spre Gura Portiței",
-      "link": "https://clasici.ro/excursii-jurilovca-in-delta-dunarii-poarta-spre-gura-portitei/",
-      "date": "Wed, 03 Sep 2025 23:58:29 +0000",
-      "summary": "Visiți Delta Dunării? Atunci pregătiți-vă pentru o aventură de neuitat! Imagine: soarele răsare peste apele..."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@clasici/116793588093054579",
+      "date": "Mon, 22 Jun 2026 11:45:24 +0000",
+      "content": "⭐Gândul la capitala Italiei te duce instantaneu la Colosseum, la străduțele pietruite din Trastevere și la aromele inconfundabile ale bucătăriei romane. Dincolo de pastele carbonara sau pizza al taglio, orașul ascunde o cultură fascinantă a dulciurilor. Cofetăriile istorice și gelateriile artizanale oferă produse care respectă rețete vechi de secole. Gustul autentic provine din ingrediente simple,… ⭐ https:// clasici.ro/ce-deserturi-tradit ionale-merita-incercate-in-roma/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@clasici/116549580801138193",

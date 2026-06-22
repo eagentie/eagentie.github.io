@@ -4,7 +4,7 @@
   "site_feed": "https://recent-news.ro/feed/",
   "mastodon": "https://social.5th.ro/@recent_news",
   "mastodon_rss": "https://social.5th.ro/@recent_news.rss",
-  "updated_at": "2026-06-22T06:39:55Z",
+  "updated_at": "2026-06-22T13:03:30Z",
   "site_posts": [
     {
       "title": "cățeluși rase mici de companie – https://tinytreasuresteacups.",
@@ -17,6 +17,12 @@
       "link": "https://recent-news.ro/ce-caracteristici-definesc-o-investitie-imobiliara-premium-in-bucuresti/",
       "date": "Thu, 11 Jun 2026 13:12:00 +0000",
       "summary": "Piața rezidențială premium din București s-a schimbat semnificativ &#238;n ultimii ani. Dacă &#238;n trecut cumpărătorii puneau accent &#238;n primul r&#226;nd&#8230; Articolul Ce caracteristici definesc o investiție imobiliară premium în București apare prima dată în Recent News ."
+    },
+    {
+      "title": "De ce Bulgaria rămâne una dintre cele mai populare destinații pentru români",
+      "link": "https://recent-news.ro/de-ce-bulgaria-ramane-una-dintre-cele-mai-populare-destinatii-pentru-romani/",
+      "date": "Wed, 03 Jun 2026 08:21:00 +0000",
+      "summary": "Planurile pentru concediu &#238;ncep adesea cu o listă lungă de dorințe. Vrei o plajă curată, cazare confortabilă, m&#226;ncare bună și&#8230; Articolul De ce Bulgaria rămâne una dintre cele mai populare destinații pentru români apare prima dată în Recent News ."
     },
     {
       "title": "De la pasiune la cercetare aplicată: un elev Am School construiește și pregătește lansarea unei rachete",
@@ -59,15 +65,15 @@
       "link": "https://recent-news.ro/cum-alegi-o-firma-de-amenajari-interioare-serioasa-ghid-complet-pentru-o-renovare-fara-stres/",
       "date": "Sat, 21 Mar 2026 22:17:28 +0000",
       "summary": "Renovarea unei locuinte este una dintre cele mai importante investitii pe care le facem in confortul nostru. Fie ca este&#8230; Articolul Cum alegi o firma de amenajari interioare serioasa? Ghid complet pentru o renovare fara stres apare prima dată în Recent News ."
-    },
-    {
-      "title": "Greșeli frecvente în dotarea unui salon beauty și cum pot fi evitate?",
-      "link": "https://recent-news.ro/greseli-frecvente-in-dotarea-unui-salon-beauty-si-cum-pot-fi-evitate/",
-      "date": "Fri, 13 Mar 2026 02:37:57 +0000",
-      "summary": "Dacă ești la început de drum sau vrei să îți deschizi propriul salon beauty, dotarea este una dintre cele mai&#8230; Articolul Greșeli frecvente în dotarea unui salon beauty și cum pot fi evitate? apare prima dată în Recent News ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@recent_news/116793517476299598",
+      "date": "Mon, 22 Jun 2026 11:27:27 +0000",
+      "content": "Planurile pentru concediu încep adesea cu o listă lungă de dorințe. Vrei o plajă curată, cazare confortabilă, mâncare bună și un drum care să nu te lase fără energie înainte de a ajunge la destinație. Bulgaria bifează toate aceste cerințe de ani de zile. Turiștii români revin aici în fiecare sezon estival, dar și în… https:// recent-news.ro/de-ce-bulgaria- ramane-una-dintre-cele-mai-populare-destinatii-pentru-romani/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@recent_news/116771288558777249",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@recent_news/116172604148073791",
       "date": "Wed, 04 Mar 2026 19:41:01 +0000",
       "content": "MORE Networking celebrează 10 ani printr-o conferință despre puterea conexiunilor și comunităților O zi intensă de discuții, paneluri și networking dedicată liderilor de comunități, antreprenorilor și managerilor. Pe 26 martie 2026, la Aurrum Palace, are loc Conferința Anuală MORE Networking 2026 – o ediție specială care marchează 10 ani de la lansarea uneia dintre cele… https:// recent-news.ro/more-networking -10-ani-printr-o-conferinta-despre-puterea-conexiunilor-si-comunitatilor/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@recent_news/116062378932762958",
-      "date": "Fri, 13 Feb 2026 08:29:18 +0000",
-      "content": "Deținerea unui vehicul de lux nu reprezintă doar o confirmare a succesului personal, ci și o responsabilitate majoră în ceea ce privește întreținerea tehnică pe termen lung. Aceste automobile sunt adevărate bijuterii ale ingineriei moderne, integrând tehnologii de ultimă oră care necesită o atenție deosebită și cunoștințe de specialitate constante.Proprietarii de mașini premium se află… https:// recent-news.ro/unde-gasesti-su port-pentru-vehicule-de-lux/"
     }
   ]
 }

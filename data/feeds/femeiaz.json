@@ -4,13 +4,19 @@
   "site_feed": "https://femeiaz.ro/feed/",
   "mastodon": "https://social.5th.ro/@femeiAZ",
   "mastodon_rss": "https://social.5th.ro/@femeiAZ.rss",
-  "updated_at": "2026-06-22T06:40:32Z",
+  "updated_at": "2026-06-22T13:04:07Z",
   "site_posts": [
     {
       "title": "De la simptom la sursă: cum schimbă brain mapping abordarea sănătății mintale",
       "link": "https://femeiaz.ro/2026/06/10/de-la-simptom-la-sursa-cum-schimba-brain-mapping-abordarea-sanatatii-mintale/",
       "date": "Wed, 10 Jun 2026 06:27:16 +0000",
       "summary": "Timp îndelungat, evaluarea stării psihice s-a bazat aproape exclusiv pe ceea ce spune pacientul, adică, pe descrierea simptomelor, pe istoricul&#8230; Articolul De la simptom la sursă: cum schimbă brain mapping abordarea sănătății mintale apare prima dată în Femei A-Z ."
+    },
+    {
+      "title": "De ce Dubai este una dintre cele mai spectaculoase destinații de vacanță",
+      "link": "https://femeiaz.ro/2026/06/03/de-ce-dubai-este-una-dintre-cele-mai-spectaculoase-destinatii-de-vacanta/",
+      "date": "Wed, 03 Jun 2026 09:22:00 +0000",
+      "summary": "Dubai a reușit să se transforme radical &#238;ntr-un timp record, devenind un magnet pentru călătorii din toate colțurile lumii. Fiecare&#8230; Articolul De ce Dubai este una dintre cele mai spectaculoase destinații de vacanță apare prima dată în Femei A-Z ."
     },
     {
       "title": "CONIL FEST 2026: o lume in care niciun copil nu e lasat in urma",
@@ -59,15 +65,15 @@
       "link": "https://femeiaz.ro/2025/12/10/oameni-destine-emotie-adela-hanafi-a-lansat-podcastul-povesti-nespuse-cu-adela/",
       "date": "Wed, 10 Dec 2025 09:13:51 +0000",
       "summary": "Oameni, destine, emoție: Adela Hanafi, a lansat podcastul „Povești Nespuse cu Adela” Într-o lume adesea dominată de superficialitate și știri&#8230; Articolul Oameni, destine, emoție: Adela Hanafi, a lansat podcastul „Povești Nespuse cu Adela” apare prima dată în Femei A-Z ."
-    },
-    {
-      "title": "Advertoriale pentru eCommerce în 2025: cum vinzi produse prin conținut",
-      "link": "https://femeiaz.ro/2025/12/01/advertoriale-pentru-ecommerce-in-2025-cum-vinzi-produse-prin-continut/",
-      "date": "Mon, 01 Dec 2025 12:07:49 +0000",
-      "summary": "În peisajul digital saturat de astăzi, a vinde produse nu mai este suficient. Afacerea dumneavoastră de eCommerce are nevoie de&#8230; Articolul Advertoriale pentru eCommerce în 2025: cum vinzi produse prin conținut apare prima dată în Femei A-Z ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@femeiAZ/116793512267676629",
+      "date": "Mon, 22 Jun 2026 11:26:07 +0000",
+      "content": "Dubai a reușit să se transforme radical într-un timp record, devenind un magnet pentru călătorii din toate colțurile lumii. Fiecare colț al orașului ascunde o poveste despre ambiție, inginerie de top și ospitalitate dusă la rang de artă. Dacă vrei să înțelegi ce face această metropolă atât de atractivă, trebuie să privești dincolo de strălucirea… https:// femeiaz.ro/2026/06/03/de-ce-du bai-este-una-dintre-cele-mai-spectaculoase-destinatii-de-vacanta/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@femeiAZ/116724389458905092",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@femeiAZ/115695329821533121",
       "date": "Wed, 10 Dec 2025 12:43:53 +0000",
       "content": "Fotografia reprezintă arta de a imortaliza momente, emoții și povești într-o singură imagine. Un fotograf talentat poate transforma o zi obișnuită într-o poveste fascinantă, iar Alex Bogdan ( https://www. abfoto.ro ) este un maestru în această artă. Cu un portofoliu impresionant și o abordare unică, el aduce la viață nunți și evenimente speciale într-un mod captivant.O Pasiune Transformată… https:// femeiaz.ro/2025/11/28/ilustran d-iubirea-in-fotografia-de-nunta/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@femeiAZ/115695329656767855",
-      "date": "Wed, 10 Dec 2025 12:43:50 +0000",
-      "content": "Alegerea unei crese este una dintre cele mai importante decizii pe care le iei in primii ani de viata ai copilului tau. Este momentul in care incepi sa il lasi sa exploreze lumea in afara familiei, intr-un mediu nou, unde va invata sa se joace, sa comunice si sa descopere lucruri noi. Gasirea unei optiuni… https:// femeiaz.ro/2025/11/16/recomand ari-pentru-parinti-sfaturi-pentru-a-alege-cresa-potrivita-pentru-copilul-tau/"
     }
   ]
 }
