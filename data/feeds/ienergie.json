@@ -4,8 +4,14 @@
   "site_feed": "https://iEnergie.ro/feed/",
   "mastodon": "https://social.5th.ro/@ienergie",
   "mastodon_rss": "https://social.5th.ro/@ienergie.rss",
-  "updated_at": "2026-06-23T08:39:02Z",
+  "updated_at": "2026-06-23T12:16:19Z",
   "site_posts": [
+    {
+      "title": "Hernia ombilicală la adulți: cauze, simptome și tratament chirurgical",
+      "link": "https://ienergie.ro/hernia-ombilicala-la-adulti-cauze-simptome-si-tratament-chirurgical/",
+      "date": "Tue, 23 Jun 2026 08:05:55 +0000",
+      "summary": "Dr. Bogdan Serban explică, pentru pacienți din București, ce afecțiuni pot fi evaluate chirurgical. Informații despre hernie ombilicală și când merită o Articolul Hernia ombilicală la adulți: cauze, simptome și tratament chirurgical apare prima dată în iEnergie ."
+    },
     {
       "title": "De la pasiune la cercetare aplicată: un elev Am School construiește și pregătește lansarea unei rachete",
       "link": "https://ienergie.ro/de-la-pasiune-la-cercetare-aplicata-un-elev-am-school-construieste-si-pregateste-lansarea-unei-rachete/",
@@ -71,15 +77,15 @@
       "link": "https://ienergie.ro/cjue-analizeaza-cazul-romaniei-pentru-nerespectarea-obligatiilor-de-monitorizare-a-calitatii-aerului/",
       "date": "Tue, 20 Jan 2026 08:15:30 +0000",
       "summary": "Comisia Europeană a luat recent decizia de a trimite România în fața Curții de Justiție a Uniunii Europene (CJUE) din cauza nerespectării obligațiilor referitoare la [Mai mult...] Articolul CJUE analizează cazul României pentru nerespectarea obligațiilor de monitorizare a calității aerului apare prima dată în iEnergie ."
-    },
-    {
-      "title": "Introducere în tariful binom: înțelegerea conceptului și motivele pentru care este dezbătut intens în perioada curentă",
-      "link": "https://ienergie.ro/introducere-in-tariful-binom-intelegerea-conceptului-si-motivele-pentru-care-este-dezbatut-intens-in-perioada-curenta/",
-      "date": "Tue, 20 Jan 2026 08:10:25 +0000",
-      "summary": "Tariful binom reprezintă o metodă modernă de repartizare a costurilor asociate cu serviciile de distribuție a energiei electrice între utilizatorii rețelei. Este important de subliniat [Mai mult...] Articolul Introducere în tariful binom: înțelegerea conceptului și motivele pentru care este dezbătut intens în perioada curentă apare prima dată în iEnergie ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@ienergie/116799158140590058",
+      "date": "Tue, 23 Jun 2026 11:21:56 +0000",
+      "content": "Dr. Bogdan Serban explică, pentru pacienți din București, ce afecțiuni pot fi evaluate chirurgical. Informații despre hernie ombilicală și când merită o https:// ienergie.ro/hernia-ombilicala- la-adulti-cauze-simptome-si-tratament-chirurgical/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@ienergie/116680974089637346",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@ienergie/115926429408551042",
       "date": "Tue, 20 Jan 2026 08:15:33 +0000",
       "content": "Comisia Europeană a luat recent decizia de a trimite România în fața Curții de Justiție a Uniunii Europene (CJUE) din cauza nerespectării obligațiilor referitoare la monitorizarea calității aerului. Această acțiune survine în temeiul nerespectării prevederilor stipulate în Directiva 2008/50/CE și Directiva 2004/107/CE privind calitatea aerului înconjurător. Obligațiile de https:// ienergie.ro/cjue-analizeaza-ca zul-romaniei-pentru-nerespectarea-obligatiilor-de-monitorizare-a-calitatii-aerului/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@ienergie/115926409364999390",
-      "date": "Tue, 20 Jan 2026 08:10:27 +0000",
-      "content": "Tariful binom reprezintă o metodă modernă de repartizare a costurilor asociate cu serviciile de distribuție a energiei electrice între utilizatorii rețelei. Este important de subliniat că această structură tarifară nu introduce taxe suplimentare și nu majorează veniturile totale reglementate ale operatorilor de distribuție. În schimb, scopul său este de a https:// ienergie.ro/introducere-in-tar iful-binom-intelegerea-conceptului-si-motivele-pentru-care-este-dezbatut-intens-in-perioada-curenta/"
     }
   ]
 }

@@ -4,8 +4,14 @@
   "site_feed": "https://recent-news.ro/feed/",
   "mastodon": "https://social.5th.ro/@recent_news",
   "mastodon_rss": "https://social.5th.ro/@recent_news.rss",
-  "updated_at": "2026-06-23T08:37:32Z",
+  "updated_at": "2026-06-23T12:14:33Z",
   "site_posts": [
+    {
+      "title": "Diverticulita complicată: când poate fi nevoie de tratament chirurgical",
+      "link": "https://recent-news.ro/diverticulita-complicata-cand-poate-fi-nevoie-de-tratament-chirurgical/",
+      "date": "Tue, 23 Jun 2026 08:05:55 +0000",
+      "summary": "Articol informativ pentru pacienți din București despre diverticulita complicată și momentele în care este necesară consultarea unui specialist. Articolul Diverticulita complicată: când poate fi nevoie de tratament chirurgical apare prima dată în Recent News ."
+    },
     {
       "title": "De ce sunt ușile culisante din aluminiu o opțiune excelentă pentru living?",
       "link": "https://recent-news.ro/de-ce-sunt-usile-culisante-din-aluminiu-o-optiune-excelenta-pentru-living/",
@@ -59,15 +65,15 @@
       "link": "https://recent-news.ro/torturi-de-nunta-si-candy-bar-in-2026/",
       "date": "Fri, 17 Apr 2026 08:06:04 +0000",
       "summary": "Sezonul de nunți 2026 se anunță mai creativ, mai personal și mai atent la detalii ca niciodată. Cuplurile nu mai&#8230; Articolul Torturi de nuntă și candy bar în 2026 apare prima dată în Recent News ."
-    },
-    {
-      "title": "Vrei să începi în videochat în Iași? Află pe Forumvideochat.ro ce nu îți spun reclamele Viva Diva!",
-      "link": "https://recent-news.ro/vrei-sa-incepi-in-videochat-in-iasi-afla-pe-forumvideochat-ro-ce-nu-iti-spun-reclamele-viva-diva/",
-      "date": "Tue, 31 Mar 2026 15:40:55 +0000",
-      "summary": "Într-o industrie în care promisiunile sunt peste tot, dar informațiile reale sunt greu de verificat, există un singur loc unde&#8230; Articolul Vrei să începi în videochat în Iași? Află pe Forumvideochat.ro ce nu îți spun reclamele Viva Diva! apare prima dată în Recent News ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@recent_news/116799281475117835",
+      "date": "Tue, 23 Jun 2026 11:53:18 +0000",
+      "content": "Articol informativ pentru pacienți din București despre diverticulita complicată și momentele în care este necesară consultarea unui specialist. https:// recent-news.ro/diverticulita-c omplicata-cand-poate-fi-nevoie-de-tratament-chirurgical/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@recent_news/116794525096393635",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@recent_news/116219542242139179",
       "date": "Fri, 13 Mar 2026 02:38:00 +0000",
       "content": "Dacă ești la început de drum sau vrei să îți deschizi propriul salon beauty, dotarea este una dintre cele mai importante decizii pe care le vei lua. Nu este vorba doar despre cum arată spațiul, ci despre cum vei lucra zilnic, cât de confortabil te vei simți și cât de mulțumiți vor fi clienții tăi.… https:// recent-news.ro/greseli-frecven te-in-dotarea-unui-salon-beauty-si-cum-pot-fi-evitate/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@recent_news/116204543562443611",
-      "date": "Tue, 10 Mar 2026 11:03:38 +0000",
-      "content": "Lovia: Trusourile de botez personalizate, între tradiție și noua estetică a amintirilor de familieUn atelier românesc propune un model diferit pe piața articolelor de botez: seturi complete din bumbac natural, broderie personalizată cu numele copilului și data botezului, livrate în cutii de lemn masivPiața articolelor de botez din România traversează o schimbare vizibilă de comportament.… https:// recent-news.ro/de-la-trusou-de -serie-la-trusou-cu-identitate-proprie/"
     }
   ]
 }

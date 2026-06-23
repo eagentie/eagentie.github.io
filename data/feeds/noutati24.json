@@ -4,8 +4,14 @@
   "site_feed": "https://noutati24.ro/feed/",
   "mastodon": "https://social.5th.ro/@noutati24",
   "mastodon_rss": "https://social.5th.ro/@noutati24.rss",
-  "updated_at": "2026-06-23T08:38:14Z",
+  "updated_at": "2026-06-23T12:15:23Z",
   "site_posts": [
+    {
+      "title": "Neoplazii gastrice: simptome, investigații și tratament chirurgical",
+      "link": "https://noutati24.ro/neoplazii-gastrice-simptome-investigatii-si-tratament-chirurgical/",
+      "date": "Tue, 23 Jun 2026 08:05:55 +0000",
+      "summary": "Articol informativ pentru pacienți din București despre neoplazii gastrice: simptome, investigații și tratament chirurgical. Articolul Neoplazii gastrice: simptome, investigații și tratament chirurgical apare prima dată în Noutati 24 ."
+    },
     {
       "title": "Briefing de presă susținut de premierul Ilie Bolojan, ministrul Investițiilor și Proiectelor Europene, Dragoș Pîslaru, și de purtătorul de cuvânt al Guvernului, Ioana Dogioiu, la finalul ședinței de guvern",
       "link": "https://noutati24.ro/briefing-de-presa-sustinut-de-premierul-ilie-bolojan-ministrul-investitiilor-si-proiectelor-europene-dragos-pislaru-si-de-purtatorul-de-cuvant-al-guvernului-ioana-dogioiu-la-finalul-sedintei-de-g/",
@@ -71,15 +77,15 @@
       "link": "https://noutati24.ro/sedinta-extraordinara-de-guvern-in-format-hibrid/",
       "date": "Wed, 03 Jun 2026 13:18:00 +0000",
       "summary": "Guvernul României Guvernul este autoritatea publică a puterii executive, care funcționează în baza votului de încredere acordat de Parlament și &#8230; Articolul Ședință extraordinară de Guvern în format hibrid apare prima dată în Noutati 24 ."
-    },
-    {
-      "title": "Stadiul implementării Programului SAFE",
-      "link": "https://noutati24.ro/stadiul-implementarii-programului-safe/",
-      "date": "Tue, 02 Jun 2026 17:06:00 +0000",
-      "summary": "COMUNICAT DE PRESĂ Instrumentul „Acțiunea pentru securitatea Europei” (SAFE) prin consolidarea industriei europene de apărare presupune alocarea către România a &#8230; Articolul Stadiul implementării Programului SAFE apare prima dată în Noutati 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@noutati24/116799286939235396",
+      "date": "Tue, 23 Jun 2026 11:54:42 +0000",
+      "content": "🆕Articol informativ pentru pacienți din București despre neoplazii gastrice: simptome, investigații și tratament chirurgical. 🌐 https:// noutati24.ro/neoplazii-gastric e-simptome-investigatii-si-tratament-chirurgical/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@noutati24/116796051056292875",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@noutati24/116688076703417209",
       "date": "Wed, 03 Jun 2026 20:32:28 +0000",
       "content": "🆕Guvernul României Guvernul este autoritatea publică a puterii executive, care funcționează în baza votului de încredere acordat de Parlament și care asigură realizarea politicii interne și externe a țării și exercită conducerea generală a administrației publice. Află mai multeArticol preluat de pe gov.ro 🌐 https:// noutati24.ro/sedinta-extraordi nara-de-guvern-in-format-hibrid/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@noutati24/116682409763119667",
-      "date": "Tue, 02 Jun 2026 20:31:17 +0000",
-      "content": "🆕COMUNICAT DE PRESĂ Instrumentul „Acțiunea pentru securitatea Europei” (SAFE) prin consolidarea industriei europene de apărare presupune alocarea către România a unei sume de 16,68 miliarde Euro pentru achiziția de echipamente militare sau cu utilizare duală, precum și pentru infrastructură duală. Potrivit Regulamentului (UE) 2025/1.106, statele membre au putut semna într-o primă etapă contracte de achiziție… 🌐 https:// noutati24.ro/stadiul-implement arii-programului-safe/"
     }
   ]
 }

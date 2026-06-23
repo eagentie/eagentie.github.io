@@ -4,8 +4,14 @@
   "site_feed": "https://pr360.ro/feed/",
   "mastodon": "https://social.5th.ro/@pr360",
   "mastodon_rss": "https://social.5th.ro/@pr360.rss",
-  "updated_at": "2026-06-23T08:37:38Z",
+  "updated_at": "2026-06-23T12:14:39Z",
   "site_posts": [
+    {
+      "title": "Peritonita: de ce este o urgență majoră și cum se tratează",
+      "link": "https://pr360.ro/peritonita-de-ce-este-o-urgenta-majora-si-cum-se-trateaza/",
+      "date": "Tue, 23 Jun 2026 08:05:55 +0000",
+      "summary": "Articol informativ pentru pacienți din București: Peritonita: de ce este o urgență majoră și cum se tratează. Ton calm, empatic, accesibil — fără alarmism. The post Peritonita: de ce este o urgență majoră și cum se tratează appeared first on PR 360 ."
+    },
     {
       "title": "Cum se reglează corect un presostat pentru hidrofor? Sfaturi pas cu pas",
       "link": "https://pr360.ro/cum-se-regleaza-corect-un-presostat-pentru-hidrofor-sfaturi-pas-cu-pas/",
@@ -71,12 +77,6 @@
       "link": "https://pr360.ro/ce-lumina-sa-alegi-pentru-un-tub-led-montat-in-atelierul-de-lucru/",
       "date": "Mon, 09 Feb 2026 11:24:00 +0000",
       "summary": "Amenajarea unui atelier, fie că este vorba despre un spațiu pentru t&#226;mplărie, mecanică fină sau reparații electronice, depinde enorm de calitatea iluminatului. O lumină slabă sau necorespunzătoare nu doar că obosește ochii, dar crește semnificativ riscul de accidente și erori de execuție. C&#226;nd lucrezi cu unelte tăioase sau cu piese minuscule, vizibilitatea devine cel mai [&#8230;] The post Ce lumină să alegi pentru un tub LED montat în atelierul de lucru appeared first on PR 360 ."
-    },
-    {
-      "title": "Cum să procedezi atunci când vrei să cauți mobilă pentru living",
-      "link": "https://pr360.ro/cum-sa-procedezi-atunci-cand-vrei-sa-cauti-mobila-pentru-living/",
-      "date": "Wed, 31 Dec 2025 10:27:00 +0000",
-      "summary": "Să &#238;ți transformi casa &#238;ntr-un adevărat cămin trebuie să fie o decizie inpirată, care să țină mult și de bunul gust și &#238;mbinarea armonioasă a pieselor de mobilier cu &#238;ntreg ansamblul. Nu mai amintim și de faptul că mobile trebuie să fie una de calitate. P&#226;nă la urmă, nu faci acest gen de schimbare anual, [&#8230;] The post Cum să procedezi atunci când vrei să cauți mobilă pentru living appeared first on PR 360 ."
     }
   ],
   "mastodon_posts": [

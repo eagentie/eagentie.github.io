@@ -4,8 +4,14 @@
   "site_feed": "https://stiridemocratice.ro/feed/",
   "mastodon": "https://social.5th.ro/@stiri_democratice",
   "mastodon_rss": "https://social.5th.ro/@stiri_democratice.rss",
-  "updated_at": "2026-06-23T08:38:54Z",
+  "updated_at": "2026-06-23T12:16:11Z",
   "site_posts": [
+    {
+      "title": "Chist pilonidal: de ce apare și când se tratează chirurgical",
+      "link": "https://stiridemocratice.ro/chist-pilonidal-de-ce-apare-si-cand-se-trateaza-chirurgical/",
+      "date": "Tue, 23 Jun 2026 08:05:55 +0000",
+      "summary": "Articol informativ pentru pacienți din București: Chist pilonidal: de ce apare și când se tratează chirurgical. Ton calm, empatic, accesibil — fără alarmism. Articolul Chist pilonidal: de ce apare și când se tratează chirurgical apare prima dată în Stiri democratice ."
+    },
     {
       "title": "Renovarea birourilor: Soluții profesionale care îmbunătățesc eficiența muncii",
       "link": "https://stiridemocratice.ro/renovarea-birourilor-solutii-profesionale-care-imbunatatesc-eficienta-muncii/",
@@ -65,15 +71,15 @@
       "link": "https://stiridemocratice.ro/pagini-faq-optimizate-seo-cum-raspunzi-intrebarilor-frecvente-si-prinzi-snippets/",
       "date": "Fri, 14 Nov 2025 07:32:14 +0000",
       "summary": "Atenție: Vă luptați zilnic pentru a ajunge pe prima pagină în Google, dar rezultatele nu apar? Majoritatea afacerilor online se concentrează doar pe articole lungi, ignorând o tactică simplă, dar extrem de puternică, care vă poate propulsa instantaneu deasupra concurenței. Interes: Nu este vorba doar de a avea conținut bun; este vorba de a-l prezenta [&#8230;] Articolul Pagini FAQ optimizate SEO: cum răspunzi întrebărilor frecvente și prinzi snippets apare prima dată în Stiri democratice ."
-    },
-    {
-      "title": "Psihologia biletului zilei: de ce nu trebuie să urmărești „recuperarea” cu orice preț",
-      "link": "https://stiridemocratice.ro/psihologia-biletului-zilei-de-ce-nu-trebuie-sa-urmaresti-recuperarea-cu-orice-pret/",
-      "date": "Thu, 13 Nov 2025 19:31:26 +0000",
-      "summary": "Ați pierdut vreodată un pariu la limită? Sunteți pe cale să câștigați o sumă importantă, dar un singur meci vă ruinează întregul biletul zilei. Reacția imediată este frustrarea intensă. Simțiți o dorință arzătoare de a recupera banii pierduți, și o simțiți chiar acum. Această nevoie urgentă de &#8222;recuperare&#8221; este cel mai periculos dușman al pariorului. [&#8230;] Articolul Psihologia biletului zilei: de ce nu trebuie să urmărești „recuperarea” cu orice preț apare prima dată în Stiri democratice ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@stiri_democratice/116799121330821348",
+      "date": "Tue, 23 Jun 2026 11:12:35 +0000",
+      "content": "Articol informativ pentru pacienți din București: Chist pilonidal: de ce apare și când se tratează chirurgical. Ton calm, empatic, accesibil — fără alarmism. https:// stiridemocratice.ro/chist-pilo nidal-de-ce-apare-si-cand-se-trateaza-chirurgical/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@stiri_democratice/116403482044266350",

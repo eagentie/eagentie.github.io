@@ -4,8 +4,14 @@
   "site_feed": "https://iFemeie.ro/feed/",
   "mastodon": "https://social.5th.ro/@iFemeie",
   "mastodon_rss": "https://social.5th.ro/@iFemeie.rss",
-  "updated_at": "2026-06-23T08:39:04Z",
+  "updated_at": "2026-06-23T12:16:22Z",
   "site_posts": [
+    {
+      "title": "Eventrația postoperatorie: de ce apare și cum se tratează corect",
+      "link": "https://ifemeie.ro/eventratia-postoperatorie-de-ce-apare-si-cum-se-trateaza-corect/",
+      "date": "Tue, 23 Jun 2026 08:05:55 +0000",
+      "summary": "Dr. Bogdan Serban explică, pentru pacienți din București, ce afecțiuni pot fi evaluate chirurgical. Informații despre eventrație și când merită o consultație. Articolul Eventrația postoperatorie: de ce apare și cum se tratează corect apare prima dată în iFemeie ."
+    },
     {
       "title": "Cum alegi căști wireless pentru utilizare intensă?",
       "link": "https://ifemeie.ro/cum-alegi-casti-wireless-pentru-utilizare-intensa/",
@@ -65,15 +71,15 @@
       "link": "https://ifemeie.ro/calendarul-complet-al-analizelor-in-sarcina/",
       "date": "Fri, 05 Dec 2025 16:47:20 +0000",
       "summary": "Sarcina este una dintre cele mai complexe și emoționante călătorii din viața unei femei. Din... Articolul Calendarul complet al analizelor în sarcină apare prima dată în iFemeie ."
-    },
-    {
-      "title": "Vacanță romantică în Creta – idei pentru un sejur în doi",
-      "link": "https://ifemeie.ro/vacanta-romantica-in-creta-idei-pentru-un-sejur-in-doi/",
-      "date": "Thu, 04 Dec 2025 16:07:00 +0000",
-      "summary": "Creta este una dintre acele destinații care par g&#226;ndite special pentru escapade &#238;n doi. Are... Articolul Vacanță romantică în Creta – idei pentru un sejur în doi apare prima dată în iFemeie ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@iFemeie/116799194349351946",
+      "date": "Tue, 23 Jun 2026 11:31:09 +0000",
+      "content": "Dr. Bogdan Serban explică, pentru pacienți din București, ce afecțiuni pot fi evaluate chirurgical. Informații despre eventrație și când merită o consultație. https:// ifemeie.ro/eventratia-postoper atorie-de-ce-apare-si-cum-se-trateaza-corect/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@iFemeie/116645349100800532",
@@ -139,12 +145,6 @@
       "link": "https://social.5th.ro/@iFemeie/115736791634418753",
       "date": "Wed, 17 Dec 2025 20:28:10 +0000",
       "content": "Te-ai săturat de algoritmii opaci care îți ascund mesajele? Pe platformele centralizate, efortul depus în crearea de conținut ajunge adesea invizibil. Rata de interacțiune scade, iar frustrarea crește. Această problemă a adus în prim-plan o alternativă puternică. Această alternativă se numește Mastodon. Această rețea socială descentralizată îți oferă un control mult mai mare asupra mesajului… https:// ifemeie.ro/cum-scrii-postari-c are-primesc-boost-uri-pe-mastodon/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@iFemeie/115736380329205662",
-      "date": "Wed, 17 Dec 2025 18:43:34 +0000",
-      "content": "Creta este una dintre acele destinații care par gândite special pentru escapade în doi. Are tot ce trebuie: peisaje spectaculoase, plaje izolate, sate liniștite, restaurante cu apusuri perfecte și o atmosferă relaxată, fără agitație. Dacă vrei să planifici o vacanță în Creta care să rămână memorabilă, ai la dispoziție o mulțime de opțiuni. Important este… https:// ifemeie.ro/vacanta-romantica-i n-creta-idei-pentru-un-sejur-in-doi/"
     }
   ]
 }

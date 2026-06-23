@@ -4,8 +4,14 @@
   "site_feed": "https://solutii-constructii.ro/feed/",
   "mastodon": "https://social.5th.ro/@SolutiiConstructii",
   "mastodon_rss": "https://social.5th.ro/@SolutiiConstructii.rss",
-  "updated_at": "2026-06-23T08:38:39Z",
+  "updated_at": "2026-06-23T12:15:53Z",
   "site_posts": [
+    {
+      "title": "Cancer mamar și chirurgie: rolul medicului chirurg în planul de tratament",
+      "link": "https://solutii-constructii.ro/cancer-mamar-si-chirurgie-rolul-medicului-chirurg-in-planul-de-tratament/",
+      "date": "Tue, 23 Jun 2026 08:05:55 +0000",
+      "summary": "Articol informativ pentru pacienți din București: Cancer mamar și chirurgie: rolul medicului chirurg în planul de tratament. Articolul Cancer mamar și chirurgie: rolul medicului chirurg în planul de tratament apare prima dată în Solutii Constructii ."
+    },
     {
       "title": "De la pasiune la cercetare aplicată: un elev Am School construiește și pregătește lansarea unei rachete",
       "link": "https://solutii-constructii.ro/de-la-pasiune-la-cercetare-aplicata-un-elev-am-school-construieste-si-pregateste-lansarea-unei-rachete/",
@@ -71,15 +77,15 @@
       "link": "https://solutii-constructii.ro/mastodon-romania-pentru-it-isti-comunitati-proiecte-si-joburi/",
       "date": "Wed, 17 Dec 2025 16:58:54 +0000",
       "summary": "Vă simțiți copleșiți de algoritmii rețelelor sociale centralizate? Sunteți un specialist IT sau faceți parte din comunitatea de Articolul Mastodon România pentru IT-iști: comunități, proiecte și joburi apare prima dată în Solutii Constructii ."
-    },
-    {
-      "title": "Ce noutăți aduce tehnologia Vision Inside în frigorifice",
-      "link": "https://solutii-constructii.ro/ce-noutati-aduce-tehnologia-vision-inside-in-frigorifice/",
-      "date": "Mon, 15 Dec 2025 08:18:46 +0000",
-      "summary": "Funcțiile de recunoaștere vizuală au evoluat semnificativ în ultimele generații de frigidere. Sistemele pot identifica mai precis alimentele Articolul Ce noutăți aduce tehnologia Vision Inside în frigorifice apare prima dată în Solutii Constructii ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@SolutiiConstructii/116799215096877914",
+      "date": "Tue, 23 Jun 2026 11:36:25 +0000",
+      "content": "Articol informativ pentru pacienți din București: Cancer mamar și chirurgie: rolul medicului chirurg în planul de tratament. ... 🌐 Citeste: https:// solutii-constructii.ro/cancer- mamar-si-chirurgie-rolul-medicului-chirurg-in-planul-de-tratament/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@SolutiiConstructii/116680979264533061",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@SolutiiConstructii/115888746606554765",
       "date": "Tue, 13 Jan 2026 16:32:19 +0000",
       "content": "Toată lumea își dorește să aibă o casă îngrijită, rezistentă și cu miros plăcut. Însă cu trecerea anilor, multe locuințe încep să se degradeze. Unele poate mai rapid decât ar trebui. Iar problema care duce la o degradare imediată a locuinței este reprezentată de infiltrația de apă. Veștile sunt bune acum, pentru că poți scăpa… ... 🌐 Citeste: https:// solutii-constructii.ro/hidroiz olatiile-flexibile-si-rolul-lor-in-impermeabilitatea-casei-tale/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@SolutiiConstructii/115736880758500929",
-      "date": "Wed, 17 Dec 2025 20:50:50 +0000",
-      "content": "Vă simțiți copleșiți de algoritmii rețelelor sociale centralizate? Sunteți un specialist IT sau faceți parte din comunitatea de dezvoltatori care caută o platformă de discuții autentice, fără publicitate agresivă și fără urmărire constantă? Ați auzit despre Mastodon, dar nu știți exact cum se integrează în peisajul tehnic din România?Ei bine, Mastodon nu este doar o… ... 🌐 Vezi: https:// solutii-constructii.ro/mastodo n-romania-pentru-it-isti-comunitati-proiecte-si-joburi/"
     }
   ]
 }

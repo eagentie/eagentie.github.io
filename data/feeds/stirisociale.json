@@ -4,8 +4,14 @@
   "site_feed": "https://stirisociale.ro/feed/",
   "mastodon": "https://social.5th.ro/@stiri_sociale",
   "mastodon_rss": "https://social.5th.ro/@stiri_sociale.rss",
-  "updated_at": "2026-06-23T08:38:37Z",
+  "updated_at": "2026-06-23T12:15:50Z",
   "site_posts": [
+    {
+      "title": "Cum te pregătești pentru o consultație la chirurg: întrebări, analize și documente utile",
+      "link": "https://stirisociale.ro/cum-te-pregatesti-pentru-o-consultatie-la-chirurg-intrebari-analize-si-documente-utile/",
+      "date": "Tue, 23 Jun 2026 08:05:55 +0000",
+      "summary": "Articol informativ pentru pacienți din București: Cum te pregătești pentru o consultație la chirurg: întrebări, analize și documente utile. Articolul Cum te pregătești pentru o consultație la chirurg: întrebări, analize și documente utile apare prima dată în Stiri sociale ."
+    },
     {
       "title": "Cum alegem gradinita potrivita din toate punctele de vedere?",
       "link": "https://stirisociale.ro/cum-alegem-gradinita-potrivita-din-toate-punctele-de-vedere/",
@@ -59,15 +65,15 @@
       "link": "https://stirisociale.ro/comunicate-de-presa-si-reputatia-online-in-2025-cum-controlezi-narativul/",
       "date": "Mon, 01 Dec 2025 12:07:49 +0000",
       "summary": "Introducere: De Ce Controlul Narativului Nu Mai Este o Opțiune, Ci o Necesitate Atenție: V-ați simțit vreodată neputincios în fața unei știri negative care a devenit virală? În era digitală&#8230; Articolul Comunicate de presă și reputația online în 2025: cum controlezi narativul apare prima dată în Stiri sociale ."
-    },
-    {
-      "title": "CONIL Fest 2025: ediția a XXVII-a a Festivalului Integrări",
-      "link": "https://stirisociale.ro/conil-fest-2025-editia-a-xxvii-a-a-festivalului-integrari/",
-      "date": "Tue, 25 Nov 2025 06:50:40 +0000",
-      "summary": "Zilele de 15 și 16 noiembrie 2025 au adus o emoție pură și o lecție de neuitat la Circul Metropolitan București, unde a avut loc cea de-a XXVII-a ediție a&#8230; Articolul CONIL Fest 2025: ediția a XXVII-a a Festivalului Integrări apare prima dată în Stiri sociale ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@stiri_sociale/116799275865366708",
+      "date": "Tue, 23 Jun 2026 11:51:53 +0000",
+      "content": "Articol informativ pentru pacienți din București: Cum te pregătești pentru o consultație la chirurg: întrebări, analize și documente utile. https:// stirisociale.ro/cum-te-pregate sti-pentru-o-consultatie-la-chirurg-intrebari-analize-si-documente-utile/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@stiri_sociale/116718861170290306",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@stiri_sociale/115694900451590387",
       "date": "Wed, 10 Dec 2025 10:54:41 +0000",
       "content": "Te-ai întrebat vreodată unde merită cu adevărat să îți încerci norocul? (Atenție) Mulți jucători se află la o răscruce. Pe de o parte, există atmosfera clasică a sălilor de joc, pe de alta, confortul maxim oferit de platformele digitale. Această dilemă este mai mult decât o simplă alegere de locație. Este o decizie care îți… https:// stirisociale.ro/pacanele-in-ag entiile-de-pariuri-vs-cazinoul-online-costuri-si-avantaje/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@stiri_sociale/115694900333638819",
-      "date": "Wed, 10 Dec 2025 10:54:39 +0000",
-      "content": "Pariurile sportive oferă o doză intensă de adrenalină și pot transforma urmărirea unui meci într-o experiență mult mai captivantă. Totuși, sub această fațadă a divertismentului se ascunde un risc serios și adesea ignorat. Nu este vorba doar despre banii pe care îi puteți pierde, ci despre controlul pe care îl cedați, puțin câte puțin, unei… https:// stirisociale.ro/cum-eviti-depe ndenta-de-pariuri-sportive-si-joci-responsabil/"
     }
   ]
 }

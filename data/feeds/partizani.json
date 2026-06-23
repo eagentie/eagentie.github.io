@@ -4,8 +4,14 @@
   "site_feed": "https://partizani.ro/feed/",
   "mastodon": "https://social.5th.ro/@Partizani",
   "mastodon_rss": "https://social.5th.ro/@Partizani.rss",
-  "updated_at": "2026-06-23T08:38:44Z",
+  "updated_at": "2026-06-23T12:15:59Z",
   "site_posts": [
+    {
+      "title": "Chirurgia oncologică digestivă: ce înseamnă și pentru ce afecțiuni este recomandată",
+      "link": "https://partizani.ro/chirurgia-oncologica-digestiva-ce-inseamna-si-pentru-ce-afectiuni-este-recomandata/",
+      "date": "Tue, 23 Jun 2026 08:05:55 +0000",
+      "summary": "Dr. Bogdan Serban explică, pentru pacienți din București, ce afecțiuni pot fi evaluate chirurgical. Informații despre chirurgie oncologică digestivă și când Articolul Chirurgia oncologică digestivă: ce înseamnă și pentru ce afecțiuni este recomandată apare prima dată în Partizani ."
+    },
     {
       "title": "Sisteme de încălzire prin pardoseală: merită investiția?",
       "link": "https://partizani.ro/sisteme-de-incalzire-prin-pardoseala-merita-investitia/",
@@ -59,12 +65,6 @@
       "link": "https://partizani.ro/contractul-de-inchiriere-auto-ce-merita-citit-cu-adevarat-inainte-sa-semnezi/",
       "date": "Sat, 21 Feb 2026 12:01:00 +0000",
       "summary": "Contractul nu e &#8222;h&#226;rțogăraie&#8221;, e manualul tău de evitare a surprizelor Mulți oameni se uită la contractul de &#238;nchiriere auto ca la o formalitate. &#206;l semnează rapid, mai ales c&#226;nd sunt grăbiți: tocmai au aterizat, au bagaje, copilul pl&#226;nge, au &#238;nt&#226;lnire &#238;n 40 de minute. Doar că exact &#238;n aceste [&#8230;] Articolul Contractul de închiriere auto: ce merită citit cu adevărat înainte să semnezi apare prima dată în Partizani ."
-    },
-    {
-      "title": "Site-ul tău ar trebui să muncească pentru tine: automatizări reale care cresc afaceri în 2026",
-      "link": "https://partizani.ro/site-ul-tau-ar-trebui-sa-munceasca-pentru-tine-automatizari-reale-care-cresc-afaceri-in-2026/",
-      "date": "Sat, 14 Feb 2026 23:22:00 +0000",
-      "summary": "În 2026, un site care doar „prezintă informații” este un activ mort. Arată bine, poate chiar primește trafic, dar nu contribuie activ la creșterea afacerii. Antreprenorii care câștigă piață sunt cei care au înțeles un lucru esențial: site-ul trebuie să muncească, nu doar să existe. Automatizarea nu mai este un [&#8230;] Articolul Site-ul tău ar trebui să muncească pentru tine: automatizări reale care cresc afaceri în 2026 apare prima dată în Partizani ."
     }
   ],
   "mastodon_posts": []

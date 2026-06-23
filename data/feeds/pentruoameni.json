@@ -4,8 +4,14 @@
   "site_feed": "https://pentruoameni.ro/feed/",
   "mastodon": "https://social.5th.ro/@pentruoameni",
   "mastodon_rss": "https://social.5th.ro/@pentruoameni.rss",
-  "updated_at": "2026-06-23T08:37:29Z",
+  "updated_at": "2026-06-23T12:14:29Z",
   "site_posts": [
+    {
+      "title": "Apendicita acută: simptome, diagnostic și tratament chirurgical",
+      "link": "https://pentruoameni.ro/apendicita-acuta-simptome-diagnostic-si-tratament-chirurgical/",
+      "date": "Tue, 23 Jun 2026 08:05:55 +0000",
+      "summary": "Articol informativ pentru pacienți din București despre apendicita acută — simptome, diagnostic și tratamente chirurgicale. Ton calm, empatic, accesibil. Articolul Apendicita acută: simptome, diagnostic și tratament chirurgical apare prima dată în Pentru Oameni ."
+    },
     {
       "title": "Pofta de dulce de la ora 17:00: ce-i în spatele ei și cum o îmblânzești",
       "link": "https://pentruoameni.ro/pofta-de-dulce-de-la-ora-1700-ce-i-in-spatele-ei-si-cum-o-imblanzesti/",
@@ -71,15 +77,15 @@
       "link": "https://pentruoameni.ro/cum-sa-alegi-obiectele-sanitare-potrivite-pentru-o-baie-moderna-si-confortabila/",
       "date": "Mon, 30 Mar 2026 17:10:00 +0000",
       "summary": "Amenajarea unei băi moderne și confortabile poate părea o provocare, având în vedere varietatea impresionantă de opțiuni disponibile pe piață. Alegerea obiectelor sanitare potrivite nu este doar o chestiune de estetică, ci și una de funcționalitate și eficiență. Fie că dorești să transformi un spațiu mic într-un colț elegant sau să beneficiezi de cele mai [&#8230;] Articolul Cum să alegi obiectele sanitare potrivite pentru o baie modernă și confortabilă apare prima dată în Pentru Oameni ."
-    },
-    {
-      "title": "Tehnici eficiente pentru a planta semințele de gazon corect și uniform",
-      "link": "https://pentruoameni.ro/tehnici-eficiente-pentru-a-planta-semintele-de-gazon-corect-si-uniform/",
-      "date": "Wed, 25 Mar 2026 10:57:35 +0000",
-      "summary": "Planificarea și însămânțarea unui gazon pot părea o provocare, dar cu tehnicile potrivite, poți transforma acest proces într-o activitate simplă și chiar plăcută. Un gazon uniform și sănătos nu doar că îmbunătățește aspectul general al grădinii tale, ci aduce și un sentiment de împlinire. De la pregătirea solului, alegerea semințelor potrivite, până la tehnicile de răspândire [&#8230;] Articolul Tehnici eficiente pentru a planta semințele de gazon corect și uniform apare prima dată în Pentru Oameni ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@pentruoameni/116799100153631095",
+      "date": "Tue, 23 Jun 2026 11:07:11 +0000",
+      "content": "Articol informativ pentru pacienți din București despre apendicita acută — simptome, diagnostic și tratamente chirurgicale. Ton calm, empatic, accesibil. .... https:// pentruoameni.ro/apendicita-acu ta-simptome-diagnostic-si-tratament-chirurgical/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@pentruoameni/116793522652224788",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@pentruoameni/116319230525287485",
       "date": "Mon, 30 Mar 2026 17:10:02 +0000",
       "content": "Amenajarea unei băi moderne și confortabile poate părea o provocare, având în vedere varietatea impresionantă de opțiuni disponibile pe piață. Alegerea obiectelor sanitare potrivite nu este doar o chestiune de estetică, ci și una de funcționalitate și eficiență. Fie că dorești să transformi un spațiu mic într-un colț elegant sau să beneficiezi de cele mai… .... https:// pentruoameni.ro/cum-sa-alegi-o biectele-sanitare-potrivite-pentru-o-baie-moderna-si-confortabila/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@pentruoameni/116289454614281320",
-      "date": "Wed, 25 Mar 2026 10:57:38 +0000",
-      "content": "Planificarea și însămânțarea unui gazon pot părea o provocare, dar cu tehnicile potrivite, poți transforma acest proces într-o activitate simplă și chiar plăcută. Un gazon uniform și sănătos nu doar că îmbunătățește aspectul general al grădinii tale, ci aduce și un sentiment de împlinire. De la pregătirea solului, alegerea semințelor potrivite, până la tehnicile de răspândire… .... https:// pentruoameni.ro/tehnici-eficie nte-pentru-a-planta-semintele-de-gazon-corect-si-uniform/"
     }
   ]
 }
