@@ -4,8 +4,14 @@
   "site_feed": "https://pentruoameni.ro/feed/",
   "mastodon": "https://social.5th.ro/@pentruoameni",
   "mastodon_rss": "https://social.5th.ro/@pentruoameni.rss",
-  "updated_at": "2026-06-24T08:32:27Z",
+  "updated_at": "2026-06-24T12:00:12Z",
   "site_posts": [
+    {
+      "title": "Secretele unui meșter priceput: 5 factori de care să ții cont ca să alegi mașina de înșurubat perfectă",
+      "link": "https://pentruoameni.ro/secretele-unui-mester-priceput-5-factori-de-care-sa-tii-cont-ca-sa-alegi-masina-de-insurubat-perfecta/",
+      "date": "Wed, 24 Jun 2026 09:56:25 +0000",
+      "summary": "O mașină de înșurubat bună îți face proiectele mai rapide, mai curate și îți lasă energie pentru ideile următoare, nu pentru bătăi de cap. De la primul raft montat în apartament până la lucrări serioase în atelier, totul se schimbă când alegerea nu mai este la întâmplare, ci ghidată de aceleași criterii după care judecă [&#8230;] Articolul Secretele unui meșter priceput: 5 factori de care să ții cont ca să alegi mașina de înșurubat perfectă apare prima dată în Pentru Oameni ."
+    },
     {
       "title": "Apendicita acută: simptome, diagnostic și tratament chirurgical",
       "link": "https://pentruoameni.ro/apendicita-acuta-simptome-diagnostic-si-tratament-chirurgical/",
@@ -71,15 +77,15 @@
       "link": "https://pentruoameni.ro/ce-influenteaza-pretul-pentru-trepte-din-lemn/",
       "date": "Tue, 31 Mar 2026 09:08:40 +0000",
       "summary": "Când analizezi costul pentru trepte din lemn, cel mai important lucru de înțeles este că prețul nu depinde doar de esența aleasă. În realitate, costul final este influențat de material, grosime, finisaj, complexitatea proiectului, tipul scării și calitatea montajului. Tocmai de aceea, două oferte pentru trepte din lemn pot arăta asemănător la prima vedere, dar [&#8230;] Articolul Ce influențează prețul pentru trepte din lemn? apare prima dată în Pentru Oameni ."
-    },
-    {
-      "title": "Cum să alegi obiectele sanitare potrivite pentru o baie modernă și confortabilă",
-      "link": "https://pentruoameni.ro/cum-sa-alegi-obiectele-sanitare-potrivite-pentru-o-baie-moderna-si-confortabila/",
-      "date": "Mon, 30 Mar 2026 17:10:00 +0000",
-      "summary": "Amenajarea unei băi moderne și confortabile poate părea o provocare, având în vedere varietatea impresionantă de opțiuni disponibile pe piață. Alegerea obiectelor sanitare potrivite nu este doar o chestiune de estetică, ci și una de funcționalitate și eficiență. Fie că dorești să transformi un spațiu mic într-un colț elegant sau să beneficiezi de cele mai [&#8230;] Articolul Cum să alegi obiectele sanitare potrivite pentru o baie modernă și confortabilă apare prima dată în Pentru Oameni ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@pentruoameni/116804484315831500",
+      "date": "Wed, 24 Jun 2026 09:56:27 +0000",
+      "content": "O mașină de înșurubat bună îți face proiectele mai rapide, mai curate și îți lasă energie pentru ideile următoare, nu pentru bătăi de cap. De la primul raft montat în apartament până la lucrări serioase în atelier, totul se schimbă când alegerea nu mai este la întâmplare, ci ghidată de aceleași criterii după care judecă… .... https:// pentruoameni.ro/secretele-unui -mester-priceput-5-factori-de-care-sa-tii-cont-ca-sa-alegi-masina-de-insurubat-perfecta/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@pentruoameni/116799100153631095",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@pentruoameni/116323000131801243",
       "date": "Tue, 31 Mar 2026 09:08:42 +0000",
       "content": "Când analizezi costul pentru trepte din lemn, cel mai important lucru de înțeles este că prețul nu depinde doar de esența aleasă. În realitate, costul final este influențat de material, grosime, finisaj, complexitatea proiectului, tipul scării și calitatea montajului. Tocmai de aceea, două oferte pentru trepte din lemn pot arăta asemănător la prima vedere, dar… .... https:// pentruoameni.ro/ce-influenteaz a-pretul-pentru-trepte-din-lemn/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@pentruoameni/116319230525287485",
-      "date": "Mon, 30 Mar 2026 17:10:02 +0000",
-      "content": "Amenajarea unei băi moderne și confortabile poate părea o provocare, având în vedere varietatea impresionantă de opțiuni disponibile pe piață. Alegerea obiectelor sanitare potrivite nu este doar o chestiune de estetică, ci și una de funcționalitate și eficiență. Fie că dorești să transformi un spațiu mic într-un colț elegant sau să beneficiezi de cele mai… .... https:// pentruoameni.ro/cum-sa-alegi-o biectele-sanitare-potrivite-pentru-o-baie-moderna-si-confortabila/"
     }
   ]
 }

@@ -4,8 +4,14 @@
   "site_feed": "https://brasov-azi.ro/feed/",
   "mastodon": "https://social.5th.ro/@brasov",
   "mastodon_rss": "https://social.5th.ro/@brasov.rss",
-  "updated_at": "2026-06-24T08:33:11Z",
+  "updated_at": "2026-06-24T12:00:54Z",
   "site_posts": [
+    {
+      "title": "ecomTEAM 2026 – Navigating the New eCommerce Era",
+      "link": "https://brasov-azi.ro/ecomteam-2026-navigating-the-new-ecommerce-era/",
+      "date": "Wed, 24 Jun 2026 07:10:43 +0000",
+      "summary": "ecomTEAM 2026 &#8211; Navigating the New eCommerce Era: ghidul de supraviețuire și creștere &#238;n noua eră a e-commerce-ului global &#206;ntr-o perioadă marcată de transformări tehnologice majore și schimbări legislative, ecomTEAM, unul dintre cele mai importante evenimente de profil din regiune,... Articolul ecomTEAM 2026 – Navigating the New eCommerce Era apare prima dată în Brasov AZI ."
+    },
     {
       "title": "Cum eviți problemele când răspunzi la anunțuri online",
       "link": "https://brasov-azi.ro/cum-eviti-problemele-cand-raspunzi-la-anunturi-online/",
@@ -71,15 +77,15 @@
       "link": "https://brasov-azi.ro/predeal-in-2026-ce-faci-intr-un-weekend-partii-drumetii-plimbari/",
       "date": "Mon, 02 Feb 2026 08:13:08 +0000",
       "summary": "Stațiunea Predeal combină sporturile de iarnă și drumețiile montane cu obiective precum Mănăstirea și Canionul Șapte Scări. Articolul Predeal în 2026: ce faci într-un weekend (pârtii, drumeții, plimbări) apare prima dată în Brasov AZI ."
-    },
-    {
-      "title": "Cetatea Rupea: cum o vizitezi eficient + top puncte de belvedere (2026)",
-      "link": "https://brasov-azi.ro/cetatea-rupea-cum-o-vizitezi-eficient-top-puncte-de-belvedere-2026/",
-      "date": "Sun, 01 Feb 2026 04:28:53 +0000",
-      "summary": "Cetatea Rupea, monument istoric din Transilvania, este ușor accesibilă lângă E60 și oferă, în doar două ore, priveliști spectaculoase. Articolul Cetatea Rupea: cum o vizitezi eficient + top puncte de belvedere (2026) apare prima dată în Brasov AZI ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@brasov/116804552601880890",
+      "date": "Wed, 24 Jun 2026 10:13:49 +0000",
+      "content": "ecomTEAM 2026 – Navigating the New eCommerce Era: ghidul de supraviețuire și creștere în noua eră a e-commerce-ului global Într-o perioadă marcată de transformări tehnologice majore și schimbări legislative, ecomTEAM, unul dintre cele mai importante evenimente de profil din regiune, își anunță ediția din 2026 sub tema „Navigating the New Ecommerce Era”. Rămânând fidel principiului… https:// brasov-azi.ro/ecomteam-2026-na vigating-the-new-ecommerce-era/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@brasov/116765315329441237",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@brasov/116000510940302890",
       "date": "Mon, 02 Feb 2026 10:15:27 +0000",
       "content": "Stațiunea Predeal combină sporturile de iarnă și drumețiile montane cu obiective precum Mănăstirea și Canionul Șapte Scări. https:// brasov-azi.ro/predeal-in-2026- ce-faci-intr-un-weekend-partii-drumetii-plimbari/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@brasov/115993962503376535",
-      "date": "Sun, 01 Feb 2026 06:30:06 +0000",
-      "content": "Cetatea Rupea, monument istoric din Transilvania, este ușor accesibilă lângă E60 și oferă, în doar două ore, priveliști spectaculoase. https:// brasov-azi.ro/cetatea-rupea-cu m-o-vizitezi-eficient-top-puncte-de-belvedere-2026/"
     }
   ]
 }

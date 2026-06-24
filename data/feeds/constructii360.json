@@ -4,8 +4,14 @@
   "site_feed": "https://constructii360.ro/feed/",
   "mastodon": "https://social.5th.ro/@constructii360",
   "mastodon_rss": "https://social.5th.ro/@constructii360.rss",
-  "updated_at": "2026-06-24T08:33:22Z",
+  "updated_at": "2026-06-24T12:01:06Z",
   "site_posts": [
+    {
+      "title": "Imobiliare, credite și asigurări: ecosistemul câștigător în 2026. Acceleratorul revine la Iași",
+      "link": "https://constructii360.ro/imobiliare-credite-si-asigurari-ecosistemul-castigator-in-2026-acceleratorul-revine-la-iasi/",
+      "date": "Wed, 24 Jun 2026 08:43:27 +0000",
+      "summary": "Pe 30 iunie 2026, Sala Eminescu a Grand Hotel Traian din Iași va găzdui cea Articolul Imobiliare, credite și asigurări: ecosistemul câștigător în 2026. Acceleratorul revine la Iași apare prima dată în Constructii 360 ."
+    },
     {
       "title": "De ce TCL BreezeIN Ultra 24000 BTU este o alegere excelentă pentru spațiile mari",
       "link": "https://constructii360.ro/tcl-breezein-ultra-24000-btu-este-o-alegere-excelenta-pentru-spatiile-mari/",
@@ -59,15 +65,15 @@
       "link": "https://constructii360.ro/tamplarie/",
       "date": "Wed, 28 Jan 2026 12:09:21 +0000",
       "summary": "Locuințele noi sunt proiectate cu alte așteptări decât în urmă cu 10-15 ani: eficiență energetică, Articolul Eficiență energetică și design modern: Ambient Plast, soluții premium pentru locuințe noi apare prima dată în Constructii 360 ."
-    },
-    {
-      "title": "Mastodon WordPress plugin: ce permisiuni și ce securitate trebuie să ai",
-      "link": "https://constructii360.ro/mastodon-wordpress-plugin-ce-permisiuni-si-ce-securitate-trebuie-sa-ai/",
-      "date": "Wed, 17 Dec 2025 16:58:54 +0000",
-      "summary": "Trecerea la Fediverse și integrarea platformei Mastodon cu site-urile tradiționale devine o necesitate pentru mulți Articolul Mastodon WordPress plugin: ce permisiuni și ce securitate trebuie să ai apare prima dată în Constructii 360 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@constructii360/116804909844473111",
+      "date": "Wed, 24 Jun 2026 11:44:40 +0000",
+      "content": "🆕Pe 30 iunie 2026, Sala Eminescu a Grand Hotel Traian din Iași va găzdui cea de-a doua ediție a evenimentului Matricea Succesului, organizat de Acceleratorul.com. Evenimentul reunește profesioniști din imobiliare, brokeraj de credite și asigurări într-un format structurat în jurul prezentărilor aplicate, workshopurilor și sesiunilor de networking. Matricea Succesului este o https:// constructii360.ro/imobiliare-c redite-si-asigurari-ecosistemul-castigator-in-2026-acceleratorul-revine-la-iasi/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@constructii360/116765540561284219",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@constructii360/115799523631440617",
       "date": "Sun, 28 Dec 2025 22:21:44 +0000",
       "content": "🆕/tmp/tmpvp7yrrj3.html https:// constructii360.ro/cum-recunost i-un-infarct-simptome-de-alarma/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@constructii360/115797038663485650",
-      "date": "Sun, 28 Dec 2025 11:49:47 +0000",
-      "content": "🆕/tmp/tmp0m65dqx0.html https:// constructii360.ro/acneea-la-ad olescenti-greseli-frecvente-de-evitat/"
     }
   ]
 }
