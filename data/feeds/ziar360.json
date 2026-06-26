@@ -4,8 +4,14 @@
   "site_feed": "https://ziar360.ro/feed/",
   "mastodon": "https://social.5th.ro/@ziar360",
   "mastodon_rss": "https://social.5th.ro/@ziar360.rss",
-  "updated_at": "2026-06-26T06:19:49Z",
+  "updated_at": "2026-06-26T10:28:07Z",
   "site_posts": [
+    {
+      "title": "Cum alegi un dulap pentru un apartament mic, fără să înghesui camera",
+      "link": "https://ziar360.ro/cum-alegi-un-dulap-pentru-un-apartament-mic-fara-sa-inghesui-camera/",
+      "date": "Fri, 26 Jun 2026 06:50:00 +0000",
+      "summary": "În multe locuințe din România, spațiul se termină înainte să se termine lucrurile. Nu e doar o impresie. Datele Eurostat arată constant o rată de supraaglomerare de peste 40% în România, printre cele mai ridicate din UE. Mai adaugă și faptul că peste 95% dintre români locuiesc în casele lor, tot după Eurostat. Când ești [&#8230;] The post Cum alegi un dulap pentru un apartament mic, fără să înghesui camera appeared first on Ziar 360 ."
+    },
     {
       "title": "Imobiliare, credite și asigurări: ecosistemul câștigător în 2026. Acceleratorul revine la Iași",
       "link": "https://ziar360.ro/imobiliare-credite-si-asigurari-ecosistemul-castigator-in-2026-acceleratorul-revine-la-iasi/",
@@ -59,12 +65,6 @@
       "link": "https://ziar360.ro/cauciucuri-incinse-si-atmosfera-incendiara-atbs-2026-a-transformat-romexpo-in-arena-cailor-putere/",
       "date": "Thu, 28 May 2026 06:48:19 +0000",
       "summary": "Miros de cauciuc încins, motoare turate la limită, drifturi spectaculoase, stunt show pe două roți și aproape 100 de mașini modificate au transformat Romexpo, în weekend, într-o adevărată arenă a cailor-putere. AUTO TOTAL BUSINESS SHOW (ATBS), cel mai mare eveniment automotive din România dedicat pieselor, accesoriilor și soluțiilor pentru industria auto, a atras anul acesta [&#8230;] The post Cauciucuri încinse și atmosferă incendiară: ATBS 2026 a transformat Romexpo în arena cailor-putere appeared first on Ziar 360 ."
-    },
-    {
-      "title": "Paznicii tăcuți ai rețelei electrice: cum previn releele de monitorizare pagubele de mii de euro",
-      "link": "https://ziar360.ro/paznicii-tacuti-ai-retelei-electrice-cum-previn-releele-de-monitorizare-pagubele-de-mii-de-euro/",
-      "date": "Thu, 09 Apr 2026 16:59:52 +0000",
-      "summary": "Într-o dimineață obișnuită de toamnă, un mic atelier de tâmplărie din apropierea Bucureștiului a rămas fără două motoare trifazate și un compresor industrial. Cauza? O simplă cădere a unei faze pe care nimeni nu a sesizat-o la timp. Pagubele? Peste 4.000 de euro. Morala? Un dispozitiv de câteva zeci de lei ar fi putut preveni [&#8230;] The post Paznicii tăcuți ai rețelei electrice: cum previn releele de monitorizare pagubele de mii de euro appeared first on Ziar 360 ."
     }
   ],
   "mastodon_posts": [

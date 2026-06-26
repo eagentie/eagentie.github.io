@@ -4,8 +4,14 @@
   "site_feed": "https://noutati24.ro/feed/",
   "mastodon": "https://social.5th.ro/@noutati24",
   "mastodon_rss": "https://social.5th.ro/@noutati24.rss",
-  "updated_at": "2026-06-26T06:20:08Z",
+  "updated_at": "2026-06-26T10:28:28Z",
   "site_posts": [
+    {
+      "title": "Cum alegi un pat care nu îți mănâncă spațiul și îți susține somnul",
+      "link": "https://noutati24.ro/cum-alegi-un-pat-care-nu-iti-mananca-spatiul-si-iti-sustine-somnul/",
+      "date": "Fri, 26 Jun 2026 06:20:00 +0000",
+      "summary": "Mulți români își mobilează dormitorul la final, după bucătărie și living. Apoi descoperă că patul e prea mare, greu de &#8230; Articolul Cum alegi un pat care nu îți mănâncă spațiul și îți susține somnul apare prima dată în Noutati 24 ."
+    },
     {
       "title": "Palatul Victoria iluminat în culorile steagurilor României și Statelor Unite ale Americii, simbol al relațiilor bilaterale strategice și de prietenie",
       "link": "https://noutati24.ro/palatul-victoria-iluminat-in-culorile-steagurilor-romaniei-si-statelor-unite-ale-americii-simbol-al-relatiilor-bilaterale-strategice-si-de-prietenie/",
@@ -71,12 +77,6 @@
       "link": "https://noutati24.ro/tabara-de-vara-la-bran-o-saptamana-care-schimba-tot/",
       "date": "Tue, 16 Jun 2026 08:34:03 +0000",
       "summary": "Duminica, aventura incepe! Micutii de la Gradinita Mami si Tati pleaca la munte &#8212; la Bran &#8212; pentru o saptamana &#8230; Articolul TABARA DE VARA LA BRAN — O SAPTAMANA CARE SCHIMBA TOT apare prima dată în Noutati 24 ."
-    },
-    {
-      "title": "Ședința de guvern din 12 iunie 2026",
-      "link": "https://noutati24.ro/sedinta-de-guvern-din-12-iunie-2026/",
-      "date": "Fri, 12 Jun 2026 11:57:00 +0000",
-      "summary": "Guvernul României Guvernul este autoritatea publică a puterii executive, care funcționează în baza votului de încredere acordat de Parlament și &#8230; Articolul Ședința de guvern din 12 iunie 2026 apare prima dată în Noutati 24 ."
     }
   ],
   "mastodon_posts": [
