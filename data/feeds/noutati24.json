@@ -4,8 +4,14 @@
   "site_feed": "https://noutati24.ro/feed/",
   "mastodon": "https://social.5th.ro/@noutati24",
   "mastodon_rss": "https://social.5th.ro/@noutati24.rss",
-  "updated_at": "2026-06-28T21:19:47Z",
+  "updated_at": "2026-06-28T23:18:02Z",
   "site_posts": [
+    {
+      "title": "Mesajul premierului Ilie Bolojan susținut de secretarul de stat Dragoș Hotea la ceremoniile dedicate comemorării a 85 de ani de la Pogromul de la Iași",
+      "link": "https://noutati24.ro/mesajul-premierului-ilie-bolojan-sustinut-de-secretarul-de-stat-dragos-hotea-la-ceremoniile-dedicate-comemorarii-a-85-de-ani-de-la-pogromul-de-la-iasi/",
+      "date": "Sun, 28 Jun 2026 14:43:00 +0000",
+      "summary": "Îmi face o deosebită onoare să fiu alături de dumneavoastră astăzi, cu prilejul ceremoniei de comemorare a 85 de ani &#8230; Articolul Mesajul premierului Ilie Bolojan susținut de secretarul de stat Dragoș Hotea la ceremoniile dedicate comemorării a 85 de ani de la Pogromul de la Iași apare prima dată în Noutati 24 ."
+    },
     {
       "title": "Palatul Victoria, iluminat în culorile steagului României, cu prilejul Zilei Drapelului Național",
       "link": "https://noutati24.ro/palatul-victoria-iluminat-in-culorile-steagului-romaniei-cu-prilejul-zilei-drapelului-national/",
@@ -71,15 +77,15 @@
       "link": "https://noutati24.ro/neoplazii-gastrice-simptome-investigatii-si-tratament-chirurgical/",
       "date": "Tue, 23 Jun 2026 08:05:55 +0000",
       "summary": "Articol informativ pentru pacienți din București despre neoplazii gastrice: simptome, investigații și tratament chirurgical. Articolul Neoplazii gastrice: simptome, investigații și tratament chirurgical apare prima dată în Noutati 24 ."
-    },
-    {
-      "title": "Briefing de presă susținut de premierul Ilie Bolojan, ministrul Investițiilor și Proiectelor Europene, Dragoș Pîslaru, și de purtătorul de cuvânt al Guvernului, Ioana Dogioiu, la finalul ședinței de guvern",
-      "link": "https://noutati24.ro/briefing-de-presa-sustinut-de-premierul-ilie-bolojan-ministrul-investitiilor-si-proiectelor-europene-dragos-pislaru-si-de-purtatorul-de-cuvant-al-guvernului-ioana-dogioiu-la-finalul-sedintei-de-g/",
-      "date": "Mon, 22 Jun 2026 21:28:00 +0000",
-      "summary": "[embedded content] [Check against delivery] Ioana Dogioiu: Bună seara! Principalul punct de pe ordinea de zi din ședința extraordinară a &#8230; Articolul Briefing de presă susținut de premierul Ilie Bolojan, ministrul Investițiilor și Proiectelor Europene, Dragoș Pîslaru, și de purtătorul de cuvânt al Guvernului, Ioana Dogioiu, la finalul ședinței de guvern apare prima dată în Noutati 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@noutati24/116830148935819063",
+      "date": "Sun, 28 Jun 2026 22:43:18 +0000",
+      "content": "🆕Îmi face o deosebită onoare să fiu alături de dumneavoastră astăzi, cu prilejul ceremoniei de comemorare a 85 de ani de la Pogromul de la Iași. În cele ce urmează, permiteți-mi să dau citire mesajului domnului Ilie Bolojan, prim-ministrul României: În perioada 27–30 iunie comemorăm 85 de ani de la Pogromul de la Iași, unul… 🌐 https:// noutati24.ro/mesajul-premierul ui-ilie-bolojan-sustinut-de-secretarul-de-stat-dragos-hotea-la-ceremoniile-dedicate-comemorarii-a-85-de-ani-de-la-pogromul-de-la-iasi/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@noutati24/116818778219303871",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@noutati24/116799286939235396",
       "date": "Tue, 23 Jun 2026 11:54:42 +0000",
       "content": "🆕Articol informativ pentru pacienți din București despre neoplazii gastrice: simptome, investigații și tratament chirurgical. 🌐 https:// noutati24.ro/neoplazii-gastric e-simptome-investigatii-si-tratament-chirurgical/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@noutati24/116796051056292875",
-      "date": "Mon, 22 Jun 2026 22:11:46 +0000",
-      "content": "🆕Guvernul României Guvernul este autoritatea publică a puterii executive, care funcționează în baza votului de încredere acordat de Parlament și care asigură realizarea politicii interne și externe a țării și exercită conducerea generală a administrației publice. Află mai multeArticol preluat de pe gov.ro 🌐 https:// noutati24.ro/sedinta-extraordi nara-de-guvern-din-22-iunie-2026/"
     }
   ]
 }
