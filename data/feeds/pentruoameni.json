@@ -4,8 +4,14 @@
   "site_feed": "https://pentruoameni.ro/feed/",
   "mastodon": "https://social.5th.ro/@pentruoameni",
   "mastodon_rss": "https://social.5th.ro/@pentruoameni.rss",
-  "updated_at": "2026-07-01T18:15:11Z",
+  "updated_at": "2026-07-01T20:15:03Z",
   "site_posts": [
+    {
+      "title": "Cum îți dai seama dacă ai nevoie de suplimente pentru imunitate sau doar de schimbarea stilului de viață",
+      "link": "https://pentruoameni.ro/cum-iti-dai-seama-daca-ai-nevoie-de-suplimente-pentru-imunitate-sau-doar-de-schimbarea-stilului-de-viata/",
+      "date": "Wed, 01 Jul 2026 19:47:42 +0000",
+      "summary": "Când oboseala se combină cu răceli dese sau cu perioade stresante, tentația este să alegi o pastilă care pare că rezolvă totul. În spatele acestor alegeri stau însă obiceiuri zilnice, alimentație, somn, stres și mișcare, care influențează mult mai mult decât pare felul în care funcționează organismul. Înainte să te îndrepți către un produs sau [&#8230;] Articolul Cum îți dai seama dacă ai nevoie de suplimente pentru imunitate sau doar de schimbarea stilului de viață apare prima dată în Pentru Oameni ."
+    },
     {
       "title": "Secretele unui meșter priceput: 5 factori de care să ții cont ca să alegi mașina de înșurubat perfectă",
       "link": "https://pentruoameni.ro/secretele-unui-mester-priceput-5-factori-de-care-sa-tii-cont-ca-sa-alegi-masina-de-insurubat-perfecta/",
@@ -71,15 +77,15 @@
       "link": "https://pentruoameni.ro/monitorizare-gps-flota-auto-cum-reduci-costurile-rapid/",
       "date": "Thu, 09 Apr 2026 09:13:18 +0000",
       "summary": "Ți s-a întâmplat să ai impresia că „se evaporă” banii din flotă, deși ai același număr de mașini, aceiași șoferi și, teoretic, aceleași rute? Monitorizare GPS Flotă Auto e una dintre puținele soluții care atacă direct scurgerile reale: consum umflat, kilometri inutili, timp mort, rute ocolite, opriri neplanificate și service făcut „după ureche”. Dacă implementezi [&#8230;] Articolul Monitorizare GPS Flotă Auto: Cum Reduci Costurile Rapid? apare prima dată în Pentru Oameni ."
-    },
-    {
-      "title": "Ce influențează prețul pentru trepte din lemn?",
-      "link": "https://pentruoameni.ro/ce-influenteaza-pretul-pentru-trepte-din-lemn/",
-      "date": "Tue, 31 Mar 2026 09:08:40 +0000",
-      "summary": "Când analizezi costul pentru trepte din lemn, cel mai important lucru de înțeles este că prețul nu depinde doar de esența aleasă. În realitate, costul final este influențat de material, grosime, finisaj, complexitatea proiectului, tipul scării și calitatea montajului. Tocmai de aceea, două oferte pentru trepte din lemn pot arăta asemănător la prima vedere, dar [&#8230;] Articolul Ce influențează prețul pentru trepte din lemn? apare prima dată în Pentru Oameni ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@pentruoameni/116846445530055606",
+      "date": "Wed, 01 Jul 2026 19:47:45 +0000",
+      "content": "Când oboseala se combină cu răceli dese sau cu perioade stresante, tentația este să alegi o pastilă care pare că rezolvă totul. În spatele acestor alegeri stau însă obiceiuri zilnice, alimentație, somn, stres și mișcare, care influențează mult mai mult decât pare felul în care funcționează organismul. Înainte să te îndrepți către un produs sau… .... https:// pentruoameni.ro/cum-iti-dai-se ama-daca-ai-nevoie-de-suplimente-pentru-imunitate-sau-doar-de-schimbarea-stilului-de-viata/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@pentruoameni/116804484315831500",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@pentruoameni/116373979145567243",
       "date": "Thu, 09 Apr 2026 09:13:20 +0000",
       "content": "Ți s-a întâmplat să ai impresia că „se evaporă” banii din flotă, deși ai același număr de mașini, aceiași șoferi și, teoretic, aceleași rute? Monitorizare GPS Flotă Auto e una dintre puținele soluții care atacă direct scurgerile reale: consum umflat, kilometri inutili, timp mort, rute ocolite, opriri neplanificate și service făcut „după ureche”. Dacă implementezi… .... https:// pentruoameni.ro/monitorizare-g ps-flota-auto-cum-reduci-costurile-rapid/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@pentruoameni/116323000131801243",
-      "date": "Tue, 31 Mar 2026 09:08:42 +0000",
-      "content": "Când analizezi costul pentru trepte din lemn, cel mai important lucru de înțeles este că prețul nu depinde doar de esența aleasă. În realitate, costul final este influențat de material, grosime, finisaj, complexitatea proiectului, tipul scării și calitatea montajului. Tocmai de aceea, două oferte pentru trepte din lemn pot arăta asemănător la prima vedere, dar… .... https:// pentruoameni.ro/ce-influenteaz a-pretul-pentru-trepte-din-lemn/"
     }
   ]
 }
