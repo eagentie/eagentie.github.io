@@ -4,8 +4,14 @@
   "site_feed": "https://topantreprenor.ro/feed/",
   "mastodon": "https://social.5th.ro/@topantreprenor",
   "mastodon_rss": "https://social.5th.ro/@topantreprenor.rss",
-  "updated_at": "2026-07-06T09:10:46Z",
+  "updated_at": "2026-07-06T12:58:57Z",
   "site_posts": [
+    {
+      "title": "Trei sfaturi despre cum să vă mențineți anvelopele în stare bună",
+      "link": "https://topantreprenor.ro/trei-sfaturi-despre-cum-sa-va-mentineti-anvelopele-in-stare-buna/",
+      "date": "Mon, 06 Jul 2026 11:17:26 +0000",
+      "summary": "Anvelopele sunt unele dintre cele mai importante componente ale unui automobil, chiar dacă, de multe ori, nu primesc atenția pe care o merită, iar menținerea acestora într-o stare optimă de funcționare este la fel de importantă precum schimbarea plăcuțelor de frâne. Motorul, frânele, suspensia sau sistemele electronice de siguranță pot fi foarte performante, însă toate [&#8230;] The post Trei sfaturi despre cum să vă mențineți anvelopele în stare bună appeared first on Top Antreprenor ."
+    },
     {
       "title": "Locuri de muncă pentru șoferi: ce opțiuni există în 2026",
       "link": "https://topantreprenor.ro/locuri-de-munca-pentru-soferi-ce-optiuni-exista-in-2026/",
@@ -59,15 +65,15 @@
       "link": "https://topantreprenor.ro/erra-de-la-monitorizare-la-decizie-cum-pot-organizatiile-sa-reduca-costurile-prin-automatizare/",
       "date": "Thu, 28 May 2026 06:51:11 +0000",
       "summary": "În multe organizații, există deja sisteme care colectează date despre procese, mediu sau infrastructură. Problema nu este lipsa datelor, ci faptul că acestea nu sunt utilizate eficient. Deciziile sunt luate târziu, iar intervențiile rămân, în mare parte, manuale. Această diferență între „a ști” și „a acționa” generează costuri: timpi de reacție mari, riscuri necontrolate și [&#8230;] The post ERRA – de la monitorizare la decizie: cum pot organizațiile să reducă costurile prin automatizare appeared first on Top Antreprenor ."
-    },
-    {
-      "title": "Coșuri cadou corporate sau carduri cadou: ce aleg companiile în 2026?",
-      "link": "https://topantreprenor.ro/cosuri-cadou-corporate-sau-carduri-cadou-ce-aleg-companiile-in-2026/",
-      "date": "Thu, 28 May 2026 06:50:05 +0000",
-      "summary": "Bugetul de cadouri corporate există în aproape orice companie. Întrebarea nu este dacă se oferă ceva, ci ce anume. Cardurile cadou au devenit foarte populare în ultimii ani prin simplitatea lor, dar tot mai multe companii aleg daruri mai festive și anume: coșuri cadou corporate&#160;asamblate manual, cu produse premium, gata de oferit. Cele două opțiuni [&#8230;] The post Coșuri cadou corporate sau carduri cadou: ce aleg companiile în 2026? appeared first on Top Antreprenor ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@topantreprenor/116872750483478338",
+      "date": "Mon, 06 Jul 2026 11:17:26 +0000",
+      "content": "📰Anvelopele sunt unele dintre cele mai importante componente ale unui automobil, chiar dacă, de multe ori, nu primesc atenția pe care o merită, iar menținerea acestora într-o stare optimă de funcționare este la fel de importantă precum schimbarea plăcuțelor de frâne. Motorul, frânele, suspensia sau sistemele electronice de siguranță pot fi foarte performante, însă toate… 🌐 https:// topantreprenor.ro/trei-sfaturi -despre-cum-sa-va-mentineti-anvelopele-in-stare-buna/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@topantreprenor/116804043238656638",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@topantreprenor/116645327381307724",
       "date": "Wed, 27 May 2026 07:20:45 +0000",
       "content": "📰În 2026, o tabletă poate deveni unul dintre cele mai utile dispozitive pentru lucrul de la distanță, mai ales atunci când face parte dintr-un ecosistem conectat. Mulți utilizatori aleg combinații între Galaxy Tab S11, Galaxy Buds4 și seria Galaxy S26 pentru a lucra mai rapid, a participa la întâlniri online și a gestiona documentele fără… 🌐 https:// topantreprenor.ro/cum-te-ajuta -tableta-in-lucrul-de-la-distanta/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@topantreprenor/116640629055493633",
-      "date": "Tue, 26 May 2026 11:25:54 +0000",
-      "content": "📰Piața mașinilor rulate din România are nevoie de repere mai ușor de înțeles pentru cumpărători. Oamenii caută prețuri bune, mașini verificate, acte în regulă și dealeri care răspund direct la întrebări. În același timp, firmele serioase din domeniu au nevoie de o formă prin care să își arate profesionalismul.ARDAR, Asociația Română a Dealerilor Auto Rulate,… 🌐 https:// topantreprenor.ro/10-lucruri-p e-care-trebuie-sa-le-stii-despre-ardar-asociatia-romana-a-dealerilor-auto-rulate/"
     }
   ]
 }
