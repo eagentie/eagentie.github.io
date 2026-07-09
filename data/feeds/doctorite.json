@@ -4,8 +4,14 @@
   "site_feed": "https://doctorite.ro/feed/",
   "mastodon": "https://social.5th.ro/@DoctoriteBlog",
   "mastodon_rss": "https://social.5th.ro/@DoctoriteBlog.rss",
-  "updated_at": "2026-07-09T04:18:13Z",
+  "updated_at": "2026-07-09T07:52:34Z",
   "site_posts": [
+    {
+      "title": "Cum să te pregătești pentru o ședință cu un psiholog online din confortul casei tale",
+      "link": "https://doctorite.ro/cum-sa-te-pregatesti-pentru-o-sedinta-cu-un-psiholog-online-din-confortul-casei-tale/",
+      "date": "Thu, 09 Jul 2026 07:45:04 +0000",
+      "summary": "Mutarea cabinetului psihologic direct în sufrageria sau biroul tău vine la pachet cu un nivel... Articolul Cum să te pregătești pentru o ședință cu un psiholog online din confortul casei tale apare prima dată în Doctorite ."
+    },
     {
       "title": "Ambrozia trebuie smulsă acum: apel la voluntari pentru acțiune de curățare în Parcul Natural Văcărești",
       "link": "https://doctorite.ro/ambrozia-trebuie-smulsa-acum-apel-la-voluntari-pentru-actiune-de-curatare-in-parcul-natural-vacaresti/",
@@ -59,15 +65,15 @@
       "link": "https://doctorite.ro/cotele-dunarii-la-cernavoda-in-2026-nivelul-apei-azi-grafic-si-tendinte/",
       "date": "Fri, 13 Feb 2026 08:38:11 +0000",
       "summary": "Analiza rezultatelor din Google pentru cuvintele cheie vizate relevă faptul că majoritatea paginilor de top... Articolul Cotele Dunării la Cernavodă în 2026: nivelul apei azi, grafic și tendințe apare prima dată în Doctorite ."
-    },
-    {
-      "title": "Vitamina C – cum susține protecția celulelor împotriva stresului oxidativ",
-      "link": "https://doctorite.ro/vitamina-c-cum-sustine-protectia-celulelor-impotriva-stresului-oxidativ/",
-      "date": "Sun, 08 Feb 2026 16:02:29 +0000",
-      "summary": "Vitamina C este o vitamină hidrosolubilă care trebuie furnizată regulat prin alimentație, deoarece organismul uman... Articolul Vitamina C – cum susține protecția celulelor împotriva stresului oxidativ apare prima dată în Doctorite ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@DoctoriteBlog/116888902453693119",
+      "date": "Thu, 09 Jul 2026 07:45:06 +0000",
+      "content": "Mutarea cabinetului psihologic direct în sufrageria sau biroul tău vine la pachet cu un nivel uriaș de confort și economii de timp. Totuși, această libertate implică riscul de a trata interacțiunea terapeutică mult prea relaxat, scăzându-i involuntar din eficiență. Trecerea de la agitația zilnică la starea de introspecție necesită o pregătire minimă a spațiului și… https:// doctorite.ro/cum-sa-te-pregate sti-pentru-o-sedinta-cu-un-psiholog-online-din-confortul-casei-tale/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@DoctoriteBlog/116725985885677356",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@DoctoriteBlog/115767677676503542",
       "date": "Tue, 23 Dec 2025 07:22:53 +0000",
       "content": "Etapele tratamentului cu aparat dentar invizibil. Iată în ce constă procesul de la A la Z Tratamentul ortodontic a cunoscut o transformare majoră în ultimii ani, iar una dintre cele mai căutate soluții este, fără îndoială, aparatul invizibil, o alternativă modernă care răspunde atât nevoilor funcționale, cât și celor estetice. Tot mai mulți pacienți își… https:// doctorite.ro/etapele-tratament ului-cu-aparat-dentar-invizibil/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@DoctoriteBlog/115736523245175908",
-      "date": "Wed, 17 Dec 2025 19:19:55 +0000",
-      "content": "Introducere: De Ce Vizibilitatea Pe Mastodon Depinde De Tine? V-ați săturat de algoritmii care decid ce merită să vedeți și cine merită să vă vadă? În rețelele sociale tradiționale, vizibilitatea depinde de secretele unui cod complex. Această frustrare este comună. Când trecem la alternative, ne așteptăm la o schimbare de paradigmă. Aici intervine Mastodon. Fiind… https:// doctorite.ro/hashtaguri-pe-mas todon-cum-te-gaseste-lumea-mai-usor/"
     }
   ]
 }
