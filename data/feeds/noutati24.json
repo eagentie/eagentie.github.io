@@ -4,8 +4,14 @@
   "site_feed": "https://noutati24.ro/feed/",
   "mastodon": "https://social.5th.ro/@noutati24",
   "mastodon_rss": "https://social.5th.ro/@noutati24.rss",
-  "updated_at": "2026-07-10T23:13:22Z",
+  "updated_at": "2026-07-11T00:09:01Z",
   "site_posts": [
+    {
+      "title": "Prim-ministrul Ilie Bolojan, pe șantierul Autostrăzii Transilvania pentru a verifica stadiul lucrărilor",
+      "link": "https://noutati24.ro/prim-ministrul-ilie-bolojan-pe-santierul-autostrazii-transilvania-pentru-a-verifica-stadiul-lucrarilor/",
+      "date": "Fri, 10 Jul 2026 19:52:00 +0000",
+      "summary": "Galerie foto COMUNICAT DE PRESĂ Premierul Ilie Bolojan s-a aflat astăzi în mai multe puncte ale șantierului Autostrăzii Transilvania pentru &#8230; Articolul Prim-ministrul Ilie Bolojan, pe șantierul Autostrăzii Transilvania pentru a verifica stadiul lucrărilor apare prima dată în Noutati 24 ."
+    },
     {
       "title": "Securitatea regională și colaborarea economică, pe agenda întrevederii premierului Ilie Bolojan cu subsecretarul de stat pentru afaceri politice din cadrul Departamentului de Stat al Statelor Unite ale Americii, Allison Hooker",
       "link": "https://noutati24.ro/securitatea-regionala-si-colaborarea-economica-pe-agenda-intrevederii-premierului-ilie-bolojan-cu-subsecretarul-de-stat-pentru-afaceri-politice-din-cadrul-departamentului-de-stat-al-statelor-unite-al/",
@@ -71,15 +77,15 @@
       "link": "https://noutati24.ro/sedinta-de-guvern-din-data-26-iunie-2026/",
       "date": "Fri, 26 Jun 2026 13:46:00 +0000",
       "summary": "Guvernul României Guvernul este autoritatea publică a puterii executive, care funcționează în baza votului de încredere acordat de Parlament și &#8230; Articolul Ședința de guvern din data 26 iunie 2026 apare prima dată în Noutati 24 ."
-    },
-    {
-      "title": "Guvernanță, roluri instituționale și deschidere către parteneriate strategice în implementarea Portofelului de Identitate Digitală (RoEUDIW)",
-      "link": "https://noutati24.ro/guvernanta-roluri-institutionale-si-deschidere-catre-parteneriate-strategice-in-implementarea-portofelului-de-identitate-digitala-roeudiw/",
-      "date": "Fri, 26 Jun 2026 13:28:00 +0000",
-      "summary": "COMUNICAT DE PRESĂ Guvernanță, roluri instituționale și deschidere către parteneriate strategice în implementarea Portofelului de Identitate Digitală (RoEUDIW) Guvernul României &#8230; Articolul Guvernanță, roluri instituționale și deschidere către parteneriate strategice în implementarea Portofelului de Identitate Digitală (RoEUDIW) apare prima dată în Noutati 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@noutati24/116898408889192238",
+      "date": "Sat, 11 Jul 2026 00:02:42 +0000",
+      "content": "🆕Galerie foto COMUNICAT DE PRESĂ Premierul Ilie Bolojan s-a aflat astăzi în mai multe puncte ale șantierului Autostrăzii Transilvania pentru a verifica stadiul lucrărilor de execuție și a discuta cu reprezentanții constructorilor. Prim-ministrul a vizitat puncte de lucru de pe secțiunea care va face legătura între Nădășelu – Topa Mică – Poarta Sălajului, precum și… 🌐 https:// noutati24.ro/prim-ministrul-il ie-bolojan-pe-santierul-autostrazii-transilvania-pentru-a-verifica-stadiul-lucrarilor/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@noutati24/116892708972661086",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@noutati24/116818778033681351",
       "date": "Fri, 26 Jun 2026 22:31:32 +0000",
       "content": "🆕COMUNICAT DE PRESĂ Guvernanță, roluri instituționale și deschidere către parteneriate strategice în implementarea Portofelului de Identitate Digitală (RoEUDIW) Guvernul României prezintă deciziile privind implementarea portofelului european pentru identitate digitală (RoEUDIW), un proiect menit să ofere fiecărui cetățean un mecanism 🌐 https:// noutati24.ro/guvernanta-roluri -institutionale-si-deschidere-catre-parteneriate-strategice-in-implementarea-portofelului-de-identitate-digitala-roeudiw/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@noutati24/116818777846847490",
-      "date": "Fri, 26 Jun 2026 22:31:29 +0000",
-      "content": "🆕Guvernul României Guvernul este autoritatea publică a puterii executive, care funcționează în baza votului de încredere acordat de Parlament și care asigură realizarea politicii interne și externe a țării și exercită conducerea generală a administrației publice. Află mai multeArticol preluat de pe gov.ro 🌐 https:// noutati24.ro/sedinta-de-guvern -din-data-26-iunie-2026/"
     }
   ]
 }
