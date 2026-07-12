@@ -4,8 +4,14 @@
   "site_feed": "https://noutati24.ro/feed/",
   "mastodon": "https://social.5th.ro/@noutati24",
   "mastodon_rss": "https://social.5th.ro/@noutati24.rss",
-  "updated_at": "2026-07-12T00:09:57Z",
+  "updated_at": "2026-07-12T03:55:23Z",
   "site_posts": [
+    {
+      "title": "O nouă creșă construită prin Programul „Sfânta Ana”, inaugurată în municipiul Oradea",
+      "link": "https://noutati24.ro/o-noua-cresa-construita-prin-programul-sfanta-ana-inaugurata-in-municipiul-oradea/",
+      "date": "Sat, 11 Jul 2026 13:25:00 +0000",
+      "summary": "Galerie foto COMUNICAT DE PRESĂ Prim-ministrul Ilie Bolojan și ministrul Dezvoltării, Lucrărilor Publice și Administrației, Cseke Attila, au participat astăzi, &#8230; Articolul O nouă creșă construită prin Programul &#8222;Sfânta Ana&#8221;, inaugurată în municipiul Oradea apare prima dată în Noutati 24 ."
+    },
     {
       "title": "Prim-ministrul Ilie Bolojan, pe șantierul Autostrăzii Transilvania pentru a verifica stadiul lucrărilor",
       "link": "https://noutati24.ro/prim-ministrul-ilie-bolojan-pe-santierul-autostrazii-transilvania-pentru-a-verifica-stadiul-lucrarilor/",
@@ -71,15 +77,15 @@
       "link": "https://noutati24.ro/palatul-victoria-iluminat-in-culorile-steagului-romaniei-cu-prilejul-zilei-drapelului-national/",
       "date": "Fri, 26 Jun 2026 22:28:00 +0000",
       "summary": "Guvernul României Guvernul este autoritatea publică a puterii executive, care funcționează în baza votului de încredere acordat de Parlament și &#8230; Articolul Palatul Victoria, iluminat în culorile steagului României, cu prilejul Zilei Drapelului Național apare prima dată în Noutati 24 ."
-    },
-    {
-      "title": "Ședința de guvern din data 26 iunie 2026",
-      "link": "https://noutati24.ro/sedinta-de-guvern-din-data-26-iunie-2026/",
-      "date": "Fri, 26 Jun 2026 13:46:00 +0000",
-      "summary": "Guvernul României Guvernul este autoritatea publică a puterii executive, care funcționează în baza votului de încredere acordat de Parlament și &#8230; Articolul Ședința de guvern din data 26 iunie 2026 apare prima dată în Noutati 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@noutati24/116904105012198997",
+      "date": "Sun, 12 Jul 2026 00:11:18 +0000",
+      "content": "🆕Galerie foto COMUNICAT DE PRESĂ Prim-ministrul Ilie Bolojan și ministrul Dezvoltării, Lucrărilor Publice și Administrației, Cseke Attila, au participat astăzi, 11 iulie, la inaugurarea noii creșe din cartierul Rogerius, municipiul Oradea, investiție realizată prin Compania Națională de Investiții în cadrul Programului național de construire de noi creșe „Sfânta Ana”, derulat de Ministerul 🌐 https:// noutati24.ro/o-noua-cresa-cons truita-prin-programul-sfanta-ana-inaugurata-in-municipiul-oradea/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@noutati24/116898408889192238",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@noutati24/116818778219303871",
       "date": "Fri, 26 Jun 2026 22:31:35 +0000",
       "content": "🆕Astăzi marcăm Ziua Drapelului Național. Tricolorul este unul dintre simbolurile care ne reprezintă ca stat și ca națiune. El vorbește despre istoria noastră, dar și despre responsabilitatea pe care o avem față de România de astăzi. Sub acest drapel s-au construit marile etape ale României moderne, în momentele de curaj, în perioadele dificile și în… 🌐 https:// noutati24.ro/mesajul-prim-mini strului-romaniei-ilie-bolojan-cu-prilejul-zilei-drapelului-national/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@noutati24/116818778033681351",
-      "date": "Fri, 26 Jun 2026 22:31:32 +0000",
-      "content": "🆕COMUNICAT DE PRESĂ Guvernanță, roluri instituționale și deschidere către parteneriate strategice în implementarea Portofelului de Identitate Digitală (RoEUDIW) Guvernul României prezintă deciziile privind implementarea portofelului european pentru identitate digitală (RoEUDIW), un proiect menit să ofere fiecărui cetățean un mecanism 🌐 https:// noutati24.ro/guvernanta-roluri -institutionale-si-deschidere-catre-parteneriate-strategice-in-implementarea-portofelului-de-identitate-digitala-roeudiw/"
     }
   ]
 }
