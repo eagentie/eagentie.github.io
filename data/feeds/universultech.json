@@ -4,8 +4,14 @@
   "site_feed": "https://UniversulTech.ro/feed/",
   "mastodon": "https://social.5th.ro/@UniversulTech",
   "mastodon_rss": "https://social.5th.ro/@UniversulTech.rss",
-  "updated_at": "2026-07-12T03:56:38Z",
+  "updated_at": "2026-07-12T06:54:26Z",
   "site_posts": [
+    {
+      "title": "Asistenții digitali cu AI: cum devin site-urile mai utile pentru utilizatori",
+      "link": "https://universultech.ro/asistenti-digitali-ai-site-uri-utile-utilizatori/",
+      "date": "Sun, 12 Jul 2026 05:27:56 +0000",
+      "summary": "Site-urile companiilor au evoluat mult în ultimii ani. La început, un site era în principal o carte de vizită online:&#8230; Articolul Asistenții digitali cu AI: cum devin site-urile mai utile pentru utilizatori apare prima dată în Universul Tech ."
+    },
     {
       "title": "Cum îți afectează motorul mașinii un ulei de proastă calitate",
       "link": "https://universultech.ro/cum-iti-afecteaza-motorul-masinii-un-ulei-de-proasta-calitate/",
@@ -71,15 +77,15 @@
       "link": "https://universultech.ro/rolul-consumabilelor-de-calitate-in-eficienta-biroului-tau/",
       "date": "Wed, 06 May 2026 13:03:52 +0000",
       "summary": "Într-un mediu de lucru modern, unde viteza de reacție și precizia sunt esențiale, detaliile logistice pot face diferența între o&#8230; Articolul Rolul consumabilelor de calitate în eficiența biroului tău apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "Ce înseamnă low latency la căști wireless?",
-      "link": "https://universultech.ro/ce-inseamna-low-latency-la-casti-wireless/",
-      "date": "Wed, 29 Apr 2026 11:17:00 +0000",
-      "summary": "Low latency la căști wireless înseamnă o întârziere foarte mică între momentul în care sunetul este generat pe telefon și&#8230; Articolul Ce înseamnă low latency la căști wireless? apare prima dată în Universul Tech ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@UniversulTech/116905350189205005",
+      "date": "Sun, 12 Jul 2026 05:27:58 +0000",
+      "content": "💡Site-urile companiilor au evoluat mult în ultimii ani. La început, un site era în principal o carte de vizită online: câteva pagini de prezentare, date de contact, o listă de servicii și eventual un formular. Astăzi, utilizatorii se așteaptă la mai mult. Vor răspunsuri rapide, informații clare și un traseu simplu până la acțiunea dorită.… ✅ https:// universultech.ro/asistenti-dig itali-ai-site-uri-utile-utilizatori/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@UniversulTech/116764558499068762",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@UniversulTech/116527768275462180",
       "date": "Wed, 06 May 2026 13:03:56 +0000",
       "content": "💡Într-un mediu de lucru modern, unde viteza de reacție și precizia sunt esențiale, detaliile logistice pot face diferența între o zi productivă și una marcată de frustrări tehnice. Tu, în calitate de profesionist sau manager, știi că fluxul de lucru depinde de o multitudine de factori, însă adesea ignori elementele de bază care susțin infrastructura zilnică:… ✅ https:// universultech.ro/rolul-consuma bilelor-de-calitate-in-eficienta-biroului-tau/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@UniversulTech/116487719922608050",
-      "date": "Wed, 29 Apr 2026 11:19:06 +0000",
-      "content": "💡Low latency la căști wireless înseamnă o întârziere foarte mică între momentul în care sunetul este generat pe telefon și momentul în care îl auzi în căști, iar cele mai bune modele în 2026, precum Samsung Galaxy Buds, sunt optimizate pentru a reduce acest decalaj și a oferi o experiență sincronizată în jocuri și conținut… ✅ https:// universultech.ro/ce-inseamna-l ow-latency-la-casti-wireless/"
     }
   ]
 }

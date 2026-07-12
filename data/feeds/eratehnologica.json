@@ -4,8 +4,14 @@
   "site_feed": "https://EraTehnologica.ro/feed/",
   "mastodon": "https://social.5th.ro/@eratehnologica",
   "mastodon_rss": "https://social.5th.ro/@eratehnologica.rss",
-  "updated_at": "2026-07-12T03:56:21Z",
+  "updated_at": "2026-07-12T06:54:13Z",
   "site_posts": [
+    {
+      "title": "De ce AI-ul devine parte din strategia digitala a companiilor, nu doar un instrument de automatizare",
+      "link": "https://eratehnologica.ro/de-ce-ai-ul-devine-parte-din-strategia-digitala-a-companiilor-nu-doar-un-instrument-de-automatizare/",
+      "date": "Sun, 12 Jul 2026 05:29:46 +0000",
+      "summary": "Inteligența artificială este folosită tot mai des pentru automatizare. Companiile o folosesc pentru texte, răspunsuri rapide, suport, analiză de date,&#8230; Articolul De ce AI-ul devine parte din strategia digitala a companiilor, nu doar un instrument de automatizare apare prima dată în Era Tehnologica ."
+    },
     {
       "title": "Cum influențează amplasarea valoarea unei proprietăți premium în București",
       "link": "https://eratehnologica.ro/cum-influenteaza-amplasarea-valoarea-unei-proprietati-premium-in-bucuresti/",
@@ -71,15 +77,15 @@
       "link": "https://eratehnologica.ro/seo-pentru-wordpress-setari-esentiale-si-pluginuri-care-chiar-ajuta/",
       "date": "Fri, 14 Nov 2025 07:32:14 +0000",
       "summary": "Te-ai săturat ca site-ul tău WordPress să fie îngropat în paginile din spate ale Google? Ai investit timp și resurse,&#8230; Articolul SEO pentru WordPress: setări esențiale și pluginuri care chiar ajută apare prima dată în Era Tehnologica ."
-    },
-    {
-      "title": "Cum transformi bonusurile de cazino în divertisment, nu în pierderi la păcănele",
-      "link": "https://eratehnologica.ro/cum-transformi-bonusurile-de-cazino-in-divertisment-nu-in-pierderi-la-pacanele/",
-      "date": "Thu, 13 Nov 2025 19:31:26 +0000",
-      "summary": "Te-ai simțit vreodată copleșit de bucuria de a primi un bonus cazino generos, doar pentru a te trezi mai târziu&#8230; Articolul Cum transformi bonusurile de cazino în divertisment, nu în pierderi la păcănele apare prima dată în Era Tehnologica ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@eratehnologica/116905357294808153",
+      "date": "Sun, 12 Jul 2026 05:29:47 +0000",
+      "content": "Inteligența artificială este folosită tot mai des pentru automatizare. Companiile o folosesc pentru texte, răspunsuri rapide, suport, analiză de date, generare de idei, marketing și procese interne. Totuși, valoarea reală a AI-ului nu apare atunci când este tratat ca un instrument separat. Apare atunci când devine parte din strategia digitală a companiei. Un site .... https:// eratehnologica.ro/de-ce-ai-ul- devine-parte-din-strategia-digitala-a-companiilor-nu-doar-un-instrument-de-automatizare/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@eratehnologica/116771253814980835",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@eratehnologica/115736983429960440",
       "date": "Wed, 17 Dec 2025 21:16:56 +0000",
       "content": "V-ați săturat de algoritmii care decid ce văd cititorii dumneavoastră? Mastodon este soluția descentralizată care oferă control total asupra audienței. Totuși, simpla creare a unui cont nu este de ajuns. Dacă scopul dumneavoastră este să construiți credibilitate și să atrageți contacte profesionale, aveți nevoie de un profil Mastodon care să vorbească despre expertiza dumneavoastră. Mulți… .... https:// eratehnologica.ro/cum-iti-pers onalizezi-profilul-mastodon-ca-sa-para-profesionist/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@eratehnologica/115694300297982575",
-      "date": "Wed, 10 Dec 2025 08:22:03 +0000",
-      "content": "Răspuns rapid pentru Featured Snippet: Performanța unui advertorial SEO se măsoară prin trei piloni principali în 2025: 1) Analiza detaliată a traficului organic (creșterea pozițiilor și a numărului de sesiuni calificate din motoarele de căutare); 2) Evaluarea ratei de conversii asistate și directe generate de cititorii advertorialului; și 3) Măsurarea Autorității de Domeniu (DR/DA) și… .... https:// eratehnologica.ro/cum-masori-p erformanta-unui-advertorial-seo-in-2025/"
     }
   ]
 }

@@ -4,8 +4,14 @@
   "site_feed": "https://e-faq.ro/feed/",
   "mastodon": "https://social.5th.ro/@efaq",
   "mastodon_rss": "https://social.5th.ro/@efaq.rss",
-  "updated_at": "2026-07-12T03:55:45Z",
+  "updated_at": "2026-07-12T06:53:43Z",
   "site_posts": [
+    {
+      "title": "Întrebări frecvente despre asistenții AI în clinici: ce pot face și unde sunt limitele",
+      "link": "https://e-faq.ro/intrebari-frecvente-despre-asistentii-ai-in-clinici-ce-pot-face-si-unde-sunt-limitele/",
+      "date": "Sun, 12 Jul 2026 05:33:03 +0000",
+      "summary": "Tehnologia a intrat în relația dintre pacient și clinică prin pași mici: site-uri mai clare, [&#8230;] Articolul Întrebări frecvente despre asistenții AI în clinici: ce pot face și unde sunt limitele apare prima dată în FAQ - Intrebari Frecvente ."
+    },
     {
       "title": "Cum găsești o licență Windows originală fără să plătești prea mult?",
       "link": "https://e-faq.ro/cum-gasesti-o-licenta-windows-originala-fara-sa-platesti-prea-mult/",
@@ -53,15 +59,15 @@
       "link": "https://e-faq.ro/casa-sau-apartament-cum-stii-care-este-optiunea-cea-mai-buna-pentru-tine/",
       "date": "Sat, 04 Apr 2026 13:22:00 +0000",
       "summary": "Alegerea locuinței este probabil cea mai mare decizie financiară pe care o vei lua. Această [&#8230;] Articolul Casă sau apartament? Cum știi care este opțiunea cea mai bună pentru tine? apare prima dată în FAQ - Intrebari Frecvente ."
-    },
-    {
-      "title": "Cum alegi cel mai bun studio de videochat din Iași? Alege dintre Viva Diva și Heylux pe Forumvideochat.ro!",
-      "link": "https://e-faq.ro/cum-alegi-cel-mai-bun-studio-de-videochat-din-iasi-alege-dintre-viva-diva-si-heylux-pe-forumvideochat-ro/",
-      "date": "Tue, 31 Mar 2026 15:39:14 +0000",
-      "summary": "Ești din Iași și te gândești la un job de model, dar simți că nu [&#8230;] Articolul Cum alegi cel mai bun studio de videochat din Iași? Alege dintre Viva Diva și Heylux pe Forumvideochat.ro! apare prima dată în FAQ - Intrebari Frecvente ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@efaq/116905370379175035",
+      "date": "Sun, 12 Jul 2026 05:33:06 +0000",
+      "content": "🚀 Tehnologia a intrat în relația dintre pacient și clinică prin pași mici: site-uri mai clare, formulare de contact, programări online, mesaje automate și, mai nou, asistenți AI. Pentru pacient, miza nu este tehnologia în sine, ci simplitatea: să înțeleagă unde trebuie să ajungă, ce informații sunt relevante și cum poate face următorul pas fără timp… 🔗 Citeste tot: https:// e-faq.ro/intrebari-frecvente-d espre-asistentii-ai-in-clinici-ce-pot-face-si-unde-sunt-limitele/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@efaq/116793542735523075",
@@ -127,12 +133,6 @@
       "link": "https://social.5th.ro/@efaq/116255956258008151",
       "date": "Thu, 19 Mar 2026 12:58:33 +0000",
       "content": "🚀 Decizia de a interveni chirurgical asupra amigdalelor nu este niciodata una superficiala. Pentru multi parinti, dar si pentru pacientii adulti, termenii medicali pot crea confuzie: Amigdalectomia sau Amigdalotomia? Care este diferenta? Care este mai sigura? Care are recuperare mai usoara? Care este indicata in cazul copilului meu?Acest ghid explica in detaliu 🔗 Citeste tot: https:// e-faq.ro/operatii-de-amigdale- amigdalectomie-si-amigdalotomie-cum-alegi-corect-interventia-potrivita/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@efaq/116251077417248667",
-      "date": "Wed, 18 Mar 2026 16:17:48 +0000",
-      "content": "🚀 Gestionarea sustenabilă a apei capătă o importanță tot mai mare la nivel global, deoarece schimbările climatice, deficitul de apă și creșterea cererii populației necesită soluții eficiente și durabile.Utilizarea unei pompe de apă moderne nu mai este doar o chestiune de confort, ci o condiție esențială pentru ca sistemele de tratare a apei să fie eficiente… 🔗 Mai mult: https:// e-faq.ro/rolul-pompelor-de-apa -moderne-in-gestionarea-sustenabila-a-apei/"
     }
   ]
 }
