@@ -4,8 +4,14 @@
   "site_feed": "https://afaceri24.ro/feed/",
   "mastodon": "https://social.5th.ro/@afaceri24",
   "mastodon_rss": "https://social.5th.ro/@afaceri24.rss",
-  "updated_at": "2026-07-13T03:58:22Z",
+  "updated_at": "2026-07-13T07:36:03Z",
   "site_posts": [
+    {
+      "title": "5 băuturi Gloria Jean’s pe care merită să le încerci măcar o dată",
+      "link": "https://afaceri24.ro/5-bauturi-gloria-jeans-pe-care-merita-sa-le-incerci-macar-o-data/",
+      "date": "Sat, 04 Jul 2026 10:33:00 +0000",
+      "summary": "O cafenea bună nu se judecă doar după espresso. Espresso-ul contează, sigur, pentru că el arată calitatea bazei de cafea. Totuși, o cafenea se vede și în felul în care știe să lucreze cu laptele, gheața, cacaoa și pentru cei care nu vor neapărat o cafea tare. Gloria Jean’s are un meniu destul de variat, [&#8230;] The post 5 băuturi Gloria Jean’s pe care merită să le încerci măcar o dată appeared first on Afaceri 24 ."
+    },
     {
       "title": "Dormitor mic, confort mare: cum alegi mobila potrivită fără să aglomerezi camera",
       "link": "https://afaceri24.ro/dormitor-mic-confort-mare-cum-alegi-mobila-potrivita-fara-sa-aglomerezi-camera/",
@@ -59,15 +65,15 @@
       "link": "https://afaceri24.ro/ce-obligatii-are-administratorul-unei-firme-in-bulgaria-dupa-inregistrare/",
       "date": "Fri, 29 May 2026 11:22:00 +0000",
       "summary": "Obținerea actelor de la Registrul Comerțului marchează &#238;nceputul unei noi etape. Responsabilitatea reală trece din momentul validării direct pe umerii persoanei desemnate să conducă afacerea. Administratorul devine imaginea legală a companiei &#238;n fața statului bulgar și a partenerilor comerciali. Orice eroare de management atrage consecințe directe. Această funcție depășește un simplu titlu pe h&#226;rtie și [&#8230;] The post Ce obligații are administratorul unei firme în Bulgaria după înregistrare appeared first on Afaceri 24 ."
-    },
-    {
-      "title": "Cum îți organizezi mai eficient ziua cu un ecosistem Samsung?",
-      "link": "https://afaceri24.ro/cum-iti-organizezi-mai-eficient-ziua-cu-un-ecosistem-samsung/",
-      "date": "Mon, 25 May 2026 07:42:00 +0000",
-      "summary": "În 2026, utilizatorii caută dispozitive care funcționează împreună fără setări complicate, iar ecosistemul Samsung construit în jurul Galaxy Tab S11, Galaxy Buds4 și seria Galaxy S26 ajută la organizarea mai eficientă a activităților zilnice. De la apeluri și notițe rapide până la multitasking și divertisment, conectarea dintre dispozitive reduce timpul pierdut și face experiența mai [&#8230;] The post Cum îți organizezi mai eficient ziua cu un ecosistem Samsung? appeared first on Afaceri 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@afaceri24/116911075510176993",
+      "date": "Mon, 13 Jul 2026 05:44:00 +0000",
+      "content": "📄O cafenea bună nu se judecă doar după espresso. Espresso-ul contează, sigur, pentru că el arată calitatea bazei de cafea. Totuși, o cafenea se vede și în felul în care știe să lucreze cu laptele, gheața, cacaoa și pentru cei care nu vor neapărat o cafea tare.Gloria Jean’s are un meniu destul de variat, iar… 💡 https:// afaceri24.ro/5-bauturi-gloria- jeans-pe-care-merita-sa-le-incerci-macar-o-data/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@afaceri24/116837846029473953",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@afaceri24/116619033291107110",
       "date": "Fri, 22 May 2026 15:53:49 +0000",
       "content": "📄License: e19802b9a57c156c9f3b37a6da41fb38ceAlt: Alegerea aparatelor de fitness pentru acasa nu mai este doar o chestiune de confort, ci una de eficienta si organizare a antrenamentelor. O sala personala bine echipata iti permite sa lucrezi constant, fara dependenta de programul unei sali clasice si fara timpi pierduti. Descopera ce aparate merita investitia, cum le alegi in functie de… 💡 https:// afaceri24.ro/top-aparate-de-fi tness-in-care-sa-investesti-pentru-o-sala-acasa/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@afaceri24/116585563954412734",
-      "date": "Sat, 16 May 2026 18:02:08 +0000",
-      "content": "📄Piața imobiliară din București: unde găsești cele mai bune oportunități pentru locuințe moderneBucureștiul rămâne unul dintre cele mai atractive orașe din România pentru achiziția unei locuințe, fie că vorbim despre mutarea într-un spațiu nou sau despre o investiție profitabilă. Alegerea unui apartament nu este însă un proces simplu, deoarece trebuie să ții cont de mai… 💡 https:// afaceri24.ro/piata-imobiliara- din-bucuresti-unde-gasesti-cele-mai-bune-oportunitati-pentru-locuinte-moderne/"
     }
   ]
 }
