@@ -4,8 +4,14 @@
   "site_feed": "https://topantreprenor.ro/feed/",
   "mastodon": "https://social.5th.ro/@topantreprenor",
   "mastodon_rss": "https://social.5th.ro/@topantreprenor.rss",
-  "updated_at": "2026-07-14T09:16:54Z",
+  "updated_at": "2026-07-14T10:57:44Z",
   "site_posts": [
+    {
+      "title": "Rolul consultanței HR externe în procesele de restructurare a companiilor",
+      "link": "https://topantreprenor.ro/rolul-consultantei-hr-externe-in-procesele-de-restructurare-a-companiilor/",
+      "date": "Tue, 14 Jul 2026 09:34:36 +0000",
+      "summary": "Perioadele de restructurare pun la încercare orice companie, indiferent de dimensiune sau domeniu. Deciziile luate în câteva săptămâni pot influența activitatea pentru următorii ani, iar sprijinul unui partener cu experiență în resurse umane chiar poate face diferența. Află mai multe în rândurile următoare! De ce restructurarea nu se rezumă doar la reducerea numărului de angajați [&#8230;] The post Rolul consultanței HR externe în procesele de restructurare a companiilor appeared first on Top Antreprenor ."
+    },
     {
       "title": "Trei sfaturi despre cum să vă mențineți anvelopele în stare bună",
       "link": "https://topantreprenor.ro/trei-sfaturi-despre-cum-sa-va-mentineti-anvelopele-in-stare-buna/",
@@ -59,15 +65,15 @@
       "link": "https://topantreprenor.ro/salesianer-marcheaza-inceperea-lucrarilor-pentru-noua-fabrica-high-tech-la-oradea/",
       "date": "Tue, 02 Jun 2026 09:35:21 +0000",
       "summary": "Noua unitate pentru procesarea textilelor dedicate domeniilor cleanroom și blocuri operatorii consolidează rolul Rom&#226;niei &#238;n rețeaua europeană a grupului Oradea, 2 iunie 2026 &#8211; Grupul SALESIANER a marcat oficial, prin ceremonia de &#238;ncepere a lucrărilor, lansarea unuia dintre cele mai importante proiecte de infrastructură din Europa Centrală și de Est. La Oradea va fi construită [&#8230;] The post SALESIANER marchează începerea lucrărilor pentru nouă fabrică high-tech la Oradea appeared first on Top Antreprenor ."
-    },
-    {
-      "title": "ERRA – de la monitorizare la decizie: cum pot organizațiile să reducă costurile prin automatizare",
-      "link": "https://topantreprenor.ro/erra-de-la-monitorizare-la-decizie-cum-pot-organizatiile-sa-reduca-costurile-prin-automatizare/",
-      "date": "Thu, 28 May 2026 06:51:11 +0000",
-      "summary": "În multe organizații, există deja sisteme care colectează date despre procese, mediu sau infrastructură. Problema nu este lipsa datelor, ci faptul că acestea nu sunt utilizate eficient. Deciziile sunt luate târziu, iar intervențiile rămân, în mare parte, manuale. Această diferență între „a ști” și „a acționa” generează costuri: timpi de reacție mari, riscuri necontrolate și [&#8230;] The post ERRA – de la monitorizare la decizie: cum pot organizațiile să reducă costurile prin automatizare appeared first on Top Antreprenor ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@topantreprenor/116917644588081030",
+      "date": "Tue, 14 Jul 2026 09:34:36 +0000",
+      "content": "📰Perioadele de restructurare pun la încercare orice companie, indiferent de dimensiune sau domeniu. Deciziile luate în câteva săptămâni pot influența activitatea pentru următorii ani, iar sprijinul unui partener cu experiență în resurse umane chiar poate face diferența. Află mai multe în rândurile următoare! De ce restructurarea nu se rezumă doar la reducerea numărului de angajați… 🌐 https:// topantreprenor.ro/rolul-consul tantei-hr-externe-in-procesele-de-restructurare-a-companiilor/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@topantreprenor/116872750483478338",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@topantreprenor/116650869130957348",
       "date": "Thu, 28 May 2026 06:50:06 +0000",
       "content": "📰Bugetul de cadouri corporate există în aproape orice companie. Întrebarea nu este dacă se oferă ceva, ci ce anume. Cardurile cadou au devenit foarte populare în ultimii ani prin simplitatea lor, dar tot mai multe companii aleg daruri mai festive și anume: coșuri cadou corporate asamblate manual, cu produse premium, gata de oferit. Cele două opțiuni… 🌐 https:// topantreprenor.ro/cosuri-cadou -corporate-sau-carduri-cadou-ce-aleg-companiile-in-2026/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@topantreprenor/116645327381307724",
-      "date": "Wed, 27 May 2026 07:20:45 +0000",
-      "content": "📰În 2026, o tabletă poate deveni unul dintre cele mai utile dispozitive pentru lucrul de la distanță, mai ales atunci când face parte dintr-un ecosistem conectat. Mulți utilizatori aleg combinații între Galaxy Tab S11, Galaxy Buds4 și seria Galaxy S26 pentru a lucra mai rapid, a participa la întâlniri online și a gestiona documentele fără… 🌐 https:// topantreprenor.ro/cum-te-ajuta -tableta-in-lucrul-de-la-distanta/"
     }
   ]
 }

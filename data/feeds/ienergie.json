@@ -4,8 +4,14 @@
   "site_feed": "https://iEnergie.ro/feed/",
   "mastodon": "https://social.5th.ro/@ienergie",
   "mastodon_rss": "https://social.5th.ro/@ienergie.rss",
-  "updated_at": "2026-07-14T09:17:15Z",
+  "updated_at": "2026-07-14T10:58:08Z",
   "site_posts": [
+    {
+      "title": "Economia socială: o cale cu sens pentru cei care vor un loc de muncă stabil",
+      "link": "https://ienergie.ro/economia-sociala-o-cale-cu-sens-pentru-cei-care-vor-un-loc-de-munca-stabil/",
+      "date": "Tue, 14 Jul 2026 09:33:06 +0000",
+      "summary": "Când vorbim despre „economie”, cei mai mulți se gândesc la firme care urmăresc profitul. Aceasta este economia clasică, sau „normală”, și ea funcționează după o [Mai mult...] Articolul Economia socială: o cale cu sens pentru cei care vor un loc de muncă stabil apare prima dată în iEnergie ."
+    },
     {
       "title": "Hernia ombilicală la adulți: cauze, simptome și tratament chirurgical",
       "link": "https://ienergie.ro/hernia-ombilicala-la-adulti-cauze-simptome-si-tratament-chirurgical/",
@@ -71,15 +77,15 @@
       "link": "https://ienergie.ro/sursele-regenerabile-au-furnizat-aproape-50-din-necesarul-de-electricitate-al-ue-pe-parcursul-anului-2024/",
       "date": "Tue, 20 Jan 2026 08:16:44 +0000",
       "summary": "În decursul anului 2024, sursele de energie regenerabilă au atins o pondere semnificativă de 47,5% din consumul brut de electricitate la nivelul Uniunii Europene. Această [Mai mult...] Articolul Sursele regenerabile au furnizat aproape 50% din necesarul de electricitate al UE pe parcursul anului 2024 apare prima dată în iEnergie ."
-    },
-    {
-      "title": "CJUE analizează cazul României pentru nerespectarea obligațiilor de monitorizare a calității aerului",
-      "link": "https://ienergie.ro/cjue-analizeaza-cazul-romaniei-pentru-nerespectarea-obligatiilor-de-monitorizare-a-calitatii-aerului/",
-      "date": "Tue, 20 Jan 2026 08:15:30 +0000",
-      "summary": "Comisia Europeană a luat recent decizia de a trimite România în fața Curții de Justiție a Uniunii Europene (CJUE) din cauza nerespectării obligațiilor referitoare la [Mai mult...] Articolul CJUE analizează cazul României pentru nerespectarea obligațiilor de monitorizare a calității aerului apare prima dată în iEnergie ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@ienergie/116917639014594289",
+      "date": "Tue, 14 Jul 2026 09:33:11 +0000",
+      "content": "Când vorbim despre „economie”, cei mai mulți se gândesc la firme care urmăresc profitul. Aceasta este economia clasică, sau „normală”, și ea funcționează după o logică simplă: produci, vinzi, câștigi. Alături de ea, însă, există o altă lume economică, mai puțin cunoscută, dar din ce în ce mai importantă: economia socială. Pentru mulți adulți, ea… https:// ienergie.ro/economia-sociala-o -cale-cu-sens-pentru-cei-care-vor-un-loc-de-munca-stabil/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@ienergie/116799158140590058",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@ienergie/115926434209252137",
       "date": "Tue, 20 Jan 2026 08:16:46 +0000",
       "content": "https:// ienergie.ro/sursele-regenerabi le-au-furnizat-aproape-50-din-necesarul-de-electricitate-al-ue-pe-parcursul-anului-2024/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@ienergie/115926429408551042",
-      "date": "Tue, 20 Jan 2026 08:15:33 +0000",
-      "content": "Comisia Europeană a luat recent decizia de a trimite România în fața Curții de Justiție a Uniunii Europene (CJUE) din cauza nerespectării obligațiilor referitoare la monitorizarea calității aerului. Această acțiune survine în temeiul nerespectării prevederilor stipulate în Directiva 2008/50/CE și Directiva 2004/107/CE privind calitatea aerului înconjurător. Obligațiile de https:// ienergie.ro/cjue-analizeaza-ca zul-romaniei-pentru-nerespectarea-obligatiilor-de-monitorizare-a-calitatii-aerului/"
     }
   ]
 }
