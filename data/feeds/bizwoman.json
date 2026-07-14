@@ -4,8 +4,14 @@
   "site_feed": "https://bizwoman.ro/feed/",
   "mastodon": "https://social.5th.ro/@BIZWoman",
   "mastodon_rss": "https://social.5th.ro/@BIZWoman.rss",
-  "updated_at": "2026-07-14T03:32:52Z",
+  "updated_at": "2026-07-14T06:24:26Z",
   "site_posts": [
+    {
+      "title": "Top 5 tipuri de ciorapi care nu trebuie să-ți lipsească din garderobă în acest sezon",
+      "link": "https://bizwoman.ro/top-5-tipuri-de-ciorapi-care-nu-trebuie-sa-ti-lipseasca-din-garderoba-in-acest-sezon/",
+      "date": "Tue, 14 Jul 2026 05:59:07 +0000",
+      "summary": "O pereche de ciorapi bine aleasă poate schimba complet felul în care se așază o ținută,&#8230; Articolul Top 5 tipuri de ciorapi care nu trebuie să-ți lipsească din garderobă în acest sezon apare prima dată în Biz Woman ."
+    },
     {
       "title": "Grupuri de Firme după Acționariat – înțelege cine controlează cu adevărat compania înainte de colaborare",
       "link": "https://bizwoman.ro/grupuri-de-firme-dupa-actionariat-intelege-cine-controleaza-cu-adevarat-compania-inainte-de-colaborare/",
@@ -59,15 +65,15 @@
       "link": "https://bizwoman.ro/localizare-gps-auto-cum-functioneaza-si-ce-beneficii-ai/",
       "date": "Wed, 04 Mar 2026 20:00:28 +0000",
       "summary": "Cum se face că două mașini care par să facă aceeași treabă scot, la final&#8230; Articolul Localizare GPS auto: Cum funcționează și ce beneficii ai apare prima dată în Biz Woman ."
-    },
-    {
-      "title": "MORE Networking – 10 ani printr-o conferință despre puterea conexiunilor și comunităților",
-      "link": "https://bizwoman.ro/more-networking-10-ani-printr-o-conferinta-despre-puterea-conexiunilor-si-comunitatilor/",
-      "date": "Wed, 04 Mar 2026 17:25:54 +0000",
-      "summary": "MORE Networking celebrează 10 ani printr-o conferință despre puterea conexiunilor și comunităților O zi intensă&#8230; Articolul MORE Networking &#8211; 10 ani printr-o conferință despre puterea conexiunilor și comunităților apare prima dată în Biz Woman ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@BIZWoman/116916797409690163",
+      "date": "Tue, 14 Jul 2026 05:59:09 +0000",
+      "content": "📄O pereche de ciorapi bine aleasă poate schimba complet felul în care se așază o ținută, chiar și atunci când crezi că totul este deja pus la punct. Uneori, diferența dintre un outfit banal și unul memorabil stă tocmai în textura, culoarea sau densitatea materialului care îți acoperă picioarele. De la modele discrete, aproape invizibile, până… 📄 https:// bizwoman.ro/top-5-tipuri-de-ci orapi-care-nu-trebuie-sa-ti-lipseasca-din-garderoba-in-acest-sezon/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@BIZWoman/116890458325014248",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@BIZWoman/116130096724371725",
       "date": "Wed, 25 Feb 2026 07:30:49 +0000",
       "content": "📄Dincolo de clasicul concediu și de perioada vacanțelor, din ce în ce mai mulți români simt nevoia să își valorifice timpul liber pe tot parcursul anului, să își transforme călătoriile într-un stil de viață sustenabil. În căutarea unor experiențe memorabile și autentice, pe care să le trăiască alături de prieteni sau familie, aceștia caută soluții,… 📄 https:// bizwoman.ro/calatorii-cu-grupu l-de-prieteni-confort-maxim-intr-o-masina-inchiriata/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@BIZWoman/116129999660295784",
-      "date": "Wed, 25 Feb 2026 07:06:08 +0000",
-      "content": "📄SEO-ul din 2026 nu mai seamănă aproape deloc cu ce făceau majoritatea firmelor acum câțiva ani. Nu pentru că Google „s-a complicat”, ci pentru că utilizatorii s-au schimbat, iar Google a fost obligat să-i urmeze. Mulți antreprenori încă aplică tactici care nu mai produc rezultate sau, mai grav, produc efecte inverse.Problema nu este că SEO… 📄 https:// bizwoman.ro/cum-se-schimba-seo -ul-in-2026-si-ce-nu-mai-functioneaza-deloc/"
     }
   ]
 }

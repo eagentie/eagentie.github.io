@@ -4,8 +4,14 @@
   "site_feed": "https://partizani.ro/feed/",
   "mastodon": "https://social.5th.ro/@Partizani",
   "mastodon_rss": "https://social.5th.ro/@Partizani.rss",
-  "updated_at": "2026-07-14T03:32:22Z",
+  "updated_at": "2026-07-14T06:24:01Z",
   "site_posts": [
+    {
+      "title": "Cât de des trebuie spălate covoarele din casă pentru un aer mai curat? Află ce spun specialiștii în curățenie",
+      "link": "https://partizani.ro/cat-de-des-trebuie-spalate-covoarele-din-casa-pentru-un-aer-mai-curat-afla-ce-spun-specialistii-in-curatenie/",
+      "date": "Tue, 14 Jul 2026 06:00:41 +0000",
+      "summary": "Când începi să tușești mai des, să-ți simți nasul înfundat fără un motiv clar sau să ai mereu senzația de aer greu în casă, una dintre sursele mai puțin evidente poate fi covorul. Aspirarea regulată ajută, dar nu elimină complet murdăria care pătrunde adânc în țesături. De aici apare întrebarea: [&#8230;] Articolul Cât de des trebuie spălate covoarele din casă pentru un aer mai curat? Află ce spun specialiștii în curățenie apare prima dată în Partizani ."
+    },
     {
       "title": "Espressor în comodat pentru birouri din București: cum funcționează, cât costă și de ce tot mai multe firme renunță să mai cumpere aparate",
       "link": "https://partizani.ro/espressor-in-comodat-pentru-birouri-din-bucuresti-cum-functioneaza-cat-costa-si-de-ce-tot-mai-multe-firme-renunta-sa-mai-cumpere-aparate/",
@@ -59,12 +65,6 @@
       "link": "https://partizani.ro/de-ce-aleg-tot-mai-multe-companii-sa-externalizeze-serviciile-de-relatii-cu-clientii/",
       "date": "Mon, 16 Mar 2026 15:10:52 +0000",
       "summary": "În ultimii ani, modul în care companiile gestionează relația cu clienții s-a schimbat semnificativ. Consumatorii se așteaptă la răspunsuri rapide, suport profesionist și soluții eficiente, indiferent de canalul de comunicare folosit. Pentru multe organizații, gestionarea internă a tuturor interacțiunilor cu clienții poate deveni costisitoare și dificil de scalat. Din acest [&#8230;] Articolul De ce aleg tot mai multe companii să externalizeze serviciile de relații cu clienții apare prima dată în Partizani ."
-    },
-    {
-      "title": "Pregătește-ți mașina de aventură – Ghid de verificări și echipamente esențiale",
-      "link": "https://partizani.ro/pregateste-ti-masina-de-aventura-ghid-de-verificari-si-echipamente-esentiale/",
-      "date": "Tue, 24 Feb 2026 10:58:20 +0000",
-      "summary": "Dacă iubești aventurile și îți place să explorezi drumuri mai puțin bătătorite, pregătirea mașinii tale pentru aceste escapade este esențială. Indiferent dacă ai în plan o excursie pe drumuri forestiere, o escapadă montană sau o călătorie prin zone izolate, echiparea corespunzătoare a vehiculului tău îți poate asigura călătorii plăcute și [&#8230;] Articolul Pregătește-ți mașina de aventură &#8211; Ghid de verificări și echipamente esențiale apare prima dată în Partizani ."
     }
   ],
   "mastodon_posts": []
