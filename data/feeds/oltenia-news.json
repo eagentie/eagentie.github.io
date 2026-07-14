@@ -4,8 +4,14 @@
   "site_feed": "https://oltenia-news.ro/feed/",
   "mastodon": "https://social.5th.ro/@oltenia",
   "mastodon_rss": "https://social.5th.ro/@oltenia.rss",
-  "updated_at": "2026-07-14T10:57:19Z",
+  "updated_at": "2026-07-14T12:39:32Z",
   "site_posts": [
+    {
+      "title": "De la certificat la propria afacere: cum poți deveni propriul tău angajator în mediul rural",
+      "link": "https://oltenia-news.ro/de-la-certificat-la-propria-afacere-cum-poti-deveni-propriul-tau-angajator-in-mediul-rural/",
+      "date": "Tue, 14 Jul 2026 11:59:33 +0000",
+      "summary": "Pentru mulți locuitori din mediul rural, ideea de a avea o afacere proprie pare un vis rezervat altora — celor cu bani, cu studii sau cu relații. În realitate, drumul către o activitate independentă începe de cele mai multe ori cu un lucru accesibil tuturor: o calificare recunoscută într-un domeniu pe care îl stăpânești. De [&#8230;] Articolul De la certificat la propria afacere: cum poți deveni propriul tău angajator în mediul rural apare prima dată în Oltenia News ."
+    },
     {
       "title": "Operație cancer colon București: pașii de la diagnostic la intervenție",
       "link": "https://oltenia-news.ro/operatie-cancer-colon-bucuresti-pasii-de-la-diagnostic-la-interventie/",
@@ -71,15 +77,15 @@
       "link": "https://oltenia-news.ro/excursii-cu-barca-ilganii-de-sus-lacuri-cu-nuferi-si-colonii-de-pasari/",
       "date": "Thu, 04 Sep 2025 00:01:56 +0000",
       "summary": "Vrei să descoperi o lume ascunsă, plină de frumusețe naturală? Imaginează-ți o plimbare liniștită pe apele cristaline, înconjurat de nuferi încântători și păsări melodioase. Sună fantastic, nu-i așa? Ei bine, excursiile cu barca Ilganii de Sus îți oferă exact această experiență unică! Descoperă farmecul excursiilor Ilganii de Sus Un colț de rai în Delta Dunării [&#8230;] Articolul Excursii cu barca Ilganii de Sus – lacuri cu nuferi și colonii de păsări apare prima dată în Oltenia News ."
-    },
-    {
-      "title": "Pensiuni Ilganii de Sus în Delta Dunării – recomandări pentru cupluri",
-      "link": "https://oltenia-news.ro/pensiuni-ilganii-de-sus-in-delta-dunarii-recomandari-pentru-cupluri/",
-      "date": "Wed, 03 Sep 2025 23:19:25 +0000",
-      "summary": "Visând la o escapadă romantică într-un loc liniștit și pitoresc? Imaginați-vă trezindu-vă la răsăritul soarelui, cu aerul curat al Deltei Dunării umplându-vă plămânii. Cazare Ilganii de Sus este cheia către o vacanță de vis! Găsiți liniștea și romantismul pe care le căutați, descoperind farmecul unic al Deltei. Pensiuni Ilganii de Sus: Oază de liniște în [&#8230;] Articolul Pensiuni Ilganii de Sus în Delta Dunării – recomandări pentru cupluri apare prima dată în Oltenia News ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@oltenia/116918214582589032",
+      "date": "Tue, 14 Jul 2026 11:59:33 +0000",
+      "content": "Pentru mulți locuitori din mediul rural, ideea de a avea o afacere proprie pare un vis rezervat altora — celor cu bani, cu studii sau cu relații. În realitate, drumul către o activitate independentă începe de cele mai multe ori cu un lucru accesibil tuturor: o calificare recunoscută într-un domeniu pe care îl stăpânești. De… https:// oltenia-news.ro/de-la-certific at-la-propria-afacere-cum-poti-deveni-propriul-tau-angajator-in-mediul-rural/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@oltenia/116549710155714303",
