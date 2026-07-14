@@ -4,81 +4,8 @@
   "site_feed": "https://clinic-sanatos.ro/feed/",
   "mastodon": "https://social.5th.ro/@clinic_sanatos",
   "mastodon_rss": "https://social.5th.ro/@clinic_sanatos.rss",
-  "updated_at": "2026-07-14T19:44:20Z",
-  "site_posts": [
-    {
-      "title": "Motion Clinic – recuperare medicală, fizioterapie și kinetoterapie pentru o viață activă",
-      "link": "https://clinic-sanatos.ro/motion-clinic-recuperare-medicala-snagov/",
-      "date": "Fri, 05 Jun 2026 09:06:05 +0000",
-      "summary": "Sănătatea fizică nu înseamnă doar absența durerii. Înseamnă libertatea de a te mișca, de a... Articolul Motion Clinic – recuperare medicală, fizioterapie și kinetoterapie pentru o viață activă apare prima dată în Clinic Sanatos ."
-    },
-    {
-      "title": "Un festival pentru toți copiii Romaniei – tipici și atipici, impreuna!",
-      "link": "https://clinic-sanatos.ro/un-festival-pentru-toti-copiii-romaniei-tipici-si-atipici-impreuna/",
-      "date": "Fri, 29 May 2026 10:43:03 +0000",
-      "summary": "Peste 20.000 de vizitatori au celebrat dreptul fiecarui copil de a conta In zilele de... Articolul Un festival pentru toți copiii Romaniei – tipici și atipici, impreuna! apare prima dată în Clinic Sanatos ."
-    },
-    {
-      "title": "Infecții urinare repetate: Legătura dintre leucocitele crescute și sănătatea aparatului renal",
-      "link": "https://clinic-sanatos.ro/infectii-urinare-repetate-legatura-dintre-leucocitele-crescute-si-sanatatea-aparatului-renal/",
-      "date": "Thu, 21 May 2026 15:52:17 +0000",
-      "summary": "În momentul în care analizele de sânge indică valori peste limitele normale pentru leucocite, organismul... Articolul Infecții urinare repetate: Legătura dintre leucocitele crescute și sănătatea aparatului renal apare prima dată în Clinic Sanatos ."
-    },
-    {
-      "title": "Chirurgia minim invazivă în cancerul de colon: ce opțiuni există",
-      "link": "https://clinic-sanatos.ro/chirurgia-minim-invaziva-in-cancerul-de-colon-ce-optiuni-exista/",
-      "date": "Sun, 10 May 2026 06:30:00 +0000",
-      "summary": "Te-ai întrebat vreodată cum a evoluat medicina modernă în lupta împotriva afecțiunilor oncologice? Diagnosticul de... Articolul Chirurgia minim invazivă în cancerul de colon: ce opțiuni există apare prima dată în Clinic Sanatos ."
-    },
-    {
-      "title": "Ce ceasuri inteligente sunt bune pentru stres și recuperare?",
-      "link": "https://clinic-sanatos.ro/ce-ceasuri-inteligente-sunt-bune-pentru-stres-si-recuperare/",
-      "date": "Fri, 24 Apr 2026 06:56:00 +0000",
-      "summary": "Cele mai bune smartwatch-uri pentru stres și recuperare sunt cele care oferă monitorizare avansată a... Articolul Ce ceasuri inteligente sunt bune pentru stres și recuperare? apare prima dată în Clinic Sanatos ."
-    },
-    {
-      "title": "Cum arată autismul la maturitate, dincolo de diagnostic",
-      "link": "https://clinic-sanatos.ro/cum-arata-autismul-la-maturitate-dincolo-de-diagnostic/",
-      "date": "Wed, 22 Apr 2026 15:52:09 +0000",
-      "summary": "Imaginea despre autism a fost construită de-a lungul timpului aproape exclusiv în jurul copiilor. Copilul... Articolul Cum arată autismul la maturitate, dincolo de diagnostic apare prima dată în Clinic Sanatos ."
-    },
-    {
-      "title": "Aminoacizii în alimentație: de ce sunt importanți pentru organism",
-      "link": "https://clinic-sanatos.ro/aminoacizii-in-alimentatie-de-ce-sunt-importanti-pentru-organism/",
-      "date": "Mon, 16 Mar 2026 10:24:37 +0000",
-      "summary": "Aminoacizii sunt compuși organici esențiali care stau la baza proteinelor din organism. Practic, fiecare celulă,... Articolul Aminoacizii în alimentație: de ce sunt importanți pentru organism apare prima dată în Clinic Sanatos ."
-    },
-    {
-      "title": "Strategii pentru fortificarea rezistenței celor mici în fața virozelor",
-      "link": "https://clinic-sanatos.ro/strategii-pentru-fortificarea-rezistentei-celor-mici-in-fata-virozelor/",
-      "date": "Tue, 17 Feb 2026 12:29:20 +0000",
-      "summary": "Odată cu scăderea temperaturilor și reîntoarcerea în colectivitate, sistemul defensiv al copilului tău intră într-o... Articolul Strategii pentru fortificarea rezistenței celor mici în fața virozelor apare prima dată în Clinic Sanatos ."
-    },
-    {
-      "title": "Rinita alergica – De ce este mai mult decat o simpla raceala si cand trebuie tratata corect",
-      "link": "https://clinic-sanatos.ro/rinita-alergica-de-ce-este-mai-mult-decat-o-simpla-raceala-si-cand-trebuie-tratata-corect/",
-      "date": "Tue, 10 Feb 2026 19:07:17 +0000",
-      "summary": "Rinita alergica este una dintre cele mai frecvente afectiuni respiratorii, dar si una dintre cele... Articolul Rinita alergica – De ce este mai mult decat o simpla raceala si cand trebuie tratata corect apare prima dată în Clinic Sanatos ."
-    },
-    {
-      "title": "De la mic dejun la gustări",
-      "link": "https://clinic-sanatos.ro/de-la-mic-dejun-la-gustari/",
-      "date": "Mon, 19 Jan 2026 11:46:47 +0000",
-      "summary": "Mixit oferă peste 150 de produse vegane pentru un 2026 echilibrat La &#238;nceput de an,... Articolul De la mic dejun la gustări apare prima dată în Clinic Sanatos ."
-    },
-    {
-      "title": "Mastodon WordPress plugin: opțiuni pentru programare și intervale de postare",
-      "link": "https://clinic-sanatos.ro/mastodon-wordpress-plugin-optiuni-pentru-programare-si-intervale-de-postare/",
-      "date": "Wed, 17 Dec 2025 16:58:54 +0000",
-      "summary": "Ați petrecut ore întregi creând conținut valoros pe WordPress, dar simțiți că efortul de a-l... Articolul Mastodon WordPress plugin: opțiuni pentru programare și intervale de postare apare prima dată în Clinic Sanatos ."
-    },
-    {
-      "title": "Suplimente alimentare gravide: beneficiile Oligobs Prenatal cu Omega 3 în dezvoltarea sarcinii",
-      "link": "https://clinic-sanatos.ro/suplimente-alimentare-gravide-beneficiile-oligobs-prenatal-cu-omega-3-in-dezvoltarea-sarcinii/",
-      "date": "Mon, 15 Dec 2025 15:22:49 +0000",
-      "summary": "Importanta nutritiei in timpul sarcinii Sarcina este, fara doar si poate, o perioada definitorie atat... Articolul Suplimente alimentare gravide: beneficiile Oligobs Prenatal cu Omega 3 în dezvoltarea sarcinii apare prima dată în Clinic Sanatos ."
-    }
-  ],
+  "updated_at": "2026-07-14T21:15:00Z",
+  "site_posts": [],
   "mastodon_posts": [
     {
       "title": "",
