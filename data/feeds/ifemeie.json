@@ -4,75 +4,8 @@
   "site_feed": "https://iFemeie.ro/feed/",
   "mastodon": "https://social.5th.ro/@iFemeie",
   "mastodon_rss": "https://social.5th.ro/@iFemeie.rss",
-  "updated_at": "2026-07-16T06:31:27Z",
-  "site_posts": [
-    {
-      "title": "Eventrația postoperatorie: de ce apare și cum se tratează corect",
-      "link": "https://ifemeie.ro/eventratia-postoperatorie-de-ce-apare-si-cum-se-trateaza-corect/",
-      "date": "Tue, 23 Jun 2026 08:05:55 +0000",
-      "summary": "Dr. Bogdan Serban explică, pentru pacienți din București, ce afecțiuni pot fi evaluate chirurgical. Informații despre eventrație și când merită o consultație. Articolul Eventrația postoperatorie: de ce apare și cum se tratează corect apare prima dată în iFemeie ."
-    },
-    {
-      "title": "Cum alegi căști wireless pentru utilizare intensă?",
-      "link": "https://ifemeie.ro/cum-alegi-casti-wireless-pentru-utilizare-intensa/",
-      "date": "Sun, 24 May 2026 07:24:00 +0000",
-      "summary": "Introducere Alegi căști wireless pentru utilizare intensă atunci când ai nevoie de confort pe termen... Articolul Cum alegi căști wireless pentru utilizare intensă? apare prima dată în iFemeie ."
-    },
-    {
-      "title": "Te simți gol pe dinăuntru fără motiv? Un semnal pe care nu trebuie să-l ignori",
-      "link": "https://ifemeie.ro/te-simti-gol-pe-dinauntru-fara-motiv-un-semnal-pe-care-nu-trebuie-sa-l-ignori/",
-      "date": "Tue, 28 Apr 2026 14:19:41 +0000",
-      "summary": "Nu plângi și nu ești trist în mod vizibil. Mergi la muncă, răspunzi la mesaje... Articolul Te simți gol pe dinăuntru fără motiv? Un semnal pe care nu trebuie să-l ignori apare prima dată în iFemeie ."
-    },
-    {
-      "title": "Păreri VivaDiva pe Forumvideochat.ro – ce spun mdoelele cu experiență despre studiourile de videochat din Iași",
-      "link": "https://ifemeie.ro/pareri-vivadiva-pe-forumvideochat-ro-ce-spun-mdoelele-cu-experienta-despre-studiourile-de-videochat-din-iasi/",
-      "date": "Mon, 30 Mar 2026 17:06:50 +0000",
-      "summary": "Dacă ai căutat pe internet păreri VivaDiva sau informații despre studiouri de videochat din Iași,... Articolul Păreri VivaDiva pe Forumvideochat.ro – ce spun mdoelele cu experiență despre studiourile de videochat din Iași apare prima dată în iFemeie ."
-    },
-    {
-      "title": "Calculator Sănătate Online: Ghid Complet pentru Monitorizarea Parametrilor Vitali",
-      "link": "https://ifemeie.ro/calculator-sanatate-online-ghid-complet-pentru-monitorizarea-parametrilor-vitali/",
-      "date": "Sun, 08 Feb 2026 21:11:13 +0000",
-      "summary": "Calculator Sănătate Online pentru monitorizarea parametrilor vitali: necesar caloric zilnic și tensiune arterială, cu interpretări clare și recomandări personal Articolul Calculator Sănătate Online: Ghid Complet pentru Monitorizarea Parametrilor Vitali apare prima dată în iFemeie ."
-    },
-    {
-      "title": "Uleiul de rozmarin — prospețimea care trezește pielea, părul și mintea",
-      "link": "https://ifemeie.ro/uleiul-de-rozmarin-prospetimea-care-trezeste-pielea-parul-si-mintea/",
-      "date": "Thu, 05 Feb 2026 07:11:00 +0000",
-      "summary": "Există uleiuri esențiale care îți îmbracă pielea într-un parfum discret, liniștitor. Și există altele care... Articolul Uleiul de rozmarin — prospețimea care trezește pielea, părul și mintea apare prima dată în iFemeie ."
-    },
-    {
-      "title": "De la conceptie la nastere: Vitaminele in sarcina si rolul important al suplimentelor Oligobs",
-      "link": "https://ifemeie.ro/de-la-conceptie-la-nastere-vitaminele-in-sarcina-si-rolul-important-al-suplimentelor-oligobs/",
-      "date": "Thu, 22 Jan 2026 08:08:45 +0000",
-      "summary": "Perioada sarcinii reprezinta una dintre cele mai frumoase, dar si solicitante etape din viata unei... Articolul De la conceptie la nastere: Vitaminele in sarcina si rolul important al suplimentelor Oligobs apare prima dată în iFemeie ."
-    },
-    {
-      "title": "Cum scrii postări care primesc boost-uri pe Mastodon",
-      "link": "https://ifemeie.ro/cum-scrii-postari-care-primesc-boost-uri-pe-mastodon/",
-      "date": "Wed, 17 Dec 2025 16:58:54 +0000",
-      "summary": "Te-ai săturat de algoritmii opaci care îți ascund mesajele? Pe platformele centralizate, efortul depus în... Articolul Cum scrii postări care primesc boost-uri pe Mastodon apare prima dată în iFemeie ."
-    },
-    {
-      "title": "De ce electrocasnicele inteligente reduc consumul",
-      "link": "https://ifemeie.ro/de-ce-electrocasnicele-inteligente-reduc-consumul/",
-      "date": "Wed, 10 Dec 2025 10:07:57 +0000",
-      "summary": "Electrocasnicele inteligente pot ajusta consumul de energie în funcție de modul în care sunt folosite.... Articolul De ce electrocasnicele inteligente reduc consumul apare prima dată în iFemeie ."
-    },
-    {
-      "title": "Oameni, destine, emoție: Adela Hanafi, a lansat podcastul „Povești Nespuse cu Adela”",
-      "link": "https://ifemeie.ro/oameni-destine-emotie-adela-hanafi-a-lansat-podcastul-povesti-nespuse-cu-adela/",
-      "date": "Wed, 10 Dec 2025 09:13:51 +0000",
-      "summary": "Oameni, destine, emoție: Adela Hanafi, a lansat podcastul „Povești Nespuse cu Adela” Într-o lume adesea... Articolul Oameni, destine, emoție: Adela Hanafi, a lansat podcastul „Povești Nespuse cu Adela” apare prima dată în iFemeie ."
-    },
-    {
-      "title": "Calendarul complet al analizelor în sarcină",
-      "link": "https://ifemeie.ro/calendarul-complet-al-analizelor-in-sarcina/",
-      "date": "Fri, 05 Dec 2025 16:47:20 +0000",
-      "summary": "Sarcina este una dintre cele mai complexe și emoționante călătorii din viața unei femei. Din... Articolul Calendarul complet al analizelor în sarcină apare prima dată în iFemeie ."
-    }
-  ],
+  "updated_at": "2026-07-16T09:32:26Z",
+  "site_posts": [],
   "mastodon_posts": [
     {
       "title": "",
