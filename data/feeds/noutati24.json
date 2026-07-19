@@ -4,8 +4,14 @@
   "site_feed": "https://noutati24.ro/feed/",
   "mastodon": "https://social.5th.ro/@noutati24",
   "mastodon_rss": "https://social.5th.ro/@noutati24.rss",
-  "updated_at": "2026-07-19T00:08:59Z",
+  "updated_at": "2026-07-19T03:51:56Z",
   "site_posts": [
+    {
+      "title": "Participarea premierului Ilie Bolojan la inaugurarea sălii de gimnastică ”Nadia Comăneci”",
+      "link": "https://noutati24.ro/participarea-premierului-ilie-bolojan-la-inaugurarea-salii-de-gimnastica-nadia-comaneci/",
+      "date": "Sat, 18 Jul 2026 12:23:00 +0000",
+      "summary": "Galerie foto COMUNICAT DE PRESĂ Premierul Ilie Bolojan: Mulțumesc, Nadia Comăneci! Mulțumesc, Ion Țiriac! Mulțumesc campionilor noștri! Vă suntem recunoscători &#8230; Articolul Participarea premierului Ilie Bolojan la inaugurarea sălii de gimnastică ”Nadia Comăneci” apare prima dată în Noutati 24 ."
+    },
     {
       "title": "Ședința de guvern din data 16 iulie 2026",
       "link": "https://noutati24.ro/sedinta-de-guvern-din-data-16-iulie-2026/",
@@ -71,15 +77,15 @@
       "link": "https://noutati24.ro/sedinta-de-guvern-din-data-2-iulie-2026/",
       "date": "Thu, 02 Jul 2026 13:10:00 +0000",
       "summary": "Guvernul României Guvernul este autoritatea publică a puterii executive, care funcționează în baza votului de încredere acordat de Parlament și &#8230; Articolul Ședința de guvern din data 2 iulie 2026 apare prima dată în Noutati 24 ."
-    },
-    {
-      "title": "Lansarea Programului Oficial de Internship al Guvernului României, ediția a XIII-a",
-      "link": "https://noutati24.ro/lansarea-programului-oficial-de-internship-al-guvernului-romaniei-editia-a-xiii-a/",
-      "date": "Wed, 01 Jul 2026 16:54:00 +0000",
-      "summary": "Galerie foto COMUNICAT DE PRESĂ Programul Oficial de Internship al Guvernului României &#8211; ediția a XIII-a &#8211; &#160;a fost lansat &#8230; Articolul Lansarea Programului Oficial de Internship al Guvernului României, ediția a XIII-a apare prima dată în Noutati 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@noutati24/116943864104796592",
+      "date": "Sun, 19 Jul 2026 00:42:34 +0000",
+      "content": "🆕Galerie foto COMUNICAT DE PRESĂ Premierul Ilie Bolojan: Mulțumesc, Nadia Comăneci! Mulțumesc, Ion Țiriac! Mulțumesc campionilor noștri! Vă suntem recunoscători Premierul Ilie Bolojan a participat astăzi la inaugurarea Sălii de gimnastică ”Nadia Comăneci” din Otopeni, proiect realizat de Fundația Țiriac în onoarea inegalabilei noastre gimnaste, la împlinirea a 50 de ani de la prima 🌐 https:// noutati24.ro/participarea-prem ierului-ilie-bolojan-la-inaugurarea-salii-de-gimnastica-nadia-comaneci/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@noutati24/116932496002367924",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@noutati24/116852911197324318",
       "date": "Thu, 02 Jul 2026 23:12:03 +0000",
       "content": "🆕Galerie foto COMUNICAT DE PRESĂ Premierul Ilie Bolojan: Undă verde pentru proiectul de infrastructură care leagă România de Republica Moldova Prim-ministrul Ilie Bolojan a participat astăzi la semnarea a două documente bilaterale între România și Republica Moldova pentru realizarea 🌐 https:// noutati24.ro/participarea-prem ierului-ilie-bolojan-la-ceremonia-de-semnare-a-unor-documente-bilaterale-romania-republica-moldova-impreuna-cu-viceprim-ministrul-ministrul-infrastructurii-si-dezvoltarii-r/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@noutati24/116847206999082457",
-      "date": "Wed, 01 Jul 2026 23:01:24 +0000",
-      "content": "🆕Galerie foto COMUNICAT DE PRESĂ Premierul Ilie Bolojan și ministrul Finanțelor, Alexandru Nazare, au analizat evoluțiile de pe piața produselor energetice și impactul asupra prețului carburanților în cadrul consultărilor de astăzi cu operatorii majori de pe piața carburanților din România, care au avut loc la Palatul Victoria.Consultările au ca obiectiv 🌐 https:// noutati24.ro/consultari-intre- reprezentantii-guvernului-si-cei-ai-operatorilor-privati-pe-tema-evolutiei-pretului-carburantilor/"
     }
   ]
 }
