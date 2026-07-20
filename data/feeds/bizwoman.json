@@ -4,8 +4,14 @@
   "site_feed": "https://bizwoman.ro/feed/",
   "mastodon": "https://social.5th.ro/@BIZWoman",
   "mastodon_rss": "https://social.5th.ro/@BIZWoman.rss",
-  "updated_at": "2026-07-20T18:19:10Z",
+  "updated_at": "2026-07-20T20:41:23Z",
   "site_posts": [
+    {
+      "title": "Ghidul tău pentru garderoba capsulă de vară – cum să combini eleganța, confortul și sustenabilitatea",
+      "link": "https://bizwoman.ro/ghidul-tau-pentru-garderoba-capsula-de-vara-cum-sa-combini-eleganta-confortul-si-sustenabilitatea/",
+      "date": "Mon, 20 Jul 2026 18:27:00 +0000",
+      "summary": "Vara a sosit oficial, iar odată cu ea vine și dorința ta de a te&#8230; Articolul Ghidul tău pentru garderoba capsulă de vară &#8211; cum să combini eleganța, confortul și sustenabilitatea apare prima dată în Biz Woman ."
+    },
     {
       "title": "Top 5 tipuri de ciorapi care nu trebuie să-ți lipsească din garderobă în acest sezon",
       "link": "https://bizwoman.ro/top-5-tipuri-de-ciorapi-care-nu-trebuie-sa-ti-lipseasca-din-garderoba-in-acest-sezon/",
@@ -59,15 +65,15 @@
       "link": "https://bizwoman.ro/raportul-cip-centrala-incidentelor-de-plati/",
       "date": "Mon, 06 Apr 2026 13:10:38 +0000",
       "summary": "Când ai un portofoliu diversificat de clienți este important să cunoști capacitatea de plată a&#8230; Articolul Ce se întâmplă când incidentele la plată ale clienților devin o regulă? Cum verifici incidentele la plată? apare prima dată în Biz Woman ."
-    },
-    {
-      "title": "Localizare GPS auto: Cum funcționează și ce beneficii ai",
-      "link": "https://bizwoman.ro/localizare-gps-auto-cum-functioneaza-si-ce-beneficii-ai/",
-      "date": "Wed, 04 Mar 2026 20:00:28 +0000",
-      "summary": "Cum se face că două mașini care par să facă aceeași treabă scot, la final&#8230; Articolul Localizare GPS auto: Cum funcționează și ce beneficii ai apare prima dată în Biz Woman ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@BIZWoman/116953712139463556",
+      "date": "Mon, 20 Jul 2026 18:27:03 +0000",
+      "content": "📄Vara a sosit oficial, iar odată cu ea vine și dorința ta de a te exprima prin outfituri lejere, dar pline de personalitate. Te uiți în dressing în fiecare dimineață și simți că, deși ai umerașele pline, nu ai cu ce să te îmbraci? Nu ești singura. Această frustrare comună apare atunci când îți lipsesc… 📄 https:// bizwoman.ro/ghidul-tau-pentru- garderoba-capsula-de-vara-cum-sa-combini-eleganta-confortul-si-sustenabilitatea/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@BIZWoman/116916797409690163",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@BIZWoman/116131320360105923",
       "date": "Wed, 25 Feb 2026 12:42:00 +0000",
       "content": "📄Asociatia CENTRUL DE PERFORMANTA BEFORE &amp; AFTER SCHOOL CONIL anunta cu bucurie si recunostinta apropierea de finalizarea proiectului de investitie “Transformarea digitala a Asociatiei CENTRUL DE PERFORMANTA BEFORE &amp; AFTER SCHOOL CONIL”, un demers care a transformat nu doar modul in care lucram, ci mai ales modul in care putem raspunde nevoilor 📄 https:// bizwoman.ro/tehnologie-cu-sufl et-asociatia-conil-a-facut-pasul-spre-digitalizare-prin-pnrr-pentru-a-fi-mai-aproape-de-copiii-cu-nevoi-speciale/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@BIZWoman/116130096724371725",
-      "date": "Wed, 25 Feb 2026 07:30:49 +0000",
-      "content": "📄Dincolo de clasicul concediu și de perioada vacanțelor, din ce în ce mai mulți români simt nevoia să își valorifice timpul liber pe tot parcursul anului, să își transforme călătoriile într-un stil de viață sustenabil. În căutarea unor experiențe memorabile și autentice, pe care să le trăiască alături de prieteni sau familie, aceștia caută soluții,… 📄 https:// bizwoman.ro/calatorii-cu-grupu l-de-prieteni-confort-maxim-intr-o-masina-inchiriata/"
     }
   ]
 }
