@@ -4,8 +4,14 @@
   "site_feed": "https://recent-news.ro/feed/",
   "mastodon": "https://social.5th.ro/@recent_news",
   "mastodon_rss": "https://social.5th.ro/@recent_news.rss",
-  "updated_at": "2026-07-20T11:11:28Z",
+  "updated_at": "2026-07-20T13:15:50Z",
   "site_posts": [
+    {
+      "title": "Solicitare privind adoptarea de urgență a unor măsuri pentru protejarea cumpărătorilor de locuințe afectați de indisponibilitatea sistemelor ANCPI",
+      "link": "https://recent-news.ro/solicitare-privind-adoptarea-de-urgenta-a-unor-masuri-pentru-protejarea-cumparatorilor-de-locuinte-afectati-de-indisponibilitatea-sistemelor-ancpi/",
+      "date": "Mon, 20 Jul 2026 08:38:12 +0000",
+      "summary": "Către, Parlamentul Rom&#226;niei &#206;n atenția: Domnului Președinte al Senatului Rom&#226;niei Domnului Președinte al Camerei Deputaților Liderilor Grupurilor Parlamentare Membrilor Comisiilor&#8230; Articolul Solicitare privind adoptarea de urgență a unor măsuri pentru protejarea cumpărătorilor de locuințe afectați de indisponibilitatea sistemelor ANCPI apare prima dată în Recent News ."
+    },
     {
       "title": "Imobiliare, credite și asigurări: ecosistemul câștigător în 2026. Acceleratorul revine la Iași",
       "link": "https://recent-news.ro/imobiliare-credite-si-asigurari-ecosistemul-castigator-in-2026-acceleratorul-revine-la-iasi/",
@@ -59,15 +65,15 @@
       "link": "https://recent-news.ro/rapsodia-cake-deserturi-premium-pentru-nunti-botezuri-evenimente-corporate-si-aniversari/",
       "date": "Wed, 13 May 2026 03:42:07 +0000",
       "summary": "&#206;ntr-o perioadă &#238;n care experiența contează la fel de mult ca gustul, deserturile au devenit parte din povestea fiecărui eveniment.&#8230; Articolul Rapsodia Cake – deserturi premium pentru nunți, botezuri, evenimente corporate și aniversări apare prima dată în Recent News ."
-    },
-    {
-      "title": "Care sunt cele mai potrivite perne atunci când ai probleme cu spatele?",
-      "link": "https://recent-news.ro/care-sunt-cele-mai-potrivite-perne-atunci-cand-ai-probleme-cu-spatele/",
-      "date": "Fri, 24 Apr 2026 04:05:37 +0000",
-      "summary": "Dacă te-ai trezit măcar o dată cu senzația că ești un robot care are nevoie de mult ulei ca să&#8230; Articolul Care sunt cele mai potrivite perne atunci când ai probleme cu spatele? apare prima dată în Recent News ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@recent_news/116952114234120741",
+      "date": "Mon, 20 Jul 2026 11:40:41 +0000",
+      "content": "Către, Parlamentul României În atenția: Domnului Președinte al Senatului României Domnului Președinte al Camerei Deputaților Liderilor Grupurilor Parlamentare Membrilor Comisiilor pentru Buget, Finanțe și Politică Economică Subiect: Solicitare privind adoptarea de urgență a unor măsuri pentru protejarea cumpărătorilor de https:// recent-news.ro/solicitare-priv ind-adoptarea-de-urgenta-a-unor-masuri-pentru-protejarea-cumparatorilor-de-locuinte-afectati-de-indisponibilitatea-sistemelor-ancpi/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@recent_news/116804935789596975",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@recent_news/116324542548151833",
       "date": "Tue, 31 Mar 2026 15:40:57 +0000",
       "content": "Într-o industrie în care promisiunile sunt peste tot, dar informațiile reale sunt greu de verificat, există un singur loc unde poți afla adevărul direct de la sursă: Forumvideochat.ro. Este singura platformă dedicată domeniului de videochat în Iași unde modele cu experiență directă aleg să vorbească deschis despre parcursul lor, despre greșelile făcute la început și… https:// recent-news.ro/vrei-sa-incepi- in-videochat-in-iasi-afla-pe-forumvideochat-ro-ce-nu-iti-spun-reclamele-viva-diva/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@recent_news/116269478769852281",
-      "date": "Sat, 21 Mar 2026 22:17:30 +0000",
-      "content": "Renovarea unei locuinte este una dintre cele mai importante investitii pe care le facem in confortul nostru. Fie ca este vorba despre un apartament nou, o casa care are nevoie de modernizare sau o renovare completa, alegerea unei firme de amenajari interioare serioase poate face diferenta dintre un proiect reusit si o experienta frustranta. In… https:// recent-news.ro/cum-alegi-o-fir ma-de-amenajari-interioare-serioasa-ghid-complet-pentru-o-renovare-fara-stres/"
     }
   ]
 }
