@@ -4,8 +4,14 @@
   "site_feed": "https://afaceritop.ro/feed/",
   "mastodon": "https://social.5th.ro/@afaceri_top",
   "mastodon_rss": "https://social.5th.ro/@afaceri_top.rss",
-  "updated_at": "2026-07-21T06:40:01Z",
+  "updated_at": "2026-07-21T09:38:14Z",
   "site_posts": [
+    {
+      "title": "Ce face vinul românesc diferit de cel produs în Franța, Italia sau Spania?",
+      "link": "https://afaceritop.ro/ce-face-vinul-romanesc-diferit-de-cel-produs-in-franta-italia-sau-spania/",
+      "date": "Tue, 21 Jul 2026 08:39:30 +0000",
+      "summary": "Marii producători din Vest domină rafturile magazinelor, însă cramele noastre ascund un avantaj uriaș pe care mulți consumatori abia acum încep să îl descopere. Clima, soiurile locale și stilul fiecărei crame construiesc identități distincte, iar România are suficiente argumente pentru a sta fără emoții la aceeași masă cu marile țări viticole. Citește până la final [&#8230;] Articolul Ce face vinul românesc diferit de cel produs în Franța, Italia sau Spania? apare prima dată în Afaceri TOP ."
+    },
     {
       "title": "ecomTEAM 2026 – Navigating the New eCommerce Era",
       "link": "https://afaceritop.ro/ecomteam-2026-navigating-the-new-ecommerce-era/",
@@ -59,15 +65,15 @@
       "link": "https://afaceritop.ro/care-este-cel-mai-bun-sistem-de-monitorizare-gps-pentru-flote-auto/",
       "date": "Thu, 09 Apr 2026 09:13:51 +0000",
       "summary": "Pe scurt, cel mai bun sistem de monitorizare GPS pentru flote auto este cel care îți oferă localizare în timp real, analize detaliate de consum și comportament al șoferilor, plus rapoarte automate care te ajută să reduci costurile cu până la 30% lunar. Nu există o soluție universală, dar cele care se integrează perfect cu [&#8230;] Articolul Care este cel mai bun sistem de monitorizare GPS pentru flote auto apare prima dată în Afaceri TOP ."
-    },
-    {
-      "title": "Ce înseamnă GPS localizare auto pentru flotă",
-      "link": "https://afaceritop.ro/ce-inseamna-gps-localizare-auto-pentru-flota/",
-      "date": "Tue, 07 Apr 2026 14:43:12 +0000",
-      "summary": "Un sistem GPS localizare auto îți permite să vezi în timp real unde se află mașinile tale și cum sunt folosite, fără presupuneri sau estimări. Pe scurt, un tracker GPS auto se conectează la baterie, trimite date pe un server, iar tu accesezi totul printr-o aplicație. Spre deosebire de un GPS de navigație obișnuit, un sistem [&#8230;] Articolul Ce înseamnă GPS localizare auto pentru flotă apare prima dată în Afaceri TOP ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@afaceri_top/116957064325311355",
+      "date": "Tue, 21 Jul 2026 08:39:33 +0000",
+      "content": "Marii producători din Vest domină rafturile magazinelor, însă cramele noastre ascund un avantaj uriaș pe care mulți consumatori abia acum încep să îl descopere. Clima, soiurile locale și stilul fiecărei crame construiesc identități distincte, iar România are suficiente argumente pentru a sta fără emoții la aceeași masă cu marile țări viticole. Citește până la final… https:// afaceritop.ro/ce-face-vinul-ro manesc-diferit-de-cel-produs-in-franta-italia-sau-spania/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@afaceri_top/116804538945803244",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@afaceri_top/116322464936306547",
       "date": "Tue, 31 Mar 2026 06:52:35 +0000",
       "content": "O schimbare în modul de utilizare a tehnologieiÎn ultimii ani, utilizatorii nu mai caută doar dispozitive performante, ci experiențe complete. Ideea de ecosistem a devenit centrală, deoarece oferă conectivitate, continuitate și control într-un singur cadru. Ecosistemul Galaxy răspunde acestei nevoi prin integrarea mai multor tipuri de dispozitive într-un sistem coerent.Această tendință reflectă dorința de simplificare.… https:// afaceritop.ro/de-ce-ecosistemu l-galaxy-este-tot-mai-popular/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@afaceri_top/116274465030149815",
-      "date": "Sun, 22 Mar 2026 19:25:35 +0000",
-      "content": "Ce beneficii aduce Galaxy S26 pentru utilizatorii moderniDe la utilizare activă la interacțiune inteligentăModul în care folosim smartphone-ul s-a schimbat constant în ultimul deceniu, dar în ultimii ani ritmul acestei transformări s-a accelerat vizibil. Dacă înainte telefonul era un instrument pe care îl controlam manual, astăzi devine tot mai mult un sistem care reacționează la… https:// afaceritop.ro/ce-beneficii-adu ce-galaxy-s26-pentru-utilizatorii-moderni/"
     }
   ]
 }
