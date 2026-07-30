@@ -4,8 +4,14 @@
   "site_feed": "https://top15.ro/feed/",
   "mastodon": "https://social.5th.ro/@top",
   "mastodon_rss": "https://social.5th.ro/@top.rss",
-  "updated_at": "2026-07-30T18:45:16Z",
+  "updated_at": "2026-07-30T20:35:43Z",
   "site_posts": [
+    {
+      "title": "15 verificări utile înainte să cumperi echipament sportiv second-hand",
+      "link": "https://top15.ro/15-verificari-echipament-sportiv-second-hand/",
+      "date": "Thu, 30 Jul 2026 19:21:23 +0000",
+      "summary": "Un ghid practic cu 15 verificări pentru cumpărarea echipamentelor sportive folosite, de la identificarea modelului și analiza uzurii până la testare, transport și plată. Articolul 15 verificări utile înainte să cumperi echipament sportiv second-hand apare prima dată în TOP 15 ."
+    },
     {
       "title": "Păreri despre studioul Viva Diva – 5 motive pentru care merită să intri pe Forumvideochat înainte să alegi un studio",
       "link": "https://top15.ro/pareri-despre-studioul-viva-diva-5-motive-pentru-care-merita-sa-intri-pe-forumvideochat-inainte-sa-alegi-un-studio/",
@@ -71,15 +77,15 @@
       "link": "https://top15.ro/salesianer-marcheaza-inceperea-lucrarilor-pentru-noua-fabrica-high-tech-la-oradea/",
       "date": "Tue, 02 Jun 2026 09:31:37 +0000",
       "summary": "Noua unitate pentru procesarea textilelor dedicate domeniilor cleanroom și blocuri operatorii consolidează rolul Rom&#226;niei &#238;n... Articolul SALESIANER marchează începerea lucrărilor pentru nouă fabrică high-tech la Oradea apare prima dată în TOP 15 ."
-    },
-    {
-      "title": "Ce înseamnă experiență unificată între dispozitive?",
-      "link": "https://top15.ro/ce-inseamna-experienta-unificata-intre-dispozitive/",
-      "date": "Wed, 27 May 2026 11:03:00 +0000",
-      "summary": "Experiență unificată între dispozitive înseamnă ca telefonul, tableta, căștile și aplicațiile tale să funcționeze împreună,... Articolul Ce înseamnă experiență unificată între dispozitive? apare prima dată în TOP 15 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@top/117010549088212006",
+      "date": "Thu, 30 Jul 2026 19:21:26 +0000",
+      "content": "📰Un ghid practic cu 15 verificări pentru cumpărarea echipamentelor sportive folosite, de la identificarea modelului și analiza uzurii până la testare, transport și plată. 📰 https:// top15.ro/15-verificari-echipam ent-sportiv-second-hand/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@top/117007787520914674",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@top/116680528127991313",
       "date": "Tue, 02 Jun 2026 12:32:46 +0000",
       "content": "📰Noua unitate pentru procesarea textilelor dedicate domeniilor cleanroom și blocuri operatorii consolidează rolul României în rețeaua europeană a grupului Oradea, 2 iunie 2026 – Grupul SALESIANER a marcat oficial, prin ceremonia de începere a lucrărilor, lansarea unuia dintre cele mai importante proiecte de infrastructură din Europa Centrală și de Est. La Oradea va fi construită… 📰 https:// top15.ro/salesianer-marcheaza- inceperea-lucrarilor-pentru-noua-fabrica-high-tech-la-oradea/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@top/116651871582077539",
-      "date": "Thu, 28 May 2026 11:05:02 +0000",
-      "content": "📰Experiență unificată între dispozitive înseamnă ca telefonul, tableta, căștile și aplicațiile tale să funcționeze împreună, fără pași complicați. În 2026, utilizatorii caută dispozitive care se conectează rapid, păstrează continuitatea activităților și oferă acces la aceleași informații de pe ecrane diferite. În ecosistemul Samsung, această idee poate fi observată prin modul în care Galaxy Tab S11,… 📰 https:// top15.ro/ce-inseamna-experient a-unificata-intre-dispozitive/"
     }
   ]
 }
