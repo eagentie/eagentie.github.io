@@ -4,8 +4,14 @@
   "site_feed": "https://iFemeie.ro/feed/",
   "mastodon": "https://social.5th.ro/@iFemeie",
   "mastodon_rss": "https://social.5th.ro/@iFemeie.rss",
-  "updated_at": "2026-07-31T12:16:28Z",
+  "updated_at": "2026-07-31T14:36:41Z",
   "site_posts": [
+    {
+      "title": "Cat dureaza operatia de polipi la copii si ce urmeaza in perioada de recuperare postoperatorie",
+      "link": "https://ifemeie.ro/cat-dureaza-operatia-de-polipi-la-copii-si-ce-urmeaza-in-perioada-de-recuperare-postoperatorie/",
+      "date": "Fri, 31 Jul 2026 13:39:59 +0000",
+      "summary": "Perioada dinaintea unei interventii chirurgicale pentru cel mic este marcata inevitabil de intrebari, de emotii... Articolul Cat dureaza operatia de polipi la copii si ce urmeaza in perioada de recuperare postoperatorie apare prima dată în iFemeie ."
+    },
     {
       "title": "Mituri și adevăruri despre chirurgia robotică",
       "link": "https://ifemeie.ro/mituri-si-adevaruri-despre-chirurgia-robotica/",
@@ -65,15 +71,15 @@
       "link": "https://ifemeie.ro/de-ce-electrocasnicele-inteligente-reduc-consumul/",
       "date": "Wed, 10 Dec 2025 10:07:57 +0000",
       "summary": "Electrocasnicele inteligente pot ajusta consumul de energie în funcție de modul în care sunt folosite.... Articolul De ce electrocasnicele inteligente reduc consumul apare prima dată în iFemeie ."
-    },
-    {
-      "title": "Oameni, destine, emoție: Adela Hanafi, a lansat podcastul „Povești Nespuse cu Adela”",
-      "link": "https://ifemeie.ro/oameni-destine-emotie-adela-hanafi-a-lansat-podcastul-povesti-nespuse-cu-adela/",
-      "date": "Wed, 10 Dec 2025 09:13:51 +0000",
-      "summary": "Oameni, destine, emoție: Adela Hanafi, a lansat podcastul „Povești Nespuse cu Adela” Într-o lume adesea... Articolul Oameni, destine, emoție: Adela Hanafi, a lansat podcastul „Povești Nespuse cu Adela” apare prima dată în iFemeie ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@iFemeie/117014868776340299",
+      "date": "Fri, 31 Jul 2026 13:39:59 +0000",
+      "content": "Perioada dinaintea unei interventii chirurgicale pentru cel mic este marcata inevitabil de intrebari, de emotii si de o dorinta fireasca a parintilor de a cunoaste fiecare detaliu al procesului medical. Dupa ce s-a stabilit ca indepartarea vegetatiilor adenoide este calea necesara pentru restabilirea sanatatii, cele mai frecvente nedumeriri din cabinetul ORL privesc durata exacta a… https:// ifemeie.ro/cat-dureaza-operati a-de-polipi-la-copii-si-ce-urmeaza-in-perioada-de-recuperare-postoperatorie/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@iFemeie/117014493984426494",
@@ -139,12 +145,6 @@
       "link": "https://social.5th.ro/@iFemeie/115797392982194965",
       "date": "Sun, 28 Dec 2025 13:19:53 +0000",
       "content": "/tmp/tmp9pyh64eg.html https:// ifemeie.ro/biosenzori-pentru-m onitorizarea-melanomului/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@iFemeie/115797392764934617",
-      "date": "Sun, 28 Dec 2025 13:19:50 +0000",
-      "content": "/tmp/tmp7u2f5_6o.html https:// ifemeie.ro/substanta-de-contra st-iodata-si-alaptarea/"
     }
   ]
 }

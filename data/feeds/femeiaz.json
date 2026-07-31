@@ -4,8 +4,14 @@
   "site_feed": "https://femeiaz.ro/feed/",
   "mastodon": "https://social.5th.ro/@femeiAZ",
   "mastodon_rss": "https://social.5th.ro/@femeiAZ.rss",
-  "updated_at": "2026-07-31T12:15:19Z",
+  "updated_at": "2026-07-31T14:35:30Z",
   "site_posts": [
+    {
+      "title": "Peritonita: o urgență chirurgicală care necesită intervenție rapidă",
+      "link": "https://femeiaz.ro/2026/07/31/peritonita-o-urgenta-chirurgicala-care-necesita-interventie-rapida/",
+      "date": "Fri, 31 Jul 2026 08:32:01 +0000",
+      "summary": "O durere abdominală bruscă și insuportabilă îți poate schimba viața în doar câteva ore. Această stare gravă indică adesea o&#8230; Articolul Peritonita: o urgență chirurgicală care necesită intervenție rapidă apare prima dată în Femei A-Z ."
+    },
     {
       "title": "De la simptom la sursă: cum schimbă brain mapping abordarea sănătății mintale",
       "link": "https://femeiaz.ro/2026/06/10/de-la-simptom-la-sursa-cum-schimba-brain-mapping-abordarea-sanatatii-mintale/",
@@ -59,15 +65,15 @@
       "link": "https://femeiaz.ro/2025/12/17/mentions-si-replies-pe-mastodon-regulile-conversatiei-in-fediverse/",
       "date": "Wed, 17 Dec 2025 16:58:54 +0000",
       "summary": "V-ați simțit vreodată copleșiți de algoritmii rețelelor sociale care dictează ce merită sau nu să vedeți? Sunteți în căutarea unei&#8230; Articolul Mentions și replies pe Mastodon: regulile conversației în Fediverse apare prima dată în Femei A-Z ."
-    },
-    {
-      "title": "Oameni, destine, emoție: Adela Hanafi, a lansat podcastul „Povești Nespuse cu Adela”",
-      "link": "https://femeiaz.ro/2025/12/10/oameni-destine-emotie-adela-hanafi-a-lansat-podcastul-povesti-nespuse-cu-adela/",
-      "date": "Wed, 10 Dec 2025 09:13:51 +0000",
-      "summary": "Oameni, destine, emoție: Adela Hanafi, a lansat podcastul „Povești Nespuse cu Adela” Într-o lume adesea dominată de superficialitate și știri&#8230; Articolul Oameni, destine, emoție: Adela Hanafi, a lansat podcastul „Povești Nespuse cu Adela” apare prima dată în Femei A-Z ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@femeiAZ/117014576384983084",
+      "date": "Fri, 31 Jul 2026 12:25:38 +0000",
+      "content": "O durere abdominală bruscă și insuportabilă îți poate schimba viața în doar câteva ore. Această stare gravă indică adesea o peritonită, adică o inflamație severă a membranei care acoperă organele interne. Fără un tratament medical rapid, infecția se extinde ușor în întregul organism. Astfel de situații reprezintă o adevărată urgență chirurgicală care pune viața în… https:// femeiaz.ro/2026/07/31/peritoni ta-o-urgenta-chirurgicala-care-necesita-interventie-rapida/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@femeiAZ/116793512267676629",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@femeiAZ/115695333739838124",
       "date": "Wed, 10 Dec 2025 12:44:53 +0000",
       "content": "În peisajul digital saturat de astăzi, a vinde produse nu mai este suficient. Afacerea dumneavoastră de eCommerce are nevoie de o voce autentică și de o strategie care să transforme cititorii în cumpărători loiali. Cunoaștem cu toții dificultatea de a menține relevanța în fața algoritmilor în continuă schimbare și a costurilor în creștere pentru publicitatea… https:// femeiaz.ro/2025/12/01/advertor iale-pentru-ecommerce-in-2025-cum-vinzi-produse-prin-continut/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@femeiAZ/115695329821533121",
-      "date": "Wed, 10 Dec 2025 12:43:53 +0000",
-      "content": "Fotografia reprezintă arta de a imortaliza momente, emoții și povești într-o singură imagine. Un fotograf talentat poate transforma o zi obișnuită într-o poveste fascinantă, iar Alex Bogdan ( https://www. abfoto.ro ) este un maestru în această artă. Cu un portofoliu impresionant și o abordare unică, el aduce la viață nunți și evenimente speciale într-un mod captivant.O Pasiune Transformată… https:// femeiaz.ro/2025/11/28/ilustran d-iubirea-in-fotografia-de-nunta/"
     }
   ]
 }

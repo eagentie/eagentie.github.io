@@ -4,8 +4,14 @@
   "site_feed": "https://EraTehnologica.ro/feed/",
   "mastodon": "https://social.5th.ro/@eratehnologica",
   "mastodon_rss": "https://social.5th.ro/@eratehnologica.rss",
-  "updated_at": "2026-07-31T12:16:18Z",
+  "updated_at": "2026-07-31T14:36:31Z",
   "site_posts": [
+    {
+      "title": "Chisturile și tumorile splinei: când este recomandată operația",
+      "link": "https://eratehnologica.ro/chisturile-si-tumorile-splinei-cand-este-recomandata-operatia/",
+      "date": "Fri, 31 Jul 2026 08:32:01 +0000",
+      "summary": "Simți uneori o presiune neplăcută în partea stângă a abdomenului? Această senzație poate fi ignorată ușor, dar uneori ascunde o&#8230; Articolul Chisturile și tumorile splinei: când este recomandată operația apare prima dată în Era Tehnologica ."
+    },
     {
       "title": "De ce AI-ul devine parte din strategia digitala a companiilor, nu doar un instrument de automatizare",
       "link": "https://eratehnologica.ro/de-ce-ai-ul-devine-parte-din-strategia-digitala-a-companiilor-nu-doar-un-instrument-de-automatizare/",
@@ -71,15 +77,15 @@
       "link": "https://eratehnologica.ro/pacanele-pe-mobil-cum-joci-in-siguranta-de-pe-telefon-sau-tableta/",
       "date": "Fri, 14 Nov 2025 09:07:58 +0000",
       "summary": "Atenție! Vă întrebați cum puteți accesa divertismentul digital oriunde v-ați afla? Popularitatea jocurilor de noroc pe dispozitivele mobile a explodat&#8230; Articolul Păcănele pe mobil: cum joci în siguranță de pe telefon sau tabletă apare prima dată în Era Tehnologica ."
-    },
-    {
-      "title": "SEO pentru WordPress: setări esențiale și pluginuri care chiar ajută",
-      "link": "https://eratehnologica.ro/seo-pentru-wordpress-setari-esentiale-si-pluginuri-care-chiar-ajuta/",
-      "date": "Fri, 14 Nov 2025 07:32:14 +0000",
-      "summary": "Te-ai săturat ca site-ul tău WordPress să fie îngropat în paginile din spate ale Google? Ai investit timp și resurse,&#8230; Articolul SEO pentru WordPress: setări esențiale și pluginuri care chiar ajută apare prima dată în Era Tehnologica ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@eratehnologica/117014634742278540",
+      "date": "Fri, 31 Jul 2026 12:40:28 +0000",
+      "content": "Simți uneori o presiune neplăcută în partea stângă a abdomenului? Această senzație poate fi ignorată ușor, dar uneori ascunde o problemă la nivelul splinei. Deși multe formațiuni sunt benigne, prezența unor tumori splină sau a unor chisturi voluminoase necesită o evaluare medicală atentă. Multe dintre aceste afecțiuni evoluează în tăcere, fără să provoace dureri mari… .... https:// eratehnologica.ro/chisturile-s i-tumorile-splinei-cand-este-recomandata-operatia/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@eratehnologica/116905357294808153",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@eratehnologica/115797208768128457",
       "date": "Sun, 28 Dec 2025 12:33:02 +0000",
       "content": "/tmp/tmpbnxk2rb1.html .... https:// eratehnologica.ro/pancreatita- acuta/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@eratehnologica/115736983429960440",
-      "date": "Wed, 17 Dec 2025 21:16:56 +0000",
-      "content": "V-ați săturat de algoritmii care decid ce văd cititorii dumneavoastră? Mastodon este soluția descentralizată care oferă control total asupra audienței. Totuși, simpla creare a unui cont nu este de ajuns. Dacă scopul dumneavoastră este să construiți credibilitate și să atrageți contacte profesionale, aveți nevoie de un profil Mastodon care să vorbească despre expertiza dumneavoastră. Mulți… .... https:// eratehnologica.ro/cum-iti-pers onalizezi-profilul-mastodon-ca-sa-para-profesionist/"
     }
   ]
 }

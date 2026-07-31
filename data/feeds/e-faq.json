@@ -4,8 +4,14 @@
   "site_feed": "https://e-faq.ro/feed/",
   "mastodon": "https://social.5th.ro/@efaq",
   "mastodon_rss": "https://social.5th.ro/@efaq.rss",
-  "updated_at": "2026-07-31T12:15:46Z",
+  "updated_at": "2026-07-31T14:35:58Z",
   "site_posts": [
+    {
+      "title": "Cum diferentiezi deviatia de sept de rinita alergica si cum recunosti cauza nasului infundat",
+      "link": "https://e-faq.ro/cum-diferentiezi-deviatia-de-sept-de-rinita-alergica-si-cum-recunosti-cauza-nasului-infundat/",
+      "date": "Fri, 31 Jul 2026 13:39:10 +0000",
+      "summary": "Senzatia permanenta de nas infundat este un disconfort pe care multi oameni il accepta involuntar [&#8230;] Articolul Cum diferentiezi deviatia de sept de rinita alergica si cum recunosti cauza nasului infundat apare prima dată în FAQ - Intrebari Frecvente ."
+    },
     {
       "title": "Recuperarea după intervențiile oncologice digestive: ce trebuie să știi",
       "link": "https://e-faq.ro/recuperarea-dupa-interventiile-oncologice-digestive-ce-trebuie-sa-stii/",
@@ -53,15 +59,15 @@
       "link": "https://e-faq.ro/espressor-in-custodie-pemntru-orice-companie/",
       "date": "Thu, 23 Apr 2026 06:53:03 +0000",
       "summary": "Afli totul despre espressoarele în custodie — ce înseamnă, cum funcționează sistemul, ce avantaje aduce și unde găsești cele mai bune oferte. Articolul Espressor in custodie pemntru orice companie apare prima dată în FAQ - Intrebari Frecvente ."
-    },
-    {
-      "title": "Întrebări frecvente despre producția publicitară în București pentru firme și branduri",
-      "link": "https://e-faq.ro/intrebari-frecvente-productie-publicitara-bucuresti/",
-      "date": "Fri, 10 Apr 2026 11:20:32 +0000",
-      "summary": "Companiile care vor să fie mai vizibile în piață nu se bazează doar pe promovarea [&#8230;] Articolul Întrebări frecvente despre producția publicitară în București pentru firme și branduri apare prima dată în FAQ - Intrebari Frecvente ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@efaq/117014865707110816",
+      "date": "Fri, 31 Jul 2026 13:39:13 +0000",
+      "content": "🚀 Senzatia permanenta de nas infundat este un disconfort pe care multi oameni il accepta involuntar ca pe o parte din rutina lor zilnica. Fie ca te trezesti dimineata cu gura uscata, fie ca simti ca nu poti trage suficient aer in plamani in timpul exercitiilor fizice sau ca folosesti spray-uri decongestionante de luni de zile,… 🔗 Citeste tot: https:// e-faq.ro/cum-diferentiezi-devi atia-de-sept-de-rinita-alergica-si-cum-recunosti-cauza-nasului-infundat/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@efaq/117014530421334519",
@@ -127,12 +133,6 @@
       "link": "https://social.5th.ro/@efaq/116324535987331783",
       "date": "Tue, 31 Mar 2026 15:39:17 +0000",
       "content": "🚀 Ești din Iași și te gândești la un job de model, dar simți că nu ai suficiente informații ca să iei o decizie sigură? Forumvideochat.ro este locul de unde ar trebui să începi. Într-un domeniu în care fiecare studio promite că este cel mai bun, diferența reală o fac informațiile clare, experiențele directe și părerile… 🔗 Complet aici: https:// e-faq.ro/cum-alegi-cel-mai-bun -studio-de-videochat-din-iasi-alege-dintre-viva-diva-si-heylux-pe-forumvideochat-ro/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@efaq/116294307170751106",
-      "date": "Thu, 26 Mar 2026 07:31:42 +0000",
-      "content": "🚀 Când un motor electric cedează brusc în mijlocul unei linii de producție, costurile nu vin doar din reparații — vin din orele de oprire, din comenzile întârziate, din lanțurile de aprovizionare perturbate. De multe ori, cauza directă a unui astfel de incident ar fi putut fi prevenită cu un dispozitiv mic, adesea ignorat în fazele… 🔗 Citeste tot: https:// e-faq.ro/releul-termic-dispozi tivul-discret-care-protejeaza-motoarele-din-fabrici-si-locuinte/"
     }
   ]
 }
