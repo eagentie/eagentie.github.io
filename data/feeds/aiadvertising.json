@@ -4,7 +4,7 @@
   "site_feed": "https://aiadvertising.ro/feed/",
   "mastodon": "https://social.5th.ro/@ai_advertising",
   "mastodon_rss": "https://social.5th.ro/@ai_advertising.rss",
-  "updated_at": "2026-07-31T07:12:19Z",
+  "updated_at": "2026-07-31T09:51:25Z",
   "site_posts": [
     {
       "title": "Opinia unui fost model despre Viva Diva – de ce am plecat după 4 luni și ce am aflat pe ForumVideoChat.ro",
@@ -17,6 +17,12 @@
       "link": "https://aiadvertising.ro/cum-ajuta-nuera-tight-la-reducerea-celulitei-si-fermitatea-pielii/",
       "date": "Thu, 30 Jul 2026 07:11:49 +0000",
       "summary": "Celulita și pielea lipsită de fermitate nu apar doar în cazul persoanelor care au kilograme... Articolul Cum ajută NuEra Tight la reducerea celulitei și fermitatea pielii apare prima dată în Ai advertising ."
+    },
+    {
+      "title": "10 probleme care ar putea apărea la un apartament într-un complex rezidențial, la care nu te-ai gândi",
+      "link": "https://aiadvertising.ro/10-probleme-care-ar-putea-aparea-la-un-apartament-intr-un-complex-rezidential-la-care-nu-te-ai-gandi/",
+      "date": "Mon, 13 Jul 2026 21:14:00 +0000",
+      "summary": "Un apartament nou poate arăta impecabil atunci când îl vizionezi, deoarece finisajele sunt recente, instalațiile... Articolul 10 probleme care ar putea apărea la un apartament într-un complex rezidențial, la care nu te-ai gândi apare prima dată în Ai advertising ."
     },
     {
       "title": "Cum schimbă AI primul contact dintre client și companie: exemplul clinicilor medicale",
@@ -59,15 +65,15 @@
       "link": "https://aiadvertising.ro/cotele-dunarii-la-bechet-in-2026-nivelul-apei-azi-grafic-si-evolutie-pe-zile/",
       "date": "Fri, 13 Feb 2026 08:38:11 +0000",
       "summary": "Analiza sumară a primelor 10 rezultate Google indică faptul că majoritatea paginilor care vizează aceste... Articolul Cotele Dunării la Bechet în 2026: nivelul apei azi, grafic și evoluție pe zile apare prima dată în Ai advertising ."
-    },
-    {
-      "title": "Unde poziționăm corect senzori de mișcare pentru eficiență maximă",
-      "link": "https://aiadvertising.ro/unde-pozitionam-corect-senzori-de-miscare-pentru-eficienta-maxima/",
-      "date": "Sat, 07 Feb 2026 12:22:00 +0000",
-      "summary": "&#160; Eficiența unui senzor de mișcare depinde aproape &#238;n totalitate de unghiul său de vizualizare... Articolul Unde poziționăm corect senzori de mișcare pentru eficiență maximă apare prima dată în Ai advertising ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@ai_advertising/117013594872917085",
+      "date": "Fri, 31 Jul 2026 08:16:01 +0000",
+      "content": "Un apartament nou poate arăta impecabil atunci când îl vizionezi, deoarece finisajele sunt recente, instalațiile nu au fost folosite, iar spațiile comune păstrează încă aspectul din prezentări. Problemele apar, de multe ori, după mutare, când începi să folosești zilnic parcarea, liftul, balconul, instalațiile și drumurile din jur.Unele neajunsuri se observă imediat iar https:// aiadvertising.ro/10-probleme-c are-ar-putea-aparea-la-un-apartament-intr-un-complex-rezidential-la-care-nu-te-ai-gandi/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@ai_advertising/117007796333060128",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@ai_advertising/115767784299621143",
       "date": "Tue, 23 Dec 2025 07:50:00 +0000",
       "content": "Bismut, metalul uimitor care creează opere de artă! Ce este și ce poți face cu el? Metalele rare au mereu ceva aparte, iar bismutul face parte din acea categorie mică de materiale care nu doar fascinează prin aspect, ci atrag atenția imediat ce le vezi. De la modul în care cristalizează până la jocul de… https:// aiadvertising.ro/ce-este-bismu tul-si-de-ce-atrage-atat-de-mult/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@ai_advertising/115736609937188631",
-      "date": "Wed, 17 Dec 2025 19:41:57 +0000",
-      "content": "Ați simțit vreodată că postările dvs. pe rețelele sociale sunt ascunse de algoritmi opaci? Lumea digitală se schimbă rapid, iar descentralizarea prin Fediverse devine esențială. Dacă folosiți WordPress pentru a vă gestiona conținutul, probabil că doriți ca munca dvs. să ajungă direct la publicul de pe platforme alternative, cum ar fi Mastodon. Integrarea dintre platforma… https:// aiadvertising.ro/ghid-cum-cree zi-aplicatie-si-token-pentru-mastodon-pentru-wordpress/"
     }
   ]
 }

@@ -4,8 +4,14 @@
   "site_feed": "https://e-faq.ro/feed/",
   "mastodon": "https://social.5th.ro/@efaq",
   "mastodon_rss": "https://social.5th.ro/@efaq.rss",
-  "updated_at": "2026-07-31T07:13:16Z",
+  "updated_at": "2026-07-31T09:52:16Z",
   "site_posts": [
+    {
+      "title": "Ce este CSV.RO? Întrebări și răspunsuri despre cumpărare, schimb și vânzare online",
+      "link": "https://e-faq.ro/ce-este-csv-ro-intrebari-raspunsuri-cumparare-schimb-vanzare/",
+      "date": "Fri, 31 Jul 2026 07:18:06 +0000",
+      "summary": "CSV.RO este o platformă de anunțuri online pentru cumpărare, schimb și vânzare. Ghidul răspunde la întrebări despre categorii, publicare, contact și siguranță. Articolul Ce este CSV.RO? Întrebări și răspunsuri despre cumpărare, schimb și vânzare online apare prima dată în FAQ - Intrebari Frecvente ."
+    },
     {
       "title": "Întrebări frecvente despre asistenții AI în clinici: ce pot face și unde sunt limitele",
       "link": "https://e-faq.ro/intrebari-frecvente-despre-asistentii-ai-in-clinici-ce-pot-face-si-unde-sunt-limitele/",
@@ -53,15 +59,15 @@
       "link": "https://e-faq.ro/renovare-simpla-efect-de-durata/",
       "date": "Fri, 10 Apr 2026 08:52:36 +0000",
       "summary": "O renovare reușită nu presupune întotdeauna lucrări complicate sau investiții greu de gestionat. De multe [&#8230;] Articolul Renovare simplă, efect de durată apare prima dată în FAQ - Intrebari Frecvente ."
-    },
-    {
-      "title": "Casă sau apartament? Cum știi care este opțiunea cea mai bună pentru tine?",
-      "link": "https://e-faq.ro/casa-sau-apartament-cum-stii-care-este-optiunea-cea-mai-buna-pentru-tine/",
-      "date": "Sat, 04 Apr 2026 13:22:00 +0000",
-      "summary": "Alegerea locuinței este probabil cea mai mare decizie financiară pe care o vei lua. Această [&#8230;] Articolul Casă sau apartament? Cum știi care este opțiunea cea mai bună pentru tine? apare prima dată în FAQ - Intrebari Frecvente ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@efaq/117013367443460124",
+      "date": "Fri, 31 Jul 2026 07:18:11 +0000",
+      "content": "🚀 &lt;p&gt;CSV.RO este o platformă de anunțuri online pentru cumpărare, schimb și vânzare. Ghidul răspunde la întrebări despre categorii, publicare, contact și siguranță.&lt;/p&gt; 🔗 Mai mult: https:// e-faq.ro/ce-este-csv-ro-intreb ari-raspunsuri-cumparare-schimb-vanzare/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@efaq/116905370379175035",
@@ -127,12 +133,6 @@
       "link": "https://social.5th.ro/@efaq/116285156188721367",
       "date": "Tue, 24 Mar 2026 16:44:29 +0000",
       "content": "🚀 &lt;p&gt;Espressor în custodie fără investiție inițială! Aparate profesionale livrate și instalate gratuit. Plătești doar cafeaua. Descoperă oferta pe Expresorul.ro&lt;/p&gt; 🔗 Citeste tot: https:// e-faq.ro/espressor-in-custodie -ghidul-complet-pentru-cafeaua-premium-fara-costuri-de-achizitie/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@efaq/116255956258008151",
-      "date": "Thu, 19 Mar 2026 12:58:33 +0000",
-      "content": "🚀 Decizia de a interveni chirurgical asupra amigdalelor nu este niciodata una superficiala. Pentru multi parinti, dar si pentru pacientii adulti, termenii medicali pot crea confuzie: Amigdalectomia sau Amigdalotomia? Care este diferenta? Care este mai sigura? Care are recuperare mai usoara? Care este indicata in cazul copilului meu?Acest ghid explica in detaliu 🔗 Citeste tot: https:// e-faq.ro/operatii-de-amigdale- amigdalectomie-si-amigdalotomie-cum-alegi-corect-interventia-potrivita/"
     }
   ]
 }

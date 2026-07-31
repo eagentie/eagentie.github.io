@@ -4,7 +4,7 @@
   "site_feed": "https://top15.ro/feed/",
   "mastodon": "https://social.5th.ro/@top",
   "mastodon_rss": "https://social.5th.ro/@top.rss",
-  "updated_at": "2026-07-31T07:14:06Z",
+  "updated_at": "2026-07-31T09:53:02Z",
   "site_posts": [
     {
       "title": "15 verificări utile înainte să cumperi echipament sportiv second-hand",
@@ -35,6 +35,12 @@
       "link": "https://top15.ro/aurul-tau-banii-tai-cum-se-face-evaluarea-la-amanet-inainte-sa-iei-un-credit/",
       "date": "Tue, 14 Jul 2026 05:58:05 +0000",
       "summary": "Când ai o bijuterie din aur și ai nevoie de bani într-un timp scurt, amanetul... Articolul Aurul tău, banii tăi: cum se face evaluarea la amanet înainte să iei un credit apare prima dată în TOP 15 ."
+    },
+    {
+      "title": "De ce să te gândești de două ori înainte de a cumpăra un apartament într-un bloc cu terenuri libere lângă",
+      "link": "https://top15.ro/de-ce-sa-te-gandesti-de-doua-ori-inainte-de-a-cumpara-un-apartament-intr-un-bloc-cu-terenuri-libere-langa/",
+      "date": "Sat, 11 Jul 2026 21:31:00 +0000",
+      "summary": "Un teren liber lângă bloc poate crea impresia unei zone aerisite, cu mai multă lumină... Articolul De ce să te gândești de două ori înainte de a cumpăra un apartament într-un bloc cu terenuri libere lângă apare prima dată în TOP 15 ."
     },
     {
       "title": "Cum transformă tehnologia LED designul interior modern",
@@ -71,15 +77,15 @@
       "link": "https://top15.ro/care-sunt-semnele-clare-ale-deficientei-de-magneziu-si-cand-este-recomandata-suplimentarea-simptome-care-pot-fi-trecute-usor-cu-vederea/",
       "date": "Wed, 10 Jun 2026 03:56:26 +0000",
       "summary": "Organismul folosește magneziul în sute de procese zilnice. Acest mineral contribuie la funcționarea sistemului nervos,... Articolul Care sunt semnele clare ale deficienței de magneziu și când este recomandată suplimentarea – simptome care pot fi trecute ușor cu vederea apare prima dată în TOP 15 ."
-    },
-    {
-      "title": "SALESIANER marchează începerea lucrărilor pentru nouă fabrică high-tech la Oradea",
-      "link": "https://top15.ro/salesianer-marcheaza-inceperea-lucrarilor-pentru-noua-fabrica-high-tech-la-oradea/",
-      "date": "Tue, 02 Jun 2026 09:31:37 +0000",
-      "summary": "Noua unitate pentru procesarea textilelor dedicate domeniilor cleanroom și blocuri operatorii consolidează rolul Rom&#226;niei &#238;n... Articolul SALESIANER marchează începerea lucrărilor pentru nouă fabrică high-tech la Oradea apare prima dată în TOP 15 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@top/117013589660609656",
+      "date": "Fri, 31 Jul 2026 08:14:42 +0000",
+      "content": "📰Un teren liber lângă bloc poate crea impresia unei zone aerisite, cu mai multă lumină și o vedere deschisă. La vizionare, apartamentul pare mai plăcut tocmai pentru că ferestrele nu sunt orientate spre o altă clădire. Din păcate, într-un cartier rezidențial București aflat în dezvoltare, terenurile libere își pot schimba utilizarea. Pe ele pot apărea… 📰 https:// top15.ro/de-ce-sa-te-gandesti- de-doua-ori-inainte-de-a-cumpara-un-apartament-intr-un-bloc-cu-terenuri-libere-langa/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@top/117010549088212006",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@top/116723796515358916",
       "date": "Wed, 10 Jun 2026 03:56:29 +0000",
       "content": "📰Organismul folosește magneziul în sute de procese zilnice. Acest mineral contribuie la funcționarea sistemului nervos, susține activitatea musculară și participă la producerea energiei celulare. Atunci când rezervele scad, corpul începe să transmită semnale care par, la prima vedere, lipsite de legătură între ele.Mulți oameni asociază 📰 https:// top15.ro/care-sunt-semnele-cla re-ale-deficientei-de-magneziu-si-cand-este-recomandata-suplimentarea-simptome-care-pot-fi-trecute-usor-cu-vederea/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@top/116680528127991313",
-      "date": "Tue, 02 Jun 2026 12:32:46 +0000",
-      "content": "📰Noua unitate pentru procesarea textilelor dedicate domeniilor cleanroom și blocuri operatorii consolidează rolul României în rețeaua europeană a grupului Oradea, 2 iunie 2026 – Grupul SALESIANER a marcat oficial, prin ceremonia de începere a lucrărilor, lansarea unuia dintre cele mai importante proiecte de infrastructură din Europa Centrală și de Est. La Oradea va fi construită… 📰 https:// top15.ro/salesianer-marcheaza- inceperea-lucrarilor-pentru-noua-fabrica-high-tech-la-oradea/"
     }
   ]
 }
