@@ -4,8 +4,14 @@
   "site_feed": "https://iFemeie.ro/feed/",
   "mastodon": "https://social.5th.ro/@iFemeie",
   "mastodon_rss": "https://social.5th.ro/@iFemeie.rss",
-  "updated_at": "2026-07-31T09:52:52Z",
+  "updated_at": "2026-07-31T12:16:28Z",
   "site_posts": [
+    {
+      "title": "Mituri și adevăruri despre chirurgia robotică",
+      "link": "https://ifemeie.ro/mituri-si-adevaruri-despre-chirurgia-robotica/",
+      "date": "Fri, 31 Jul 2026 08:32:01 +0000",
+      "summary": "Tehnologia medicală a evoluat extraordinar în ultimii ani, redefinind complet modul în care sunt tratate... Articolul Mituri și adevăruri despre chirurgia robotică apare prima dată în iFemeie ."
+    },
     {
       "title": "Eventrația postoperatorie: de ce apare și cum se tratează corect",
       "link": "https://ifemeie.ro/eventratia-postoperatorie-de-ce-apare-si-cum-se-trateaza-corect/",
@@ -65,15 +71,15 @@
       "link": "https://ifemeie.ro/oameni-destine-emotie-adela-hanafi-a-lansat-podcastul-povesti-nespuse-cu-adela/",
       "date": "Wed, 10 Dec 2025 09:13:51 +0000",
       "summary": "Oameni, destine, emoție: Adela Hanafi, a lansat podcastul „Povești Nespuse cu Adela” Într-o lume adesea... Articolul Oameni, destine, emoție: Adela Hanafi, a lansat podcastul „Povești Nespuse cu Adela” apare prima dată în iFemeie ."
-    },
-    {
-      "title": "Calendarul complet al analizelor în sarcină",
-      "link": "https://ifemeie.ro/calendarul-complet-al-analizelor-in-sarcina/",
-      "date": "Fri, 05 Dec 2025 16:47:20 +0000",
-      "summary": "Sarcina este una dintre cele mai complexe și emoționante călătorii din viața unei femei. Din... Articolul Calendarul complet al analizelor în sarcină apare prima dată în iFemeie ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@iFemeie/117014493984426494",
+      "date": "Fri, 31 Jul 2026 12:04:40 +0000",
+      "content": "Tehnologia medicală a evoluat extraordinar în ultimii ani, redefinind complet modul în care sunt tratate afecțiunile complexe. Astăzi, intervențiile chirurgicale sunt mult mai sigure, mai precise și mult mai puțin invazive decât în trecut. Cu toate acestea, mulți pacienți simt o stare de anxietate atunci când aud despre conceptul de chirurgie robotică, din cauza lipsei… https:// ifemeie.ro/mituri-si-adevaruri -despre-chirurgia-robotica/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@iFemeie/116799194349351946",
@@ -139,12 +145,6 @@
       "link": "https://social.5th.ro/@iFemeie/115797392764934617",
       "date": "Sun, 28 Dec 2025 13:19:50 +0000",
       "content": "/tmp/tmp7u2f5_6o.html https:// ifemeie.ro/substanta-de-contra st-iodata-si-alaptarea/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@iFemeie/115736791634418753",
-      "date": "Wed, 17 Dec 2025 20:28:10 +0000",
-      "content": "Te-ai săturat de algoritmii opaci care îți ascund mesajele? Pe platformele centralizate, efortul depus în crearea de conținut ajunge adesea invizibil. Rata de interacțiune scade, iar frustrarea crește. Această problemă a adus în prim-plan o alternativă puternică. Această alternativă se numește Mastodon. Această rețea socială descentralizată îți oferă un control mult mai mare asupra mesajului… https:// ifemeie.ro/cum-scrii-postari-c are-primesc-boost-uri-pe-mastodon/"
     }
   ]
 }

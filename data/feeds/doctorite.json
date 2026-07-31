@@ -4,8 +4,14 @@
   "site_feed": "https://doctorite.ro/feed/",
   "mastodon": "https://social.5th.ro/@DoctoriteBlog",
   "mastodon_rss": "https://social.5th.ro/@DoctoriteBlog.rss",
-  "updated_at": "2026-07-31T09:52:38Z",
+  "updated_at": "2026-07-31T12:16:12Z",
   "site_posts": [
+    {
+      "title": "Când trebuie investigate durerile abdominale persistente?",
+      "link": "https://doctorite.ro/cand-trebuie-investigate-durerile-abdominale-persistente/",
+      "date": "Fri, 31 Jul 2026 08:32:01 +0000",
+      "summary": "Disconfortul din zona burticii apare foarte des în viața de zi cu zi. Totuși, atunci... Articolul Când trebuie investigate durerile abdominale persistente? apare prima dată în Doctorite ."
+    },
     {
       "title": "Cum să te pregătești pentru o ședință cu un psiholog online din confortul casei tale",
       "link": "https://doctorite.ro/cum-sa-te-pregatesti-pentru-o-sedinta-cu-un-psiholog-online-din-confortul-casei-tale/",
@@ -59,15 +65,15 @@
       "link": "https://doctorite.ro/rolul-magneziului-in-sanatatea-oaselor-si-prevenirea-osteoporozei/",
       "date": "Mon, 09 Mar 2026 13:50:42 +0000",
       "summary": "Magneziul are un rol crucial, adesea trecut cu vederea, în menținerea sănătății oaselor și prevenirea... Articolul Rolul magneziului în sănătatea oaselor și prevenirea osteoporozei apare prima dată în Doctorite ."
-    },
-    {
-      "title": "Cotele Dunării la Cernavodă în 2026: nivelul apei azi, grafic și tendințe",
-      "link": "https://doctorite.ro/cotele-dunarii-la-cernavoda-in-2026-nivelul-apei-azi-grafic-si-tendinte/",
-      "date": "Fri, 13 Feb 2026 08:38:11 +0000",
-      "summary": "Analiza rezultatelor din Google pentru cuvintele cheie vizate relevă faptul că majoritatea paginilor de top... Articolul Cotele Dunării la Cernavodă în 2026: nivelul apei azi, grafic și tendințe apare prima dată în Doctorite ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@DoctoriteBlog/117014397602810179",
+      "date": "Fri, 31 Jul 2026 11:40:10 +0000",
+      "content": "Disconfortul din zona burticii apare foarte des în viața de zi cu zi. Totuși, atunci când suferința nu dispare, corpul îți trimite un semnal clar de alarmă. Poate fi vorba despre o simplă indigestie sau despre o afecțiune mai complexă. Din păcate, mulți oameni amână vizita la medic și speră că problema se va rezolva… https:// doctorite.ro/cand-trebuie-inve stigate-durerile-abdominale-persistente/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@DoctoriteBlog/116888902453693119",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@DoctoriteBlog/115859506162962309",
       "date": "Thu, 08 Jan 2026 12:36:05 +0000",
       "content": "Sezonul rece vine adesea la pachet cu schimbări de temperatură, mai puține ore de lumină naturală și un stil de viață mai sedentar. Toți acești factori pot influența capacitatea organismului de a se adapta și de a face față provocărilor zilnice. De aceea, susținerea imunității devine o prioritate în lunile de toamnă și iarnă, când… https:// doctorite.ro/sustinerea-imunit atii-in-sezonul-rece-ce-trebuie-sa-stii/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@DoctoriteBlog/115767677676503542",
-      "date": "Tue, 23 Dec 2025 07:22:53 +0000",
-      "content": "Etapele tratamentului cu aparat dentar invizibil. Iată în ce constă procesul de la A la Z Tratamentul ortodontic a cunoscut o transformare majoră în ultimii ani, iar una dintre cele mai căutate soluții este, fără îndoială, aparatul invizibil, o alternativă modernă care răspunde atât nevoilor funcționale, cât și celor estetice. Tot mai mulți pacienți își… https:// doctorite.ro/etapele-tratament ului-cu-aparat-dentar-invizibil/"
     }
   ]
 }

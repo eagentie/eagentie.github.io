@@ -4,8 +4,14 @@
   "site_feed": "https://clinic-sanatos.ro/feed/",
   "mastodon": "https://social.5th.ro/@clinic_sanatos",
   "mastodon_rss": "https://social.5th.ro/@clinic_sanatos.rss",
-  "updated_at": "2026-07-31T09:52:32Z",
+  "updated_at": "2026-07-31T12:16:06Z",
   "site_posts": [
+    {
+      "title": "Obstrucția intestinală: cauze, simptome și tratament",
+      "link": "https://clinic-sanatos.ro/obstructia-intestinala-cauze-simptome-si-tratament/",
+      "date": "Fri, 31 Jul 2026 08:32:01 +0000",
+      "summary": "Durerile abdominale severe pot apărea brusc și vă pot da peste cap întreaga zi. Atunci... Articolul Obstrucția intestinală: cauze, simptome și tratament apare prima dată în Clinic Sanatos ."
+    },
     {
       "title": "Motion Clinic – recuperare medicală, fizioterapie și kinetoterapie pentru o viață activă",
       "link": "https://clinic-sanatos.ro/motion-clinic-recuperare-medicala-snagov/",
@@ -71,15 +77,15 @@
       "link": "https://clinic-sanatos.ro/mastodon-wordpress-plugin-optiuni-pentru-programare-si-intervale-de-postare/",
       "date": "Wed, 17 Dec 2025 16:58:54 +0000",
       "summary": "Ați petrecut ore întregi creând conținut valoros pe WordPress, dar simțiți că efortul de a-l... Articolul Mastodon WordPress plugin: opțiuni pentru programare și intervale de postare apare prima dată în Clinic Sanatos ."
-    },
-    {
-      "title": "Suplimente alimentare gravide: beneficiile Oligobs Prenatal cu Omega 3 în dezvoltarea sarcinii",
-      "link": "https://clinic-sanatos.ro/suplimente-alimentare-gravide-beneficiile-oligobs-prenatal-cu-omega-3-in-dezvoltarea-sarcinii/",
-      "date": "Mon, 15 Dec 2025 15:22:49 +0000",
-      "summary": "Importanta nutritiei in timpul sarcinii Sarcina este, fara doar si poate, o perioada definitorie atat... Articolul Suplimente alimentare gravide: beneficiile Oligobs Prenatal cu Omega 3 în dezvoltarea sarcinii apare prima dată în Clinic Sanatos ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@clinic_sanatos/117014445827090870",
+      "date": "Fri, 31 Jul 2026 11:52:26 +0000",
+      "content": "Durerile abdominale severe pot apărea brusc și vă pot da peste cap întreaga zi. Atunci când alimentele și lichidele nu mai pot trece prin tubul digestiv, corpul trimite semnale de alarmă clare. Această blocare a tranzitului reprezintă o obstrucție intestinală și necesită atenție medicală imediată. Un diagnostic rapid este esențial pentru a preveni complicațiile grave.… .... https:// clinic-sanatos.ro/obstructia-i ntestinala-cauze-simptome-si-tratament/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@clinic_sanatos/116713696507726115",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@clinic_sanatos/115724266557172256",
       "date": "Mon, 15 Dec 2025 15:22:52 +0000",
       "content": "Importanta nutritiei in timpul sarciniiSarcina este, fara doar si poate, o perioada definitorie atat pentru sanatatea mamei, cat si pentru dezvoltarea armonioasa a fatului. O alimentatie echilibrata si suplimentele adecvate sunt factori esentiali in aceasta perioada. Pentru ca necesarul de vitamine, minerale si acizi grasi esentiali creste substantial, multe femei .... https:// clinic-sanatos.ro/suplimente-a limentare-gravide-beneficiile-oligobs-prenatal-cu-omega-3-in-dezvoltarea-sarcinii/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@clinic_sanatos/115694665239696785",
-      "date": "Wed, 10 Dec 2025 09:54:52 +0000",
-      "content": "În spatele fiecărei zile productive se află o noapte de somn de calitate. Deși de multe ori nu îi acordăm atenția cuvenită, salteaua este elementul care susține acest proces esențial de refacere. Corpul are nevoie de un suport corect pentru a se relaxa complet, iar mintea are nevoie de stabilitate pentru a intra în somnul… .... https:// clinic-sanatos.ro/salteaua-spr ijinul-invizibil-al-sanatatii-tale-zilnice/"
     }
   ]
 }

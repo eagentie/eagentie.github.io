@@ -4,8 +4,14 @@
   "site_feed": "https://bizwoman.ro/feed/",
   "mastodon": "https://social.5th.ro/@BIZWoman",
   "mastodon_rss": "https://social.5th.ro/@BIZWoman.rss",
-  "updated_at": "2026-07-31T09:52:57Z",
+  "updated_at": "2026-07-31T12:16:35Z",
   "site_posts": [
+    {
+      "title": "Tumorile digestive: când este indicată intervenția chirurgicală?",
+      "link": "https://bizwoman.ro/tumorile-digestive-cand-este-indicata-interventia-chirurgicala/",
+      "date": "Fri, 31 Jul 2026 08:32:01 +0000",
+      "summary": "Tulburările digestive severe pot ascunde afecțiuni grave pe care nu trebuie să le ignorăm sub&#8230; Articolul Tumorile digestive: când este indicată intervenția chirurgicală? apare prima dată în Biz Woman ."
+    },
     {
       "title": "Ghidul tău pentru garderoba capsulă de vară – cum să combini eleganța, confortul și sustenabilitatea",
       "link": "https://bizwoman.ro/ghidul-tau-pentru-garderoba-capsula-de-vara-cum-sa-combini-eleganta-confortul-si-sustenabilitatea/",
@@ -59,15 +65,15 @@
       "link": "https://bizwoman.ro/cand-se-recomanda-colecistectomia-laparoscopica/",
       "date": "Sun, 10 May 2026 06:30:00 +0000",
       "summary": "Suferi de dureri abdominale severe, apărute brusc după mesele mai bogate în grăsimi? Senzația de&#8230; Articolul Când se recomandă colecistectomia laparoscopică apare prima dată în Biz Woman ."
-    },
-    {
-      "title": "Mini-vacanța de 1 Mai în aer liber: idei de plimbări, drumeții și gustări sănătoase pentru zile active",
-      "link": "https://bizwoman.ro/mini-vacanta-de-1-mai-in-aer-liber-idei-de-plimbari-drumetii-si-gustari-sanatoase-pentru-zile-active/",
-      "date": "Thu, 23 Apr 2026 11:10:44 +0000",
-      "summary": "Mini-vacanța de 1 Mai este, pentru mulți, prilej de petrecut timpul în aer liber —&#8230; Articolul Mini-vacanța de 1 Mai în aer liber: idei de plimbări, drumeții și gustări sănătoase pentru zile active apare prima dată în Biz Woman ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@BIZWoman/117014403109999869",
+      "date": "Fri, 31 Jul 2026 11:41:34 +0000",
+      "content": "📄Tulburările digestive severe pot ascunde afecțiuni grave pe care nu trebuie să le ignorăm sub nicio formă. Un disconfort abdominal care persistă timp de mai multe săptămâni poate fi primul semn al unei probleme de sănătate complexe. Medicii recomandă să fim mereu atenți la semnalele pe care le transmite organismul nostru. În fiecare an, mulți… 📄 https:// bizwoman.ro/tumorile-digestive -cand-este-indicata-interventia-chirurgicala/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@BIZWoman/116957090618057763",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@BIZWoman/116172680774556289",
       "date": "Wed, 04 Mar 2026 20:00:30 +0000",
       "content": "📄Cum se face că două mașini care par să facă aceeași treabă scot, la final de lună, facturi complet diferite? Sistemul de localizare GPS auto îți dă răspunsul rapid, pentru că nu mai conduci afacerea „după telefon” și presupuneri, ci după date: unde a fost mașina, cât a stat pe loc, ce traseu a urmat… 📄 https:// bizwoman.ro/localizare-gps-aut o-cum-functioneaza-si-ce-beneficii-ai/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@BIZWoman/116172558914152907",
-      "date": "Wed, 04 Mar 2026 19:29:31 +0000",
-      "content": "📄MORE Networking celebrează 10 ani printr-o conferință despre puterea conexiunilor și comunităților O zi intensă de discuții, paneluri și networking dedicată liderilor de comunități, antreprenorilor și managerilor. Pe 26 martie 2026, la Aurrum Palace, are loc Conferința Anuală MORE Networking 2026 – o ediție specială care marchează 10 ani de la lansarea uneia dintre cele… 📄 https:// bizwoman.ro/more-networking-10 -ani-printr-o-conferinta-despre-puterea-conexiunilor-si-comunitatilor/"
     }
   ]
 }

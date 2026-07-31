@@ -4,8 +4,14 @@
   "site_feed": "https://clasici.ro/feed/",
   "mastodon": "https://social.5th.ro/@clasici",
   "mastodon_rss": "https://social.5th.ro/@clasici.rss",
-  "updated_at": "2026-07-31T09:52:09Z",
+  "updated_at": "2026-07-31T12:15:37Z",
   "site_posts": [
+    {
+      "title": "Laparoscopia: când este recomandată și ce avantaje oferă",
+      "link": "https://clasici.ro/laparoscopia-cand-este-recomandata-si-ce-avantaje-ofera/",
+      "date": "Fri, 31 Jul 2026 08:32:01 +0000",
+      "summary": "Gândul la o intervenție chirurgicală provoacă anxietate oricărui pacient. Inciziile mari, durerile intense și spitalizarea..."
+    },
     {
       "title": "Ce deserturi tradiționale merită încercate în Roma",
       "link": "https://clasici.ro/ce-deserturi-traditionale-merita-incercate-in-roma/",
@@ -71,15 +77,15 @@
       "link": "https://clasici.ro/seo-pentru-website-uri-mari-cum-gestionezi-mii-de-pagini-fara-haos/",
       "date": "Fri, 14 Nov 2025 07:32:14 +0000",
       "summary": "Vă confruntați cu provocarea gestionării unui website cu mii sau chiar zeci de mii de..."
-    },
-    {
-      "title": "Cum să îți vopsești corect șuvițele și să obții un look spectaculos",
-      "link": "https://clasici.ro/cum-sa-iti-vopsesti-corect-suvitele-si-sa-obtii-un-look-spectaculos/",
-      "date": "Wed, 08 Oct 2025 07:56:35 +0000",
-      "summary": "Schimbarea culorii părului rămâne una dintre cele mai accesibile și creative modalități de a-ți exprima..."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@clasici/117014429817955309",
+      "date": "Fri, 31 Jul 2026 11:48:21 +0000",
+      "content": "⭐Gândul la o intervenție chirurgicală provoacă anxietate oricărui pacient. Inciziile mari, durerile intense și spitalizarea lungă sunt principalele temeri. Din fericire, medicina modernă a evoluat extrem de mult în ultimele decenii. Astăzi, foarte multe afecțiuni pot fi tratate rapid, fără incizii mari și fără suferință inutilă. Tehnologia modernă permite realizarea intervențiilor prin tăieturi minuscule, de… ⭐ https:// clasici.ro/laparoscopia-cand-e ste-recomandata-si-ce-avantaje-ofera/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@clasici/116793588093054579",

@@ -4,8 +4,14 @@
   "site_feed": "https://iEnergie.ro/feed/",
   "mastodon": "https://social.5th.ro/@ienergie",
   "mastodon_rss": "https://social.5th.ro/@ienergie.rss",
-  "updated_at": "2026-07-31T09:52:49Z",
+  "updated_at": "2026-07-31T12:16:25Z",
   "site_posts": [
+    {
+      "title": "Cancerul de apendice: o afecțiune rară care necesită tratament specializat",
+      "link": "https://ienergie.ro/cancerul-de-apendice-o-afectiune-rara-care-necesita-tratament-specializat/",
+      "date": "Fri, 31 Jul 2026 08:32:01 +0000",
+      "summary": "Durerile abdominale bruște ne trimit de cele mai multe ori rapid la medic. În majoritatea cazurilor, ne gândim la o simplă apendicită acută. Totuși, există [Mai mult...] Articolul Cancerul de apendice: o afecțiune rară care necesită tratament specializat apare prima dată în iEnergie ."
+    },
     {
       "title": "Economia socială: o cale cu sens pentru cei care vor un loc de muncă stabil",
       "link": "https://ienergie.ro/economia-sociala-o-cale-cu-sens-pentru-cei-care-vor-un-loc-de-munca-stabil/",
@@ -71,15 +77,15 @@
       "link": "https://ienergie.ro/strategia-comisiei-europene-vizeaza-constructia-primelor-centrale-de-fuziune-pe-teritoriul-europei/",
       "date": "Wed, 21 Jan 2026 05:08:49 +0000",
       "summary": "Comisia Europeană dezvoltă o strategie pentru dezvoltarea centralelor de fuziune nucleară și eliminarea gazelor rusești, sporind independența UE. Articolul Strategia Comisiei Europene vizează construcția primelor centrale de fuziune pe teritoriul Europei apare prima dată în iEnergie ."
-    },
-    {
-      "title": "Sursele regenerabile au furnizat aproape 50% din necesarul de electricitate al UE pe parcursul anului 2024",
-      "link": "https://ienergie.ro/sursele-regenerabile-au-furnizat-aproape-50-din-necesarul-de-electricitate-al-ue-pe-parcursul-anului-2024/",
-      "date": "Tue, 20 Jan 2026 08:16:44 +0000",
-      "summary": "În decursul anului 2024, sursele de energie regenerabilă au atins o pondere semnificativă de 47,5% din consumul brut de electricitate la nivelul Uniunii Europene. Această [Mai mult...] Articolul Sursele regenerabile au furnizat aproape 50% din necesarul de electricitate al UE pe parcursul anului 2024 apare prima dată în iEnergie ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@ienergie/117014519817811473",
+      "date": "Fri, 31 Jul 2026 12:11:15 +0000",
+      "content": "Durerile abdominale bruște ne trimit de cele mai multe ori rapid la medic. În majoritatea cazurilor, ne gândim la o simplă apendicită acută. Totuși, există situații rare în care investigațiile relevă o patologie mult mai complexă. Este vorba despre un cancer apendice, o afecțiune neoplazică despre care se vorbește destul de puțin. Această formă de… https:// ienergie.ro/cancerul-de-apendi ce-o-afectiune-rara-care-necesita-tratament-specializat/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@ienergie/116917639014594289",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@ienergie/115931839768689163",
       "date": "Wed, 21 Jan 2026 07:11:28 +0000",
       "content": "Comisia Europeană dezvoltă o strategie pentru dezvoltarea centralelor de fuziune nucleară și eliminarea gazelor rusești, sporind independența UE. https:// ienergie.ro/strategia-comisiei -europene-vizeaza-constructia-primelor-centrale-de-fuziune-pe-teritoriul-europei/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@ienergie/115926434209252137",
-      "date": "Tue, 20 Jan 2026 08:16:46 +0000",
-      "content": "https:// ienergie.ro/sursele-regenerabi le-au-furnizat-aproape-50-din-necesarul-de-electricitate-al-ue-pe-parcursul-anului-2024/"
     }
   ]
 }

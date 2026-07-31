@@ -4,8 +4,14 @@
   "site_feed": "https://cutremurul.ro/feed/",
   "mastodon": "https://social.5th.ro/@cutremur",
   "mastodon_rss": "https://social.5th.ro/@cutremur.rss",
-  "updated_at": "2026-07-31T09:51:43Z",
+  "updated_at": "2026-07-31T12:15:07Z",
   "site_posts": [
+    {
+      "title": "Cancerul esofagian: rolul chirurgiei în tratamentul multidisciplinar",
+      "link": "https://cutremurul.ro/cancerul-esofagian-rolul-chirurgiei-in-tratamentul-multidisciplinar/",
+      "date": "Fri, 31 Jul 2026 08:32:01 +0000",
+      "summary": "Dificultatea la înghițire poate părea o problemă minoră la început. Totuși, acest simptom poate ascunde o afecțiune severă din sfera digestivă. Diagnosticul de cancer esofagian aduce de obicei multă teamă și incertitudine în viața oricărui pacient. Medicina modernă a evoluat însă spectaculos în ultimii ani. Astăzi, un tratament oncologic bine structurat oferă șanse reale de [&#8230;] Articolul Cancerul esofagian: rolul chirurgiei în tratamentul multidisciplinar apare prima dată în Cutremur ."
+    },
     {
       "title": "Cum alegi locuința ideală în București: soluții moderne pentru un stil de viață premium",
       "link": "https://cutremurul.ro/cum-alegi-locuinta-ideala-in-bucuresti-solutii-moderne-pentru-un-stil-de-viata-premium/",
@@ -59,15 +65,15 @@
       "link": "https://cutremurul.ro/ingrijirea-picioarelor-si-igiena-intima-la-seniori/",
       "date": "Mon, 15 Dec 2025 14:06:02 +0000",
       "summary": "Odată cu înaintarea în vârstă, corpul trece printr-o serie de transformări fiziologice care impun o adaptare a rutinei zilnice de îngrijire și protecție. Pielea devine mai subțire, își pierde elasticitatea și funcția de barieră naturală, circulația sanguină periferică încetinește, iar controlul asupra funcțiilor fiziologice poate deveni o provocare. Aceste schimbări nu trebuie privite ca o [&#8230;] Articolul Îngrijirea picioarelor și igiena intimă la seniori apare prima dată în Cutremur ."
-    },
-    {
-      "title": "Jocuri de început și de final de petrecere ca să eviți haosul",
-      "link": "https://cutremurul.ro/jocuri-de-inceput-si-de-final-de-petrecere-ca-sa-eviti-haosul/",
-      "date": "Fri, 12 Dec 2025 09:22:59 +0000",
-      "summary": "Orice părinte care a organizat vreodată o aniversare știe că succesul evenimentului nu se măsoară doar în calitatea tortului sau în spectaculozitatea decorațiunilor, ci în atmosfera generală și în modul în care se desfășoară interacțiunea dintre copii. O greșeală frecventă în planificarea petrecerilor este concentrarea exclusivă pe &#8222;miezul&#8221; acțiunii – momentul tortului și orele de [&#8230;] Articolul Jocuri de început și de final de petrecere ca să eviți haosul apare prima dată în Cutremur ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@cutremur/117014451224454986",
+      "date": "Fri, 31 Jul 2026 11:53:48 +0000",
+      "content": "Dificultatea la înghițire poate părea o problemă minoră la început. Totuși, acest simptom poate ascunde o afecțiune severă din sfera digestivă. Diagnosticul de cancer esofagian aduce de obicei multă teamă și incertitudine în viața oricărui pacient. Medicina modernă a evoluat însă spectaculos în ultimii ani. Astăzi, un tratament oncologic bine structurat oferă șanse reale de… https:// cutremurul.ro/cancerul-esofagi an-rolul-chirurgiei-in-tratamentul-multidisciplinar/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@cutremur/116608201651643087",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@cutremur/115706017006574418",
       "date": "Fri, 12 Dec 2025 10:01:46 +0000",
       "content": "Te simți copleșit de zgomotul digital? Ai impresia că mesajul tău se pierde printre mii de reclame plictisitoare? Nu ești singur. Pentru o promovare afaceri eficientă, metodele clasice de publicitate își pierd rapid eficacitatea. În acest context, este vital să te adapți rapid, mai ales când vorbim despre ce aduce noul val al marketing 2025.… https:// cutremurul.ro/strategii-de-pub licare-advertoriale-in-2025-pentru-afaceri-mici/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@cutremur/115706016776958104",
-      "date": "Fri, 12 Dec 2025 10:01:43 +0000",
-      "content": "Ești gata să intri în acțiune, dar te simți copleșit când trebuie să decizi care sunt cele mai puternice mâini poker? Dacă ai simțit vreodată confuzie în fața teancului de jetoane, nu ești singur. Mulți jucători noi, și chiar unii experimentați, au nevoie de o referință clară pentru a lua decizii rapide la masă. Stăpânirea… https:// cutremurul.ro/ierarhia-mainilo r-de-poker-explicata-pe-intelesul-tuturor/"
     }
   ]
 }
