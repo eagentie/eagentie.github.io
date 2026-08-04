@@ -4,8 +4,14 @@
   "site_feed": "https://top15.ro/feed/",
   "mastodon": "https://social.5th.ro/@top",
   "mastodon_rss": "https://social.5th.ro/@top.rss",
-  "updated_at": "2026-08-04T18:52:02Z",
+  "updated_at": "2026-08-04T20:43:41Z",
   "site_posts": [
+    {
+      "title": "Ce iti trebuie pentru inscrierea la Cresa in București Sector 1",
+      "link": "https://top15.ro/ce-iti-trebuie-pentru-inscrierea-la-cresa-in-bucuresti-sector-1/",
+      "date": "Tue, 04 Aug 2026 20:15:53 +0000",
+      "summary": "Gasirea locului ideal pentru cel mic reprezinta una dintre cele mai mari provocari pentru parintii... Articolul Ce iti trebuie pentru inscrierea la Cresa in București Sector 1 apare prima dată în TOP 15 ."
+    },
     {
       "title": "15 verificări utile înainte să cumperi echipament sportiv second-hand",
       "link": "https://top15.ro/15-verificari-echipament-sportiv-second-hand/",
@@ -71,15 +77,15 @@
       "link": "https://top15.ro/cele-mai-bune-zone-de-cazare-pentru-o-vacanta-in-zakynthos/",
       "date": "Thu, 18 Jun 2026 08:12:00 +0000",
       "summary": "Alegerea locului &#238;n care te cazezi &#238;ți poate schimba radical experiența &#238;n Zakynthos. Fiecare regiune... Articolul Cele mai bune zone de cazare pentru o vacanță în Zakynthos apare prima dată în TOP 15 ."
-    },
-    {
-      "title": "Care sunt semnele clare ale deficienței de magneziu și când este recomandată suplimentarea – simptome care pot fi trecute ușor cu vederea",
-      "link": "https://top15.ro/care-sunt-semnele-clare-ale-deficientei-de-magneziu-si-cand-este-recomandata-suplimentarea-simptome-care-pot-fi-trecute-usor-cu-vederea/",
-      "date": "Wed, 10 Jun 2026 03:56:26 +0000",
-      "summary": "Organismul folosește magneziul în sute de procese zilnice. Acest mineral contribuie la funcționarea sistemului nervos,... Articolul Care sunt semnele clare ale deficienței de magneziu și când este recomandată suplimentarea – simptome care pot fi trecute ușor cu vederea apare prima dată în TOP 15 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@top/117039075003243366",
+      "date": "Tue, 04 Aug 2026 20:15:57 +0000",
+      "content": "📰Gasirea locului ideal pentru cel mic reprezinta una dintre cele mai mari provocari pentru parintii din capitala. Atunci cand vine vorba de educatie timpurie, siguranta, confort si dezvoltare armonioasa, optiunile pot parea coplesitoare. Procesul de inscriere aduce adesea emotii mari, dar si o multime de intrebari administrative. Daca esti in cautarea unei solutii premium, o… 📰 https:// top15.ro/ce-iti-trebuie-pentru -inscrierea-la-cresa-in-bucuresti-sector-1/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@top/117013589660609656",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@top/116793572233475210",
       "date": "Mon, 22 Jun 2026 11:41:22 +0000",
       "content": "📰Alegerea locului în care te cazezi îți poate schimba radical experiența în Zakynthos. Fiecare regiune a acestei insule ionice are o atmosferă proprie și atrage tipuri diferite de turiști. Dacă rezervi o cameră într-o stațiune nepotrivită pentru stilul tău, riști să ai concediul dat peste cap. Insula îmbină zonele de petrecere intensă cu sate pescărești… 📰 https:// top15.ro/cele-mai-bune-zone-de -cazare-pentru-o-vacanta-in-zakynthos/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@top/116723796515358916",
-      "date": "Wed, 10 Jun 2026 03:56:29 +0000",
-      "content": "📰Organismul folosește magneziul în sute de procese zilnice. Acest mineral contribuie la funcționarea sistemului nervos, susține activitatea musculară și participă la producerea energiei celulare. Atunci când rezervele scad, corpul începe să transmită semnale care par, la prima vedere, lipsite de legătură între ele.Mulți oameni asociază 📰 https:// top15.ro/care-sunt-semnele-cla re-ale-deficientei-de-magneziu-si-cand-este-recomandata-suplimentarea-simptome-care-pot-fi-trecute-usor-cu-vederea/"
     }
   ]
 }

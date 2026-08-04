@@ -4,8 +4,14 @@
   "site_feed": "https://constructii360.ro/feed/",
   "mastodon": "https://social.5th.ro/@constructii360",
   "mastodon_rss": "https://social.5th.ro/@constructii360.rss",
-  "updated_at": "2026-08-04T18:50:48Z",
+  "updated_at": "2026-08-04T20:42:28Z",
   "site_posts": [
+    {
+      "title": "Impactul toaletelor publice și al celor ecologice asupra igienei",
+      "link": "https://constructii360.ro/impactul-toaletelor-publice-si-al-celor-ecologice-asupra-igienei/",
+      "date": "Tue, 04 Aug 2026 20:14:36 +0000",
+      "summary": "În orașele aglomerate și în zonele turistice, accesul la o toaletă publică este o necesitate Articolul Impactul toaletelor publice și al celor ecologice asupra igienei apare prima dată în Constructii 360 ."
+    },
     {
       "title": "Metastazele hepatice: când poate ajuta chirurgia?",
       "link": "https://constructii360.ro/metastazele-hepatice-cand-poate-ajuta-chirurgia/",
@@ -59,15 +65,15 @@
       "link": "https://constructii360.ro/daunatorii-probleme-invizibile-care-pot-aparea-in-locuinte-la-cateva-luni-dupa-renovare/",
       "date": "Mon, 02 Mar 2026 11:33:19 +0000",
       "summary": "Renovarea unei locuințe oferă impresia unui spațiu nou, sigur și lipsit de probleme. Totuși, în Articolul Daunatorii- Probleme invizibile care pot apărea în locuințe la câteva luni după renovare apare prima dată în Constructii 360 ."
-    },
-    {
-      "title": "Polistiren pentru izolații eficiente: ce grosime și ce tip alegi",
-      "link": "https://constructii360.ro/polistiren-pentru-izolatii-eficiente-ce-grosime-si-ce-tip-alegi/",
-      "date": "Thu, 26 Feb 2026 13:25:46 +0000",
-      "summary": "Izolația termică este o necesitate clară pentru orice locuință modernă, pentru că ne dorim să Articolul Polistiren pentru izolații eficiente: ce grosime și ce tip alegi apare prima dată în Constructii 360 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@constructii360/117039069738219229",
+      "date": "Tue, 04 Aug 2026 20:14:37 +0000",
+      "content": "🆕În orașele aglomerate și în zonele turistice, accesul la o toaletă publică este o necesitate esențială pentru asigurarea unui confort minimal și a unei igiene corecte. Totuși, aceste facilități nu sunt întotdeauna gestionate corespunzător, ceea ce poate cauza apariția unor probleme de igienă și de sănătate publică. Pe de altă parte, o toaletă ecologică, ce… https:// constructii360.ro/impactul-toa letelor-publice-si-al-celor-ecologice-asupra-igienei/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@constructii360/117014545677757309",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@constructii360/116137154752272122",
       "date": "Thu, 26 Feb 2026 13:25:46 +0000",
       "content": "🆕Izolația termică este o necesitate clară pentru orice locuință modernă, pentru că ne dorim să reducem costurile la energie, un confort termic sporit în interior și să protejăm structura clădirii în care locuim sau în care ne desfășurăm activitatea.Foto: izolare.jpg Izolația termică este o necesitate clară pentru orice locuință modernă, pentru că ne dorim să… https:// constructii360.ro/polistiren-p entru-izolatii-eficiente-ce-grosime-si-ce-tip-alegi/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@constructii360/116041305211879037",
-      "date": "Mon, 09 Feb 2026 15:09:58 +0000",
-      "content": "🆕Sursa imagine: freepik.com Dezvoltarea urbană nu mai este de mult un concept abstract rezervat marilor orașe. Se vede în străzi lărgite, cartiere noi, infrastructură modernizată și zone care, în doar câțiva ani, își schimbă complet fața. Pentru cei implicați în construcții, proiectare sau investiții imobiliare, aceste transformări vin la pachet cu o întrebare esențială: unde… https:// constructii360.ro/cum-influent eaza-evolutia-urbana-valoarea-unei-investitii/"
     }
   ]
 }

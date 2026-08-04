@@ -4,8 +4,20 @@
   "site_feed": "https://partizani.ro/feed/",
   "mastodon": "https://social.5th.ro/@Partizani",
   "mastodon_rss": "https://social.5th.ro/@Partizani.rss",
-  "updated_at": "2026-08-04T18:51:23Z",
+  "updated_at": "2026-08-04T20:43:03Z",
   "site_posts": [
+    {
+      "title": "Testarea instalatiilor fotovoltaice: echipamente, metode si verificari obligatorii",
+      "link": "https://partizani.ro/testarea-instalatiilor-fotovoltaice-echipamente-metode-si-verificari-obligatorii/",
+      "date": "Tue, 04 Aug 2026 20:19:36 +0000",
+      "summary": "O instalatie fotovoltaica nu poate fi validata doar prin confirmarea ca invertorul injecteaza energie. Un sistem poate produce, dar sa aiba polaritate gresita pe un circuit neconectat, rezistenta de izolatie redusa, conectori incalziti, siruri dezechilibrate sau module afectate de umbrire si diode bypass active. Testarea corecta separa trei obiective: siguranta [&#8230;] Articolul Testarea instalatiilor fotovoltaice: echipamente, metode si verificari obligatorii apare prima dată în Partizani ."
+    },
+    {
+      "title": "Intrebari pentru prima vizita cand alegi cresa in Bucuresti",
+      "link": "https://partizani.ro/intrebari-pentru-prima-vizita-cand-alegi-cresa-in-bucuresti/",
+      "date": "Tue, 04 Aug 2026 20:09:22 +0000",
+      "summary": "Separarea de cel mic este, fara doar si poate, unul dintre cele mai dificile momente din viata de parinte. Gandul ca iti lasi puiul intr-un mediu strain iti poate aduce o multime de emotii si frici destul de mari. Totusi, alegerea unei institutii potrivite are puterea sa transforme aceasta tranzitie [&#8230;] Articolul Intrebari pentru prima vizita cand alegi cresa in Bucuresti apare prima dată în Partizani ."
+    },
     {
       "title": "Cât de des trebuie spălate covoarele din casă pentru un aer mai curat? Află ce spun specialiștii în curățenie",
       "link": "https://partizani.ro/cat-de-des-trebuie-spalate-covoarele-din-casa-pentru-un-aer-mai-curat-afla-ce-spun-specialistii-in-curatenie/",
@@ -53,18 +65,6 @@
       "link": "https://partizani.ro/detalii-care-aduc-armonie/",
       "date": "Fri, 10 Apr 2026 08:51:48 +0000",
       "summary": "Armonia unei încăperi nu este rezultatul întâmplării, ci al unor alegeri atente, în care fiecare element contribuie la echilibrul general. Texturile, proporțiile și finisajele definesc atmosfera, iar intervențiile discrete pot avea un impact surprinzător. În colecțiile Diego, atenția pentru detalii se reflectă în soluții care îmbină estetica și funcționalitatea. Echilibrul [&#8230;] Articolul Detalii care aduc armonie apare prima dată în Partizani ."
-    },
-    {
-      "title": "Filtrele pentru țigări rulate: ce ascund în interior și cum îți influențează experiența",
-      "link": "https://partizani.ro/filtrele-pentru-tigari-rulate-ce-ascund-in-interior-si-cum-iti-influenteaza-experienta/",
-      "date": "Mon, 23 Mar 2026 08:10:03 +0000",
-      "summary": "Dacă obișnuiești să folosești țigări rulate, probabil ai observat că filtrele nu sunt toate la fel. Unele sunt mai dense, altele mai aerisite, unele par să „tragă” mai ușor, în timp ce altele modifică vizibil gustul. Deși par un detaliu minor, filtrele au un rol tehnic bine definit și pot [&#8230;] Articolul Filtrele pentru țigări rulate: ce ascund în interior și cum îți influențează experiența apare prima dată în Partizani ."
-    },
-    {
-      "title": "De ce aleg tot mai multe companii să externalizeze serviciile de relații cu clienții",
-      "link": "https://partizani.ro/de-ce-aleg-tot-mai-multe-companii-sa-externalizeze-serviciile-de-relatii-cu-clientii/",
-      "date": "Mon, 16 Mar 2026 15:10:52 +0000",
-      "summary": "În ultimii ani, modul în care companiile gestionează relația cu clienții s-a schimbat semnificativ. Consumatorii se așteaptă la răspunsuri rapide, suport profesionist și soluții eficiente, indiferent de canalul de comunicare folosit. Pentru multe organizații, gestionarea internă a tuturor interacțiunilor cu clienții poate deveni costisitoare și dificil de scalat. Din acest [&#8230;] Articolul De ce aleg tot mai multe companii să externalizeze serviciile de relații cu clienții apare prima dată în Partizani ."
     }
   ],
   "mastodon_posts": []

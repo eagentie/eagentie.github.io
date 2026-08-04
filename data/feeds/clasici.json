@@ -4,8 +4,20 @@
   "site_feed": "https://clasici.ro/feed/",
   "mastodon": "https://social.5th.ro/@clasici",
   "mastodon_rss": "https://social.5th.ro/@clasici.rss",
-  "updated_at": "2026-08-04T18:50:57Z",
+  "updated_at": "2026-08-04T20:42:37Z",
   "site_posts": [
+    {
+      "title": "Castig, banda si zgomot: parametrii esentiali ai unui amplificator de semnal",
+      "link": "https://clasici.ro/castig-banda-si-zgomot-parametrii-esentiali-ai-unui-amplificator-de-semnal/",
+      "date": "Tue, 04 Aug 2026 20:19:24 +0000",
+      "summary": "Un amplificator nu este potrivit doar pentru ca poate mari un semnal de zece ori...."
+    },
+    {
+      "title": "Invatarea prin joaca. Importanta grădiniței în dezvoltarea copilului",
+      "link": "https://clasici.ro/invatarea-prin-joaca-importanta-gradinitei-in-dezvoltarea-copilului/",
+      "date": "Tue, 04 Aug 2026 20:12:29 +0000",
+      "summary": "Primii ani din viata unui copil reprezinta o perioada de maxima plasticitate cerebrala, un interval..."
+    },
     {
       "title": "Laparoscopia: când este recomandată și ce avantaje oferă",
       "link": "https://clasici.ro/laparoscopia-cand-este-recomandata-si-ce-avantaje-ofera/",
@@ -65,21 +77,21 @@
       "link": "https://clasici.ro/cum-combini-pasiunea-pentru-poker-si-pariuri-sportive-fara-sa-ti-distrugi-banca/",
       "date": "Sat, 15 Nov 2025 10:03:28 +0000",
       "summary": "Mulți pasionați de jocuri de strategie și adrenalină se regăsesc la intersecția dintre două lumi..."
-    },
-    {
-      "title": "Serile de poker cu prietenii: reguli simple pentru un joc corect și amuzant",
-      "link": "https://clasici.ro/serile-de-poker-cu-prietenii-reguli-simple-pentru-un-joc-corect-si-amuzant/",
-      "date": "Fri, 14 Nov 2025 09:07:58 +0000",
-      "summary": "Te-ai săturat de aceleași întâlniri plictisitoare cu prietenii? Vrei să aduci un element de competiție,..."
-    },
-    {
-      "title": "SEO pentru website-uri mari: cum gestionezi mii de pagini fără haos",
-      "link": "https://clasici.ro/seo-pentru-website-uri-mari-cum-gestionezi-mii-de-pagini-fara-haos/",
-      "date": "Fri, 14 Nov 2025 07:32:14 +0000",
-      "summary": "Vă confruntați cu provocarea gestionării unui website cu mii sau chiar zeci de mii de..."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@clasici/117039088714109095",
+      "date": "Tue, 04 Aug 2026 20:19:26 +0000",
+      "content": "⭐Un amplificator nu este potrivit doar pentru ca poate mari un semnal de zece ori. El trebuie sa furnizeze amplitudinea ceruta pe intreaga banda de lucru, in sarcina reala, fara compresie, limitare de curent, zgomot excesiv sau oscilatii.In laborator, cele mai multe selectii gresite apar cand se compara numai castigul si tensiunea maxima de iesire.… ⭐ https:// clasici.ro/castig-banda-si-zgo mot-parametrii-esentiali-ai-unui-amplificator-de-semnal/"
+    },
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@clasici/117039061660271709",
+      "date": "Tue, 04 Aug 2026 20:12:33 +0000",
+      "content": "⭐Primii ani din viata unui copil reprezinta o perioada de maxima plasticitate cerebrala, un interval unic in care se pun bazele intregii sale personalitati, ale modului in care va relationa cu ceilalti si ale dorintei sale de a explora lumea. In acest context, educatia timpurie devine un pilon esential, iar alegerea unei institutii potrivite nu… ⭐ https:// clasici.ro/invatarea-prin-joac a-importanta-gradinitei-in-dezvoltarea-copilului/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@clasici/117014429817955309",
@@ -139,18 +151,6 @@
       "link": "https://social.5th.ro/@clasici/115694858724536636",
       "date": "Wed, 10 Dec 2025 10:44:04 +0000",
       "content": "⭐Mulți pasionați de jocuri de strategie și adrenalină se regăsesc la intersecția dintre două lumi captivante: poker și pariuri sportive. Ambele activități necesită un grad înalt de analiză, gestionarea riscului și, cel mai important, control emoțional. Însă, deși par similare la prima vedere, abordarea financiară necesară pentru a avea succes în ambele domenii este fundamental… ⭐ https:// clasici.ro/cum-combini-pasiune a-pentru-poker-si-pariuri-sportive-fara-sa-ti-distrugi-banca/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@clasici/115694857582600117",
-      "date": "Wed, 10 Dec 2025 10:43:47 +0000",
-      "content": "⭐Te-ai săturat de aceleași întâlniri plictisitoare cu prietenii? Vrei să aduci un element de competiție, dar și multă distracție în serile voastre? (Attention) Mulți dintre noi ne dorim să organizăm o seară de poker cu prietenii, dar ne lovim de o problemă majoră: lipsa unui set de reguli corecte, unanim acceptate, care să transforme jocul… ⭐ https:// clasici.ro/serile-de-poker-cu- prietenii-reguli-simple-pentru-un-joc-corect-si-amuzant/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@clasici/115694820354670313",
-      "date": "Wed, 10 Dec 2025 10:34:19 +0000",
-      "content": "Lecturi clasice, autori mari, citate memorabile și recomandări de cărți care nu se demodează. Pentru cei care vor să redescopere literatura „de bază”. # literatura # clasici # carti # lectura https:// clasici.ro"
     }
   ]
 }
