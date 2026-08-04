@@ -4,8 +4,14 @@
   "site_feed": "https://EraTehnologica.ro/feed/",
   "mastodon": "https://social.5th.ro/@eratehnologica",
   "mastodon_rss": "https://social.5th.ro/@eratehnologica.rss",
-  "updated_at": "2026-08-04T14:42:21Z",
+  "updated_at": "2026-08-04T17:03:52Z",
   "site_posts": [
+    {
+      "title": "Lansarea proiectului „O nouă șansă independenței”",
+      "link": "https://eratehnologica.ro/lansarea-proiectului-o-noua-sansa-independentei/",
+      "date": "Tue, 04 Aug 2026 13:44:40 +0000",
+      "summary": "COMUNICAT DE PRESĂ Lansarea proiectului &#8222;O nouă șansă independenței&#8221; &#8211; Cod SMIS 354321 ASOCIAȚIA IZVORUL TĂMĂDUIRII MAVROGHENI, &#238;n parteneriat cu&#8230; Articolul Lansarea proiectului „O nouă șansă independenței” apare prima dată în Era Tehnologica ."
+    },
     {
       "title": "Chisturile și tumorile splinei: când este recomandată operația",
       "link": "https://eratehnologica.ro/chisturile-si-tumorile-splinei-cand-este-recomandata-operatia/",
@@ -71,15 +77,15 @@
       "link": "https://eratehnologica.ro/sit-go-pentru-incepatori-de-ce-sunt-ideale-pentru-a-invata-poker/",
       "date": "Sat, 15 Nov 2025 10:03:28 +0000",
       "summary": "V-ați simțit vreodată copleșit de complexitatea vastă a pokerului? Poate ați încercat să participați la marile turnee poker, dar v-ați&#8230; Articolul Sit &#038; Go pentru începători: de ce sunt ideale pentru a învăța poker apare prima dată în Era Tehnologica ."
-    },
-    {
-      "title": "Păcănele pe mobil: cum joci în siguranță de pe telefon sau tabletă",
-      "link": "https://eratehnologica.ro/pacanele-pe-mobil-cum-joci-in-siguranta-de-pe-telefon-sau-tableta/",
-      "date": "Fri, 14 Nov 2025 09:07:58 +0000",
-      "summary": "Atenție! Vă întrebați cum puteți accesa divertismentul digital oriunde v-ați afla? Popularitatea jocurilor de noroc pe dispozitivele mobile a explodat&#8230; Articolul Păcănele pe mobil: cum joci în siguranță de pe telefon sau tabletă apare prima dată în Era Tehnologica ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@eratehnologica/117038305685386366",
+      "date": "Tue, 04 Aug 2026 17:00:18 +0000",
+      "content": "COMUNICAT DE PRESĂ Lansarea proiectului „O nouă șansă independenței” – Cod SMIS 354321 ASOCIAȚIA IZVORUL TĂMĂDUIRII MAVROGHENI, în parteneriat cu CENTRUL ROMÂN PENTRU EDUCAȚIE ȘI DEZVOLTARE UMANĂ (CRED) și ASOCIAȚIA „CENTRUL DE PERFORMANȚĂ BEFORE &amp; AFTER SCHOOL CONIL”, anunță lansarea proiectului „O nouă șansă independenței”, Cod SMIS 354321, cofinanțat de Uniunea Europeană prin Programul Incluziune… .... https:// eratehnologica.ro/lansarea-pro iectului-o-noua-sansa-independentei/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@eratehnologica/117014634742278540",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@eratehnologica/115797209046058812",
       "date": "Sun, 28 Dec 2025 12:33:06 +0000",
       "content": "/tmp/tmpzpdonbjq.html .... https:// eratehnologica.ro/labioplastia -si-pierderea-senzatiilor-intime/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@eratehnologica/115797208768128457",
-      "date": "Sun, 28 Dec 2025 12:33:02 +0000",
-      "content": "/tmp/tmpbnxk2rb1.html .... https:// eratehnologica.ro/pancreatita- acuta/"
     }
   ]
 }

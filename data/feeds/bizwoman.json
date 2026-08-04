@@ -4,8 +4,14 @@
   "site_feed": "https://bizwoman.ro/feed/",
   "mastodon": "https://social.5th.ro/@BIZWoman",
   "mastodon_rss": "https://social.5th.ro/@BIZWoman.rss",
-  "updated_at": "2026-08-04T14:42:43Z",
+  "updated_at": "2026-08-04T17:04:40Z",
   "site_posts": [
+    {
+      "title": "Lansarea proiectului „O nouă șansă independenței”",
+      "link": "https://bizwoman.ro/lansarea-proiectului-o-noua-sansa-independentei/",
+      "date": "Tue, 04 Aug 2026 13:44:40 +0000",
+      "summary": "COMUNICAT DE PRESĂ Lansarea proiectului &#8222;O nouă șansă independenței&#8221; &#8211; Cod SMIS 354321 ASOCIAȚIA IZVORUL&#8230; Articolul Lansarea proiectului „O nouă șansă independenței” apare prima dată în Biz Woman ."
+    },
     {
       "title": "Tumorile digestive: când este indicată intervenția chirurgicală?",
       "link": "https://bizwoman.ro/tumorile-digestive-cand-este-indicata-interventia-chirurgicala/",
@@ -59,15 +65,15 @@
       "link": "https://bizwoman.ro/peste-20-000-de-vizitatori-au-celebrat-dreptul-fiecarui-copil-de-a-conta/",
       "date": "Fri, 29 May 2026 10:37:55 +0000",
       "summary": "In zilele de 23 si 24 mai 2026, Bucurestiul a gazduit cea mai importanta si&#8230; Articolul Peste 20.000 de vizitatori au celebrat dreptul fiecarui copil de a conta apare prima dată în Biz Woman ."
-    },
-    {
-      "title": "Când se recomandă colecistectomia laparoscopică",
-      "link": "https://bizwoman.ro/cand-se-recomanda-colecistectomia-laparoscopica/",
-      "date": "Sun, 10 May 2026 06:30:00 +0000",
-      "summary": "Suferi de dureri abdominale severe, apărute brusc după mesele mai bogate în grăsimi? Senzația de&#8230; Articolul Când se recomandă colecistectomia laparoscopică apare prima dată în Biz Woman ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@BIZWoman/117038279709500395",
+      "date": "Tue, 04 Aug 2026 16:53:42 +0000",
+      "content": "📄COMUNICAT DE PRESĂ Lansarea proiectului „O nouă șansă independenței” – Cod SMIS 354321 ASOCIAȚIA IZVORUL TĂMĂDUIRII MAVROGHENI, în parteneriat cu CENTRUL ROMÂN PENTRU EDUCAȚIE ȘI DEZVOLTARE UMANĂ (CRED) și ASOCIAȚIA „CENTRUL DE PERFORMANȚĂ BEFORE &amp; AFTER SCHOOL CONIL”, anunță lansarea proiectului „O nouă șansă independenței”, Cod SMIS 354321, cofinanțat de Uniunea Europeană prin Programul Incluziune… 📄 https:// bizwoman.ro/lansarea-proiectul ui-o-noua-sansa-independentei/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@BIZWoman/117014403109999869",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@BIZWoman/116357925439404023",
       "date": "Mon, 06 Apr 2026 13:10:40 +0000",
       "content": "📄Când ai un portofoliu diversificat de clienți este important să cunoști capacitatea de plată a acestora. Prin verificarea tuturor situațiilor financiare și juridice ale partenerilor și clienților reușești să monitorizezi activitatea acestora și să eviți situațiile neplăcute. Incidentele la plată dese indică probleme financiare și o gestionare defectuoasă a fluxului de numerar. Ce sunt rapoartele… 📄 https:// bizwoman.ro/raportul-cip-centr ala-incidentelor-de-plati/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@BIZWoman/116172680774556289",
-      "date": "Wed, 04 Mar 2026 20:00:30 +0000",
-      "content": "📄Cum se face că două mașini care par să facă aceeași treabă scot, la final de lună, facturi complet diferite? Sistemul de localizare GPS auto îți dă răspunsul rapid, pentru că nu mai conduci afacerea „după telefon” și presupuneri, ci după date: unde a fost mașina, cât a stat pe loc, ce traseu a urmat… 📄 https:// bizwoman.ro/localizare-gps-aut o-cum-functioneaza-si-ce-beneficii-ai/"
     }
   ]
 }

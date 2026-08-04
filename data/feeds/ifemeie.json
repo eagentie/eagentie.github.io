@@ -4,8 +4,14 @@
   "site_feed": "https://iFemeie.ro/feed/",
   "mastodon": "https://social.5th.ro/@iFemeie",
   "mastodon_rss": "https://social.5th.ro/@iFemeie.rss",
-  "updated_at": "2026-08-04T14:42:33Z",
+  "updated_at": "2026-08-04T17:04:32Z",
   "site_posts": [
+    {
+      "title": "Lansarea proiectului „O nouă șansă independenței”",
+      "link": "https://ifemeie.ro/lansarea-proiectului-o-noua-sansa-independentei/",
+      "date": "Tue, 04 Aug 2026 13:44:40 +0000",
+      "summary": "COMUNICAT DE PRESĂ Lansarea proiectului &#8222;O nouă șansă independenței&#8221; &#8211; Cod SMIS 354321 ASOCIAȚIA IZVORUL... Articolul Lansarea proiectului „O nouă șansă independenței” apare prima dată în iFemeie ."
+    },
     {
       "title": "Cat dureaza operatia de polipi la copii si ce urmeaza in perioada de recuperare postoperatorie",
       "link": "https://ifemeie.ro/cat-dureaza-operatia-de-polipi-la-copii-si-ce-urmeaza-in-perioada-de-recuperare-postoperatorie/",
@@ -65,15 +71,15 @@
       "link": "https://ifemeie.ro/cum-scrii-postari-care-primesc-boost-uri-pe-mastodon/",
       "date": "Wed, 17 Dec 2025 16:58:54 +0000",
       "summary": "Te-ai săturat de algoritmii opaci care îți ascund mesajele? Pe platformele centralizate, efortul depus în... Articolul Cum scrii postări care primesc boost-uri pe Mastodon apare prima dată în iFemeie ."
-    },
-    {
-      "title": "De ce electrocasnicele inteligente reduc consumul",
-      "link": "https://ifemeie.ro/de-ce-electrocasnicele-inteligente-reduc-consumul/",
-      "date": "Wed, 10 Dec 2025 10:07:57 +0000",
-      "summary": "Electrocasnicele inteligente pot ajusta consumul de energie în funcție de modul în care sunt folosite.... Articolul De ce electrocasnicele inteligente reduc consumul apare prima dată în iFemeie ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@iFemeie/117038253626389353",
+      "date": "Tue, 04 Aug 2026 16:47:04 +0000",
+      "content": "COMUNICAT DE PRESĂ Lansarea proiectului „O nouă șansă independenței” – Cod SMIS 354321 ASOCIAȚIA IZVORUL TĂMĂDUIRII MAVROGHENI, în parteneriat cu CENTRUL ROMÂN PENTRU EDUCAȚIE ȘI DEZVOLTARE UMANĂ (CRED) și ASOCIAȚIA „CENTRUL DE PERFORMANȚĂ BEFORE &amp; AFTER SCHOOL CONIL”, anunță lansarea proiectului „O nouă șansă independenței”, Cod SMIS 354321, cofinanțat de Uniunea Europeană prin Programul Incluziune… https:// ifemeie.ro/lansarea-proiectulu i-o-noua-sansa-independentei/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@iFemeie/117014868776340299",
@@ -139,12 +145,6 @@
       "link": "https://social.5th.ro/@iFemeie/115797393131934897",
       "date": "Sun, 28 Dec 2025 13:19:55 +0000",
       "content": "/tmp/tmpvnmomk3z.html https:// ifemeie.ro/ce-analize-trebuie- facute-inainte-de-implant/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@iFemeie/115797392982194965",
-      "date": "Sun, 28 Dec 2025 13:19:53 +0000",
-      "content": "/tmp/tmp9pyh64eg.html https:// ifemeie.ro/biosenzori-pentru-m onitorizarea-melanomului/"
     }
   ]
 }
