@@ -4,8 +4,14 @@
   "site_feed": "https://noutati24.ro/feed/",
   "mastodon": "https://social.5th.ro/@noutati24",
   "mastodon_rss": "https://social.5th.ro/@noutati24.rss",
-  "updated_at": "2026-08-03T23:18:57Z",
+  "updated_at": "2026-08-04T03:35:00Z",
   "site_posts": [
+    {
+      "title": "Testele asupra aplicației e-Terra, în infrastructura din Cloudul Guvernamental, au parcurs o nouă rundă de evaluare",
+      "link": "https://noutati24.ro/testele-asupra-aplicatiei-e-terra-in-infrastructura-din-cloudul-guvernamental-au-parcurs-o-noua-runda-de-evaluare/",
+      "date": "Mon, 03 Aug 2026 18:30:00 +0000",
+      "summary": "COMUNICAT DE PRESĂ Testele de securitate, funcționalitate și performanță derulate de Serviciul de Telecomunicații Speciale, Departamentul Național pentru Securitate Cibernetică &#8230; Articolul Testele asupra aplicației e-Terra, în infrastructura din Cloudul Guvernamental, au parcurs o nouă rundă de evaluare apare prima dată în Noutati 24 ."
+    },
     {
       "title": "Set de măsuri pentru echilibrarea sistemului energetic național și asigurarea necesarului de consum pentru cetățeni și economie",
       "link": "https://noutati24.ro/set-de-masuri-pentru-echilibrarea-sistemului-energetic-national-si-asigurarea-necesarului-de-consum-pentru-cetateni-si-economie/",
@@ -71,15 +77,15 @@
       "link": "https://noutati24.ro/convorbirea-telefonica-a-premierului-ilie-bolojan-cu-omologul-sau-din-kazahstan-olzhas-bektenov-despre-securitatea-aprovizionarii-romaniei-cu-titei/",
       "date": "Wed, 29 Jul 2026 14:12:00 +0000",
       "summary": "COMUNICAT DE PRESĂ Prim-ministrul României Ilie Bolojan a discutat telefonic cu omologul său din Kazahstan, Olzhas Bektenov, despre securitatea aprovizionării &#8230; Articolul Convorbirea telefonică a premierului Ilie Bolojan cu omologul său din Kazahstan, Olzhas Bektenov, despre securitatea aprovizionării României cu țiței apare prima dată în Noutati 24 ."
-    },
-    {
-      "title": "Declaraţii susținute de premierul Ilie Bolojan la finalul şedinţei extraordinare de guvern",
-      "link": "https://noutati24.ro/declaratii-sustinute-de-premierul-ilie-bolojan-la-finalul-sedintei-extraordinare-de-guvern/",
-      "date": "Tue, 28 Jul 2026 21:26:00 +0000",
-      "summary": "Galerie foto [embedded content] [Check against delivery] Ioana Dogioiu: Bună seara, bine ați venit la briefingul de după ședința extraordinară &#8230; Articolul Declaraţii susținute de premierul Ilie Bolojan la finalul şedinţei extraordinare de guvern apare prima dată în Noutati 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@noutati24/117034972454665060",
+      "date": "Tue, 04 Aug 2026 02:52:37 +0000",
+      "content": "🆕COMUNICAT DE PRESĂ Testele de securitate, funcționalitate și performanță derulate de Serviciul de Telecomunicații Speciale, Departamentul Național pentru Securitate Cibernetică și Cyberint asupra aplicației e-Terra, în infrastructura din Cloudul Guvernamental, au parcurs o nouă rundă de evaluare. Constatările acestei runde au fost transmise ANCPI, care 🌐 https:// noutati24.ro/testele-asupra-ap licatiei-e-terra-in-infrastructura-din-cloudul-guvernamental-au-parcurs-o-noua-runda-de-evaluare/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@noutati24/117023568837125132",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@noutati24/117012177109704682",
       "date": "Fri, 31 Jul 2026 02:15:28 +0000",
       "content": "🆕Galerie foto COMUNICAT DE PRESĂ Guvernul României marchează astăzi Ziua Mondială împotriva Traficului de Persoane, din solidaritate cu victimele acestui flagel și ca expresie a reafirmării angajamentului pentru prevenirea și combaterea acestui fenomen.Palatului Victoria va fi iluminat în această seară în albastru, culoare reprezentativă pentru campania „Inima Albastră” (Blue Heart Campaign), inițiată de Biroul 🌐 https:// noutati24.ro/guvernul-romaniei -solidar-cu-victimele-traficului-de-persoane/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@noutati24/117006459217090128",
-      "date": "Thu, 30 Jul 2026 02:01:20 +0000",
-      "content": "🆕COMUNICAT DE PRESĂ România prelungește cu încă două săptămâni misiunea contingentului de pompieri din Franța Ca urmare a solicitării formulate de autoritățile franceze prin activarea Mecanismului de Protecție Civilă al Uniunii Europene, Comitetul Național pentru Situații de Urgență (CNSU) a aprobat, în ședința de ieri, prelungirea cu încă două săptămâni a participării României la 🌐 https:// noutati24.ro/romania-prelunges te-cu-inca-doua-saptamani-misiunea-contingentului-de-pompieri-din-franta/"
     }
   ]
 }
