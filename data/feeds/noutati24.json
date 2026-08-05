@@ -4,8 +4,14 @@
   "site_feed": "https://noutati24.ro/feed/",
   "mastodon": "https://social.5th.ro/@noutati24",
   "mastodon_rss": "https://social.5th.ro/@noutati24.rss",
-  "updated_at": "2026-08-05T00:14:39Z",
+  "updated_at": "2026-08-05T03:32:18Z",
   "site_posts": [
+    {
+      "title": "Ședințe operative de lucru la Guvern pe tema energiei",
+      "link": "https://noutati24.ro/sedinte-operative-de-lucru-la-guvern-pe-tema-energiei/",
+      "date": "Tue, 04 Aug 2026 15:00:00 +0000",
+      "summary": "Galerie foto COMUNICAT DE PRESĂ Trei ședințe operative de lucru au avut loc în prima parte a zilei de astăzi &#8230; Articolul Ședințe operative de lucru la Guvern pe tema energiei apare prima dată în Noutati 24 ."
+    },
     {
       "title": "Lansarea proiectului „O nouă șansă independenței”",
       "link": "https://noutati24.ro/lansarea-proiectului-o-noua-sansa-independentei/",
@@ -71,15 +77,15 @@
       "link": "https://noutati24.ro/primirea-oficiala-de-catre-premierul-ilie-bolojan-a-prim-ministrului-republicii-moldova-vasile-tofan-la-palatul-victoria/",
       "date": "Thu, 30 Jul 2026 12:19:00 +0000",
       "summary": "COMUNICAT DE PRESĂ Premierul Ilie Bolojan: România va continua să fie principalul susținător&#160;al Republicii Moldova, la nivelul Uniunii Europeane România &#8230; Articolul Primirea oficială de către premierul Ilie Bolojan a prim-ministrului Republicii Moldova, Vasile Tofan, la Palatul Victoria apare prima dată în Noutati 24 ."
-    },
-    {
-      "title": "Ședința de guvern din data 30 iulie 2026",
-      "link": "https://noutati24.ro/sedinta-de-guvern-din-data-30-iulie-2026/",
-      "date": "Thu, 30 Jul 2026 12:10:00 +0000",
-      "summary": "Guvernul României Guvernul este autoritatea publică a puterii executive, care funcționează în baza votului de încredere acordat de Parlament și &#8230; Articolul Ședința de guvern din data 30 iulie 2026 apare prima dată în Noutati 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@noutati24/117040669801722147",
+      "date": "Wed, 05 Aug 2026 03:01:32 +0000",
+      "content": "🆕Galerie foto COMUNICAT DE PRESĂ Trei ședințe operative de lucru au avut loc în prima parte a zilei de astăzi la Guvern pentru a asigura menținerea echilibrului sistemului național de energie electrică și buna funcționare a pieței carburanților.Situația debitului Dunării în zona Centralei Nuclearelectrice Cernavodă a fost subiectul uneia din ședințele operative. Nivelul Dunării este… 🌐 https:// noutati24.ro/sedinte-operative -de-lucru-la-guvern-pe-tema-energiei/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@noutati24/117038290032755878",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@noutati24/117012177613063464",
       "date": "Fri, 31 Jul 2026 02:15:35 +0000",
       "content": "🆕COMUNICAT DE PRESĂ Reconstrucția infrastructurii informatice și migrarea aplicației e-Terra în Cloudul Guvernamental au fost finalizate. Aplicația a fost instalată și configurată în noua infrastructură centralizată, urmând să fie supusă unui proces riguros de testare înainte de repunerea acesteia în funcțiune pentru utilizatori. În prezent se desfășoară etapa finală de validare. Testele de securitate, 🌐 https:// noutati24.ro/stadiul-actual-al -repunerii-in-functiune-a-aplicatiei-e-terra/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@noutati24/117012177364736950",
-      "date": "Fri, 31 Jul 2026 02:15:32 +0000",
-      "content": "🆕Galerie foto COMUNICAT DE PRESĂ Reprezentanții oierilor, primiți la Guvern de vicepremierul Tánczos Barna Viceprim-ministrul Tánczos Barna, mandatat de prim-ministrul Ilie Bolojan, a primit, la Palatul Victoria, delegația crescătorilor de ovine care au protestat în București. Fermierii au prezentat o listă de revendicări, care s-au 🌐 https:// noutati24.ro/viceprim-ministru l-tanczos-barna-mandatat-de-prim-ministrul-ilie-bolojan-a-primit-la-palatul-victoria-delegatia-crescatorilor-de-ovine/"
     }
   ]
 }
