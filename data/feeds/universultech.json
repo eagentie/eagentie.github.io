@@ -4,8 +4,14 @@
   "site_feed": "https://UniversulTech.ro/feed/",
   "mastodon": "https://social.5th.ro/@UniversulTech",
   "mastodon_rss": "https://social.5th.ro/@UniversulTech.rss",
-  "updated_at": "2026-08-10T11:59:01Z",
+  "updated_at": "2026-08-10T13:42:37Z",
   "site_posts": [
+    {
+      "title": "Fier și vitamina C: luate pe stomacul gol ajută, dar nu este singura regulă care contează",
+      "link": "https://universultech.ro/fier-si-vitamina-c-luate-pe-stomacul-gol-ajuta-dar-nu-este-singura-regula-care-conteaza/",
+      "date": "Mon, 10 Aug 2026 12:36:58 +0000",
+      "summary": "Iei suplimentul cu fier dimineața, bei cafeaua imediat după și apoi te întrebi de ce tratamentul îți provoacă greață sau&#8230; Articolul Fier și vitamina C: luate pe stomacul gol ajută, dar nu este singura regulă care contează apare prima dată în Universul Tech ."
+    },
     {
       "title": "Asistenții digitali cu AI: cum devin site-urile mai utile pentru utilizatori",
       "link": "https://universultech.ro/asistenti-digitali-ai-site-uri-utile-utilizatori/",
@@ -71,15 +77,15 @@
       "link": "https://universultech.ro/copilul-tau-mananca-doar-3-alimente-ce-spune-asta-despre-dezvoltarea-lui/",
       "date": "Mon, 11 May 2026 15:30:08 +0000",
       "summary": "Ora cinei s-a transformat pentru multe familii dintr-un moment de tihnă într-un adevărat câmp de luptă psihologică. Farfuria cu legume&#8230; Articolul Copilul tău mănâncă doar 3 alimente? Ce spune asta despre dezvoltarea lui apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "Rolul consumabilelor de calitate în eficiența biroului tău",
-      "link": "https://universultech.ro/rolul-consumabilelor-de-calitate-in-eficienta-biroului-tau/",
-      "date": "Wed, 06 May 2026 13:03:52 +0000",
-      "summary": "Într-un mediu de lucru modern, unde viteza de reacție și precizia sunt esențiale, detaliile logistice pot face diferența între o&#8230; Articolul Rolul consumabilelor de calitate în eficiența biroului tău apare prima dată în Universul Tech ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@UniversulTech/117071244242093191",
+      "date": "Mon, 10 Aug 2026 12:37:01 +0000",
+      "content": "💡Iei suplimentul cu fier dimineața, bei cafeaua imediat după și apoi te întrebi de ce tratamentul îți provoacă greață sau pare să nu funcționeze. Situația este frecventă. Administrarea corectă nu înseamnă doar să înghiți comprimatul la aceeași oră, ci și să ții cont de alimente, băuturi, alte medicamente și reacția propriului stomac.Sfaturile întâlnite cel mai… ✅ https:// universultech.ro/fier-si-vitam ina-c-luate-pe-stomacul-gol-ajuta-dar-nu-este-singura-regula-care-conteaza/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@UniversulTech/116905350189205005",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@UniversulTech/116556654948590467",
       "date": "Mon, 11 May 2026 15:30:11 +0000",
       "content": "💡Ora cinei s-a transformat pentru multe familii dintr-un moment de tihnă într-un adevărat câmp de luptă psihologică. Farfuria cu legume verzi rămâne neatinsă, în timp ce micuțul tău solicită, pentru a zecea oară în această săptămână, aceeași porție de paste simple sau aceiași biscuiți. Această conduită, cunoscută în literatura de specialitate sub numele de picky eating sau… ✅ https:// universultech.ro/copilul-tau-m ananca-doar-3-alimente-ce-spune-asta-despre-dezvoltarea-lui/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@UniversulTech/116527768275462180",
-      "date": "Wed, 06 May 2026 13:03:56 +0000",
-      "content": "💡Într-un mediu de lucru modern, unde viteza de reacție și precizia sunt esențiale, detaliile logistice pot face diferența între o zi productivă și una marcată de frustrări tehnice. Tu, în calitate de profesionist sau manager, știi că fluxul de lucru depinde de o multitudine de factori, însă adesea ignori elementele de bază care susțin infrastructura zilnică:… ✅ https:// universultech.ro/rolul-consuma bilelor-de-calitate-in-eficienta-biroului-tau/"
     }
   ]
 }

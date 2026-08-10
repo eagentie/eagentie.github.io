@@ -4,8 +4,14 @@
   "site_feed": "https://doctorite.ro/feed/",
   "mastodon": "https://social.5th.ro/@DoctoriteBlog",
   "mastodon_rss": "https://social.5th.ro/@DoctoriteBlog.rss",
-  "updated_at": "2026-08-10T11:58:41Z",
+  "updated_at": "2026-08-10T13:42:21Z",
   "site_posts": [
+    {
+      "title": "Durerea lombară după o zi la birou. Semnele care cer mai mult decât un antiinflamator",
+      "link": "https://doctorite.ro/durerea-lombara-dupa-o-zi-la-birou-semnele-care-cer-mai-mult-decat-un-antiinflamator/",
+      "date": "Mon, 10 Aug 2026 12:39:42 +0000",
+      "summary": "Dacă lucrezi la birou, conduci mult sau petreci ore întregi pe scaun, durerea lombară poate... Articolul Durerea lombară după o zi la birou. Semnele care cer mai mult decât un antiinflamator apare prima dată în Doctorite ."
+    },
     {
       "title": "Când trebuie investigate durerile abdominale persistente?",
       "link": "https://doctorite.ro/cand-trebuie-investigate-durerile-abdominale-persistente/",
@@ -59,15 +65,15 @@
       "link": "https://doctorite.ro/cand-este-recomandata-radiografia-dentara-si-ce-probleme-poate-descoperi-din-timp/",
       "date": "Wed, 25 Mar 2026 10:58:57 +0000",
       "summary": "Cei mai mulți oameni ajung la dentist în același moment: când începe să doară. E... Articolul Când este recomandată radiografia dentară și ce probleme poate descoperi din timp apare prima dată în Doctorite ."
-    },
-    {
-      "title": "Rolul magneziului în sănătatea oaselor și prevenirea osteoporozei",
-      "link": "https://doctorite.ro/rolul-magneziului-in-sanatatea-oaselor-si-prevenirea-osteoporozei/",
-      "date": "Mon, 09 Mar 2026 13:50:42 +0000",
-      "summary": "Magneziul are un rol crucial, adesea trecut cu vederea, în menținerea sănătății oaselor și prevenirea... Articolul Rolul magneziului în sănătatea oaselor și prevenirea osteoporozei apare prima dată în Doctorite ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@DoctoriteBlog/117071255059347654",
+      "date": "Mon, 10 Aug 2026 12:39:46 +0000",
+      "content": "Dacă lucrezi la birou, conduci mult sau petreci ore întregi pe scaun, durerea lombară poate deveni parte din rutina zilnică înainte să-i acorzi atenție. O jenă discretă dimineața se poate transforma în rigiditate, înțepături sau durere care coboară spre fesă și picior. Când apare amorțeala, slăbiciunea ori durerea se intensifică rapid, merită să acționezi fără… https:// doctorite.ro/durerea-lombara-d upa-o-zi-la-birou-semnele-care-cer-mai-mult-decat-un-antiinflamator/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@DoctoriteBlog/117014397602810179",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@DoctoriteBlog/115934857658226110",
       "date": "Wed, 21 Jan 2026 19:58:57 +0000",
       "content": "Respiratia este functia vitala pe care o indeplinim de aproximativ 20.000 de ori pe zi, de cele mai multe ori fara sa ne gandim la ea. Totusi, atunci cand fluxul de aer este restrictionat, intreg organismul are de suferit. Una dintre cele mai frecvente bariere in calea unei respiratii sanatoase este o deviatie de sept,… https:// doctorite.ro/respiratia-corect a-si-calitatea-vietii-de-ce-nu-trebuie-sa-ignori-o-deviatie-de-sept-si-care-sunt-optiunile-de-tratament/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@DoctoriteBlog/115859506162962309",
-      "date": "Thu, 08 Jan 2026 12:36:05 +0000",
-      "content": "Sezonul rece vine adesea la pachet cu schimbări de temperatură, mai puține ore de lumină naturală și un stil de viață mai sedentar. Toți acești factori pot influența capacitatea organismului de a se adapta și de a face față provocărilor zilnice. De aceea, susținerea imunității devine o prioritate în lunile de toamnă și iarnă, când… https:// doctorite.ro/sustinerea-imunit atii-in-sezonul-rece-ce-trebuie-sa-stii/"
     }
   ]
 }
