@@ -4,8 +4,14 @@
   "site_feed": "https://noutati24.ro/feed/",
   "mastodon": "https://social.5th.ro/@noutati24",
   "mastodon_rss": "https://social.5th.ro/@noutati24.rss",
-  "updated_at": "2026-08-12T02:44:18Z",
+  "updated_at": "2026-08-12T05:00:38Z",
   "site_posts": [
+    {
+      "title": "Aplicația e-Terra este repornită etapizat începând de astăzi",
+      "link": "https://noutati24.ro/aplicatia-e-terra-este-repornita-etapizat-incepand-de-astazi/",
+      "date": "Tue, 11 Aug 2026 15:08:00 +0000",
+      "summary": "Începând de astăzi, 11 august 2026, ora 15.00, aplicația e-Terra a fost repornită etapizat, pentru personalul ANCPI, al oficiilor de &#8230; Articolul Aplicația e-Terra este repornită etapizat începând de astăzi apare prima dată în Noutati 24 ."
+    },
     {
       "title": "Ședința de guvern extraordinară din data 10 august 2026",
       "link": "https://noutati24.ro/sedinta-de-guvern-extraordinara-din-data-10-august-2026/",
@@ -71,15 +77,15 @@
       "link": "https://noutati24.ro/mesajul-prim-ministrului-ilie-bolojan-cu-prilejul-zilei-europene-de-comemorare-a-holocaustului-impotriva-romilor/",
       "date": "Fri, 31 Jul 2026 13:49:00 +0000",
       "summary": "Galerie foto Ziua Europeană de Comemorare a Holocaustului împotriva Romilor a fost marcată printr-o ceremonie organizată la Memorialul Victimelor Holocaustului &#8230; Articolul Mesajul prim-ministrului Ilie Bolojan cu prilejul Zilei Europene de Comemorare a Holocaustului împotriva Romilor apare prima dată în Noutati 24 ."
-    },
-    {
-      "title": "Comandament de lucru cu reprezentanții companiilor din domeniul petrolier și al distribuției de carburanți pe tema aprovizionării constante cu combustibil a pieței interne",
-      "link": "https://noutati24.ro/comandament-de-lucru-cu-reprezentantii-companiilor-din-domeniul-petrolier-si-al-distributiei-de-carburanti-pe-tema-aprovizionarii-constante-cu-combustibil-a-pietei-interne/",
-      "date": "Fri, 31 Jul 2026 10:50:00 +0000",
-      "summary": "Galerie foto COMUNICAT DE PRESĂ Secretarul de stat din Ministerul Energiei, Cristian Bușoi, și secretarul general al ministerului, Sorin Elisei, &#8230; Articolul Comandament de lucru cu reprezentanții companiilor din domeniul petrolier și al distribuției de carburanți pe tema aprovizionării constante cu combustibil a pieței interne apare prima dată în Noutati 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@noutati24/117080466841603332",
+      "date": "Wed, 12 Aug 2026 03:42:26 +0000",
+      "content": "🆕Începând de astăzi, 11 august 2026, ora 15.00, aplicația e-Terra a fost repornită etapizat, pentru personalul ANCPI, al oficiilor de cadastru și publicitate imobiliară (OCPI), precum și pentru notarii publici. Repornirea aplicației se realizează în condițiile stabilite în urma verificărilor și testelor efectuate de specialiști și reprezintă un prim pas pentru reluarea integrală și normalizarea… 🌐 https:// noutati24.ro/aplicatia-e-terra -este-repornita-etapizat-incepand-de-astazi/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@noutati24/117074800543180230",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@noutati24/117017864170770736",
       "date": "Sat, 01 Aug 2026 02:21:45 +0000",
       "content": "🆕Guvernul României Guvernul este autoritatea publică a puterii executive, care funcționează în baza votului de încredere acordat de Parlament și care asigură realizarea politicii interne și externe a țării și exercită conducerea generală a administrației publice. Află mai multeArticol preluat de pe gov.ro 🌐 https:// noutati24.ro/sedinta-extraordi nara-de-guvern-din-31-iulie-2026/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@noutati24/117017863841750341",
-      "date": "Sat, 01 Aug 2026 02:21:40 +0000",
-      "content": "🆕COMUNICAT DE PRESĂ Măsuri importante pentru protecția tinerilor și persoanelor adulte cu dizabilități, pentru accesul pacienților români la registre internaționale de transplant, precum și măsuri din alte domenii nu vor putea intra în aplicare în perioada următoare după ce Curtea de Apel București a suspendat joi, la solicitarea PSD, șase hotărâri adoptate de Guvern. Acest… 🌐 https:// noutati24.ro/efecte-ale-suspen darii-hotararilor-de-guvern-de-catre-curtea-de-apel-bucuresti/"
     }
   ]
 }
