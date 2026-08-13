@@ -4,8 +4,14 @@
   "site_feed": "https://top15.ro/feed/",
   "mastodon": "https://social.5th.ro/@top",
   "mastodon_rss": "https://social.5th.ro/@top.rss",
-  "updated_at": "2026-08-13T10:21:59Z",
+  "updated_at": "2026-08-13T11:59:54Z",
   "site_posts": [
+    {
+      "title": "Merită să iei mașini second hand în leasing?",
+      "link": "https://top15.ro/merita-sa-iei-masini-second-hand-in-leasing/",
+      "date": "Thu, 13 Aug 2026 10:39:48 +0000",
+      "summary": "În ultimii ani, leasingul pentru mașini second hand a devenit o opțiune tot mai atractivă... Articolul Merită să iei mașini second hand în leasing? apare prima dată în TOP 15 ."
+    },
     {
       "title": "RCCB tip A versus AC: diferența care contează la mașina de spălat",
       "link": "https://top15.ro/rccb-tip-a-versus-ac-diferenta-care-conteaza-la-masina-de-spalat/",
@@ -71,15 +77,21 @@
       "link": "https://top15.ro/chipsuri-din-sorici-snackul-fara-aditivi-care-a-cucerit-sezonul-de-gratare-2026/",
       "date": "Wed, 24 Jun 2026 23:33:25 +0000",
       "summary": "Chipsuri din șorici, șorici expandat sau chipsur... Articolul Chipsuri din șorici: snackul fără aditivi care a cucerit sezonul de grătare 2026 apare prima dată în TOP 15 ."
-    },
-    {
-      "title": "Secretele unei curți organizate: de ce o ladă de depozitare pentru exterior este investiția ideală",
-      "link": "https://top15.ro/secretele-unei-curti-organizate-de-ce-o-lada-de-depozitare-pentru-exterior-este-investitia-ideala/",
-      "date": "Wed, 24 Jun 2026 07:59:24 +0000",
-      "summary": "Curtea poate spune multe despre felul în care îți organizezi viața de zi cu zi.... Articolul Secretele unei curți organizate: de ce o ladă de depozitare pentru exterior este investiția ideală apare prima dată în TOP 15 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@top/117087770455322860",
+      "date": "Thu, 13 Aug 2026 10:39:51 +0000",
+      "content": "📰În ultimii ani, leasingul pentru mașini second hand a devenit o opțiune tot mai atractivă atât pentru persoane fizice, cât și pentru companii. Creșterea prețurilor la mașinile noi, termenele de livrare încă fluctuante și oferta tot mai bogată de autoturisme rulate din flote au schimbat modul în care mulți cumpărători privesc piața auto.Leasingul pentru mașini… 📰 https:// top15.ro/merita-sa-iei-masini- second-hand-in-leasing/"
+    },
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@top/117087700459401400",
+      "date": "Thu, 13 Aug 2026 10:22:03 +0000",
+      "content": "📰Când cauți „RCCB tip A vs AC”, de obicei ai în față două aparate asemănătoare, dar nu identice, iar pe etichetă apar litere greu de descifrat. Situația devine și mai neclară când mașina de spălat declanșează protecția sau când cineva îți spune că un RCCB tip AC este suficient pentru toată locuința.Problema este că recomandările… 📰 https:// top15.ro/rccb-tip-a-versus-ac- diferenta-care-conteaza-la-masina-de-spalat/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@top/117047797847252263",
@@ -139,18 +151,6 @@
       "link": "https://social.5th.ro/@top/116808409884396145",
       "date": "Thu, 25 Jun 2026 02:34:47 +0000",
       "content": "📰Chipsuri din șorici, șorici expandat sau chipsur... 📰 https:// top15.ro/chipsuri-din-sorici-s nackul-fara-aditivi-care-a-cucerit-sezonul-de-gratare-2026/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@top/116804024222078866",
-      "date": "Wed, 24 Jun 2026 07:59:27 +0000",
-      "content": "📰Curtea poate spune multe despre felul în care îți organizezi viața de zi cu zi. De la jucării împrăștiate, perne de grădină lăsate pe scaune și până la unelte sprijinite de gard, fiecare obiect își cere locul lui.O ladă de depozitare pentru exterior îți permite să transformi curtea dintr-un spațiu aglomerat într-un loc în care… 📰 https:// top15.ro/secretele-unei-curti- organizate-de-ce-o-lada-de-depozitare-pentru-exterior-este-investitia-ideala/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@top/116794840710553236",
-      "date": "Mon, 22 Jun 2026 17:03:57 +0000",
-      "content": "📰Asigurarea apei curente reprezintă o prioritate atunci când locuiești la casă și nu ai posibilitatea să te conectezi la o rețea publică de distribuție. Alimentarea bucătăriei, a băilor și funcționarea corectă a electrocasnicelor depind în totalitate de sistemul pe care îl instalezi în curte. Când începi să cauți soluții, observi rapid că ai la dispoziție… 📰 https:// top15.ro/diferentele-majore-di ntre-un-hidrofor-clasic-si-o-pompa-submersibila/"
     }
   ]
 }

@@ -4,8 +4,14 @@
   "site_feed": "https://bizwoman.ro/feed/",
   "mastodon": "https://social.5th.ro/@BIZWoman",
   "mastodon_rss": "https://social.5th.ro/@BIZWoman.rss",
-  "updated_at": "2026-08-13T10:21:53Z",
+  "updated_at": "2026-08-13T11:59:47Z",
   "site_posts": [
+    {
+      "title": "Siguranța bebelușului tău: Ghid 2026 pentru alegerea unui baby monitor video și audio performant",
+      "link": "https://bizwoman.ro/siguranta-bebelusului-tau-ghid-2026-pentru-alegerea-unui-baby-monitor-video-si-audio-performant/",
+      "date": "Thu, 13 Aug 2026 10:24:39 +0000",
+      "summary": "Alegerea unui monitor de supraveghere pentru bebeluși depinde de spațiul locuinței, modul de viață al&#8230; Articolul Siguranța bebelușului tău: Ghid 2026 pentru alegerea unui baby monitor video și audio performant apare prima dată în Biz Woman ."
+    },
     {
       "title": "Colagen lichid vs pudră: doza și rutina cântăresc mai mult decât textura",
       "link": "https://bizwoman.ro/colagen-lichid-vs-pudra-doza-si-rutina-cantaresc-mai-mult-decat-textura/",
@@ -59,15 +65,15 @@
       "link": "https://bizwoman.ro/ce-verifici-anunt-auto-inainte-sa-vezi-masina/",
       "date": "Wed, 10 Jun 2026 07:54:16 +0000",
       "summary": "Un ghid practic despre verificarea unui anunț auto înainte de vizionare, cu detalii despre fotografii, kilometraj, acte, preț, întrebări pentru vânzător și semne care cer prudență. Articolul Ce trebuie să verifici într-un anunț auto înainte să mergi să vezi mașina apare prima dată în Biz Woman ."
-    },
-    {
-      "title": "Neurofeedback: ce este, cum funcționează și cui se adresează",
-      "link": "https://bizwoman.ro/neurofeedback-ce-este-cum-functioneaza-si-cui-se-adreseaza/",
-      "date": "Wed, 10 Jun 2026 06:32:09 +0000",
-      "summary": "Interesul față de metodele nonfarmacologice de îmbunătățire a sănătății mintale a crescut semnificativ în ultimii&#8230; Articolul Neurofeedback: ce este, cum funcționează și cui se adresează apare prima dată în Biz Woman ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@BIZWoman/117087710882575008",
+      "date": "Thu, 13 Aug 2026 10:24:42 +0000",
+      "content": "📄Alegerea unui monitor de supraveghere pentru bebeluși depinde de spațiul locuinței, modul de viață al părinților și nivelul de control dorit la distanță. Oferta ERFI include atât variante audio simple, ideale pentru monitorizarea de bază, cât și sisteme video avansate cu conexiune Wi-Fi și acces de pe smartphone.Evaluarea fiecărui model din acest ghid are la… 📄 https:// bizwoman.ro/siguranta-bebelusu lui-tau-ghid-2026-pentru-alegerea-unui-baby-monitor-video-si-audio-performant/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@BIZWoman/117071641313176620",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@BIZWoman/116724381279620052",
       "date": "Wed, 10 Jun 2026 06:25:12 +0000",
       "content": "📄Vara are un ritm specific, mai lent, mai relaxat, cu prânzuri lungi la umbra unui copac și seri petrecute în grădină, în jurul unei mese pline de bunătăți. Conversațiile se prelungesc până târziu, iar preparatele alese pentru astfel de momente pun accent pe prospețime, lejeritate și gusturi care completează atmosfera relaxată a sezonului. Într-un astfel… 📄 https:// bizwoman.ro/tort/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@BIZWoman/116658139990250176",
-      "date": "Fri, 29 May 2026 13:39:10 +0000",
-      "content": "📄In zilele de 23 si 24 mai 2026, Bucurestiul a gazduit cea mai importanta si frumoasa sarbatoare dedicata incluziunii copiilor, CONIL Fest 2026, editia cu tema &quot;Toti Copiii Conteaza&quot;. Evenimentul organizat de Asociația CONIL în parteneriat cu Circul Metropolitan București, s-a bucurat de o prezenta remarcabila, reunind peste 20.000 de vizitatori, transformandu-se intr-un simbol al… 📄 https:// bizwoman.ro/peste-20-000-de-vi zitatori-au-celebrat-dreptul-fiecarui-copil-de-a-conta/"
     }
   ]
 }
