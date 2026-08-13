@@ -4,8 +4,14 @@
   "site_feed": "https://noutati24.ro/feed/",
   "mastodon": "https://social.5th.ro/@noutati24",
   "mastodon_rss": "https://social.5th.ro/@noutati24.rss",
-  "updated_at": "2026-08-13T02:45:37Z",
+  "updated_at": "2026-08-13T05:02:44Z",
   "site_posts": [
+    {
+      "title": "Aplicația e-Terra și-a reluat activitatea",
+      "link": "https://noutati24.ro/aplicatia-e-terra-si-a-reluat-activitatea/",
+      "date": "Wed, 12 Aug 2026 13:14:00 +0000",
+      "summary": "Aplicația informatică e-Terra și-a reluat activitatea și recuperează întârzierile acumulate în perioada de nefuncționare. Persoanele autorizate să execute lucrări de &#8230; Articolul Aplicația e-Terra și-a reluat activitatea apare prima dată în Noutati 24 ."
+    },
     {
       "title": "Aplicația e-Terra este repornită etapizat începând de astăzi",
       "link": "https://noutati24.ro/aplicatia-e-terra-este-repornita-etapizat-incepand-de-astazi/",
@@ -71,15 +77,15 @@
       "link": "https://noutati24.ro/sedinta-extraordinara-de-guvern-din-31-iulie-2026/",
       "date": "Fri, 31 Jul 2026 17:27:00 +0000",
       "summary": "Guvernul României Guvernul este autoritatea publică a puterii executive, care funcționează în baza votului de încredere acordat de Parlament și &#8230; Articolul Ședința extraordinară de guvern din 31 iulie 2026 apare prima dată în Noutati 24 ."
-    },
-    {
-      "title": "Mesajul prim-ministrului Ilie Bolojan cu prilejul Zilei Europene de Comemorare a Holocaustului împotriva Romilor",
-      "link": "https://noutati24.ro/mesajul-prim-ministrului-ilie-bolojan-cu-prilejul-zilei-europene-de-comemorare-a-holocaustului-impotriva-romilor/",
-      "date": "Fri, 31 Jul 2026 13:49:00 +0000",
-      "summary": "Galerie foto Ziua Europeană de Comemorare a Holocaustului împotriva Romilor a fost marcată printr-o ceremonie organizată la Memorialul Victimelor Holocaustului &#8230; Articolul Mesajul prim-ministrului Ilie Bolojan cu prilejul Zilei Europene de Comemorare a Holocaustului împotriva Romilor apare prima dată în Noutati 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@noutati24/117086163890014892",
+      "date": "Thu, 13 Aug 2026 03:51:16 +0000",
+      "content": "🆕Aplicația informatică e-Terra și-a reluat activitatea și recuperează întârzierile acumulate în perioada de nefuncționare. Persoanele autorizate să execute lucrări de cadastru, experți tehnici-judiciari, executori judecătorești, au din nou acces în aplicația e-Terra începând de astăzi, 12 august 2026. Tot începând de astăzi, notarii publici pot solicita și obține, prin intermediul aplicației informatice, extrase de carte… 🌐 https:// noutati24.ro/aplicatia-e-terra -si-a-reluat-activitatea/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@noutati24/117080466841603332",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@noutati24/117017864400746268",
       "date": "Sat, 01 Aug 2026 02:21:49 +0000",
       "content": "🆕Galerie foto Ziua Europeană de Comemorare a Holocaustului împotriva Romilor a fost marcată printr-o ceremonie organizată la Memorialul Victimelor Holocaustului de Agenția Națională pentru Romi. Guvernul României a fost reprezentat de Secretarul General al Guvernului, Dan Reșitnec, de secretarul de stat din cadrul Cancelariei Prim-ministrului, Dragoș Hotea și 🌐 https:// noutati24.ro/mesajul-prim-mini strului-ilie-bolojan-cu-prilejul-zilei-europene-de-comemorare-a-holocaustului-impotriva-romilor/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@noutati24/117017864170770736",
-      "date": "Sat, 01 Aug 2026 02:21:45 +0000",
-      "content": "🆕Guvernul României Guvernul este autoritatea publică a puterii executive, care funcționează în baza votului de încredere acordat de Parlament și care asigură realizarea politicii interne și externe a țării și exercită conducerea generală a administrației publice. Află mai multeArticol preluat de pe gov.ro 🌐 https:// noutati24.ro/sedinta-extraordi nara-de-guvern-din-31-iulie-2026/"
     }
   ]
 }
