@@ -4,8 +4,14 @@
   "site_feed": "https://afaceritop.ro/feed/",
   "mastodon": "https://social.5th.ro/@afaceri_top",
   "mastodon_rss": "https://social.5th.ro/@afaceri_top.rss",
-  "updated_at": "2026-08-13T08:42:01Z",
+  "updated_at": "2026-08-13T10:20:25Z",
   "site_posts": [
+    {
+      "title": "Ce nu apare în niciun ghid despre mentenanța flotelor de utilaje agricole",
+      "link": "https://afaceritop.ro/ce-nu-apare-in-niciun-ghid-despre-mentenanta-flotelor-de-utilaje-agricole/",
+      "date": "Thu, 13 Aug 2026 09:35:00 +0000",
+      "summary": "Sezonul de recoltare nu iartă. Un tractor scos din funcțiune la mijlocul campaniei nu înseamnă doar o reparație neplăcută, ci zile pierdute, contracte compromise și costuri care se adună mult mai repede decât ai crede. Și totuși, majoritatea fermierilor și administratorilor de flote agricole ajung să afle că ceva nu e în regulă cu un [&#8230;] Articolul Ce nu apare în niciun ghid despre mentenanța flotelor de utilaje agricole apare prima dată în Afaceri TOP ."
+    },
     {
       "title": "Ce trebuie să știi despre eventrație și tratamentul acesteia",
       "link": "https://afaceritop.ro/ce-trebuie-sa-stii-despre-eventratie-si-tratamentul-acesteia/",
@@ -59,15 +65,15 @@
       "link": "https://afaceritop.ro/cum-alegi-un-tort-de-botez-potrivit-pentru-o-zi-cu-adevarat-speciala/",
       "date": "Thu, 14 May 2026 05:08:08 +0000",
       "summary": "Venirea pe lume a unui copil reprezintă cel mai emoționant capitol din viața oricărui părinte. Planificarea primei petreceri oficiale a micuțului necesită atenție la detalii și multă dragoste. Elementul central al petrecerii, care atrage toate privirile și încântă papilele gustative, rămâne fără îndoială desertul principal. Alegerea unor torturi botez deosebite transformă o simplă reuniune într-o [&#8230;] Articolul Cum alegi un tort de botez potrivit pentru o zi cu adevărat specială apare prima dată în Afaceri TOP ."
-    },
-    {
-      "title": "Ce afecțiuni poate evalua un medic chirurg la Medicover Pipera",
-      "link": "https://afaceritop.ro/ce-afectiuni-poate-evalua-un-medic-chirurg-la-medicover-pipera/",
-      "date": "Sun, 10 May 2026 06:30:00 +0000",
-      "summary": "Atenție! Simțiți un disconfort abdominal persistent sau ați observat o modificare neobișnuită la nivelul pielii? Interesul pentru sănătatea dumneavoastră trebuie să fie prioritar, mai ales când locuiți sau lucrați într-o zonă dinamică din nordul capitalei. Dorința de a primi un diagnostic rapid și precis vă poate conduce către un specialist de încredere, capabil să vă [&#8230;] Articolul Ce afecțiuni poate evalua un medic chirurg la Medicover Pipera apare prima dată în Afaceri TOP ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@afaceri_top/117087515669442644",
+      "date": "Thu, 13 Aug 2026 09:35:03 +0000",
+      "content": "Sezonul de recoltare nu iartă. Un tractor scos din funcțiune la mijlocul campaniei nu înseamnă doar o reparație neplăcută, ci zile pierdute, contracte compromise și costuri care se adună mult mai repede decât ai crede. Și totuși, majoritatea fermierilor și administratorilor de flote agricole ajung să afle că ceva nu e în regulă cu un… https:// afaceritop.ro/ce-nu-apare-in-n iciun-ghid-despre-mentenanta-flotelor-de-utilaje-agricole/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@afaceri_top/117014375984171614",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@afaceri_top/116492084511461091",
       "date": "Thu, 30 Apr 2026 05:49:05 +0000",
       "content": "Alegerea unor căști wireless potrivite pentru muncă și relaxare ține de echilibrul dintre calitatea sunetului, confort și stabilitatea conexiunii Bluetooth. În 2026, cele mai bune căști wireless sunt cele care pot face față atât apelurilor profesionale, cât și momentelor de relaxare, fără întreruperi sau compromisuri.De ce contează versatilitateaO pereche de căști nu mai este folosită… https:// afaceritop.ro/cum-alegi-casti- wireless-pentru-munca-si-relaxare/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@afaceri_top/116373981403390560",
-      "date": "Thu, 09 Apr 2026 09:13:54 +0000",
-      "content": "Pe scurt, cel mai bun sistem de monitorizare GPS pentru flote auto este cel care îți oferă localizare în timp real, analize detaliate de consum și comportament al șoferilor, plus rapoarte automate care te ajută să reduci costurile cu până la 30% lunar. Nu există o soluție universală, dar cele care se integrează perfect cu… https:// afaceritop.ro/care-este-cel-ma i-bun-sistem-de-monitorizare-gps-pentru-flote-auto/"
     }
   ]
 }
