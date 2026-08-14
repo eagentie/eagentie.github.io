@@ -4,8 +4,14 @@
   "site_feed": "https://noutati24.ro/feed/",
   "mastodon": "https://social.5th.ro/@noutati24",
   "mastodon_rss": "https://social.5th.ro/@noutati24.rss",
-  "updated_at": "2026-08-14T02:44:22Z",
+  "updated_at": "2026-08-14T05:00:19Z",
   "site_posts": [
+    {
+      "title": "Resursele tehnice și umane au fost suplimentate pentru gestionarea volumului ridicat de solicitări înregistrate după repornirea e-Terra",
+      "link": "https://noutati24.ro/resursele-tehnice-si-umane-au-fost-suplimentate-pentru-gestionarea-volumului-ridicat-de-solicitari-inregistrate-dupa-repornirea-e-terra/",
+      "date": "Thu, 13 Aug 2026 15:55:00 +0000",
+      "summary": "COMUNICAT DE PRESĂ Pentru a răspunde volumului ridicat de solicitări primite din partea cetățenilor și partenerilor în aplicația e-Terra au &#8230; Articolul Resursele tehnice și umane au fost suplimentate pentru gestionarea volumului ridicat de solicitări înregistrate după repornirea e-Terra apare prima dată în Noutati 24 ."
+    },
     {
       "title": "Aplicația e-Terra și-a reluat activitatea",
       "link": "https://noutati24.ro/aplicatia-e-terra-si-a-reluat-activitatea/",
@@ -71,15 +77,15 @@
       "link": "https://noutati24.ro/efecte-ale-suspendarii-hotararilor-de-guvern-de-catre-curtea-de-apel-bucuresti/",
       "date": "Fri, 31 Jul 2026 19:10:00 +0000",
       "summary": "COMUNICAT DE PRESĂ Măsuri importante pentru protecția tinerilor și persoanelor adulte cu dizabilități, pentru accesul pacienților români la registre internaționale &#8230; Articolul Efecte ale suspendării Hotărârilor de Guvern de către Curtea de Apel București apare prima dată în Noutati 24 ."
-    },
-    {
-      "title": "Ședința extraordinară de guvern din 31 iulie 2026",
-      "link": "https://noutati24.ro/sedinta-extraordinara-de-guvern-din-31-iulie-2026/",
-      "date": "Fri, 31 Jul 2026 17:27:00 +0000",
-      "summary": "Guvernul României Guvernul este autoritatea publică a puterii executive, care funcționează în baza votului de încredere acordat de Parlament și &#8230; Articolul Ședința extraordinară de guvern din 31 iulie 2026 apare prima dată în Noutati 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@noutati24/117091827519055275",
+      "date": "Fri, 14 Aug 2026 03:51:37 +0000",
+      "content": "🆕COMUNICAT DE PRESĂ Pentru a răspunde volumului ridicat de solicitări primite din partea cetățenilor și partenerilor în aplicația e-Terra au fost asigurate resurse tehnice și umane suplimentare în toate oficiile de cadastru și publicitate imobiliară (OCPI) din România. În data de 12 august 2026, la nivelul tuturor OCPI, au fost 🌐 https:// noutati24.ro/resursele-tehnice -si-umane-au-fost-suplimentate-pentru-gestionarea-volumului-ridicat-de-solicitari-inregistrate-dupa-repornirea-e-terra/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@noutati24/117086163890014892",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@noutati24/117023568593307502",
       "date": "Sun, 02 Aug 2026 02:32:28 +0000",
       "content": "🆕Galerie foto COMUNICAT DE PRESĂ Secretarul de stat din Ministerul Energiei, Cristian Bușoi, și secretarul general al ministerului, Sorin Elisei, au avut astăzi un comandament de lucru cu reprezentanții companiilor din domeniul petrolier și al distribuției de carburanți. Aprovizionarea constantă cu 🌐 https:// noutati24.ro/comandament-de-lu cru-cu-reprezentantii-companiilor-din-domeniul-petrolier-si-al-distributiei-de-carburanti-pe-tema-aprovizionarii-constante-cu-combustibil-a-pietei-interne/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@noutati24/117017864400746268",
-      "date": "Sat, 01 Aug 2026 02:21:49 +0000",
-      "content": "🆕Galerie foto Ziua Europeană de Comemorare a Holocaustului împotriva Romilor a fost marcată printr-o ceremonie organizată la Memorialul Victimelor Holocaustului de Agenția Națională pentru Romi. Guvernul României a fost reprezentat de Secretarul General al Guvernului, Dan Reșitnec, de secretarul de stat din cadrul Cancelariei Prim-ministrului, Dragoș Hotea și 🌐 https:// noutati24.ro/mesajul-prim-mini strului-ilie-bolojan-cu-prilejul-zilei-europene-de-comemorare-a-holocaustului-impotriva-romilor/"
     }
   ]
 }
