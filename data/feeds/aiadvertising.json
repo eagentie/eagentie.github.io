@@ -4,8 +4,14 @@
   "site_feed": "https://aiadvertising.ro/feed/",
   "mastodon": "https://social.5th.ro/@ai_advertising",
   "mastodon_rss": "https://social.5th.ro/@ai_advertising.rss",
-  "updated_at": "2026-08-14T08:36:42Z",
+  "updated_at": "2026-08-14T10:15:10Z",
   "site_posts": [
+    {
+      "title": "Cum folosești AI ca să scrii un anunț clar, fără să inventezi detalii: ghid CSV.RO",
+      "link": "https://aiadvertising.ro/cum-folosesti-ai-scrii-anunt-clar-fara-inventezi-detalii/",
+      "date": "Fri, 14 Aug 2026 09:43:08 +0000",
+      "summary": "Folosește AI pentru titlu și structură, dar verifică manual starea, specificațiile, prețul și fotografiile înainte să publici un anunț. Articolul Cum folosești AI ca să scrii un anunț clar, fără să inventezi detalii: ghid CSV.RO apare prima dată în Ai advertising ."
+    },
     {
       "title": "Cancerul gastric: diagnostic precoce și tratament chirurgical",
       "link": "https://aiadvertising.ro/cancerul-gastric-diagnostic-precoce-si-tratament-chirurgical/",
@@ -59,15 +65,15 @@
       "link": "https://aiadvertising.ro/de-ce-sa-nu-amani-consultul-la-medic-chirurg-cand-apar-simptome-persistente/",
       "date": "Sun, 10 May 2026 06:30:00 +0000",
       "summary": "Te-ai trezit vreodată cu o durere sâcâitoare care refuză să dispară, sperând că va trece... Articolul De ce să nu amâni consultul la medic chirurg când apar simptome persistente apare prima dată în Ai advertising ."
-    },
-    {
-      "title": "Cum să alegi un apartament premium în București: zonele care fac diferența",
-      "link": "https://aiadvertising.ro/cum-sa-alegi-un-apartament-premium-in-bucuresti-zonele-care-fac-diferenta/",
-      "date": "Tue, 05 May 2026 18:13:00 +0000",
-      "summary": "Cum să alegi un apartament premium în București: zonele care fac diferența Achiziția unei locuințe... Articolul Cum să alegi un apartament premium în București: zonele care fac diferența apare prima dată în Ai advertising ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@ai_advertising/117093210037635514",
+      "date": "Fri, 14 Aug 2026 09:43:12 +0000",
+      "content": "Folosește AI pentru titlu și structură, dar verifică manual starea, specificațiile, prețul și fotografiile înainte să publici un anunț. https:// aiadvertising.ro/cum-folosesti -ai-scrii-anunt-clar-fara-inventezi-detalii/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@ai_advertising/117014408414109536",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@ai_advertising/116130706635787427",
       "date": "Wed, 25 Feb 2026 10:05:56 +0000",
       "content": "Eficiența unui senzor de mișcare depinde aproape în totalitate de unghiul său de vizualizare și de modul în care scanează mediul înconjurător. Majoritatea dispozitivelor utilizate în locuințe folosesc tehnologia infraroșu pasiv (PIR). Aceasta funcționează prin detectarea schimbărilor rapide de temperatură, nu a mișcării fizice propriu-zise. Un corp uman cald care trece printr-un fundal mai… https:// aiadvertising.ro/unde-pozition am-corect-senzori-de-miscare-pentru-eficienta-maxima/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@ai_advertising/116062957546047694",
-      "date": "Fri, 13 Feb 2026 10:56:27 +0000",
-      "content": "Analiza sumară a primelor 10 rezultate Google indică faptul că majoritatea paginilor care vizează aceste cuvinte cheie sunt site-uri tehnice ale autorităților navale (AFDJ) sau portaluri de știri locale. Elementele care le diferențiază sunt axate pe date brute, cifre și tabele oficiale, deseori fără o explicație contextuală pentru utilizatorul obișnuit. Acest articol se va diferenția… https:// aiadvertising.ro/cotele-dunari i-la-bechet-in-2026-nivelul-apei-azi-grafic-si-evolutie-pe-zile/"
     }
   ]
 }

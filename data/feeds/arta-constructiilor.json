@@ -4,8 +4,14 @@
   "site_feed": "https://arta-constructiilor.ro/feed/",
   "mastodon": "https://social.5th.ro/@ArtaConstructiilor",
   "mastodon_rss": "https://social.5th.ro/@ArtaConstructiilor.rss",
-  "updated_at": "2026-08-14T08:38:53Z",
+  "updated_at": "2026-08-14T10:16:35Z",
   "site_posts": [
+    {
+      "title": "Ce verifici înainte să cumperi un teren pentru casă: ghid practic CSV.RO",
+      "link": "https://arta-constructiilor.ro/ce-verifici-inainte-cumperi-teren-pentru-casa/",
+      "date": "Fri, 14 Aug 2026 09:41:15 +0000",
+      "summary": "Un teren poate părea potrivit într-un anunț și poate deveni dificil de folosit după cumpărare. Suprafața și prețul nu spun singure dacă lotul permite construcția &#8230; Articolul Ce verifici înainte să cumperi un teren pentru casă: ghid practic CSV.RO apare prima dată în Arta Constructiilor ."
+    },
     {
       "title": "Hernia ombilicală la adulți: cauze, simptome și tratament",
       "link": "https://arta-constructiilor.ro/hernia-ombilicala-la-adulti-cauze-simptome-si-tratament/",
@@ -59,15 +65,15 @@
       "link": "https://arta-constructiilor.ro/de-la-pasiune-la-cercetare-aplicata-un-elev-am-school-construieste-si-pregateste-lansarea-unei-rachete/",
       "date": "Tue, 02 Jun 2026 11:18:12 +0000",
       "summary": "Erik Culescu, elev &#238;n clasa a XII-a, pasionat de astronomie, inginerie aerospațială și tehnologie, pregătește prezentarea unui proiect educațional rar &#238;nt&#226;lnit &#238;n Rom&#226;nia: o rachetă &#8230; Articolul De la pasiune la cercetare aplicată: un elev Am School construiește și pregătește lansarea unei rachete apare prima dată în Arta Constructiilor ."
-    },
-    {
-      "title": "Sistemul de tablă click în 2026: De ce este considerată cea mai eficientă învelitoare pentru arhitectura minimalistă",
-      "link": "https://arta-constructiilor.ro/sistemul-de-tabla-click-in-2026-de-ce-este-considerata-cea-mai-eficienta-invelitoare-pentru-arhitectura-minimalista/",
-      "date": "Tue, 19 May 2026 05:32:41 +0000",
-      "summary": "Sistemul de tablă click a devenit una dintre cele mai populare soluții pentru acoperișurile moderne din 2026. Tot mai multe case construite în stil minimalist &#8230; Articolul Sistemul de tablă click în 2026: De ce este considerată cea mai eficientă învelitoare pentru arhitectura minimalistă apare prima dată în Arta Constructiilor ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@ArtaConstructiilor/117093202367563295",
+      "date": "Fri, 14 Aug 2026 09:41:15 +0000",
+      "content": "Un teren poate părea potrivit într-un anunț și poate deveni dificil de folosit după cumpărare. Suprafața și prețul nu spun singure dacă lotul permite construcția casei dorite, dacă are acces clar, dacă utilitățile pot fi racordate sau dacă forma terenului lasă suficient spațiu pentru clădire, curte și retrageri. CSV.RO este o platformă de anunțuri online… .... 🌐 https:// arta-constructiilor.ro/ce-veri fici-inainte-cumperi-teren-pentru-casa/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@ArtaConstructiilor/117014535527699186",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@ArtaConstructiilor/116595042294895585",
       "date": "Mon, 18 May 2026 10:12:36 +0000",
       "content": "Există câteva produse care, odată ce le ai, nu mai înțelegi cum te-ai descurcat fără ele. Oglinda LED pentru baie este unul dintre ele. Pare un upgrade de confort, un detaliu și mulți amână să o cumpere tocmai pentru că nu o consideră esențială. Cei care fac pasul descoperă rapid că a fost una dintre… .... 🌐 https:// arta-constructiilor.ro/de-ce-o glinda-led-pentru-baie-a-devenit-unul-dintre-cele-mai-apreciate-upgrade-uri-in-amenajarea-moderna/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@ArtaConstructiilor/116549694789832488",
-      "date": "Sun, 10 May 2026 10:00:08 +0000",
-      "content": "Introducere Ai simțit vreodată o durere ascuțită în partea dreaptă a abdomenului, imediat după o masă mai grasă? Această stare de disconfort nu trebuie ignorată, deoarece poate indica prezența unor calculi, afecțiune cunoscută sub numele de litiaza biliara. Mulți pacienți amână vizita la medic din cauza temerilor legate de intervențiile chirurgicale clasice. Totuși, medicina modernă… .... 🌐 https:// arta-constructiilor.ro/colecis tectomie-laparoscopica-bucuresti-ce-inseamna-operatia-de-colecist/"
     }
   ]
 }
