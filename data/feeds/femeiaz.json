@@ -4,8 +4,14 @@
   "site_feed": "https://femeiaz.ro/feed/",
   "mastodon": "https://social.5th.ro/@femeiAZ",
   "mastodon_rss": "https://social.5th.ro/@femeiAZ.rss",
-  "updated_at": "2026-08-14T10:15:40Z",
+  "updated_at": "2026-08-14T11:08:36Z",
   "site_posts": [
+    {
+      "title": "3 Greșeli pe care le fac multe femei când își aleg ținuta pentru plajă",
+      "link": "https://femeiaz.ro/2026/08/14/3-greseli-pe-care-le-fac-multe-femei-cand-isi-aleg-tinuta-pentru-plaja/",
+      "date": "Fri, 14 Aug 2026 10:32:23 +0000",
+      "summary": "Alegerea ținutei pentru plajă pare, la prima vedere, una dintre cele mai simple decizii ale verii. Realitatea arată însă altfel,&#8230; Articolul 3 Greșeli pe care le fac multe femei când își aleg ținuta pentru plajă apare prima dată în Femei A-Z ."
+    },
     {
       "title": "Peritonita: o urgență chirurgicală care necesită intervenție rapidă",
       "link": "https://femeiaz.ro/2026/07/31/peritonita-o-urgenta-chirurgicala-care-necesita-interventie-rapida/",
@@ -59,15 +65,15 @@
       "link": "https://femeiaz.ro/2025/12/30/animatorii-pentru-petreceri-copii-distractie-emotie-si-amintiri-de-neuitat/",
       "date": "Tue, 30 Dec 2025 05:25:00 +0000",
       "summary": "Petrecerile pentru copii au evoluat mult în ultimii ani. Dacă odinioară era suficient un tort, câteva baloane și muzică, astăzi&#8230; Articolul Animatorii pentru petreceri copii: distracție, emoție și amintiri de neuitat apare prima dată în Femei A-Z ."
-    },
-    {
-      "title": "Mentions și replies pe Mastodon: regulile conversației în Fediverse",
-      "link": "https://femeiaz.ro/2025/12/17/mentions-si-replies-pe-mastodon-regulile-conversatiei-in-fediverse/",
-      "date": "Wed, 17 Dec 2025 16:58:54 +0000",
-      "summary": "V-ați simțit vreodată copleșiți de algoritmii rețelelor sociale care dictează ce merită sau nu să vedeți? Sunteți în căutarea unei&#8230; Articolul Mentions și replies pe Mastodon: regulile conversației în Fediverse apare prima dată în Femei A-Z ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@femeiAZ/117093403416519261",
+      "date": "Fri, 14 Aug 2026 10:32:23 +0000",
+      "content": "Alegerea ținutei pentru plajă pare, la prima vedere, una dintre cele mai simple decizii ale verii. Realitatea arată însă altfel, pentru că multe femei ajung să cumpere în ultimul moment, fără să se gândească la croială, la culoare sau la cât de bine li se potrivește un anumit model. Graba schimbă rezultatul final mai mult… https:// femeiaz.ro/2026/08/14/3-gresel i-pe-care-le-fac-multe-femei-cand-isi-aleg-tinuta-pentru-plaja/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@femeiAZ/117014576384983084",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@femeiAZ/115695333807345413",
       "date": "Wed, 10 Dec 2025 12:44:54 +0000",
       "content": "Oameni, destine, emoție: Adela Hanafi, a lansat podcastul „Povești Nespuse cu Adela” Într-o lume adesea dominată de superficialitate și știri rapide, Adela Hanafi, Președinta Asociației CONIL și sufletul din spatele CONIL Fest, lansează un proiect special: podcastul „Povești Nespuse cu Adela”. Acest demers curajos transformă experiența personală profundă în lecții de viață universale, https:// femeiaz.ro/2025/12/10/oameni-d estine-emotie-adela-hanafi-a-lansat-podcastul-povesti-nespuse-cu-adela/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@femeiAZ/115695333739838124",
-      "date": "Wed, 10 Dec 2025 12:44:53 +0000",
-      "content": "În peisajul digital saturat de astăzi, a vinde produse nu mai este suficient. Afacerea dumneavoastră de eCommerce are nevoie de o voce autentică și de o strategie care să transforme cititorii în cumpărători loiali. Cunoaștem cu toții dificultatea de a menține relevanța în fața algoritmilor în continuă schimbare și a costurilor în creștere pentru publicitatea… https:// femeiaz.ro/2025/12/01/advertor iale-pentru-ecommerce-in-2025-cum-vinzi-produse-prin-continut/"
     }
   ]
 }

@@ -4,8 +4,14 @@
   "site_feed": "https://doctor360.ro/feed/",
   "mastodon": "https://social.5th.ro/@doctor360",
   "mastodon_rss": "https://social.5th.ro/@doctor360.rss",
-  "updated_at": "2026-08-14T10:16:24Z",
+  "updated_at": "2026-08-14T11:09:27Z",
   "site_posts": [
+    {
+      "title": "De ce un singur dinte lipsă îți poate schimba mușcătura fără să îți dai seama",
+      "link": "https://doctor360.ro/de-ce-un-singur-dinte-lipsa-iti-poate-schimba-muscatura-fara-sa-iti-dai-seama/",
+      "date": "Fri, 14 Aug 2026 10:29:21 +0000",
+      "summary": "Pierderea unei măsele din spate rămâne, pentru mulți oameni, un incident fără urmări. Dintele nu se mai vede când zâmbești, mestecatul pare să meargă la fel, iar durerea a dispărut odată cu extracția. Medicii stomatologi observă însă că tocmai aceste cazuri ajung cel mai târziu în cabinet, uneori după ani în care gura s-a rearanjat [&#8230;] Articolul De ce un singur dinte lipsă îți poate schimba mușcătura fără să îți dai seama apare prima dată în Doctor 360 ."
+    },
     {
       "title": "Chirurgia robotică în tratamentul cancerului colorectal",
       "link": "https://doctor360.ro/chirurgia-robotica-in-tratamentul-cancerului-colorectal/",
@@ -71,15 +77,15 @@
       "link": "https://doctor360.ro/cum-functioneaza-federarea-pe-mastodon-explicat-pe-intelesul-tuturor/",
       "date": "Wed, 17 Dec 2025 16:58:54 +0000",
       "summary": "Când ne gândim la rețelele sociale, imaginea care ne vine imediat în minte este cea a câtorva companii uriașe care controlează totul: datele, algoritmii și modul în care interacționăm. Ce s-ar întâmpla dacă am putea schimba această paradigmă? Dacă am putea avea control real asupra experienței noastre online? Această viziune este exact ceea ce oferă [&#8230;] Articolul Cum funcționează federarea pe Mastodon, explicat pe înțelesul tuturor apare prima dată în Doctor 360 ."
-    },
-    {
-      "title": "Mixit aduce gustări festive pentru petrecerea de Revelion",
-      "link": "https://doctor360.ro/mixit-aduce-gustari-festive-pentru-petrecerea-de-revelion/",
-      "date": "Wed, 17 Dec 2025 07:26:12 +0000",
-      "summary": "&#160; &#160; Revelionul &#238;nseamnă mese festive, &#238;nt&#226;lniri cu prietenii și seri care se prelungesc mult după miezul nopții, iar gustările joacă un rol tot mai important &#238;n completarea meniului clasic. Pentru cei care caută alternative ușor de servit și potrivite pentru preferințe diferite, Mixit propune selecția &#8222;Gustări festive&#8221; &#8211; o colecție de texturi crocante și [&#8230;] Articolul Mixit aduce gustări festive pentru petrecerea de Revelion apare prima dată în Doctor 360 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@doctor360/117093391530313677",
+      "date": "Fri, 14 Aug 2026 10:29:21 +0000",
+      "content": "💡Pierderea unei măsele din spate rămâne, pentru mulți oameni, un incident fără urmări. Dintele nu se mai vede când zâmbești, mestecatul pare să meargă la fel, iar durerea a dispărut odată cu extracția. Medicii stomatologi observă însă că tocmai aceste cazuri ajung cel mai târziu în cabinet, uneori după ani în care gura s-a rearanjat… 💡 https:// doctor360.ro/de-ce-un-singur-d inte-lipsa-iti-poate-schimba-muscatura-fara-sa-iti-dai-seama/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@doctor360/117014456370148276",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@doctor360/115736506064638674",
       "date": "Wed, 17 Dec 2025 19:15:32 +0000",
       "content": "💡Când ne gândim la rețelele sociale, imaginea care ne vine imediat în minte este cea a câtorva companii uriașe care controlează totul: datele, algoritmii și modul în care interacționăm. Ce s-ar întâmpla dacă am putea schimba această paradigmă? Dacă am putea avea control real asupra experienței noastre online? Această viziune este exact ceea ce oferă… 💡 https:// doctor360.ro/cum-functioneaza- federarea-pe-mastodon-explicat-pe-intelesul-tuturor/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@doctor360/115734204011251533",
-      "date": "Wed, 17 Dec 2025 09:30:06 +0000",
-      "content": "💡 Revelionul înseamnă mese festive, întâlniri cu prietenii și seri care se prelungesc mult după miezul nopții, iar gustările joacă un rol tot mai important în completarea meniului clasic. Pentru cei care caută alternative ușor de servit și potrivite pentru preferințe diferite, Mixit propune selecția „Gustări festive” – o colecție de texturi crocante și… 💡 https:// doctor360.ro/mixit-aduce-gusta ri-festive-pentru-petrecerea-de-revelion/"
     }
   ]
 }
