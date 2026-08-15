@@ -4,8 +4,14 @@
   "site_feed": "https://noutati24.ro/feed/",
   "mastodon": "https://social.5th.ro/@noutati24",
   "mastodon_rss": "https://social.5th.ro/@noutati24.rss",
-  "updated_at": "2026-08-15T03:52:43Z",
+  "updated_at": "2026-08-15T04:46:04Z",
   "site_posts": [
+    {
+      "title": "Guvernul și specialiștii lucrează pentru deblocarea proiectului Bala 2",
+      "link": "https://noutati24.ro/guvernul-si-specialistii-lucreaza-pentru-deblocarea-proiectului-bala-2/",
+      "date": "Fri, 14 Aug 2026 16:15:00 +0000",
+      "summary": "Galerie foto COMUNICAT DE PRESĂ Reprezentanți ai instituțiilor publice și specialiști au analizat astăzi, la prima întâlnire de lucru a &#8230; Articolul Guvernul și specialiștii lucrează pentru deblocarea proiectului Bala 2 apare prima dată în Noutati 24 ."
+    },
     {
       "title": "Resursele tehnice și umane au fost suplimentate pentru gestionarea volumului ridicat de solicitări înregistrate după repornirea e-Terra",
       "link": "https://noutati24.ro/resursele-tehnice-si-umane-au-fost-suplimentate-pentru-gestionarea-volumului-ridicat-de-solicitari-inregistrate-dupa-repornirea-e-terra/",
@@ -71,15 +77,15 @@
       "link": "https://noutati24.ro/set-de-masuri-pentru-echilibrarea-sistemului-energetic-national-si-asigurarea-necesarului-de-consum-pentru-cetateni-si-economie/",
       "date": "Fri, 31 Jul 2026 19:31:00 +0000",
       "summary": "COMUNICAT DE PRESĂ Guvernul a luat măsuri pentru menținerea în funcțiune a Unității 2 a Centralei Nuclearelectrice de la Cernavodă &#8230; Articolul Set de măsuri pentru echilibrarea sistemului energetic național și asigurarea necesarului de consum pentru cetățeni și economie apare prima dată în Noutati 24 ."
-    },
-    {
-      "title": "Efecte ale suspendării Hotărârilor de Guvern de către Curtea de Apel București",
-      "link": "https://noutati24.ro/efecte-ale-suspendarii-hotararilor-de-guvern-de-catre-curtea-de-apel-bucuresti/",
-      "date": "Fri, 31 Jul 2026 19:10:00 +0000",
-      "summary": "COMUNICAT DE PRESĂ Măsuri importante pentru protecția tinerilor și persoanelor adulte cu dizabilități, pentru accesul pacienților români la registre internaționale &#8230; Articolul Efecte ale suspendării Hotărârilor de Guvern de către Curtea de Apel București apare prima dată în Noutati 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@noutati24/117097527721241958",
+      "date": "Sat, 15 Aug 2026 04:01:15 +0000",
+      "content": "🆕Galerie foto COMUNICAT DE PRESĂ Reprezentanți ai instituțiilor publice și specialiști au analizat astăzi, la prima întâlnire de lucru a Comitetului Interministerial Bala 2, situația cauzată de scăderea accentuată a nivelului Dunării și modul în care pot fi promovate soluții tehnice necesare asigurării debitului de apă pentru răcirea reactoarelor nucleare de la Centrala Nuclearelectrică de… 🌐 https:// noutati24.ro/guvernul-si-speci alistii-lucreaza-pentru-deblocarea-proiectului-bala-2/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@noutati24/117091827519055275",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@noutati24/117023568837125132",
       "date": "Sun, 02 Aug 2026 02:32:32 +0000",
       "content": "🆕Guvernul României Guvernul este autoritatea publică a puterii executive, care funcționează în baza votului de încredere acordat de Parlament și care asigură realizarea politicii interne și externe a țării și exercită conducerea generală a administrației publice. Află mai multeArticol preluat de pe gov.ro 🌐 https:// noutati24.ro/sedinta-de-guvern -din-data-30-iulie-2026/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@noutati24/117023568593307502",
-      "date": "Sun, 02 Aug 2026 02:32:28 +0000",
-      "content": "🆕Galerie foto COMUNICAT DE PRESĂ Secretarul de stat din Ministerul Energiei, Cristian Bușoi, și secretarul general al ministerului, Sorin Elisei, au avut astăzi un comandament de lucru cu reprezentanții companiilor din domeniul petrolier și al distribuției de carburanți. Aprovizionarea constantă cu 🌐 https:// noutati24.ro/comandament-de-lu cru-cu-reprezentantii-companiilor-din-domeniul-petrolier-si-al-distributiei-de-carburanti-pe-tema-aprovizionarii-constante-cu-combustibil-a-pietei-interne/"
     }
   ]
 }
