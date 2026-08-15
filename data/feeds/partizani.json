@@ -4,8 +4,14 @@
   "site_feed": "https://partizani.ro/feed/",
   "mastodon": "https://social.5th.ro/@Partizani",
   "mastodon_rss": "https://social.5th.ro/@Partizani.rss",
-  "updated_at": "2026-08-15T01:49:35Z",
+  "updated_at": "2026-08-15T03:04:16Z",
   "site_posts": [
+    {
+      "title": "Ce cumperi cu adevărat când îți iei primul echipament de tenis de masă",
+      "link": "https://partizani.ro/ce-cumperi-cu-adevarat-cand-iti-iei-primul-echipament-de-tenis-de-masa/",
+      "date": "Sat, 15 Aug 2026 02:18:32 +0000",
+      "summary": "Bugetul contează, dar nu în felul în care crezi. Un ghid fără liste de produse, fără prețuri umflate și fără sfaturi care te trimit să cheltuiești mai mult decât ai nevoie. Mulți oameni care se apucă de tenis de masă fac prima achiziție în grabă: iau un set ieftin de [&#8230;] Articolul Ce cumperi cu adevărat când îți iei primul echipament de tenis de masă apare prima dată în Partizani ."
+    },
     {
       "title": "Unde poți integra mozaicul din piatră naturală pentru un design cu personalitate",
       "link": "https://partizani.ro/unde-poti-integra-mozaicul-din-piatra-naturala-pentru-un-design-cu-personalitate/",
@@ -59,12 +65,6 @@
       "link": "https://partizani.ro/cafeaua-de-urgenta-de-ce-merita-sa-ai-mereu-o-rezerva-strategica-de-capsule-in-sertarul-de-la-birou/",
       "date": "Fri, 24 Apr 2026 15:16:19 +0000",
       "summary": "Dincolo de monitor, tastatură și agenda plină, există un aliat tăcut care dictează ritmul zilei tale: sertarul cu capsule. Ceea ce pare la prima vedere un simplu loc de depozitare este, în realitate, centrul tău de comandă pentru productivitate și confort. Atunci când termenele limită se apropie, iar ședințele par să [&#8230;] Articolul Cafeaua de urgență: de ce merită să ai mereu o rezervă strategică de capsule în sertarul de la birou? apare prima dată în Partizani ."
-    },
-    {
-      "title": "Cum alegi corect materialele vizuale pentru un business local care vrea să fie remarcat",
-      "link": "https://partizani.ro/cum-alegi-corect-materialele-vizuale-pentru-un-business-local/",
-      "date": "Fri, 10 Apr 2026 11:35:11 +0000",
-      "summary": "Pentru multe afaceri locale, promovarea nu începe și nu se termină online. De cele mai multe ori, primul contact real cu un potențial client are loc în fața sediului, în magazin, într-un showroom, la recepție sau la un eveniment. Din acest motiv, materialele vizuale folosite de un business au un [&#8230;] Articolul Cum alegi corect materialele vizuale pentru un business local care vrea să fie remarcat apare prima dată în Partizani ."
     }
   ],
   "mastodon_posts": []
