@@ -4,7 +4,7 @@
   "site_feed": "https://iasi-azi.ro/feed/",
   "mastodon": "https://social.5th.ro/@Iasi",
   "mastodon_rss": "https://social.5th.ro/@Iasi.rss",
-  "updated_at": "2026-08-16T06:57:14Z",
+  "updated_at": "2026-08-16T07:43:50Z",
   "site_posts": [
     {
       "title": "Vin acasă în august cu prieteni din străinătate? Glam Apartments oferă cazare în Iași pentru vacanțe împreună",
@@ -70,6 +70,12 @@
   "mastodon_posts": [
     {
       "title": "",
+      "link": "https://social.5th.ro/@Iasi/117104021833499635",
+      "date": "Sun, 16 Aug 2026 07:32:47 +0000",
+      "content": "Who we are Our website address is: https:// iasi-azi.ro . Comments When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection. An anonymized string created from your email address (also called a hash) may be provided… https:// iasi-azi.ro/privacy-policy/"
+    },
+    {
+      "title": "",
       "link": "https://social.5th.ro/@Iasi/117087482393344198",
       "date": "Thu, 13 Aug 2026 09:26:35 +0000",
       "content": "August are un ritm aparte în România. Este luna concediilor, a întâlnirilor de familie și, pentru foarte mulți români care locuiesc în străinătate, perioada în care se întorc acasă pentru câteva zile sau câteva săptămâni. Uneori vin singuri. Alteori vin împreună cu partenerul, copiii sau prietenii pe care i-au cunoscut în țările în care locuiesc.… https:// iasi-azi.ro/vin-acasa-in-augus t-cu-prieteni-din-strainatate-glam-apartments-ofera-cazare-in-iasi-pentru-vacante-impreuna/"
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@Iasi/115706203808392527",
       "date": "Fri, 12 Dec 2025 10:49:17 +0000",
       "content": "Dacă doriți ca site-ul dumneavoastră să atingă performanțe maxime, nu este suficient să creați conținut de calitate. Modul în care informația este organizată și prezentată motoarelor de căutare este crucial. Optimizarea URL-urilor: Fundamentul unei Indexări Google de Succes Atenție: V-ați întrebat vreodată de ce unele pagini web urcă rapid în clasamente, în timp ce altele… https:// iasi-azi.ro/structura-url-uril or-seo-friendly-reguli-simple-pentru-un-site-usor-de-indexat/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@Iasi/115706202323796829",
-      "date": "Fri, 12 Dec 2025 10:48:54 +0000",
-      "content": "Știri și povești din Iași: oraș, cartiere, universități, cultură, evenimente și afaceri locale. Urmărește-ne dacă vrei să fii la curent cu ce se întâmplă azi în Iași. # iasi # stiri # turism # politica https:// iasi-azi.ro"
     }
   ]
 }
