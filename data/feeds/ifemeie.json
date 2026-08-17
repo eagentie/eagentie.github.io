@@ -4,8 +4,14 @@
   "site_feed": "https://iFemeie.ro/feed/",
   "mastodon": "https://social.5th.ro/@iFemeie",
   "mastodon_rss": "https://social.5th.ro/@iFemeie.rss",
-  "updated_at": "2026-08-17T05:49:45Z",
+  "updated_at": "2026-08-17T07:16:00Z",
   "site_posts": [
+    {
+      "title": "Curățare saltele Oradea pentru case cu copii și animale",
+      "link": "https://ifemeie.ro/curatare-saltele-oradea-pentru-case-cu-copii-si-animale/",
+      "date": "Mon, 17 Aug 2026 03:18:40 +0000",
+      "summary": "&#160; Material informativ realizat &#238;n colaborare cu CleanSpot Oradea. &#206;ntr-o casă vie, salteaua nu intră... Articolul Curățare saltele Oradea pentru case cu copii și animale apare prima dată în iFemeie ."
+    },
     {
       "title": "Cea mai buna reteta de sorici expandat",
       "link": "https://ifemeie.ro/cea-mai-buna-reteta-de-sorici-expandat/",
@@ -65,15 +71,15 @@
       "link": "https://ifemeie.ro/calculator-sanatate-online-ghid-complet-pentru-monitorizarea-parametrilor-vitali/",
       "date": "Sun, 08 Feb 2026 21:11:13 +0000",
       "summary": "Calculator Sănătate Online pentru monitorizarea parametrilor vitali: necesar caloric zilnic și tensiune arterială, cu interpretări clare și recomandări personal Articolul Calculator Sănătate Online: Ghid Complet pentru Monitorizarea Parametrilor Vitali apare prima dată în iFemeie ."
-    },
-    {
-      "title": "Uleiul de rozmarin — prospețimea care trezește pielea, părul și mintea",
-      "link": "https://ifemeie.ro/uleiul-de-rozmarin-prospetimea-care-trezeste-pielea-parul-si-mintea/",
-      "date": "Thu, 05 Feb 2026 07:11:00 +0000",
-      "summary": "Există uleiuri esențiale care îți îmbracă pielea într-un parfum discret, liniștitor. Și există altele care... Articolul Uleiul de rozmarin — prospețimea care trezește pielea, părul și mintea apare prima dată în iFemeie ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@iFemeie/117109397694053316",
+      "date": "Mon, 17 Aug 2026 06:19:56 +0000",
+      "content": "Material informativ realizat în colaborare cu CleanSpot Oradea. Într-o casă vie, salteaua nu intră în contact doar cu lenjeria. Ea preia transpirație, praf, sebum, fire de păr, mici accidente și urme aduse de animalele care urcă uneori în pat. Când cauți curățare saltele Oradea, întrebarea utilă nu este doar „dispare pata?”, ci și „ce… https:// ifemeie.ro/curatare-saltele-or adea-pentru-case-cu-copii-si-animale/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@iFemeie/117090044596422949",
@@ -139,12 +145,6 @@
       "link": "https://social.5th.ro/@iFemeie/116016772598460523",
       "date": "Thu, 05 Feb 2026 07:11:00 +0000",
       "content": "Există uleiuri esențiale care îți îmbracă pielea într-un parfum discret, liniștitor. Și există altele care te trezesc pe loc, îți umplu camera de energie și îți pun sângele în mișcare. Uleiul de rozmarin face parte, cu siguranță, din a doua categorie. Cunoscut de secole pentru proprietățile sale tonice și revitalizante, uleiul de rozmarin este unul… https:// ifemeie.ro/uleiul-de-rozmarin- prospetimea-care-trezeste-pielea-parul-si-mintea/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@iFemeie/115937727336402026",
-      "date": "Thu, 22 Jan 2026 08:08:45 +0000",
-      "content": "Perioada sarcinii reprezinta una dintre cele mai frumoase, dar si solicitante etape din viata unei femei. Din momentul in care testul de sarcina devine pozitiv, corpul viitoarei mamici incepe un proces incredibil de transformare pentru a sustine dezvoltarea unei noi vieti. In acest context, nutritia joaca un rol critic, iar de multe ori alimentatia obisnuita… https:// ifemeie.ro/de-la-conceptie-la- nastere-vitaminele-in-sarcina-si-rolul-important-al-suplimentelor-oligobs/"
     }
   ]
 }

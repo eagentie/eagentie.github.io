@@ -4,8 +4,14 @@
   "site_feed": "https://cluj-azi.ro/feed/",
   "mastodon": "https://social.5th.ro/@cluj",
   "mastodon_rss": "https://social.5th.ro/@cluj.rss",
-  "updated_at": "2026-08-17T05:48:45Z",
+  "updated_at": "2026-08-17T07:14:58Z",
   "site_posts": [
+    {
+      "title": "Ce verifici când cumperi un produs second-hand în Cluj-Napoca: ghid local CSV.RO",
+      "link": "https://cluj-azi.ro/ce-verifici-produs-second-hand-cluj-napoca/",
+      "date": "Mon, 17 Aug 2026 07:01:05 +0000",
+      "summary": "Un ghid practic pentru cumpărături locale în Cluj-Napoca: cum reduci drumurile inutile, ce întrebi înainte de întâlnire și ce verifici la predare. Articolul Ce verifici când cumperi un produs second-hand în Cluj-Napoca: ghid local CSV.RO apare prima dată în Cluj AZI ."
+    },
     {
       "title": "Curele Poly-V și curele plate: când sunt alegerea corectă și ce avantaje oferă în transmisii moderne",
       "link": "https://cluj-azi.ro/curele-poly-v-si-curele-plate-cand-sunt-alegerea-corecta-si-ce-avantaje-ofera-in-transmisii-moderne/",
@@ -59,15 +65,15 @@
       "link": "https://cluj-azi.ro/cum-pregatesti-site-ul-pentru-urmatorul-update-de-algoritm-google/",
       "date": "Fri, 14 Nov 2025 07:32:14 +0000",
       "summary": "Introducere: De Ce Fluctuațiile Google Nu Trebuie Să Vă Panicheze Atenție (A): Ați observat vreodată acele fluctuații bruște în clasamentele Google? Vă confruntați cu scăderi neașteptate de trafic, imediat după un anunț major? Milioane de proprietari de site-uri web se panichează de fiecare dată când Google lansează un nou update Google. Acele momente de incertitudine [&#8230;] Articolul Cum pregătești site-ul pentru următorul update de algoritm Google apare prima dată în Cluj AZI ."
-    },
-    {
-      "title": "Excursii Sfântu Gheorghe în Delta Dunării – între Dunăre și Marea Neagră",
-      "link": "https://cluj-azi.ro/excursii-sfantu-gheorghe-in-delta-dunarii-intre-dunare-si-marea-neagra/",
-      "date": "Thu, 04 Sep 2025 00:02:00 +0000",
-      "summary": "Vrei să descoperi frumusețea sălbatică a Deltei Dunării? Imaginează-ți o aventură unică, unde apele liniștite ale Dunării se întâlnesc cu Marea Neagră, un paradis al naturii care te așteaptă! Pregătește-te pentru o experiență de neuitat cu excursii Sfântu Gheorghe! Excursii Sfântu Gheorghe: O Poartă Spre Delta Dunării Sfântu Gheorghe este un punct de plecare ideal [&#8230;] Articolul Excursii Sfântu Gheorghe în Delta Dunării – între Dunăre și Marea Neagră apare prima dată în Cluj AZI ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@cluj/117109559513180779",
+      "date": "Mon, 17 Aug 2026 07:01:05 +0000",
+      "content": "Un ghid practic pentru cumpărături locale în Cluj-Napoca: cum reduci drumurile inutile, ce întrebi înainte de întâlnire și ce verifici la predare. https:// cluj-azi.ro/ce-verifici-produs -second-hand-cluj-napoca/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@cluj/116616750780520176",

@@ -4,8 +4,14 @@
   "site_feed": "https://cutremurul.ro/feed/",
   "mastodon": "https://social.5th.ro/@cutremur",
   "mastodon_rss": "https://social.5th.ro/@cutremur.rss",
-  "updated_at": "2026-08-17T05:48:30Z",
+  "updated_at": "2026-08-17T07:14:44Z",
   "site_posts": [
+    {
+      "title": "Apartament renovat într-un bloc vechi: ce modificări verifici înainte de cumpărare",
+      "link": "https://cutremurul.ro/apartament-renovat-bloc-vechi-modificari-verificare-cumparare/",
+      "date": "Mon, 17 Aug 2026 06:31:01 +0000",
+      "summary": "Un ghid practic pentru cumpărătorii care analizează un apartament renovat într-un bloc existent. Vezi ce verifici la compartimentare, instalații, documente și starea clădirii. Articolul Apartament renovat într-un bloc vechi: ce modificări verifici înainte de cumpărare apare prima dată în Cutremur ."
+    },
     {
       "title": "Cancerul esofagian: rolul chirurgiei în tratamentul multidisciplinar",
       "link": "https://cutremurul.ro/cancerul-esofagian-rolul-chirurgiei-in-tratamentul-multidisciplinar/",
@@ -59,15 +65,15 @@
       "link": "https://cutremurul.ro/importanta-pompei-haldex-si-service-ul-preventiv/",
       "date": "Tue, 16 Dec 2025 08:44:46 +0000",
       "summary": "Sistemul de tracțiune integrală inteligentă este una dintre caracteristicile definitorii ale modelelor Land Rover compacte, precum Freelander 2, Range Rover Evoque sau Discovery Sport. În centrul acestui sistem se află cuplajul Haldex, un dispozitiv electro-hidraulic sofisticat care gestionează distribuția cuplului între puntea față și cea spate în fracțiuni de secundă. Deși este proiectat să fie [&#8230;] Articolul Importanța pompei Haldex și service-ul preventiv apare prima dată în Cutremur ."
-    },
-    {
-      "title": "Îngrijirea picioarelor și igiena intimă la seniori",
-      "link": "https://cutremurul.ro/ingrijirea-picioarelor-si-igiena-intima-la-seniori/",
-      "date": "Mon, 15 Dec 2025 14:06:02 +0000",
-      "summary": "Odată cu înaintarea în vârstă, corpul trece printr-o serie de transformări fiziologice care impun o adaptare a rutinei zilnice de îngrijire și protecție. Pielea devine mai subțire, își pierde elasticitatea și funcția de barieră naturală, circulația sanguină periferică încetinește, iar controlul asupra funcțiilor fiziologice poate deveni o provocare. Aceste schimbări nu trebuie privite ca o [&#8230;] Articolul Îngrijirea picioarelor și igiena intimă la seniori apare prima dată în Cutremur ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@cutremur/117109441547090027",
+      "date": "Mon, 17 Aug 2026 06:31:05 +0000",
+      "content": "Un ghid practic pentru cumpărătorii care analizează un apartament renovat într-un bloc existent. Vezi ce verifici la compartimentare, instalații, documente și starea clădirii. https:// cutremurul.ro/apartament-renov at-bloc-vechi-modificari-verificare-cumparare/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@cutremur/117014451224454986",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@cutremur/115706017193099171",
       "date": "Fri, 12 Dec 2025 10:01:49 +0000",
       "content": "Orice părinte care a organizat vreodată o aniversare știe că succesul evenimentului nu se măsoară doar în calitatea tortului sau în spectaculozitatea decorațiunilor, ci în atmosfera generală și în modul în care se desfășoară interacțiunea dintre copii.O greșeală frecventă în planificarea petrecerilor este concentrarea exclusivă pe &quot;miezul&quot; acțiunii – momentul tortului și orele de joacă… https:// cutremurul.ro/jocuri-de-incepu t-si-de-final-de-petrecere-ca-sa-eviti-haosul/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@cutremur/115706017006574418",
-      "date": "Fri, 12 Dec 2025 10:01:46 +0000",
-      "content": "Te simți copleșit de zgomotul digital? Ai impresia că mesajul tău se pierde printre mii de reclame plictisitoare? Nu ești singur. Pentru o promovare afaceri eficientă, metodele clasice de publicitate își pierd rapid eficacitatea. În acest context, este vital să te adapți rapid, mai ales când vorbim despre ce aduce noul val al marketing 2025.… https:// cutremurul.ro/strategii-de-pub licare-advertoriale-in-2025-pentru-afaceri-mici/"
     }
   ]
 }

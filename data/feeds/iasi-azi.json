@@ -4,8 +4,14 @@
   "site_feed": "https://iasi-azi.ro/feed/",
   "mastodon": "https://social.5th.ro/@Iasi",
   "mastodon_rss": "https://social.5th.ro/@Iasi.rss",
-  "updated_at": "2026-08-17T05:48:17Z",
+  "updated_at": "2026-08-17T07:14:30Z",
   "site_posts": [
+    {
+      "title": "Cum alegi un electrician în Iași: ce verifici înainte de o intervenție acasă sau la firmă",
+      "link": "https://iasi-azi.ro/cum-alegi-electrician-iasi-verificari-inainte-interventie/",
+      "date": "Mon, 17 Aug 2026 07:04:34 +0000",
+      "summary": "Un ghid pentru locuitorii și firmele din Iași care caută un electrician pentru reparații, modernizări sau intervenții. Include verificări înainte de programare. Articolul Cum alegi un electrician în Iași: ce verifici înainte de o intervenție acasă sau la firmă apare prima dată în Iasi AZI ."
+    },
     {
       "title": "Iași pentru vizitatori internaționali: limbă, plată și obiceiuri locale",
       "link": "https://iasi-azi.ro/iasi-pentru-vizitatori-internationali-limba-plata-si-obiceiuri-locale/",
@@ -59,15 +65,15 @@
       "link": "https://iasi-azi.ro/stomatologie-si-oftalmologie-in-iasi-cum-alegi-clinica-potrivita/",
       "date": "Tue, 14 Jul 2026 08:15:00 +0000",
       "summary": "Ghid pentru servicii dentare și oftalmologice în Iași: consult inițial, transparență, urgențe și diferența dintre clinică și cabinet individual. Articolul Stomatologie și oftalmologie în Iași: cum alegi clinica potrivită apare prima dată în Iasi AZI ."
-    },
-    {
-      "title": "After-school și cursuri extracurriculare în Iași: criterii pentru părinți",
-      "link": "https://iasi-azi.ro/after-school-si-cursuri-extracurriculare-in-iasi-criterii-pentru-parinti/",
-      "date": "Sun, 05 Jul 2026 11:29:00 +0000",
-      "summary": "Cum alegi after-school sau cursuri extracurriculare în Iași: vârstă, program, siguranță și semne că un centru e potrivit pe termen lung. Articolul After-school și cursuri extracurriculare în Iași: criterii pentru părinți apare prima dată în Iasi AZI ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@Iasi/117109573213430786",
+      "date": "Mon, 17 Aug 2026 07:04:34 +0000",
+      "content": "Un ghid pentru locuitorii și firmele din Iași care caută un electrician pentru reparații, modernizări sau intervenții. Include verificări înainte de programare. https:// iasi-azi.ro/cum-alegi-electric ian-iasi-verificari-inainte-interventie/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@Iasi/117104256117474531",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@Iasi/117104255932822918",
       "date": "Sun, 16 Aug 2026 08:32:19 +0000",
       "content": "Ghid de start pentru antreprenori în Iași: formă juridică, cont bancar, contabilitate și primii pași operaționali fără birocrație inutilă. # afaceri # antreprenoriat # Iași https:// iasi-azi.ro/deschidere-firma-i n-iasi-pasii-esentiali-pentru-antreprenori-la-inceput/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@Iasi/117104255916167918",
-      "date": "Sun, 16 Aug 2026 08:32:19 +0000",
-      "content": "Checklist pentru o zi de festival în Iași: transport, hrană, obiecte esențiale și cum eviți aglomerația la intrare și ieșire. # evenimente # festivaluri # Iași https:// iasi-azi.ro/cum-planifici-o-zi -de-festival-in-iasi-fara-surprize-neplacute/"
     }
   ]
 }
