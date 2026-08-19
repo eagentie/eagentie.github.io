@@ -4,8 +4,14 @@
   "site_feed": "https://doctor360.ro/feed/",
   "mastodon": "https://social.5th.ro/@doctor360",
   "mastodon_rss": "https://social.5th.ro/@doctor360.rss",
-  "updated_at": "2026-08-19T04:51:24Z",
+  "updated_at": "2026-08-19T05:46:30Z",
   "site_posts": [
+    {
+      "title": "Endometrioza – de ce abordarea multidisciplinară este esențială pentru calitatea vieții pacientelor",
+      "link": "https://doctor360.ro/endometrioza-de-ce-abordarea-multidisciplinara-este-esentiala-pentru-calitatea-vietii-pacientelor/",
+      "date": "Wed, 19 Aug 2026 05:02:52 +0000",
+      "summary": "Endometrioza este o afecțiune complexă, care adesea ajunge să aibă un impact negativ asupra întregului organism, dar și asupra calității generale a vieții de zi cu zi. Pentru un tratament complet și eficient, în majoritatea cazurilor este necesară o abordare multidisciplinară, având în vedere varietatea și intensitatea simptomelor. Iar această abordare nu trebuie să excludă [&#8230;] Articolul Endometrioza – de ce abordarea multidisciplinară este esențială pentru calitatea vieții pacientelor apare prima dată în Doctor 360 ."
+    },
     {
       "title": "De ce un singur dinte lipsă îți poate schimba mușcătura fără să îți dai seama",
       "link": "https://doctor360.ro/de-ce-un-singur-dinte-lipsa-iti-poate-schimba-muscatura-fara-sa-iti-dai-seama/",
@@ -71,15 +77,15 @@
       "link": "https://doctor360.ro/implant-dentar-pretul-nu-mai-este-un-impediment-iata-cum-iti-influenteaza-dispozitivul-starea-de-sanatate-generala/",
       "date": "Sat, 27 Dec 2025 16:08:00 +0000",
       "summary": "Lipsa unui dinte nu este niciodată doar o problemă punctuală și, chiar dacă de multe ori este tratată ca un detaliu care poate fi am&#226;nat, efectele se extind treptat asupra &#238;ntregului organism, iar decizia de a apela la un implant dentar ajunge aproape &#238;ntotdeauna să fie filtrată prin aceeași &#238;ntrebare legată de cost. Totuși, medicina [&#8230;] Articolul Implant dentar: prețul nu mai este un impediment! Iată cum îți influențează dispozitivul starea de sănătate generală apare prima dată în Doctor 360 ."
-    },
-    {
-      "title": "Cum funcționează federarea pe Mastodon, explicat pe înțelesul tuturor",
-      "link": "https://doctor360.ro/cum-functioneaza-federarea-pe-mastodon-explicat-pe-intelesul-tuturor/",
-      "date": "Wed, 17 Dec 2025 16:58:54 +0000",
-      "summary": "Când ne gândim la rețelele sociale, imaginea care ne vine imediat în minte este cea a câtorva companii uriașe care controlează totul: datele, algoritmii și modul în care interacționăm. Ce s-ar întâmpla dacă am putea schimba această paradigmă? Dacă am putea avea control real asupra experienței noastre online? Această viziune este exact ceea ce oferă [&#8230;] Articolul Cum funcționează federarea pe Mastodon, explicat pe înțelesul tuturor apare prima dată în Doctor 360 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@doctor360/117120419271317820",
+      "date": "Wed, 19 Aug 2026 05:02:52 +0000",
+      "content": "💡Endometrioza este o afecțiune complexă, care adesea ajunge să aibă un impact negativ asupra întregului organism, dar și asupra calității generale a vieții de zi cu zi. Pentru un tratament complet și eficient, în majoritatea cazurilor este necesară o abordare multidisciplinară, având în vedere varietatea și intensitatea simptomelor. Iar această abordare nu trebuie să excludă… 💡 https:// doctor360.ro/endometrioza-de-c e-abordarea-multidisciplinara-este-esentiala-pentru-calitatea-vietii-pacientelor/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@doctor360/117093391530313677",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@doctor360/115858282636051591",
       "date": "Thu, 08 Jan 2026 07:24:55 +0000",
       "content": "💡Lipsa unui dinte nu este niciodată doar o problemă punctuală și, chiar dacă de multe ori este tratată ca un detaliu care poate fi amânat, efectele se extind treptat asupra întregului organism, iar decizia de a apela la un implant dentar ajunge aproape întotdeauna să fie filtrată prin aceeași întrebare legată de cost. Totuși, medicina… 💡 https:// doctor360.ro/implant-dentar-pr etul-nu-mai-este-un-impediment-iata-cum-iti-influenteaza-dispozitivul-starea-de-sanatate-generala/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@doctor360/115736506064638674",
-      "date": "Wed, 17 Dec 2025 19:15:32 +0000",
-      "content": "💡Când ne gândim la rețelele sociale, imaginea care ne vine imediat în minte este cea a câtorva companii uriașe care controlează totul: datele, algoritmii și modul în care interacționăm. Ce s-ar întâmpla dacă am putea schimba această paradigmă? Dacă am putea avea control real asupra experienței noastre online? Această viziune este exact ceea ce oferă… 💡 https:// doctor360.ro/cum-functioneaza- federarea-pe-mastodon-explicat-pe-intelesul-tuturor/"
     }
   ]
 }
