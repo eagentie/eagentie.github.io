@@ -4,8 +4,14 @@
   "site_feed": "https://doctorite.ro/feed/",
   "mastodon": "https://social.5th.ro/@DoctoriteBlog",
   "mastodon_rss": "https://social.5th.ro/@DoctoriteBlog.rss",
-  "updated_at": "2026-08-20T04:52:44Z",
+  "updated_at": "2026-08-20T05:46:16Z",
   "site_posts": [
+    {
+      "title": "Sănătatea mitocondrială: ce știm, ce promite marketingul și cum evaluăm corect un supliment",
+      "link": "https://doctorite.ro/sanatatea-mitocondriala-ce-stim-ce-promite-marketingul-si-cum-evaluam-corect-un-supliment/",
+      "date": "Thu, 20 Aug 2026 04:53:36 +0000",
+      "summary": "Despre mitocondrii se vorbește tot mai des: „mai multă energie”, „mitocondrii noi”, „întinerire celulară”. Interesul... Articolul Sănătatea mitocondrială: ce știm, ce promite marketingul și cum evaluăm corect un supliment apare prima dată în Doctorite ."
+    },
     {
       "title": "Pierderea masei musculare la perimenopauză și menopauză: rolul recuperării medicale",
       "link": "https://doctorite.ro/pierderea-masei-musculare-la-perimenopauza-si-menopauza-rolul-recuperarii-medicale/",
@@ -59,15 +65,15 @@
       "link": "https://doctorite.ro/ameteli-palpitatii-si-oboseala-cand-incepi-cu-medicul-de-familie-si-cand-ai-nevoie-de-cardiolog/",
       "date": "Thu, 23 Apr 2026 19:30:22 +0000",
       "summary": "Amețelile, palpitațiile și oboseala sunt simptome frecvente. Pot apărea după stres, lipsă de somn, deshidratare,... Articolul Amețeli, palpitații și oboseală: când începi cu medicul de familie și când ai nevoie de cardiolog apare prima dată în Doctorite ."
-    },
-    {
-      "title": "Te simți mereu tensionată fără motiv? Semnele anxietății pe care mulți le ignoră",
-      "link": "https://doctorite.ro/te-simti-mereu-tensionata-fara-motiv-semnele-anxietatii-pe-care-multi-le-ignora/",
-      "date": "Wed, 22 Apr 2026 15:50:19 +0000",
-      "summary": "Cu toții recunoaștem o versiune a anxietății care are, în general, aceste semnale: inima bătând... Articolul Te simți mereu tensionată fără motiv? Semnele anxietății pe care mulți le ignoră apare prima dată în Doctorite ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@DoctoriteBlog/117126045327427134",
+      "date": "Thu, 20 Aug 2026 04:53:39 +0000",
+      "content": "Despre mitocondrii se vorbește tot mai des: „mai multă energie”, „mitocondrii noi”, „întinerire celulară”. Interesul este firesc. Mitocondriile sunt organite esențiale pentru producția de energie celulară și pentru multe alte procese biologice importante. Totuși, între un mecanism biologic interesant și un beneficiu clinic demonstrat există o diferență mare. În practică, sănătatea https:// doctorite.ro/sanatatea-mitocon driala-ce-stim-ce-promite-marketingul-si-cum-evaluam-corect-un-supliment/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@DoctoriteBlog/117126013852974233",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@DoctoriteBlog/116063012516005284",
       "date": "Fri, 13 Feb 2026 11:10:25 +0000",
       "content": "Analiza rezultatelor din Google pentru cuvintele cheie vizate relevă faptul că majoritatea paginilor de top sunt site-uri oficiale ale autorităților hidrologice (AFDJ, INHGA) sau portaluri de știri locale. Acestea oferă date brute, tabele tehnice și cifre seci, fără a explica contextul sau impactul acestor valori asupra comunității și economiei. Diferențierea acestui articol va veni din… https:// doctorite.ro/cotele-dunarii-la -cernavoda-in-2026-nivelul-apei-azi-grafic-si-tendinte/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@DoctoriteBlog/116035849530540475",
-      "date": "Sun, 08 Feb 2026 16:02:31 +0000",
-      "content": "Vitamina C este o vitamină hidrosolubilă care trebuie furnizată regulat prin alimentație, deoarece organismul uman nu o poate sintetiza singur. Se găsește în mod natural în numeroase fructe și legume, precum citricele, kiwi, ardeiul gras sau fructele de pădure. Datorită solubilității sale în apă, vitamina C nu este stocată în cantități mari în organism, ceea… https:// doctorite.ro/vitamina-c-cum-su stine-protectia-celulelor-impotriva-stresului-oxidativ/"
     }
   ]
 }
