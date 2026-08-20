@@ -4,8 +4,14 @@
   "site_feed": "https://doctorite.ro/feed/",
   "mastodon": "https://social.5th.ro/@DoctoriteBlog",
   "mastodon_rss": "https://social.5th.ro/@DoctoriteBlog.rss",
-  "updated_at": "2026-08-20T03:58:12Z",
+  "updated_at": "2026-08-20T04:52:44Z",
   "site_posts": [
+    {
+      "title": "Pierderea masei musculare la perimenopauză și menopauză: rolul recuperării medicale",
+      "link": "https://doctorite.ro/pierderea-masei-musculare-la-perimenopauza-si-menopauza-rolul-recuperarii-medicale/",
+      "date": "Thu, 20 Aug 2026 04:45:35 +0000",
+      "summary": "Consultant științific: Dr.&#160;Mirena Niculae, Medic specialist reabilitare medicală Perimenopauza și menopauza sunt perioade caracterizate de... Articolul Pierderea masei musculare la perimenopauză și menopauză: rolul recuperării medicale apare prima dată în Doctorite ."
+    },
     {
       "title": "Durerea lombară după o zi la birou. Semnele care cer mai mult decât un antiinflamator",
       "link": "https://doctorite.ro/durerea-lombara-dupa-o-zi-la-birou-semnele-care-cer-mai-mult-decat-un-antiinflamator/",
@@ -59,15 +65,15 @@
       "link": "https://doctorite.ro/te-simti-mereu-tensionata-fara-motiv-semnele-anxietatii-pe-care-multi-le-ignora/",
       "date": "Wed, 22 Apr 2026 15:50:19 +0000",
       "summary": "Cu toții recunoaștem o versiune a anxietății care are, în general, aceste semnale: inima bătând... Articolul Te simți mereu tensionată fără motiv? Semnele anxietății pe care mulți le ignoră apare prima dată în Doctorite ."
-    },
-    {
-      "title": "Când este recomandată radiografia dentară și ce probleme poate descoperi din timp",
-      "link": "https://doctorite.ro/cand-este-recomandata-radiografia-dentara-si-ce-probleme-poate-descoperi-din-timp/",
-      "date": "Wed, 25 Mar 2026 10:58:57 +0000",
-      "summary": "Cei mai mulți oameni ajung la dentist în același moment: când începe să doară. E... Articolul Când este recomandată radiografia dentară și ce probleme poate descoperi din timp apare prima dată în Doctorite ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@DoctoriteBlog/117126013852974233",
+      "date": "Thu, 20 Aug 2026 04:45:39 +0000",
+      "content": "Consultant științific: Dr. Mirena Niculae, Medic specialist reabilitare medicală Perimenopauza și menopauza sunt perioade caracterizate de schimbări hormonale importante, care pot influența sănătatea osoasă, masa musculară, forța fizică și capacitatea de efort. Una dintre modificările care poate apărea odată cu înaintarea în vârstă este reducerea progresivă a masei și forței musculare, https:// doctorite.ro/pierderea-masei-m usculare-la-perimenopauza-si-menopauza-rolul-recuperarii-medicale/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@DoctoriteBlog/117071255059347654",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@DoctoriteBlog/116035849530540475",
       "date": "Sun, 08 Feb 2026 16:02:31 +0000",
       "content": "Vitamina C este o vitamină hidrosolubilă care trebuie furnizată regulat prin alimentație, deoarece organismul uman nu o poate sintetiza singur. Se găsește în mod natural în numeroase fructe și legume, precum citricele, kiwi, ardeiul gras sau fructele de pădure. Datorită solubilității sale în apă, vitamina C nu este stocată în cantități mari în organism, ceea… https:// doctorite.ro/vitamina-c-cum-su stine-protectia-celulelor-impotriva-stresului-oxidativ/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@DoctoriteBlog/115934857658226110",
-      "date": "Wed, 21 Jan 2026 19:58:57 +0000",
-      "content": "Respiratia este functia vitala pe care o indeplinim de aproximativ 20.000 de ori pe zi, de cele mai multe ori fara sa ne gandim la ea. Totusi, atunci cand fluxul de aer este restrictionat, intreg organismul are de suferit. Una dintre cele mai frecvente bariere in calea unei respiratii sanatoase este o deviatie de sept,… https:// doctorite.ro/respiratia-corect a-si-calitatea-vietii-de-ce-nu-trebuie-sa-ignori-o-deviatie-de-sept-si-care-sunt-optiunile-de-tratament/"
     }
   ]
 }
