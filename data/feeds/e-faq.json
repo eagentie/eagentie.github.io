@@ -4,7 +4,7 @@
   "site_feed": "https://e-faq.ro/feed/",
   "mastodon": "https://social.5th.ro/@efaq",
   "mastodon_rss": "https://social.5th.ro/@efaq.rss",
-  "updated_at": "2026-08-20T07:55:50Z",
+  "updated_at": "2026-08-20T08:55:57Z",
   "site_posts": [
     {
       "title": "Curățare tapițerie auto Oradea: răspunsuri înainte de programare",
@@ -37,6 +37,12 @@
       "summary": "Tehnologia a intrat în relația dintre pacient și clinică prin pași mici: site-uri mai clare, [&#8230;] Articolul Întrebări frecvente despre asistenții AI în clinici: ce pot face și unde sunt limitele apare prima dată în FAQ - Intrebari Frecvente ."
     },
     {
+      "title": "12 greșeli pe care le poți evita la prima vizită într-un parc de aventură",
+      "link": "https://e-faq.ro/12-greseli-pe-care-le-poti-evita-la-prima-vizita-intr-un-parc-de-aventura/",
+      "date": "Mon, 06 Jul 2026 21:03:00 +0000",
+      "summary": "Prima vizită într-un parc de aventură poate deveni mai obositoare decât te aștepți dacă încerci [&#8230;] Articolul 12 greșeli pe care le poți evita la prima vizită într-un parc de aventură apare prima dată în FAQ - Intrebari Frecvente ."
+    },
+    {
       "title": "Cum găsești o licență Windows originală fără să plătești prea mult?",
       "link": "https://e-faq.ro/cum-gasesti-o-licenta-windows-originala-fara-sa-platesti-prea-mult/",
       "date": "Wed, 17 Jun 2026 08:47:13 +0000",
@@ -53,15 +59,15 @@
       "link": "https://e-faq.ro/cum-arata-o-vacanta-in-santorini-in-extrasezon/",
       "date": "Sun, 07 Jun 2026 00:43:00 +0000",
       "summary": "Imaginează-ți faimoasele alei albe din Oia complet goale, unde singurul zgomot este cel al valurilor [&#8230;] Articolul Cum arată o vacanță în Santorini în extrasezon? apare prima dată în FAQ - Intrebari Frecvente ."
-    },
-    {
-      "title": "Cum alegi tratamentul potrivit pentru varice",
-      "link": "https://e-faq.ro/cum-alegi-tratamentul-potrivit-pentru-varice/",
-      "date": "Sun, 10 May 2026 06:30:00 +0000",
-      "summary": "Te-ai întrebat vreodată de ce simți picioarele grele la finalul zilei? Această senzație, alături de [&#8230;] Articolul Cum alegi tratamentul potrivit pentru varice apare prima dată în FAQ - Intrebari Frecvente ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@efaq/117126860753244268",
+      "date": "Thu, 20 Aug 2026 08:21:01 +0000",
+      "content": "🚀 Prima vizită într-un parc de aventură poate deveni mai obositoare decât te aștepți dacă încerci să faci prea multe lucruri într-o singură zi. Traseele în copaci, cățărarea și celelalte activități cer timp, pauze și o minimă pregătire.Cele mai multe probleme pot fi evitate ușor. Contează încălțămintea, hainele, nivelul ales și, mai ales în cazul copiilor,… 🔗 Mai mult: https:// e-faq.ro/12-greseli-pe-care-le -poti-evita-la-prima-vizita-intr-un-parc-de-aventura/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@efaq/117109443779757151",
@@ -127,12 +133,6 @@
       "link": "https://social.5th.ro/@efaq/116380141808065311",
       "date": "Fri, 10 Apr 2026 11:20:34 +0000",
       "content": "🚀 Companiile care vor să fie mai vizibile în piață nu se bazează doar pe promovarea online. În multe cazuri, primul contact real cu un potențial client are loc în spațiul fizic: la sediu, în showroom, în magazin, la recepție sau la un eveniment. Din acest motiv, interesul pentru producție publicitară București rămâne ridicat în 2026,… 🔗 Complet aici: https:// e-faq.ro/intrebari-frecvente-p roductie-publicitara-bucuresti/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@efaq/116379560108627717",
-      "date": "Fri, 10 Apr 2026 08:52:38 +0000",
-      "content": "🚀 O renovare reușită nu presupune întotdeauna lucrări complicate sau investiții greu de gestionat. De multe ori, schimbarea pardoselii este suficientă pentru a transforma radical atmosfera unei locuințe. Textura, culoarea și finisajul influențează luminozitatea, percepția spațiului și confortul zilnic. În viziunea Diego, soluțiile moderne pentru pardoseală combină montajul eficient cu un rezultat estetic de impact, capabil… 🔗 Citeste tot: https:// e-faq.ro/renovare-simpla-efect -de-durata/"
     }
   ]
 }

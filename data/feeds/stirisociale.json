@@ -4,8 +4,14 @@
   "site_feed": "https://stirisociale.ro/feed/",
   "mastodon": "https://social.5th.ro/@stiri_sociale",
   "mastodon_rss": "https://social.5th.ro/@stiri_sociale.rss",
-  "updated_at": "2026-08-20T07:55:56Z",
+  "updated_at": "2026-08-20T08:56:04Z",
   "site_posts": [
+    {
+      "title": "Edenland Park – Merită să petreci o zi aici?",
+      "link": "https://stirisociale.ro/edenland-park-merita-sa-petreci-o-zi-aici/",
+      "date": "Fri, 10 Jul 2026 21:03:00 +0000",
+      "summary": "Pentru o familie din București sau Ilfov, Edenland poate ocupa fără probleme cea mai mare parte a unei zile. Parcul se află în Balotești și este construit în pădure, iar&#8230; Articolul Edenland Park &#8211; Merită să petreci o zi aici? apare prima dată în Stiri sociale ."
+    },
     {
       "title": "Cum te pregătești pentru o consultație la chirurg: întrebări, analize și documente utile",
       "link": "https://stirisociale.ro/cum-te-pregatesti-pentru-o-consultatie-la-chirurg-intrebari-analize-si-documente-utile/",
@@ -59,15 +65,15 @@
       "link": "https://stirisociale.ro/ghid-de-eticheta-pentru-mastodon-romania-ce-functioneaza/",
       "date": "Wed, 17 Dec 2025 16:58:54 +0000",
       "summary": "Te-ai săturat de algoritmii care îți dictează ce vezi și de lipsa de control asupra datelor tale? Ești gata să faci pasul spre un spațiu social descentralizat? Dacă ești nou&#8230; Articolul Ghid de etichetă pentru Mastodon România: ce funcționează apare prima dată în Stiri sociale ."
-    },
-    {
-      "title": "Comunicate de presă și reputația online în 2025: cum controlezi narativul",
-      "link": "https://stirisociale.ro/comunicate-de-presa-si-reputatia-online-in-2025-cum-controlezi-narativul/",
-      "date": "Mon, 01 Dec 2025 12:07:49 +0000",
-      "summary": "Introducere: De Ce Controlul Narativului Nu Mai Este o Opțiune, Ci o Necesitate Atenție: V-ați simțit vreodată neputincios în fața unei știri negative care a devenit virală? În era digitală&#8230; Articolul Comunicate de presă și reputația online în 2025: cum controlezi narativul apare prima dată în Stiri sociale ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@stiri_sociale/117126820855379474",
+      "date": "Thu, 20 Aug 2026 08:10:52 +0000",
+      "content": "Pentru o familie din București sau Ilfov, Edenland poate ocupa fără probleme cea mai mare parte a unei zile. Parcul se află în Balotești și este construit în pădure, iar programul poate combina trasee în copaci, bicicletă, escaladă, minigolf, tir cu arcul, animale și activități pentru copiii mai mici.Întrebarea dacă merită o zi întreagă aici… https:// stirisociale.ro/edenland-park- merita-sa-petreci-o-zi-aici/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@stiri_sociale/116799275865366708",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@stiri_sociale/115694900562988147",
       "date": "Wed, 10 Dec 2025 10:54:43 +0000",
       "content": "Zilele de 15 și 16 noiembrie 2025 au adus o emoție pură și o lecție de neuitat la Circul Metropolitan București, unde a avut loc cea de-a XXVII-a ediție a CONIL Fest – Festivalul Integrării, sub tema profundă: „Dincolo de Diferențe”. Evenimentul nu a fost doar un spectacol, ci o celebrare vibrantă a incluziunii, diversității… https:// stirisociale.ro/conil-fest-202 5-editia-a-xxvii-a-a-festivalului-integrari/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@stiri_sociale/115694900451590387",
-      "date": "Wed, 10 Dec 2025 10:54:41 +0000",
-      "content": "Te-ai întrebat vreodată unde merită cu adevărat să îți încerci norocul? (Atenție) Mulți jucători se află la o răscruce. Pe de o parte, există atmosfera clasică a sălilor de joc, pe de alta, confortul maxim oferit de platformele digitale. Această dilemă este mai mult decât o simplă alegere de locație. Este o decizie care îți… https:// stirisociale.ro/pacanele-in-ag entiile-de-pariuri-vs-cazinoul-online-costuri-si-avantaje/"
     }
   ]
 }
