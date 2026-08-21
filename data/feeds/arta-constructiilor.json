@@ -4,8 +4,14 @@
   "site_feed": "https://arta-constructiilor.ro/feed/",
   "mastodon": "https://social.5th.ro/@ArtaConstructiilor",
   "mastodon_rss": "https://social.5th.ro/@ArtaConstructiilor.rss",
-  "updated_at": "2026-08-21T05:48:14Z",
+  "updated_at": "2026-08-21T07:07:06Z",
   "site_posts": [
+    {
+      "title": "Cum alegi caloriferul potrivit pentru o baie confortabila si moderna",
+      "link": "https://arta-constructiilor.ro/cum-alegi-caloriferul-potrivit-pentru-o-baie-confortabila-si-moderna/",
+      "date": "Fri, 21 Aug 2026 05:50:33 +0000",
+      "summary": "`Baia este una dintre incaperile in care confortul termic se simte imediat. Diferenta dintre temperatura din restul locuintei si cea dorita dupa un dus sau &#8230; Articolul Cum alegi caloriferul potrivit pentru o baie confortabila si moderna apare prima dată în Arta Constructiilor ."
+    },
     {
       "title": "Cum funcționează plăcuțele speciale de protecție și cum le schimbi rapid în mijlocul unei sesiuni nocturne",
       "link": "https://arta-constructiilor.ro/cum-functioneaza-placutele-speciale-de-protectie-si-cum-le-schimbi-rapid-in-mijlocul-unei-sesiuni-nocturne/",
@@ -59,15 +65,15 @@
       "link": "https://arta-constructiilor.ro/plase-tantari-comfortex-tipuri-beneficii-si-solutii-pentru-fiecare-fereastra/",
       "date": "Thu, 04 Jun 2026 19:42:22 +0000",
       "summary": "Când începe sezonul cald, ferestrele rămân deschise mai mult timp, iar aerisirea casei devine parte din rutina zilnică. Cu plase țânțari Comfortex, poți aerisi locuința &#8230; Articolul Plase țânțari Comfortex: tipuri, beneficii și soluții pentru fiecare fereastră apare prima dată în Arta Constructiilor ."
-    },
-    {
-      "title": "De la pasiune la cercetare aplicată: un elev Am School construiește și pregătește lansarea unei rachete",
-      "link": "https://arta-constructiilor.ro/de-la-pasiune-la-cercetare-aplicata-un-elev-am-school-construieste-si-pregateste-lansarea-unei-rachete-2/",
-      "date": "Tue, 02 Jun 2026 11:19:51 +0000",
-      "summary": "Erik Culescu, elev &#238;n clasa a XII-a, pasionat de astronomie, inginerie aerospațială și tehnologie, pregătește prezentarea unui proiect educațional rar &#238;nt&#226;lnit &#238;n Rom&#226;nia: o rachetă &#8230; Articolul De la pasiune la cercetare aplicată: un elev Am School construiește și pregătește lansarea unei rachete apare prima dată în Arta Constructiilor ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@ArtaConstructiilor/117131931412887741",
+      "date": "Fri, 21 Aug 2026 05:50:33 +0000",
+      "content": "`Baia este una dintre incaperile in care confortul termic se simte imediat. Diferenta dintre temperatura din restul locuintei si cea dorita dupa un dus sau o baie poate face ca alegerea radiatorului sa fie mai importanta decat pare la prima vedere. In acelasi timp, spatiul disponibil este deseori limitat, iar caloriferul trebuie integrat printre obiectele… .... 🌐 https:// arta-constructiilor.ro/cum-ale gi-caloriferul-potrivit-pentru-o-baie-confortabila-si-moderna/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@ArtaConstructiilor/117115843140715154",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@ArtaConstructiilor/116680947529331038",
       "date": "Tue, 02 Jun 2026 14:19:25 +0000",
       "content": "Erik Culescu, elev în clasa a XII-a, pasionat de astronomie, inginerie aerospațială și tehnologie, pregătește prezentarea unui proiect educațional rar întâlnit în România: o rachetă proiectată și construită aproape integral de el. Racheta, cu o înălțime de aproximativ 2 metri, reprezintă rezultatul a luni întregi de documentare, calcule, simulări și lucru .... 🌐 https:// arta-constructiilor.ro/de-la-p asiune-la-cercetare-aplicata-un-elev-am-school-construieste-si-pregateste-lansarea-unei-rachete/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@ArtaConstructiilor/116599603998843733",
-      "date": "Tue, 19 May 2026 05:32:42 +0000",
-      "content": "Sistemul de tablă click a devenit una dintre cele mai populare soluții pentru acoperișurile moderne din 2026. Tot mai multe case construite în stil minimalist folosesc acest tip de învelitoare datorită aspectului simplu, elegant și foarte bine organizat. Liniile drepte și îmbinările discrete oferă acoperișului un aspect curat, care se .... 🌐 https:// arta-constructiilor.ro/sistemu l-de-tabla-click-in-2026-de-ce-este-considerata-cea-mai-eficienta-invelitoare-pentru-arhitectura-minimalista/"
     }
   ]
 }

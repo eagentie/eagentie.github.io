@@ -4,8 +4,14 @@
   "site_feed": "https://doctorite.ro/feed/",
   "mastodon": "https://social.5th.ro/@DoctoriteBlog",
   "mastodon_rss": "https://social.5th.ro/@DoctoriteBlog.rss",
-  "updated_at": "2026-08-21T05:48:04Z",
+  "updated_at": "2026-08-21T07:06:56Z",
   "site_posts": [
+    {
+      "title": "Idei de cadouri personalizate pentru cei dragi, dincolo de clișee",
+      "link": "https://doctorite.ro/idei-de-cadouri-personalizate-pentru-cei-dragi-dincolo-de-clisee/",
+      "date": "Fri, 21 Aug 2026 05:51:55 +0000",
+      "summary": "Aproape fiecare dintre noi a primit, la un moment dat, un cadou care, deși bine... Articolul Idei de cadouri personalizate pentru cei dragi, dincolo de clișee apare prima dată în Doctorite ."
+    },
     {
       "title": "Sănătatea mitocondrială: ce știm, ce promite marketingul și cum evaluăm corect un supliment",
       "link": "https://doctorite.ro/sanatatea-mitocondriala-ce-stim-ce-promite-marketingul-si-cum-evaluam-corect-un-supliment/",
@@ -59,15 +65,15 @@
       "link": "https://doctorite.ro/varicele-netratate-riscuri-simptome-si-solutii-chirurgicale/",
       "date": "Sun, 10 May 2026 06:30:00 +0000",
       "summary": "Te-ai simțit vreodată stânjenit de aspectul picioarelor tale sau ai resimțit o greutate insuportabilă după... Articolul Varicele netratate: riscuri, simptome și soluții chirurgicale apare prima dată în Doctorite ."
-    },
-    {
-      "title": "Amețeli, palpitații și oboseală: când începi cu medicul de familie și când ai nevoie de cardiolog",
-      "link": "https://doctorite.ro/ameteli-palpitatii-si-oboseala-cand-incepi-cu-medicul-de-familie-si-cand-ai-nevoie-de-cardiolog/",
-      "date": "Thu, 23 Apr 2026 19:30:22 +0000",
-      "summary": "Amețelile, palpitațiile și oboseala sunt simptome frecvente. Pot apărea după stres, lipsă de somn, deshidratare,... Articolul Amețeli, palpitații și oboseală: când începi cu medicul de familie și când ai nevoie de cardiolog apare prima dată în Doctorite ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@DoctoriteBlog/117131936904903442",
+      "date": "Fri, 21 Aug 2026 05:51:57 +0000",
+      "content": "Aproape fiecare dintre noi a primit, la un moment dat, un cadou care, deși bine intenționat, nu a reușit să transmită nimic special — un obiect frumos, poate chiar util, dar complet interschimbabil cu orice altceva ar fi putut primi de la altcineva, cu altă ocazie. Această experiență, familiară pentru majoritatea oamenilor, explică de ce… https:// doctorite.ro/idei-de-cadouri-p ersonalizate-pentru-cei-dragi-dincolo-de-clisee/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@DoctoriteBlog/117126045327427134",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@DoctoriteBlog/116199538344157971",
       "date": "Mon, 09 Mar 2026 13:50:44 +0000",
       "content": "Magneziul are un rol crucial, adesea trecut cu vederea, în menținerea sănătății oaselor și prevenirea osteoporozei. Deși calciul este, de obicei, vedetă când vine vorba de sănătatea oaselor, importanța magneziului nu poate fi subestimată. Prin contribuția sa la mineralizarea oaselor, sinteza proteinelor și reglarea altor nutrienți vitali, magneziul este un element cheie pentru a susține… https:// doctorite.ro/rolul-magneziului -in-sanatatea-oaselor-si-prevenirea-osteoporozei/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@DoctoriteBlog/116063012516005284",
-      "date": "Fri, 13 Feb 2026 11:10:25 +0000",
-      "content": "Analiza rezultatelor din Google pentru cuvintele cheie vizate relevă faptul că majoritatea paginilor de top sunt site-uri oficiale ale autorităților hidrologice (AFDJ, INHGA) sau portaluri de știri locale. Acestea oferă date brute, tabele tehnice și cifre seci, fără a explica contextul sau impactul acestor valori asupra comunității și economiei. Diferențierea acestui articol va veni din… https:// doctorite.ro/cotele-dunarii-la -cernavoda-in-2026-nivelul-apei-azi-grafic-si-tendinte/"
     }
   ]
 }
