@@ -4,8 +4,14 @@
   "site_feed": "https://iEnergie.ro/feed/",
   "mastodon": "https://social.5th.ro/@ienergie",
   "mastodon_rss": "https://social.5th.ro/@ienergie.rss",
-  "updated_at": "2026-08-22T11:35:03Z",
+  "updated_at": "2026-08-22T13:00:32Z",
   "site_posts": [
+    {
+      "title": "Dreptul la reparație: un pas important către un consum mai responsabil",
+      "link": "https://ienergie.ro/dreptul-la-reparatie-un-pas-important-catre-un-consum-mai-responsabil/",
+      "date": "Sat, 22 Aug 2026 12:36:14 +0000",
+      "summary": "Folosim zilnic aparate electrice, însă, atunci când se defectează, prima reacție este să le înlocuim imediat. Totuși, un produs care nu mai funcționează perfect nu [Mai mult...] Articolul Dreptul la reparație: un pas important către un consum mai responsabil apare prima dată în iEnergie ."
+    },
     {
       "title": "Ce consum acoperă o baterie Huawei de 5kW/7kW",
       "link": "https://ienergie.ro/ce-consum-acopera-o-baterie-huawei-de-5kw-7kw/",
@@ -71,15 +77,15 @@
       "link": "https://ienergie.ro/zece-state-europene-construiesc-un-gigant-parc-eolian-comun-in-marea-nordului/",
       "date": "Tue, 27 Jan 2026 08:15:26 +0000",
       "summary": "Zece națiuni europene au convenit la Hamburg dezvoltarea unei rețele de energie eoliană de 100 GW în Marea Nordului pentru securitatea energetică. Articolul Zece state europene construiesc un gigant parc eolian comun în Marea Nordului apare prima dată în iEnergie ."
-    },
-    {
-      "title": "Executivul definește strategia de gestionare a crizelor și pregătire în domeniul electricității",
-      "link": "https://ienergie.ro/executivul-defineste-strategia-de-gestionare-a-crizelor-si-pregatire-in-domeniul-electricitatii/",
-      "date": "Wed, 21 Jan 2026 14:19:17 +0000",
-      "summary": "Ministerul Energiei a inițiat PNPR pentru energie electrică, detaliind măsuri de prevenire a impactului a nouă riscuri majore identificate. Articolul Executivul definește strategia de gestionare a crizelor și pregătire în domeniul electricității apare prima dată în iEnergie ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@ienergie/117139189234162191",
+      "date": "Sat, 22 Aug 2026 12:36:19 +0000",
+      "content": "Folosim zilnic aparate electrice, însă, atunci când se defectează, prima reacție este să le înlocuim imediat. Totuși, un produs care nu mai funcționează perfect nu este neapărat un produs de care trebuie să scapi. Repararea poate fi un pas simplu către un consum mai responsabil, în special într-o societate în care cantitatea de deșeuri electrice… https:// ienergie.ro/dreptul-la-reparat ie-un-pas-important-catre-un-consum-mai-responsabil/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@ienergie/117132872342544510",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@ienergie/115966545795308329",
       "date": "Tue, 27 Jan 2026 10:17:40 +0000",
       "content": "Zece națiuni europene au convenit la Hamburg dezvoltarea unei rețele de energie eoliană de 100 GW în Marea Nordului pentru securitatea energetică. https:// ienergie.ro/zece-state-europen e-construiesc-un-gigant-parc-eolian-comun-in-marea-nordului/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@ienergie/115934003997145292",
-      "date": "Wed, 21 Jan 2026 16:21:52 +0000",
-      "content": "Ministerul Energiei a inițiat PNPR pentru energie electrică, detaliind măsuri de prevenire a impactului a nouă riscuri majore identificate. https:// ienergie.ro/executivul-defines te-strategia-de-gestionare-a-crizelor-si-pregatire-in-domeniul-electricitatii/"
     }
   ]
 }
