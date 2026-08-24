@@ -4,8 +4,14 @@
   "site_feed": "https://pentruoameni.ro/feed/",
   "mastodon": "https://social.5th.ro/@pentruoameni",
   "mastodon_rss": "https://social.5th.ro/@pentruoameni.rss",
-  "updated_at": "2026-08-24T17:45:11Z",
+  "updated_at": "2026-08-24T18:57:25Z",
   "site_posts": [
+    {
+      "title": "Spy Shop: ce trebuie să știi înainte să alegi un sistem de securitate DIY",
+      "link": "https://pentruoameni.ro/spy-shop-ce-trebuie-sa-stii-inainte-sa-alegi-un-sistem-de-securitate-diy/",
+      "date": "Mon, 24 Aug 2026 17:57:12 +0000",
+      "summary": "Dacă te gândești să îți pui un sistem de securitate DIY, probabil unul dintre primele lucruri care te atrage este faptul că nu mai trebuie să transformi casa într-un șantier. Nu ai nevoie neapărat de cabluri trase prin pereți sau de o instalare complicată. Pentru multe apartamente și case, un sistem wireless poate fi montat [&#8230;] Articolul Spy Shop: ce trebuie să știi înainte să alegi un sistem de securitate DIY apare prima dată în Pentru Oameni ."
+    },
     {
       "title": "Colagenul pentru articulații nu este o soluție instant: contează tipul, durata și mișcarea",
       "link": "https://pentruoameni.ro/colagenul-pentru-articulatii-nu-este-o-solutie-instant-conteaza-tipul-durata-si-miscarea/",
@@ -71,15 +77,15 @@
       "link": "https://pentruoameni.ro/anvelope-resapate-vs-anvelope-noi-ce-trebuie-sa-stii-inainte-de-a-alege/",
       "date": "Fri, 17 Apr 2026 09:50:29 +0000",
       "summary": "În fața deciziei de a schimba anvelopele mașinii, întâmpini adesea dilema alegerii între anvelope reșapate sau anvelope noi. Fiecare opțiune vine cu propriile avantaje și dezavantaje, iar înțelegerea diferențelor esențiale dintre acestea poate influența în mod semnificativ performanța și siguranța vehiculului tău. De la costuri și durabilitate până la impactul asupra mediului și siguranța pe [&#8230;] Articolul Anvelope reșapate vs. anvelope noi: Ce trebuie să știi înainte de a alege apare prima dată în Pentru Oameni ."
-    },
-    {
-      "title": "Cum să optimizezi bugetul și să obții rezultate cu soluții complete în construcții",
-      "link": "https://pentruoameni.ro/cum-sa-optimizezi-bugetul-si-sa-obtii-rezultate-cu-solutii-complete-in-constructii/",
-      "date": "Tue, 14 Apr 2026 14:16:43 +0000",
-      "summary": "Fiecare proiect de construcție vine cu propriile provocări, așa că optimizarea bugetului fără a compromite calitatea devine o prioritate. Acest articol te va ghida printr-o serie de strategii practice și recomandări valoroase, astfel încât să poți lua decizii informate și să obții rezultate de succes în construcțiile tale. Află cum să prioritizezi investițiile, să utilizezi [&#8230;] Articolul Cum să optimizezi bugetul și să obții rezultate cu soluții complete în construcții apare prima dată în Pentru Oameni ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@pentruoameni/117151775835108308",
+      "date": "Mon, 24 Aug 2026 17:57:15 +0000",
+      "content": "Dacă te gândești să îți pui un sistem de securitate DIY, probabil unul dintre primele lucruri care te atrage este faptul că nu mai trebuie să transformi casa într-un șantier. Nu ai nevoie neapărat de cabluri trase prin pereți sau de o instalare complicată. Pentru multe apartamente și case, un sistem wireless poate fi montat… .... https:// pentruoameni.ro/spy-shop-ce-tr ebuie-sa-stii-inainte-sa-alegi-un-sistem-de-securitate-diy/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@pentruoameni/117071638934095290",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@pentruoameni/116419423840084973",
       "date": "Fri, 17 Apr 2026 09:50:31 +0000",
       "content": "În fața deciziei de a schimba anvelopele mașinii, întâmpini adesea dilema alegerii între anvelope reșapate sau anvelope noi. Fiecare opțiune vine cu propriile avantaje și dezavantaje, iar înțelegerea diferențelor esențiale dintre acestea poate influența în mod semnificativ performanța și siguranța vehiculului tău. De la costuri și durabilitate până la impactul asupra mediului și siguranța pe… .... https:// pentruoameni.ro/anvelope-resap ate-vs-anvelope-noi-ce-trebuie-sa-stii-inainte-de-a-alege/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@pentruoameni/116403483899352210",
-      "date": "Tue, 14 Apr 2026 14:16:46 +0000",
-      "content": "Fiecare proiect de construcție vine cu propriile provocări, așa că optimizarea bugetului fără a compromite calitatea devine o prioritate. Acest articol te va ghida printr-o serie de strategii practice și recomandări valoroase, astfel încât să poți lua decizii informate și să obții rezultate de succes în construcțiile tale. Află cum să prioritizezi investițiile, să utilizezi… .... https:// pentruoameni.ro/cum-sa-optimiz ezi-bugetul-si-sa-obtii-rezultate-cu-solutii-complete-in-constructii/"
     }
   ]
 }
