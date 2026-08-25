@@ -4,8 +4,14 @@
   "site_feed": "https://clasici.ro/feed/",
   "mastodon": "https://social.5th.ro/@clasici",
   "mastodon_rss": "https://social.5th.ro/@clasici.rss",
-  "updated_at": "2026-08-25T13:10:23Z",
+  "updated_at": "2026-08-25T14:02:31Z",
   "site_posts": [
+    {
+      "title": "Rindeaua electrică: scula care poate transforma rapid o bucată de lemn într-o piesă bine finisată",
+      "link": "https://clasici.ro/rindeaua-electrica-scula-care-poate-transforma-rapid-o-bucata-de-lemn-intr-o-piesa-bine-finisata/",
+      "date": "Tue, 25 Aug 2026 13:30:33 +0000",
+      "summary": "Prelucrarea lemnului cere răbdare, dar și scule potrivite. O ușă care freacă în toc, o..."
+    },
     {
       "title": "Castig, banda si zgomot: parametrii esentiali ai unui amplificator de semnal",
       "link": "https://clasici.ro/castig-banda-si-zgomot-parametrii-esentiali-ai-unui-amplificator-de-semnal/",
@@ -71,15 +77,15 @@
       "link": "https://clasici.ro/2025-cum-colaborezi-cu-o-agentie-pentru-articole-seo-fara-frustrari/",
       "date": "Mon, 01 Dec 2025 12:07:49 +0000",
       "summary": "Epuizați de articole care nu reușesc să ajungă pe prima pagină în motoarele de căutare?..."
-    },
-    {
-      "title": "Cum combini pasiunea pentru poker și pariuri sportive fără să-ți distrugi banca",
-      "link": "https://clasici.ro/cum-combini-pasiunea-pentru-poker-si-pariuri-sportive-fara-sa-ti-distrugi-banca/",
-      "date": "Sat, 15 Nov 2025 10:03:28 +0000",
-      "summary": "Mulți pasionați de jocuri de strategie și adrenalină se regăsesc la intersecția dintre două lumi..."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@clasici/117156389681277390",
+      "date": "Tue, 25 Aug 2026 13:30:37 +0000",
+      "content": "⭐Prelucrarea lemnului cere răbdare, dar și scule potrivite. O ușă care freacă în toc, o scândură care trebuie ajustată, o muchie care trebuie finisată sau o suprafață care are nevoie de uniformizare pot deveni lucrări mult mai simple atunci când este folosită o rindea electrică. Spre deosebire de rindeluirea manuală, varianta electrică ajută la îndepărtarea… ⭐ https:// clasici.ro/rindeaua-electrica- scula-care-poate-transforma-rapid-o-bucata-de-lemn-intr-o-piesa-bine-finisata/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@clasici/117039088714109095",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@clasici/115694858826970653",
       "date": "Wed, 10 Dec 2025 10:44:06 +0000",
       "content": "⭐Epuizați de articole care nu reușesc să ajungă pe prima pagină în motoarele de căutare? Timpul prețios petrecut cu modificări interminabile ale conținutului este o frustrare majoră pentru multe companii. Colaborarea cu o agenție SEO de top poate fi extrem de eficientă, dar succesul acesteia depinde de fundația parteneriatului. Nu este suficient să externalizați sarcina;… ⭐ https:// clasici.ro/2025-cum-colaborezi -cu-o-agentie-pentru-articole-seo-fara-frustrari/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@clasici/115694858724536636",
-      "date": "Wed, 10 Dec 2025 10:44:04 +0000",
-      "content": "⭐Mulți pasionați de jocuri de strategie și adrenalină se regăsesc la intersecția dintre două lumi captivante: poker și pariuri sportive. Ambele activități necesită un grad înalt de analiză, gestionarea riscului și, cel mai important, control emoțional. Însă, deși par similare la prima vedere, abordarea financiară necesară pentru a avea succes în ambele domenii este fundamental… ⭐ https:// clasici.ro/cum-combini-pasiune a-pentru-poker-si-pariuri-sportive-fara-sa-ti-distrugi-banca/"
     }
   ]
 }
