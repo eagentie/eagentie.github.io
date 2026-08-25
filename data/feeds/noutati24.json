@@ -4,8 +4,14 @@
   "site_feed": "https://noutati24.ro/feed/",
   "mastodon": "https://social.5th.ro/@noutati24",
   "mastodon_rss": "https://social.5th.ro/@noutati24.rss",
-  "updated_at": "2026-08-25T08:58:57Z",
+  "updated_at": "2026-08-25T09:50:26Z",
   "site_posts": [
+    {
+      "title": "De la căutare la contact: cum folosești eficient o platformă de anunțuri online",
+      "link": "https://noutati24.ro/cum-folosesti-eficient-platforma-anunturi-online/",
+      "date": "Tue, 25 Aug 2026 09:03:56 +0000",
+      "summary": "Un ghid practic despre folosirea eficientă a unei platforme de anunțuri online: alegerea categoriei, filtrarea ofertelor, comparația, verificarea informațiilor și contactul cu vânzătorul. Articolul De la căutare la contact: cum folosești eficient o platformă de anunțuri online apare prima dată în Noutati 24 ."
+    },
     {
       "title": "Măsuri pentru menținerea funcționării CNE Cernavodă",
       "link": "https://noutati24.ro/masuri-pentru-mentinerea-functionarii-cne-cernavoda/",
@@ -71,15 +77,15 @@
       "link": "https://noutati24.ro/precizare-a-ministerului-justitiei-cu-privire-la-unele-informatii-aparute-in-spatiul-public-privind-avizarea-unui-proiect-de-act-normativ/",
       "date": "Fri, 14 Aug 2026 18:34:10 +0000",
       "summary": "Ministerul Justiției nu a blocat și nu poate bloca plata salariilor angajaților CFR SA și nici ai unei alte companii, &#8230; Articolul Precizare a Ministerului Justiției cu privire la unele informații apărute în spațiul public privind avizarea unui proiect de act normativ apare prima dată în Noutati 24 ."
-    },
-    {
-      "title": "Guvernul și specialiștii lucrează pentru deblocarea proiectului Bala 2",
-      "link": "https://noutati24.ro/guvernul-si-specialistii-lucreaza-pentru-deblocarea-proiectului-bala-2/",
-      "date": "Fri, 14 Aug 2026 16:15:00 +0000",
-      "summary": "Galerie foto COMUNICAT DE PRESĂ Reprezentanți ai instituțiilor publice și specialiști au analizat astăzi, la prima întâlnire de lucru a &#8230; Articolul Guvernul și specialiștii lucrează pentru deblocarea proiectului Bala 2 apare prima dată în Noutati 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@noutati24/117155341338992593",
+      "date": "Tue, 25 Aug 2026 09:04:01 +0000",
+      "content": "🆕Un ghid practic despre folosirea eficientă a unei platforme de anunțuri online: alegerea categoriei, filtrarea ofertelor, comparația, verificarea informațiilor și contactul cu vânzătorul. 🌐 https:// noutati24.ro/cum-folosesti-efi cient-platforma-anunturi-online/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@noutati24/117142987094205036",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@noutati24/117114554427378977",
       "date": "Tue, 18 Aug 2026 04:11:22 +0000",
       "content": "🆕Aproximativ 100.000 de cereri au fost soluționate în perioada 11–17 august, în condițiile în care, la nivelul tuturor oficiilor de cadastru, au fost înregistrate 165.146 de cereri, în perioada 11–14 august 2026. În cursul zilei de vineri, 14 august, au fost înregistrate 31.608 de cereri, dintre care 9.584 au fost solicitări de extrase de carte… 🌐 https:// noutati24.ro/aplicatia-e-terra -functioneaza-iar-volumul-ridicat-de-solicitari-este-in-curs-de-procesare/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@noutati24/117114554155209312",
-      "date": "Tue, 18 Aug 2026 04:11:18 +0000",
-      "content": "🆕Galerie foto COMUNICAT DE PRESĂ Premierul Ilie Bolojan a participat la inaugurarea unei importante investiții în infrastructura studențească Premierul Ilie Bolojan a participat astăzi la inaugurarea căminului Universității de Vest din Timișoara, investiție realizată în cea mai mare parte cu fonduri guvernamentale, prin Compania Națională de Investiții.„Pentru 🌐 https:// noutati24.ro/participarea-prem ierului-ilie-bolojan-la-inaugurarea-caminului-renasterii-al-universitatii-de-vest-din-timisoara/"
     }
   ]
 }
