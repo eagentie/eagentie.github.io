@@ -4,8 +4,14 @@
   "site_feed": "https://arta-constructiilor.ro/feed/",
   "mastodon": "https://social.5th.ro/@ArtaConstructiilor",
   "mastodon_rss": "https://social.5th.ro/@ArtaConstructiilor.rss",
-  "updated_at": "2026-08-26T09:01:56Z",
+  "updated_at": "2026-08-26T09:56:46Z",
   "site_posts": [
+    {
+      "title": "Parchet, mochetă sau PVC: adeziv lichid sau bandă de fixare uscată — cum alegi corect",
+      "link": "https://arta-constructiilor.ro/parchet-mocheta-sau-pvc-adeziv-lichid-sau-banda-de-fixare-uscata-cum-alegi-corect/",
+      "date": "Wed, 26 Aug 2026 09:24:46 +0000",
+      "summary": "La o renovare sau o amenajare de la zero, decizia despre cum se fixează pardoseala ajunge rar în prim-plan — și totuși ea influențează direct &#8230; Articolul Parchet, mochetă sau PVC: adeziv lichid sau bandă de fixare uscată — cum alegi corect apare prima dată în Arta Constructiilor ."
+    },
     {
       "title": "Cum alegi caloriferul potrivit pentru o baie confortabila si moderna",
       "link": "https://arta-constructiilor.ro/cum-alegi-caloriferul-potrivit-pentru-o-baie-confortabila-si-moderna/",
@@ -59,15 +65,15 @@
       "link": "https://arta-constructiilor.ro/birou-la-mansarda-cum-alegi-ferestrele-de-mansarda-electrice-velux-pentru-mai-mult-confort-si-productivitate/",
       "date": "Mon, 06 Jul 2026 06:39:25 +0000",
       "summary": "Pentru mulți antreprenori, freelanceri sau profesioniști care lucrează de acasă, biroul nu mai este doar o masă cu un laptop și un scaun comod. A &#8230; Articolul Birou la mansardă: cum alegi ferestrele de mansardă electrice VELUX pentru mai mult confort și productivitate apare prima dată în Arta Constructiilor ."
-    },
-    {
-      "title": "Plase țânțari Comfortex: tipuri, beneficii și soluții pentru fiecare fereastră",
-      "link": "https://arta-constructiilor.ro/plase-tantari-comfortex-tipuri-beneficii-si-solutii-pentru-fiecare-fereastra/",
-      "date": "Thu, 04 Jun 2026 19:42:22 +0000",
-      "summary": "Când începe sezonul cald, ferestrele rămân deschise mai mult timp, iar aerisirea casei devine parte din rutina zilnică. Cu plase țânțari Comfortex, poți aerisi locuința &#8230; Articolul Plase țânțari Comfortex: tipuri, beneficii și soluții pentru fiecare fereastră apare prima dată în Arta Constructiilor ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@ArtaConstructiilor/117161085260893065",
+      "date": "Wed, 26 Aug 2026 09:24:46 +0000",
+      "content": "La o renovare sau o amenajare de la zero, decizia despre cum se fixează pardoseala ajunge rar în prim-plan — și totuși ea influențează direct cât durează șantierul, cât de curat decurge lucrul și ce se întâmplă cu podeaua peste zece sau cincisprezece ani. Multă vreme, singura opțiune serioasă a fost adezivul lichid. Astăzi, benzile… .... 🌐 https:// arta-constructiilor.ro/parchet -mocheta-sau-pvc-adeziv-lichid-sau-banda-de-fixare-uscata-cum-alegi-corect/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@ArtaConstructiilor/117131931412887741",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@ArtaConstructiilor/116680963091647036",
       "date": "Tue, 02 Jun 2026 14:23:23 +0000",
       "content": "Erik Culescu, elev în clasa a XII-a, pasionat de astronomie, inginerie aerospațială și tehnologie, pregătește prezentarea unui proiect educațional rar întâlnit în România: o rachetă proiectată și construită aproape integral de el. Racheta, cu o înălțime de aproximativ 2 metri, reprezintă rezultatul a luni întregi de documentare, calcule, simulări și .... 🌐 https:// arta-constructiilor.ro/de-la-p asiune-la-cercetare-aplicata-un-elev-am-school-construieste-si-pregateste-lansarea-unei-rachete-2/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@ArtaConstructiilor/116680947529331038",
-      "date": "Tue, 02 Jun 2026 14:19:25 +0000",
-      "content": "Erik Culescu, elev în clasa a XII-a, pasionat de astronomie, inginerie aerospațială și tehnologie, pregătește prezentarea unui proiect educațional rar întâlnit în România: o rachetă proiectată și construită aproape integral de el. Racheta, cu o înălțime de aproximativ 2 metri, reprezintă rezultatul a luni întregi de documentare, calcule, simulări și lucru .... 🌐 https:// arta-constructiilor.ro/de-la-p asiune-la-cercetare-aplicata-un-elev-am-school-construieste-si-pregateste-lansarea-unei-rachete/"
     }
   ]
 }
