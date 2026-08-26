@@ -4,8 +4,14 @@
   "site_feed": "https://noutati24.ro/feed/",
   "mastodon": "https://social.5th.ro/@noutati24",
   "mastodon_rss": "https://social.5th.ro/@noutati24.rss",
-  "updated_at": "2026-08-26T04:04:30Z",
+  "updated_at": "2026-08-26T04:54:31Z",
   "site_posts": [
+    {
+      "title": "Guvernul, reprezentat la deschiderea ediției din acest an a Universității de Vară de la Râmnicu Sărat",
+      "link": "https://noutati24.ro/guvernul-reprezentat-la-deschiderea-editiei-din-acest-an-a-universitatii-de-vara-de-la-ramnicu-sarat/",
+      "date": "Tue, 25 Aug 2026 15:08:00 +0000",
+      "summary": "Galerie foto COMUNICAT DE PRESĂ Secretarul General al Guvernului, Dan Reșitnec, și secretarul de stat din cadrul Cancelariei Prim-Ministrului,&#160; Dragoș &#8230; Articolul Guvernul, reprezentat la deschiderea ediției din acest an a Universității de Vară de la Râmnicu Sărat apare prima dată în Noutati 24 ."
+    },
     {
       "title": "De la căutare la contact: cum folosești eficient o platformă de anunțuri online",
       "link": "https://noutati24.ro/cum-folosesti-eficient-platforma-anunturi-online/",
@@ -71,15 +77,15 @@
       "link": "https://noutati24.ro/alocutiunea-premierului-ilie-bolojan-sustinuta-la-festivitatile-prilejuite-de-ziua-marinei-romane/",
       "date": "Sat, 15 Aug 2026 10:46:00 +0000",
       "summary": "Galerie foto [embedded content] [embedded content] Alocuțiunea premierului Ilie Bolojan susținută&#160;la festivitățile prilejuite de Ziua Marinei Române [Check against delivery] &#8230; Articolul Alocuțiunea premierului Ilie Bolojan susținută la festivitățile prilejuite de Ziua Marinei Române apare prima dată în Noutati 24 ."
-    },
-    {
-      "title": "Precizare a Ministerului Justiției cu privire la unele informații apărute în spațiul public privind avizarea unui proiect de act normativ",
-      "link": "https://noutati24.ro/precizare-a-ministerului-justitiei-cu-privire-la-unele-informatii-aparute-in-spatiul-public-privind-avizarea-unui-proiect-de-act-normativ/",
-      "date": "Fri, 14 Aug 2026 18:34:10 +0000",
-      "summary": "Ministerul Justiției nu a blocat și nu poate bloca plata salariilor angajaților CFR SA și nici ai unei alte companii, &#8230; Articolul Precizare a Ministerului Justiției cu privire la unele informații apărute în spațiul public privind avizarea unui proiect de act normativ apare prima dată în Noutati 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@noutati24/117160015292343966",
+      "date": "Wed, 26 Aug 2026 04:52:39 +0000",
+      "content": "🆕Galerie foto COMUNICAT DE PRESĂ Secretarul General al Guvernului, Dan Reșitnec, și secretarul de stat din cadrul Cancelariei Prim-Ministrului, Dragoș Hotea, au participat, din partea Guvernului, la deschiderea celei de-a XVIII-a ediții a Universității de Vară de la Râmnicu Sărat, care se desfășoară în perioada 23-28 august 2026. Tema ediției din acest an a Universității 🌐 https:// noutati24.ro/guvernul-reprezen tat-la-deschiderea-editiei-din-acest-an-a-universitatii-de-vara-de-la-ramnicu-sarat/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@noutati24/117155341338992593",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@noutati24/117114554791347272",
       "date": "Tue, 18 Aug 2026 04:11:27 +0000",
       "content": "🆕Galerie foto COMUNICAT DE PRESĂ Premierul Ilie Bolojan, la inaugurarea a două pasaje rutiere la ieșirea din Oradea, investiții realizate cu fonduri din PNRR Prim-ministrul Ilie Bolojan s-a aflat astăzi, împreună cu reprezentanții autorităților locale, la deschiderea pentru circulație a pasajelor subteran și suprateran de pe Calea 🌐 https:// noutati24.ro/conferinta-de-pre sa-sustinuta-de-premierul-ilie-bolojan-dupa-vizita-la-pasajele-subteran-si-suprateran-de-pe-calea-aradului-dn-79-din-oradea/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@noutati24/117114554427378977",
-      "date": "Tue, 18 Aug 2026 04:11:22 +0000",
-      "content": "🆕Aproximativ 100.000 de cereri au fost soluționate în perioada 11–17 august, în condițiile în care, la nivelul tuturor oficiilor de cadastru, au fost înregistrate 165.146 de cereri, în perioada 11–14 august 2026. În cursul zilei de vineri, 14 august, au fost înregistrate 31.608 de cereri, dintre care 9.584 au fost solicitări de extrase de carte… 🌐 https:// noutati24.ro/aplicatia-e-terra -functioneaza-iar-volumul-ridicat-de-solicitari-este-in-curs-de-procesare/"
     }
   ]
 }
