@@ -4,8 +4,14 @@
   "site_feed": "https://arta-constructiilor.ro/feed/",
   "mastodon": "https://social.5th.ro/@ArtaConstructiilor",
   "mastodon_rss": "https://social.5th.ro/@ArtaConstructiilor.rss",
-  "updated_at": "2026-08-27T03:20:01Z",
+  "updated_at": "2026-08-27T15:15:21Z",
   "site_posts": [
+    {
+      "title": "Cum controlezi bascularea de la distanță cu o comandă electrică?",
+      "link": "https://arta-constructiilor.ro/cum-controlezi-bascularea-de-la-distanta-cu-o-comanda-electrica/",
+      "date": "Thu, 27 Aug 2026 05:31:49 +0000",
+      "summary": "Ridicarea și coborârea benei pot fi urmărite mult mai ușor atunci când operatorul își alege poziția din care vede vehiculul și zona de descărcare. Acționarea &#8230; Articolul Cum controlezi bascularea de la distanță cu o comandă electrică? apare prima dată în Arta Constructiilor ."
+    },
     {
       "title": "Parchet, mochetă sau PVC: adeziv lichid sau bandă de fixare uscată — cum alegi corect",
       "link": "https://arta-constructiilor.ro/parchet-mocheta-sau-pvc-adeziv-lichid-sau-banda-de-fixare-uscata-cum-alegi-corect/",
@@ -59,15 +65,15 @@
       "link": "https://arta-constructiilor.ro/trei-sfaturi-despre-cum-sa-va-mentineti-anvelopele-in-stare-buna/",
       "date": "Mon, 06 Jul 2026 10:28:54 +0000",
       "summary": "Anvelopele sunt unele dintre cele mai importante componente ale unui automobil, chiar dacă, de multe ori, nu primesc atenția pe care o merită, iar menținerea &#8230; Articolul Trei sfaturi despre cum să vă mențineți anvelopele în stare bună apare prima dată în Arta Constructiilor ."
-    },
-    {
-      "title": "Birou la mansardă: cum alegi ferestrele de mansardă electrice VELUX pentru mai mult confort și productivitate",
-      "link": "https://arta-constructiilor.ro/birou-la-mansarda-cum-alegi-ferestrele-de-mansarda-electrice-velux-pentru-mai-mult-confort-si-productivitate/",
-      "date": "Mon, 06 Jul 2026 06:39:25 +0000",
-      "summary": "Pentru mulți antreprenori, freelanceri sau profesioniști care lucrează de acasă, biroul nu mai este doar o masă cu un laptop și un scaun comod. A &#8230; Articolul Birou la mansardă: cum alegi ferestrele de mansardă electrice VELUX pentru mai mult confort și productivitate apare prima dată în Arta Constructiilor ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@ArtaConstructiilor/117165831600636909",
+      "date": "Thu, 27 Aug 2026 05:31:49 +0000",
+      "content": "Ridicarea și coborârea benei pot fi urmărite mult mai ușor atunci când operatorul își alege poziția din care vede vehiculul și zona de descărcare. Acționarea electrică transmite comenzile către instalația hidraulică prin cablu sau semnal radio și permite oprirea mișcării exact unde este nevoie. Află ce componente fac posibil acest control, cum se conectează și… .... 🌐 https:// arta-constructiilor.ro/cum-con trolezi-bascularea-de-la-distanta-cu-o-comanda-electrica/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@ArtaConstructiilor/117161085260893065",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@ArtaConstructiilor/116693542053900640",
       "date": "Thu, 04 Jun 2026 19:42:23 +0000",
       "content": "Când începe sezonul cald, ferestrele rămân deschise mai mult timp, iar aerisirea casei devine parte din rutina zilnică. Cu plase țânțari Comfortex, poți aerisi locuința fără ca țânțarii, muștele sau alte insecte să ajungă în interior.Produse în România, în fabrica proprie, aceste bariere împotriva insectelor sunt realizate la comandă, în funcție de tipul ferestrei, dimensiuni,… .... 🌐 https:// arta-constructiilor.ro/plase-t antari-comfortex-tipuri-beneficii-si-solutii-pentru-fiecare-fereastra/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@ArtaConstructiilor/116680963091647036",
-      "date": "Tue, 02 Jun 2026 14:23:23 +0000",
-      "content": "Erik Culescu, elev în clasa a XII-a, pasionat de astronomie, inginerie aerospațială și tehnologie, pregătește prezentarea unui proiect educațional rar întâlnit în România: o rachetă proiectată și construită aproape integral de el. Racheta, cu o înălțime de aproximativ 2 metri, reprezintă rezultatul a luni întregi de documentare, calcule, simulări și .... 🌐 https:// arta-constructiilor.ro/de-la-p asiune-la-cercetare-aplicata-un-elev-am-school-construieste-si-pregateste-lansarea-unei-rachete-2/"
     }
   ]
 }
