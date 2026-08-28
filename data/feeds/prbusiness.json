@@ -4,8 +4,14 @@
   "site_feed": "https://prbusiness.ro/feed/",
   "mastodon": "https://social.5th.ro/@prbusiness",
   "mastodon_rss": "https://social.5th.ro/@prbusiness.rss",
-  "updated_at": "2026-08-28T12:46:35Z",
+  "updated_at": "2026-08-28T23:02:15Z",
   "site_posts": [
+    {
+      "title": "(P) Cum verifici un furnizor B2B găsit online înainte de prima comandă",
+      "link": "https://prbusiness.ro/cum-verifici-furnizor-b2b-gasit-online-inainte-prima-comanda/",
+      "date": "Fri, 28 Aug 2026 21:24:26 +0000",
+      "summary": "Prima comandă către un furnizor nou nu trebuie decisă doar după preț. Află ce verificări simple poți face înainte să cumperi produse, echipamente sau servicii pentru firmă. The post (P) Cum verifici un furnizor B2B găsit online înainte de prima comandă appeared first on PR Business ."
+    },
     {
       "title": "Hernia strangulată: simptome de alarmă și riscuri dacă amâni operația",
       "link": "https://prbusiness.ro/hernia-strangulata-simptome-de-alarma-si-riscuri-daca-amani-operatia/",
@@ -71,15 +77,21 @@
       "link": "https://prbusiness.ro/inchirieri-auto-cluj-napoca-ce-masina-alegi-in-oras/",
       "date": "Wed, 04 Mar 2026 18:55:00 +0000",
       "summary": "Cluj-Napoca este un oraș al contrastelor: străzi medievale &#238;nguste &#238;n zona centrală, bulevarde largi, dar foarte aglomerate &#238;n The post Închirieri auto Cluj-Napoca: ce mașină alegi în oraș appeared first on PR Business ."
-    },
-    {
-      "title": "Tehnologie cu suflet: Asociatia CONIL a facut pasul spre digitalizare prin PNRR pentru a fi mai aproape de copiii cu nevoi speciale",
-      "link": "https://prbusiness.ro/tehnologie-cu-suflet-asociatia-conil-a-facut-pasul-spre-digitalizare-prin-pnrr-pentru-a-fi-mai-aproape-de-copiii-cu-nevoi-speciale/",
-      "date": "Wed, 25 Feb 2026 10:31:27 +0000",
-      "summary": "Asociatia CENTRUL DE PERFORMANTA BEFORE &#38; AFTER SCHOOL CONIL anunta cu bucurie si recunostinta apropierea de finalizarea proiectului The post Tehnologie cu suflet: Asociatia CONIL a facut pasul spre digitalizare prin PNRR pentru a fi mai aproape de copiii cu nevoi speciale appeared first on PR Business ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@prbusiness/117175239823408551",
+      "date": "Fri, 28 Aug 2026 21:24:27 +0000",
+      "content": "Prima comandă către un furnizor nou nu trebuie decisă doar după preț. Află ce verificări simple poți face înainte să cumperi produse, echipamente sau servicii pentru firmă. .... Read more at: https:// prbusiness.ro/cum-verifici-fur nizor-b2b-gasit-online-inainte-prima-comanda/"
+    },
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@prbusiness/117175139170424861",
+      "date": "Fri, 28 Aug 2026 20:58:51 +0000",
+      "content": "Prima comandă către un furnizor nou nu trebuie decisă doar după preț. Află ce verificări simple poți face înainte să cumperi produse, echipamente sau servicii pentru firmă. .... Read more at: https:// prbusiness.ro/cum-verifici-fur nizor-b2b-gasit-online-inainte-prima-comanda/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@prbusiness/116799305362203029",
@@ -139,18 +151,6 @@
       "link": "https://social.5th.ro/@prbusiness/116200807064669634",
       "date": "Mon, 09 Mar 2026 19:13:23 +0000",
       "content": "Douăzeci de cereri pe săptămână și niciun sistem: rețeta perfectă pentru oportunități pierduteImaginează-ți un scenariu pe care îl trăiesc zilnic sute de afaceri românești în creștere. Primești douăzeci de cereri de contact într-o săptămână. Unele prin formularul de pe site, altele prin email direct, câteva prin telefon, una sau două prin LinkedIn. Poate și prin… .... More details at: https:// prbusiness.ro/crm-integrat-cu- site-ul-cum-treci-de-la-haos-la-un-sistem-care-nu-pierde-niciun-client/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@prbusiness/116200768904761538",
-      "date": "Mon, 09 Mar 2026 19:03:41 +0000",
-      "content": "Cluj-Napoca este un oraș al contrastelor: străzi medievale înguste în zona centrală, bulevarde largi, dar foarte aglomerate în cartierele Mărăști sau Mănăștur și o infrastructură în continuă dezvoltare. Uneori, ai nevoie de o mașină doar ca să-ți iasă ziua așa cum ai plănuit-o, fără să depinzi de capriciile vremii sau de timpii de așteptare ai… .... Read more at: https:// prbusiness.ro/inchirieri-auto- cluj-napoca-ce-masina-alegi-in-oras/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@prbusiness/116131828568373415",
-      "date": "Wed, 25 Feb 2026 14:51:15 +0000",
-      "content": "Automatizarea sistemelor de iluminat sau de securitate se bazează pe capacitatea dispozitivelor de a detecta prezența umană cu precizie. Deși rezultatul final este același, aprinderea luminii sau declanșarea unei alarme, tehnologia din spatele carcasei de plastic diferă radical. Cele mai răspândite soluții de pe piață sunt senzorii PIR (infraroșu pasiv) și cei cu microunde (MW).… .... More details at: https:// prbusiness.ro/diferenta-dintre -senzori-de-miscare-pir-si-cei-cu-microunde/"
     }
   ]
 }

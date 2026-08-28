@@ -4,8 +4,14 @@
   "site_feed": "https://bizwoman.ro/feed/",
   "mastodon": "https://social.5th.ro/@BIZWoman",
   "mastodon_rss": "https://social.5th.ro/@BIZWoman.rss",
-  "updated_at": "2026-08-28T12:47:21Z",
+  "updated_at": "2026-08-28T23:02:53Z",
   "site_posts": [
+    {
+      "title": "Mind your Business 2026: impactul BURNOUT-ului asupra economiei",
+      "link": "https://bizwoman.ro/mind-your-business-2026-impactul-burnout-ului-asupra-economiei/",
+      "date": "Fri, 28 Aug 2026 11:49:38 +0000",
+      "summary": "Anul acesta, Mind your Business 2026, evenimentul dedicat sănătății mintale a antreprenorilor, devine spațiu de&#8230; Articolul Mind your Business 2026: impactul BURNOUT-ului asupra economiei apare prima dată în Biz Woman ."
+    },
     {
       "title": "La 12 luni după Sculptra, întreținerea nu începe cu o nouă injecție",
       "link": "https://bizwoman.ro/la-12-luni-dupa-sculptra-intretinerea-nu-incepe-cu-o-noua-injectie/",
@@ -59,15 +65,15 @@
       "link": "https://bizwoman.ro/top-5-tipuri-de-ciorapi-care-nu-trebuie-sa-ti-lipseasca-din-garderoba-in-acest-sezon/",
       "date": "Tue, 14 Jul 2026 05:59:07 +0000",
       "summary": "O pereche de ciorapi bine aleasă poate schimba complet felul în care se așază o ținută,&#8230; Articolul Top 5 tipuri de ciorapi care nu trebuie să-ți lipsească din garderobă în acest sezon apare prima dată în Biz Woman ."
-    },
-    {
-      "title": "Grupuri de Firme după Acționariat – înțelege cine controlează cu adevărat compania înainte de colaborare",
-      "link": "https://bizwoman.ro/grupuri-de-firme-dupa-actionariat-intelege-cine-controleaza-cu-adevarat-compania-inainte-de-colaborare/",
-      "date": "Thu, 09 Jul 2026 14:20:44 +0000",
-      "summary": "În orice relație de business, nu este suficient să analizezi doar o singură companie. În&#8230; Articolul Grupuri de Firme după Acționariat – înțelege cine controlează cu adevărat compania înainte de colaborare apare prima dată în Biz Woman ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@BIZWoman/117173708075008379",
+      "date": "Fri, 28 Aug 2026 14:54:55 +0000",
+      "content": "📄Anul acesta, Mind your Business 2026, evenimentul dedicat sănătății mintale a antreprenorilor, devine spațiu de dialog despre un subiect pe cât de delicat, pe atât de prezent: BURNOUT. Pe 24 septembrie, la Apollo111. Burnout-ul a devenit prezent în viețile noastre, atât ca termen, ca afecțiune medicală, dar și ca propunere de lege. L-am auzit atât… 📄 https:// bizwoman.ro/mind-your-business -2026-impactul-burnout-ului-asupra-economiei/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@BIZWoman/117166892707453172",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@BIZWoman/116724731663287310",
       "date": "Wed, 10 Jun 2026 07:54:18 +0000",
       "content": "📄Un ghid practic despre verificarea unui anunț auto înainte de vizionare, cu detalii despre fotografii, kilometraj, acte, preț, întrebări pentru vânzător și semne care cer prudență. 📄 https:// bizwoman.ro/ce-verifici-anunt- auto-inainte-sa-vezi-masina/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@BIZWoman/116724408723542738",
-      "date": "Wed, 10 Jun 2026 06:32:11 +0000",
-      "content": "📄Interesul față de metodele nonfarmacologice de îmbunătățire a sănătății mintale a crescut semnificativ în ultimii ani. Printre acestea, neurofeedback-ul ocupă un loc aparte, nu pentru că este nou, ci pentru că cercetarea din ultimul deceniu a adus dovezi tot mai solide în privința eficienței sale. Ce este neurofeedback-ul Neurofeedback-ul este o formă de biofeedback aplicată… 📄 https:// bizwoman.ro/neurofeedback-ce-e ste-cum-functioneaza-si-cui-se-adreseaza/"
     }
   ]
 }

@@ -4,8 +4,14 @@
   "site_feed": "https://cetateanmodel.ro/feed/",
   "mastodon": "https://social.5th.ro/@cetatean_model",
   "mastodon_rss": "https://social.5th.ro/@cetatean_model.rss",
-  "updated_at": "2026-08-28T12:45:30Z",
+  "updated_at": "2026-08-28T23:01:23Z",
   "site_posts": [
+    {
+      "title": "Asociația M.A.M.E. și CEC Bank extind la nivel național accesul copiilor bolnavi la servicii integrate de recuperare",
+      "link": "https://cetateanmodel.ro/asociatia-m-a-m-e-si-cec-bank-extind-la-nivel-national-accesul-copiilor-bolnavi-la-servicii-integrate-de-recuperare/",
+      "date": "Fri, 28 Aug 2026 13:46:17 +0000",
+      "summary": "Asociația M.A.M.E., &#238;n parteneriat cu CEC Bank, continuă intervențiile dedicate copiilor diagnosticați cu afecțiuni grave prin extinderea acestora la nivel național. &#206;n Rom&#226;nia, accesul copiilor cu boli grave la servicii de recuperare psiho-medicală este limitat, mai ales &#238;n orașele mici și &#238;n mediul rural. Prin sprijinul oferit de CEC Bank, Asociația M.A.M.E. va dezvolta un [&#8230;] Articolul Asociația M.A.M.E. și CEC Bank extind la nivel național accesul copiilor bolnavi la servicii integrate de recuperare apare prima dată în Cetatean model ."
+    },
     {
       "title": "Cancerul hepatic: opțiuni chirurgicale și perspective",
       "link": "https://cetateanmodel.ro/cancerul-hepatic-optiuni-chirurgicale-si-perspective/",
@@ -71,15 +77,15 @@
       "link": "https://cetateanmodel.ro/romanian-energy-week-2025/",
       "date": "Tue, 18 Nov 2025 07:22:57 +0000",
       "summary": "ROMANIAN ENERGY WEEK 2025: 5 zile de dezbateri, 5 teme vitale pentru energie Palatul Parlamentului găzduiește &#238;ntre 17 și 21 noiembrie ROMANIAN ENERGY WEEK [REW 2025], summit organizat &#238;n parteneriat strategic cu Ministerul Energiei, Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului, Ministerul Mediului, Apelor și Pădurilor, precum și Departamentul pentru Dezvoltare Durabilă al Guvernului și Cancelaria [&#8230;] Articolul ROMANIAN ENERGY WEEK 2025 apare prima dată în Cetatean model ."
-    },
-    {
-      "title": "De la păcănele la pariuri sportive: ce se schimbă în modul în care joci",
-      "link": "https://cetateanmodel.ro/de-la-pacanele-la-pariuri-sportive-ce-se-schimba-in-modul-in-care-joci/",
-      "date": "Sat, 15 Nov 2025 10:03:28 +0000",
-      "summary": "Te-ai plictisit de jocurile bazate exclusiv pe noroc? Mulți pariori fac o tranziție majoră de la acțiunea rapidă și imprevizibilă a jocurilor de tip slot la lumea mult mai strategică a pariurilor sportive. Această schimbare nu este doar o simplă trecere de la un ecran la altul. Este o transformare profundă a mentalității și a [&#8230;] Articolul De la păcănele la pariuri sportive: ce se schimbă în modul în care joci apare prima dată în Cetatean model ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@cetatean_model/117174156339910448",
+      "date": "Fri, 28 Aug 2026 16:48:55 +0000",
+      "content": "Asociația M.A.M.E., în parteneriat cu CEC Bank, continuă intervențiile dedicate copiilor diagnosticați cu afecțiuni grave prin extinderea acestora la nivel național. În România, accesul copiilor cu boli grave la servicii de recuperare psiho-medicală este limitat, mai ales în orașele mici și în mediul rural. Prin sprijinul oferit de CEC Bank, Asociația https:// cetateanmodel.ro/asociatia-m-a -m-e-si-cec-bank-extind-la-nivel-national-accesul-copiilor-bolnavi-la-servicii-integrate-de-recuperare/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@cetatean_model/117014435224132277",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@cetatean_model/115797110633058507",
       "date": "Sun, 28 Dec 2025 12:08:05 +0000",
       "content": "/tmp/tmppe3rxuo2.html https:// cetateanmodel.ro/carcinomul-he patocelular/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@cetatean_model/115736445828141917",
-      "date": "Wed, 17 Dec 2025 19:00:13 +0000",
-      "content": "Te-ai săturat de algoritmii care îți ascund conținutul, limitând astfel impactul postărilor tale? Tranziția către platforme descentralizate, cum ar fi Mastodon, nu este doar o tendință, ci o mișcare strategică vitală pentru creatorii de conținut și branduri. Dacă deții un site WordPress bine stabilit, știi că eficiența este cheia. Dar ce se întâmplă când nu… https:// cetateanmodel.ro/cum-conectezi -mai-multe-conturi-mastodon-la-acelasi-wordpress/"
     }
   ]
 }
