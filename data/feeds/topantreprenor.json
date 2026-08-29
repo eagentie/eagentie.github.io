@@ -4,8 +4,14 @@
   "site_feed": "https://topantreprenor.ro/feed/",
   "mastodon": "https://social.5th.ro/@topantreprenor",
   "mastodon_rss": "https://social.5th.ro/@topantreprenor.rss",
-  "updated_at": "2026-08-29T15:38:48Z",
+  "updated_at": "2026-08-29T19:25:21Z",
   "site_posts": [
+    {
+      "title": "Cum creezi conținut care nu se pierde în avalanșa de AI",
+      "link": "https://topantreprenor.ro/cum-creezi-continut-care-nu-se-pierde-in-avalansa-de-ai/",
+      "date": "Sat, 29 Aug 2026 18:48:02 +0000",
+      "summary": "Inteligența artificială a schimbat radical modul în care este creat conținutul online. Un articol poate fi generat în câteva secunde, o imagine poate apărea după introducerea câtorva instrucțiuni, iar pentru realizarea unui videoclip nu mai este întotdeauna nevoie de o cameră, o locație sau chiar de o persoană reală. Rezultatul? Online apare mai mult conținut [&#8230;] The post Cum creezi conținut care nu se pierde în avalanșa de AI appeared first on Top Antreprenor ."
+    },
     {
       "title": "Ce cadou de afaceri spune mai mult decât un discurs",
       "link": "https://topantreprenor.ro/ce-cadou-de-afaceri-spune-mai-mult-decat-un-discurs/",
@@ -59,15 +65,15 @@
       "link": "https://topantreprenor.ro/economia-digitala-si-oportunitatile-create-de-marketplace-urile-specializate/",
       "date": "Wed, 17 Jun 2026 08:48:52 +0000",
       "summary": "Succesul unei afaceri moderne depinde tot mai mult de accesul rapid la tehnologie. Fie că este vorba despre software pentru productivitate, sisteme de operare sau alte produse digitale, companiile caută platforme care simplifică procesul de achiziție și reduc timpul necesar implementării. Marketplace-urile digitale răspund acestei nevoi, devenind un canal important pentru distribuția de produse și [&#8230;] The post Economia digitală și oportunitățile create de marketplace-urile specializate appeared first on Top Antreprenor ."
-    },
-    {
-      "title": "Cum cauți mai eficient anunțuri online în București",
-      "link": "https://topantreprenor.ro/cum-cauti-eficient-anunturi-online-bucuresti/",
-      "date": "Fri, 12 Jun 2026 10:17:08 +0000",
-      "summary": "Un ghid practic despre cum cauți anunțuri online în București, cum filtrezi ofertele după sector, categorie, preț și localizare și ce detalii trebuie să verifici înainte să contactezi vânzătorul. The post Cum cauți mai eficient anunțuri online în București appeared first on Top Antreprenor ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@topantreprenor/117180287092857908",
+      "date": "Sat, 29 Aug 2026 18:48:03 +0000",
+      "content": "📰Inteligența artificială a schimbat radical modul în care este creat conținutul online. Un articol poate fi generat în câteva secunde, o imagine poate apărea după introducerea câtorva instrucțiuni, iar pentru realizarea unui videoclip nu mai este întotdeauna nevoie de o cameră, o locație sau chiar de o persoană reală. Rezultatul? Online apare mai mult conținut… 🌐 https:// topantreprenor.ro/cum-creezi-c ontinut-care-nu-se-pierde-in-avalansa-de-ai/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@topantreprenor/117120424934861287",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@topantreprenor/116731009932299816",
       "date": "Thu, 11 Jun 2026 10:30:57 +0000",
       "content": "📰Pentru pacienții din nordul Ilfovului, recuperarea medicală aproape de casă poate însemna mai multă continuitate, mai puțin timp pierdut pe drum și acces mai ușor la fizioterapie, kinetoterapie, masaj terapeutic și terapie manuală. 🌐 https:// topantreprenor.ro/recuperare-m edicala-in-nordul-ilfovului-fizioterapie-kinetoterapie-si-masaj-terapeutic-aproape-de-snagov/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@topantreprenor/116680543559273678",
-      "date": "Tue, 02 Jun 2026 12:36:41 +0000",
-      "content": "📰Noua unitate pentru procesarea textilelor dedicate domeniilor cleanroom și blocuri operatorii consolidează rolul României în rețeaua europeană a grupului Oradea, 2 iunie 2026 – Grupul SALESIANER a marcat oficial, prin ceremonia de începere a lucrărilor, lansarea unuia dintre cele mai importante proiecte de infrastructură din Europa Centrală și de Est. La Oradea va fi construită… 🌐 https:// topantreprenor.ro/salesianer-m archeaza-inceperea-lucrarilor-pentru-noua-fabrica-high-tech-la-oradea/"
     }
   ]
 }
