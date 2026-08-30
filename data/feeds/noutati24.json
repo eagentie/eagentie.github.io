@@ -4,8 +4,14 @@
   "site_feed": "https://noutati24.ro/feed/",
   "mastodon": "https://social.5th.ro/@noutati24",
   "mastodon_rss": "https://social.5th.ro/@noutati24.rss",
-  "updated_at": "2026-08-30T01:15:09Z",
+  "updated_at": "2026-08-30T06:40:13Z",
   "site_posts": [
+    {
+      "title": "Participarea premierului Ilie Bolojan, împreună cu ministrul interimar al Sănătății, Cseke Attila-Zoltán, la inaugurarea noului Centru de patologie vasculo-cerebrală și neurochirurgie al Spitalului Clinic Județean de Urgență Cluj",
+      "link": "https://noutati24.ro/participarea-premierului-ilie-bolojan-impreuna-cu-ministrul-interimar-al-sanatatii-cseke-attila-zoltan-la-inaugurarea-noului-centru-de-patologie-vasculo-cerebrala-si-neurochirurgie-al-spitalului-cl/",
+      "date": "Sat, 29 Aug 2026 09:36:00 +0000",
+      "summary": "Galerie foto COMUNICAT DE PRESĂ O nouă investiție pentru dezvoltarea infrastructurii medicale de înaltă performanță, finanțată din PNRR, a fost &#8230; Articolul Participarea premierului Ilie Bolojan, împreună cu ministrul interimar al Sănătății, Cseke Attila-Zoltán, la inaugurarea noului Centru de patologie vasculo-cerebrală și neurochirurgie al Spitalului Clinic Județean de Urgență Cluj apare prima dată în Noutati 24 ."
+    },
     {
       "title": "Ședința de guvern extraordinară în format hibrid din data 28 august 2026",
       "link": "https://noutati24.ro/sedinta-de-guvern-extraordinara-in-format-hibrid-din-data-28-august-2026/",
@@ -71,15 +77,15 @@
       "link": "https://noutati24.ro/functionalitatea-link-de-plata-in-aplicatia-e-terra-reactivata/",
       "date": "Thu, 20 Aug 2026 13:56:00 +0000",
       "summary": "COMUNICAT DE PRESĂ Funcționalitatea ”Link de plată” în aplicația e-Terra, care permite persoanelor autorizate și notarilor să trimită beneficiarului un &#8230; Articolul Funcționalitatea ”Link de plată” în aplicația e-Terra, reactivată apare prima dată în Noutati 24 ."
-    },
-    {
-      "title": "Ședința de guvern din data 20 august 2026",
-      "link": "https://noutati24.ro/sedinta-de-guvern-din-data-20-august-2026/",
-      "date": "Thu, 20 Aug 2026 13:49:00 +0000",
-      "summary": "Guvernul României Guvernul este autoritatea publică a puterii executive, care funcționează în baza votului de încredere acordat de Parlament și &#8230; Articolul Ședința de guvern din data 20 august 2026 apare prima dată în Noutati 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@noutati24/117182708717916755",
+      "date": "Sun, 30 Aug 2026 05:03:54 +0000",
+      "content": "🆕Galerie foto COMUNICAT DE PRESĂ O nouă investiție pentru dezvoltarea infrastructurii medicale de înaltă performanță, finanțată din PNRR, a fost inaugurată la Cluj-Napoca Noul Centru de patologie vasculo-cerebrală și neurochirurgie din cadrul Spitalului Clinic Județean de 🌐 https:// noutati24.ro/participarea-prem ierului-ilie-bolojan-impreuna-cu-ministrul-interimar-al-sanatatii-cseke-attila-zoltan-la-inaugurarea-noului-centru-de-patologie-vasculo-cerebrala-si-neurochirurgie-al-spitalului-cl/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@noutati24/117177039528842717",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@noutati24/117142987094205036",
       "date": "Sun, 23 Aug 2026 04:42:10 +0000",
       "content": "🆕COMUNICAT DE PRESĂ În condițiile celui mai scăzut debit pe Dunăre din istoria recentă, Comitetul Național pentru Situații de Urgență (CNSU) a aprobat ieri, 21 august 2026, o nouă hotărâre, care cuprinde mai multe măsuri și intervenții în regim de urgență pentru a asigura debitul de apă necesar în continuare pentru răcire la CNE Cernavodă.Sunt… 🌐 https:// noutati24.ro/masuri-pentru-men tinerea-functionarii-cne-cernavoda/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@noutati24/117142983643700509",
-      "date": "Sun, 23 Aug 2026 04:41:17 +0000",
-      "content": "🆕Invitație de participare la ofertare privind contractarea de servicii organizare evenimente în cadrul componentei de program nr.4 „consolidarea și modernizarea sistemului național de recuperare a creanțelor provenite din infracțiuni” finanțată prin programul de cooperare elvețiano – 🌐 https:// noutati24.ro/invitatie-de-part icipare-la-ofertare-privind-contractarea-de-servicii-organizare-evenimente-in-cadrul-componentei-de-program-nr-4-consolidarea-si-modernizarea-sistemului-national-de-recuperar/"
     }
   ]
 }
