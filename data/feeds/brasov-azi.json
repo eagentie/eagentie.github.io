@@ -4,8 +4,14 @@
   "site_feed": "https://brasov-azi.ro/feed/",
   "mastodon": "https://social.5th.ro/@brasov",
   "mastodon_rss": "https://social.5th.ro/@brasov.rss",
-  "updated_at": "2026-08-31T13:45:05Z",
+  "updated_at": "2026-08-31T20:03:21Z",
   "site_posts": [
+    {
+      "title": "ecomTEAM 2026: Evenimentul care reunește între 16-18 septembrie comunitatea de eCommerce la Brașov",
+      "link": "https://brasov-azi.ro/ecomteam-2026-evenimentul-care-reuneste-intre-16-18-septembrie-comunitatea-de-ecommerce-la-brasov/",
+      "date": "Mon, 31 Aug 2026 12:07:34 +0000",
+      "summary": "Industria de eCommerce trece printr-o perioadă &#238;n care schimbarea nu mai vine dintr-o singură direcție. Inteligența artificială transformă modul &#238;n care consumatorii caută și cumpără, noile reglementări europene schimbă regulile pentru magazinele online, competiția internațională devine tot mai puternică, iar comportamentul consumatorilor continuă să evolueze. &#206;n acest context, ecomTEAM 2026 revine &#238;ntre 16 și 18 [&#8230;] Articolul ecomTEAM 2026: Evenimentul care reunește între 16-18 septembrie comunitatea de eCommerce la Brașov apare prima dată în Brasov AZI ."
+    },
     {
       "title": "Ai sub 30 de ani și nu lucrezi, nici nu studiezi? Nu ești singur — și ai o soluție",
       "link": "https://brasov-azi.ro/ai-sub-30-de-ani-si-nu-lucrezi-nici-nu-studiezi-nu-esti-singur-si-ai-o-solutie/",
@@ -71,15 +77,15 @@
       "link": "https://brasov-azi.ro/scripcaru-brasov-justitia-declara-ilegal-controlul-politic-asupra-urbanismului-orasului/",
       "date": "Wed, 04 Feb 2026 09:51:40 +0000",
       "summary": "Grupul „Uniți pentru Brașov” (USR – FDGR) din Consiliul Local Brașov a obținut o victorie definitivă în instanță împotriva modificării considerate ilegale a structurii Comisiei Tehnice de Amenajare a Teritoriului și Urbanism (CTATU). Avocatul Alexandru Gheorghe, liderul de grup, a câștigat acțiunea în contencios administrativ, contestând încercarea de subordonare politică a urbanismului municipal. Controlul politic [&#8230;] Articolul Scripcaru, Brașov: Justiția declară ilegal controlul politic asupra urbanismului orașului. apare prima dată în Brasov AZI ."
-    },
-    {
-      "title": "Peste 4.600 de acte de stare civilă pentru nașteri înregistrate la Brașov în 2025",
-      "link": "https://brasov-azi.ro/peste-4-600-de-acte-de-stare-civila-pentru-nasteri-inregistrate-la-brasov-in-2025/",
-      "date": "Mon, 02 Feb 2026 09:35:26 +0000",
-      "summary": "Bilanțul nașterilor din Brașov 2025: Serviciul de Stare Civilă a emis 4.627 de acte, înregistrând mai mulți băieți și 130 de transcrieri. (129 caractere) Articolul Peste 4.600 de acte de stare civilă pentru nașteri înregistrate la Brașov în 2025 apare prima dată în Brasov AZI ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@brasov/117190749570462283",
+      "date": "Mon, 31 Aug 2026 15:08:47 +0000",
+      "content": "Industria de eCommerce trece printr-o perioadă în care schimbarea nu mai vine dintr-o singură direcție. Inteligența artificială transformă modul în care consumatorii caută și cumpără, noile reglementări europene schimbă regulile pentru magazinele online, competiția internațională devine tot mai puternică, iar comportamentul consumatorilor continuă să evolueze. În acest https:// brasov-azi.ro/ecomteam-2026-ev enimentul-care-reuneste-intre-16-18-septembrie-comunitatea-de-ecommerce-la-brasov/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@brasov/117114166460220142",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@brasov/116319226877677768",
       "date": "Mon, 30 Mar 2026 17:09:06 +0000",
       "content": "Dacă te gândești să devii model de videochat în Iași, probabil ai văzut deja numeroase anunțuri online. Multe dintre ele promit câștiguri foarte mari, bonusuri consistente la început și condiții excelente de lucru. Dacă ai căutat pe internet păreri VivaDiva sau informații despre alte studiouri din oraș, ai observat probabil că reclamele sunt foarte convingătoare.… https:// brasov-azi.ro/pareri-vivadiva- ce-spun-modelele-pe-forumvideochat-ro-despre-studiourile-mici-de-videochat-din-iasi/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@brasov/116200822369478813",
-      "date": "Mon, 09 Mar 2026 19:17:17 +0000",
-      "content": "Tentația economiei inițiale și capcana pe care o ascundeExistă o tentație puternică și complet înțeleaptă în mediul antreprenorial românesc de a minimiza investiția inițială în infrastructura digitală, în special în fazele de lansare când bugetele sunt strânse și incertitudinile sunt mari. De ce să dai trei mii sau cinci mii de euro pe un site… https:// brasov-azi.ro/de-ce-site-urile -construite-ieftin-costa-cel-mai-mult-pe-termen-lung-calculul-pe-care-nu-il-face-nimeni-la-inceput/"
     }
   ]
 }
