@@ -4,13 +4,19 @@
   "site_feed": "https://prbusiness.ro/feed/",
   "mastodon": "https://social.5th.ro/@prbusiness",
   "mastodon_rss": "https://social.5th.ro/@prbusiness.rss",
-  "updated_at": "2026-09-01T10:05:22Z",
+  "updated_at": "2026-09-01T14:52:42Z",
   "site_posts": [
     {
       "title": "(P) Cum verifici un furnizor B2B găsit online înainte de prima comandă",
       "link": "https://prbusiness.ro/cum-verifici-furnizor-b2b-gasit-online-inainte-prima-comanda/",
       "date": "Fri, 28 Aug 2026 21:24:26 +0000",
       "summary": "Prima comandă către un furnizor nou nu trebuie decisă doar după preț. Află ce verificări simple poți face înainte să cumperi produse, echipamente sau servicii pentru firmă. The post (P) Cum verifici un furnizor B2B găsit online înainte de prima comandă appeared first on PR Business ."
+    },
+    {
+      "title": "Permisul este doar începutul. Ce deprinderi se formează după primele luni la volan",
+      "link": "https://prbusiness.ro/permisul-este-doar-inceputul-ce-deprinderi-se-formeaza-dupa-primele-luni-la-volan/",
+      "date": "Wed, 26 Aug 2026 13:02:00 +0000",
+      "summary": "Examenul auto verifică dacă știi să controlezi mașina, să respecți regulile și să circuli în siguranță într-un traseu The post Permisul este doar începutul. Ce deprinderi se formează după primele luni la volan appeared first on PR Business ."
     },
     {
       "title": "Hernia strangulată: simptome de alarmă și riscuri dacă amâni operația",
@@ -71,15 +77,15 @@
       "link": "https://prbusiness.ro/crm-integrat-cu-site-ul-cum-treci-de-la-haos-la-un-sistem-care-nu-pierde-niciun-client/",
       "date": "Sat, 07 Mar 2026 20:03:00 +0000",
       "summary": "Douăzeci de cereri pe săptămână și niciun sistem: rețeta perfectă pentru oportunități pierdute Imaginează-ți un scenariu pe care The post CRM integrat cu site-ul: cum treci de la haos la un sistem care nu pierde niciun client appeared first on PR Business ."
-    },
-    {
-      "title": "Închirieri auto Cluj-Napoca: ce mașină alegi în oraș",
-      "link": "https://prbusiness.ro/inchirieri-auto-cluj-napoca-ce-masina-alegi-in-oras/",
-      "date": "Wed, 04 Mar 2026 18:55:00 +0000",
-      "summary": "Cluj-Napoca este un oraș al contrastelor: străzi medievale &#238;nguste &#238;n zona centrală, bulevarde largi, dar foarte aglomerate &#238;n The post Închirieri auto Cluj-Napoca: ce mașină alegi în oraș appeared first on PR Business ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@prbusiness/117196094189422998",
+      "date": "Tue, 01 Sep 2026 13:48:00 +0000",
+      "content": "Examenul auto verifică dacă știi să controlezi mașina, să respecți regulile și să circuli în siguranță într-un traseu de evaluare. După ce rămâi singur la volan, începe însă o etapă diferită. Traficul real aduce situații care nu apar în fiecare ședință de pregătire: drumuri necunoscute, aglomerație, șoferi imprevizibili, ploaie, condus noaptea și decizii luate fără… .... Read more at: https:// prbusiness.ro/permisul-este-do ar-inceputul-ce-deprinderi-se-formeaza-dupa-primele-luni-la-volan/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@prbusiness/117175239823408551",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@prbusiness/116369259141619501",
       "date": "Wed, 08 Apr 2026 13:12:58 +0000",
       "content": "Să ai un număr mare de clienți poate deveni rapid dificil dacă nu ai un management bine pus la punct: cererile cresc, informațiile sunt răspândite în mai multe locuri, iar timpul se pierde în sarcini repetitive. SellNet - Contacte și Clienți te ajută să simplifici acest proces, să-ți structurezi mai bine activitatea și să te… .... More details at: https:// prbusiness.ro/sellnet-lucreaza -cu-liste-personalizate-de-clienti-pentru-a-targeta-o-noua-piata/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@prbusiness/116200807064669634",
-      "date": "Mon, 09 Mar 2026 19:13:23 +0000",
-      "content": "Douăzeci de cereri pe săptămână și niciun sistem: rețeta perfectă pentru oportunități pierduteImaginează-ți un scenariu pe care îl trăiesc zilnic sute de afaceri românești în creștere. Primești douăzeci de cereri de contact într-o săptămână. Unele prin formularul de pe site, altele prin email direct, câteva prin telefon, una sau două prin LinkedIn. Poate și prin… .... More details at: https:// prbusiness.ro/crm-integrat-cu- site-ul-cum-treci-de-la-haos-la-un-sistem-care-nu-pierde-niciun-client/"
     }
   ]
 }

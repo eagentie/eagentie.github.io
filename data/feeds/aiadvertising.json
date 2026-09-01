@@ -4,8 +4,14 @@
   "site_feed": "https://aiadvertising.ro/feed/",
   "mastodon": "https://social.5th.ro/@ai_advertising",
   "mastodon_rss": "https://social.5th.ro/@ai_advertising.rss",
-  "updated_at": "2026-09-01T10:04:03Z",
+  "updated_at": "2026-09-01T14:51:48Z",
   "site_posts": [
+    {
+      "title": "La câte puncte de penalizare se suspendă permisul și cum funcționează sistemul în România",
+      "link": "https://aiadvertising.ro/la-cate-puncte-de-penalizare-se-suspenda-permisul-si-cum-functioneaza-sistemul-in-romania/",
+      "date": "Fri, 28 Aug 2026 21:33:00 +0000",
+      "summary": "În România, permisul se suspendă la acumularea a 15 puncte de penalizare. La primul astfel... Articolul La câte puncte de penalizare se suspendă permisul și cum funcționează sistemul în România apare prima dată în Ai advertising ."
+    },
     {
       "title": "Cum folosești AI ca să scrii un anunț clar, fără să inventezi detalii: ghid CSV.RO",
       "link": "https://aiadvertising.ro/cum-folosesti-ai-scrii-anunt-clar-fara-inventezi-detalii/",
@@ -59,15 +65,15 @@
       "link": "https://aiadvertising.ro/torturi-pentru-botez-cum-alegi-designul-aromele-si-cantitatea-potrivita/",
       "date": "Thu, 14 May 2026 05:08:08 +0000",
       "summary": "Organizarea primului eveniment major din viața copilului tău este o experiență plină de emoție și... Articolul Torturi pentru botez: cum alegi designul, aromele și cantitatea potrivită apare prima dată în Ai advertising ."
-    },
-    {
-      "title": "De ce să nu amâni consultul la medic chirurg când apar simptome persistente",
-      "link": "https://aiadvertising.ro/de-ce-sa-nu-amani-consultul-la-medic-chirurg-cand-apar-simptome-persistente/",
-      "date": "Sun, 10 May 2026 06:30:00 +0000",
-      "summary": "Te-ai trezit vreodată cu o durere sâcâitoare care refuză să dispară, sperând că va trece... Articolul De ce să nu amâni consultul la medic chirurg când apar simptome persistente apare prima dată în Ai advertising ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@ai_advertising/117196105221667371",
+      "date": "Tue, 01 Sep 2026 13:50:48 +0000",
+      "content": "În România, permisul se suspendă la acumularea a 15 puncte de penalizare. La primul astfel de cumul, suspendarea este de 30 de zile. Dacă șoferul ajunge din nou la cel puțin 15 puncte în următoarele 12 luni de la expirarea ultimei suspendări, perioada crește la 60 de zile.Punctele nu se acordă în locul amenzii. Ele… https:// aiadvertising.ro/la-cate-punct e-de-penalizare-se-suspenda-permisul-si-cum-functioneaza-sistemul-in-romania/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@ai_advertising/117093210037635514",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@ai_advertising/116523329774673677",
       "date": "Tue, 05 May 2026 18:15:09 +0000",
       "content": "Cum să alegi un apartament premium în București: zonele care fac diferențaAchiziția unei locuințe în București este una dintre cele mai importante decizii pe care le poți lua, fie că este vorba despre mutarea într-un spațiu nou sau despre o investiție pe termen lung. Orașul oferă numeroase opțiuni, însă diferența reală este făcută de locație,… https:// aiadvertising.ro/cum-sa-alegi- un-apartament-premium-in-bucuresti-zonele-care-fac-diferenta/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@ai_advertising/116130706635787427",
-      "date": "Wed, 25 Feb 2026 10:05:56 +0000",
-      "content": "Eficiența unui senzor de mișcare depinde aproape în totalitate de unghiul său de vizualizare și de modul în care scanează mediul înconjurător. Majoritatea dispozitivelor utilizate în locuințe folosesc tehnologia infraroșu pasiv (PIR). Aceasta funcționează prin detectarea schimbărilor rapide de temperatură, nu a mișcării fizice propriu-zise. Un corp uman cald care trece printr-un fundal mai… https:// aiadvertising.ro/unde-pozition am-corect-senzori-de-miscare-pentru-eficienta-maxima/"
     }
   ]
 }

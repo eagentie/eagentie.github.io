@@ -4,7 +4,7 @@
   "site_feed": "https://9z.ro/feed/",
   "mastodon": "https://social.5th.ro/@9z",
   "mastodon_rss": "https://social.5th.ro/@9z.rss",
-  "updated_at": "2026-09-01T10:06:21Z",
+  "updated_at": "2026-09-01T14:53:22Z",
   "site_posts": [
     {
       "title": "Ce include oferta DY Nutrition de aminoacizi pentru sportivi și persoane active?",
@@ -70,6 +70,12 @@
   "mastodon_posts": [
     {
       "title": "",
+      "link": "https://social.5th.ro/@9z/117195795874556138",
+      "date": "Tue, 01 Sep 2026 12:32:08 +0000",
+      "content": "Prima comandă către un furnizor nou nu trebuie decisă doar după preț. Află ce verificări simple poți face înainte să cumperi produse, echipamente sau servicii pentru firmă. https:// 9z.ro/cum-verifici-furnizor-b2 b-gasit-online-inainte-prima-comanda/"
+    },
+    {
+      "title": "",
       "link": "https://social.5th.ro/@9z/117171809253872810",
       "date": "Fri, 28 Aug 2026 06:52:01 +0000",
       "content": "Ce caută părinții atunci când aleg sandale pentru copii în 2026?Alegerea unei perechi de sandale pentru copii nu mai este de mult doar o chestiune de culoare sau de design. În ultimii ani, părinții au devenit mult mai atenți la calitatea materialelor, confortul oferit de încălțăminte și modul în care aceasta influențează mersul și dezvoltarea… https:// 9z.ro/ce-cauta-parintii-atunci -cand-aleg-sandale-pentru-copii-in-2026/"
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@9z/117156960195575980",
       "date": "Tue, 25 Aug 2026 15:55:42 +0000",
       "content": "Această politică descrie cookie-urile și stocarea locală folosite pe Comunicat presa. Completează Politica de confidențialitate. Ce sunt cookie-urile Cookie-urile sunt fișiere mici salvate pe dispozitivul tău. Folosim și stocare locală în browser pentru preferința de consimțământ. Cookie-urile esențiale țin site-ul în picioare. Cele de analiză și publicitate pornesc doar după acord. Tipuri Esențiale. Sesiune WordPress,… https:// comunicatpresa.9z.ro/politica- de-cookie-uri/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@9z/117156959994925968",
-      "date": "Tue, 25 Aug 2026 15:55:39 +0000",
-      "content": "Această politică explică ce date personale prelucrează Comunicat presa ( https:// comunicatpresa.9z.ro/ ), cine este operatorul, în ce scop și ce drepturi ai. Documentul respectă Regulamentul (UE) 2016/679 (GDPR) și Legea nr. 363/2018. Operatorul de date Operatorul este ARC Mediasoft SRL, sediul social Aleea Botorani, nr. 6, bl. V83, sc. 3, et. 5, ap. 79, Sector 5, 050815… https:// comunicatpresa.9z.ro/privacy-p olicy/"
     }
   ]
 }
