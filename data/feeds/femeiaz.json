@@ -4,8 +4,14 @@
   "site_feed": "https://femeiaz.ro/feed/",
   "mastodon": "https://social.5th.ro/@femeiAZ",
   "mastodon_rss": "https://social.5th.ro/@femeiAZ.rss",
-  "updated_at": "2026-09-05T04:24:14Z",
+  "updated_at": "2026-09-05T09:03:31Z",
   "site_posts": [
+    {
+      "title": "Curs stewardesă online sau pregătire individuală? Ce funcționează înainte de interviu",
+      "link": "https://femeiaz.ro/2026/09/04/curs-stewardesa-online-sau-pregatire-individuala-ce-functioneaza-inainte-de-interviu/",
+      "date": "Fri, 04 Sep 2026 07:08:00 +0000",
+      "summary": "Orice candidată care a decis să aplice la o companie aeriană ajunge, mai devreme sau mai t&#226;rziu, &#238;n fața aceleiași&#8230; Articolul Curs stewardesă online sau pregătire individuală? Ce funcționează înainte de interviu apare prima dată în Femei A-Z ."
+    },
     {
       "title": "Curățat saltea Oradea: 7 semne că lenjeria curată nu mai este suficientă",
       "link": "https://femeiaz.ro/2026/08/17/curatat-saltea-oradea-7-semne-ca-lenjeria-curata-nu-mai-este-suficienta/",
@@ -59,15 +65,15 @@
       "link": "https://femeiaz.ro/2026/03/04/more-networking-10-ani-printr-o-conferinta-despre-puterea-conexiunilor-si-comunitatilor/",
       "date": "Wed, 04 Mar 2026 17:26:34 +0000",
       "summary": "MORE Networking celebrează 10 ani printr-o conferință despre puterea conexiunilor și comunităților O zi intensă de discuții, paneluri și networking&#8230; Articolul MORE Networking &#8211; 10 ani printr-o conferință despre puterea conexiunilor și comunităților apare prima dată în Femei A-Z ."
-    },
-    {
-      "title": "Rețete cosmetice: bucuria de a-ți crea frumusețea cu mâinile tale",
-      "link": "https://femeiaz.ro/2026/01/16/retete-cosmetice-bucuria-de-a-ti-crea-frumusetea-cu-mainile-tale/",
-      "date": "Fri, 16 Jan 2026 09:26:02 +0000",
-      "summary": "You know what? Puține lucruri sunt mai satisfăcătoare decât să-ți prepari singură crema preferată sau să simți cum pielea „dansează”&#8230; Articolul Rețete cosmetice: bucuria de a-ți crea frumusețea cu mâinile tale apare prima dată în Femei A-Z ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@femeiAZ/117217198965797946",
+      "date": "Sat, 05 Sep 2026 07:15:13 +0000",
+      "content": "Orice candidată care a decis să aplice la o companie aeriană ajunge, mai devreme sau mai târziu, în fața aceleiași dileme. Poate să caute singură informații, să urmărească videoclipuri cu experiențe de la selecții, să citească forumuri și grupuri, să întrebe alte candidate care au trecut prin proces și să exerseze pe cont propriu. Sau… https:// femeiaz.ro/2026/09/04/curs-ste wardesa-online-sau-pregatire-individuala-ce-functioneaza-inainte-de-interviu/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@femeiAZ/117109419780570440",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@femeiAZ/115806852261502032",
       "date": "Tue, 30 Dec 2025 05:25:30 +0000",
       "content": "Petrecerile pentru copii au evoluat mult în ultimii ani. Dacă odinioară era suficient un tort, câteva baloane și muzică, astăzi părinții își doresc experiențe complete, bine gândite și adaptate nevoilor emoționale ale celor mici. În centrul acestor experiențe se află animatorii – oamenii care dau viață petrecerii, creează conexiuni și transformă o aniversare obișnuită într-un… https:// femeiaz.ro/2025/12/30/animator ii-pentru-petreceri-copii-distractie-emotie-si-amintiri-de-neuitat/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@femeiAZ/115736844341901181",
-      "date": "Wed, 17 Dec 2025 20:41:34 +0000",
-      "content": "V-ați simțit vreodată copleșiți de algoritmii rețelelor sociale care dictează ce merită sau nu să vedeți? Sunteți în căutarea unei platforme care pune controlul conversației înapoi în mâinile utilizatorului? Fediverse, având Mastodon ca pionier, oferă o alternativă robustă și descentralizată la structurile tradiționale. Dar pentru a naviga eficient în acest ecosistem nou, este vital să… https:// femeiaz.ro/2025/12/17/mentions -si-replies-pe-mastodon-regulile-conversatiei-in-fediverse/"
     }
   ]
 }
