@@ -4,8 +4,14 @@
   "site_feed": "https://iFemeie.ro/feed/",
   "mastodon": "https://social.5th.ro/@iFemeie",
   "mastodon_rss": "https://social.5th.ro/@iFemeie.rss",
-  "updated_at": "2026-09-06T05:57:26Z",
+  "updated_at": "2026-09-06T10:54:42Z",
   "site_posts": [
+    {
+      "title": "Cum alegi lichiorul de după masă în funcție de aromă și desert",
+      "link": "https://ifemeie.ro/cum-alegi-lichiorul-de-dupa-masa-in-functie-de-aroma-si-desert/",
+      "date": "Sun, 06 Sep 2026 07:55:22 +0000",
+      "summary": "Ai terminat masa, cafeaua încă este caldă, iar pe masă apare un pahar mic, parfumat.... Articolul Cum alegi lichiorul de după masă în funcție de aromă și desert apare prima dată în iFemeie ."
+    },
     {
       "title": "Merită un curs stewardesă? Ce contează cu adevărat la recrutare",
       "link": "https://ifemeie.ro/merita-un-curs-stewardesa-ce-conteaza-cu-adevarat-la-recrutare/",
@@ -65,15 +71,15 @@
       "link": "https://ifemeie.ro/te-simti-gol-pe-dinauntru-fara-motiv-un-semnal-pe-care-nu-trebuie-sa-l-ignori/",
       "date": "Tue, 28 Apr 2026 14:19:41 +0000",
       "summary": "Nu plângi și nu ești trist în mod vizibil. Mergi la muncă, răspunzi la mesaje... Articolul Te simți gol pe dinăuntru fără motiv? Un semnal pe care nu trebuie să-l ignori apare prima dată în iFemeie ."
-    },
-    {
-      "title": "Păreri VivaDiva pe Forumvideochat.ro – ce spun mdoelele cu experiență despre studiourile de videochat din Iași",
-      "link": "https://ifemeie.ro/pareri-vivadiva-pe-forumvideochat-ro-ce-spun-mdoelele-cu-experienta-despre-studiourile-de-videochat-din-iasi/",
-      "date": "Mon, 30 Mar 2026 17:06:50 +0000",
-      "summary": "Dacă ai căutat pe internet păreri VivaDiva sau informații despre studiouri de videochat din Iași,... Articolul Păreri VivaDiva pe Forumvideochat.ro – ce spun mdoelele cu experiență despre studiourile de videochat din Iași apare prima dată în iFemeie ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@iFemeie/117223019189310699",
+      "date": "Sun, 06 Sep 2026 07:55:23 +0000",
+      "content": "Ai terminat masa, cafeaua încă este caldă, iar pe masă apare un pahar mic, parfumat. În astfel de momente, alegerea unui lichior ca digestiv după masă nu ține doar de tărie. Dulceața, nota amară și felul în care băutura se leagă de desert schimbă finalul cinei mai mult decât pare.Multe recomandări reduc digestivul la o… https:// ifemeie.ro/cum-alegi-lichiorul -de-dupa-masa-in-functie-de-aroma-si-desert/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@iFemeie/117217144344496869",
@@ -139,12 +145,6 @@
       "link": "https://social.5th.ro/@iFemeie/116319217931393775",
       "date": "Mon, 30 Mar 2026 17:06:50 +0000",
       "content": "Dacă ai căutat pe internet păreri VivaDiva sau informații despre studiouri de videochat din Iași, probabil ai văzut deja multe anunțuri care promit câștiguri mari și condiții excelente de lucru. Studiourile mai mici sau mai puțin cunoscute folosesc adesea reclame foarte optimiste: bonusuri generoase la angajare, trafic garantat pe platforme și venituri mari încă din… https:// ifemeie.ro/pareri-vivadiva-pe- forumvideochat-ro-ce-spun-mdoelele-cu-experienta-despre-studiourile-de-videochat-din-iasi/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@iFemeie/116037540756493437",
-      "date": "Sun, 08 Feb 2026 23:12:37 +0000",
-      "content": "Calculator Sănătate Online pentru monitorizarea parametrilor vitali: necesar caloric zilnic și tensiune arterială, cu interpretări clare și recomandări personal https:// ifemeie.ro/calculator-sanatate -online-ghid-complet-pentru-monitorizarea-parametrilor-vitali/"
     }
   ]
 }
