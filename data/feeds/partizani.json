@@ -4,8 +4,14 @@
   "site_feed": "https://partizani.ro/feed/",
   "mastodon": "https://social.5th.ro/@Partizani",
   "mastodon_rss": "https://social.5th.ro/@Partizani.rss",
-  "updated_at": "2026-09-07T04:38:06Z",
+  "updated_at": "2026-09-07T10:15:40Z",
   "site_posts": [
+    {
+      "title": "Literele de pe sticla de coniac ascund o diferență de opt ani – VS, VSOP și XO fără confuzii",
+      "link": "https://partizani.ro/literele-de-pe-sticla-de-coniac-ascund-o-diferenta-de-opt-ani-vs-vsop-si-xo-fara-confuzii/",
+      "date": "Mon, 07 Sep 2026 08:12:55 +0000",
+      "summary": "Cumperi o sticlă de coniac și găsești pe etichetă trei litere care par să spună totul: VS, VSOP sau XO. Prețul urcă, culoarea devine mai închisă, iar explicațiile din jurul raftului rămân uneori neclare. Diferența dintre coniac VS și XO nu este doar o treaptă de preț. Ea pornește de [&#8230;] Articolul Literele de pe sticla de coniac ascund o diferență de opt ani &#8211; VS, VSOP și XO fără confuzii apare prima dată în Partizani ."
+    },
     {
       "title": "Insecticid profesional vs obișnuit: costul nu se vede în flacon, ci în aplicare",
       "link": "https://partizani.ro/insecticid-profesional-vs-obisnuit-costul-nu-se-vede-in-flacon-ci-in-aplicare/",
@@ -59,12 +65,6 @@
       "link": "https://partizani.ro/sisteme-de-incalzire-prin-pardoseala-merita-investitia/",
       "date": "Thu, 18 Jun 2026 08:05:22 +0000",
       "summary": "Acum câțiva ani încălzirea prin pardoseală era considerată un lux. Motivele sunt destul de clare: nu mai simți curenții de aer rece de la nivelul podelei, nu mai ai calorifere care ocupă loc pe pereți și, la final de lună, factura la energie arată mai bine decât te-ai aștepta. Ce [&#8230;] Articolul Sisteme de încălzire prin pardoseală: merită investiția? apare prima dată în Partizani ."
-    },
-    {
-      "title": "Ce trebuie să știi despre montajul unei fațade din lemn exotic pentru clădirea ta?",
-      "link": "https://partizani.ro/ce-trebuie-sa-stii-despre-montajul-unei-fatade-din-lemn-exotic-pentru-cladirea-ta/",
-      "date": "Tue, 02 Jun 2026 15:25:07 +0000",
-      "summary": "Montajul unei fațade din lemn exotic aduce o valoare estetică deosebită clădirii tale, dar îmbunătățește și eficiența energetică și durabilitatea construcției. Totuși, pentru a beneficia de toate aceste avantaje, va trebui să ai în vedere o serie de factori importanți înainte de a demara acest proiect. Rândurile pe care le [&#8230;] Articolul Ce trebuie să știi despre montajul unei fațade din lemn exotic pentru clădirea ta? apare prima dată în Partizani ."
     }
   ],
   "mastodon_posts": []
