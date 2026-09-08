@@ -4,8 +4,14 @@
   "site_feed": "https://9z.ro/feed/",
   "mastodon": "https://social.5th.ro/@9z",
   "mastodon_rss": "https://social.5th.ro/@9z.rss",
-  "updated_at": "2026-09-08T05:59:24Z",
+  "updated_at": "2026-09-08T11:16:53Z",
   "site_posts": [
+    {
+      "title": "Pahar de degustare whisky Glencairn, forma care schimbă ce simți înainte de prima înghițitură",
+      "link": "https://9z.ro/pahar-de-degustare-whisky-glencairn-forma-care-schimba-ce-simti-inainte-de-prima-inghititura/",
+      "date": "Sun, 06 Sep 2026 07:53:58 +0000",
+      "summary": "Când cauți ce pahar se folosește la whisky, ajungi repede între două tabere: cei care aleg un pahar cu fund gros pentru orice ocazie și cei care preferă un pahar de degustare cu bol rotunjit. Discuția pare, la prima vedere, despre stil. În realitate, forma paharului schimbă felul în care mirosul ajunge la nas, cât [&#8230;] The post Pahar de degustare whisky Glencairn, forma care schimbă ce simți înainte de prima înghițitură appeared first on 9z ."
+    },
     {
       "title": "Top 5 echipamente fitness utile pentru antrenamentele acasă",
       "link": "https://9z.ro/top-5-echipamente-fitness-utile-pentru-antrenamentele-acasa/",
@@ -59,12 +65,6 @@
       "link": "https://9z.ro/de-ce-aldo-este-o-optiune-relevanta-pentru-incaltaminte-de-birou-petrecere-si-ocazii-speciale/",
       "date": "Wed, 19 Aug 2026 04:59:22 +0000",
       "summary": "Ai o zi de lucru, o cină după program și, peste câteva zile, o nuntă la care trebuie să ajungi. Pentru fiecare context pare să fie nevoie de o altă pereche de pantofi. În același timp, este ușor să ajungi la modele care arată bine, dar nu se potrivesc cu nivelul de formalitate, ținuta sau [&#8230;] The post De ce ALDO este o opțiune relevantă pentru încălțăminte de birou, petrecere și ocazii speciale appeared first on 9z ."
-    },
-    {
-      "title": "De ce este important un generator de semnal pentru laborator electronică în industriile high-tech?",
-      "link": "https://9z.ro/de-ce-este-important-un-generator-de-semnal-pentru-laborator-electronica-in-industriile-high-tech/",
-      "date": "Wed, 19 Aug 2026 04:58:41 +0000",
-      "summary": "Dacă lucrezi într-un laborator de electronică, dezvolți proiecte DIY sau coordonezi o mică echipă tehnică, știi că testarea corectă face diferența dintre un prototip promițător și un produs validat. Un generator de semnal îți oferă control asupra stimulului electric aplicat circuitelor tale. Cu ajutorul lui verifici cum reacționează un amplificator, un filtru, un modul RF [&#8230;] The post De ce este important un generator de semnal pentru laborator electronică în industriile high-tech? appeared first on 9z ."
     }
   ],
   "mastodon_posts": [
