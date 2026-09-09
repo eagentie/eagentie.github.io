@@ -4,8 +4,14 @@
   "site_feed": "https://noutati24.ro/feed/",
   "mastodon": "https://social.5th.ro/@noutati24",
   "mastodon_rss": "https://social.5th.ro/@noutati24.rss",
-  "updated_at": "2026-09-09T09:43:38Z",
+  "updated_at": "2026-09-09T14:35:04Z",
   "site_posts": [
+    {
+      "title": "Cum funcționează sistemele de descărcare la cisternele de combustibil?",
+      "link": "https://noutati24.ro/cum-functioneaza-sistemele-de-descarcare-la-cisternele-de-combustibil/",
+      "date": "Wed, 09 Sep 2026 09:44:26 +0000",
+      "summary": "Descărcarea combustibilului impune un traseu controlat de la compartimentul cisternei până la rezervorul beneficiarului. În funcție de echiparea vehiculului, transferul &#8230; Articolul Cum funcționează sistemele de descărcare la cisternele de combustibil? apare prima dată în Noutati 24 ."
+    },
     {
       "title": "Ministerul Justiției a găzduit evenimentul de deschidere a Misiunii de experți organizate de Agenția Internațională pentru Energie Atomică (AIEA) în scopul consolidării Mecanismului național de răspuns la situații de urgență nucleară sau radiologică",
       "link": "https://noutati24.ro/ministerul-justitiei-a-gazduit-evenimentul-de-deschidere-a-misiunii-de-experti-organizate-de-agentia-internationala-pentru-energie-atomica-aiea-in-scopul-consolidarii-mecanismului-national-de-raspun/",
@@ -71,15 +77,15 @@
       "link": "https://noutati24.ro/conferinta-de-presa-sustinuta-de-prim-ministrul-ilie-bolojan-ministrul-investitiilor-si-proiectelor-europene-dragos-pislaru-si-presedintele-casei-nationale-de-asigurari-de-sanatate-cnas-horatiu/",
       "date": "Tue, 01 Sep 2026 16:11:00 +0000",
       "summary": "Galerie foto [embedded content] [Check against delivery] Ioana Ene Dogioiu: Bună seara! Bine ați venit la conferința de presă de &#8230; Articolul Conferință de presă susținută de prim-ministrul Ilie Bolojan, ministrul Investițiilor și Proiectelor Europene, Dragoș Pîslaru, și președintele Casei Naționale de Asigurări de Sănătate (CNAS), Horațiu Moldovan apare prima dată în Noutati 24 ."
-    },
-    {
-      "title": "Prim-ministrul Ilie Bolojan a avut astăzi o convorbire telefonică cu prim-ministrul Ucrainei, Sergii Korețki",
-      "link": "https://noutati24.ro/prim-ministrul-ilie-bolojan-a-avut-astazi-o-convorbire-telefonica-cu-prim-ministrul-ucrainei-sergii-koretki/",
-      "date": "Tue, 01 Sep 2026 16:05:00 +0000",
-      "summary": "COMUNICAT DE PRESĂ Prim-ministrul României, Ilie Bolojan, a avut astăzi o convorbire telefonică cu prim-ministrul Ucrainei, Sergii Korețki. Discuția a &#8230; Articolul Prim-ministrul Ilie Bolojan a avut astăzi o convorbire telefonică cu prim-ministrul Ucrainei, Sergii Korețki apare prima dată în Noutati 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@noutati24/117240435092977718",
+      "date": "Wed, 09 Sep 2026 09:44:28 +0000",
+      "content": "🆕Descărcarea combustibilului impune un traseu controlat de la compartimentul cisternei până la rezervorul beneficiarului. În funcție de echiparea vehiculului, transferul se face gravitațional sau cu ajutorul unei pompe acționate mecanic ori hidraulic. Citește mai departe pentru a înțelege rolul componentelor și ordinea în care lucrează instalația. Combustibilul pleacă din compartimentul selectat Fiecare 🌐 https:// noutati24.ro/cum-functioneaza- sistemele-de-descarcare-la-cisternele-de-combustibil/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@noutati24/117239567001777572",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@noutati24/117199766717234051",
       "date": "Wed, 02 Sep 2026 05:21:58 +0000",
       "content": "🆕COMUNICAT DE PRESĂ Prim-ministrul României, Ilie Bolojan, a avut astăzi o convorbire telefonică cu prim-ministrul Ucrainei, Sergii Korețki. Discuția a vizat evoluțiile de securitate din regiune și principalele direcții ale cooperării dintre România și Ucraina. Prim-ministrul Ilie Bolojan a reafirmat solidaritatea și sprijinul României pentru Ucraina și a transmis 🌐 https:// noutati24.ro/prim-ministrul-il ie-bolojan-a-avut-astazi-o-convorbire-telefonica-cu-prim-ministrul-ucrainei-sergii-koretki/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@noutati24/117199766502676177",
-      "date": "Wed, 02 Sep 2026 05:21:55 +0000",
-      "content": "🆕Galerie foto [embedded content] [Check against delivery] Ioana Ene Dogioiu: Bună seara! Bine ați venit la conferința de presă de astăzi! După cum știți, ieri s-a încheiat un moment, un program foarte important pentru România, Planul Național de Redresare și Reziliență, a avut 🌐 https:// noutati24.ro/conferinta-de-pre sa-sustinuta-de-prim-ministrul-ilie-bolojan-ministrul-investitiilor-si-proiectelor-europene-dragos-pislaru-si-presedintele-casei-nationale-de-asigurari-de-sanatate-cnas-horatiu/"
     }
   ]
 }
