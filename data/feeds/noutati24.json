@@ -4,8 +4,14 @@
   "site_feed": "https://noutati24.ro/feed/",
   "mastodon": "https://social.5th.ro/@noutati24",
   "mastodon_rss": "https://social.5th.ro/@noutati24.rss",
-  "updated_at": "2026-09-11T04:37:29Z",
+  "updated_at": "2026-09-11T09:39:42Z",
   "site_posts": [
+    {
+      "title": "Întrevederea dintre premierul Ilie Bolojan și comisarul european pentru egalitate, pregătire și gestionarea situațiilor de criză, Hadja Lahbib",
+      "link": "https://noutati24.ro/intrevederea-dintre-premierul-ilie-bolojan-si-comisarul-european-pentru-egalitate-pregatire-si-gestionarea-situatiilor-de-criza-hadja-lahbib/",
+      "date": "Thu, 10 Sep 2026 15:10:00 +0000",
+      "summary": "Galerie foto [embedded content] COMUNICAT DE PRESĂ Întrevederea dintre premierul Ilie Bolojan și comisarul european pentru egalitate, pregătire și gestionarea &#8230; Articolul Întrevederea dintre premierul Ilie Bolojan și comisarul european pentru egalitate, pregătire și gestionarea situațiilor de criză, Hadja Lahbib apare prima dată în Noutati 24 ."
+    },
     {
       "title": "Comunicat de presă privind închiderea proiectului „Dezvoltarea de sisteme integrate de înregistrare audio în sălile de judecată si a componentelor de transcriere automată (speech2text)”",
       "link": "https://noutati24.ro/comunicat-de-presa-privind-inchiderea-proiectului-dezvoltarea-de-sisteme-integrate-de-inregistrare-audio-in-salile-de-judecata-si-a-componentelor-de-transcriere-automata-speech2text/",
@@ -71,15 +77,15 @@
       "link": "https://noutati24.ro/sedinta-de-guvern-din-data-3-septembrie-2026/",
       "date": "Thu, 03 Sep 2026 14:37:00 +0000",
       "summary": "Guvernul României Guvernul este autoritatea publică a puterii executive, care funcționează în baza votului de încredere acordat de Parlament și &#8230; Articolul Ședința de guvern din data 3 septembrie 2026 apare prima dată în Noutati 24 ."
-    },
-    {
-      "title": "Mesajul Ministrului interimar al Justiției, Cătălin Predoiu, cu prilejul Zilei Sistemului de Probațiune din România, 3 septembrie 2026",
-      "link": "https://noutati24.ro/mesajul-ministrului-interimar-al-justitiei-catalin-predoiu-cu-prilejul-zilei-sistemului-de-probatiune-din-romania-3-septembrie-2026/",
-      "date": "Thu, 03 Sep 2026 13:13:43 +0000",
-      "summary": "&#160; Dragi colegi, Sunt deosebit de onorat să fiu alături de dumneavoastră în această zi, în care marcăm 25 de &#8230; Articolul Mesajul Ministrului interimar al Justiției, Cătălin Predoiu, cu prilejul Zilei Sistemului de Probațiune din România, 3 septembrie 2026 apare prima dată în Noutati 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@noutati24/117250928932352373",
+      "date": "Fri, 11 Sep 2026 06:13:11 +0000",
+      "content": "🆕Galerie foto [embedded content] COMUNICAT DE PRESĂ Întrevederea dintre premierul Ilie Bolojan și comisarul european pentru egalitate, pregătire și gestionarea situațiilor de criză, Hadja Lahbib Premierul Ilie Bolojan a primit astăzi, la Palatul Victoria, vizita comisarului european pentru egalitate, pregătire și gestionarea 🌐 https:// noutati24.ro/intrevederea-dint re-premierul-ilie-bolojan-si-comisarul-european-pentru-egalitate-pregatire-si-gestionarea-situatiilor-de-criza-hadja-lahbib/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@noutati24/117245261610373657",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@noutati24/117211129002518735",
       "date": "Fri, 04 Sep 2026 05:31:33 +0000",
       "content": "🆕Guvernul României Guvernul este autoritatea publică a puterii executive, care funcționează în baza votului de încredere acordat de Parlament și care asigură realizarea politicii interne și externe a țării și exercită conducerea generală a administrației publice. Află mai multeArticol preluat de pe gov.ro 🌐 https:// noutati24.ro/sedinta-de-guvern -din-data-3-septembrie-2026/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@noutati24/117211128677581473",
-      "date": "Fri, 04 Sep 2026 05:31:28 +0000",
-      "content": "🆕PRECIZARE DE PRESĂ Guvernul face toate demersurile pentru ca România să încaseze integral cele 770 de milioane euro aferente jalonului PNRR privind integritatea Guvernul face toate demersurile pentru a se asigura că România va încasa integral cele 770.000.000 de euro aferente jalonului PNRR referitor la noua legislație de 🌐 https:// noutati24.ro/guvernul-face-toa te-demersurile-pentru-ca-romania-sa-incaseze-integral-cele-770-de-milioane-euro-aferente-jalonului-pnrr-privind-integritatea/"
     }
   ]
 }

@@ -4,8 +4,14 @@
   "site_feed": "https://constructii360.ro/feed/",
   "mastodon": "https://social.5th.ro/@constructii360",
   "mastodon_rss": "https://social.5th.ro/@constructii360.rss",
-  "updated_at": "2026-09-11T04:37:31Z",
+  "updated_at": "2026-09-11T09:39:45Z",
   "site_posts": [
+    {
+      "title": "Curs arhitecți și curs ingineri: proiectarea corectă a locuințelor",
+      "link": "https://constructii360.ro/curs-arhitecti-si-curs-ingineri-2026/",
+      "date": "Fri, 11 Sep 2026 09:32:45 +0000",
+      "summary": "Specialiștii din construcții pot participa la un curs practic dedicat proiectării locuințelor, care acoperă aspecte de siguranță, igienă și eficiență energetică. Articolul Curs arhitecți și curs ingineri: proiectarea corectă a locuințelor apare prima dată în Constructii 360 ."
+    },
     {
       "title": "Pregătirea Terenului pentru Pavaj și Alei Betonate: Ghid Complet pentru o Fundație Durabilă",
       "link": "https://constructii360.ro/pregatirea-terenului-pentru-pavaj-si-alei-betonate-ghid-complet-pentru-o-fundatie-durabila/",
@@ -59,15 +65,15 @@
       "link": "https://constructii360.ro/de-la-pasiune-la-cercetare-aplicata-un-elev-am-school-construieste-si-pregateste-lansarea-unei-rachete/",
       "date": "Tue, 02 Jun 2026 11:19:38 +0000",
       "summary": "Erik Culescu, elev &#238;n clasa a XII-a, pasionat de astronomie, inginerie aerospațială și tehnologie, pregătește Articolul De la pasiune la cercetare aplicată: un elev Am School construiește și pregătește lansarea unei rachete apare prima dată în Constructii 360 ."
-    },
-    {
-      "title": "Cum faci mai mult loc și mai puțin haos în zona de gătit",
-      "link": "https://constructii360.ro/cum-faci-mai-mult-loc-si-mai-putin-haos-in-zona-de-gatit/",
-      "date": "Thu, 28 May 2026 07:03:04 +0000",
-      "summary": "Sursa: freepik Există bucătării mari în care totul pare înghesuit și există bucătării mici în Articolul Cum faci mai mult loc și mai puțin haos în zona de gătit apare prima dată în Constructii 360 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@constructii360/117251713618796687",
+      "date": "Fri, 11 Sep 2026 09:32:45 +0000",
+      "content": "🆕Specialiștii din construcții pot participa la un curs practic dedicat proiectării locuințelor, care acoperă aspecte de siguranță, igienă și eficiență energetică. https:// constructii360.ro/curs-arhitec ti-si-curs-ingineri-2026/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@constructii360/117151160184616462",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@constructii360/116549704943284144",
       "date": "Sun, 10 May 2026 10:02:43 +0000",
       "content": "🆕Ai simțit vreodată o durere abdominală atât de intensă încât te-a pus la pământ? Astfel de momente sunt extrem de alarmante și pot indica o problemă medicală severă care nu suportă amânare. Intervenția rapidă este adesea factorul decisiv între o recuperare ușoară și complicații majore. Dacă te afli în capitală, accesul la servicii de chirurgie… https:// constructii360.ro/cele-mai-fre cvente-situatii-care-pot-necesita-chirurgie-de-urgenta/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@constructii360/116526433972725832",
-      "date": "Wed, 06 May 2026 07:24:36 +0000",
-      "content": "🆕Ferestrele și ușile influențează direct confortul din casă, nivelul de izolare termică și fonică, consumul de energie și chiar aspectul general al locuinței. Tocmai de aceea, tot mai mulți clienți preferă să discute direct cu un producător care poate explica diferențele dintre sisteme și poate propune o soluție adaptată proiectului. Când comanzi direct de la… https:// constructii360.ro/tamplarie-pv c/"
     }
   ]
 }

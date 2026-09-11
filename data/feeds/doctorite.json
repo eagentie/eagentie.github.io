@@ -4,8 +4,14 @@
   "site_feed": "https://doctorite.ro/feed/",
   "mastodon": "https://social.5th.ro/@DoctoriteBlog",
   "mastodon_rss": "https://social.5th.ro/@DoctoriteBlog.rss",
-  "updated_at": "2026-09-11T04:38:15Z",
+  "updated_at": "2026-09-11T09:40:27Z",
   "site_posts": [
+    {
+      "title": "Ce trebuie să știe părinții despre dezvoltarea dinților la vârstă mică?",
+      "link": "https://doctorite.ro/ingrijire-primul-dinte-copil/",
+      "date": "Fri, 11 Sep 2026 08:22:14 +0000",
+      "summary": "Ghid practic pentru părinți: cum periezi corect dinții de lapte, câtă pastă folosești și ce semne de dezvoltare merită discutate cu medicul. Articolul Ce trebuie să știe părinții despre dezvoltarea dinților la vârstă mică? apare prima dată în Doctorite ."
+    },
     {
       "title": "Ridurile de expresie versus ridurile statice: de ce tratamentul diferă?",
       "link": "https://doctorite.ro/ridurile-de-expresie-versus-ridurile-statice-de-ce-tratamentul-difera/",
@@ -59,15 +65,15 @@
       "link": "https://doctorite.ro/investigatia-pe-care-o-tot-amani-de-ce-rmn-ul-sau-ct-ul-din-bucuresti-nu-trebuie-sa-fie-un-cosmar-logistic/",
       "date": "Mon, 11 May 2026 15:39:07 +0000",
       "summary": "Stai de sase luni cu trimiterea pentru RMN in portofel. O tot muti dintr-un loc... Articolul Investigatia pe care o tot amani — de ce RMN-ul sau CT-ul din Bucuresti nu trebuie sa fie un cosmar logistic apare prima dată în Doctorite ."
-    },
-    {
-      "title": "Unde merită să investești în București: zonele care îți oferă randament și confort",
-      "link": "https://doctorite.ro/unde-merita-sa-investesti-in-bucuresti-zonele-care-iti-ofera-randament-si-confort/",
-      "date": "Sun, 10 May 2026 18:10:00 +0000",
-      "summary": "Piața imobiliară din București continuă să atragă tot mai mulți cumpărători interesați de locuințe moderne,... Articolul Unde merită să investești în București: zonele care îți oferă randament și confort apare prima dată în Doctorite ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@DoctoriteBlog/117251436564153373",
+      "date": "Fri, 11 Sep 2026 08:22:17 +0000",
+      "content": "Ghid practic pentru părinți: cum periezi corect dinții de lapte, câtă pastă folosești și ce semne de dezvoltare merită discutate cu medicul. https:// doctorite.ro/ingrijire-primul- dinte-copil/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@DoctoriteBlog/117167282248951558",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@DoctoriteBlog/116549627163816438",
       "date": "Sun, 10 May 2026 09:42:56 +0000",
       "content": "Te-ai simțit vreodată stânjenit de aspectul picioarelor tale sau ai resimțit o greutate insuportabilă după o zi lungă de muncă? Această senzație de picioare obosite nu este doar o urmare a efortului fizic, ci poate fi primul semnal de alarmă al unei afecțiuni serioase. Multe persoane aleg să ignore aceste semne, considerându-le pur estetice, însă… https:// doctorite.ro/varicele-netratat e-riscuri-simptome-si-solutii-chirurgicale/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@DoctoriteBlog/116289459962284212",
-      "date": "Wed, 25 Mar 2026 10:58:59 +0000",
-      "content": "Cei mai mulți oameni ajung la dentist în același moment: când începe să doară. E firesc. Dacă nu simți nimic, dacă în oglindă totul pare în regulă și dacă poți mânca fără probleme, ai tendința să amâni. Spui că mergi săptămâna viitoare. Sau luna viitoare. Sau când se mai liniștește programul. Doar că dinții nu… https:// doctorite.ro/cand-este-recoman data-radiografia-dentara-si-ce-probleme-poate-descoperi-din-timp/"
     }
   ]
 }
