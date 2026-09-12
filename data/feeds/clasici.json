@@ -4,8 +4,14 @@
   "site_feed": "https://clasici.ro/feed/",
   "mastodon": "https://social.5th.ro/@clasici",
   "mastodon_rss": "https://social.5th.ro/@clasici.rss",
-  "updated_at": "2026-09-12T09:19:38Z",
+  "updated_at": "2026-09-12T13:36:49Z",
   "site_posts": [
+    {
+      "title": "Negociere preț second hand: cum faci o ofertă corectă fără să pierzi produsul",
+      "link": "https://clasici.ro/negociere-pret-second-hand-oferta-corecta/",
+      "date": "Sat, 12 Sep 2026 09:34:20 +0000",
+      "summary": "Negocierea unui produs second-hand nu înseamnă să oferi automat cel mai mic preț posibil. Un cumpărător bine pregătit verifică piața, starea produsului, accesoriile și costurile reale înainte să propună o sumă."
+    },
     {
       "title": "Rindeaua electrică: scula care poate transforma rapid o bucată de lemn într-o piesă bine finisată",
       "link": "https://clasici.ro/rindeaua-electrica-scula-care-poate-transforma-rapid-o-bucata-de-lemn-intr-o-piesa-bine-finisata/",
@@ -71,15 +77,15 @@
       "link": "https://clasici.ro/top-7-cele-mai-indragite-puzzle-uri-de-catre-copii-si-parinti/",
       "date": "Wed, 03 Dec 2025 10:36:24 +0000",
       "summary": "Ce facem c&#226;nd vrem să alegem un puzzle care să st&#226;rnească entuziasmul instant al copilului?..."
-    },
-    {
-      "title": "2025: cum colaborezi cu o agenție pentru articole SEO fără frustrări",
-      "link": "https://clasici.ro/2025-cum-colaborezi-cu-o-agentie-pentru-articole-seo-fara-frustrari/",
-      "date": "Mon, 01 Dec 2025 12:07:49 +0000",
-      "summary": "Epuizați de articole care nu reușesc să ajungă pe prima pagină în motoarele de căutare?..."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@clasici/117257382290776461",
+      "date": "Sat, 12 Sep 2026 09:34:22 +0000",
+      "content": "⭐Negocierea unui produs second-hand nu înseamnă să oferi automat cel mai mic preț posibil. Un cumpărător bine pregătit verifică piața, starea produsului, accesoriile și costurile reale înainte să propună o sumă. ⭐ https:// clasici.ro/negociere-pret-seco nd-hand-oferta-corecta/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@clasici/117156389681277390",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@clasici/115694858911062433",
       "date": "Wed, 10 Dec 2025 10:44:07 +0000",
       "content": "⭐Ce facem când vrem să alegem un puzzle care să stârnească entuziasmul instant al copilului? Ne uităm la cele mai iubite modele, testate deja de micii exploratori! Am pregătit un top 7 al puzzle-urilor care adună zâmbete, aplauze și... piese sub canapea (dar cu dragoste!). Toate recomandările sunt disponibile pe starbaby.ro/puzzle, unde găsești și alte… # puzzlepawpatrol # puzzletop ⭐ https:// clasici.ro/top-7-cele-mai-indr agite-puzzle-uri-de-catre-copii-si-parinti/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@clasici/115694858826970653",
-      "date": "Wed, 10 Dec 2025 10:44:06 +0000",
-      "content": "⭐Epuizați de articole care nu reușesc să ajungă pe prima pagină în motoarele de căutare? Timpul prețios petrecut cu modificări interminabile ale conținutului este o frustrare majoră pentru multe companii. Colaborarea cu o agenție SEO de top poate fi extrem de eficientă, dar succesul acesteia depinde de fundația parteneriatului. Nu este suficient să externalizați sarcina;… ⭐ https:// clasici.ro/2025-cum-colaborezi -cu-o-agentie-pentru-articole-seo-fara-frustrari/"
     }
   ]
 }
