@@ -4,8 +4,14 @@
   "site_feed": "https://recent-news.ro/feed/",
   "mastodon": "https://social.5th.ro/@recent_news",
   "mastodon_rss": "https://social.5th.ro/@recent_news.rss",
-  "updated_at": "2026-09-12T04:39:01Z",
+  "updated_at": "2026-09-12T09:18:45Z",
   "site_posts": [
+    {
+      "title": "Patru arii de lucru, cu ochii pe relația pe termen lung",
+      "link": "https://recent-news.ro/patru-arii-de-lucru-cu-ochii-pe-relatia-pe-termen-lung/",
+      "date": "Sat, 12 Sep 2026 05:57:23 +0000",
+      "summary": "COMUNICAT DE PRESĂ Matricea Succesului Timișoara: consultanții în asigurări descoperă pe 29 septembrie cum își construiesc un portofoliu stabil Evenimentul&#8230; Articolul Patru arii de lucru, cu ochii pe relația pe termen lung apare prima dată în Recent News ."
+    },
     {
       "title": "Camping și locații izolate: cum se rezolvă problema apei și a canalizării",
       "link": "https://recent-news.ro/camping-si-locatii-izolate-cum-se-rezolva-problema-apei-si-a-canalizarii/",
@@ -59,15 +65,15 @@
       "link": "https://recent-news.ro/de-ce-bulgaria-ramane-una-dintre-cele-mai-populare-destinatii-pentru-romani/",
       "date": "Wed, 03 Jun 2026 08:21:00 +0000",
       "summary": "Planurile pentru concediu &#238;ncep adesea cu o listă lungă de dorințe. Vrei o plajă curată, cazare confortabilă, m&#226;ncare bună și&#8230; Articolul De ce Bulgaria rămâne una dintre cele mai populare destinații pentru români apare prima dată în Recent News ."
-    },
-    {
-      "title": "De la pasiune la cercetare aplicată: un elev Am School construiește și pregătește lansarea unei rachete",
-      "link": "https://recent-news.ro/de-la-pasiune-la-cercetare-aplicata-un-elev-am-school-construieste-si-pregateste-lansarea-unei-rachete/",
-      "date": "Tue, 02 Jun 2026 11:20:20 +0000",
-      "summary": "Erik Culescu, elev &#238;n clasa a XII-a, pasionat de astronomie, inginerie aerospațială și tehnologie, pregătește prezentarea unui proiect educațional rar&#8230; Articolul De la pasiune la cercetare aplicată: un elev Am School construiește și pregătește lansarea unei rachete apare prima dată în Recent News ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@recent_news/117257241860672035",
+      "date": "Sat, 12 Sep 2026 08:58:39 +0000",
+      "content": "COMUNICAT DE PRESĂ Matricea Succesului Timișoara: consultanții în asigurări descoperă pe 29 septembrie cum își construiesc un portofoliu stabilEvenimentul gratuit organizat de Acceleratorul.com aduce la Centrul Regional de Afaceri Timișoara un eveniment dedicat profesioniștilor din asigurări. Consultanții și antreprenorii din brokerajul de asigurări din vestul țării au pe 29 septembrie parte de o dimineață dedicată… https:// recent-news.ro/patru-arii-de-l ucru-cu-ochii-pe-relatia-pe-termen-lung/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@recent_news/117190529670659672",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@recent_news/116618982819877211",
       "date": "Fri, 22 May 2026 15:40:59 +0000",
       "content": "Dacă ai început să fii atent/ă la ce cafea bei, sigur ai auzit deja termenul „cafea de specialitate”. Dar ce înseamnă, de fapt cafea de specialitate? Și mai important: cum știi că alegi una bună? Noi lucrăm zilnic cu cafea, alegem boabe din locuri cunoscute pentru calitatea lor, le prăjim, le preparăm și le servim în… https:// recent-news.ro/ce-inseamna-caf ea-de-specialitate-si-cum-alegi-una-buna/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@recent_news/116565908154311029",
-      "date": "Wed, 13 May 2026 06:43:24 +0000",
-      "content": "Într-o perioadă în care experiența contează la fel de mult ca gustul, deserturile au devenit parte din povestea fiecărui eveniment. De la nunți elegante și botezuri intime, până la aniversări și evenimente corporate premium, detaliile fac diferența. Iar când vine vorba despre torturi artizanale și candy bar-uri spectaculoase, Rapsodia Cake reușește să transforme fiecare moment… https:// recent-news.ro/rapsodia-cake-d eserturi-premium-pentru-nunti-botezuri-evenimente-corporate-si-aniversari/"
     }
   ]
 }
