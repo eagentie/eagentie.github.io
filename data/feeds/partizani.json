@@ -4,8 +4,14 @@
   "site_feed": "https://partizani.ro/feed/",
   "mastodon": "https://social.5th.ro/@Partizani",
   "mastodon_rss": "https://social.5th.ro/@Partizani.rss",
-  "updated_at": "2026-09-13T18:12:29Z",
+  "updated_at": "2026-09-13T20:48:47Z",
   "site_posts": [
+    {
+      "title": "5 lucruri care pot da peste cap o mutare de apartament",
+      "link": "https://partizani.ro/5-lucruri-care-pot-da-peste-cap-o-mutare-de-apartament/",
+      "date": "Sun, 13 Sep 2026 18:35:33 +0000",
+      "summary": "Te muti intr-un apartament nou si ai deja data stabilita. Prietenii promit ca te ajuta, ai inchiriat o duba, ti-ai facut planul in cap. Peste doua saptamani descoperi ca nimic nu a mers cum credeai: mobila e zgariata, peretele e lovit, prietenii sunt epuizati dupa primele trei ore si tu [&#8230;] Articolul 5 lucruri care pot da peste cap o mutare de apartament apare prima dată în Partizani ."
+    },
     {
       "title": "Schimb de produse între persoane: cum stabilești valoarea și faci un schimb corect",
       "link": "https://partizani.ro/schimb-produse-intre-persoane-cum-stabilesti-valoarea-si-faci-un-schimb/",
@@ -59,12 +65,6 @@
       "link": "https://partizani.ro/espressor-in-comodat-pentru-birouri-din-bucuresti-cum-functioneaza-cat-costa-si-de-ce-tot-mai-multe-firme-renunta-sa-mai-cumpere-aparate/",
       "date": "Mon, 06 Jul 2026 07:23:31 +0000",
       "summary": "Cum funcționează un espressor în comodat pentru birou în București: costuri reale, ce include abonamentul, criterii de alegere a furnizorului și pași concreți. Articolul Espressor în comodat pentru birouri din București: cum funcționează, cât costă și de ce tot mai multe firme renunță să mai cumpere aparate apare prima dată în Partizani ."
-    },
-    {
-      "title": "Chirurgia oncologică digestivă: ce înseamnă și pentru ce afecțiuni este recomandată",
-      "link": "https://partizani.ro/chirurgia-oncologica-digestiva-ce-inseamna-si-pentru-ce-afectiuni-este-recomandata/",
-      "date": "Tue, 23 Jun 2026 08:05:55 +0000",
-      "summary": "Dr. Bogdan Serban explică, pentru pacienți din București, ce afecțiuni pot fi evaluate chirurgical. Informații despre chirurgie oncologică digestivă și când Articolul Chirurgia oncologică digestivă: ce înseamnă și pentru ce afecțiuni este recomandată apare prima dată în Partizani ."
     }
   ],
   "mastodon_posts": []
