@@ -4,8 +4,14 @@
   "site_feed": "https://pr360.ro/feed/",
   "mastodon": "https://social.5th.ro/@pr360",
   "mastodon_rss": "https://social.5th.ro/@pr360.rss",
-  "updated_at": "2026-09-14T18:36:59Z",
+  "updated_at": "2026-09-14T22:29:13Z",
   "site_posts": [
+    {
+      "title": "Platforme de anunțuri: cum s-a schimbat rolul lor online",
+      "link": "https://pr360.ro/platforme-anunturi-rol-online/",
+      "date": "Mon, 14 Sep 2026 22:25:55 +0000",
+      "summary": "Platformele de anunțuri nu mai înseamnă doar vânzarea unui obiect folosit. Produse, servicii, locuri de muncă, auto și imobiliare coexistă astăzi în același ecosistem digital, iar utilitatea reală vine din structură, informații clare și contact direct. The post Platforme de anunțuri: cum s-a schimbat rolul lor online appeared first on PR 360 ."
+    },
     {
       "title": "Peritonita: de ce este o urgență majoră și cum se tratează",
       "link": "https://pr360.ro/peritonita-de-ce-este-o-urgenta-majora-si-cum-se-trateaza/",
@@ -71,12 +77,6 @@
       "link": "https://pr360.ro/cotele-dunarii-la-luminita-in-2026-nivelul-apei-azi-grafic-si-actualizari-periodice/",
       "date": "Fri, 13 Feb 2026 08:38:11 +0000",
       "summary": "Analiza rezultatelor actuale din Google pentru „cotele Dunării Luminița” indică faptul că majoritatea site-urilor oferă date brute, preluate de la AFDJ, fără a oferi context sau explicații detaliate pentru utilizatorii obișnuiți (pescari, turiști sau localnici). Elementele de diferențiere identificate sunt: actualizarea în timp real, interpretarea datelor pentru siguranța navigației și integrarea unor hărți interactive. Acest [&#8230;] The post Cotele Dunării la Luminița în 2026: nivelul apei azi, grafic și actualizări periodice appeared first on PR 360 ."
-    },
-    {
-      "title": "Ce lumină să alegi pentru un tub LED montat în atelierul de lucru",
-      "link": "https://pr360.ro/ce-lumina-sa-alegi-pentru-un-tub-led-montat-in-atelierul-de-lucru/",
-      "date": "Mon, 09 Feb 2026 11:24:00 +0000",
-      "summary": "Amenajarea unui atelier, fie că este vorba despre un spațiu pentru t&#226;mplărie, mecanică fină sau reparații electronice, depinde enorm de calitatea iluminatului. O lumină slabă sau necorespunzătoare nu doar că obosește ochii, dar crește semnificativ riscul de accidente și erori de execuție. C&#226;nd lucrezi cu unelte tăioase sau cu piese minuscule, vizibilitatea devine cel mai [&#8230;] The post Ce lumină să alegi pentru un tub LED montat în atelierul de lucru appeared first on PR 360 ."
     }
   ],
   "mastodon_posts": [
