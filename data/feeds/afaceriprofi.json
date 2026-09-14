@@ -4,8 +4,14 @@
   "site_feed": "https://afaceriprofi.ro/feed/",
   "mastodon": "https://social.5th.ro/@AfaceriProfi",
   "mastodon_rss": "https://social.5th.ro/@AfaceriProfi.rss",
-  "updated_at": "2026-09-14T12:52:17Z",
+  "updated_at": "2026-09-14T18:37:48Z",
   "site_posts": [
+    {
+      "title": "Biodegradabil nu înseamnă automat compostabil",
+      "link": "https://afaceriprofi.ro/biodegradabil-vs-compostabil-horeca/",
+      "date": "Mon, 14 Sep 2026 15:48:57 +0000",
+      "summary": "Regulamentele europene din 2026 fac distincție clară între materialele biodegradabile și cele compostabile. Iată ce trebuie să știi pentru a respecta noile norme. The post Biodegradabil nu înseamnă automat compostabil appeared first on Afaceri Profitabile ."
+    },
     {
       "title": "Producția textilă personalizată: când este potrivită imprimarea DTG",
       "link": "https://afaceriprofi.ro/productia-textila-personalizata-cand-este-potrivita-imprimarea-dtg/",
@@ -59,15 +65,15 @@
       "link": "https://afaceriprofi.ro/ce-sunt-peretii-cortina-si-unde-pot-fi-folositi/",
       "date": "Mon, 22 Jun 2026 12:42:36 +0000",
       "summary": "Dacă te plimbi prin centrul oricărui oraș mare, privirea îți va fi atrasă instantaneu de clădirile moderne... The post Ce sunt pereții cortină și unde pot fi folosiți? appeared first on Afaceri Profitabile ."
-    },
-    {
-      "title": "Cum îți optimizezi timpul folosind mai multe dispozitive?",
-      "link": "https://afaceriprofi.ro/cum-iti-optimizezi-timpul-folosind-mai-multe-dispozitive/",
-      "date": "Fri, 29 May 2026 07:17:00 +0000",
-      "summary": "Introducere Îți optimizezi timpul folosind mai multe dispozitive atunci când telefonul, tableta și căștile lucrează împreună, fără... The post Cum îți optimizezi timpul folosind mai multe dispozitive? appeared first on Afaceri Profitabile ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@AfaceriProfi/117270179983135639",
+      "date": "Mon, 14 Sep 2026 15:48:59 +0000",
+      "content": "✅Regulamentele europene din 2026 fac distincție clară între materialele biodegradabile și cele compostabile. Iată ce trebuie să știi pentru a respecta noile norme. ✅ https:// afaceriprofi.ro/biodegradabil- vs-compostabil-horeca/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@AfaceriProfi/117206372727504124",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@AfaceriProfi/116656638374958551",
       "date": "Fri, 29 May 2026 07:17:17 +0000",
       "content": "✅IntroducereÎți optimizezi timpul folosind mai multe dispozitive atunci când telefonul, tableta și căștile lucrează împreună, fără să pierzi minute cu transferuri, reconectări sau căutări repetate. În 2026, utilizatorii caută soluții care îi ajută să înceapă o activitate pe un dispozitiv și să o continue rapid pe altul. În ecosistemul Samsung, Galaxy Tab S11, Galaxy Buds4,… ✅ https:// afaceriprofi.ro/cum-iti-optimi zezi-timpul-folosind-mai-multe-dispozitive/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@AfaceriProfi/116640618550221686",
-      "date": "Tue, 26 May 2026 11:23:14 +0000",
-      "content": "✅Cumpărarea unei mașini rulate începe, de cele mai multe ori, cu o listă lungă de anunțuri. Compari prețuri, verifici anul de fabricație, te uiți la kilometraj, dotări, fotografii și promisiuni. Decizia devine dificilă atunci când ofertele par apropiate, iar diferența reală stă în seriozitatea dealerului.În acest punct intervine ARDAR, Asociația Română a Dealerilor ✅ https:// afaceriprofi.ro/ardar-asociati a-care-propune-un-model-de-incredere-intre-dealerii-auto-si-cumparatorii-de-masini-rulate/"
     }
   ]
 }
