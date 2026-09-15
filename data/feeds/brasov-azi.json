@@ -4,8 +4,14 @@
   "site_feed": "https://brasov-azi.ro/feed/",
   "mastodon": "https://social.5th.ro/@brasov",
   "mastodon_rss": "https://social.5th.ro/@brasov.rss",
-  "updated_at": "2026-09-15T07:42:49Z",
+  "updated_at": "2026-09-15T13:31:53Z",
   "site_posts": [
+    {
+      "title": "Evenimentele business din Brașov se schimbă: de ce networkingul devine tot mai important",
+      "link": "https://brasov-azi.ro/networking-b2b-brasov/",
+      "date": "Tue, 15 Sep 2026 11:55:30 +0000",
+      "summary": "Brașovul a devenit un punct important pe harta evenimentelor business din Rom&#226;nia. Conferințe, &#238;nt&#226;lniri profesionale, expoziții, evenimente corporate și evenimente dedicate unor industrii specifice aduc periodic &#238;n oraș antreprenori, manageri, specialiști și reprezentanți ai unor companii din țară și din străinătate. Dincolo de prezentări și agenda oficială, există &#238;nsă o componentă care poate face diferența [&#8230;] Articolul Evenimentele business din Brașov se schimbă: de ce networkingul devine tot mai important apare prima dată în Brasov AZI ."
+    },
     {
       "title": "ecomTEAM 2026: Evenimentul care reunește între 16-18 septembrie comunitatea de eCommerce la Brașov",
       "link": "https://brasov-azi.ro/ecomteam-2026-evenimentul-care-reuneste-intre-16-18-septembrie-comunitatea-de-ecommerce-la-brasov/",
@@ -71,15 +77,15 @@
       "link": "https://brasov-azi.ro/irineu-darau-austeritatea-fara-stimularea-economiei-inseamna-stagnare-guvernul-aproba-masuri-pentru-relansare-economica/",
       "date": "Wed, 25 Feb 2026 11:06:47 +0000",
       "summary": "Executivul a adoptat recent o Ordonanță de Urgență care introduce un set complex de măsuri menite să revitalizeze mediul economic național. În acest context, **Irineu Darău**, ministrul Economiei, Digitalizării, Antreprenoriatului și Turismului, a evidențiat importanța abandonării politicilor bazate exclusiv pe restricții în favoarea unor investiții bine țintite. Conform oficialului originar din Brașov, simpla menținere a [&#8230;] Articolul Irineu Darău: Austeritatea fără stimularea economiei înseamnă stagnare. Guvernul aprobă măsuri pentru relansare economică apare prima dată în Brasov AZI ."
-    },
-    {
-      "title": "Scripcaru, Brașov: Justiția declară ilegal controlul politic asupra urbanismului orașului.",
-      "link": "https://brasov-azi.ro/scripcaru-brasov-justitia-declara-ilegal-controlul-politic-asupra-urbanismului-orasului/",
-      "date": "Wed, 04 Feb 2026 09:51:40 +0000",
-      "summary": "Grupul „Uniți pentru Brașov” (USR – FDGR) din Consiliul Local Brașov a obținut o victorie definitivă în instanță împotriva modificării considerate ilegale a structurii Comisiei Tehnice de Amenajare a Teritoriului și Urbanism (CTATU). Avocatul Alexandru Gheorghe, liderul de grup, a câștigat acțiunea în contencios administrativ, contestând încercarea de subordonare politică a urbanismului municipal. Controlul politic [&#8230;] Articolul Scripcaru, Brașov: Justiția declară ilegal controlul politic asupra urbanismului orașului. apare prima dată în Brasov AZI ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@brasov/117274924216712483",
+      "date": "Tue, 15 Sep 2026 11:55:30 +0000",
+      "content": "Brașovul a devenit un punct important pe harta evenimentelor business din România. Conferințe, întâlniri profesionale, expoziții, evenimente corporate și evenimente dedicate unor industrii specifice aduc periodic în oraș antreprenori, manageri, specialiști și reprezentanți ai unor companii din țară și din străinătate. Dincolo de prezentări și agenda oficială, există însă o componentă care poate face diferența… https:// brasov-azi.ro/networking-b2b-b rasov/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@brasov/117190749570462283",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@brasov/116367521818389710",
       "date": "Wed, 08 Apr 2026 05:51:09 +0000",
       "content": "Într-o piață atât de dinamică precum cea din Capitală, imaginea afacerii tale depinde enorm de prima impresie vizuală. Vrei ca brandul tău să strălucească și să atragă privirile trecătorilor încă din prima secundă? Alegerea unor soluții de producție publicitară București de înaltă calitate este pasul esențial pentru a transforma trecătorii în clienți loiali. Imaginează-ți un… https:// brasov-azi.ro/cum-alegi-corect -o-firma-de-productie-publicitara-in-bucuresti-pentru-un-proiect-fara-intarzieri/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@brasov/116319226877677768",
-      "date": "Mon, 30 Mar 2026 17:09:06 +0000",
-      "content": "Dacă te gândești să devii model de videochat în Iași, probabil ai văzut deja numeroase anunțuri online. Multe dintre ele promit câștiguri foarte mari, bonusuri consistente la început și condiții excelente de lucru. Dacă ai căutat pe internet păreri VivaDiva sau informații despre alte studiouri din oraș, ai observat probabil că reclamele sunt foarte convingătoare.… https:// brasov-azi.ro/pareri-vivadiva- ce-spun-modelele-pe-forumvideochat-ro-despre-studiourile-mici-de-videochat-din-iasi/"
     }
   ]
 }

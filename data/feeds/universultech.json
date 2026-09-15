@@ -4,7 +4,7 @@
   "site_feed": "https://UniversulTech.ro/feed/",
   "mastodon": "https://social.5th.ro/@UniversulTech",
   "mastodon_rss": "https://social.5th.ro/@UniversulTech.rss",
-  "updated_at": "2026-09-15T07:44:31Z",
+  "updated_at": "2026-09-15T13:33:07Z",
   "site_posts": [
     {
       "title": "CONFERINTA Energia in priza",
@@ -82,6 +82,12 @@
   "mastodon_posts": [
     {
       "title": "",
+      "link": "https://social.5th.ro/@UniversulTech/117273937439102269",
+      "date": "Tue, 15 Sep 2026 07:44:33 +0000",
+      "content": "💡PROGRAM ORIENTATIV Ziarul BURSA organizeaza a XIV-a editie a conferintei &quot;Energia in priza&quot;, in data de 21 septembrie 2026, incepand cu ora 10:00, la Sheraton Bucharest Hotel, sala Platinum, din Calea Dorobantilor, 5-7, Bucuresti. Evenimentul se va desfasura cu participare fizica, fiind transmis, in direct, pe www.bursa.ro, pe contul de Facebook al ziarului BURSA, pe… ✅ https:// universultech.ro/conferinta-en ergia-in-priza/"
+    },
+    {
+      "title": "",
       "link": "https://social.5th.ro/@UniversulTech/117171618911854123",
       "date": "Fri, 28 Aug 2026 06:03:37 +0000",
       "content": "💡În ultimii ani, industria jocurilor video a trecut printr-o transformare radicală. Deși consolele de ultimă generație și PC-urile de gaming ultra-performante domină adesea știrile tehnologice, o revoluție tehnologică discretă s-a produs chiar în interiorul browserelor noastre web. Datorită avansului tehnologiilor web precum HTML5 și WebGL, jocurile în browser au evoluat de la ✅ https:// universultech.ro/evolutia-jocu rilor-in-browser-cum-tehnologia-moderna-a-transformat-divertismentul-rapid/"
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@UniversulTech/116656678542400583",
       "date": "Fri, 29 May 2026 07:27:30 +0000",
       "content": "💡Cum funcționează Audio Eraser?Audio Eraser funcționează prin analizarea sunetului dintr-un videoclip și prin separarea zgomotelor pe categorii, astfel încât utilizatorul să poată reduce sunetele nedorite. Practic, funcția ajută la evidențierea vocilor, a muzicii sau a sunetelor importante și limitează zgomotul de fundal, precum vântul, aglomerația sau alte distrageri. În 2026, această funcție contează mai ales… ✅ https:// universultech.ro/cum-functione aza-audio-eraser/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@UniversulTech/116651099055388148",
-      "date": "Thu, 28 May 2026 07:48:34 +0000",
-      "content": "💡AI îți transformă experiența vizuală prin faptul că ajută televizorul să adapteze imaginea la conținutul urmărit, la ritmul scenelor și la modul în care folosești ecranul în fiecare zi. În 2026, un TV cu AI nu mai este ales doar pentru rezoluție sau diagonală, ci pentru felul în care face sportul mai clar, filmele mai… ✅ https:// universultech.ro/cum-iti-trans forma-ai-experienta-vizuala/"
     }
   ]
 }

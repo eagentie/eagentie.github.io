@@ -4,8 +4,14 @@
   "site_feed": "https://9z.ro/feed/",
   "mastodon": "https://social.5th.ro/@9z",
   "mastodon_rss": "https://social.5th.ro/@9z.rss",
-  "updated_at": "2026-09-15T07:44:38Z",
+  "updated_at": "2026-09-15T13:33:14Z",
   "site_posts": [
+    {
+      "title": "Cum se schimbă experiența participanților la evenimentele B2B",
+      "link": "https://9z.ro/experienta-evenimentele-b2b/",
+      "date": "Tue, 15 Sep 2026 11:37:53 +0000",
+      "summary": "Organizatorii folosesc matchmakingul și aplicațiile digitale pentru a facilita conexiunile relevante, mutând o parte din networking înainte de începerea evenimentului. The post Cum se schimbă experiența participanților la evenimentele B2B appeared first on 9z ."
+    },
     {
       "title": "Ce este Vouchify.ro?",
       "link": "https://9z.ro/ghid-vouchify-coduri-reducere/",
@@ -59,15 +65,15 @@
       "link": "https://9z.ro/cum-recunosti-o-sursa-de-incredere-atunci-cand-cauti-informatii-despre-suplimente-si-sanatate-naturala/",
       "date": "Thu, 20 Aug 2026 04:51:19 +0000",
       "summary": "O sursă de încredere despre suplimente explică atât beneficiile, cât și limitele, spune cine este autorul și ce pregătire are, se sprijină pe surse medicale și nu îți promite vindecări. Semnalele de alarmă sunt promisiunile garantate, rezultatele foarte rapide, produsele „bune pentru oricine&#8221; și sfatul de a renunța la tratamentul prescris de medic. Platforme educaționale [&#8230;] The post Cum recunoști o sursă de încredere atunci când cauți informații despre suplimente și sănătate naturală appeared first on 9z ."
-    },
-    {
-      "title": "Cum construiești o garderobă olfactivă pentru birou, călătorii, seri speciale și momente de relaxare",
-      "link": "https://9z.ro/cum-construiesti-o-garderoba-olfactiva-pentru-birou-calatorii-seri-speciale-si-momente-de-relaxare/",
-      "date": "Thu, 20 Aug 2026 04:50:10 +0000",
-      "summary": "Porți același parfum de ani buni, la birou, în weekend, la o cină importantă sau într-o zi în care nu vrei decât liniște. Funcționează, dar observi tot mai des că nu se potrivește peste tot la fel. Pare prea puternic într-o ședință, prea discret pentru o seară aniversară sau pur și simplu nepotrivit pentru starea [&#8230;] The post Cum construiești o garderobă olfactivă pentru birou, călătorii, seri speciale și momente de relaxare appeared first on 9z ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@9z/117274855121870986",
+      "date": "Tue, 15 Sep 2026 11:37:56 +0000",
+      "content": "Organizatorii folosesc matchmakingul și aplicațiile digitale pentru a facilita conexiunile relevante, mutând o parte din networking înainte de începerea evenimentului. https:// 9z.ro/experienta-evenimentele- b2b/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@9z/117270184781388477",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@9z/117157135727056558",
       "date": "Tue, 25 Aug 2026 16:40:21 +0000",
       "content": "Aici poți redeschide bara de consimțământ pentru Advertoriale seo. Cookie-urile esențiale rămân active. Analiza și publicitatea pornesc doar dacă le accepți. Detalii: Politica de cookie-uri și Politica de confidențialitate. Deschide setările cookie Dacă bara nu apare, șterge cookie-urile pentru acest site și reîncarcă pagina, sau scrie redacției la redactie@9z.ro. https:// 9z.ro/setari-cookie/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@9z/117157135563044649",
-      "date": "Tue, 25 Aug 2026 16:40:18 +0000",
-      "content": "Acești termeni reglementează folosirea publicației Advertoriale seo, disponibilă la https:// 9z.ro/ . Te rugăm să-i citești înainte de a folosi site-ul. Continuarea navigării înseamnă că i-ai citit. Operator Advertoriale seo este editat de ARC Mediasoft SRL, sediul social Aleea Botorani, nr. 6, bl. V83, sc. 3, et. 5, ap. 79, Sector 5, 050815 București, România, CUI RO32431001,… https:// 9z.ro/termeni-si-conditii/"
     }
   ]
 }
