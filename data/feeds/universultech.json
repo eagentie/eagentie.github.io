@@ -4,8 +4,14 @@
   "site_feed": "https://UniversulTech.ro/feed/",
   "mastodon": "https://social.5th.ro/@UniversulTech",
   "mastodon_rss": "https://social.5th.ro/@UniversulTech.rss",
-  "updated_at": "2026-09-15T01:27:37Z",
+  "updated_at": "2026-09-15T07:44:31Z",
   "site_posts": [
+    {
+      "title": "CONFERINTA Energia in priza",
+      "link": "https://universultech.ro/conferinta-energia-in-priza/",
+      "date": "Tue, 15 Sep 2026 04:41:30 +0000",
+      "summary": "PROGRAM ORIENTATIV Ziarul BURSA organizeaza a XIV-a editie a conferintei &#8222;Energia in priza&#8221;, in data de 21 septembrie 2026, incepand&#8230; Articolul CONFERINTA Energia in priza apare prima dată în Universul Tech ."
+    },
     {
       "title": "Evoluția jocurilor în browser: Cum tehnologia modernă a transformat divertismentul rapid",
       "link": "https://universultech.ro/evolutia-jocurilor-in-browser-cum-tehnologia-moderna-a-transformat-divertismentul-rapid/",
@@ -71,12 +77,6 @@
       "link": "https://universultech.ro/cum-functioneaza-audio-eraser/",
       "date": "Fri, 29 May 2026 07:27:00 +0000",
       "summary": "Cum funcționează Audio Eraser? Audio Eraser funcționează prin analizarea sunetului dintr-un videoclip și prin separarea zgomotelor pe categorii, astfel încât&#8230; Articolul Cum funcționează Audio Eraser? apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "Cum alegi căști pentru muncă și apeluri?",
-      "link": "https://universultech.ro/cum-alegi-casti-pentru-munca-si-apeluri/",
-      "date": "Wed, 27 May 2026 04:15:10 +0000",
-      "summary": "Introducere Alegi căști pentru muncă și apeluri după claritatea vocii, confortul la purtare, stabilitatea conexiunii și felul în care se&#8230; Articolul Cum alegi căști pentru muncă și apeluri? apare prima dată în Universul Tech ."
     }
   ],
   "mastodon_posts": [
