@@ -4,8 +4,14 @@
   "site_feed": "https://arta-constructiilor.ro/feed/",
   "mastodon": "https://social.5th.ro/@ArtaConstructiilor",
   "mastodon_rss": "https://social.5th.ro/@ArtaConstructiilor.rss",
-  "updated_at": "2026-09-16T09:57:11Z",
+  "updated_at": "2026-09-16T14:59:27Z",
   "site_posts": [
+    {
+      "title": "Ghid complet pentru achiziția de nisip și pietriș în București și Ilfov",
+      "link": "https://arta-constructiilor.ro/ghid-complet-pentru-achizitia-de-nisip-si-pietris-in-bucuresti-si-ilfov/",
+      "date": "Wed, 16 Sep 2026 11:33:58 +0000",
+      "summary": "Atunci când te pregătești pentru un proiect de construcție sau de amenajare, fie că este vorba despre o casă nouă, o renovare sau o grădină, &#8230; Articolul Ghid complet pentru achiziția de nisip și pietriș în București și Ilfov apare prima dată în Arta Constructiilor ."
+    },
     {
       "title": "Inspecție video canalizare: cum afli unde e problema",
       "link": "https://arta-constructiilor.ro/inspectie-video-canalizare-cum-afli-unde-e-problema/",
@@ -59,15 +65,15 @@
       "link": "https://arta-constructiilor.ro/parchet-spc-sau-parchet-laminat-cum-alegi-corect-pentru-casa-ta/",
       "date": "Wed, 22 Jul 2026 11:41:07 +0000",
       "summary": "Alegerea pardoselii potrivite influențează atât aspectul locuinței, cât și confortul și costurile de întreținere pe termen lung. Două dintre cele mai populare opțiuni sunt parchetul &#8230; Articolul Parchet SPC sau parchet laminat? Cum alegi corect pentru casa ta apare prima dată în Arta Constructiilor ."
-    },
-    {
-      "title": "De ce vara este cel mai scump sezon pentru construcții în România?",
-      "link": "https://arta-constructiilor.ro/de-ce-vara-este-cel-mai-scump-sezon-pentru-constructii-in-romania/",
-      "date": "Tue, 14 Jul 2026 12:00:43 +0000",
-      "summary": "Sursa: Envato Dacă ai început să ceri oferte pentru construirea unei case sau pentru renovarea locuinței în lunile de vară, probabil ai observat un lucru: &#8230; Articolul De ce vara este cel mai scump sezon pentru construcții în România? apare prima dată în Arta Constructiilor ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@ArtaConstructiilor/117280501852455095",
+      "date": "Wed, 16 Sep 2026 11:33:58 +0000",
+      "content": "Atunci când te pregătești pentru un proiect de construcție sau de amenajare, fie că este vorba despre o casă nouă, o renovare sau o grădină, alegerea corectă a materialelor de bază este crucială. Nisipul și pietrișul sunt agregate indispensabile, iar calitatea și proveniența lor pot influența semnificativ durabilitatea și costul final al lucrării. Navigarea pe… .... 🌐 https:// arta-constructiilor.ro/ghid-co mplet-pentru-achizitia-de-nisip-si-pietris-in-bucuresti-si-ilfov/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@ArtaConstructiilor/117190501129590044",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@ArtaConstructiilor/116917673782398387",
       "date": "Tue, 14 Jul 2026 09:42:01 +0000",
       "content": "Un pat bun intră în categoria lucrurilor pe care preferi să le cumperi o singură dată și să te bucuri de ele ani la rând. Astfel, alegerea merită făcută cu răbdare, fără să te lași convins doar de fotografii spectaculoase sau de un preț atractiv. Dincolo de design, există câteva detalii care spun mult mai… .... 🌐 https:// arta-constructiilor.ro/de-ce-c riterii-trebuie-sa-tii-cont-ca-sa-alegi-un-pat-durabil/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@ArtaConstructiilor/116872559664233975",
-      "date": "Mon, 06 Jul 2026 10:28:55 +0000",
-      "content": "Anvelopele sunt unele dintre cele mai importante componente ale unui automobil, chiar dacă, de multe ori, nu primesc atenția pe care o merită, iar menținerea acestora într-o stare optimă de funcționare este la fel de importantă precum schimbarea plăcuțelor de frâne. Motorul, frânele, suspensia sau sistemele electronice de siguranță pot fi foarte performante, însă toate… .... 🌐 https:// arta-constructiilor.ro/trei-sf aturi-despre-cum-sa-va-mentineti-anvelopele-in-stare-buna/"
     }
   ]
 }

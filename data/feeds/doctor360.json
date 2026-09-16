@@ -4,8 +4,14 @@
   "site_feed": "https://doctor360.ro/feed/",
   "mastodon": "https://social.5th.ro/@doctor360",
   "mastodon_rss": "https://social.5th.ro/@doctor360.rss",
-  "updated_at": "2026-09-16T09:56:59Z",
+  "updated_at": "2026-09-16T14:59:14Z",
   "site_posts": [
+    {
+      "title": "Novo Nordisk intră într-o nouă etapă de dezvoltare, susținută de rebrandingul „Novo” și de actualizarea culturii organizaționale",
+      "link": "https://doctor360.ro/novo-nordisk-intra-intr-o-noua-etapa-de-dezvoltare-sustinuta-de-rebrandingul-novo-si-de-actualizarea-culturii-organizationale/",
+      "date": "Wed, 16 Sep 2026 10:48:41 +0000",
+      "summary": "Bagsv&#230;rd, Danemarca, 14 septembrie 2026 &#8211; Novo Nordisk marchează astăzi &#238;nceputul unei noi etape &#238;n evoluția companiei, odată cu lansarea unui nou brand construit &#238;n jurul promisiunii &#8222;Lasting Health Starts Now&#8221; (&#8222;Sănătatea pe termen lung &#238;ncepe acum&#8221;) și al numelui unic &#8222;Novo&#8221;, precum și cu actualizarea culturii organizaționale prin introducerea &#8222;The Novo Way&#8221;. Aceste schimbări [&#8230;] Articolul Novo Nordisk intră într-o nouă etapă de dezvoltare, susținută de rebrandingul „Novo” și de actualizarea culturii organizaționale apare prima dată în Doctor 360 ."
+    },
     {
       "title": "Endometrioza – de ce abordarea multidisciplinară este esențială pentru calitatea vieții pacientelor",
       "link": "https://doctor360.ro/endometrioza-de-ce-abordarea-multidisciplinara-este-esentiala-pentru-calitatea-vietii-pacientelor/",
@@ -71,15 +77,15 @@
       "link": "https://doctor360.ro/de-la-mic-dejun-la-gustari/",
       "date": "Mon, 19 Jan 2026 11:46:47 +0000",
       "summary": "Mixit oferă peste 150 de produse vegane pentru un 2026 echilibrat La &#238;nceput de an, tot mai mulți oameni &#238;și propun să măn&#226;nce mai echilibrat, să reducă produsele de origine animală și să aleagă ingrediente curate, funcționale și ușor de integrat &#238;n rutina zilnică. Pentru cei care vor să introducă produse vegane &#238;n alimentația lor, [&#8230;] Articolul De la mic dejun la gustări apare prima dată în Doctor 360 ."
-    },
-    {
-      "title": "Implant dentar: prețul nu mai este un impediment! Iată cum îți influențează dispozitivul starea de sănătate generală",
-      "link": "https://doctor360.ro/implant-dentar-pretul-nu-mai-este-un-impediment-iata-cum-iti-influenteaza-dispozitivul-starea-de-sanatate-generala/",
-      "date": "Sat, 27 Dec 2025 16:08:00 +0000",
-      "summary": "Lipsa unui dinte nu este niciodată doar o problemă punctuală și, chiar dacă de multe ori este tratată ca un detaliu care poate fi am&#226;nat, efectele se extind treptat asupra &#238;ntregului organism, iar decizia de a apela la un implant dentar ajunge aproape &#238;ntotdeauna să fie filtrată prin aceeași &#238;ntrebare legată de cost. Totuși, medicina [&#8230;] Articolul Implant dentar: prețul nu mai este un impediment! Iată cum îți influențează dispozitivul starea de sănătate generală apare prima dată în Doctor 360 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@doctor360/117281036197137042",
+      "date": "Wed, 16 Sep 2026 13:49:52 +0000",
+      "content": "💡Bagsværd, Danemarca, 14 septembrie 2026 – Novo Nordisk marchează astăzi începutul unei noi etape în evoluția companiei, odată cu lansarea unui nou brand construit în jurul promisiunii „Lasting Health Starts Now” („Sănătatea pe termen lung începe acum”) și al numelui unic „Novo”, precum și cu actualizarea culturii organizaționale prin introducerea 💡 https:// doctor360.ro/novo-nordisk-intr a-intr-o-noua-etapa-de-dezvoltare-sustinuta-de-rebrandingul-novo-si-de-actualizarea-culturii-organizationale/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@doctor360/117120419271317820",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@doctor360/115922089938983796",
       "date": "Mon, 19 Jan 2026 13:51:58 +0000",
       "content": "💡Mixit oferă peste 150 de produse vegane pentru un 2026 echilibrat La început de an, tot mai mulți oameni își propun să mănânce mai echilibrat, să reducă produsele de origine animală și să aleagă ingrediente curate, funcționale și ușor de integrat în rutina zilnică. Pentru cei care vor să introducă produse vegane în alimentația lor,… 💡 https:// doctor360.ro/de-la-mic-dejun-l a-gustari/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@doctor360/115858282636051591",
-      "date": "Thu, 08 Jan 2026 07:24:55 +0000",
-      "content": "💡Lipsa unui dinte nu este niciodată doar o problemă punctuală și, chiar dacă de multe ori este tratată ca un detaliu care poate fi amânat, efectele se extind treptat asupra întregului organism, iar decizia de a apela la un implant dentar ajunge aproape întotdeauna să fie filtrată prin aceeași întrebare legată de cost. Totuși, medicina… 💡 https:// doctor360.ro/implant-dentar-pr etul-nu-mai-este-un-impediment-iata-cum-iti-influenteaza-dispozitivul-starea-de-sanatate-generala/"
     }
   ]
 }

@@ -4,8 +4,14 @@
   "site_feed": "https://clinic-sanatos.ro/feed/",
   "mastodon": "https://social.5th.ro/@clinic_sanatos",
   "mastodon_rss": "https://social.5th.ro/@clinic_sanatos.rss",
-  "updated_at": "2026-09-16T09:56:55Z",
+  "updated_at": "2026-09-16T14:59:10Z",
   "site_posts": [
+    {
+      "title": "Novo Nordisk intră într-o nouă etapă de dezvoltare, susținută de rebrandingul „Novo” și de actualizarea culturii organizaționale",
+      "link": "https://clinic-sanatos.ro/novo-nordisk-intra-intr-o-noua-etapa-de-dezvoltare-sustinuta-de-rebrandingul-novo-si-de-actualizarea-culturii-organizationale/",
+      "date": "Wed, 16 Sep 2026 10:51:58 +0000",
+      "summary": "Bagsv&#230;rd, Danemarca, 14 septembrie 2026 &#8211; Novo Nordisk marchează astăzi &#238;nceputul unei noi etape &#238;n... Articolul Novo Nordisk intră într-o nouă etapă de dezvoltare, susținută de rebrandingul „Novo” și de actualizarea culturii organizaționale apare prima dată în Clinic Sanatos ."
+    },
     {
       "title": "Refluxul gastroesofagian: simptome care nu ar trebui ignorate și când este necesar consultul medical",
       "link": "https://clinic-sanatos.ro/refluxul-gastroesofagian-simptome-care-nu-ar-trebui-ignorate-si-cand-este-necesar-consultul-medical/",
@@ -71,15 +77,15 @@
       "link": "https://clinic-sanatos.ro/rinita-alergica-de-ce-este-mai-mult-decat-o-simpla-raceala-si-cand-trebuie-tratata-corect/",
       "date": "Tue, 10 Feb 2026 19:07:17 +0000",
       "summary": "Rinita alergica este una dintre cele mai frecvente afectiuni respiratorii, dar si una dintre cele... Articolul Rinita alergica – De ce este mai mult decat o simpla raceala si cand trebuie tratata corect apare prima dată în Clinic Sanatos ."
-    },
-    {
-      "title": "De la mic dejun la gustări",
-      "link": "https://clinic-sanatos.ro/de-la-mic-dejun-la-gustari/",
-      "date": "Mon, 19 Jan 2026 11:46:47 +0000",
-      "summary": "Mixit oferă peste 150 de produse vegane pentru un 2026 echilibrat La &#238;nceput de an,... Articolul De la mic dejun la gustări apare prima dată în Clinic Sanatos ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@clinic_sanatos/117281049411702720",
+      "date": "Wed, 16 Sep 2026 13:53:14 +0000",
+      "content": "Bagsværd, Danemarca, 14 septembrie 2026 – Novo Nordisk marchează astăzi începutul unei noi etape în evoluția companiei, odată cu lansarea unui nou brand construit în jurul promisiunii „Lasting Health Starts Now” („Sănătatea pe termen lung începe acum”) și al numelui unic „Novo”, precum și cu actualizarea culturii organizaționale prin .... https:// clinic-sanatos.ro/novo-nordisk -intra-intr-o-noua-etapa-de-dezvoltare-sustinuta-de-rebrandingul-novo-si-de-actualizarea-culturii-organizationale/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@clinic_sanatos/117279608121150126",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@clinic_sanatos/115922095258431641",
       "date": "Mon, 19 Jan 2026 13:53:19 +0000",
       "content": "Mixit oferă peste 150 de produse vegane pentru un 2026 echilibrat La început de an, tot mai mulți oameni își propun să mănânce mai echilibrat, să reducă produsele de origine animală și să aleagă ingrediente curate, funcționale și ușor de integrat în rutina zilnică. Pentru cei care vor să introducă produse vegane în alimentația lor,… .... https:// clinic-sanatos.ro/de-la-mic-de jun-la-gustari/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@clinic_sanatos/115736495093743049",
-      "date": "Wed, 17 Dec 2025 19:12:45 +0000",
-      "content": "Ați petrecut ore întregi creând conținut valoros pe WordPress, dar simțiți că efortul de a-l distribui manual pe rețelele sociale descentralizate, precum Mastodon, vă consumă timp prețios? Suntem cu toții de acord că managementul prezenței pe Fediverse poate fi o provocare logistică. Gândiți-vă la timpul pe care îl pierdeți mutând textele, imaginile și link-urile de… .... https:// clinic-sanatos.ro/mastodon-wor dpress-plugin-optiuni-pentru-programare-si-intervale-de-postare/"
     }
   ]
 }
