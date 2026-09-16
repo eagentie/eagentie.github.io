@@ -4,8 +4,14 @@
   "site_feed": "https://clinic-sanatos.ro/feed/",
   "mastodon": "https://social.5th.ro/@clinic_sanatos",
   "mastodon_rss": "https://social.5th.ro/@clinic_sanatos.rss",
-  "updated_at": "2026-09-16T04:55:07Z",
+  "updated_at": "2026-09-16T09:56:55Z",
   "site_posts": [
+    {
+      "title": "Refluxul gastroesofagian: simptome care nu ar trebui ignorate și când este necesar consultul medical",
+      "link": "https://clinic-sanatos.ro/refluxul-gastroesofagian-simptome-care-nu-ar-trebui-ignorate-si-cand-este-necesar-consultul-medical/",
+      "date": "Wed, 16 Sep 2026 07:46:36 +0000",
+      "summary": "Arsurile în capul pieptului după o masă consistentă sunt frecvente și, dacă apar ocazional, nu... Articolul Refluxul gastroesofagian: simptome care nu ar trebui ignorate și când este necesar consultul medical apare prima dată în Clinic Sanatos ."
+    },
     {
       "title": "Obstrucția intestinală: cauze, simptome și tratament",
       "link": "https://clinic-sanatos.ro/obstructia-intestinala-cauze-simptome-si-tratament/",
@@ -71,15 +77,15 @@
       "link": "https://clinic-sanatos.ro/de-la-mic-dejun-la-gustari/",
       "date": "Mon, 19 Jan 2026 11:46:47 +0000",
       "summary": "Mixit oferă peste 150 de produse vegane pentru un 2026 echilibrat La &#238;nceput de an,... Articolul De la mic dejun la gustări apare prima dată în Clinic Sanatos ."
-    },
-    {
-      "title": "Mastodon WordPress plugin: opțiuni pentru programare și intervale de postare",
-      "link": "https://clinic-sanatos.ro/mastodon-wordpress-plugin-optiuni-pentru-programare-si-intervale-de-postare/",
-      "date": "Wed, 17 Dec 2025 16:58:54 +0000",
-      "summary": "Ați petrecut ore întregi creând conținut valoros pe WordPress, dar simțiți că efortul de a-l... Articolul Mastodon WordPress plugin: opțiuni pentru programare și intervale de postare apare prima dată în Clinic Sanatos ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@clinic_sanatos/117279608121150126",
+      "date": "Wed, 16 Sep 2026 07:46:41 +0000",
+      "content": "Arsurile în capul pieptului după o masă consistentă sunt frecvente și, dacă apar ocazional, nu indică neapărat o boală. Atunci când episoadele se repetă, apar regurgitații acide sau simptomele încep să afecteze somnul și alimentația, poate fi vorba despre boala de reflux gastroesofagian.Refluxul apare atunci când o parte din conținutul stomacului urcă în esofag. .... https:// clinic-sanatos.ro/refluxul-gas troesofagian-simptome-care-nu-ar-trebui-ignorate-si-cand-este-necesar-consultul-medical/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@clinic_sanatos/117014445827090870",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@clinic_sanatos/115736495093743049",
       "date": "Wed, 17 Dec 2025 19:12:45 +0000",
       "content": "Ați petrecut ore întregi creând conținut valoros pe WordPress, dar simțiți că efortul de a-l distribui manual pe rețelele sociale descentralizate, precum Mastodon, vă consumă timp prețios? Suntem cu toții de acord că managementul prezenței pe Fediverse poate fi o provocare logistică. Gândiți-vă la timpul pe care îl pierdeți mutând textele, imaginile și link-urile de… .... https:// clinic-sanatos.ro/mastodon-wor dpress-plugin-optiuni-pentru-programare-si-intervale-de-postare/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@clinic_sanatos/115724266557172256",
-      "date": "Mon, 15 Dec 2025 15:22:52 +0000",
-      "content": "Importanta nutritiei in timpul sarciniiSarcina este, fara doar si poate, o perioada definitorie atat pentru sanatatea mamei, cat si pentru dezvoltarea armonioasa a fatului. O alimentatie echilibrata si suplimentele adecvate sunt factori esentiali in aceasta perioada. Pentru ca necesarul de vitamine, minerale si acizi grasi esentiali creste substantial, multe femei .... https:// clinic-sanatos.ro/suplimente-a limentare-gravide-beneficiile-oligobs-prenatal-cu-omega-3-in-dezvoltarea-sarcinii/"
     }
   ]
 }

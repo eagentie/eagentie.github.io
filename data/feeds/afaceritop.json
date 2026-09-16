@@ -4,8 +4,14 @@
   "site_feed": "https://afaceritop.ro/feed/",
   "mastodon": "https://social.5th.ro/@afaceri_top",
   "mastodon_rss": "https://social.5th.ro/@afaceri_top.rss",
-  "updated_at": "2026-09-16T04:54:10Z",
+  "updated_at": "2026-09-16T09:55:47Z",
   "site_posts": [
+    {
+      "title": "Ambalajul devine o carte de vizită tot mai vizibilă pentru afacerile locale",
+      "link": "https://afaceritop.ro/ambalaj-pentru-afacerile-locale/",
+      "date": "Wed, 16 Sep 2026 08:06:19 +0000",
+      "summary": "Descoperă de ce ambalajul este primul element de branding pe care îl vede clientul și cum alegerea corectă a formatului poate reduce costurile de marketing. Articolul Ambalajul devine o carte de vizită tot mai vizibilă pentru afacerile locale apare prima dată în Afaceri TOP ."
+    },
     {
       "title": "Ce nu apare în niciun ghid despre mentenanța flotelor de utilaje agricole",
       "link": "https://afaceritop.ro/ce-nu-apare-in-niciun-ghid-despre-mentenanta-flotelor-de-utilaje-agricole/",
@@ -59,15 +65,15 @@
       "link": "https://afaceritop.ro/tipuri-de-monitorizare-automata-a-firmelor/",
       "date": "Fri, 22 May 2026 12:52:58 +0000",
       "summary": "Prin monitorizarea automată a activității partenerilor și clienților, reușești să menții stabilă relația cu aceștia și să identifici rapid eventualele schimbări de comportament sau de risc. Verificarea manuală îți poate lua timp, consumă resurse și este predispusă la erori, ceea ce poate duce la întârzieri în luarea deciziilor și la pierderea unor oportunități importante. Ce [&#8230;] Articolul Tipuri de monitorizare automată a firmelor apare prima dată în Afaceri TOP ."
-    },
-    {
-      "title": "Cum alegi un tort de botez potrivit pentru o zi cu adevărat specială",
-      "link": "https://afaceritop.ro/cum-alegi-un-tort-de-botez-potrivit-pentru-o-zi-cu-adevarat-speciala/",
-      "date": "Thu, 14 May 2026 05:08:08 +0000",
-      "summary": "Venirea pe lume a unui copil reprezintă cel mai emoționant capitol din viața oricărui părinte. Planificarea primei petreceri oficiale a micuțului necesită atenție la detalii și multă dragoste. Elementul central al petrecerii, care atrage toate privirile și încântă papilele gustative, rămâne fără îndoială desertul principal. Alegerea unor torturi botez deosebite transformă o simplă reuniune într-o [&#8230;] Articolul Cum alegi un tort de botez potrivit pentru o zi cu adevărat specială apare prima dată în Afaceri TOP ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@afaceri_top/117279685556441483",
+      "date": "Wed, 16 Sep 2026 08:06:23 +0000",
+      "content": "Descoperă de ce ambalajul este primul element de branding pe care îl vede clientul și cum alegerea corectă a formatului poate reduce costurile de marketing. https:// afaceritop.ro/ambalaj-pentru-a facerile-locale/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@afaceri_top/117087515669442644",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@afaceri_top/116549606369252036",
       "date": "Sun, 10 May 2026 09:37:38 +0000",
       "content": "Atenție! Simțiți un disconfort abdominal persistent sau ați observat o modificare neobișnuită la nivelul pielii? Interesul pentru sănătatea dumneavoastră trebuie să fie prioritar, mai ales când locuiți sau lucrați într-o zonă dinamică din nordul capitalei. Dorința de a primi un diagnostic rapid și precis vă poate conduce către un specialist de încredere, capabil să vă… https:// afaceritop.ro/ce-afectiuni-poa te-evalua-un-medic-chirurg-la-medicover-pipera/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@afaceri_top/116492084511461091",
-      "date": "Thu, 30 Apr 2026 05:49:05 +0000",
-      "content": "Alegerea unor căști wireless potrivite pentru muncă și relaxare ține de echilibrul dintre calitatea sunetului, confort și stabilitatea conexiunii Bluetooth. În 2026, cele mai bune căști wireless sunt cele care pot face față atât apelurilor profesionale, cât și momentelor de relaxare, fără întreruperi sau compromisuri.De ce contează versatilitateaO pereche de căști nu mai este folosită… https:// afaceritop.ro/cum-alegi-casti- wireless-pentru-munca-si-relaxare/"
     }
   ]
 }
