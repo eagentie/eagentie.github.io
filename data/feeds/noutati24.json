@@ -4,8 +4,14 @@
   "site_feed": "https://noutati24.ro/feed/",
   "mastodon": "https://social.5th.ro/@noutati24",
   "mastodon_rss": "https://social.5th.ro/@noutati24.rss",
-  "updated_at": "2026-09-17T06:08:24Z",
+  "updated_at": "2026-09-17T11:39:01Z",
   "site_posts": [
+    {
+      "title": "Conferință de presă susținută de viceprim-ministrul, ministrul interimar al Agriculturii și Dezvoltării Rurale, Tánczos Barna",
+      "link": "https://noutati24.ro/conferinta-de-presa-sustinuta-de-viceprim-ministrul-ministrul-interimar-al-agriculturii-si-dezvoltarii-rurale-tanczos-barna/",
+      "date": "Wed, 16 Sep 2026 13:28:00 +0000",
+      "summary": "Galerie foto [embedded content] [Check against delivery] Ioana Ene Dogioiu: Bună ziua! Bine ați venit la conferința de presă a &#8230; Articolul Conferință de presă susținută de viceprim-ministrul, ministrul interimar al Agriculturii și Dezvoltării Rurale, Tánczos Barna apare prima dată în Noutati 24 ."
+    },
     {
       "title": "Bucureștiul va găzdui Finala UEFA Europa League 2028",
       "link": "https://noutati24.ro/bucurestiul-va-gazdui-finala-uefa-europa-league-2028/",
@@ -71,15 +77,15 @@
       "link": "https://noutati24.ro/ministerul-justitiei-a-lansat-portalul-registrului-national-al-ong-urilor-punand-la-dispozitia-cetatenilor-o-noua-platforma-digitala-dedicata-asociatiilor-fundatiilor-si-federatiilor/",
       "date": "Fri, 11 Sep 2026 08:58:59 +0000",
       "summary": "Ministerul Justiției a finalizat proiectul privind modernizarea Registrului electronic al asociațiilor, fundațiilor și federațiilor și a registrelor asociate, inclusiv Registrul &#8230; Articolul Ministerul Justiției a lansat Portalul Registrului Național al ONG-urilor, punând la dispoziția cetățenilor o nouă platformă digitală dedicată asociațiilor, fundațiilor și federațiilor apare prima dată în Noutati 24 ."
-    },
-    {
-      "title": "Întrevederea delegației Ministerului Justiției, condusă de Secretarul de stat Teodora Stoian, cu delegația Regatului Danemarcei, dedicată cooperării în materia răpirii internaționale de copii, 11 septembrie 2026",
-      "link": "https://noutati24.ro/intrevederea-delegatiei-ministerului-justitiei-condusa-de-secretarul-de-stat-teodora-stoian-cu-delegatia-regatului-danemarcei-dedicata-cooperarii-in-materia-rapirii-internationale-de-copii-11-sept/",
-      "date": "Fri, 11 Sep 2026 08:00:17 +0000",
-      "summary": "Astăzi, 11 septembrie a.c., la sediul Ministerului Justiției, a avut loc o întrevedere între reprezentanții Ministerului Justiției, delegația română fiind &#8230; Articolul Întrevederea delegației Ministerului Justiției, condusă de Secretarul de stat Teodora Stoian, cu delegația Regatului Danemarcei, dedicată cooperării în materia răpirii internaționale de copii, 11 septembrie 2026 apare prima dată în Noutati 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@noutati24/117284982458318799",
+      "date": "Thu, 17 Sep 2026 06:33:27 +0000",
+      "content": "🆕Galerie foto [embedded content] [Check against delivery] Ioana Ene Dogioiu: Bună ziua! Bine ați venit la conferința de presă a domnului vicepremier, ministru interimar al Agriculturii, Tánczos Barna, pe tema protestului fermierilor și a măsurilor pe care le-a întreprins Ministerul Agriculturii în relația cu revendicările lor. Domnule ministru, vă 🌐 https:// noutati24.ro/conferinta-de-pre sa-sustinuta-de-viceprim-ministrul-ministrul-interimar-al-agriculturii-si-dezvoltarii-rurale-tanczos-barna/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@noutati24/117279314528733288",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@noutati24/117256624489144660",
       "date": "Sat, 12 Sep 2026 06:21:39 +0000",
       "content": "🆕Ministerul Justiției a finalizat proiectul privind modernizarea Registrului electronic al asociațiilor, fundațiilor și federațiilor și a registrelor asociate, inclusiv Registrul Beneficiarilor Reali, lansând astfel Portalul Registrului Național al ONG-urilor. Prin noua platformă digitală, 🌐 https:// noutati24.ro/ministerul-justit iei-a-lansat-portalul-registrului-national-al-ong-urilor-punand-la-dispozitia-cetatenilor-o-noua-platforma-digitala-dedicata-asociatiilor-fundatiilor-si-federatiilor/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@noutati24/117256624273841626",
-      "date": "Sat, 12 Sep 2026 06:21:35 +0000",
-      "content": "🆕În data de 31 august 2026, Ministerul Justiției, prin Direcția Economică, a finalizat proiectul „Amenajare camere tehnice pentru găzduirea infrastructurii IT critice a Ministerului Justiției”, finanțat prin Planul Național de Redresare și Reziliență, Investiția I4 „Digitalizarea sistemului judiciar”, Componenta 🌐 https:// noutati24.ro/comunicat-de-pres a-privind-finalizarea-proiectului-amenajare-camere-tehnice-pentru-gazduirea-infrastructurii-it-critice-a-ministerului-justitiei-pnrr-fonduri-pent/"
     }
   ]
 }
