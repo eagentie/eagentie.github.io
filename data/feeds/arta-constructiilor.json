@@ -4,8 +4,14 @@
   "site_feed": "https://arta-constructiilor.ro/feed/",
   "mastodon": "https://social.5th.ro/@ArtaConstructiilor",
   "mastodon_rss": "https://social.5th.ro/@ArtaConstructiilor.rss",
-  "updated_at": "2026-09-18T09:45:37Z",
+  "updated_at": "2026-09-18T14:32:09Z",
   "site_posts": [
+    {
+      "title": "De ce hala industrială este un caz de risc ridicat",
+      "link": "https://arta-constructiilor.ro/de-ce-hala-industriala-este-un-caz-de-risc-ridicat/",
+      "date": "Fri, 18 Sep 2026 14:09:00 +0000",
+      "summary": "Ce se întâmplă când o infiltrație oprește o linie de fabricație și cum poate fi prevenită Într-o hală industrială cu linii de producție moderne, fiecare &#8230; Articolul De ce hala industrială este un caz de risc ridicat apare prima dată în Arta Constructiilor ."
+    },
     {
       "title": "Ce tendințe conturează amenajarea birourilor orientate spre bunăstarea angajaților",
       "link": "https://arta-constructiilor.ro/ce-tendinte-contureaza-amenajarea-birourilor-orientate-spre-bunastarea-angajatilor/",
@@ -59,15 +65,15 @@
       "link": "https://arta-constructiilor.ro/ce-verifici-inainte-cumperi-teren-pentru-casa/",
       "date": "Fri, 14 Aug 2026 09:41:15 +0000",
       "summary": "Un teren poate părea potrivit într-un anunț și poate deveni dificil de folosit după cumpărare. Suprafața și prețul nu spun singure dacă lotul permite construcția &#8230; Articolul Ce verifici înainte să cumperi un teren pentru casă: ghid practic CSV.RO apare prima dată în Arta Constructiilor ."
-    },
-    {
-      "title": "Hernia ombilicală la adulți: cauze, simptome și tratament",
-      "link": "https://arta-constructiilor.ro/hernia-ombilicala-la-adulti-cauze-simptome-si-tratament/",
-      "date": "Fri, 31 Jul 2026 08:32:01 +0000",
-      "summary": "Ați observat o mică umflătură în jurul buricului? Această modificare poate părea inofensivă la început. Totuși, ea poate indica o problemă medicală frecventă la adulți. &#8230; Articolul Hernia ombilicală la adulți: cauze, simptome și tratament apare prima dată în Arta Constructiilor ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@ArtaConstructiilor/117292444661899492",
+      "date": "Fri, 18 Sep 2026 14:11:11 +0000",
+      "content": "Ce se întâmplă când o infiltrație oprește o linie de fabricație și cum poate fi prevenităÎntr-o hală industrială cu linii de producție moderne, fiecare oră de oprire neplanificată se traduce direct în pierderi financiare – comenzi întârziate, penalități contractuale, clienți nemulțumiți. Un scenariu recurent, dar rareori anticipat la faza de proiectare a acoperișului: o infiltrație… .... 🌐 https:// arta-constructiilor.ro/de-ce-h ala-industriala-este-un-caz-de-risc-ridicat/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@ArtaConstructiilor/117285700870226228",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@ArtaConstructiilor/116963440581365748",
       "date": "Wed, 22 Jul 2026 11:41:07 +0000",
       "content": "Alegerea pardoselii potrivite influențează atât aspectul locuinței, cât și confortul și costurile de întreținere pe termen lung. Două dintre cele mai populare opțiuni sunt parchetul SPC și parchetul laminat, însă fiecare vine cu avantaje și limitări care îl recomandă pentru anumite tipuri de spații. Dacă te afli în fața unei renovări sau amenajezi o locuință… .... 🌐 https:// arta-constructiilor.ro/parchet -spc-sau-parchet-laminat-cum-alegi-corect-pentru-casa-ta/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@ArtaConstructiilor/116918219167515830",
-      "date": "Tue, 14 Jul 2026 12:00:43 +0000",
-      "content": "Sursa: Envato Dacă ai început să ceri oferte pentru construirea unei case sau pentru renovarea locuinței în lunile de vară, probabil ai observat un lucru: aproape totul costă mai mult. Materialele de construcții se găsesc mai greu, echipele de meseriași sunt ocupate cu luni înainte, iar termenele de livrare se lungesc considerabil. Mulți români aleg… .... 🌐 https:// arta-constructiilor.ro/de-ce-v ara-este-cel-mai-scump-sezon-pentru-constructii-in-romania/"
     }
   ]
 }
