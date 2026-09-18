@@ -4,8 +4,14 @@
   "site_feed": "https://iFemeie.ro/feed/",
   "mastodon": "https://social.5th.ro/@iFemeie",
   "mastodon_rss": "https://social.5th.ro/@iFemeie.rss",
-  "updated_at": "2026-09-18T14:32:15Z",
+  "updated_at": "2026-09-18T18:28:34Z",
   "site_posts": [
+    {
+      "title": "De ce peptidele regenerative atrag tot mai mult interesul femeilor?",
+      "link": "https://ifemeie.ro/de-ce-peptidele-regenerative-atrag-tot-mai-mult-interesul-femeilor/",
+      "date": "Fri, 18 Sep 2026 15:59:38 +0000",
+      "summary": "GHK-Cu și peptidele regenerative au devenit tot mai populare în lumea beauty și longevity. Descoperă ce este GHK-Cu, de ce este studiat pentru sănătatea pielii și ce rol are Glow Blend în cercetarea peptidelor. Articolul De ce peptidele regenerative atrag tot mai mult interesul femeilor? apare prima dată în iFemeie ."
+    },
     {
       "title": "Cum alegi lichiorul de după masă în funcție de aromă și desert",
       "link": "https://ifemeie.ro/cum-alegi-lichiorul-de-dupa-masa-in-functie-de-aroma-si-desert/",
@@ -65,15 +71,15 @@
       "link": "https://ifemeie.ro/cum-alegi-casti-wireless-pentru-utilizare-intensa/",
       "date": "Sun, 24 May 2026 07:24:00 +0000",
       "summary": "Introducere Alegi căști wireless pentru utilizare intensă atunci când ai nevoie de confort pe termen... Articolul Cum alegi căști wireless pentru utilizare intensă? apare prima dată în iFemeie ."
-    },
-    {
-      "title": "Te simți gol pe dinăuntru fără motiv? Un semnal pe care nu trebuie să-l ignori",
-      "link": "https://ifemeie.ro/te-simti-gol-pe-dinauntru-fara-motiv-un-semnal-pe-care-nu-trebuie-sa-l-ignori/",
-      "date": "Tue, 28 Apr 2026 14:19:41 +0000",
-      "summary": "Nu plângi și nu ești trist în mod vizibil. Mergi la muncă, răspunzi la mesaje... Articolul Te simți gol pe dinăuntru fără motiv? Un semnal pe care nu trebuie să-l ignori apare prima dată în iFemeie ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@iFemeie/117292871125144024",
+      "date": "Fri, 18 Sep 2026 15:59:39 +0000",
+      "content": "GHK-Cu și peptidele regenerative au devenit tot mai populare în lumea beauty și longevity. Descoperă ce este GHK-Cu, de ce este studiat pentru sănătatea pielii și ce rol are Glow Blend în cercetarea peptidelor. https:// ifemeie.ro/de-ce-peptidele-reg enerative-atrag-tot-mai-mult-interesul-femeilor/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@iFemeie/117223019189310699",
@@ -139,12 +145,6 @@
       "link": "https://social.5th.ro/@iFemeie/116482767701475329",
       "date": "Tue, 28 Apr 2026 14:19:41 +0000",
       "content": "Nu plângi și nu ești trist în mod vizibil. Mergi la muncă, răspunzi la mesaje și funcționezi cât se poate de normal, dar parcă lipsește ceva și ai un fel de amorțeală interioară, ca și cum lucrurile care înainte contau nu mai produc niciun efect în prezent. Mâncarea preferată are același gust ca oricare alta,… https:// ifemeie.ro/te-simti-gol-pe-din auntru-fara-motiv-un-semnal-pe-care-nu-trebuie-sa-l-ignori/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@iFemeie/116319217931393775",
-      "date": "Mon, 30 Mar 2026 17:06:50 +0000",
-      "content": "Dacă ai căutat pe internet păreri VivaDiva sau informații despre studiouri de videochat din Iași, probabil ai văzut deja multe anunțuri care promit câștiguri mari și condiții excelente de lucru. Studiourile mai mici sau mai puțin cunoscute folosesc adesea reclame foarte optimiste: bonusuri generoase la angajare, trafic garantat pe platforme și venituri mari încă din… https:// ifemeie.ro/pareri-vivadiva-pe- forumvideochat-ro-ce-spun-mdoelele-cu-experienta-despre-studiourile-de-videochat-din-iasi/"
     }
   ]
 }
