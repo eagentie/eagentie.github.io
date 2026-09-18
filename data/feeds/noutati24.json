@@ -4,8 +4,14 @@
   "site_feed": "https://noutati24.ro/feed/",
   "mastodon": "https://social.5th.ro/@noutati24",
   "mastodon_rss": "https://social.5th.ro/@noutati24.rss",
-  "updated_at": "2026-09-18T04:40:55Z",
+  "updated_at": "2026-09-18T09:44:42Z",
   "site_posts": [
+    {
+      "title": "Premierul Ilie Bolojan l-a primit, la Palatul Victoria, pe noul ambasador al Republicii Coreea în România, E.S. Hur Seung-chul",
+      "link": "https://noutati24.ro/premierul-ilie-bolojan-l-a-primit-la-palatul-victoria-pe-noul-ambasador-al-republicii-coreea-in-romania-e-s-hur-seung-chul/",
+      "date": "Thu, 17 Sep 2026 13:18:00 +0000",
+      "summary": "Galerie foto Prim-ministrul Ilie Bolojan a avut astăzi, la Palatul Victoria, o întrevedere cu noul ambasador al Republicii Coreea la &#8230; Articolul Premierul Ilie Bolojan l-a primit, la Palatul Victoria, pe noul ambasador al Republicii Coreea în România, E.S. Hur Seung-chul apare prima dată în Noutati 24 ."
+    },
     {
       "title": "Conferință de presă susținută de viceprim-ministrul, ministrul interimar al Agriculturii și Dezvoltării Rurale, Tánczos Barna",
       "link": "https://noutati24.ro/conferinta-de-presa-sustinuta-de-viceprim-ministrul-ministrul-interimar-al-agriculturii-si-dezvoltarii-rurale-tanczos-barna/",
@@ -71,15 +77,15 @@
       "link": "https://noutati24.ro/comunicat-de-presa-privind-finalizarea-proiectului-amenajare-camere-tehnice-pentru-gazduirea-infrastructurii-it-critice-a-ministerului-justitiei-pnrr-fonduri-pent/",
       "date": "Fri, 11 Sep 2026 09:53:02 +0000",
       "summary": "În data de 31 august 2026, Ministerul Justiției, prin Direcția Economică, a finalizat proiectul „Amenajare camere tehnice pentru găzduirea infrastructurii &#8230; Articolul Comunicat de presă privind finalizarea proiectului „Amenajare camere tehnice pentru găzduirea infrastructurii IT critice a Ministerului Justiției” – „PNRR: Fonduri pentru România modernă și reformată!” apare prima dată în Noutati 24 ."
-    },
-    {
-      "title": "Ministerul Justiției a lansat Portalul Registrului Național al ONG-urilor, punând la dispoziția cetățenilor o nouă platformă digitală dedicată asociațiilor, fundațiilor și federațiilor",
-      "link": "https://noutati24.ro/ministerul-justitiei-a-lansat-portalul-registrului-national-al-ong-urilor-punand-la-dispozitia-cetatenilor-o-noua-platforma-digitala-dedicata-asociatiilor-fundatiilor-si-federatiilor/",
-      "date": "Fri, 11 Sep 2026 08:58:59 +0000",
-      "summary": "Ministerul Justiției a finalizat proiectul privind modernizarea Registrului electronic al asociațiilor, fundațiilor și federațiilor și a registrelor asociate, inclusiv Registrul &#8230; Articolul Ministerul Justiției a lansat Portalul Registrului Național al ONG-urilor, punând la dispoziția cetățenilor o nouă platformă digitală dedicată asociațiilor, fundațiilor și federațiilor apare prima dată în Noutati 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@noutati24/117290651717512556",
+      "date": "Fri, 18 Sep 2026 06:35:13 +0000",
+      "content": "🆕Galerie foto Prim-ministrul Ilie Bolojan a avut astăzi, la Palatul Victoria, o întrevedere cu noul ambasador al Republicii Coreea la București, E.S. Hur Seung-chul, și cu reprezentantul companiei Korea Hydro&amp;Nuclear Power, Park Sangchul, Director-General, Unit 1 Refurbishment Project. La întrevedere au participat și reprezentanții Societății 🌐 https:// noutati24.ro/premierul-ilie-bo lojan-l-a-primit-la-palatul-victoria-pe-noul-ambasador-al-republicii-coreea-in-romania-e-s-hur-seung-chul/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@noutati24/117284982458318799",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@noutati24/117256624673561862",
       "date": "Sat, 12 Sep 2026 06:21:42 +0000",
       "content": "🆕Astăzi, 11 septembrie a.c., la sediul Ministerului Justiției, a avut loc o întrevedere între reprezentanții Ministerului Justiției, delegația română fiind condusă de Secretarul de stat Teodora Stoian și o delegație a Regatului Danemarcei, formată din reprezentanți ai 🌐 https:// noutati24.ro/intrevederea-dele gatiei-ministerului-justitiei-condusa-de-secretarul-de-stat-teodora-stoian-cu-delegatia-regatului-danemarcei-dedicata-cooperarii-in-materia-rapirii-internationale-de-copii-11-sept/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@noutati24/117256624489144660",
-      "date": "Sat, 12 Sep 2026 06:21:39 +0000",
-      "content": "🆕Ministerul Justiției a finalizat proiectul privind modernizarea Registrului electronic al asociațiilor, fundațiilor și federațiilor și a registrelor asociate, inclusiv Registrul Beneficiarilor Reali, lansând astfel Portalul Registrului Național al ONG-urilor. Prin noua platformă digitală, 🌐 https:// noutati24.ro/ministerul-justit iei-a-lansat-portalul-registrului-national-al-ong-urilor-punand-la-dispozitia-cetatenilor-o-noua-platforma-digitala-dedicata-asociatiilor-fundatiilor-si-federatiilor/"
     }
   ]
 }
