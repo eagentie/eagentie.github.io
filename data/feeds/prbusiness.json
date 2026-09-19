@@ -4,8 +4,14 @@
   "site_feed": "https://prbusiness.ro/feed/",
   "mastodon": "https://social.5th.ro/@prbusiness",
   "mastodon_rss": "https://social.5th.ro/@prbusiness.rss",
-  "updated_at": "2026-09-19T18:00:41Z",
+  "updated_at": "2026-09-19T20:38:14Z",
   "site_posts": [
+    {
+      "title": "Cum trimiți notificări WhatsApp automate clienților dintr-un magazin Gomag",
+      "link": "https://prbusiness.ro/cum-trimiti-notificari-whatsapp-automate-clientilor-dintr-un-magazin-gomag/",
+      "date": "Sat, 19 Sep 2026 19:09:58 +0000",
+      "summary": "Un magazin pe Gomag poate trimite automat clienților, pe WhatsApp, confirmarea comenzii, factura, AWB-ul și confirmarea livrării. Nu The post Cum trimiți notificări WhatsApp automate clienților dintr-un magazin Gomag appeared first on PR Business ."
+    },
     {
       "title": "Romul pentru cocktailuri nu se alege după culoare: gustul dulce începe în pahar",
       "link": "https://prbusiness.ro/romul-pentru-cocktailuri-nu-se-alege-dupa-culoare-gustul-dulce-incepe-in-pahar/",
@@ -71,15 +77,15 @@
       "link": "https://prbusiness.ro/matricea-succesului-un-nou-tip-de-eveniment-in-romania-la-intersectia-dintre-imobiliare-credite-si-asigurari/",
       "date": "Fri, 17 Apr 2026 06:12:43 +0000",
       "summary": "Pe 22 aprilie 2026, la Hotel Ramada North Bucharest, va avea loc Matricea Succesului, eveniment care propune un The post Matricea Succesului: un nou tip de eveniment în România, la intersecția dintre imobiliare, credite și asigurări appeared first on PR Business ."
-    },
-    {
-      "title": "SellNet – Lucrează cu liste personalizate de clienți pentru a targeta o nouă piață",
-      "link": "https://prbusiness.ro/sellnet-lucreaza-cu-liste-personalizate-de-clienti-pentru-a-targeta-o-noua-piata/",
-      "date": "Wed, 08 Apr 2026 13:12:57 +0000",
-      "summary": "Să ai un număr mare de clienți poate deveni rapid dificil dacă nu ai un management bine pus The post SellNet &#8211; Lucrează cu liste personalizate de clienți pentru a targeta o nouă piață appeared first on PR Business ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@prbusiness/117299281968748272",
+      "date": "Sat, 19 Sep 2026 19:10:00 +0000",
+      "content": "Un magazin pe Gomag poate trimite automat clienților, pe WhatsApp, confirmarea comenzii, factura, AWB-ul și confirmarea livrării. Nu însă din aplicația WhatsApp inclusă în platformă — aceea face cu totul altceva. Diferența, pașii și ce presupune ca și costuri, mai jos.Aplicația WhatsApp din Gomag nu trimite notificăriAplicația WhatsApp disponibilă în Gomag este gratuită, .... Read more at: https:// prbusiness.ro/cum-trimiti-noti ficari-whatsapp-automate-clientilor-dintr-un-magazin-gomag/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@prbusiness/117228743206946942",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@prbusiness/116420681200294243",
       "date": "Fri, 17 Apr 2026 15:10:16 +0000",
       "content": ".... More details at: https:// prbusiness.ro/woot-ro-platform a-cu-cei-mai-multi-curieri-integrati-din-romania-lanseaza-aplicatie-mobila-nativa/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@prbusiness/116419280234952753",
-      "date": "Fri, 17 Apr 2026 09:13:59 +0000",
-      "content": "Pe 22 aprilie 2026, la Hotel Ramada North Bucharest, va avea loc Matricea Succesului, eveniment care propune un format nou pentru piața din România: integrarea imobiliarelor, brokerajului de credite și asigurărilor într-un singur eveniment care cuprinde educație, workshop-uri aplicate și networking.Organizat de echipa Acceleratorul.com, .... Read more at: https:// prbusiness.ro/matricea-succesu lui-un-nou-tip-de-eveniment-in-romania-la-intersectia-dintre-imobiliare-credite-si-asigurari/"
     }
   ]
 }
