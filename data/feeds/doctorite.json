@@ -4,8 +4,14 @@
   "site_feed": "https://doctorite.ro/feed/",
   "mastodon": "https://social.5th.ro/@DoctoriteBlog",
   "mastodon_rss": "https://social.5th.ro/@DoctoriteBlog.rss",
-  "updated_at": "2026-09-20T06:15:04Z",
+  "updated_at": "2026-09-20T11:23:31Z",
   "site_posts": [
+    {
+      "title": "Neuropatia diabetică: simptomele care trebuie evaluate și rolul electromiografiei",
+      "link": "https://doctorite.ro/neuropatia-diabetica-simptomele-care-trebuie-evaluate-si-rolul-electromiografiei/",
+      "date": "Sun, 20 Sep 2026 10:34:00 +0000",
+      "summary": "Informații despre neurologie Craiova și programări sunt disponibile pe site-ul Centrului Medical de Neurologie Dr.... Articolul Neuropatia diabetică: simptomele care trebuie evaluate și rolul electromiografiei apare prima dată în Doctorite ."
+    },
     {
       "title": "Stilurile de atașament în relații: de ce repetăm aceleași tipare toxice și cum ne putem vindeca emoțional",
       "link": "https://doctorite.ro/stilurile-de-atasament-in-relatii/",
@@ -59,15 +65,15 @@
       "link": "https://doctorite.ro/cum-sa-te-pregatesti-pentru-o-sedinta-cu-un-psiholog-online-din-confortul-casei-tale/",
       "date": "Thu, 09 Jul 2026 07:45:04 +0000",
       "summary": "Mutarea cabinetului psihologic direct în sufrageria sau biroul tău vine la pachet cu un nivel... Articolul Cum să te pregătești pentru o ședință cu un psiholog online din confortul casei tale apare prima dată în Doctorite ."
-    },
-    {
-      "title": "Ambrozia trebuie smulsă acum: apel la voluntari pentru acțiune de curățare în Parcul Natural Văcărești",
-      "link": "https://doctorite.ro/ambrozia-trebuie-smulsa-acum-apel-la-voluntari-pentru-actiune-de-curatare-in-parcul-natural-vacaresti/",
-      "date": "Wed, 10 Jun 2026 13:13:14 +0000",
-      "summary": "Asociația Stop Ambroziei organizează sâmbătă, 13 iunie, între orele 08:00 și 14:00, o acțiune de&#160;curățare&#160;a... Articolul Ambrozia trebuie smulsă acum: apel la voluntari pentru acțiune de curățare în Parcul Natural Văcărești apare prima dată în Doctorite ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@DoctoriteBlog/117302917677280287",
+      "date": "Sun, 20 Sep 2026 10:34:37 +0000",
+      "content": "Informații despre neurologie Craiova și programări sunt disponibile pe site-ul Centrului Medical de Neurologie Dr. Călugaru. Diabetul poate afecta nervii treptat, uneori înainte ca pacientul să considere simptomele suficient de importante pentru o consultație. O senzație de arsură în tălpi, furnicături, amorțeală sau impresia că există o șosetă groasă pe picior pot fi primele semne… https:// doctorite.ro/neuropatia-diabet ica-simptomele-care-trebuie-evaluate-si-rolul-electromiografiei/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@DoctoriteBlog/117291388494531193",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@DoctoriteBlog/116556690216634337",
       "date": "Mon, 11 May 2026 15:39:09 +0000",
       "content": "Stai de sase luni cu trimiterea pentru RMN in portofel. O tot muti dintr-un loc in altul cand cauti chitanta de la farmacie sau cardul de transport. Medicul a spus &quot;la un moment dat&quot;, tu ai tradus asta prin &quot;cand am eu timp&quot;, iar &quot;cand am eu timp&quot; s-a transformat, incet-incet, in niciodata. Nu esti… https:// doctorite.ro/investigatia-pe-c are-o-tot-amani-de-ce-rmn-ul-sau-ct-ul-din-bucuresti-nu-trebuie-sa-fie-un-cosmar-logistic/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@DoctoriteBlog/116551623927202020",
-      "date": "Sun, 10 May 2026 18:10:44 +0000",
-      "content": "Piața imobiliară din București continuă să atragă tot mai mulți cumpărători interesați de locuințe moderne, bine poziționate și cu potențial ridicat de creștere. Fie că vorbim despre o locuință personală sau o investiție, alegerea zonei potrivite este esențială. Pipera – dezvoltare rapidă și oportunități multiple Zona Pipera este una dintre cele mai dinamice din București,… https:// doctorite.ro/unde-merita-sa-in vestesti-in-bucuresti-zonele-care-iti-ofera-randament-si-confort/"
     }
   ]
 }
