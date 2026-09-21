@@ -4,13 +4,19 @@
   "site_feed": "https://top15.ro/feed/",
   "mastodon": "https://social.5th.ro/@top",
   "mastodon_rss": "https://social.5th.ro/@top.rss",
-  "updated_at": "2026-09-21T04:58:14Z",
+  "updated_at": "2026-09-21T10:42:30Z",
   "site_posts": [
     {
       "title": "CIUZO: Spui ce cauți, primești oferte",
       "link": "https://top15.ro/ciuzo-spui-ce-cauti-primesti-oferte/",
       "date": "Mon, 14 Sep 2026 22:31:39 +0000",
       "summary": "CIUZO propune un nou mod de a cumpăra online: publici ceea ce cauți, iar vânzătorii vin cu oferte. Mai puțină căutare, mai multe opțiuni și posibilitatea de a compara. Meta description: Articolul CIUZO: Spui ce cauți, primești oferte apare prima dată în TOP 15 ."
+    },
+    {
+      "title": "De ce plătesc șoferii sub 30 de ani tarife duble la RCA și cum poți reduce legal acest cost?",
+      "link": "https://top15.ro/de-ce-platesc-soferii-sub-30-de-ani-tarife-duble-la-rca-si-cum-poti-reduce-legal-acest-cost/",
+      "date": "Wed, 09 Sep 2026 10:06:00 +0000",
+      "summary": "Șoferii cu vârsta sub 30 de ani plătesc adesea între 2.500 și 4.000 de lei... Articolul De ce plătesc șoferii sub 30 de ani tarife duble la RCA și cum poți reduce legal acest cost? apare prima dată în TOP 15 ."
     },
     {
       "title": "Mănânci pe fugă și te simți mereu obosit? Ce nutrienți merită să urmărești în perioadele aglomerate",
@@ -71,15 +77,15 @@
       "link": "https://top15.ro/rccb-tip-a-versus-ac-diferenta-care-conteaza-la-masina-de-spalat/",
       "date": "Thu, 13 Aug 2026 10:21:59 +0000",
       "summary": "Când cauți „RCCB tip A vs AC”, de obicei ai în față două aparate asemănătoare,... Articolul RCCB tip A versus AC: diferența care contează la mașina de spălat apare prima dată în TOP 15 ."
-    },
-    {
-      "title": "Care sunt cele mai cunoscute uleiuri esențiale cu efect antibacterian în 2026? 7 produse utile în cazul infecțiilor bacteriene",
-      "link": "https://top15.ro/care-sunt-cele-mai-cunoscute-uleiuri-esentiale-cu-efect-antibacterian-in-2026-7-produse-utile-in-cazul-infectiilor-bacteriene/",
-      "date": "Thu, 06 Aug 2026 09:14:10 +0000",
-      "summary": "Infecțiile bacteriene pot afecta diferite zone ale organismului, inclusiv aparatul respirator, tractul urinar, sistemul digestiv,... Articolul Care sunt cele mai cunoscute uleiuri esențiale cu efect antibacterian în 2026? 7 produse utile în cazul infecțiilor bacteriene apare prima dată în TOP 15 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@top/117308478644957413",
+      "date": "Mon, 21 Sep 2026 10:08:50 +0000",
+      "content": "📰Șoferii cu vârsta sub 30 de ani plătesc adesea între 2.500 și 4.000 de lei pentru o poliță auto pe 12 luni, în timp ce un conducător auto de 45 de ani dă mai puțin de 1.000 de lei pentru aceeași mașină. Diferența de preț provine direct din tabelele de statistici pe care companiile de… 📰 https:// top15.ro/de-ce-platesc-soferii -sub-30-de-ani-tarife-duble-la-rca-si-cum-poti-reduce-legal-acest-cost/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@top/117271763574818268",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@top/117087770455322860",
       "date": "Thu, 13 Aug 2026 10:39:51 +0000",
       "content": "📰În ultimii ani, leasingul pentru mașini second hand a devenit o opțiune tot mai atractivă atât pentru persoane fizice, cât și pentru companii. Creșterea prețurilor la mașinile noi, termenele de livrare încă fluctuante și oferta tot mai bogată de autoturisme rulate din flote au schimbat modul în care mulți cumpărători privesc piața auto.Leasingul pentru mașini… 📰 https:// top15.ro/merita-sa-iei-masini- second-hand-in-leasing/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@top/117087700459401400",
-      "date": "Thu, 13 Aug 2026 10:22:03 +0000",
-      "content": "📰Când cauți „RCCB tip A vs AC”, de obicei ai în față două aparate asemănătoare, dar nu identice, iar pe etichetă apar litere greu de descifrat. Situația devine și mai neclară când mașina de spălat declanșează protecția sau când cineva îți spune că un RCCB tip AC este suficient pentru toată locuința.Problema este că recomandările… 📰 https:// top15.ro/rccb-tip-a-versus-ac- diferenta-care-conteaza-la-masina-de-spalat/"
     }
   ]
 }

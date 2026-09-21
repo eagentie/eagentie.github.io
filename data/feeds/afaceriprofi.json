@@ -4,7 +4,7 @@
   "site_feed": "https://afaceriprofi.ro/feed/",
   "mastodon": "https://social.5th.ro/@AfaceriProfi",
   "mastodon_rss": "https://social.5th.ro/@AfaceriProfi.rss",
-  "updated_at": "2026-09-21T04:57:17Z",
+  "updated_at": "2026-09-21T10:41:33Z",
   "site_posts": [
     {
       "title": "De ce deciziile de investiții devin mai dificile când economia încetinește",
@@ -23,6 +23,12 @@
       "link": "https://afaceriprofi.ro/productia-textila-personalizata-cand-este-potrivita-imprimarea-dtg/",
       "date": "Thu, 03 Sep 2026 09:21:55 +0000",
       "summary": "Comenzile de articole textile personalizate pot varia de la un singur produs la serii de sute sau... The post Producția textilă personalizată: când este potrivită imprimarea DTG appeared first on Afaceri Profitabile ."
+    },
+    {
+      "title": "Șapte greșeli de completare care pot afecta oferta RCA",
+      "link": "https://afaceriprofi.ro/sapte-greseli-de-completare-care-pot-afecta-oferta-rca/",
+      "date": "Wed, 02 Sep 2026 11:56:00 +0000",
+      "summary": "Calcularea unei polițe RCA pare simplă: introduci datele mașinii și ale proprietarului, apoi compari prețurile. Problemele apar... The post Șapte greșeli de completare care pot afecta oferta RCA appeared first on Afaceri Profitabile ."
     },
     {
       "title": "ecomTEAM 2026: Evenimentul care reunește între 16-18 septembrie comunitatea de eCommerce la Brașov",
@@ -59,15 +65,15 @@
       "link": "https://afaceriprofi.ro/de-ce-conteaza-macinarea-mai-mult-decat-espressorul/",
       "date": "Thu, 02 Jul 2026 10:02:00 +0000",
       "summary": "De ce nu îți iese niciodată espresso-ul de acasă la fel ca în cafenea? Secretele celor de... The post De ce contează măcinarea mai mult decât espressorul? appeared first on Afaceri Profitabile ."
-    },
-    {
-      "title": "De ce alama este cel mai sigur material pentru fitingurile de gaz",
-      "link": "https://afaceriprofi.ro/de-ce-alama-este-cel-mai-sigur-material-pentru-fitingurile-de-gaz/",
-      "date": "Mon, 22 Jun 2026 14:03:03 +0000",
-      "summary": "Instalațiile de gaz cer componente rezistente, compatibile și montate corect. Fitingurile sunt piese mici, dar au un... The post De ce alama este cel mai sigur material pentru fitingurile de gaz appeared first on Afaceri Profitabile ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@AfaceriProfi/117308415493026702",
+      "date": "Mon, 21 Sep 2026 09:52:47 +0000",
+      "content": "✅Calcularea unei polițe RCA pare simplă: introduci datele mașinii și ale proprietarului, apoi compari prețurile. Problemele apar atunci când una dintre informații este completată greșit. O cifră introdusă eronat în seria de șasiu, o putere diferită a motorului sau date incorecte despre proprietar pot duce la o ofertă care nu corespunde situației reale.Înainte să emiți… ✅ https:// afaceriprofi.ro/sapte-greseli- de-completare-care-pot-afecta-oferta-rca/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@AfaceriProfi/117285062266361938",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@AfaceriProfi/116794873641448558",
       "date": "Mon, 22 Jun 2026 17:12:20 +0000",
       "content": "✅Instalațiile de gaz cer componente rezistente, compatibile și montate corect. Fitingurile sunt piese mici, dar au un rol important în etanșarea traseului, în conectarea consumatorilor și în menținerea unei alimentări stabile. Într-o instalație pe gaz sau GPL, materialul din care sunt făcute aceste piese nu trebuie ales întâmplător, deoarece lucrează sub presiune, în contact cu… ✅ https:// afaceriprofi.ro/de-ce-alama-es te-cel-mai-sigur-material-pentru-fitingurile-de-gaz/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@AfaceriProfi/116794552228914292",
-      "date": "Mon, 22 Jun 2026 15:50:36 +0000",
-      "content": "✅Dacă te plimbi prin centrul oricărui oraș mare, privirea îți va fi atrasă instantaneu de clădirile moderne de birouri, acoperite aproape în întregime de sticlă care reflectă cerul. Acest stil arhitectural a devenit un simbol al clădirilor contemporane. În spatele acestor fațade spectaculoase se află o tehnologie bine pusă la punct, cunoscută sub denumirea de… ✅ https:// afaceriprofi.ro/ce-sunt-pereti i-cortina-si-unde-pot-fi-folositi/"
     }
   ]
 }

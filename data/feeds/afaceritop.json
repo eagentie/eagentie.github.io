@@ -4,13 +4,19 @@
   "site_feed": "https://afaceritop.ro/feed/",
   "mastodon": "https://social.5th.ro/@afaceri_top",
   "mastodon_rss": "https://social.5th.ro/@afaceri_top.rss",
-  "updated_at": "2026-09-21T04:56:49Z",
+  "updated_at": "2026-09-21T10:41:01Z",
   "site_posts": [
     {
       "title": "Ambalajul devine o carte de vizită tot mai vizibilă pentru afacerile locale",
       "link": "https://afaceritop.ro/ambalaj-pentru-afacerile-locale/",
       "date": "Wed, 16 Sep 2026 08:06:19 +0000",
       "summary": "Descoperă de ce ambalajul este primul element de branding pe care îl vede clientul și cum alegerea corectă a formatului poate reduce costurile de marketing. Articolul Ambalajul devine o carte de vizită tot mai vizibilă pentru afacerile locale apare prima dată în Afaceri TOP ."
+    },
+    {
+      "title": "Cum îți reduc sistemele video și senzorii de inundație costul anual al poliței de locuință?",
+      "link": "https://afaceritop.ro/cum-iti-reduc-sistemele-video-si-senzorii-de-inundatie-costul-anual-al-politei-de-locuinta/",
+      "date": "Fri, 21 Aug 2026 21:22:00 +0000",
+      "summary": "Instalarea unor dispozitive inteligente pentru siguranța căminului a devenit un pas firesc pentru mulți proprietari din România. Camerele montate la intrare, senzorii wireless așezați lângă mașina de spălat și alarmele conectate la telefon îți oferă liniște atunci când ești la birou sau plecat în concediu. Dincolo de confortul psihologic de a ști că locuința ta [&#8230;] Articolul Cum îți reduc sistemele video și senzorii de inundație costul anual al poliței de locuință? apare prima dată în Afaceri TOP ."
     },
     {
       "title": "Ce nu apare în niciun ghid despre mentenanța flotelor de utilaje agricole",
@@ -59,15 +65,15 @@
       "link": "https://afaceritop.ro/ce-inseamna-productivitate-conectata-in-2026/",
       "date": "Tue, 26 May 2026 07:44:00 +0000",
       "summary": "În 2026, productivitatea conectată înseamnă să poți trece instant de pe telefon pe tabletă sau căști fără să pierzi informații, notificări sau timp. Utilizatorii caută dispozitive care funcționează împreună natural, iar ecosistemul Samsung construit în jurul Galaxy Tab S11, Galaxy Buds4 și seria Galaxy S26 oferă exact această experiență. Nu mai contează doar performanța unui [&#8230;] Articolul Ce înseamnă productivitate conectată în 2026? apare prima dată în Afaceri TOP ."
-    },
-    {
-      "title": "Tipuri de monitorizare automată a firmelor",
-      "link": "https://afaceritop.ro/tipuri-de-monitorizare-automata-a-firmelor/",
-      "date": "Fri, 22 May 2026 12:52:58 +0000",
-      "summary": "Prin monitorizarea automată a activității partenerilor și clienților, reușești să menții stabilă relația cu aceștia și să identifici rapid eventualele schimbări de comportament sau de risc. Verificarea manuală îți poate lua timp, consumă resurse și este predispusă la erori, ceea ce poate duce la întârzieri în luarea deciziilor și la pierderea unor oportunități importante. Ce [&#8230;] Articolul Tipuri de monitorizare automată a firmelor apare prima dată în Afaceri TOP ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@afaceri_top/117308509217205779",
+      "date": "Mon, 21 Sep 2026 10:16:37 +0000",
+      "content": "Instalarea unor dispozitive inteligente pentru siguranța căminului a devenit un pas firesc pentru mulți proprietari din România. Camerele montate la intrare, senzorii wireless așezați lângă mașina de spălat și alarmele conectate la telefon îți oferă liniște atunci când ești la birou sau plecat în concediu. Dincolo de confortul psihologic de a ști că locuința ta… https:// afaceritop.ro/cum-iti-reduc-si stemele-video-si-senzorii-de-inundatie-costul-anual-al-politei-de-locuinta/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@afaceri_top/117279685556441483",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@afaceri_top/116571925005424471",
       "date": "Thu, 14 May 2026 08:13:34 +0000",
       "content": "Venirea pe lume a unui copil reprezintă cel mai emoționant capitol din viața oricărui părinte. Planificarea primei petreceri oficiale a micuțului necesită atenție la detalii și multă dragoste. Elementul central al petrecerii, care atrage toate privirile și încântă papilele gustative, rămâne fără îndoială desertul principal. Alegerea unor torturi botez deosebite transformă o simplă reuniune într-o… https:// afaceritop.ro/cum-alegi-un-tor t-de-botez-potrivit-pentru-o-zi-cu-adevarat-speciala/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@afaceri_top/116549606369252036",
-      "date": "Sun, 10 May 2026 09:37:38 +0000",
-      "content": "Atenție! Simțiți un disconfort abdominal persistent sau ați observat o modificare neobișnuită la nivelul pielii? Interesul pentru sănătatea dumneavoastră trebuie să fie prioritar, mai ales când locuiți sau lucrați într-o zonă dinamică din nordul capitalei. Dorința de a primi un diagnostic rapid și precis vă poate conduce către un specialist de încredere, capabil să vă… https:// afaceritop.ro/ce-afectiuni-poa te-evalua-un-medic-chirurg-la-medicover-pipera/"
     }
   ]
 }
