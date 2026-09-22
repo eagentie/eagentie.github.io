@@ -4,8 +4,14 @@
   "site_feed": "https://9z.ro/feed/",
   "mastodon": "https://social.5th.ro/@9z",
   "mastodon_rss": "https://social.5th.ro/@9z.rss",
-  "updated_at": "2026-09-22T04:53:18Z",
+  "updated_at": "2026-09-22T09:57:44Z",
   "site_posts": [
+    {
+      "title": "5 avantaje ale spălătoriilor automate cu portal pentru antreprenori",
+      "link": "https://9z.ro/avantaje-spalatoriilor-portal/",
+      "date": "Tue, 22 Sep 2026 09:21:53 +0000",
+      "summary": "Sistemul cu portal ofera un model de business predictibil, cu timpi de ciclu scurti si cheltuieli operationale controlate. The post 5 avantaje ale spălătoriilor automate cu portal pentru antreprenori appeared first on 9z ."
+    },
     {
       "title": "TopPost.ro: cum alegi produsul potrivit cu ajutorul topurilor și ghidurilor de cumpărături",
       "link": "https://9z.ro/toppost-ghidurilor-de-cumparaturi/",
@@ -59,15 +65,15 @@
       "link": "https://9z.ro/ce-include-oferta-dy-nutrition-de-aminoacizi-pentru-sportivi-si-persoane-active/",
       "date": "Thu, 27 Aug 2026 11:48:25 +0000",
       "summary": "Oferta DY Nutrition de aminoacizi include formule cu EAA, BCAA în două rapoarte și glutamină separată, astfel încât să poți alege produsul potrivit pentru programul tău de antrenament, aportul de proteine și preferințele de consum. Aminoacizii pot completa alimentația în zilele solicitante, însă nu înlocuiesc mesele echilibrate, somnul sau recuperarea. Dacă mergi la sală, alergi, [&#8230;] The post Ce include oferta DY Nutrition de aminoacizi pentru sportivi și persoane active? appeared first on 9z ."
-    },
-    {
-      "title": "Ce caută părinții atunci când aleg sandale pentru copii în 2026?",
-      "link": "https://9z.ro/ce-cauta-parintii-atunci-cand-aleg-sandale-pentru-copii-in-2026/",
-      "date": "Thu, 27 Aug 2026 06:50:00 +0000",
-      "summary": "Ce caută părinții atunci când aleg sandale pentru copii în 2026? Alegerea unei perechi de sandale pentru copii nu mai este de mult doar o chestiune de culoare sau de design. În ultimii ani, părinții au devenit mult mai atenți la calitatea materialelor, confortul oferit de încălțăminte și modul în care aceasta influențează mersul și [&#8230;] The post Ce caută părinții atunci când aleg sandale pentru copii în 2026? appeared first on 9z ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@9z/117313956514705516",
+      "date": "Tue, 22 Sep 2026 09:21:56 +0000",
+      "content": "Sistemul cu portal ofera un model de business predictibil, cu timpi de ciclu scurti si cheltuieli operationale controlate. https:// 9z.ro/avantaje-spalatoriilor-p ortal/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@9z/117308457020611251",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@9z/117171809253872810",
       "date": "Fri, 28 Aug 2026 06:52:01 +0000",
       "content": "Ce caută părinții atunci când aleg sandale pentru copii în 2026?Alegerea unei perechi de sandale pentru copii nu mai este de mult doar o chestiune de culoare sau de design. În ultimii ani, părinții au devenit mult mai atenți la calitatea materialelor, confortul oferit de încălțăminte și modul în care aceasta influențează mersul și dezvoltarea… https:// 9z.ro/ce-cauta-parintii-atunci -cand-aleg-sandale-pentru-copii-in-2026/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@9z/117167312653602293",
-      "date": "Thu, 27 Aug 2026 11:48:28 +0000",
-      "content": "Oferta DY Nutrition de aminoacizi include formule cu EAA, BCAA în două rapoarte și glutamină separată, astfel încât să poți alege produsul potrivit pentru programul tău de antrenament, aportul de proteine și preferințele de consum. Aminoacizii pot completa alimentația în zilele solicitante, însă nu înlocuiesc mesele echilibrate, somnul sau recuperarea. Dacă mergi la sală, alergi,… https:// 9z.ro/ce-include-oferta-dy-nut rition-de-aminoacizi-pentru-sportivi-si-persoane-active/"
     }
   ]
 }
