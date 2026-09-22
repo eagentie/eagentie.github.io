@@ -4,8 +4,14 @@
   "site_feed": "https://arta-constructiilor.ro/feed/",
   "mastodon": "https://social.5th.ro/@ArtaConstructiilor",
   "mastodon_rss": "https://social.5th.ro/@ArtaConstructiilor.rss",
-  "updated_at": "2026-09-22T09:57:28Z",
+  "updated_at": "2026-09-22T14:52:54Z",
   "site_posts": [
+    {
+      "title": "Iluminatul pe șină într-o casă modernă: cum alegi sistemul și corpurile de iluminat",
+      "link": "https://arta-constructiilor.ro/iluminat-pe-sina-ghid-alegere/",
+      "date": "Tue, 22 Sep 2026 13:30:24 +0000",
+      "summary": "Descopera cum sa planifici traseul si sa alegi corpurile potrivite pentru un sistem de iluminat pe sina eficient si estetic in spatiul tau. Articolul Iluminatul pe șină într-o casă modernă: cum alegi sistemul și corpurile de iluminat apare prima dată în Arta Constructiilor ."
+    },
     {
       "title": "De ce hala industrială este un caz de risc ridicat",
       "link": "https://arta-constructiilor.ro/de-ce-hala-industriala-este-un-caz-de-risc-ridicat/",
@@ -59,15 +65,15 @@
       "link": "https://arta-constructiilor.ro/cum-functioneaza-placutele-speciale-de-protectie-si-cum-le-schimbi-rapid-in-mijlocul-unei-sesiuni-nocturne/",
       "date": "Tue, 18 Aug 2026 09:39:06 +0000",
       "summary": "Noaptea pe malul apei are o magie aparte, o încărcătură de mister și liniște pe care doar pescarii pasionați o pot înțelege cu adevărat. Când &#8230; Articolul Cum funcționează plăcuțele speciale de protecție și cum le schimbi rapid în mijlocul unei sesiuni nocturne apare prima dată în Arta Constructiilor ."
-    },
-    {
-      "title": "Ce verifici înainte să cumperi un teren pentru casă: ghid practic CSV.RO",
-      "link": "https://arta-constructiilor.ro/ce-verifici-inainte-cumperi-teren-pentru-casa/",
-      "date": "Fri, 14 Aug 2026 09:41:15 +0000",
-      "summary": "Un teren poate părea potrivit într-un anunț și poate deveni dificil de folosit după cumpărare. Suprafața și prețul nu spun singure dacă lotul permite construcția &#8230; Articolul Ce verifici înainte să cumperi un teren pentru casă: ghid practic CSV.RO apare prima dată în Arta Constructiilor ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@ArtaConstructiilor/117314933560674424",
+      "date": "Tue, 22 Sep 2026 13:30:25 +0000",
+      "content": "Descopera cum sa planifici traseul si sa alegi corpurile potrivite pentru un sistem de iluminat pe sina eficient si estetic in spatiul tau. .... 🌐 https:// arta-constructiilor.ro/ilumina t-pe-sina-ghid-alegere/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@ArtaConstructiilor/117292444661899492",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@ArtaConstructiilor/117014535527699186",
       "date": "Fri, 31 Jul 2026 12:15:14 +0000",
       "content": "Ați observat o mică umflătură în jurul buricului? Această modificare poate părea inofensivă la început. Totuși, ea poate indica o problemă medicală frecventă la adulți. Diagnosticul timpuriu este extrem de important pentru sănătatea dumneavoastră. O hernie ombilicală apare atunci când o parte a intestinului sau un țesut gras pătrunde prin peretele abdominal. Fără tratament, această… .... 🌐 https:// arta-constructiilor.ro/hernia- ombilicala-la-adulti-cauze-simptome-si-tratament/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@ArtaConstructiilor/116963440581365748",
-      "date": "Wed, 22 Jul 2026 11:41:07 +0000",
-      "content": "Alegerea pardoselii potrivite influențează atât aspectul locuinței, cât și confortul și costurile de întreținere pe termen lung. Două dintre cele mai populare opțiuni sunt parchetul SPC și parchetul laminat, însă fiecare vine cu avantaje și limitări care îl recomandă pentru anumite tipuri de spații. Dacă te afli în fața unei renovări sau amenajezi o locuință… .... 🌐 https:// arta-constructiilor.ro/parchet -spc-sau-parchet-laminat-cum-alegi-corect-pentru-casa-ta/"
     }
   ]
 }
