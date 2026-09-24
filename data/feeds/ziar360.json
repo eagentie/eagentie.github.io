@@ -4,8 +4,14 @@
   "site_feed": "https://ziar360.ro/feed/",
   "mastodon": "https://social.5th.ro/@ziar360",
   "mastodon_rss": "https://social.5th.ro/@ziar360.rss",
-  "updated_at": "2026-09-24T09:58:48Z",
+  "updated_at": "2026-09-24T15:03:50Z",
   "site_posts": [
+    {
+      "title": "Ce-ar fi dacă, pentru o zi, am privi eșecul altfel?",
+      "link": "https://ziar360.ro/ce-ar-fi-daca-pentru-o-zi-am-privi-esecul-altfel/",
+      "date": "Thu, 24 Sep 2026 11:38:57 +0000",
+      "summary": "Ce-ar fi dacă, pentru o zi, am privi eșecul altfel? Nu ca pe o dovadă că nu ești suficient de bun, ci ca pe unul dintre cele mai directe moduri prin care afli ce nu merge, schimbi direcția, pivotezi, experimentezi și înveți mai repede. Pe 9 noiembrie, la Opera Națională București, I Love Failure 2026 [&#8230;] The post Ce-ar fi dacă, pentru o zi, am privi eșecul altfel? appeared first on Ziar 360 ."
+    },
     {
       "title": "Legislația RCA și dreptul la despăgubiri al victimelor. Cum se calculează prejudiciul în caz de vătămare sau deces?",
       "link": "https://ziar360.ro/legislatia-rca-si-dreptul-la-despagubiri-al-victimelor-cum-se-calculeaza-prejudiciul-in-caz-de-vatamare-sau-deces/",
@@ -59,15 +65,15 @@
       "link": "https://ziar360.ro/de-ce-masinile-rulate-in-leasing-pot-fi-una-dintre-cele-mai-bune-optiuni-pentru-compania-ta/",
       "date": "Thu, 13 Aug 2026 10:39:15 +0000",
       "summary": "Pentru multe companii, mașina este un instrument care susține direct activitatea de zi cu zi. Fie că vorbim despre deplasări către clienți, vizite la puncte de lucru, întâlniri de business sau activități logistice, mobilitatea influențează productivitatea, costurile și chiar imaginea companiei. Din acest motiv, alegerea modului de finanțare a unei mașini ar trebui analizată atent, [&#8230;] The post De ce mașinile rulate în leasing pot fi una dintre cele mai bune opțiuni pentru compania ta appeared first on Ziar 360 ."
-    },
-    {
-      "title": "Scoica auto: ce nu verifici după montaj poate conta mai mult decât sistemul de prindere ales",
-      "link": "https://ziar360.ro/scoica-auto-ce-nu-verifici-dupa-montaj-poate-conta-mai-mult-decat-sistemul-de-prindere-ales/",
-      "date": "Thu, 13 Aug 2026 10:23:19 +0000",
-      "summary": "Primele drumuri cu bebelușul în mașină vin cu un nivel de anxietate pe care puțini părinți îl anticipează. Scoica e cumpărată, instrucțiunile sunt citite, videoclipurile sunt vizionate. Și totuși, ceva rămâne neclar: cum știi că e bine fixată? Nu că e montată, ci că e montată corect, în sensul în care contează cu adevărat. Problema [&#8230;] The post Scoica auto: ce nu verifici după montaj poate conta mai mult decât sistemul de prindere ales appeared first on Ziar 360 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@ziar360/117326576911336748",
+      "date": "Thu, 24 Sep 2026 14:51:28 +0000",
+      "content": "📄Ce-ar fi dacă, pentru o zi, am privi eșecul altfel?Nu ca pe o dovadă că nu ești suficient de bun, ci ca pe unul dintre cele mai directe moduri prin care afli ce nu merge, schimbi direcția, pivotezi, experimentezi și înveți mai repede. Pe 9 noiembrie, la Opera Națională București, I Love Failure 2026 aduce… 🌐 https:// ziar360.ro/ce-ar-fi-daca-pentr u-o-zi-am-privi-esecul-altfel/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@ziar360/117308699155859612",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@ziar360/117087705701174032",
       "date": "Thu, 13 Aug 2026 10:23:23 +0000",
       "content": "📄Primele drumuri cu bebelușul în mașină vin cu un nivel de anxietate pe care puțini părinți îl anticipează. Scoica e cumpărată, instrucțiunile sunt citite, videoclipurile sunt vizionate. Și totuși, ceva rămâne neclar: cum știi că e bine fixată? Nu că e montată, ci că e montată corect, în sensul în care contează cu adevărat.Problema nu… 🌐 https:// ziar360.ro/scoica-auto-ce-nu-v erifici-dupa-montaj-poate-conta-mai-mult-decat-sistemul-de-prindere-ales/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@ziar360/117071259696802922",
-      "date": "Mon, 10 Aug 2026 12:40:56 +0000",
-      "content": "📄Dacă ești o femeie activă, ai un program aglomerat și te ridici din pat la fel de obosită cum te-ai culcat, problema merită privită cu mai multă atenție. Când lipsa de energie se repetă, apar dificultăți de concentrare, dureri de cap sau o toleranță mai mică la efort, o simplă perioadă aglomerată nu explică întotdeauna… 🌐 https:// ziar360.ro/oboseala-care-persi sta-dupa-somn-ce-poate-spune-feritina-despre-energia-ta/"
     }
   ]
 }

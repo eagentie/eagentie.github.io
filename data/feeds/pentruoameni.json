@@ -4,8 +4,14 @@
   "site_feed": "https://pentruoameni.ro/feed/",
   "mastodon": "https://social.5th.ro/@pentruoameni",
   "mastodon_rss": "https://social.5th.ro/@pentruoameni.rss",
-  "updated_at": "2026-09-24T09:58:20Z",
+  "updated_at": "2026-09-24T15:03:16Z",
   "site_posts": [
+    {
+      "title": "Premieră în România: primul hackathon multidisciplinar dedicat soluțiilor pentru siguranța elevilor",
+      "link": "https://pentruoameni.ro/premiera-in-romania-primul-hackathon-multidisciplinar-dedicat-solutiilor-pentru-siguranta-elevilor/",
+      "date": "Thu, 24 Sep 2026 10:29:17 +0000",
+      "summary": "Pe 10 octombrie, la București, elevi, profesori, specialiști și mentori vor lucra &#238;mpreună pornind de la experiențe reale, colectate anonim, pentru a construi soluții care pot ajunge ulterior &#238;n școli. Siguranța unui copil se poate pierde &#238;ntr-o conversație online, &#238;n relația cu un coleg, &#238;ntr-o sală de clasă, pe drumul spre casă sau &#238;ntr-un context [&#8230;] Articolul Premieră în România: primul hackathon multidisciplinar dedicat soluțiilor pentru siguranța elevilor apare prima dată în Pentru Oameni ."
+    },
     {
       "title": "FONDUL SOCIAL EUROPEAN+ (FSE+)Programul Incluziune și Demnitate Socială (PIDS) 2021-2027",
       "link": "https://pentruoameni.ro/fondul-social-european-fseprogramul-incluziune-si-demnitate-sociala-pids-2021-2027/",
@@ -71,15 +77,15 @@
       "link": "https://pentruoameni.ro/cele-mai-cautate-zone-rezidentiale-din-nordul-capitalei-pentru-un-stil-de-viata-modern/",
       "date": "Sun, 07 Jun 2026 13:18:00 +0000",
       "summary": "Achiziția unei locuințe premium reprezintă una dintre cele mai importante decizii financiare și personale pe care o poate lua o familie sau un investitor. &#206;n ultimii ani, nordul Bucureștiului a devenit polul principal al dezvoltărilor rezidențiale moderne, atrăg&#226;nd cumpărători interesați de confort, accesibilitate și un mediu urban de &#238;naltă calitate. Zone precum Aviației, Băneasa și [&#8230;] Articolul Cele mai căutate zone rezidențiale din nordul Capitalei pentru un stil de viață modern apare prima dată în Pentru Oameni ."
-    },
-    {
-      "title": "Cum organizezi o vacanță în Tenerife cu buget redus?",
-      "link": "https://pentruoameni.ro/cum-organizezi-o-vacanta-in-tenerife-cu-buget-redus/",
-      "date": "Thu, 04 Jun 2026 04:34:00 +0000",
-      "summary": "Tenerife pare adesea o destinație exclusivistă, asociată cu hoteluri de lux și cheltuieli extravagante. Insula Primăverii Veșnice ascunde &#238;nsă opțiuni excelente pentru călătorii care vor să exploreze peisaje vulcanice și plaje celebre fără să &#238;și diminueze prea mult conturile. Planificarea inteligentă transformă această insulă spaniolă &#238;ntr-un loc accesibil pentru orice buzunar. Secretul unei călătorii ieftine [&#8230;] Articolul Cum organizezi o vacanță în Tenerife cu buget redus? apare prima dată în Pentru Oameni ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@pentruoameni/117326280597070421",
+      "date": "Thu, 24 Sep 2026 13:36:07 +0000",
+      "content": "Pe 10 octombrie, la București, elevi, profesori, specialiști și mentori vor lucra împreună pornind de la experiențe reale, colectate anonim, pentru a construi soluții care pot ajunge ulterior în școli. Siguranța unui copil se poate pierde într-o conversație online, în relația cu un coleg, într-o sală de clasă, pe drumul spre casă sau într-un context… .... https:// pentruoameni.ro/premiera-in-ro mania-primul-hackathon-multidisciplinar-dedicat-solutiilor-pentru-siguranta-elevilor/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@pentruoameni/117275843304686734",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@pentruoameni/116792729850266208",
       "date": "Mon, 22 Jun 2026 08:07:08 +0000",
       "content": "Pofta de dulce care apare aproape zilnic în jurul orei 17:00 nu este doar o întâmplare și nici un semn că „ți-ai pierdut voința”. Mulți oameni observă același lucru: după o zi de muncă, când energia începe să scadă, gândul la o ciocolată, câțiva biscuiți sau o prăjitură devine surprinzător de greu de ignorat. De… .... https:// pentruoameni.ro/pofta-de-dulce -de-la-ora-1700-ce-i-in-spatele-ei-si-cum-o-imblanzesti/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@pentruoameni/116771314394292628",
-      "date": "Thu, 18 Jun 2026 13:20:54 +0000",
-      "content": "Achiziția unei locuințe premium reprezintă una dintre cele mai importante decizii financiare și personale pe care o poate lua o familie sau un investitor. În ultimii ani, nordul Bucureștiului a devenit polul principal al dezvoltărilor rezidențiale moderne, atrăgând cumpărători interesați de confort, accesibilitate și un mediu urban de înaltă calitate. Zone precum Aviației, Băneasa .... https:// pentruoameni.ro/cele-mai-cauta te-zone-rezidentiale-din-nordul-capitalei-pentru-un-stil-de-viata-modern/"
     }
   ]
 }

@@ -4,8 +4,14 @@
   "site_feed": "https://cetateanmodel.ro/feed/",
   "mastodon": "https://social.5th.ro/@cetatean_model",
   "mastodon_rss": "https://social.5th.ro/@cetatean_model.rss",
-  "updated_at": "2026-09-24T09:58:35Z",
+  "updated_at": "2026-09-24T15:03:34Z",
   "site_posts": [
+    {
+      "title": "Premieră în România: primul hackathon multidisciplinar dedicat soluțiilor pentru siguranța elevilor",
+      "link": "https://cetateanmodel.ro/premiera-in-romania-primul-hackathon-multidisciplinar-dedicat-solutiilor-pentru-siguranta-elevilor/",
+      "date": "Thu, 24 Sep 2026 10:29:17 +0000",
+      "summary": "Pe 10 octombrie, la București, elevi, profesori, specialiști și mentori vor lucra &#238;mpreună pornind de la experiențe reale, colectate anonim, pentru a construi soluții care pot ajunge ulterior &#238;n școli. Siguranța unui copil se poate pierde &#238;ntr-o conversație online, &#238;n relația cu un coleg, &#238;ntr-o sală de clasă, pe drumul spre casă sau &#238;ntr-un context [&#8230;] Articolul Premieră în România: primul hackathon multidisciplinar dedicat soluțiilor pentru siguranța elevilor apare prima dată în Cetatean model ."
+    },
     {
       "title": "3 metode de stocare video pentru camerele de supraveghere: card SD, NVR sau Cloud",
       "link": "https://cetateanmodel.ro/stocare-video-card-sd-nvr-cloud/",
@@ -71,15 +77,15 @@
       "link": "https://cetateanmodel.ro/oameni-destine-emotie-adela-hanafi-a-lansat-podcastul-povesti-nespuse-cu-adela/",
       "date": "Wed, 10 Dec 2025 09:13:51 +0000",
       "summary": "Oameni, destine, emoție: Adela Hanafi, a lansat podcastul „Povești Nespuse cu Adela” Într-o lume adesea dominată de superficialitate și știri rapide, Adela Hanafi, Președinta Asociației CONIL și sufletul din spatele CONIL Fest, lansează un proiect special: podcastul „Povești Nespuse cu Adela”. Acest demers curajos transformă experiența personală profundă în lecții de viață universale, oferind o [&#8230;] Articolul Oameni, destine, emoție: Adela Hanafi, a lansat podcastul „Povești Nespuse cu Adela” apare prima dată în Cetatean model ."
-    },
-    {
-      "title": "Articole SEO pentru lead generation în 2025: ce trebuie să includă",
-      "link": "https://cetateanmodel.ro/articole-seo-pentru-lead-generation-in-2025-ce-trebuie-sa-includa/",
-      "date": "Mon, 01 Dec 2025 12:07:49 +0000",
-      "summary": "Atenție: Simțiți că articolele dumneavoastră atrag trafic, dar nu aduc rezultate? Investiți resurse masive în conținut, însă rata de conversie rămâne dezamăgitoare? Nu sunteți singuri. În peisajul digital în continuă schimbare, simpla prezență în topul căutărilor nu mai este suficientă. Vizitatorii trebuie ghidați, nu doar informați. Interes: Secretul stă în transformarea articolelor SEO din simple [&#8230;] Articolul Articole SEO pentru lead generation în 2025: ce trebuie să includă apare prima dată în Cetatean model ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@cetatean_model/117326286054200855",
+      "date": "Thu, 24 Sep 2026 13:37:30 +0000",
+      "content": "Pe 10 octombrie, la București, elevi, profesori, specialiști și mentori vor lucra împreună pornind de la experiențe reale, colectate anonim, pentru a construi soluții care pot ajunge ulterior în școli. Siguranța unui copil se poate pierde într-o conversație online, în relația cu un coleg, într-o sală de clasă, pe drumul spre casă sau într-un context… https:// cetateanmodel.ro/premiera-in-r omania-primul-hackathon-multidisciplinar-dedicat-solutiilor-pentru-siguranta-elevilor/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@cetatean_model/117290915561335931",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@cetatean_model/115797111531665999",
       "date": "Sun, 28 Dec 2025 12:08:18 +0000",
       "content": "/tmp/tmpsqdb9wf5.html https:// cetateanmodel.ro/microneedling -secretul-regenerarii-tenului/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@cetatean_model/115797111292647250",
-      "date": "Sun, 28 Dec 2025 12:08:15 +0000",
-      "content": "/tmp/tmpme2sfcy7.html https:// cetateanmodel.ro/gutierele-inv isalign-functioneaza-cu-adevarat/"
     }
   ]
 }

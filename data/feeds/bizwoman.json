@@ -4,8 +4,14 @@
   "site_feed": "https://bizwoman.ro/feed/",
   "mastodon": "https://social.5th.ro/@BIZWoman",
   "mastodon_rss": "https://social.5th.ro/@BIZWoman.rss",
-  "updated_at": "2026-09-24T10:00:05Z",
+  "updated_at": "2026-09-24T15:05:20Z",
   "site_posts": [
+    {
+      "title": "Ce-ar fi dacă, pentru o zi, am privi eșecul altfel?",
+      "link": "https://bizwoman.ro/ce-ar-fi-daca-pentru-o-zi-am-privi-esecul-altfel/",
+      "date": "Thu, 24 Sep 2026 11:38:57 +0000",
+      "summary": "Ce-ar fi dacă, pentru o zi, am privi eșecul altfel? Nu ca pe o dovadă&#8230; Articolul Ce-ar fi dacă, pentru o zi, am privi eșecul altfel? apare prima dată în Biz Woman ."
+    },
     {
       "title": "Mind your Business 2026: impactul BURNOUT-ului asupra economiei",
       "link": "https://bizwoman.ro/mind-your-business-2026-impactul-burnout-ului-asupra-economiei/",
@@ -59,15 +65,15 @@
       "link": "https://bizwoman.ro/secretul-calatoriilor-inteligente-trucuri-de-la-voiaj-pentru-cele-mai-ieftine-bilete-de-avion-md/",
       "date": "Thu, 16 Jul 2026 08:46:12 +0000",
       "summary": "De câte ori nu ai simțit acea frustrare când, după ore întregi de căutări, prețul&#8230; Articolul Secretul călătoriilor inteligente: Trucuri de la Voiaj pentru cele mai ieftine bilete de avion MD apare prima dată în Biz Woman ."
-    },
-    {
-      "title": "Top 5 tipuri de ciorapi care nu trebuie să-ți lipsească din garderobă în acest sezon",
-      "link": "https://bizwoman.ro/top-5-tipuri-de-ciorapi-care-nu-trebuie-sa-ti-lipseasca-din-garderoba-in-acest-sezon/",
-      "date": "Tue, 14 Jul 2026 05:59:07 +0000",
-      "summary": "O pereche de ciorapi bine aleasă poate schimba complet felul în care se așază o ținută,&#8230; Articolul Top 5 tipuri de ciorapi care nu trebuie să-ți lipsească din garderobă în acest sezon apare prima dată în Biz Woman ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@BIZWoman/117326554636792410",
+      "date": "Thu, 24 Sep 2026 14:45:48 +0000",
+      "content": "📄Ce-ar fi dacă, pentru o zi, am privi eșecul altfel?Nu ca pe o dovadă că nu ești suficient de bun, ci ca pe unul dintre cele mai directe moduri prin care afli ce nu merge, schimbi direcția, pivotezi, experimentezi și înveți mai repede. Pe 9 noiembrie, la Opera Națională București, I Love Failure 2026 aduce… 📄 https:// bizwoman.ro/ce-ar-fi-daca-pent ru-o-zi-am-privi-esecul-altfel/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@BIZWoman/117173708075008379",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@BIZWoman/116890458325014248",
       "date": "Thu, 09 Jul 2026 14:20:47 +0000",
       "content": "📄În orice relație de business, nu este suficient să analizezi doar o singură companie. În spatele ei pot exista alte firme conectate și, cel mai important, persoane care au calitatea de acționari și administratori semnificativi. Aceștia pot influența deciziile și schimba direcția unui parteneriat. Informațiile pot fi accesate pe RisCo.ro - analizează structura completă a… 📄 https:// bizwoman.ro/grupuri-de-firme-d upa-actionariat-intelege-cine-controleaza-cu-adevarat-compania-inainte-de-colaborare/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@BIZWoman/116724731663287310",
-      "date": "Wed, 10 Jun 2026 07:54:18 +0000",
-      "content": "📄Un ghid practic despre verificarea unui anunț auto înainte de vizionare, cu detalii despre fotografii, kilometraj, acte, preț, întrebări pentru vânzător și semne care cer prudență. 📄 https:// bizwoman.ro/ce-verifici-anunt- auto-inainte-sa-vezi-masina/"
     }
   ]
 }
