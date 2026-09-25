@@ -4,8 +4,14 @@
   "site_feed": "https://topcomunicate.ro/feed/",
   "mastodon": "https://social.5th.ro/@topcomunicate_ro",
   "mastodon_rss": "https://social.5th.ro/@topcomunicate_ro.rss",
-  "updated_at": "2026-09-25T13:44:21Z",
+  "updated_at": "2026-09-25T18:34:19Z",
   "site_posts": [
+    {
+      "title": "Cum împachetezi corect produsele pentru livrare, astfel încât să ajungă în siguranță? 5 idei practice",
+      "link": "https://topcomunicate.ro/ambalare-produse-livrare/",
+      "date": "Fri, 25 Sep 2026 15:38:51 +0000",
+      "summary": "Inveleste separat fiecare obiect si umple spatiile goale din cutie. O rutina clara de ambalare reduce riscul de retururi si reclamatii. The post Cum împachetezi corect produsele pentru livrare, astfel încât să ajungă în siguranță? 5 idei practice appeared first on Comunicate de presa ."
+    },
     {
       "title": "Uscător de mâini sau prosoape de hârtie?",
       "link": "https://topcomunicate.ro/uscator-de-maini-sau-prosoape-de-hartie-2/",
@@ -71,15 +77,15 @@
       "link": "https://topcomunicate.ro/airsoft-pentru-prima-data-ce-trebuie-sa-stii-inainte-sa-intri-pe-teren/",
       "date": "Thu, 20 Aug 2026 05:10:44 +0000",
       "summary": "Prima sesiune de airsoft începe cu regulile de siguranță și cu familiarizarea cu echipamentul. Abia după aceea... The post Airsoft pentru prima dată: ce trebuie să știi înainte să intri pe teren appeared first on Comunicate de presa ."
-    },
-    {
-      "title": "Transportul mobilei fără stres: de ce contează să alegi o firmă specializată pentru mutări naționale și internaționale",
-      "link": "https://topcomunicate.ro/transportul-mobilei-fara-stres-de-ce-conteaza-sa-alegi-o-firma-specializata-pentru-mutari-nationale-si-internationale/",
-      "date": "Fri, 14 Aug 2026 08:24:00 +0000",
-      "summary": "Mutarea într-o locuință nouă poate fi începutul unei etape importante, însă înainte de a te bucura de... The post Transportul mobilei fără stres: de ce contează să alegi o firmă specializată pentru mutări naționale și internaționale appeared first on Comunicate de presa ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@topcomunicate_ro/117332425678197745",
+      "date": "Fri, 25 Sep 2026 15:38:53 +0000",
+      "content": "⭐ Inveleste separat fiecare obiect si umple spatiile goale din cutie. O rutina clara de ambalare reduce riscul de retururi si reclamatii. 🔗 Detalii aici: https:// topcomunicate.ro/ambalare-prod use-livrare/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@topcomunicate_ro/117308409359200323",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@topcomunicate_ro/117126836784744929",
       "date": "Thu, 20 Aug 2026 08:14:56 +0000",
       "content": "⭐ Prima sesiune de airsoft începe cu regulile de siguranță și cu familiarizarea cu echipamentul. Abia după aceea vin țintele, precizia și încercarea de a obține rezultate mai bune de la o serie la alta.Pentru cine nu a mai încercat această activitate, airsoftul poate părea apropiat de paintball. Există însă diferențe de echipament și de desfășurare.… 🔗 Mai mult: https:// topcomunicate.ro/airsoft-pentr u-prima-data-ce-trebuie-sa-stii-inainte-sa-intri-pe-teren/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@topcomunicate_ro/117109894464410146",
-      "date": "Mon, 17 Aug 2026 08:26:16 +0000",
-      "content": "⭐ Mutarea într-o locuință nouă poate fi începutul unei etape importante, însă înainte de a te bucura de noul spațiu trebuie rezolvată una dintre cele mai dificile probleme: transportarea mobilierului și a tuturor obiectelor personale. De la dulapuri, canapele și electrocasnice până la cutii cu haine, documente, cărți sau obiecte fragile, 🔗 Detalii aici: https:// topcomunicate.ro/transportul-m obilei-fara-stres-de-ce-conteaza-sa-alegi-o-firma-specializata-pentru-mutari-nationale-si-internationale/"
     }
   ]
 }

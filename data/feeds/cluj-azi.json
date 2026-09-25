@@ -4,8 +4,14 @@
   "site_feed": "https://cluj-azi.ro/feed/",
   "mastodon": "https://social.5th.ro/@cluj",
   "mastodon_rss": "https://social.5th.ro/@cluj.rss",
-  "updated_at": "2026-09-25T13:45:11Z",
+  "updated_at": "2026-09-25T18:35:06Z",
   "site_posts": [
+    {
+      "title": "Mocasini sau pantofi cu șiret: ce se potrivește stilului tău de toamnă",
+      "link": "https://cluj-azi.ro/mocasini-pantofi-cu-siret-toamna/",
+      "date": "Fri, 25 Sep 2026 15:36:50 +0000",
+      "summary": "Compara mocasini si pantofi cu siret pentru a gasi varianta potrivita programului tau. Vezi cum ii asortezi cu denim, stofa sau tricotaje. Articolul Mocasini sau pantofi cu șiret: ce se potrivește stilului tău de toamnă apare prima dată în Cluj AZI ."
+    },
     {
       "title": "Ce verifici când cumperi un produs second-hand în Cluj-Napoca: ghid local CSV.RO",
       "link": "https://cluj-azi.ro/ce-verifici-produs-second-hand-cluj-napoca/",
@@ -59,15 +65,15 @@
       "link": "https://cluj-azi.ro/cum-compui-un-bilet-al-zilei-inspirat-din-propriile-analize-nu-doar-ponturi/",
       "date": "Fri, 14 Nov 2025 09:07:58 +0000",
       "summary": "Ești gata să schimbi modul în care pariezi? Mulți pariori caută zilnic o scurtătură către câștig, apelând la diverse ponturi pariuri găsite pe internet. Deși aceste surse pot oferi o idee generală, succesul sustenabil și pe termen lung provine dintr-o singură sursă: propria ta cunoaștere. Este esențial să renunți la dependența de sugestii externe și [&#8230;] Articolul Cum compui un bilet al zilei inspirat din propriile analize, nu doar ponturi apare prima dată în Cluj AZI ."
-    },
-    {
-      "title": "Cum pregătești site-ul pentru următorul update de algoritm Google",
-      "link": "https://cluj-azi.ro/cum-pregatesti-site-ul-pentru-urmatorul-update-de-algoritm-google/",
-      "date": "Fri, 14 Nov 2025 07:32:14 +0000",
-      "summary": "Introducere: De Ce Fluctuațiile Google Nu Trebuie Să Vă Panicheze Atenție (A): Ați observat vreodată acele fluctuații bruște în clasamentele Google? Vă confruntați cu scăderi neașteptate de trafic, imediat după un anunț major? Milioane de proprietari de site-uri web se panichează de fiecare dată când Google lansează un nou update Google. Acele momente de incertitudine [&#8230;] Articolul Cum pregătești site-ul pentru următorul update de algoritm Google apare prima dată în Cluj AZI ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@cluj/117332417621409841",
+      "date": "Fri, 25 Sep 2026 15:36:50 +0000",
+      "content": "Compara mocasini si pantofi cu siret pentru a gasi varianta potrivita programului tau. Vezi cum ii asortezi cu denim, stofa sau tricotaje. https:// cluj-azi.ro/mocasini-pantofi-c u-siret-toamna/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@cluj/117112848040507887",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@cluj/115706257685234444",
       "date": "Fri, 12 Dec 2025 11:02:59 +0000",
       "content": "Atenție: Până nu demult, publicarea unor advertoriale bazate pe structuri standard și informații superficiale era suficientă pentru a atrage trafic și vizibilitate. Însă, pe măsură ce internetul s-a umplut de zgomot, publicul a devenit din ce în ce mai pretențios. Oamenii nu mai dau click pe orice. Ne confruntăm cu o saturație masivă de informație,… https:// cluj-azi.ro/2025-advertoriale- de-autor-vs-advertoriale-scrise-generic-ce-functioneaza-mai-bine/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@cluj/115706257586973630",
-      "date": "Fri, 12 Dec 2025 11:02:57 +0000",
-      "content": "Ați simțit vreodată frustrarea de a vedea echipa favorită câștigând, dar cota să nu vă aducă un profit semnificativ? V-ați întrebat care este secretul pariorilor de succes care reușesc să obțină câștiguri constante pe termen lung? (A - Atenție) Dacă sunteți în căutarea unei strategii care să depășească simpla ghicire a rezultatului, răspunsul se află… https:// cluj-azi.ro/analiza-valorii-co tei-cum-gasesti-value-bet-uri-in-oferta-zilnica/"
     }
   ]
 }

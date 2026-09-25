@@ -4,8 +4,14 @@
   "site_feed": "https://iFemeie.ro/feed/",
   "mastodon": "https://social.5th.ro/@iFemeie",
   "mastodon_rss": "https://social.5th.ro/@iFemeie.rss",
-  "updated_at": "2026-09-25T13:46:25Z",
+  "updated_at": "2026-09-25T18:36:12Z",
   "site_posts": [
+    {
+      "title": "Infecțiile urinare: Cum se pot preveni mai uşor, de ce apare recidiva şi ce categorii de pacienţi sunt cele mai afectate?",
+      "link": "https://ifemeie.ro/infectiile-urinare-cum-se-pot-preveni-mai-usor-de-ce-apare-recidiva-si-ce-categorii-de-pacienti-sunt-cele-mai-afectate/",
+      "date": "Fri, 25 Sep 2026 16:51:35 +0000",
+      "summary": "Fără simptome evidente la început, dar cu o evoluție imprevizibilă, infecția urinară este tipul de... Articolul Infecțiile urinare: Cum se pot preveni mai uşor, de ce apare recidiva şi ce categorii de pacienţi sunt cele mai afectate? apare prima dată în iFemeie ."
+    },
     {
       "title": "De ce peptidele regenerative atrag tot mai mult interesul femeilor?",
       "link": "https://ifemeie.ro/de-ce-peptidele-regenerative-atrag-tot-mai-mult-interesul-femeilor/",
@@ -65,15 +71,15 @@
       "link": "https://ifemeie.ro/eventratia-postoperatorie-de-ce-apare-si-cum-se-trateaza-corect/",
       "date": "Tue, 23 Jun 2026 08:05:55 +0000",
       "summary": "Dr. Bogdan Serban explică, pentru pacienți din București, ce afecțiuni pot fi evaluate chirurgical. Informații despre eventrație și când merită o consultație. Articolul Eventrația postoperatorie: de ce apare și cum se tratează corect apare prima dată în iFemeie ."
-    },
-    {
-      "title": "Cum alegi căști wireless pentru utilizare intensă?",
-      "link": "https://ifemeie.ro/cum-alegi-casti-wireless-pentru-utilizare-intensa/",
-      "date": "Sun, 24 May 2026 07:24:00 +0000",
-      "summary": "Introducere Alegi căști wireless pentru utilizare intensă atunci când ai nevoie de confort pe termen... Articolul Cum alegi căști wireless pentru utilizare intensă? apare prima dată în iFemeie ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@iFemeie/117332711587520178",
+      "date": "Fri, 25 Sep 2026 16:51:36 +0000",
+      "content": "Fără simptome evidente la început, dar cu o evoluție imprevizibilă, infecția urinară este tipul de afecțiune care nu se vede, dar se „simte”. Infecțiile urinare sunt prezente atât la bărbați, cât și la femei, cu o prevalență mai mare la femei din cauza anatomiei zonei genitale. Recidiva este o constantă în cazul infecțiilor urinare; prevenția… https:// ifemeie.ro/infectiile-urinare- cum-se-pot-preveni-mai-usor-de-ce-apare-recidiva-si-ce-categorii-de-pacienti-sunt-cele-mai-afectate/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@iFemeie/117292871125144024",
@@ -139,12 +145,6 @@
       "link": "https://social.5th.ro/@iFemeie/116645349100800532",
       "date": "Wed, 27 May 2026 07:26:17 +0000",
       "content": "IntroducereAlegi căști wireless pentru utilizare intensă atunci când ai nevoie de confort pe termen lung, apeluri clare, conectare stabilă și o experiență audio care rezistă unui program aglomerat. În 2026, utilizarea intensă înseamnă mai mult decât muzică. Înseamnă ședințe, apeluri, drumuri, conținut video, lucru pe tabletă și trecere rapidă între activități fără întreruperi inutile.De ce… https:// ifemeie.ro/cum-alegi-casti-wir eless-pentru-utilizare-intensa/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@iFemeie/116482767701475329",
-      "date": "Tue, 28 Apr 2026 14:19:41 +0000",
-      "content": "Nu plângi și nu ești trist în mod vizibil. Mergi la muncă, răspunzi la mesaje și funcționezi cât se poate de normal, dar parcă lipsește ceva și ai un fel de amorțeală interioară, ca și cum lucrurile care înainte contau nu mai produc niciun efect în prezent. Mâncarea preferată are același gust ca oricare alta,… https:// ifemeie.ro/te-simti-gol-pe-din auntru-fara-motiv-un-semnal-pe-care-nu-trebuie-sa-l-ignori/"
     }
   ]
 }
