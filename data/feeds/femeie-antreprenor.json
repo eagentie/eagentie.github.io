@@ -4,8 +4,33 @@
   "site_feed": "https://femeie-antreprenor.ro/feed/",
   "mastodon": "https://social.5th.ro/@femeie_antreprenor",
   "mastodon_rss": "https://social.5th.ro/@femeie_antreprenor.rss",
-  "updated_at": "2026-09-26T17:09:28Z",
-  "site_posts": [],
+  "updated_at": "2026-09-26T19:50:11Z",
+  "site_posts": [
+    {
+      "title": "Ce-ar fi dacă, pentru o zi, am privi eșecul altfel?",
+      "link": "https://femeie-antreprenor.ro/ce-ar-fi-daca-pentru-o-zi-am-privi-esecul-altfel/",
+      "date": "Thu, 24 Sep 2026 11:38:57 +0000",
+      "summary": "Ce-ar fi dacă, pentru o zi, am privi eșecul altfel? Nu ca pe o dovadă că nu ești suficient de bun, ci ca pe unul dintre cele mai directe moduri prin care afli ce nu merge, schimbi direcția, pivotezi, experimentezi și înveți mai repede. Pe 9 noiembrie, la Opera Națională București, I Love Failure 2026 [&#8230;] Articolul Ce-ar fi dacă, pentru o zi, am privi eșecul altfel? apare prima dată în Femeie Antreprenor ."
+    },
+    {
+      "title": "Ce deficite de vitamine și minerale merită urmărite odată cu înaintarea în vârstă",
+      "link": "https://femeie-antreprenor.ro/vitamine-si-minerale/",
+      "date": "Tue, 22 Sep 2026 09:02:18 +0000",
+      "summary": "Absorbtia nutrientilor se modifica odata cu varsta. Identifica care vitamine si minerale trebuie verificate prin analize medicale pentru a preveni dezechilibrele. Articolul Ce deficite de vitamine și minerale merită urmărite odată cu înaintarea în vârstă apare prima dată în Femeie Antreprenor ."
+    },
+    {
+      "title": "Ce acte sunt necesare pentru înființarea unui SRL în 2026",
+      "link": "https://femeie-antreprenor.ro/ce-acte-sunt-necesare-pentru-infiintarea-unui-srl-in-2026/",
+      "date": "Mon, 31 Aug 2026 14:02:43 +0000",
+      "summary": "Cea mai mare frustrare a celor care vor să își deschidă o firmă nu este birocrația în sine, ci faptul că nu găsesc nicăieri o listă clară cu documentele de care au nevoie. Dosarul ajunge la Registrul Comerțului cu o hârtie lipsă, vine cererea de completare, se pierd zile. Ghidul de mai jos rezolvă exact [&#8230;] Articolul Ce acte sunt necesare pentru înființarea unui SRL în 2026 apare prima dată în Femeie Antreprenor ."
+    },
+    {
+      "title": "ecomTEAM 2026: Evenimentul care reunește între 16-18 septembrie comunitatea de eCommerce la Brașov",
+      "link": "https://femeie-antreprenor.ro/ecomteam-2026-evenimentul-care-reuneste-intre-16-18-septembrie-comunitatea-de-ecommerce-la-brasov/",
+      "date": "Mon, 31 Aug 2026 12:07:34 +0000",
+      "summary": "Industria de eCommerce trece printr-o perioadă &#238;n care schimbarea nu mai vine dintr-o singură direcție. Inteligența artificială transformă modul &#238;n care consumatorii caută și cumpără, noile reglementări europene schimbă regulile pentru magazinele online, competiția internațională devine tot mai puternică, iar comportamentul consumatorilor continuă să evolueze. &#206;n acest context, ecomTEAM 2026 revine &#238;ntre 16 și 18 [&#8230;] Articolul ecomTEAM 2026: Evenimentul care reunește între 16-18 septembrie comunitatea de eCommerce la Brașov apare prima dată în Femeie Antreprenor ."
+    }
+  ],
   "mastodon_posts": [
     {
       "title": "",
