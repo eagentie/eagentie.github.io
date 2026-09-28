@@ -4,7 +4,7 @@
   "site_feed": "https://9z.ro/feed/",
   "mastodon": "https://social.5th.ro/@9z",
   "mastodon_rss": "https://social.5th.ro/@9z.rss",
-  "updated_at": "2026-09-28T06:52:46Z",
+  "updated_at": "2026-09-28T15:26:42Z",
   "site_posts": [
     {
       "title": "Sfârșitul birocrației în HR: de ce compania ta are nevoie de un cont „all-in-one” pentru beneficii?",
@@ -70,6 +70,12 @@
   "mastodon_posts": [
     {
       "title": "",
+      "link": "https://social.5th.ro/@9z/117347389921084965",
+      "date": "Mon, 28 Sep 2026 07:04:29 +0000",
+      "content": "Un utilaj care se oprește nu trimite factura doar prin piesa care trebuie înlocuită. Costul real se adună din ore de producție pierdute, intervenții neplanificate, manoperă și consumuri care se repetă fără să rezolve cauza. De aceea, prețul unui lubrifiant este doar o mică parte din ceea ce trebuie urmărit într-un program de mentenanță.Lubrifierea utilajelor… https:// comunicatpresa.9z.ro/factura-n u-incepe-la-raftul-cu-lubrifianti/"
+    },
+    {
+      "title": "",
       "link": "https://social.5th.ro/@9z/117347311221662847",
       "date": "Mon, 28 Sep 2026 06:44:28 +0000",
       "content": "Începând cu 11 septembrie 2026, producătorii de software și hardware comercializate în Europa care intră sub incidența Cyber Resilience Act (CRA) trebuie să raporteze vulnerabilitățile exploatate activ și incidentele severe de securitate, cu o primă notificare în maximum 24 https:// comunicatpresa.9z.ro/de-la-11- septembrie-producatorii-de-software-si-echipamente-conectate-trebuie-sa-raporteze-vulnerabilitatile-exploatate-activ-cyber_folks-fara-monitorizare-continua-termenul-de-24-de-ore-devine-o/"
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@9z/117270052449657473",
       "date": "Mon, 14 Sep 2026 15:16:33 +0000",
       "content": "Vouchify centralizează cupoanele și codurile de reducere de la sute de magazine. Verifici oferte active și aplici promoțiile direct la checkout, fără costuri. https:// 9z.ro/ghid-vouchify-coduri-red ucere/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@9z/117265171123905407",
-      "date": "Sun, 13 Sep 2026 18:35:10 +0000",
-      "content": "Cine n-a mutat niciodata un apartament intreg are tendinta sa creada ca mutarea se rezuma la &quot;incarcam in duba si dus&quot;. Realitatea e ca transportul propriu-zis reprezinta doar o parte din proces, adesea nici macar cea mai complicata. O relocare completa implica un sir intreg de etape, fiecare cu propriile capcane. Iata ce se intampla,… https:// 9z.ro/mutarea-mobilei-nu-insea mna-doar-transport-ce-presupune-de-fapt-o-relocare/"
     }
   ]
 }

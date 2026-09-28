@@ -4,8 +4,14 @@
   "site_feed": "https://arta-constructiilor.ro/feed/",
   "mastodon": "https://social.5th.ro/@ArtaConstructiilor",
   "mastodon_rss": "https://social.5th.ro/@ArtaConstructiilor.rss",
-  "updated_at": "2026-09-28T06:52:30Z",
+  "updated_at": "2026-09-28T15:26:27Z",
   "site_posts": [
+    {
+      "title": "Aprovizionarea cu lubrifianți industriali – cum reduci erorile și opririle neplanificate",
+      "link": "https://arta-constructiilor.ro/aprovizionarea-cu-lubrifianti-industriali-cum-reduci-erorile-si-opririle-neplanificate/",
+      "date": "Mon, 28 Sep 2026 07:07:04 +0000",
+      "summary": "Într-o fabrică, lipsa unui lubrifiant potrivit nu se vede întotdeauna în aceeași zi. Uneori, utilajul continuă să lucreze, iar problema apare abia la următoarea oprire, &#8230; Articolul Aprovizionarea cu lubrifianți industriali &#8211; cum reduci erorile și opririle neplanificate apare prima dată în Arta Constructiilor ."
+    },
     {
       "title": "Lenjerii de pat pentru copii: confort, culoare și materiale de calitate",
       "link": "https://arta-constructiilor.ro/lenjerii-de-pat-pentru-copii-confort-culoare-si-materiale-de-calitate/",
@@ -59,15 +65,15 @@
       "link": "https://arta-constructiilor.ro/ghid-ferroli-ce-pompe-de-caldura-gasesti-si-cum-alegi-varianta-potrivita-pentru-casa-ta/",
       "date": "Fri, 28 Aug 2026 12:32:46 +0000",
       "summary": "Când începi să te documentezi despre pompele de căldură, descoperi rapid o mulțime de termeni tehnici: monobloc, split, hibrid, boiler integrat, sistem aer-apă. Pentru cineva &#8230; Articolul Ghid Ferroli: ce pompe de căldură găsești și cum alegi varianta potrivită pentru casa ta? apare prima dată în Arta Constructiilor ."
-    },
-    {
-      "title": "Cum controlezi bascularea de la distanță cu o comandă electrică?",
-      "link": "https://arta-constructiilor.ro/cum-controlezi-bascularea-de-la-distanta-cu-o-comanda-electrica/",
-      "date": "Thu, 27 Aug 2026 05:31:49 +0000",
-      "summary": "Ridicarea și coborârea benei pot fi urmărite mult mai ușor atunci când operatorul își alege poziția din care vede vehiculul și zona de descărcare. Acționarea &#8230; Articolul Cum controlezi bascularea de la distanță cu o comandă electrică? apare prima dată în Arta Constructiilor ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@ArtaConstructiilor/117347400058656252",
+      "date": "Mon, 28 Sep 2026 07:07:04 +0000",
+      "content": "Într-o fabrică, lipsa unui lubrifiant potrivit nu se vede întotdeauna în aceeași zi. Uneori, utilajul continuă să lucreze, iar problema apare abia la următoarea oprire, când lista de remedieri s-a lungit și costurile au crescut.Când consumul este mare, aprovizionarea cu lubrifianți industriali nu mai poate sta într-un tabel cu denumiri și cantități. Contează ce produs… .... 🌐 https:// arta-constructiilor.ro/aproviz ionarea-cu-lubrifianti-industriali-cum-reduci-erorile-si-opririle-neplanificate/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@ArtaConstructiilor/117337381612927897",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@ArtaConstructiilor/117161085260893065",
       "date": "Wed, 26 Aug 2026 09:24:46 +0000",
       "content": "La o renovare sau o amenajare de la zero, decizia despre cum se fixează pardoseala ajunge rar în prim-plan — și totuși ea influențează direct cât durează șantierul, cât de curat decurge lucrul și ce se întâmplă cu podeaua peste zece sau cincisprezece ani. Multă vreme, singura opțiune serioasă a fost adezivul lichid. Astăzi, benzile… .... 🌐 https:// arta-constructiilor.ro/parchet -mocheta-sau-pvc-adeziv-lichid-sau-banda-de-fixare-uscata-cum-alegi-corect/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@ArtaConstructiilor/117131931412887741",
-      "date": "Fri, 21 Aug 2026 05:50:33 +0000",
-      "content": "`Baia este una dintre incaperile in care confortul termic se simte imediat. Diferenta dintre temperatura din restul locuintei si cea dorita dupa un dus sau o baie poate face ca alegerea radiatorului sa fie mai importanta decat pare la prima vedere. In acelasi timp, spatiul disponibil este deseori limitat, iar caloriferul trebuie integrat printre obiectele… .... 🌐 https:// arta-constructiilor.ro/cum-ale gi-caloriferul-potrivit-pentru-o-baie-confortabila-si-moderna/"
     }
   ]
 }
