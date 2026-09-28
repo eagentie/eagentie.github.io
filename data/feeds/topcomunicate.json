@@ -4,8 +4,14 @@
   "site_feed": "https://topcomunicate.ro/feed/",
   "mastodon": "https://social.5th.ro/@topcomunicate_ro",
   "mastodon_rss": "https://social.5th.ro/@topcomunicate_ro.rss",
-  "updated_at": "2026-09-28T15:24:47Z",
+  "updated_at": "2026-09-28T21:58:31Z",
   "site_posts": [
+    {
+      "title": "De ce ecocardiografia este esențială în diagnosticul bolilor cardiace la Memorial România?",
+      "link": "https://topcomunicate.ro/ecocardiografie-memorial-romania/",
+      "date": "Mon, 28 Sep 2026 17:05:19 +0000",
+      "summary": "Descopera rolul ecocardiografiei in evaluarea functionala a inimii si cum monitorizarea periodica la Memorial Romania poate preveni complicatiile. The post De ce ecocardiografia este esențială în diagnosticul bolilor cardiace la Memorial România? appeared first on Comunicate de presa ."
+    },
     {
       "title": "Cum împachetezi corect produsele pentru livrare, astfel încât să ajungă în siguranță? 5 idei practice",
       "link": "https://topcomunicate.ro/ambalare-produse-livrare/",
@@ -71,15 +77,15 @@
       "link": "https://topcomunicate.ro/cum-inveti-sa-anticipezi-greselile-celorlalti-participanti-la-trafic/",
       "date": "Sat, 22 Aug 2026 10:21:00 +0000",
       "summary": "Un șofer atent nu urmărește doar ce se întâmplă în fața lui. Observă și ce ar putea... The post Cum înveți să anticipezi greșelile celorlalți participanți la trafic appeared first on Comunicate de presa ."
-    },
-    {
-      "title": "Airsoft pentru prima dată: ce trebuie să știi înainte să intri pe teren",
-      "link": "https://topcomunicate.ro/airsoft-pentru-prima-data-ce-trebuie-sa-stii-inainte-sa-intri-pe-teren/",
-      "date": "Thu, 20 Aug 2026 05:10:44 +0000",
-      "summary": "Prima sesiune de airsoft începe cu regulile de siguranță și cu familiarizarea cu echipamentul. Abia după aceea... The post Airsoft pentru prima dată: ce trebuie să știi înainte să intri pe teren appeared first on Comunicate de presa ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@topcomunicate_ro/117349752677020601",
+      "date": "Mon, 28 Sep 2026 17:05:22 +0000",
+      "content": "⭐ Descopera rolul ecocardiografiei in evaluarea functionala a inimii si cum monitorizarea periodica la Memorial Romania poate preveni complicatiile. 🔗 Detalii aici: https:// topcomunicate.ro/ecocardiograf ie-memorial-romania/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@topcomunicate_ro/117332425678197745",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@topcomunicate_ro/117156384715015248",
       "date": "Tue, 25 Aug 2026 13:29:21 +0000",
       "content": "⭐ Sunt lucrări care nu se termină întotdeauna cât timp este lumină afară. Uneori mai trebuie montat ceva în curte, verificată o zonă din garaj, continuată o lucrare pe șantier sau luminat un spațiu exterior unde becul clasic nu ajunge. În astfel de situații, un proiector LED bine ales poate face diferența dintre o activitate incomodă… 🔗 Detalii aici: https:// topcomunicate.ro/proiectorul-l ed-lumina-care-schimba-complet-modul-in-care-lucrezi-dupa-lasarea-serii/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@topcomunicate_ro/117126836784744929",
-      "date": "Thu, 20 Aug 2026 08:14:56 +0000",
-      "content": "⭐ Prima sesiune de airsoft începe cu regulile de siguranță și cu familiarizarea cu echipamentul. Abia după aceea vin țintele, precizia și încercarea de a obține rezultate mai bune de la o serie la alta.Pentru cine nu a mai încercat această activitate, airsoftul poate părea apropiat de paintball. Există însă diferențe de echipament și de desfășurare.… 🔗 Mai mult: https:// topcomunicate.ro/airsoft-pentr u-prima-data-ce-trebuie-sa-stii-inainte-sa-intri-pe-teren/"
     }
   ]
 }
