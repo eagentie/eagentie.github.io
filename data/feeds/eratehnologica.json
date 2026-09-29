@@ -4,8 +4,14 @@
   "site_feed": "https://EraTehnologica.ro/feed/",
   "mastodon": "https://social.5th.ro/@eratehnologica",
   "mastodon_rss": "https://social.5th.ro/@eratehnologica.rss",
-  "updated_at": "2026-09-29T01:57:07Z",
+  "updated_at": "2026-09-29T08:27:58Z",
   "site_posts": [
+    {
+      "title": "Telefon second hand sau recondiționat: cum alegi?",
+      "link": "https://eratehnologica.ro/telefon-second-hand-sau-reconditionat/",
+      "date": "Tue, 29 Sep 2026 07:32:01 +0000",
+      "summary": "Un smartphone folosit nu este același lucru cu unul recondiționat. Ce înseamnă fiecare variantă, cum verifici bateria, istoricul reparațiilor, blocarea conturilor și funcțiile de bază înainte de plată. Articolul Telefon second hand sau recondiționat: cum alegi? apare prima dată în Era Tehnologica ."
+    },
     {
       "title": "De unde cumperi echipamentele de securitate DIY?",
       "link": "https://eratehnologica.ro/de-unde-cumperi-echipamentele-de-securitate-diy/",
@@ -71,15 +77,15 @@
       "link": "https://eratehnologica.ro/cum-masori-performanta-unui-advertorial-seo-in-2025/",
       "date": "Mon, 01 Dec 2025 12:07:49 +0000",
       "summary": "Răspuns rapid pentru Featured Snippet: Performanța unui advertorial SEO se măsoară prin trei piloni principali în 2025: 1) Analiza detaliată&#8230; Articolul Cum măsori performanța unui advertorial SEO în 2025 apare prima dată în Era Tehnologica ."
-    },
-    {
-      "title": "Ce amenzi pot primi companiile pentru nerespectarea obligațiilor de mediu­­",
-      "link": "https://eratehnologica.ro/ce-amenzi-pot-primi-companiile-pentru-nerespectarea-obligatiilor-de-mediu/",
-      "date": "Thu, 27 Nov 2025 15:01:50 +0000",
-      "summary": "&#206;n contextul &#238;n care legislația de mediu se &#238;năsprește de la un an la altul, gestionarea corectă a deșeurilor devine&#8230; Articolul Ce amenzi pot primi companiile pentru nerespectarea obligațiilor de mediu­­ apare prima dată în Era Tehnologica ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@eratehnologica/117353160506385739",
+      "date": "Tue, 29 Sep 2026 07:32:01 +0000",
+      "content": "Un smartphone folosit nu este același lucru cu unul recondiționat. Ce înseamnă fiecare variantă, cum verifici bateria, istoricul reparațiilor, blocarea conturilor și funcțiile de bază înainte de plată. .... https:// eratehnologica.ro/telefon-seco nd-hand-sau-reconditionat/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@eratehnologica/117167318121900258",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@eratehnologica/115797209272700704",
       "date": "Sun, 28 Dec 2025 12:33:10 +0000",
       "content": "/tmp/tmppg_rmtj6.html .... https:// eratehnologica.ro/tratamente-f aciale-in-sarcina-ce-e-sigur-si-ce-nu/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@eratehnologica/115797209157601744",
-      "date": "Sun, 28 Dec 2025 12:33:08 +0000",
-      "content": "/tmp/tmpgkq0akbc.html .... https:// eratehnologica.ro/implant-dent ar-rapid-dinti-ficsi-in-24-de-ore/"
     }
   ]
 }

@@ -4,8 +4,14 @@
   "site_feed": "https://constructii360.ro/feed/",
   "mastodon": "https://social.5th.ro/@constructii360",
   "mastodon_rss": "https://social.5th.ro/@constructii360.rss",
-  "updated_at": "2026-09-29T01:56:16Z",
+  "updated_at": "2026-09-29T08:27:18Z",
   "site_posts": [
+    {
+      "title": "Deviz pentru renovare: ce verifici înainte de lucrări",
+      "link": "https://constructii360.ro/deviz-renovare-verificari/",
+      "date": "Tue, 29 Sep 2026 04:57:36 +0000",
+      "summary": "Două echipe pot propune prețuri foarte diferite pentru aceeași renovare, fără să includă aceleași lucrări. Un deviz util precizează cantități, materiale, manoperă, excluderi, termene și modul în care se aprobă modificările apărute pe șantier. Articolul Deviz pentru renovare: ce verifici înainte de lucrări apare prima dată în Constructii 360 ."
+    },
     {
       "title": "Curs arhitecți și curs ingineri: proiectarea corectă a locuințelor",
       "link": "https://constructii360.ro/curs-arhitecti-si-curs-ingineri-2026/",
@@ -59,15 +65,15 @@
       "link": "https://constructii360.ro/tcl-breezein-ultra-24000-btu-este-o-alegere-excelenta-pentru-spatiile-mari/",
       "date": "Wed, 17 Jun 2026 09:51:21 +0000",
       "summary": "Să găsești un aparat de aer condiționat care să facă față cu brio spațiilor generoase, Articolul De ce TCL BreezeIN Ultra 24000 BTU este o alegere excelentă pentru spațiile mari apare prima dată în Constructii 360 ."
-    },
-    {
-      "title": "De la pasiune la cercetare aplicată: un elev Am School construiește și pregătește lansarea unei rachete",
-      "link": "https://constructii360.ro/de-la-pasiune-la-cercetare-aplicata-un-elev-am-school-construieste-si-pregateste-lansarea-unei-rachete/",
-      "date": "Tue, 02 Jun 2026 11:19:38 +0000",
-      "summary": "Erik Culescu, elev &#238;n clasa a XII-a, pasionat de astronomie, inginerie aerospațială și tehnologie, pregătește Articolul De la pasiune la cercetare aplicată: un elev Am School construiește și pregătește lansarea unei rachete apare prima dată în Constructii 360 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@constructii360/117352553322537179",
+      "date": "Tue, 29 Sep 2026 04:57:37 +0000",
+      "content": "🆕Două echipe pot propune prețuri foarte diferite pentru aceeași renovare, fără să includă aceleași lucrări. Un deviz util precizează cantități, materiale, manoperă, excluderi, termene și modul în care se aprobă modificările apărute pe șantier. https:// constructii360.ro/deviz-renova re-verificari/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@constructii360/117251713618796687",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@constructii360/116650920186559228",
       "date": "Thu, 28 May 2026 07:03:05 +0000",
       "content": "🆕Sursa: freepik Există bucătării mari în care totul pare înghesuit și există bucătării mici în care ai impresia că fiecare lucru este exact unde trebuie. Diferența nu stă mereu în metri pătrați, ci în felul în care îți organizezi spațiul și în alegerile pe care le faci zi de zi. Dacă simți că în bucătăria… https:// constructii360.ro/cum-faci-mai -mult-loc-si-mai-putin-haos-in-zona-de-gatit/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@constructii360/116549704943284144",
-      "date": "Sun, 10 May 2026 10:02:43 +0000",
-      "content": "🆕Ai simțit vreodată o durere abdominală atât de intensă încât te-a pus la pământ? Astfel de momente sunt extrem de alarmante și pot indica o problemă medicală severă care nu suportă amânare. Intervenția rapidă este adesea factorul decisiv între o recuperare ușoară și complicații majore. Dacă te afli în capitală, accesul la servicii de chirurgie… https:// constructii360.ro/cele-mai-fre cvente-situatii-care-pot-necesita-chirurgie-de-urgenta/"
     }
   ]
 }
