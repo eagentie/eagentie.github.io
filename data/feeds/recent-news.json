@@ -4,7 +4,7 @@
   "site_feed": "https://recent-news.ro/feed/",
   "mastodon": "https://social.5th.ro/@recent_news",
   "mastodon_rss": "https://social.5th.ro/@recent_news.rss",
-  "updated_at": "2026-09-30T13:40:20Z",
+  "updated_at": "2026-09-30T19:17:00Z",
   "site_posts": [
     {
       "title": "Plata în rate la încălțăminte: când are sens și ce verifici înainte să alegi opțiunea",
@@ -29,6 +29,12 @@
       "link": "https://recent-news.ro/patru-arii-de-lucru-cu-ochii-pe-relatia-pe-termen-lung/",
       "date": "Sat, 12 Sep 2026 05:57:23 +0000",
       "summary": "COMUNICAT DE PRESĂ Matricea Succesului Timișoara: consultanții în asigurări descoperă pe 29 septembrie cum își construiesc un portofoliu stabil Evenimentul&#8230; Articolul Patru arii de lucru, cu ochii pe relația pe termen lung apare prima dată în Recent News ."
+    },
+    {
+      "title": "Piața rezidențială încetinește dar prețurile nu coboară. De ce?",
+      "link": "https://recent-news.ro/piata-rezidentiala-incetineste-dar-preturile-nu-coboara-de-ce/",
+      "date": "Fri, 11 Sep 2026 21:31:00 +0000",
+      "summary": "În primele luni din 2026, numărul tranzacțiilor rezidențiale a scăzut, dar prețurile apartamentelor noi din București au rămas ridicate. Situația&#8230; Articolul Piața rezidențială încetinește dar prețurile nu coboară. De ce? apare prima dată în Recent News ."
     },
     {
       "title": "Camping și locații izolate: cum se rezolvă problema apei și a canalizării",
@@ -59,15 +65,15 @@
       "link": "https://recent-news.ro/diverticulita-complicata-cand-poate-fi-nevoie-de-tratament-chirurgical/",
       "date": "Tue, 23 Jun 2026 08:05:55 +0000",
       "summary": "Articol informativ pentru pacienți din București despre diverticulita complicată și momentele în care este necesară consultarea unui specialist. Articolul Diverticulita complicată: când poate fi nevoie de tratament chirurgical apare prima dată în Recent News ."
-    },
-    {
-      "title": "De ce sunt ușile culisante din aluminiu o opțiune excelentă pentru living?",
-      "link": "https://recent-news.ro/de-ce-sunt-usile-culisante-din-aluminiu-o-optiune-excelenta-pentru-living/",
-      "date": "Mon, 22 Jun 2026 12:42:27 +0000",
-      "summary": "Livingul reprezintă inima oricărei locuințe moderne. Aici îți petreci cel mai mult timp liber, te relaxezi alături de familie și&#8230; Articolul De ce sunt ușile culisante din aluminiu o opțiune excelentă pentru living? apare prima dată în Recent News ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@recent_news/117360609830913261",
+      "date": "Wed, 30 Sep 2026 15:06:29 +0000",
+      "content": "În primele luni din 2026, numărul tranzacțiilor rezidențiale a scăzut, dar prețurile apartamentelor noi din București au rămas ridicate. Situația poate părea contradictorie. Într-o piață în care cumpărătorii decid mai greu și creditarea limitează o parte din cerere, prețurile ar trebui, în teorie, să scadă mai repede.În practică, oferta de locuințe noi este mai mică… https:// recent-news.ro/piata-rezidenti ala-incetineste-dar-preturile-nu-coboara-de-ce/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@recent_news/117349744833668941",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@recent_news/116793517476299598",
       "date": "Mon, 22 Jun 2026 11:27:27 +0000",
       "content": "Planurile pentru concediu încep adesea cu o listă lungă de dorințe. Vrei o plajă curată, cazare confortabilă, mâncare bună și un drum care să nu te lase fără energie înainte de a ajunge la destinație. Bulgaria bifează toate aceste cerințe de ani de zile. Turiștii români revin aici în fiecare sezon estival, dar și în… https:// recent-news.ro/de-ce-bulgaria- ramane-una-dintre-cele-mai-populare-destinatii-pentru-romani/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@recent_news/116771288558777249",
-      "date": "Thu, 18 Jun 2026 13:14:20 +0000",
-      "content": "Piața rezidențială premium din București s-a schimbat semnificativ în ultimii ani. Dacă în trecut cumpărătorii puneau accent în primul rând pe suprafața locuinței și pe preț, în prezent criteriile de selecție sunt mult mai complexe. Zona în care este amplasată proprietatea, apropierea de centrele de afaceri, existența spațiilor verzi, calitatea construcției și potențialul investițional sunt… https:// recent-news.ro/ce-caracteristi ci-definesc-o-investitie-imobiliara-premium-in-bucuresti/"
     }
   ]
 }

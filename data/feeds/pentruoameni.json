@@ -4,8 +4,14 @@
   "site_feed": "https://pentruoameni.ro/feed/",
   "mastodon": "https://social.5th.ro/@pentruoameni",
   "mastodon_rss": "https://social.5th.ro/@pentruoameni.rss",
-  "updated_at": "2026-09-30T13:40:16Z",
+  "updated_at": "2026-09-30T19:16:57Z",
   "site_posts": [
+    {
+      "title": "Omaly, un nou brand românesc și o nouă perspectivă asupra comerțului online",
+      "link": "https://pentruoameni.ro/omaly-un-nou-brand-romanesc-si-o-noua-perspectiva-asupra-comertului-online/",
+      "date": "Wed, 30 Sep 2026 18:09:22 +0000",
+      "summary": "Cumpărăturile online au devenit atât de firești, încât pentru mulți consumatori procesul începe înainte de a ști exact ce vor cumpăra. O căutare pe Google, o ofertă care atrage atenția sau un produs întâlnit întâmplător pot fi suficiente pentru a porni o sesiune de shopping. Într-un spațiu digital în care oferta este aproape nelimitată, diferența [&#8230;] Articolul Omaly, un nou brand românesc și o nouă perspectivă asupra comerțului online apare prima dată în Pentru Oameni ."
+    },
     {
       "title": "Premieră în România: primul hackathon multidisciplinar dedicat soluțiilor pentru siguranța elevilor",
       "link": "https://pentruoameni.ro/premiera-in-romania-primul-hackathon-multidisciplinar-dedicat-solutiilor-pentru-siguranta-elevilor/",
@@ -71,15 +77,15 @@
       "link": "https://pentruoameni.ro/pofta-de-dulce-de-la-ora-1700-ce-i-in-spatele-ei-si-cum-o-imblanzesti/",
       "date": "Mon, 22 Jun 2026 08:07:06 +0000",
       "summary": "Pofta de dulce care apare aproape zilnic în jurul orei 17:00 nu este doar o întâmplare și nici un semn că „ți-ai pierdut voința”. Mulți oameni observă același lucru: după o zi de muncă, când energia începe să scadă, gândul la o ciocolată, câțiva biscuiți sau o prăjitură devine surprinzător de greu de ignorat. De [&#8230;] Articolul Pofta de dulce de la ora 17:00: ce-i în spatele ei și cum o îmblânzești apare prima dată în Pentru Oameni ."
-    },
-    {
-      "title": "Cele mai căutate zone rezidențiale din nordul Capitalei pentru un stil de viață modern",
-      "link": "https://pentruoameni.ro/cele-mai-cautate-zone-rezidentiale-din-nordul-capitalei-pentru-un-stil-de-viata-modern/",
-      "date": "Sun, 07 Jun 2026 13:18:00 +0000",
-      "summary": "Achiziția unei locuințe premium reprezintă una dintre cele mai importante decizii financiare și personale pe care o poate lua o familie sau un investitor. &#206;n ultimii ani, nordul Bucureștiului a devenit polul principal al dezvoltărilor rezidențiale moderne, atrăg&#226;nd cumpărători interesați de confort, accesibilitate și un mediu urban de &#238;naltă calitate. Zone precum Aviației, Băneasa și [&#8230;] Articolul Cele mai căutate zone rezidențiale din nordul Capitalei pentru un stil de viață modern apare prima dată în Pentru Oameni ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@pentruoameni/117361329167349017",
+      "date": "Wed, 30 Sep 2026 18:09:25 +0000",
+      "content": "Cumpărăturile online au devenit atât de firești, încât pentru mulți consumatori procesul începe înainte de a ști exact ce vor cumpăra. O căutare pe Google, o ofertă care atrage atenția sau un produs întâlnit întâmplător pot fi suficiente pentru a porni o sesiune de shopping. Într-un spațiu digital în care oferta este aproape nelimitată, diferența… .... https:// pentruoameni.ro/omaly-un-nou-b rand-romanesc-si-o-noua-perspectiva-asupra-comertului-online/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@pentruoameni/117326280597070421",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@pentruoameni/116793522652224788",
       "date": "Mon, 22 Jun 2026 11:28:46 +0000",
       "content": "Tenerife pare adesea o destinație exclusivistă, asociată cu hoteluri de lux și cheltuieli extravagante. Insula Primăverii Veșnice ascunde însă opțiuni excelente pentru călătorii care vor să exploreze peisaje vulcanice și plaje celebre fără să își diminueze prea mult conturile. Planificarea inteligentă transformă această insulă spaniolă într-un loc accesibil pentru orice buzunar. Secretul unei călătorii ieftine… .... https:// pentruoameni.ro/cum-organizezi -o-vacanta-in-tenerife-cu-buget-redus/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@pentruoameni/116792729850266208",
-      "date": "Mon, 22 Jun 2026 08:07:08 +0000",
-      "content": "Pofta de dulce care apare aproape zilnic în jurul orei 17:00 nu este doar o întâmplare și nici un semn că „ți-ai pierdut voința”. Mulți oameni observă același lucru: după o zi de muncă, când energia începe să scadă, gândul la o ciocolată, câțiva biscuiți sau o prăjitură devine surprinzător de greu de ignorat. De… .... https:// pentruoameni.ro/pofta-de-dulce -de-la-ora-1700-ce-i-in-spatele-ei-si-cum-o-imblanzesti/"
     }
   ]
 }
