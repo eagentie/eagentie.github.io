@@ -4,8 +4,14 @@
   "site_feed": "https://topantreprenor.ro/feed/",
   "mastodon": "https://social.5th.ro/@topantreprenor",
   "mastodon_rss": "https://social.5th.ro/@topantreprenor.rss",
-  "updated_at": "2026-09-30T06:41:57Z",
+  "updated_at": "2026-09-30T13:41:46Z",
   "site_posts": [
+    {
+      "title": "Meta titlu: Primul control fiscal al unei firme mici: ghid calm și practic",
+      "link": "https://topantreprenor.ro/ghid-control-fiscal-firme-mici/",
+      "date": "Wed, 30 Sep 2026 10:39:40 +0000",
+      "summary": "Identifica tipul verificarii, pregateste dosarul si coordoneaza comunicarea cu inspectorii. Ghid pas cu pas pentru antreprenori. The post Meta titlu: Primul control fiscal al unei firme mici: ghid calm și practic appeared first on Top Antreprenor ."
+    },
     {
       "title": "Cum pot magazinele online să devină mai eficiente în campaniile de Google Shopping",
       "link": "https://topantreprenor.ro/magazine-online-google-shopping-css/",
@@ -59,15 +65,15 @@
       "link": "https://topantreprenor.ro/relatiile-la-distanta-pot-functiona-atunci-cand-doi-oameni-se-iubesc/",
       "date": "Thu, 03 Sep 2026 13:31:03 +0000",
       "summary": "Se spune că dragostea nu ține cont de distanță. Foarte frumos spus… până când unul locuiește în București, celălalt în Cluj, iar „ne vedem diseară?” se transformă într-un plan de călătorie cu trenul, două cafele și puțină răbdare. Dar adevărul este că relațiile la distanță pot funcționa, uneori chiar foarte bine, atunci când între doi [&#8230;] The post Relațiile la distanță: pot funcționa atunci când doi oameni se iubesc? appeared first on Top Antreprenor ."
-    },
-    {
-      "title": "Cum creezi conținut care nu se pierde în avalanșa de AI",
-      "link": "https://topantreprenor.ro/cum-creezi-continut-care-nu-se-pierde-in-avalansa-de-ai/",
-      "date": "Sat, 29 Aug 2026 18:48:02 +0000",
-      "summary": "Inteligența artificială a schimbat radical modul în care este creat conținutul online. Un articol poate fi generat în câteva secunde, o imagine poate apărea după introducerea câtorva instrucțiuni, iar pentru realizarea unui videoclip nu mai este întotdeauna nevoie de o cameră, o locație sau chiar de o persoană reală. Rezultatul? Online apare mai mult conținut [&#8230;] The post Cum creezi conținut care nu se pierde în avalanșa de AI appeared first on Top Antreprenor ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@topantreprenor/117359560688617342",
+      "date": "Wed, 30 Sep 2026 10:39:41 +0000",
+      "content": "📰Identifica tipul verificarii, pregateste dosarul si coordoneaza comunicarea cu inspectorii. Ghid pas cu pas pentru antreprenori. 🌐 https:// topantreprenor.ro/ghid-control -fiscal-firme-mici/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@topantreprenor/117332663223692860",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@topantreprenor/117196127580836338",
       "date": "Tue, 01 Sep 2026 13:56:29 +0000",
       "content": "📰Punctele de penalizare se pot aduna fără să le urmărești ușor din memorie. Primești două puncte pentru o abatere, alte trei după câteva luni, iar între timp unele sancțiuni mai vechi pot ieși din calcul. Dacă vrei să știi situația actuală, nu mai este nevoie să mergi la poliția rutieră doar pentru această informație.Ministerul Afacerilor… 🌐 https:// topantreprenor.ro/cum-verifici -online-cate-puncte-de-penalizare-ai-acumulat-pe-permis/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@topantreprenor/117180287092857908",
-      "date": "Sat, 29 Aug 2026 18:48:03 +0000",
-      "content": "📰Inteligența artificială a schimbat radical modul în care este creat conținutul online. Un articol poate fi generat în câteva secunde, o imagine poate apărea după introducerea câtorva instrucțiuni, iar pentru realizarea unui videoclip nu mai este întotdeauna nevoie de o cameră, o locație sau chiar de o persoană reală. Rezultatul? Online apare mai mult conținut… 🌐 https:// topantreprenor.ro/cum-creezi-c ontinut-care-nu-se-pierde-in-avalansa-de-ai/"
     }
   ]
 }
