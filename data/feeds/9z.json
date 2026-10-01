@@ -4,7 +4,7 @@
   "site_feed": "https://9z.ro/feed/",
   "mastodon": "https://social.5th.ro/@9z",
   "mastodon_rss": "https://social.5th.ro/@9z.rss",
-  "updated_at": "2026-10-01T08:55:14Z",
+  "updated_at": "2026-10-01T16:27:12Z",
   "site_posts": [
     {
       "title": "De ce contează tehnologia folosită la un RMN? Ce explică echipa Medikali?",
@@ -70,6 +70,12 @@
   "mastodon_posts": [
     {
       "title": "",
+      "link": "https://social.5th.ro/@9z/117365809681242315",
+      "date": "Thu, 01 Oct 2026 13:08:53 +0000",
+      "content": "Pentru multi soferi, o defectiune auto apare exact atunci cand bugetul nu este pregatit pentru o reparatie importanta. In astfel de situatii, alegerea pieselor potrivite devine la fel de importanta ca interventia mecanicului. Nu orice componenta trebuie cumparata noua, mai ales atunci cand pe piata exista piese originale provenite din dezmembrari, verificate si identificate https:// comunicatpresa.9z.ro/cum-pot-r educe-soferii-costurile-reparatiilor-auto-fara-sa-faca-compromisuri-importante/"
+    },
+    {
+      "title": "",
       "link": "https://social.5th.ro/@9z/117364569778848932",
       "date": "Thu, 01 Oct 2026 07:53:33 +0000",
       "content": "Descopera cum generatia aparatului si softul de procesare modifica durata investigatiei si nivelul de disconfort. Informatii clare despre beneficiile tehnologiei moderne. https:// 9z.ro/tehnologia-folosita-la-r mn/"
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@9z/117313956514705516",
       "date": "Tue, 22 Sep 2026 09:21:56 +0000",
       "content": "Sistemul cu portal ofera un model de business predictibil, cu timpi de ciclu scurti si cheltuieli operationale controlate. https:// 9z.ro/avantaje-spalatoriilor-p ortal/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@9z/117308457020611251",
-      "date": "Mon, 21 Sep 2026 10:03:20 +0000",
-      "content": "Biletele de avion către plajele din Phuket, recifele de corali din Marea Roșie sau țărmurile din Zanzibar aduc promisiunea unei evadări totale din rutina zilnică. Trecerea pe un alt continent vine la pachet cu un șoc termic, reguli de circulație diferite și o cultură culinară complet nouă. În entuziasmul pregătirilor pentru vacanța mult visată, mulți… https:// 9z.ro/de-ce-vacantele-in-thail anda-egipt-sau-zanzibar-cer-atentie-sporita-la-suma-asigurata-pe-contract/"
     }
   ]
 }

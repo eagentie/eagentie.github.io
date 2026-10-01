@@ -4,8 +4,14 @@
   "site_feed": "https://clasici.ro/feed/",
   "mastodon": "https://social.5th.ro/@clasici",
   "mastodon_rss": "https://social.5th.ro/@clasici.rss",
-  "updated_at": "2026-10-01T08:54:15Z",
+  "updated_at": "2026-10-01T16:26:09Z",
   "site_posts": [
+    {
+      "title": "AMOLED vs. OLED vs. TFT/LCD: Care e diferența, ce ecran este mai rezistent și de ce au toate nevoie de protecție?",
+      "link": "https://clasici.ro/amoled-vs-oled-vs-tft-lcd-care-e-diferenta-ce-ecran-este-mai-rezistent-si-de-ce-au-toate-nevoie-de-protectie/",
+      "date": "Thu, 01 Oct 2026 15:46:49 +0000",
+      "summary": "Când vine vorba de ecranul smartphone-ului tău, tehnologia folosită influențează direct totul: de la intensitatea..."
+    },
     {
       "title": "Negociere preț second hand: cum faci o ofertă corectă fără să pierzi produsul",
       "link": "https://clasici.ro/negociere-pret-second-hand-oferta-corecta/",
@@ -71,15 +77,15 @@
       "link": "https://clasici.ro/diagnosticarea-problemelor-la-sistemul-4x4-si-unitatea-haldex/",
       "date": "Tue, 16 Dec 2025 08:45:42 +0000",
       "summary": "Sistemele de tracțiune integrală care echipează modelele Range Rover moderne, în special cele compacte precum..."
-    },
-    {
-      "title": "Top 7 cele mai îndrăgite puzzle-uri de către copii (și părinți)",
-      "link": "https://clasici.ro/top-7-cele-mai-indragite-puzzle-uri-de-catre-copii-si-parinti/",
-      "date": "Wed, 03 Dec 2025 10:36:24 +0000",
-      "summary": "Ce facem c&#226;nd vrem să alegem un puzzle care să st&#226;rnească entuziasmul instant al copilului?..."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@clasici/117366430979849678",
+      "date": "Thu, 01 Oct 2026 15:46:53 +0000",
+      "content": "⭐Când vine vorba de ecranul smartphone-ului tău, tehnologia folosită influențează direct totul: de la intensitatea culorilor și consumul bateriei, până la vizibilitatea în lumina soarelui și costul de reparație în caz de accident. Pe piață există mai multe tipuri de afișaje, însă cele mai întâlnite pe telefoanele actuale sunt TFT/LCD, OLED și AMOLED.Care este ⭐ https:// clasici.ro/amoled-vs-oled-vs-t ft-lcd-care-e-diferenta-ce-ecran-este-mai-rezistent-si-de-ce-au-toate-nevoie-de-protectie/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@clasici/117257382290776461",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@clasici/115728367250146033",
       "date": "Tue, 16 Dec 2025 08:45:44 +0000",
       "content": "⭐Sistemele de tracțiune integrală care echipează modelele Range Rover moderne, în special cele compacte precum Evoque sau Discovery Sport, se bazează pe tehnologia avansată a cuplajului Haldex pentru a livra performanța off-road promisă. Această unitate electro-hidraulică gestionează transferul de cuplu către puntea spate, asigurând aderența pe suprafețe alunecoase și stabilitatea în viraje.Cu toate acestea, ⭐ https:// clasici.ro/diagnosticarea-prob lemelor-la-sistemul-4x4-si-unitatea-haldex/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@clasici/115694858911062433",
-      "date": "Wed, 10 Dec 2025 10:44:07 +0000",
-      "content": "⭐Ce facem când vrem să alegem un puzzle care să stârnească entuziasmul instant al copilului? Ne uităm la cele mai iubite modele, testate deja de micii exploratori! Am pregătit un top 7 al puzzle-urilor care adună zâmbete, aplauze și... piese sub canapea (dar cu dragoste!). Toate recomandările sunt disponibile pe starbaby.ro/puzzle, unde găsești și alte… # puzzlepawpatrol # puzzletop ⭐ https:// clasici.ro/top-7-cele-mai-indr agite-puzzle-uri-de-catre-copii-si-parinti/"
     }
   ]
 }
