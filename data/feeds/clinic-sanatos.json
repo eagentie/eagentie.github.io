@@ -4,8 +4,14 @@
   "site_feed": "https://clinic-sanatos.ro/feed/",
   "mastodon": "https://social.5th.ro/@clinic_sanatos",
   "mastodon_rss": "https://social.5th.ro/@clinic_sanatos.rss",
-  "updated_at": "2026-10-01T02:09:23Z",
+  "updated_at": "2026-10-01T08:54:43Z",
   "site_posts": [
+    {
+      "title": "„Sigur am făcut eu ceva greșit”. De ce analizăm obsesiv conversațiile după ce s-au terminat",
+      "link": "https://clinic-sanatos.ro/sigur-am-facut-eu-ceva-gresit-de-ce-analizam-obsesiv-conversatiile-dupa-ce-s-au-terminat/",
+      "date": "Thu, 01 Oct 2026 07:54:25 +0000",
+      "summary": "Ore mai târziu, poate chiar zile, mintea continuă să reia o scenă sau un mesaj,... Articolul „Sigur am făcut eu ceva greșit”. De ce analizăm obsesiv conversațiile după ce s-au terminat apare prima dată în Clinic Sanatos ."
+    },
     {
       "title": "Novo Nordisk intră într-o nouă etapă de dezvoltare, susținută de rebrandingul „Novo” și de actualizarea culturii organizaționale",
       "link": "https://clinic-sanatos.ro/novo-nordisk-intra-intr-o-noua-etapa-de-dezvoltare-sustinuta-de-rebrandingul-novo-si-de-actualizarea-culturii-organizationale/",
@@ -71,15 +77,15 @@
       "link": "https://clinic-sanatos.ro/strategii-pentru-fortificarea-rezistentei-celor-mici-in-fata-virozelor/",
       "date": "Tue, 17 Feb 2026 12:29:20 +0000",
       "summary": "Odată cu scăderea temperaturilor și reîntoarcerea în colectivitate, sistemul defensiv al copilului tău intră într-o... Articolul Strategii pentru fortificarea rezistenței celor mici în fața virozelor apare prima dată în Clinic Sanatos ."
-    },
-    {
-      "title": "Rinita alergica – De ce este mai mult decat o simpla raceala si cand trebuie tratata corect",
-      "link": "https://clinic-sanatos.ro/rinita-alergica-de-ce-este-mai-mult-decat-o-simpla-raceala-si-cand-trebuie-tratata-corect/",
-      "date": "Tue, 10 Feb 2026 19:07:17 +0000",
-      "summary": "Rinita alergica este una dintre cele mai frecvente afectiuni respiratorii, dar si una dintre cele... Articolul Rinita alergica – De ce este mai mult decat o simpla raceala si cand trebuie tratata corect apare prima dată în Clinic Sanatos ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@clinic_sanatos/117364573425159166",
+      "date": "Thu, 01 Oct 2026 07:54:29 +0000",
+      "content": "Ore mai târziu, poate chiar zile, mintea continuă să reia o scenă sau un mesaj, căutând semnale ratate, cuvinte care ar fi putut suna altfel, tonuri de voce interpretate și reinterpretate. Fenomenul are un nume în cercetarea psihologică, procesarea posteveniment, și descrie exact această tendință de a rumina obsesiv asupra interacțiunilor sociale, mult după ce… .... https:// clinic-sanatos.ro/sigur-am-fac ut-eu-ceva-gresit-de-ce-analizam-obsesiv-conversatiile-dupa-ce-s-au-terminat/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@clinic_sanatos/117281049411702720",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@clinic_sanatos/116047900883493244",
       "date": "Tue, 10 Feb 2026 19:07:20 +0000",
       "content": "Rinita alergica este una dintre cele mai frecvente afectiuni respiratorii, dar si una dintre cele mai subestimate. Multi pacienti o confunda cu o raceala banala sau cu o sensibilitate sezoniera, ignorand impactul real pe care il are asupra calitatii vietii. Congestia nazala persistenta, stranutul repetat, secretiile abundente si senzatia de nas infundat pot deveni probleme… .... https:// clinic-sanatos.ro/rinita-alerg ica-de-ce-este-mai-mult-decat-o-simpla-raceala-si-cand-trebuie-tratata-corect/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@clinic_sanatos/115922095258431641",
-      "date": "Mon, 19 Jan 2026 13:53:19 +0000",
-      "content": "Mixit oferă peste 150 de produse vegane pentru un 2026 echilibrat La început de an, tot mai mulți oameni își propun să mănânce mai echilibrat, să reducă produsele de origine animală și să aleagă ingrediente curate, funcționale și ușor de integrat în rutina zilnică. Pentru cei care vor să introducă produse vegane în alimentația lor,… .... https:// clinic-sanatos.ro/de-la-mic-de jun-la-gustari/"
     }
   ]
 }

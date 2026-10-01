@@ -4,8 +4,14 @@
   "site_feed": "https://noutati24.ro/feed/",
   "mastodon": "https://social.5th.ro/@noutati24",
   "mastodon_rss": "https://social.5th.ro/@noutati24.rss",
-  "updated_at": "2026-10-01T02:08:44Z",
+  "updated_at": "2026-10-01T08:54:04Z",
   "site_posts": [
+    {
+      "title": "Alocuțiunea premierului Ilie Bolojan la ședința comună a Camerei Deputaților și Senatului",
+      "link": "https://noutati24.ro/alocutiunea-premierului-ilie-bolojan-la-sedinta-comuna-a-camerei-deputatilor-si-senatului/",
+      "date": "Wed, 30 Sep 2026 14:30:00 +0000",
+      "summary": "Galerie foto [embedded content] [Check against delivery] Ilie Bolojan: Doamnelor și domnilor, suntem aici să găsim o soluție pentru încheierea &#8230; Articolul Alocuțiunea premierului Ilie Bolojan la ședința comună a Camerei Deputaților și Senatului apare prima dată în Noutati 24 ."
+    },
     {
       "title": "Căsătoria făcută pe plajă în străinătate – recunoscută în Româina?",
       "link": "https://noutati24.ro/casatoria-facuta-pe-plaja-in-strainatate-recunoscuta-in-romaina/",
@@ -71,15 +77,15 @@
       "link": "https://noutati24.ro/romania-si-statele-unite-consolideaza-cooperarea-in-domeniul-securitatii-frontierelor-si-al-combaterii-criminalitatii-transfrontaliere/",
       "date": "Wed, 23 Sep 2026 20:14:00 +0000",
       "summary": "Galerie foto COMUNICAT DE PRESĂ Șeful Cancelariei Prim-Ministrului, Mihai Jurca, a primit ieri, la Palatul Victoria, o delegație la nivel &#8230; Articolul România și Statele Unite consolidează cooperarea în domeniul securității frontierelor și al combaterii criminalității transfrontaliere apare prima dată în Noutati 24 ."
-    },
-    {
-      "title": "Ministerul Justiției organizează interviu pentru dobândirea calității de expert tehnic judiciar de către persoanele care au titlul de academician, profesor universitar sau conferențiar universitar, doctor docent ori doctor în specializările prevăzute de Nomenclatorul specializărilor expertizei tehnice judiciare",
-      "link": "https://noutati24.ro/ministerul-justitiei-organizeaza-interviu-pentru-dobandirea-calitatii-de-expert-tehnic-judiciar-de-catre-persoanele-care-au-titlul-de-academician-profesor-universitar-sau-conferentiar-universitar-do/",
-      "date": "Wed, 23 Sep 2026 14:19:02 +0000",
-      "summary": "Ministerul Justiției organizează interviu pentru dobândirea calității de expert tehnic judiciar de către persoanele care au titlul de academician, profesor &#8230; Articolul Ministerul Justiției organizează interviu pentru dobândirea calității de expert tehnic judiciar de către persoanele care au titlul de academician, profesor universitar sau conferențiar universitar, doctor docent ori doctor în specializările prevăzute de Nomenclatorul specializărilor expertizei tehnice judiciare apare prima dată în Noutati 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@noutati24/117364601607205955",
+      "date": "Thu, 01 Oct 2026 08:01:39 +0000",
+      "content": "🆕Galerie foto [embedded content] [Check against delivery] Ilie Bolojan: Doamnelor și domnilor, suntem aici să găsim o soluție pentru încheierea crizei declanșate de PSD și AUR. Dar nu este totuna cum o închidem. O soluție politică este bună dacă rezolvă și problemele țării, nu doar instalarea unui guvern.Iar Guvernul Mureșan este o ieșire corectă din… 🌐 https:// noutati24.ro/alocutiunea-premi erului-ilie-bolojan-la-sedinta-comuna-a-camerei-deputatilor-si-senatului/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@noutati24/117347576854961065",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@noutati24/117324807507079975",
       "date": "Thu, 24 Sep 2026 07:21:29 +0000",
       "content": "🆕Galerie foto COMUNICAT DE PRESĂ Șeful Cancelariei Prim-Ministrului, Mihai Jurca, a primit ieri, la Palatul Victoria, o delegație la nivel înalt a Departamentului pentru Securitate Internă al Statelor Unite ale Americii (DHS) condusă de John Gountanis, adjunct al subsecretarului pentru Strategie, Politici și Planificare din cadrul 🌐 https:// noutati24.ro/romania-si-statel e-unite-consolideaza-cooperarea-in-domeniul-securitatii-frontierelor-si-al-combaterii-criminalitatii-transfrontaliere/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@noutati24/117324806998455597",
-      "date": "Thu, 24 Sep 2026 07:21:21 +0000",
-      "content": "🆕Proiect de Ordin comun al ministrului afacerilor interne, ministrului interimar al justiţiei și procurorului general al Parchetului de pe lângă Înalta Curte de Casație și Justiție pentru aprobarea Metodologiei privind culegerea datelor primare și compatibilizarea modului de 🌐 https:// noutati24.ro/proiect-de-ordin- comun-al-ministrului-afacerilor-interne-ministrului-interimar-al-justitiei-si-procurorului-general-al-parchetului-de-pe-langa-inalta-curte-de-casatie-si-justitie-pentru-aprobarea-met/"
     }
   ]
 }
