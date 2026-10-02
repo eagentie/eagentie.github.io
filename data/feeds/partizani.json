@@ -4,8 +4,14 @@
   "site_feed": "https://partizani.ro/feed/",
   "mastodon": "https://social.5th.ro/@Partizani",
   "mastodon_rss": "https://social.5th.ro/@Partizani.rss",
-  "updated_at": "2026-10-02T08:30:34Z",
+  "updated_at": "2026-10-02T15:47:45Z",
   "site_posts": [
+    {
+      "title": "Ciorapii compresivi pentru damă nu se aleg după cât de strâns se simt: diferența dintre 15-20 și 20-30 mmHg",
+      "link": "https://partizani.ro/ciorapii-compresivi-pentru-dama-nu-se-aleg-dupa-cat-de-strans-se-simt-diferenta-dintre-15-20-si-20-30-mmhg/",
+      "date": "Fri, 02 Oct 2026 14:41:31 +0000",
+      "summary": "Spre seară, picioarele pot deveni grele, gleznele se pot umfla, iar elasticul șosetelor lasă urme vizibile. Când cauți ciorapi de damă cu compresie diferită, tentația este să alegi varianta care strânge cel mai tare. Numai că senzația de presiune nu spune singură dacă ai făcut alegerea potrivită. Problemele întâlnite la [&#8230;] Articolul Ciorapii compresivi pentru damă nu se aleg după cât de strâns se simt: diferența dintre 15-20 și 20-30 mmHg apare prima dată în Partizani ."
+    },
     {
       "title": "Rezistența la apă a ceasurilor: ce înseamnă 3, 5 sau 20 ATM",
       "link": "https://partizani.ro/rezistenta-la-apa-a-ceasurilor-ce-inseamna-3-5-sau-20-atm/",
@@ -59,12 +65,6 @@
       "link": "https://partizani.ro/testarea-instalatiilor-fotovoltaice-echipamente-metode-si-verificari-obligatorii/",
       "date": "Tue, 04 Aug 2026 20:19:36 +0000",
       "summary": "O instalatie fotovoltaica nu poate fi validata doar prin confirmarea ca invertorul injecteaza energie. Un sistem poate produce, dar sa aiba polaritate gresita pe un circuit neconectat, rezistenta de izolatie redusa, conectori incalziti, siruri dezechilibrate sau module afectate de umbrire si diode bypass active. Testarea corecta separa trei obiective: siguranta [&#8230;] Articolul Testarea instalatiilor fotovoltaice: echipamente, metode si verificari obligatorii apare prima dată în Partizani ."
-    },
-    {
-      "title": "Intrebari pentru prima vizita cand alegi cresa in Bucuresti",
-      "link": "https://partizani.ro/intrebari-pentru-prima-vizita-cand-alegi-cresa-in-bucuresti/",
-      "date": "Tue, 04 Aug 2026 20:09:22 +0000",
-      "summary": "Separarea de cel mic este, fara doar si poate, unul dintre cele mai dificile momente din viata de parinte. Gandul ca iti lasi puiul intr-un mediu strain iti poate aduce o multime de emotii si frici destul de mari. Totusi, alegerea unei institutii potrivite are puterea sa transforme aceasta tranzitie [&#8230;] Articolul Intrebari pentru prima vizita cand alegi cresa in Bucuresti apare prima dată în Partizani ."
     }
   ],
   "mastodon_posts": []
