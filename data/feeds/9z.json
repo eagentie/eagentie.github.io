@@ -4,8 +4,14 @@
   "site_feed": "https://9z.ro/feed/",
   "mastodon": "https://social.5th.ro/@9z",
   "mastodon_rss": "https://social.5th.ro/@9z.rss",
-  "updated_at": "2026-10-02T01:42:35Z",
+  "updated_at": "2026-10-02T08:31:02Z",
   "site_posts": [
+    {
+      "title": "Actualizarea codurilor CAEN, obligatorie pentru firme",
+      "link": "https://9z.ro/actualizarea-codurilor-caen-la-rev-3-este-obligatorie-doar-1-3-au-reusit/",
+      "date": "Fri, 02 Oct 2026 05:25:44 +0000",
+      "summary": "Actualizarea codurilor CAEN la Rev. 3 este obligatorie pentru toate firmele din Romania. Doar 1/3 au reușit actualizarea pana in prezent. Profita de oferta Shift View Consulting. The post Actualizarea codurilor CAEN, obligatorie pentru firme appeared first on 9z ."
+    },
     {
       "title": "De ce contează tehnologia folosită la un RMN? Ce explică echipa Medikali?",
       "link": "https://9z.ro/tehnologia-folosita-la-rmn/",
@@ -59,15 +65,15 @@
       "link": "https://9z.ro/avantaje-spalatoriilor-portal/",
       "date": "Tue, 22 Sep 2026 09:21:53 +0000",
       "summary": "Sistemul cu portal ofera un model de business predictibil, cu timpi de ciclu scurti si cheltuieli operationale controlate. The post 5 avantaje ale spălătoriilor automate cu portal pentru antreprenori appeared first on 9z ."
-    },
-    {
-      "title": "TopPost.ro: cum alegi produsul potrivit cu ajutorul topurilor și ghidurilor de cumpărături",
-      "link": "https://9z.ro/toppost-ghidurilor-de-cumparaturi/",
-      "date": "Mon, 21 Sep 2026 06:38:25 +0000",
-      "summary": "TopPost.ro aduna topuri si ghiduri de cumparaturi actualizate pentru electronice, fashion si casa. Aici gasesti recomandari clare si criterii de selectie pentru a face alegeri informate. The post TopPost.ro: cum alegi produsul potrivit cu ajutorul topurilor și ghidurilor de cumpărături appeared first on 9z ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@9z/117369651029232907",
+      "date": "Fri, 02 Oct 2026 05:25:47 +0000",
+      "content": "Actualizarea codurilor CAEN la Rev. 3 este obligatorie pentru toate firmele din Romania. Doar 1/3 au reușit actualizarea pana in prezent. Profita de oferta Shift View Consulting. https:// 9z.ro/actualizarea-codurilor-c aen-la-rev-3-este-obligatorie-doar-1-3-au-reusit/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@9z/117365809681242315",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@9z/117319802261637311",
       "date": "Wed, 23 Sep 2026 10:08:35 +0000",
       "content": "Descopera cum sa folosesti cardul WIZZ pentru zboruri si cheltuieli. Afla despre cashback, rate si asigurare de calatorie. https:// 9z.ro/foloseste-card-avantaj-w izz/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@9z/117313956514705516",
-      "date": "Tue, 22 Sep 2026 09:21:56 +0000",
-      "content": "Sistemul cu portal ofera un model de business predictibil, cu timpi de ciclu scurti si cheltuieli operationale controlate. https:// 9z.ro/avantaje-spalatoriilor-p ortal/"
     }
   ]
 }

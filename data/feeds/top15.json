@@ -4,8 +4,14 @@
   "site_feed": "https://top15.ro/feed/",
   "mastodon": "https://social.5th.ro/@top",
   "mastodon_rss": "https://social.5th.ro/@top.rss",
-  "updated_at": "2026-10-02T01:42:37Z",
+  "updated_at": "2026-10-02T08:31:05Z",
   "site_posts": [
+    {
+      "title": "Motoare trifazate cu talpă sau cu flanșă: cum alegi tipul de montaj",
+      "link": "https://top15.ro/motoare-trifazate-cu-talpa-sau-cu-flansa-cum-alegi-tipul-de-montaj/",
+      "date": "Fri, 02 Oct 2026 05:27:11 +0000",
+      "summary": "Ai ales puterea, turația și tensiunea motorului, dar mai rămâne o întrebare: cum îl prinzi... Articolul Motoare trifazate cu talpă sau cu flanșă: cum alegi tipul de montaj apare prima dată în TOP 15 ."
+    },
     {
       "title": "CIUZO: Spui ce cauți, primești oferte",
       "link": "https://top15.ro/ciuzo-spui-ce-cauti-primesti-oferte/",
@@ -71,15 +77,15 @@
       "link": "https://top15.ro/merita-sa-iei-masini-second-hand-in-leasing/",
       "date": "Thu, 13 Aug 2026 10:39:48 +0000",
       "summary": "În ultimii ani, leasingul pentru mașini second hand a devenit o opțiune tot mai atractivă... Articolul Merită să iei mașini second hand în leasing? apare prima dată în TOP 15 ."
-    },
-    {
-      "title": "RCCB tip A versus AC: diferența care contează la mașina de spălat",
-      "link": "https://top15.ro/rccb-tip-a-versus-ac-diferenta-care-conteaza-la-masina-de-spalat/",
-      "date": "Thu, 13 Aug 2026 10:21:59 +0000",
-      "summary": "Când cauți „RCCB tip A vs AC”, de obicei ai în față două aparate asemănătoare,... Articolul RCCB tip A versus AC: diferența care contează la mașina de spălat apare prima dată în TOP 15 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@top/117370362373337651",
+      "date": "Fri, 02 Oct 2026 08:26:41 +0000",
+      "content": "📰Ai ales puterea, turația și tensiunea motorului, dar mai rămâne o întrebare: cum îl prinzi efectiv de utilaj? Două motoare cu caracteristici electrice similare pot avea sisteme de montaj diferite, iar alegerea greșită te poate obliga să modifici cadrul utilajului sau sistemul de cuplare. În practică, diferența este că # compatibilitatemecanica # Comunicat # cuplaj # montajpeflansa # montajpetalpa # motoaretrifazate 📰 https:// top15.ro/motoare-trifazate-cu- talpa-sau-cu-flansa-cum-alegi-tipul-de-montaj/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@top/117308478644957413",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@top/117088702950926819",
       "date": "Thu, 13 Aug 2026 14:36:59 +0000",
       "content": "📰Selectarea primului vehicul pe roți marchează un pas semnificativ în formarea motricității și în stimularea independenței celor mici. Oferta acoperă o gamă diversă, de la biciclete fără pedale concepute pentru echilibru până la triciclete evolutive cu opțiune de pliere. Fiecare tip de construcție îndeplinește roluri precise în timpul plimbărilor și sprijină în mod individual 📰 https:// top15.ro/bicicleta-fara-pedale -vs-tricicleta-in-2026-ghidul-tau-pentru-un-copil-independent-si-echilibrat/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@top/117087770455322860",
-      "date": "Thu, 13 Aug 2026 10:39:51 +0000",
-      "content": "📰În ultimii ani, leasingul pentru mașini second hand a devenit o opțiune tot mai atractivă atât pentru persoane fizice, cât și pentru companii. Creșterea prețurilor la mașinile noi, termenele de livrare încă fluctuante și oferta tot mai bogată de autoturisme rulate din flote au schimbat modul în care mulți cumpărători privesc piața auto.Leasingul pentru mașini… 📰 https:// top15.ro/merita-sa-iei-masini- second-hand-in-leasing/"
     }
   ]
 }

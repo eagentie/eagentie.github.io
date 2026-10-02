@@ -4,8 +4,14 @@
   "site_feed": "https://doctor360.ro/feed/",
   "mastodon": "https://social.5th.ro/@doctor360",
   "mastodon_rss": "https://social.5th.ro/@doctor360.rss",
-  "updated_at": "2026-10-02T01:42:11Z",
+  "updated_at": "2026-10-02T08:30:39Z",
   "site_posts": [
+    {
+      "title": "Când durerea persistă, ce metode moderne pot completa recuperarea?",
+      "link": "https://doctor360.ro/durerea-persista-metode-recuperare/",
+      "date": "Fri, 02 Oct 2026 07:26:54 +0000",
+      "summary": "Descopera de ce unele dureri devin cronice si cum tehnologiile moderne completeaza kinetoterapia pentru o refacere mai rapida. Articolul Când durerea persistă, ce metode moderne pot completa recuperarea? apare prima dată în Doctor 360 ."
+    },
     {
       "title": "Novo Nordisk intră într-o nouă etapă de dezvoltare, susținută de rebrandingul „Novo” și de actualizarea culturii organizaționale",
       "link": "https://doctor360.ro/novo-nordisk-intra-intr-o-noua-etapa-de-dezvoltare-sustinuta-de-rebrandingul-novo-si-de-actualizarea-culturii-organizationale/",
@@ -71,15 +77,15 @@
       "link": "https://doctor360.ro/tratament-eficient-pentru-vertij-cum-sa-gestionezi-dezechilibrul-si-ametelile/",
       "date": "Tue, 10 Feb 2026 19:11:13 +0000",
       "summary": "Vertijul reprezinta o afectiune frecventa, care poate afecta persoane de toate varstele, manifestandu-se prin senzatia de rotire a mediului inconjurator sau a corpului, pierderea echilibrului si greata. Desi multi pacienti considera ca episoadele sunt usoare si trecatoare, netratate pot afecta semnificativ viata de zi cu zi, provocand cadere, anxietate si scaderea performantelor profesionale. De aceea, [&#8230;] Articolul Tratament eficient pentru vertij – cum sa gestionezi dezechilibrul si ametelile apare prima dată în Doctor 360 ."
-    },
-    {
-      "title": "De la mic dejun la gustări",
-      "link": "https://doctor360.ro/de-la-mic-dejun-la-gustari/",
-      "date": "Mon, 19 Jan 2026 11:46:47 +0000",
-      "summary": "Mixit oferă peste 150 de produse vegane pentru un 2026 echilibrat La &#238;nceput de an, tot mai mulți oameni &#238;și propun să măn&#226;nce mai echilibrat, să reducă produsele de origine animală și să aleagă ingrediente curate, funcționale și ușor de integrat &#238;n rutina zilnică. Pentru cei care vor să introducă produse vegane &#238;n alimentația lor, [&#8230;] Articolul De la mic dejun la gustări apare prima dată în Doctor 360 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@doctor360/117370127331691375",
+      "date": "Fri, 02 Oct 2026 07:26:55 +0000",
+      "content": "💡Descopera de ce unele dureri devin cronice si cum tehnologiile moderne completeaza kinetoterapia pentru o refacere mai rapida. 💡 https:// doctor360.ro/durerea-persista- metode-recuperare/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@doctor360/117281036197137042",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@doctor360/116047916163471632",
       "date": "Tue, 10 Feb 2026 19:11:13 +0000",
       "content": "💡Vertijul reprezinta o afectiune frecventa, care poate afecta persoane de toate varstele, manifestandu-se prin senzatia de rotire a mediului inconjurator sau a corpului, pierderea echilibrului si greata. Desi multi pacienti considera ca episoadele sunt usoare si trecatoare, netratate pot afecta semnificativ viata de zi cu zi, provocand cadere, anxietate si scaderea performantelor profesionale. 💡 https:// doctor360.ro/tratament-eficien t-pentru-vertij-cum-sa-gestionezi-dezechilibrul-si-ametelile/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@doctor360/115922089938983796",
-      "date": "Mon, 19 Jan 2026 13:51:58 +0000",
-      "content": "💡Mixit oferă peste 150 de produse vegane pentru un 2026 echilibrat La început de an, tot mai mulți oameni își propun să mănânce mai echilibrat, să reducă produsele de origine animală și să aleagă ingrediente curate, funcționale și ușor de integrat în rutina zilnică. Pentru cei care vor să introducă produse vegane în alimentația lor,… 💡 https:// doctor360.ro/de-la-mic-dejun-l a-gustari/"
     }
   ]
 }
