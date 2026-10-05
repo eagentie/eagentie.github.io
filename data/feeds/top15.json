@@ -4,8 +4,14 @@
   "site_feed": "https://top15.ro/feed/",
   "mastodon": "https://social.5th.ro/@top",
   "mastodon_rss": "https://social.5th.ro/@top.rss",
-  "updated_at": "2026-10-05T02:01:07Z",
+  "updated_at": "2026-10-05T09:02:05Z",
   "site_posts": [
+    {
+      "title": "ATM RO Metal Construction își extinde serviciile de montaj structuri metalice în Europa",
+      "link": "https://top15.ro/atm-ro-metal-construction-montaj-structuri-metalice-europa/",
+      "date": "Mon, 05 Oct 2026 08:55:11 +0000",
+      "summary": "ATM RO Metal Construction își extinde serviciile de montaj structuri metalice, fitting și placări pentru proiecte de construcții din Europa. Articolul ATM RO Metal Construction își extinde serviciile de montaj structuri metalice în Europa apare prima dată în TOP 15 ."
+    },
     {
       "title": "Motoare trifazate cu talpă sau cu flanșă: cum alegi tipul de montaj",
       "link": "https://top15.ro/motoare-trifazate-cu-talpa-sau-cu-flansa-cum-alegi-tipul-de-montaj/",
@@ -71,15 +77,15 @@
       "link": "https://top15.ro/bicicleta-fara-pedale-vs-tricicleta-in-2026-ghidul-tau-pentru-un-copil-independent-si-echilibrat/",
       "date": "Thu, 13 Aug 2026 14:36:56 +0000",
       "summary": "Selectarea primului vehicul pe roți marchează un pas semnificativ în formarea motricității și în stimularea... Articolul Bicicletă fără pedale vs. tricicletă în 2026: Ghidul tău pentru un copil independent și echilibrat apare prima dată în TOP 15 ."
-    },
-    {
-      "title": "Merită să iei mașini second hand în leasing?",
-      "link": "https://top15.ro/merita-sa-iei-masini-second-hand-in-leasing/",
-      "date": "Thu, 13 Aug 2026 10:39:48 +0000",
-      "summary": "În ultimii ani, leasingul pentru mașini second hand a devenit o opțiune tot mai atractivă... Articolul Merită să iei mașini second hand în leasing? apare prima dată în TOP 15 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@top/117387461566890052",
+      "date": "Mon, 05 Oct 2026 08:55:14 +0000",
+      "content": "📰ATM RO Metal Construction își extinde serviciile de montaj structuri metalice, fitting și placări pentru proiecte de construcții din Europa. 📰 https:// top15.ro/atm-ro-metal-construc tion-montaj-structuri-metalice-europa/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@top/117370362373337651",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@top/117109473069407221",
       "date": "Mon, 17 Aug 2026 06:39:06 +0000",
       "content": "📰Advertorial documentat cu experiența și portofoliul CleanSpot Oradea. O ofertă bună nu se evaluează doar după preț. Dacă ai nevoie de curățare tapițerie auto Oradea, această listă te ajută să compari procesul, siguranța materialelor și dovezile furnizorului. Cere suprafețele incluse. Scaunele și bancheta nu înseamnă automat plafon, portbagaj, plastice sau mochetă. Spune tipul materialului. Textilul,… 📰 https:// top15.ro/top-15-verificari-pen tru-curatare-tapiterie-auto-oradea/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@top/117088702950926819",
-      "date": "Thu, 13 Aug 2026 14:36:59 +0000",
-      "content": "📰Selectarea primului vehicul pe roți marchează un pas semnificativ în formarea motricității și în stimularea independenței celor mici. Oferta acoperă o gamă diversă, de la biciclete fără pedale concepute pentru echilibru până la triciclete evolutive cu opțiune de pliere. Fiecare tip de construcție îndeplinește roluri precise în timpul plimbărilor și sprijină în mod individual 📰 https:// top15.ro/bicicleta-fara-pedale -vs-tricicleta-in-2026-ghidul-tau-pentru-un-copil-independent-si-echilibrat/"
     }
   ]
 }

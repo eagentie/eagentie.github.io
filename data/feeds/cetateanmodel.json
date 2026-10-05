@@ -4,8 +4,14 @@
   "site_feed": "https://cetateanmodel.ro/feed/",
   "mastodon": "https://social.5th.ro/@cetatean_model",
   "mastodon_rss": "https://social.5th.ro/@cetatean_model.rss",
-  "updated_at": "2026-10-05T01:58:46Z",
+  "updated_at": "2026-10-05T09:00:15Z",
   "site_posts": [
+    {
+      "title": "Partenerii care fac posibil HER SPACE FESTIVAL ROMANIA – TINEREȚE FĂRĂ BĂTRÂNEȚE?",
+      "link": "https://cetateanmodel.ro/partenerii-care-fac-posibil-her-space-festival-romania-tinerete-fara-batranete/",
+      "date": "Mon, 05 Oct 2026 03:23:58 +0000",
+      "summary": "Tinerețe fără bătr&#226;nețe? HER SPACE FESTIVAL ROMANIA aduce &#238;mpreună medicina, știința și experiențele de viață Mai sunt doar c&#226;teva zile p&#226;nă la cea de-a cincea ediție HER SPACE FESTIVAL ROMANIA, eveniment dedicat sănătății, echilibrului și calității vieții femeilor, care va avea loc &#238;n 10&#8211;11 octombrie, la deGalben, București. Sub tema &#8222;TINEREȚE FĂRĂ BĂTR&#194;NEȚE?&#8221;, ediția din [&#8230;] Articolul Partenerii care fac posibil HER SPACE FESTIVAL ROMANIA – TINEREȚE FĂRĂ BĂTRÂNEȚE? apare prima dată în Cetatean model ."
+    },
     {
       "title": "Premieră în România: primul hackathon multidisciplinar dedicat soluțiilor pentru siguranța elevilor",
       "link": "https://cetateanmodel.ro/premiera-in-romania-primul-hackathon-multidisciplinar-dedicat-solutiilor-pentru-siguranta-elevilor/",
@@ -71,15 +77,15 @@
       "link": "https://cetateanmodel.ro/cum-conectezi-mai-multe-conturi-mastodon-la-acelasi-wordpress/",
       "date": "Wed, 17 Dec 2025 16:58:54 +0000",
       "summary": "Te-ai săturat de algoritmii care îți ascund conținutul, limitând astfel impactul postărilor tale? Tranziția către platforme descentralizate, cum ar fi Mastodon, nu este doar o tendință, ci o mișcare strategică vitală pentru creatorii de conținut și branduri. Dacă deții un site WordPress bine stabilit, știi că eficiența este cheia. Dar ce se întâmplă când nu [&#8230;] Articolul Cum conectezi mai multe conturi Mastodon la același WordPress apare prima dată în Cetatean model ."
-    },
-    {
-      "title": "Oameni, destine, emoție: Adela Hanafi, a lansat podcastul „Povești Nespuse cu Adela”",
-      "link": "https://cetateanmodel.ro/oameni-destine-emotie-adela-hanafi-a-lansat-podcastul-povesti-nespuse-cu-adela/",
-      "date": "Wed, 10 Dec 2025 09:13:51 +0000",
-      "summary": "Oameni, destine, emoție: Adela Hanafi, a lansat podcastul „Povești Nespuse cu Adela” Într-o lume adesea dominată de superficialitate și știri rapide, Adela Hanafi, Președinta Asociației CONIL și sufletul din spatele CONIL Fest, lansează un proiect special: podcastul „Povești Nespuse cu Adela”. Acest demers curajos transformă experiența personală profundă în lecții de viață universale, oferind o [&#8230;] Articolul Oameni, destine, emoție: Adela Hanafi, a lansat podcastul „Povești Nespuse cu Adela” apare prima dată în Cetatean model ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@cetatean_model/117386899680238449",
+      "date": "Mon, 05 Oct 2026 06:32:20 +0000",
+      "content": "Tinerețe fără bătrânețe? HER SPACE FESTIVAL ROMANIA aduce împreună medicina, știința și experiențele de viață Mai sunt doar câteva zile până la cea de-a cincea ediție HER SPACE FESTIVAL ROMANIA, eveniment dedicat sănătății, echilibrului și calității vieții femeilor, care va avea loc în 10–11 octombrie, la deGalben, București. Sub tema „TINEREȚE FĂRĂ BĂTRÂNEȚE?”, ediția din… https:// cetateanmodel.ro/partenerii-ca re-fac-posibil-her-space-festival-romania-tinerete-fara-batranete/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@cetatean_model/117326286054200855",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@cetatean_model/115798082161917141",
       "date": "Sun, 28 Dec 2025 16:15:09 +0000",
       "content": "/tmp/tmpghu75w8n.html https:// cetateanmodel.ro/reabilitarea- cardiaca-secretul-recuperarii-complete/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@cetatean_model/115797111531665999",
-      "date": "Sun, 28 Dec 2025 12:08:18 +0000",
-      "content": "/tmp/tmpsqdb9wf5.html https:// cetateanmodel.ro/microneedling -secretul-regenerarii-tenului/"
     }
   ]
 }
