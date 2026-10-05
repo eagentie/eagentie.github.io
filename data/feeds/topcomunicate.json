@@ -4,8 +4,14 @@
   "site_feed": "https://topcomunicate.ro/feed/",
   "mastodon": "https://social.5th.ro/@topcomunicate_ro",
   "mastodon_rss": "https://social.5th.ro/@topcomunicate_ro.rss",
-  "updated_at": "2026-10-05T09:00:05Z",
+  "updated_at": "2026-10-05T18:24:34Z",
   "site_posts": [
+    {
+      "title": "GalleryDock Expands Client Galleries With Website Embedding",
+      "link": "https://topcomunicate.ro/gallerydock-client-galleries-website-embedding/",
+      "date": "Mon, 05 Oct 2026 09:58:16 +0000",
+      "summary": "GalleryDock extends website embedding to English-speaking photographers, combining client galleries, password protection and a free starting allowance of three galleries. The post GalleryDock Expands Client Galleries With Website Embedding appeared first on Comunicate de presa ."
+    },
     {
       "title": "CAZUL VIDRA: PESTE 50 DE MILIOANE DE EURO INVESTIȚI, 300 DE LOCURI DE MUNCĂ ȘI DEȘEURI TRATATE",
       "link": "https://topcomunicate.ro/cazul-vidra-peste-50-de-milioane-de-euro-investiti-300-de-locuri-de-munca-si-deseuri-tratate/",
@@ -71,15 +77,15 @@
       "link": "https://topcomunicate.ro/cum-comunici-corect-o-campanie-de-cadouri-corporate-fara-sa-para-reclama/",
       "date": "Fri, 28 Aug 2026 12:28:50 +0000",
       "summary": "Multe companii investesc timp și resurse în alegerea unor cadouri corporate potrivite pentru parteneri sau clienți, dar... The post Cum comunici corect o campanie de cadouri corporate, fără să pară reclamă appeared first on Comunicate de presa ."
-    },
-    {
-      "title": "Retur extins și garanție la echipamentele de securitate: ce protecție ai la cumpărare, explicat prin condițiile Spy Shop",
-      "link": "https://topcomunicate.ro/retur-extins-si-garantie-la-echipamentele-de-securitate-ce-protectie-ai-la-cumparare-explicat-prin-conditiile-spy-shop/",
-      "date": "Thu, 27 Aug 2026 14:41:45 +0000",
-      "summary": "Sursa foto: spy-shop.ro Cumpărarea unei camere de supraveghere, a unui sistem de alarmă sau a unui videointerfon... The post Retur extins și garanție la echipamentele de securitate: ce protecție ai la cumpărare, explicat prin condițiile Spy Shop appeared first on Comunicate de presa ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@topcomunicate_ro/117387709543655225",
+      "date": "Mon, 05 Oct 2026 09:58:18 +0000",
+      "content": "⭐ GalleryDock extends website embedding to English-speaking photographers, combining client galleries, password protection and a free starting allowance of three galleries. 🔗 Mai mult: https:// topcomunicate.ro/gallerydock-c lient-galleries-website-embedding/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@topcomunicate_ro/117359170582167984",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@topcomunicate_ro/117173668602048753",
       "date": "Fri, 28 Aug 2026 14:44:52 +0000",
       "content": "⭐ 18 ani de povești, emoții, întâlniri și… „Bună, ce faci?” care uneori s-au transformat în „Te iubesc”. Romania-Matrimoniale.ro sărbătorește în 2026 un moment important: 18 ani de existență și o comunitate de peste 500.000 de utilizatori care au trecut pragul unuia dintre cele mai cunoscute site-uri românești de matrimoniale. Dacă dragostea ar avea certificat de… 🔗 Detalii aici: https:// topcomunicate.ro/romania-matri moniale-ro-a-implinit-18-ani-si-peste-500-000-de-utilizatori/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@topcomunicate_ro/117173133781251212",
-      "date": "Fri, 28 Aug 2026 12:28:52 +0000",
-      "content": "⭐ Multe companii investesc timp și resurse în alegerea unor cadouri corporate potrivite pentru parteneri sau clienți, dar rămân nesigure când vine vorba de a comunica public despre acest gest. Riscul perceput este simplu: cum vorbești despre o acțiune de apreciere fără să pari că te lauzi sau că folosești gestul exclusiv ca pretext de promovare?… 🔗 Mai mult: https:// topcomunicate.ro/cum-comunici- corect-o-campanie-de-cadouri-corporate-fara-sa-para-reclama/"
     }
   ]
 }
