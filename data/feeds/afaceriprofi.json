@@ -4,8 +4,14 @@
   "site_feed": "https://afaceriprofi.ro/feed/",
   "mastodon": "https://social.5th.ro/@AfaceriProfi",
   "mastodon_rss": "https://social.5th.ro/@AfaceriProfi.rss",
-  "updated_at": "2026-10-05T18:25:25Z",
+  "updated_at": "2026-10-06T00:48:01Z",
   "site_posts": [
+    {
+      "title": "Comunicat de presă care apare online: structură, publicare, cost",
+      "link": "https://afaceriprofi.ro/comunicat-de-presa-structura-cost/",
+      "date": "Mon, 05 Oct 2026 21:58:58 +0000",
+      "summary": "Descopera cum sa scrii un comunicat de presa care ajunge la redactii si cat costa publicarea pe o retea de 109 de publicatii partenere. The post Comunicat de presă care apare online: structură, publicare, cost appeared first on Afaceri Profitabile ."
+    },
     {
       "title": "Pentru ce clădiri este obligatoriu certificatul energetic și pentru care nu",
       "link": "https://afaceriprofi.ro/cand-e-obligatoriu-certificat-energetic/",
@@ -59,15 +65,15 @@
       "link": "https://afaceriprofi.ro/cum-promovezi-servicii-locale-online-ghid-csv-ro/",
       "date": "Fri, 14 Aug 2026 09:37:36 +0000",
       "summary": "Un prestator local nu are nevoie doar de vizibilitate. Are nevoie să fie găsit de oameni care... The post Cum îți promovezi serviciile locale online: ghid CSV.RO pentru firme și prestatori appeared first on Afaceri Profitabile ."
-    },
-    {
-      "title": "Cadourile corporate care lasă o impresie bună: ce contează cu adevărat",
-      "link": "https://afaceriprofi.ro/cadourile-corporate-care-lasa-o-impresie-buna-ce-conteaza-cu-adevarat/",
-      "date": "Thu, 06 Aug 2026 05:34:57 +0000",
-      "summary": "Aproape orice companie ajunge, la un moment dat, în situația de a oferi un cadou unui partener,... The post Cadourile corporate care lasă o impresie bună: ce contează cu adevărat appeared first on Afaceri Profitabile ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@AfaceriProfi/117390543480137281",
+      "date": "Mon, 05 Oct 2026 21:59:00 +0000",
+      "content": "✅Descopera cum sa scrii un comunicat de presa care ajunge la redactii si cat costa publicarea pe o retea de 109 de publicatii partenere. ✅ https:// afaceriprofi.ro/comunicat-de-p resa-structura-cost/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@AfaceriProfi/117355535893096476",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@AfaceriProfi/117046935558683688",
       "date": "Thu, 06 Aug 2026 05:35:00 +0000",
       "content": "✅Aproape orice companie ajunge, la un moment dat, în situația de a oferi un cadou unui partener, unui client sau unui angajat. Fie că vorbim despre un moment de sărbătoare, despre finalizarea unui proiect important sau despre o simplă recunoaștere a unei colaborări de succes, alegerea unui cadou corporate potrivit este mult mai puțin simplă… ✅ https:// afaceriprofi.ro/cadourile-corp orate-care-lasa-o-impresie-buna-ce-conteaza-cu-adevarat/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@AfaceriProfi/117014614007631268",
-      "date": "Fri, 31 Jul 2026 12:35:12 +0000",
-      "content": "✅Diagnosticul de boală oncologică aduce mereu teama și incertitudine în viața oricărui om. Cu toate acestea, medicina modernă a evoluat extrem de mult în ultimii ani. Astăzi, un diagnostic de cancer de colon nu mai reprezintă o sentință, ci o afecțiune care se poate trata cu succes. Opțiunile medicale actuale oferă intervenții sigure, eficiente și… ✅ https:// afaceriprofi.ro/cancerul-de-co lon-optiuni-moderne-de-tratament-chirurgical/"
     }
   ]
 }
