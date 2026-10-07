@@ -4,8 +4,14 @@
   "site_feed": "https://noutati24.ro/feed/",
   "mastodon": "https://social.5th.ro/@noutati24",
   "mastodon_rss": "https://social.5th.ro/@noutati24.rss",
-  "updated_at": "2026-10-07T05:56:15Z",
+  "updated_at": "2026-10-07T13:19:05Z",
   "site_posts": [
+    {
+      "title": "Cetățeanul român urmărit internațional pentru omor, extrădat din Confederația Elvețiană, 6 octombrie 2026",
+      "link": "https://noutati24.ro/cetateanul-roman-urmarit-international-pentru-omor-extradat-din-confederatia-elvetiana-6-octombrie-2026/",
+      "date": "Tue, 06 Oct 2026 13:08:34 +0000",
+      "summary": "Un cetățean român, în vârstă de 30 de ani, urmărit internațional pentru săvârșirea infracțiunii de omor, a fost extrădat din &#8230; Articolul Cetățeanul român urmărit internațional pentru omor, extrădat din Confederația Elvețiană, 6 octombrie 2026 apare prima dată în Noutati 24 ."
+    },
     {
       "title": "Întrevederea premierului Ilie Bolojan cu delegația OMV condusă de Emma Delaney, Chief Executive Officer al OMV",
       "link": "https://noutati24.ro/intrevederea-premierului-ilie-bolojan-cu-delegatia-omv-condusa-de-emma-delaney-chief-executive-officer-al-omv/",
@@ -71,15 +77,15 @@
       "link": "https://noutati24.ro/premierul-ilie-bolojan-sunt-optimist-ca-oamenii-politici-care-au-interes-ca-romania-sa-ramana-stabila-vor-continua-linia-politicilor-guvernamentale-pentru-pastrarea-echilibrelor-si-reducerea-deficitu/",
       "date": "Thu, 24 Sep 2026 18:31:00 +0000",
       "summary": "Galerie foto COMUNICAT DE PRESĂ Premierul Ilie Bolojan a primit astăzi, la Palatul Victoria, o delegație a agenției internaționale de &#8230; Articolul Premierul Ilie Bolojan: Sunt optimist că oamenii politici care au interes ca România să rămână stabilă vor continua linia politicilor guvernamentale pentru păstrarea echilibrelor și reducerea deficitului bugetar apare prima dată în Noutati 24 ."
-    },
-    {
-      "title": "Ședința de guvern din 24 septembrie 2026",
-      "link": "https://noutati24.ro/sedinta-de-guvern-din-24-septembrie-2026/",
-      "date": "Thu, 24 Sep 2026 13:50:00 +0000",
-      "summary": "Guvernul României Guvernul este autoritatea publică a puterii executive, care funcționează în baza votului de încredere acordat de Parlament și &#8230; Articolul Ședința de guvern din 24 septembrie 2026 apare prima dată în Noutati 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@noutati24/117398691738900307",
+      "date": "Wed, 07 Oct 2026 08:31:13 +0000",
+      "content": "🆕Un cetățean român, în vârstă de 30 de ani, urmărit internațional pentru săvârșirea infracțiunii de omor, a fost extrădat din Confederația Elvețiană și adus astăzi, 6 octombrie 2026, în România. Pe numele acestuia, Tribunalul Vâlcea a emis, la data de 23 septembrie 2026, un mandat de arestare preventivă, fiind ulterior dispusă urmărirea internațională. La 28… 🌐 https:// noutati24.ro/cetateanul-roman- urmarit-international-pentru-omor-extradat-din-confederatia-elvetiana-6-octombrie-2026/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@noutati24/117392991332013888",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@noutati24/117330470657514134",
       "date": "Fri, 25 Sep 2026 07:21:42 +0000",
       "content": "🆕Guvernul României Guvernul este autoritatea publică a puterii executive, care funcționează în baza votului de încredere acordat de Parlament și care asigură realizarea politicii interne și externe a țării și exercită conducerea generală a administrației publice. Află mai multeArticol preluat de pe gov.ro 🌐 https:// noutati24.ro/sedinta-de-guvern -din-24-septembrie-2026/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@noutati24/117330470426138040",
-      "date": "Fri, 25 Sep 2026 07:21:38 +0000",
-      "content": "🆕Galerie foto COMUNICAT DE PRESĂ Premierul Ilie Bolojan a primit astăzi, la Palatul Victoria, o delegație a agenției internaționale de rating financiar Standard &amp; Poor’s, aflată la București în contextul procesului de evaluare periodică a evoluțiilor economice și fiscale ale 🌐 https:// noutati24.ro/premierul-ilie-bo lojan-sunt-optimist-ca-oamenii-politici-care-au-interes-ca-romania-sa-ramana-stabila-vor-continua-linia-politicilor-guvernamentale-pentru-pastrarea-echilibrelor-si-reducerea-deficitu/"
     }
   ]
 }
