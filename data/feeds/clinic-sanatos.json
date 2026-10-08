@@ -4,8 +4,14 @@
   "site_feed": "https://clinic-sanatos.ro/feed/",
   "mastodon": "https://social.5th.ro/@clinic_sanatos",
   "mastodon_rss": "https://social.5th.ro/@clinic_sanatos.rss",
-  "updated_at": "2026-10-08T06:01:16Z",
+  "updated_at": "2026-10-08T13:26:29Z",
   "site_posts": [
+    {
+      "title": "Dincolo de kilograme: ce arată noile date despre Wegovy® și grăsimea acumulată în ficat",
+      "link": "https://clinic-sanatos.ro/dincolo-de-kilograme-ce-arata-noile-date-despre-wegovy-si-grasimea-acumulata-in-ficat/",
+      "date": "Thu, 08 Oct 2026 09:02:00 +0000",
+      "summary": "O analiză prezentată la EASD 2026 aduce &#238;n prim-plan sănătatea ficatului la persoanele cu obezitate:... Articolul Dincolo de kilograme: ce arată noile date despre Wegovy® și grăsimea acumulată în ficat apare prima dată în Clinic Sanatos ."
+    },
     {
       "title": "„Sigur am făcut eu ceva greșit”. De ce analizăm obsesiv conversațiile după ce s-au terminat",
       "link": "https://clinic-sanatos.ro/sigur-am-facut-eu-ceva-gresit-de-ce-analizam-obsesiv-conversatiile-dupa-ce-s-au-terminat/",
@@ -71,15 +77,15 @@
       "link": "https://clinic-sanatos.ro/aminoacizii-in-alimentatie-de-ce-sunt-importanti-pentru-organism/",
       "date": "Mon, 16 Mar 2026 10:24:37 +0000",
       "summary": "Aminoacizii sunt compuși organici esențiali care stau la baza proteinelor din organism. Practic, fiecare celulă,... Articolul Aminoacizii în alimentație: de ce sunt importanți pentru organism apare prima dată în Clinic Sanatos ."
-    },
-    {
-      "title": "Strategii pentru fortificarea rezistenței celor mici în fața virozelor",
-      "link": "https://clinic-sanatos.ro/strategii-pentru-fortificarea-rezistentei-celor-mici-in-fata-virozelor/",
-      "date": "Tue, 17 Feb 2026 12:29:20 +0000",
-      "summary": "Odată cu scăderea temperaturilor și reîntoarcerea în colectivitate, sistemul defensiv al copilului tău intră într-o... Articolul Strategii pentru fortificarea rezistenței celor mici în fața virozelor apare prima dată în Clinic Sanatos ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@clinic_sanatos/117405208521757733",
+      "date": "Thu, 08 Oct 2026 12:08:31 +0000",
+      "content": "O analiză prezentată la EASD 2026 aduce în prim-plan sănătatea ficatului la persoanele cu obezitate: după 72 de săptămâni de tratament cu Wegovy®, conținutul mediu de grăsime hepatică a scăzut de la 8,8% la 3,1%. Scăderea în greutate este rezultatul cel mai vizibil al unui tratament pentru obezitate. O analiză prezentată de Novo la Congresul… .... https:// clinic-sanatos.ro/dincolo-de-k ilograme-ce-arata-noile-date-despre-wegovy-si-grasimea-acumulata-in-ficat/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@clinic_sanatos/117364573425159166",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@clinic_sanatos/116085972225143871",
       "date": "Tue, 17 Feb 2026 12:29:23 +0000",
       "content": "Odată cu scăderea temperaturilor și reîntoarcerea în colectivitate, sistemul defensiv al copilului tău intră într-o fază de testare intensă. Nu este doar o coincidență faptul că episoadele de strănut și febră devin mai frecvente în lunile de iarnă. Organismul celor mici trece printr-un proces complex de adaptare, în care barierele naturale de protecție trebuie să… .... https:// clinic-sanatos.ro/strategii-pe ntru-fortificarea-rezistentei-celor-mici-in-fata-virozelor/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@clinic_sanatos/116047900883493244",
-      "date": "Tue, 10 Feb 2026 19:07:20 +0000",
-      "content": "Rinita alergica este una dintre cele mai frecvente afectiuni respiratorii, dar si una dintre cele mai subestimate. Multi pacienti o confunda cu o raceala banala sau cu o sensibilitate sezoniera, ignorand impactul real pe care il are asupra calitatii vietii. Congestia nazala persistenta, stranutul repetat, secretiile abundente si senzatia de nas infundat pot deveni probleme… .... https:// clinic-sanatos.ro/rinita-alerg ica-de-ce-este-mai-mult-decat-o-simpla-raceala-si-cand-trebuie-tratata-corect/"
     }
   ]
 }

@@ -4,8 +4,14 @@
   "site_feed": "https://doctor360.ro/feed/",
   "mastodon": "https://social.5th.ro/@doctor360",
   "mastodon_rss": "https://social.5th.ro/@doctor360.rss",
-  "updated_at": "2026-10-08T06:01:19Z",
+  "updated_at": "2026-10-08T13:26:32Z",
   "site_posts": [
+    {
+      "title": "Dincolo de kilograme: ce arată noile date despre Wegovy® și grăsimea acumulată în ficat",
+      "link": "https://doctor360.ro/dincolo-de-kilograme-ce-arata-noile-date-despre-wegovy-si-grasimea-acumulata-in-ficat/",
+      "date": "Thu, 08 Oct 2026 09:02:00 +0000",
+      "summary": "O analiză prezentată la EASD 2026 aduce &#238;n prim-plan sănătatea ficatului la persoanele cu obezitate: după 72 de săptăm&#226;ni de tratament cu Wegovy&#174;, conținutul mediu de grăsime hepatică a scăzut de la 8,8% la 3,1%. Scăderea &#238;n greutate este rezultatul cel mai vizibil al unui tratament pentru obezitate. O analiză prezentată de Novo la Congresul [&#8230;] Articolul Dincolo de kilograme: ce arată noile date despre Wegovy® și grăsimea acumulată în ficat apare prima dată în Doctor 360 ."
+    },
     {
       "title": "Când durerea persistă, ce metode moderne pot completa recuperarea?",
       "link": "https://doctor360.ro/durerea-persista-metode-recuperare/",
@@ -71,15 +77,15 @@
       "link": "https://doctor360.ro/dragobete-si-8-martie-cum-transformi-aceasta-perioada-intr-un-festival-al-rasfatuluifebruarie-si-inceputul-lunii-martie-marcheaza-an-de-an/",
       "date": "Tue, 17 Feb 2026 09:13:47 +0000",
       "summary": "Dragobete și 8 Martie: cum transformi această perioadă într-un festival al răsfățului Februarie și începutul lunii martie marchează, an de an, sezonul dedicat iubirii și aprecierii. Dragobetele aduce tradiția locală în prim-plan, în timp ce 1 și 8 Martie devin ocazii perfecte pentru a celebra femeile importante din viața noastră. În această perioadă, gesturile mici, [&#8230;] Articolul Dragobete și 8 Martie: cum transformi această perioadă într-un festival al răsfățuluiFebruarie și începutul lunii martie marchează, an de an apare prima dată în Doctor 360 ."
-    },
-    {
-      "title": "Tratament eficient pentru vertij – cum sa gestionezi dezechilibrul si ametelile",
-      "link": "https://doctor360.ro/tratament-eficient-pentru-vertij-cum-sa-gestionezi-dezechilibrul-si-ametelile/",
-      "date": "Tue, 10 Feb 2026 19:11:13 +0000",
-      "summary": "Vertijul reprezinta o afectiune frecventa, care poate afecta persoane de toate varstele, manifestandu-se prin senzatia de rotire a mediului inconjurator sau a corpului, pierderea echilibrului si greata. Desi multi pacienti considera ca episoadele sunt usoare si trecatoare, netratate pot afecta semnificativ viata de zi cu zi, provocand cadere, anxietate si scaderea performantelor profesionale. De aceea, [&#8230;] Articolul Tratament eficient pentru vertij – cum sa gestionezi dezechilibrul si ametelile apare prima dată în Doctor 360 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@doctor360/117405203054994142",
+      "date": "Thu, 08 Oct 2026 12:07:08 +0000",
+      "content": "💡O analiză prezentată la EASD 2026 aduce în prim-plan sănătatea ficatului la persoanele cu obezitate: după 72 de săptămâni de tratament cu Wegovy®, conținutul mediu de grăsime hepatică a scăzut de la 8,8% la 3,1%. Scăderea în greutate este rezultatul cel mai vizibil al unui tratament pentru obezitate. O analiză prezentată de Novo la Congresul… 💡 https:// doctor360.ro/dincolo-de-kilogr ame-ce-arata-noile-date-despre-wegovy-si-grasimea-acumulata-in-ficat/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@doctor360/117370127331691375",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@doctor360/116085684985844508",
       "date": "Tue, 17 Feb 2026 11:16:20 +0000",
       "content": "💡Dragobete și 8 Martie: cum transformi această perioadă într-un festival al răsfățuluiFebruarie și începutul lunii martie marchează, an de an, sezonul dedicat iubirii și aprecierii. Dragobetele aduce tradiția locală în prim-plan, în timp ce 1 și 8 Martie devin ocazii perfecte pentru a celebra femeile importante din viața noastră. În 💡 https:// doctor360.ro/dragobete-si-8-ma rtie-cum-transformi-aceasta-perioada-intr-un-festival-al-rasfatuluifebruarie-si-inceputul-lunii-martie-marcheaza-an-de-an/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@doctor360/116047916163471632",
-      "date": "Tue, 10 Feb 2026 19:11:13 +0000",
-      "content": "💡Vertijul reprezinta o afectiune frecventa, care poate afecta persoane de toate varstele, manifestandu-se prin senzatia de rotire a mediului inconjurator sau a corpului, pierderea echilibrului si greata. Desi multi pacienti considera ca episoadele sunt usoare si trecatoare, netratate pot afecta semnificativ viata de zi cu zi, provocand cadere, anxietate si scaderea performantelor profesionale. 💡 https:// doctor360.ro/tratament-eficien t-pentru-vertij-cum-sa-gestionezi-dezechilibrul-si-ametelile/"
     }
   ]
 }
