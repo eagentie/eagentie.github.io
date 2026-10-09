@@ -4,7 +4,7 @@
   "site_feed": "https://9z.ro/feed/",
   "mastodon": "https://social.5th.ro/@9z",
   "mastodon_rss": "https://social.5th.ro/@9z.rss",
-  "updated_at": "2026-10-09T07:24:02Z",
+  "updated_at": "2026-10-09T15:18:33Z",
   "site_posts": [
     {
       "title": "Actualizarea codurilor CAEN, obligatorie pentru firme",
@@ -70,6 +70,12 @@
   "mastodon_posts": [
     {
       "title": "",
+      "link": "https://social.5th.ro/@9z/117410752099011963",
+      "date": "Fri, 09 Oct 2026 11:38:19 +0000",
+      "content": "Ferestrele mari fac orice cameră mai luminoasă și mai plăcută, dar aduc și privirile curioase dinspre stradă sau dinspre blocul vecin, mai ales seara, când aprinzi luminile. Vestea bună? Nu trebuie să alegi între o casă luminoasă și una în care te simți în largul tău. Cu textilele potrivite, câteva storuri, o folie pentru geam… https:// comunicatpresa.9z.ro/lumina-na turala-si-intimitatea-cum-gasesti-echilibrul-in-casa/"
+    },
+    {
+      "title": "",
       "link": "https://social.5th.ro/@9z/117393307284573450",
       "date": "Tue, 06 Oct 2026 09:41:53 +0000",
       "content": "Magneții sunt printre cele mai simple materiale cu care poți face experimente acasă. Nu ai nevoie de aparate complicate, de laborator sau de explicații grele. Ai nevoie de câțiva magneți potriviți, agrafe, hârtie, pilitură de fier, monede, apă, carton, câteva obiecte din casă și puțină răbdare.Pentru copii, partea interesantă apare imediat. Un obiect se mișcă… https:// 9z.ro/10-experimente-simple-cu -magneti-de-care-copiii-tai-vor-fi-incantati/"
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@9z/117347389921084965",
       "date": "Mon, 28 Sep 2026 07:04:29 +0000",
       "content": "Un utilaj care se oprește nu trimite factura doar prin piesa care trebuie înlocuită. Costul real se adună din ore de producție pierdute, intervenții neplanificate, manoperă și consumuri care se repetă fără să rezolve cauza. De aceea, prețul unui lubrifiant este doar o mică parte din ceea ce trebuie urmărit într-un program de mentenanță.Lubrifierea utilajelor… https:// comunicatpresa.9z.ro/factura-n u-incepe-la-raftul-cu-lubrifianti/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@9z/117347311221662847",
-      "date": "Mon, 28 Sep 2026 06:44:28 +0000",
-      "content": "Începând cu 11 septembrie 2026, producătorii de software și hardware comercializate în Europa care intră sub incidența Cyber Resilience Act (CRA) trebuie să raporteze vulnerabilitățile exploatate activ și incidentele severe de securitate, cu o primă notificare în maximum 24 https:// comunicatpresa.9z.ro/de-la-11- septembrie-producatorii-de-software-si-echipamente-conectate-trebuie-sa-raporteze-vulnerabilitatile-exploatate-activ-cyber_folks-fara-monitorizare-continua-termenul-de-24-de-ore-devine-o/"
     }
   ]
 }
