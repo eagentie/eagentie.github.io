@@ -4,8 +4,14 @@
   "site_feed": "https://9z.ro/feed/",
   "mastodon": "https://social.5th.ro/@9z",
   "mastodon_rss": "https://social.5th.ro/@9z.rss",
-  "updated_at": "2026-10-10T12:29:59Z",
+  "updated_at": "2026-10-10T17:52:22Z",
   "site_posts": [
+    {
+      "title": "Ce verifici înainte să automatizezi articolele cu AI",
+      "link": "https://9z.ro/automatizare-articole-ai-moon-post/",
+      "date": "Sat, 10 Oct 2026 15:29:23 +0000",
+      "summary": "Automatizarea articolelor începe cu subiecte relevante și informații corecte. Descoperă ce trebuie verificat înainte de publicare și unde se încadrează MOON Post. The post Ce verifici înainte să automatizezi articolele cu AI appeared first on 9z ."
+    },
     {
       "title": "Actualizarea codurilor CAEN, obligatorie pentru firme",
       "link": "https://9z.ro/actualizarea-codurilor-caen-la-rev-3-este-obligatorie-doar-1-3-au-reusit/",
@@ -59,15 +65,15 @@
       "link": "https://9z.ro/foloseste-card-avantaj-wizz/",
       "date": "Wed, 23 Sep 2026 10:08:32 +0000",
       "summary": "Descopera cum sa folosesti cardul WIZZ pentru zboruri si cheltuieli. Afla despre cashback, rate si asigurare de calatorie. The post Cum folosești WIZZ Card Avantaj pentru zboruri, bagaje și cheltuieli de vacanță appeared first on 9z ."
-    },
-    {
-      "title": "5 avantaje ale spălătoriilor automate cu portal pentru antreprenori",
-      "link": "https://9z.ro/avantaje-spalatoriilor-portal/",
-      "date": "Tue, 22 Sep 2026 09:21:53 +0000",
-      "summary": "Sistemul cu portal ofera un model de business predictibil, cu timpi de ciclu scurti si cheltuieli operationale controlate. The post 5 avantaje ale spălătoriilor automate cu portal pentru antreprenori appeared first on 9z ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@9z/117417323204560802",
+      "date": "Sat, 10 Oct 2026 15:29:27 +0000",
+      "content": "Automatizarea articolelor începe cu subiecte relevante și informații corecte. Descoperă ce trebuie verificat înainte de publicare și unde se încadrează MOON Post. https:// 9z.ro/automatizare-articole-ai -moon-post/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@9z/117410752099011963",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@9z/117353535727765664",
       "date": "Tue, 29 Sep 2026 09:07:27 +0000",
       "content": "Comparam stabilitatea unei banci fixe cu flexibilitatea uneia reglabile. Afla care varianta se potriveste mai bine programului tau de antrenament acasa. https:// 9z.ro/banca-fixa-reglabila-mul tifunctionala/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@9z/117347389921084965",
-      "date": "Mon, 28 Sep 2026 07:04:29 +0000",
-      "content": "Un utilaj care se oprește nu trimite factura doar prin piesa care trebuie înlocuită. Costul real se adună din ore de producție pierdute, intervenții neplanificate, manoperă și consumuri care se repetă fără să rezolve cauza. De aceea, prețul unui lubrifiant este doar o mică parte din ceea ce trebuie urmărit într-un program de mentenanță.Lubrifierea utilajelor… https:// comunicatpresa.9z.ro/factura-n u-incepe-la-raftul-cu-lubrifianti/"
     }
   ]
 }
