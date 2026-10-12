@@ -4,8 +4,14 @@
   "site_feed": "https://9z.ro/feed/",
   "mastodon": "https://social.5th.ro/@9z",
   "mastodon_rss": "https://social.5th.ro/@9z.rss",
-  "updated_at": "2026-10-12T10:45:57Z",
+  "updated_at": "2026-10-12T20:18:49Z",
   "site_posts": [
+    {
+      "title": "Telefoanele pliabile: merită? Avantajele și compromisurile unui design nou",
+      "link": "https://9z.ro/telefoane-pliabile-merita/",
+      "date": "Mon, 12 Oct 2026 11:14:10 +0000",
+      "summary": "Descopera daca un telefon pliabil se potriveste rutinei tale. Analizam diferenta dintre modelele flip si book, precum si aspectele practice de intretinere. The post Telefoanele pliabile: merită? Avantajele și compromisurile unui design nou appeared first on 9z ."
+    },
     {
       "title": "Ce verifici înainte să automatizezi articolele cu AI",
       "link": "https://9z.ro/automatizare-articole-ai-moon-post/",
@@ -59,15 +65,15 @@
       "link": "https://9z.ro/de-ce-lenjeria-de-pat-din-bumbac-ranforce-este-preferata-tuturor/",
       "date": "Wed, 23 Sep 2026 12:32:00 +0000",
       "summary": "Alegerea lenjeriei de pat poate părea un detaliu minor atunci c&#226;nd amenajezi dormitorul, &#238;nsă materialul pe care dormi &#238;n fiecare noapte are un rol important &#238;n confortul tău. O lenjerie plăcută la atingere, rezistentă și ușor de &#238;ntreținut poate transforma patul &#238;ntr-un spațiu cu adevărat primitor. Tocmai de aceea, lenjeriile realizate din bumbac ranforce se [&#8230;] The post De ce lenjeria de pat din bumbac ranforce este preferată tuturor? appeared first on 9z ."
-    },
-    {
-      "title": "Cum folosești WIZZ Card Avantaj pentru zboruri, bagaje și cheltuieli de vacanță",
-      "link": "https://9z.ro/foloseste-card-avantaj-wizz/",
-      "date": "Wed, 23 Sep 2026 10:08:32 +0000",
-      "summary": "Descopera cum sa folosesti cardul WIZZ pentru zboruri si cheltuieli. Afla despre cashback, rate si asigurare de calatorie. The post Cum folosești WIZZ Card Avantaj pentru zboruri, bagaje și cheltuieli de vacanță appeared first on 9z ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@9z/117427644220265737",
+      "date": "Mon, 12 Oct 2026 11:14:13 +0000",
+      "content": "Descopera daca un telefon pliabil se potriveste rutinei tale. Analizam diferenta dintre modelele flip si book, precum si aspectele practice de intretinere. https:// 9z.ro/telefoane-pliabile-merit a/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@9z/117417323204560802",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@9z/117353535754896446",
       "date": "Tue, 29 Sep 2026 09:07:27 +0000",
       "content": "Descopera cum produsele hoteliere potrivite sustin confortul si imaginea unitatii tale. Primeste criterii clare pentru o selectie eficienta. https:// 9z.ro/produsele-hoteliere-expe rienta-oaspeti/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@9z/117353535727765664",
-      "date": "Tue, 29 Sep 2026 09:07:27 +0000",
-      "content": "Comparam stabilitatea unei banci fixe cu flexibilitatea uneia reglabile. Afla care varianta se potriveste mai bine programului tau de antrenament acasa. https:// 9z.ro/banca-fixa-reglabila-mul tifunctionala/"
     }
   ]
 }
