@@ -4,8 +4,14 @@
   "site_feed": "https://noutati24.ro/feed/",
   "mastodon": "https://social.5th.ro/@noutati24",
   "mastodon_rss": "https://social.5th.ro/@noutati24.rss",
-  "updated_at": "2026-10-13T09:24:06Z",
+  "updated_at": "2026-10-13T17:35:43Z",
   "site_posts": [
+    {
+      "title": "Comunitatea de sustenabilitate eEco iese din online",
+      "link": "https://noutati24.ro/comunitatea-de-sustenabilitate-eeco-iese-din-online/",
+      "date": "Tue, 13 Oct 2026 08:11:17 +0000",
+      "summary": "&#160;La 4 ani de la lansare, eEco.ro &#238;și mută eforturile de construcție a unui ecosistem de sustenabilitate de pe platforma &#8230; Articolul Comunitatea de sustenabilitate eEco iese din online apare prima dată în Noutati 24 ."
+    },
     {
       "title": "Cetățeanul român urmărit internațional pentru omor, extrădat din Confederația Elvețiană, 6 octombrie 2026",
       "link": "https://noutati24.ro/cetateanul-roman-urmarit-international-pentru-omor-extradat-din-confederatia-elvetiana-6-octombrie-2026/",
@@ -71,15 +77,15 @@
       "link": "https://noutati24.ro/ministerul-justitiei-continua-monitorizarea-investitiilor-in-infrastructura-instantelor-si-accelereaza-lucrarile-aflate-in-derulare-25-septembrie-2026/",
       "date": "Fri, 25 Sep 2026 12:15:34 +0000",
       "summary": "Ministerul Justiției urmărește dezvoltarea unei infrastructuri judiciare moderne, sigure și funcționale, capabile să răspundă atât nevoilor instanțelor, cât și așteptărilor &#8230; Articolul Ministerul Justiției continuă monitorizarea investițiilor în infrastructura instanțelor și accelerează lucrările aflate în derulare, 25 septembrie 2026 apare prima dată în Noutati 24 ."
-    },
-    {
-      "title": "Premierul Ilie Bolojan: Sunt optimist că oamenii politici care au interes ca România să rămână stabilă vor continua linia politicilor guvernamentale pentru păstrarea echilibrelor și reducerea deficitului bugetar",
-      "link": "https://noutati24.ro/premierul-ilie-bolojan-sunt-optimist-ca-oamenii-politici-care-au-interes-ca-romania-sa-ramana-stabila-vor-continua-linia-politicilor-guvernamentale-pentru-pastrarea-echilibrelor-si-reducerea-deficitu/",
-      "date": "Thu, 24 Sep 2026 18:31:00 +0000",
-      "summary": "Galerie foto COMUNICAT DE PRESĂ Premierul Ilie Bolojan a primit astăzi, la Palatul Victoria, o delegație a agenției internaționale de &#8230; Articolul Premierul Ilie Bolojan: Sunt optimist că oamenii politici care au interes ca România să rămână stabilă vor continua linia politicilor guvernamentale pentru păstrarea echilibrelor și reducerea deficitului bugetar apare prima dată în Noutati 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@noutati24/117433300319330722",
+      "date": "Tue, 13 Oct 2026 11:12:38 +0000",
+      "content": "🆕 La 4 ani de la lansare, eEco.ro își mută eforturile de construcție a unui ecosistem de sustenabilitate de pe platforma online într-o clădire interbelică, în centrul Bucureștiului, printr-un parteneriat strategic cu Urban Hub. București, 13 octombrie 2026 - Începând din luna noiembrie 2026, întâlnirile periodice ale comunității de sustenabilitate eEco și unele activități ale celor… 🌐 https:// noutati24.ro/comunitatea-de-su stenabilitate-eeco-iese-din-online/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@noutati24/117398691738900307",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@noutati24/117336139274825101",
       "date": "Sat, 26 Sep 2026 07:23:18 +0000",
       "content": "🆕În contextul implementării Programului Justiție, finanțat prin Programul de Cooperare Elvețiano-Român, în data de 25 septembrie 2026, Ministerul Justiției, în calitate de Operator de Program, a organizat o sesiune de consultări în vederea identificării de noi direcții de 🌐 https:// noutati24.ro/participarea-secr etarului-de-stat-in-ministerul-justitiei-doamna-teodora-stoian-la-sesiunea-de-consultari-in-contextul-implementarii-programului-justitie-finantat-prin-programul-de-cooperare-elveti/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@noutati24/117330470657514134",
-      "date": "Fri, 25 Sep 2026 07:21:42 +0000",
-      "content": "🆕Guvernul României Guvernul este autoritatea publică a puterii executive, care funcționează în baza votului de încredere acordat de Parlament și care asigură realizarea politicii interne și externe a țării și exercită conducerea generală a administrației publice. Află mai multeArticol preluat de pe gov.ro 🌐 https:// noutati24.ro/sedinta-de-guvern -din-24-septembrie-2026/"
     }
   ]
 }

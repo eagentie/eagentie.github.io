@@ -4,8 +4,14 @@
   "site_feed": "https://doctor360.ro/feed/",
   "mastodon": "https://social.5th.ro/@doctor360",
   "mastodon_rss": "https://social.5th.ro/@doctor360.rss",
-  "updated_at": "2026-10-13T09:24:51Z",
+  "updated_at": "2026-10-13T17:36:22Z",
   "site_posts": [
+    {
+      "title": "Infecția urinară: de ce apare și cum scapi de ea rapid?",
+      "link": "https://doctor360.ro/infectia-urinara-de-ce-apare-si-cum-scapi-de-ea-rapid/",
+      "date": "Tue, 13 Oct 2026 10:10:00 +0000",
+      "summary": "Cu o frecvență mai mare decât ne închipuim de-a lungul vieții, având simptome ușor de recunoscut și tratamente eficiente dezvoltate de-a lungul anilor, infecțiile urinare la bărbați și femei rămân unele dintre cele mai diagnosticate probleme ale aparatului urinar. Infecția urinară nu apare oricum și are de obicei cauze comune, diferite însă la bărbați și [&#8230;] Articolul Infecția urinară: de ce apare și cum scapi de ea rapid? apare prima dată în Doctor 360 ."
+    },
     {
       "title": "Dincolo de kilograme: ce arată noile date despre Wegovy® și grăsimea acumulată în ficat",
       "link": "https://doctor360.ro/dincolo-de-kilograme-ce-arata-noile-date-despre-wegovy-si-grasimea-acumulata-in-ficat/",
@@ -71,15 +77,15 @@
       "link": "https://doctor360.ro/adenomioza-de-ce-uterul-devine-dureros-marit-si-inflamat/",
       "date": "Fri, 27 Feb 2026 10:42:44 +0000",
       "summary": "Durerile menstruale severe și sângerările care par să nu se mai oprească sunt adesea etichetate, în mod eronat și superficial, ca fiind &#8222;normale&#8221; sau &#8222;o parte inerentă a vieții de femeie&#8221;. Multe paciente ajung la medicul ginecolog convinse că suferă de fibroame uterine, acele tumori benigne arhicunoscute. Însă, surpriza apare la ecografie: medicul nu găsește [&#8230;] Articolul Adenomioza: De ce uterul devine dureros, mărit și inflamat apare prima dată în Doctor 360 ."
-    },
-    {
-      "title": "Dragobete și 8 Martie: cum transformi această perioadă într-un festival al răsfățuluiFebruarie și începutul lunii martie marchează, an de an",
-      "link": "https://doctor360.ro/dragobete-si-8-martie-cum-transformi-aceasta-perioada-intr-un-festival-al-rasfatuluifebruarie-si-inceputul-lunii-martie-marcheaza-an-de-an/",
-      "date": "Tue, 17 Feb 2026 09:13:47 +0000",
-      "summary": "Dragobete și 8 Martie: cum transformi această perioadă într-un festival al răsfățului Februarie și începutul lunii martie marchează, an de an, sezonul dedicat iubirii și aprecierii. Dragobetele aduce tradiția locală în prim-plan, în timp ce 1 și 8 Martie devin ocazii perfecte pentru a celebra femeile importante din viața noastră. În această perioadă, gesturile mici, [&#8230;] Articolul Dragobete și 8 Martie: cum transformi această perioadă într-un festival al răsfățuluiFebruarie și începutul lunii martie marchează, an de an apare prima dată în Doctor 360 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@doctor360/117433054088202162",
+      "date": "Tue, 13 Oct 2026 10:10:01 +0000",
+      "content": "💡Cu o frecvență mai mare decât ne închipuim de-a lungul vieții, având simptome ușor de recunoscut și tratamente eficiente dezvoltate de-a lungul anilor, infecțiile urinare la bărbați și femei rămân unele dintre cele mai diagnosticate probleme ale aparatului urinar. Infecția urinară nu apare oricum și are de obicei cauze comune, diferite însă la bărbați și… 💡 https:// doctor360.ro/infectia-urinara- de-ce-apare-si-cum-scapi-de-ea-rapid/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@doctor360/117405203054994142",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@doctor360/116142175984614473",
       "date": "Fri, 27 Feb 2026 10:42:44 +0000",
       "content": "💡Durerile menstruale severe și sângerările care par să nu se mai oprească sunt adesea etichetate, în mod eronat și superficial, ca fiind &quot;normale&quot; sau &quot;o parte inerentă a vieții de femeie&quot;. Multe paciente ajung la medicul ginecolog convinse că suferă de fibroame uterine, acele tumori benigne arhicunoscute. Însă, surpriza apare la ecografie: medicul nu găsește… 💡 https:// doctor360.ro/adenomioza-de-ce- uterul-devine-dureros-marit-si-inflamat/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@doctor360/116085684985844508",
-      "date": "Tue, 17 Feb 2026 11:16:20 +0000",
-      "content": "💡Dragobete și 8 Martie: cum transformi această perioadă într-un festival al răsfățuluiFebruarie și începutul lunii martie marchează, an de an, sezonul dedicat iubirii și aprecierii. Dragobetele aduce tradiția locală în prim-plan, în timp ce 1 și 8 Martie devin ocazii perfecte pentru a celebra femeile importante din viața noastră. În 💡 https:// doctor360.ro/dragobete-si-8-ma rtie-cum-transformi-aceasta-perioada-intr-un-festival-al-rasfatuluifebruarie-si-inceputul-lunii-martie-marcheaza-an-de-an/"
     }
   ]
 }
