@@ -4,8 +4,14 @@
   "site_feed": "https://iFemeie.ro/feed/",
   "mastodon": "https://social.5th.ro/@iFemeie",
   "mastodon_rss": "https://social.5th.ro/@iFemeie.rss",
-  "updated_at": "2026-10-13T17:36:39Z",
+  "updated_at": "2026-10-13T22:43:57Z",
   "site_posts": [
+    {
+      "title": "De ce multe femei simt că nu ajung suficient de ușor la orgasm",
+      "link": "https://ifemeie.ro/multe-femei-orgasm-dificil/",
+      "date": "Tue, 13 Oct 2026 17:44:23 +0000",
+      "summary": "Descopera cauzele comune ale dificultatii de a ajunge la orgasm si cum poti imbunatati experienta prin relaxare si comunicare. Articolul De ce multe femei simt că nu ajung suficient de ușor la orgasm apare prima dată în iFemeie ."
+    },
     {
       "title": "Cum alegi o bijuterie premium pentru o aniversare importantă: ce recomandă TEILOR",
       "link": "https://ifemeie.ro/cum-alegi-o-bijuterie-premium-pentru-o-aniversare-importanta-ce-recomanda-teilor/",
@@ -65,15 +71,15 @@
       "link": "https://ifemeie.ro/cat-dureaza-operatia-de-polipi-la-copii-si-ce-urmeaza-in-perioada-de-recuperare-postoperatorie/",
       "date": "Fri, 31 Jul 2026 13:39:59 +0000",
       "summary": "Perioada dinaintea unei interventii chirurgicale pentru cel mic este marcata inevitabil de intrebari, de emotii... Articolul Cat dureaza operatia de polipi la copii si ce urmeaza in perioada de recuperare postoperatorie apare prima dată în iFemeie ."
-    },
-    {
-      "title": "Mituri și adevăruri despre chirurgia robotică",
-      "link": "https://ifemeie.ro/mituri-si-adevaruri-despre-chirurgia-robotica/",
-      "date": "Fri, 31 Jul 2026 08:32:01 +0000",
-      "summary": "Tehnologia medicală a evoluat extraordinar în ultimii ani, redefinind complet modul în care sunt tratate... Articolul Mituri și adevăruri despre chirurgia robotică apare prima dată în iFemeie ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@iFemeie/117434840764268712",
+      "date": "Tue, 13 Oct 2026 17:44:23 +0000",
+      "content": "Descopera cauzele comune ale dificultatii de a ajunge la orgasm si cum poti imbunatati experienta prin relaxare si comunicare. https:// ifemeie.ro/multe-femei-orgasm- dificil/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@iFemeie/117410758240462494",
@@ -139,12 +145,6 @@
       "link": "https://social.5th.ro/@iFemeie/117014493984426494",
       "date": "Fri, 31 Jul 2026 12:04:40 +0000",
       "content": "Tehnologia medicală a evoluat extraordinar în ultimii ani, redefinind complet modul în care sunt tratate afecțiunile complexe. Astăzi, intervențiile chirurgicale sunt mult mai sigure, mai precise și mult mai puțin invazive decât în trecut. Cu toate acestea, mulți pacienți simt o stare de anxietate atunci când aud despre conceptul de chirurgie robotică, din cauza lipsei… https:// ifemeie.ro/mituri-si-adevaruri -despre-chirurgia-robotica/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@iFemeie/116799194349351946",
-      "date": "Tue, 23 Jun 2026 11:31:09 +0000",
-      "content": "Dr. Bogdan Serban explică, pentru pacienți din București, ce afecțiuni pot fi evaluate chirurgical. Informații despre eventrație și când merită o consultație. https:// ifemeie.ro/eventratia-postoper atorie-de-ce-apare-si-cum-se-trateaza-corect/"
     }
   ]
 }

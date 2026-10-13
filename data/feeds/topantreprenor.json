@@ -4,8 +4,14 @@
   "site_feed": "https://topantreprenor.ro/feed/",
   "mastodon": "https://social.5th.ro/@topantreprenor",
   "mastodon_rss": "https://social.5th.ro/@topantreprenor.rss",
-  "updated_at": "2026-10-13T17:36:12Z",
+  "updated_at": "2026-10-13T22:43:30Z",
   "site_posts": [
+    {
+      "title": "3 cărți românești contemporane care merită descoperite",
+      "link": "https://topantreprenor.ro/carti-romaneesti-contemporane/",
+      "date": "Tue, 13 Oct 2026 19:42:40 +0000",
+      "summary": "O selectie de trei volume romanesti care exploreaza memoria, satira si poezia. Citeste despre autori care scriu dincolo de topurile de vanzari. The post 3 cărți românești contemporane care merită descoperite appeared first on Top Antreprenor ."
+    },
     {
       "title": "Dincolo de periaj: obiceiurile mici care pot schimba felul în care ai grijă de dinții tăi",
       "link": "https://topantreprenor.ro/obiceiuri-care-pot-schimba-igiena-orala/",
@@ -59,15 +65,15 @@
       "link": "https://topantreprenor.ro/cele-mai-des-intalnite-mituri-despre-suplimentele-naturale/",
       "date": "Tue, 15 Sep 2026 12:31:33 +0000",
       "summary": "Odată cu creșterea interesului pentru un stil de viață sănătos, tot mai multe persoane aleg să introducă suplimente în alimentația zilnică. Alături de această popularitate au apărut însă și numeroase idei preconcepute, unele transmise din generație în generație, altele răspândite rapid prin discuții informale sau prin conținut nesustinut de informații corecte. Separarea faptelor de mituri [&#8230;] The post Cele mai des întâlnite mituri despre suplimentele naturale appeared first on Top Antreprenor ."
-    },
-    {
-      "title": "Ce înseamnă un business medical construit în jurul experienței clientului",
-      "link": "https://topantreprenor.ro/ce-inseamna-un-business-medical-construit-in-jurul-experientei-clientului/",
-      "date": "Tue, 08 Sep 2026 13:54:04 +0000",
-      "summary": "Într-o clinică medicală, experiența pacientului începe înainte de consultație. Începe când caută informații, verifică serviciile, compară medici și încearcă să înțeleagă dacă poate avea încredere în echipa pe care o alege. Pentru un antreprenor din sectorul medical, această experiență nu ține de decor sau de câteva formule politicoase la recepție. Ea rezultă din modul în [&#8230;] The post Ce înseamnă un business medical construit în jurul experienței clientului appeared first on Top Antreprenor ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@topantreprenor/117435305861449482",
+      "date": "Tue, 13 Oct 2026 19:42:40 +0000",
+      "content": "📰O selectie de trei volume romanesti care exploreaza memoria, satira si poezia. Citeste despre autori care scriu dincolo de topurile de vanzari. 🌐 https:// topantreprenor.ro/carti-romane esti-contemporane/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@topantreprenor/117418045807962215",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@topantreprenor/117235754284035026",
       "date": "Tue, 08 Sep 2026 13:54:05 +0000",
       "content": "📰Într-o clinică medicală, experiența pacientului începe înainte de consultație. Începe când caută informații, verifică serviciile, compară medici și încearcă să înțeleagă dacă poate avea încredere în echipa pe care o alege. Pentru un antreprenor din sectorul medical, această experiență nu ține de decor sau de câteva formule politicoase la recepție. Ea rezultă din modul în… 🌐 https:// topantreprenor.ro/ce-inseamna- un-business-medical-construit-in-jurul-experientei-clientului/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@topantreprenor/117235303105899532",
-      "date": "Tue, 08 Sep 2026 11:59:20 +0000",
-      "content": "📰Descoperă cum funcționează aplicațiile de networking la evenimente B2B și cum ajută participanții să găsească contacte, să comunice și să programeze întâlniri. 🌐 https:// topantreprenor.ro/aplicatii-de -networking-la-evenimente-b2b-networking-profesional/"
     }
   ]
 }
