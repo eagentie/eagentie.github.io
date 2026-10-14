@@ -4,8 +4,14 @@
   "site_feed": "https://top15.ro/feed/",
   "mastodon": "https://social.5th.ro/@top",
   "mastodon_rss": "https://social.5th.ro/@top.rss",
-  "updated_at": "2026-10-14T07:37:05Z",
+  "updated_at": "2026-10-14T13:43:18Z",
   "site_posts": [
+    {
+      "title": "Anul acesta, re7consulting împlinește 11 ani.",
+      "link": "https://top15.ro/anul-acesta-re7consulting-implineste-11-ani/",
+      "date": "Wed, 14 Oct 2026 08:37:32 +0000",
+      "summary": "11 ani în care am lucrat cu sute de businessuri, am cunoscut antreprenori extraordinari, am... Articolul Anul acesta, re7consulting împlinește 11 ani. apare prima dată în TOP 15 ."
+    },
     {
       "title": "5 semne importante care îți spun că este timpul să îți schimbi telefonul",
       "link": "https://top15.ro/5-semne-importante-care-iti-spun-ca-este-timpul-sa-iti-schimbi-telefonul/",
@@ -71,15 +77,15 @@
       "link": "https://top15.ro/lenjeria-de-pat-220x240-confort-premium-pentru-paturile-king-size/",
       "date": "Wed, 26 Aug 2026 08:52:00 +0000",
       "summary": "Un pat spațios merită o lenjerie care să &#238;i completeze perfect dimensiunile și să ofere... Articolul Lenjeria de pat 220&#215;240 – confort premium pentru paturile king size apare prima dată în TOP 15 ."
-    },
-    {
-      "title": "Top 15 verificări pentru curățare tapițerie auto Oradea",
-      "link": "https://top15.ro/top-15-verificari-pentru-curatare-tapiterie-auto-oradea/",
-      "date": "Mon, 17 Aug 2026 03:37:42 +0000",
-      "summary": "Advertorial documentat cu experiența și portofoliul CleanSpot Oradea. O ofertă bună nu se evaluează doar... Articolul Top 15 verificări pentru curățare tapițerie auto Oradea apare prima dată în TOP 15 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@top/117438583409685440",
+      "date": "Wed, 14 Oct 2026 09:36:12 +0000",
+      "content": "📰11 ani în care am lucrat cu sute de businessuri, am cunoscut antreprenori extraordinari, am construit campanii de la zero și am sărbătorit rezultate alături de clienții noștri. Au fost ani cu multe schimbări. Am văzut platforme care au apărut, strategii care au funcționat și apoi au trebuit regândite, tehnologii care au schimbat complet felul… # agentiedemarketing # Comunicat # marketingdigital # parteneriate # strategiedeafaceri 📰 https:// top15.ro/anul-acesta-re7consul ting-implineste-11-ani/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@top/117410755685947039",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@top/117160957755289871",
       "date": "Wed, 26 Aug 2026 08:52:20 +0000",
       "content": "📰Un pat spațios merită o lenjerie care să îi completeze perfect dimensiunile și să ofere același nivel de confort. În cazul paturilor king size, alegerea unui set potrivit nu este doar o chestiune de estetică, ci și una de funcționalitate. O husă de pilotă prea mică sau un cearceaf care nu acoperă corespunzător salteaua pot… 📰 https:// top15.ro/lenjeria-de-pat-220x2 40-confort-premium-pentru-paturile-king-size/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@top/117126843162664495",
-      "date": "Thu, 20 Aug 2026 08:16:33 +0000",
-      "content": "📰Copilul poate spune că vrea să călărească după ce a văzut un cal într-o excursie, într-un film sau la un parc. Pentru părinte, primul pas este să stabilească ce înseamnă această dorință. Vrea să stea câteva minute în șa și să vadă cum se simte sau este pregătit să înceapă să învețe efectiv?Plimbarea cu poneiul… 📰 https:// top15.ro/copilul-spune-ca-vrea -sa-calareasca-ce-alegi-pentru-el-lectie-de-echitatie-sau-plimbare-cu-poneiul/"
     }
   ]
 }

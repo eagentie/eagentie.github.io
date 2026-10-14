@@ -4,8 +4,14 @@
   "site_feed": "https://clasici.ro/feed/",
   "mastodon": "https://social.5th.ro/@clasici",
   "mastodon_rss": "https://social.5th.ro/@clasici.rss",
-  "updated_at": "2026-10-14T07:36:01Z",
+  "updated_at": "2026-10-14T13:42:21Z",
   "site_posts": [
+    {
+      "title": "Anul acesta, re7consulting împlinește 11 ani.",
+      "link": "https://clasici.ro/anul-acesta-re7consulting-implineste-11-ani/",
+      "date": "Wed, 14 Oct 2026 08:37:32 +0000",
+      "summary": "11 ani în care am lucrat cu sute de businessuri, am cunoscut antreprenori extraordinari, am..."
+    },
     {
       "title": "Motoare trifazate cu talpă sau cu flanșă: cum alegi tipul de montaj",
       "link": "https://clasici.ro/motoare-trifazate-cu-talpa-sau-cu-flansa-cum-alegi-tipul-de-montaj/",
@@ -71,15 +77,15 @@
       "link": "https://clasici.ro/sa-iti-cumperi-patul-pentru-dormitor-o-alegere-mai-dificila-decat-crezi/",
       "date": "Thu, 25 Dec 2025 10:30:00 +0000",
       "summary": "Vrei să-ți (re)amenajezi dormitorul matrimonial? Sună excelent, mai ales că &#238;n mintea ta sunt deja..."
-    },
-    {
-      "title": "Mastodon WordPress: cum postezi pe mai multe instanțe (când ai nevoie)",
-      "link": "https://clasici.ro/mastodon-wordpress-cum-postezi-pe-mai-multe-instante-cand-ai-nevoie/",
-      "date": "Wed, 17 Dec 2025 16:58:54 +0000",
-      "summary": "De Ce Conținutul Tău WordPress Merită Mai Mult: Extinderea Pe Mastodon V-ați săturat de algoritmii..."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@clasici/117439538013281953",
+      "date": "Wed, 14 Oct 2026 13:38:58 +0000",
+      "content": "⭐11 ani în care am lucrat cu sute de businessuri, am cunoscut antreprenori extraordinari, am construit campanii de la zero și am sărbătorit rezultate alături de clienții noștri. Au fost ani cu multe schimbări. Am văzut platforme care au apărut, strategii care au funcționat și apoi au trebuit regândite, tehnologii care au schimbat complet felul… # agentiedemarketing # Comunicat # marketingdigital # parteneriate # strategiedeafaceri ⭐ https:// clasici.ro/anul-acesta-re7cons ulting-implineste-11-ani/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@clasici/117371275396695923",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@clasici/115847694804327683",
       "date": "Tue, 06 Jan 2026 10:32:18 +0000",
       "content": "⭐Vrei să-ți (re)amenajezi dormitorul matrimonial? Sună excelent, mai ales că în mintea ta sunt deja conturate unele care abia așteaptă să fie puse în practică. De altfel, ca să fii sigur, internetul și revistele de specialitate sunt cele care să zicem că te-au influențat puțin. Ne facem și noi datoria și îți venim în întâmpinare… ⭐ https:// clasici.ro/sa-iti-cumperi-patu l-pentru-dormitor-o-alegere-mai-dificila-decat-crezi/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@clasici/115736631274406908",
-      "date": "Wed, 17 Dec 2025 19:47:23 +0000",
-      "content": "⭐De Ce Conținutul Tău WordPress Merită Mai Mult: Extinderea Pe Mastodon V-ați săturat de algoritmii rețelelor sociale centralizate? Sunteți frustrat că efortul depus în blogul dumneavoastră pe WordPress nu ajunge la audiența potrivită? Nu sunteți singur. Mulți creatori de conținut caută o cale de ieșire din capcana engagement-ului manipulat. O soluție descentralizată a câștigat teren… ⭐ https:// clasici.ro/mastodon-wordpress- cum-postezi-pe-mai-multe-instante-cand-ai-nevoie/"
     }
   ]
 }
