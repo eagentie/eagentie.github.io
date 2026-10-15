@@ -4,8 +4,14 @@
   "site_feed": "https://arta-constructiilor.ro/feed/",
   "mastodon": "https://social.5th.ro/@ArtaConstructiilor",
   "mastodon_rss": "https://social.5th.ro/@ArtaConstructiilor.rss",
-  "updated_at": "2026-10-15T05:54:48Z",
+  "updated_at": "2026-10-15T11:26:05Z",
   "site_posts": [
+    {
+      "title": "Cum se calculează puterea caloriferelor necesare unei locuințe: ghid pentru alegerea corectă a radiatoarelor",
+      "link": "https://arta-constructiilor.ro/calcul-puterea-caloriferelor/",
+      "date": "Thu, 15 Oct 2026 07:16:52 +0000",
+      "summary": "Inveleste sa calculezi necesarul termic al unei locuinte folosind volumul si gradul de izolare. Ghidul explica cum sa alegi radiatoarele potrivite. Articolul Cum se calculează puterea caloriferelor necesare unei locuințe: ghid pentru alegerea corectă a radiatoarelor apare prima dată în Arta Constructiilor ."
+    },
     {
       "title": "Apartament într-un bloc nou: ce verifici înainte de recepție și de semnare",
       "link": "https://arta-constructiilor.ro/apartament-intr-un-bloc-nou-ce-verifici-inainte-de-receptie-si-de-semnare/",
@@ -59,15 +65,15 @@
       "link": "https://arta-constructiilor.ro/de-ce-hala-industriala-este-un-caz-de-risc-ridicat/",
       "date": "Fri, 18 Sep 2026 14:09:00 +0000",
       "summary": "Ce se întâmplă când o infiltrație oprește o linie de fabricație și cum poate fi prevenită Într-o hală industrială cu linii de producție moderne, fiecare &#8230; Articolul De ce hala industrială este un caz de risc ridicat apare prima dată în Arta Constructiilor ."
-    },
-    {
-      "title": "Ce tendințe conturează amenajarea birourilor orientate spre bunăstarea angajaților",
-      "link": "https://arta-constructiilor.ro/ce-tendinte-contureaza-amenajarea-birourilor-orientate-spre-bunastarea-angajatilor/",
-      "date": "Thu, 17 Sep 2026 09:36:09 +0000",
-      "summary": "Ideea de birou a evoluat considerabil în ultimii ani, iar tot mai multe companii privesc spațiul de lucru ca pe un factor direct legat de &#8230; Articolul Ce tendințe conturează amenajarea birourilor orientate spre bunăstarea angajaților apare prima dată în Arta Constructiilor ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@ArtaConstructiilor/117443697912956409",
+      "date": "Thu, 15 Oct 2026 07:16:53 +0000",
+      "content": "Inveleste sa calculezi necesarul termic al unei locuinte folosind volumul si gradul de izolare. Ghidul explica cum sa alegi radiatoarele potrivite. .... 🌐 https:// arta-constructiilor.ro/calcul- puterea-caloriferelor/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@ArtaConstructiilor/117387479700138828",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@ArtaConstructiilor/117280501852455095",
       "date": "Wed, 16 Sep 2026 11:33:58 +0000",
       "content": "Atunci când te pregătești pentru un proiect de construcție sau de amenajare, fie că este vorba despre o casă nouă, o renovare sau o grădină, alegerea corectă a materialelor de bază este crucială. Nisipul și pietrișul sunt agregate indispensabile, iar calitatea și proveniența lor pot influența semnificativ durabilitatea și costul final al lucrării. Navigarea pe… .... 🌐 https:// arta-constructiilor.ro/ghid-co mplet-pentru-achizitia-de-nisip-si-pietris-in-bucuresti-si-ilfov/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@ArtaConstructiilor/117190501129590044",
-      "date": "Mon, 31 Aug 2026 14:05:36 +0000",
-      "content": "Cum identifici exact locul unei probleme într-o conductă de canalizare fără să spargi inutilApa se scurge greu din chiuvetă, cada rămâne plină câteva minute după duș, din sifon urcă un miros persistent, iar uneori apa refulează exact în cel mai prost moment. Primul reflex este desfundarea. Uneori funcționează. Alteori, după câteva săptămâni, aceeași conductă se… .... 🌐 https:// arta-constructiilor.ro/inspect ie-video-canalizare-cum-afli-unde-e-problema/"
     }
   ]
 }

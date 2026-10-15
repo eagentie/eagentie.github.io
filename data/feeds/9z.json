@@ -4,8 +4,14 @@
   "site_feed": "https://9z.ro/feed/",
   "mastodon": "https://social.5th.ro/@9z",
   "mastodon_rss": "https://social.5th.ro/@9z.rss",
-  "updated_at": "2026-10-15T05:55:06Z",
+  "updated_at": "2026-10-15T11:26:23Z",
   "site_posts": [
+    {
+      "title": "Ce este un marketplace și cu ce diferă de un magazin online",
+      "link": "https://9z.ro/marketplace-magazin-online-diferente/",
+      "date": "Thu, 15 Oct 2026 10:04:52 +0000",
+      "summary": "Compara avantajele unui marketplace cu cele ale unui magazin online. Afla cum sa alegi platforma potrivita in functie de varietatea produselor si suportul oferit. The post Ce este un marketplace și cu ce diferă de un magazin online appeared first on 9z ."
+    },
     {
       "title": "Fotograf nunta Bucuresti | Andrei Lungu",
       "link": "https://9z.ro/fotograf-nunta-bucuresti-andrei-lungu/",
@@ -59,15 +65,15 @@
       "link": "https://9z.ro/banca-fixa-reglabila-multifunctionala/",
       "date": "Tue, 29 Sep 2026 09:07:23 +0000",
       "summary": "Comparam stabilitatea unei banci fixe cu flexibilitatea uneia reglabile. Afla care varianta se potriveste mai bine programului tau de antrenament acasa. The post Bancă fixă sau reglabilă: când merită investiția într-un model multifuncțional appeared first on 9z ."
-    },
-    {
-      "title": "Sfârșitul birocrației în HR: de ce compania ta are nevoie de un cont „all-in-one” pentru beneficii?",
-      "link": "https://9z.ro/cont-all-in-one-beneficii-hr/",
-      "date": "Thu, 24 Sep 2026 09:50:44 +0000",
-      "summary": "Gestionarea separata a tichetelor de masa, vacanta si cadourilor consuma timp in HR. Un cont all in one centralizeaza administrarea si elimina erorile de raportare. The post Sfârșitul birocrației în HR: de ce compania ta are nevoie de un cont „all-in-one&#8221; pentru beneficii? appeared first on 9z ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@9z/117444358720423663",
+      "date": "Thu, 15 Oct 2026 10:04:56 +0000",
+      "content": "Compara avantajele unui marketplace cu cele ale unui magazin online. Afla cum sa alegi platforma potrivita in functie de varietatea produselor si suportul oferit. https:// 9z.ro/marketplace-magazin-onli ne-diferente/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@9z/117438487023646690",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@9z/117364569778848932",
       "date": "Thu, 01 Oct 2026 07:53:33 +0000",
       "content": "Descopera cum generatia aparatului si softul de procesare modifica durata investigatiei si nivelul de disconfort. Informatii clare despre beneficiile tehnologiei moderne. https:// 9z.ro/tehnologia-folosita-la-r mn/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@9z/117364569775235168",
-      "date": "Thu, 01 Oct 2026 07:53:33 +0000",
-      "content": "Descopera cum sesiunile de recuperare in cadrul Partnervet sprijina mobilitatea si confortul animalului tau, de la caini seniori la pisici post-operator. https:// 9z.ro/fizioterapie-veterinara- cadrul-partnervet/"
     }
   ]
 }
