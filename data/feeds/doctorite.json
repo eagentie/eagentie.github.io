@@ -4,8 +4,14 @@
   "site_feed": "https://doctorite.ro/feed/",
   "mastodon": "https://social.5th.ro/@DoctoriteBlog",
   "mastodon_rss": "https://social.5th.ro/@DoctoriteBlog.rss",
-  "updated_at": "2026-10-16T04:29:24Z",
+  "updated_at": "2026-10-16T09:47:20Z",
   "site_posts": [
+    {
+      "title": "Ce obiceiuri de zi cu zi îți pot schimba culoarea dinților fără să-ți dai seama?",
+      "link": "https://doctorite.ro/ce-obiceiuri-de-zi-cu-zi-iti-pot-schimba-culoarea-dintilor-fara-sa-ti-dai-seama/",
+      "date": "Fri, 16 Oct 2026 07:38:12 +0000",
+      "summary": "Îți bei cafeaua dimineața, continui cu un ceai negru după-amiaza și observi abia mai târziu... Articolul Ce obiceiuri de zi cu zi îți pot schimba culoarea dinților fără să-ți dai seama? apare prima dată în Doctorite ."
+    },
     {
       "title": "A doua opinie de la un medic din străinătate: cum îi trimiți analizele ca să le poată citi",
       "link": "https://doctorite.ro/doua-opinie-analize-medicale/",
@@ -59,15 +65,15 @@
       "link": "https://doctorite.ro/durerea-lombara-dupa-o-zi-la-birou-semnele-care-cer-mai-mult-decat-un-antiinflamator/",
       "date": "Mon, 10 Aug 2026 12:39:42 +0000",
       "summary": "Dacă lucrezi la birou, conduci mult sau petreci ore întregi pe scaun, durerea lombară poate... Articolul Durerea lombară după o zi la birou. Semnele care cer mai mult decât un antiinflamator apare prima dată în Doctorite ."
-    },
-    {
-      "title": "Când trebuie investigate durerile abdominale persistente?",
-      "link": "https://doctorite.ro/cand-trebuie-investigate-durerile-abdominale-persistente/",
-      "date": "Fri, 31 Jul 2026 08:32:01 +0000",
-      "summary": "Disconfortul din zona burticii apare foarte des în viața de zi cu zi. Totuși, atunci... Articolul Când trebuie investigate durerile abdominale persistente? apare prima dată în Doctorite ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@DoctoriteBlog/117449444444663408",
+      "date": "Fri, 16 Oct 2026 07:38:18 +0000",
+      "content": "Îți bei cafeaua dimineața, continui cu un ceai negru după-amiaza și observi abia mai târziu că dinții par mai închiși la culoare. De regulă, schimbarea se instalează treptat: pigmenții se depun pe suprafața dinților, iar placa dentară îi poate reține. Tutunul și felul în care îți periezi dinții pot conta și ele. Totuși, nu orice nuanță… https:// doctorite.ro/ce-obiceiuri-de-z i-cu-zi-iti-pot-schimba-culoarea-dintilor-fara-sa-ti-dai-seama/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@DoctoriteBlog/117325579269584313",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@DoctoriteBlog/116888902453693119",
       "date": "Thu, 09 Jul 2026 07:45:06 +0000",
       "content": "Mutarea cabinetului psihologic direct în sufrageria sau biroul tău vine la pachet cu un nivel uriaș de confort și economii de timp. Totuși, această libertate implică riscul de a trata interacțiunea terapeutică mult prea relaxat, scăzându-i involuntar din eficiență. Trecerea de la agitația zilnică la starea de introspecție necesită o pregătire minimă a spațiului și… https:// doctorite.ro/cum-sa-te-pregate sti-pentru-o-sedinta-cu-un-psiholog-online-din-confortul-casei-tale/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@DoctoriteBlog/116725985885677356",
-      "date": "Wed, 10 Jun 2026 13:13:16 +0000",
-      "content": "Asociația Stop Ambroziei organizează sâmbătă, 13 iunie, între orele 08:00 și 14:00, o acțiune de curățare a ambroziei din Parcul Natural Văcărești, în parteneriat cu Administrația Parcului Natural Văcărești și Primăria Capitalei. Acțiunea este prima dintr-o serie de intervenții programate de Asociația Stop Ambroziei în luna iunie, o perioadă-cheie pentru combaterea plantei. https:// doctorite.ro/ambrozia-trebuie- smulsa-acum-apel-la-voluntari-pentru-actiune-de-curatare-in-parcul-natural-vacaresti/"
     }
   ]
 }
