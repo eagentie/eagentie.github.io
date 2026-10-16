@@ -4,8 +4,20 @@
   "site_feed": "https://ziar360.ro/feed/",
   "mastodon": "https://social.5th.ro/@ziar360",
   "mastodon_rss": "https://social.5th.ro/@ziar360.rss",
-  "updated_at": "2026-10-16T09:46:23Z",
+  "updated_at": "2026-10-16T14:50:05Z",
   "site_posts": [
+    {
+      "title": "Drumul contează, nu doar rezultatul: cum a devenit divertismentul mai interactiv",
+      "link": "https://ziar360.ro/divertisment-interactiv-rezultat/",
+      "date": "Fri, 16 Oct 2026 11:13:04 +0000",
+      "summary": "Tehnologia a adaugat statistici live si optiuni de participare. Afla cum interactiunea modifica perceptia asupra rezultatului in divertisment. The post Drumul contează, nu doar rezultatul: cum a devenit divertismentul mai interactiv appeared first on Ziar 360 ."
+    },
+    {
+      "title": "Explorat, platforma fondată în Suceava care oferă peste 400.000 de experiențe turistice",
+      "link": "https://ziar360.ro/explorat-platforma-fondata-in-suceava-care-ofera-peste-400000-de-experiente-turistice/",
+      "date": "Fri, 16 Oct 2026 11:11:52 +0000",
+      "summary": "Explorat - O platformă de rezervări fondată în Suceava de antreprenori români aduce la un loc experiențe turistice din întreaga lume. The post Explorat, platforma fondată în Suceava care oferă peste 400.000 de experiențe turistice appeared first on Ziar 360 ."
+    },
     {
       "title": "Canal endodontic greu de localizat – ce poate clarifica microscopul",
       "link": "https://ziar360.ro/canal-endodontic-greu-de-localizat-ce-poate-clarifica-microscopul/",
@@ -53,21 +65,21 @@
       "link": "https://ziar360.ro/ce-ar-fi-daca-pentru-o-zi-am-privi-esecul-altfel/",
       "date": "Thu, 24 Sep 2026 11:38:57 +0000",
       "summary": "Ce-ar fi dacă, pentru o zi, am privi eșecul altfel? Nu ca pe o dovadă că nu ești suficient de bun, ci ca pe unul dintre cele mai directe moduri prin care afli ce nu merge, schimbi direcția, pivotezi, experimentezi și înveți mai repede. Pe 9 noiembrie, la Opera Națională București, I Love Failure 2026 [&#8230;] The post Ce-ar fi dacă, pentru o zi, am privi eșecul altfel? appeared first on Ziar 360 ."
-    },
-    {
-      "title": "Legislația RCA și dreptul la despăgubiri al victimelor. Cum se calculează prejudiciul în caz de vătămare sau deces?",
-      "link": "https://ziar360.ro/legislatia-rca-si-dreptul-la-despagubiri-al-victimelor-cum-se-calculeaza-prejudiciul-in-caz-de-vatamare-sau-deces/",
-      "date": "Mon, 14 Sep 2026 14:40:30 +0000",
-      "summary": "Un accident rutier poate produce consecințe care se întind mult dincolo de momentul impactului: intervenții medicale, perioade îndelungate de recuperare, incapacitate de muncă, pierderea unor venituri și, în cele mai grave situații, decesul victimei. Pentru persoana prejudiciată sau pentru familia acesteia, stabilirea despăgubirilor cuvenite în baza unei polițe RCA este o problemă complexă, ce necesită [&#8230;] The post Legislația RCA și dreptul la despăgubiri al victimelor. Cum se calculează prejudiciul în caz de vătămare sau deces? appeared first on Ziar 360 ."
-    },
-    {
-      "title": "Validarea cererii înainte să mărești stocul: ce poți învăța din anunțurile online",
-      "link": "https://ziar360.ro/validarea-cererii-inainte-sa-maresti-stocul-ce-poti-invata-din-anunturile-online/",
-      "date": "Sat, 12 Sep 2026 10:22:43 +0000",
-      "summary": "Înainte să blochezi bani într-un stoc mai mare, poți testa interesul pieței cu loturi mici și oferte clare. Ghid practic despre semnalele care contează și limitele validării prin anunțuri online. Articolul Validarea cererii înainte să mărești stocul: ce poți învăța din anunțurile online apare prima dată în Revista Antreprenorului . The post Validarea cererii înainte să mărești stocul: ce poți învăța din anunțurile online appeared first on Ziar 360 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@ziar360/117450289164595900",
+      "date": "Fri, 16 Oct 2026 11:13:07 +0000",
+      "content": "📄Tehnologia a adaugat statistici live si optiuni de participare. Afla cum interactiunea modifica perceptia asupra rezultatului in divertisment. 🌐 https:// ziar360.ro/divertisment-intera ctiv-rezultat/"
+    },
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@ziar360/117450284408760951",
+      "date": "Fri, 16 Oct 2026 11:11:55 +0000",
+      "content": "📄Explorat - O platformă de rezervări fondată în Suceava de antreprenori români aduce la un loc experiențe turistice din întreaga lume. 🌐 https:// ziar360.ro/explorat-platforma- fondata-in-suceava-care-ofera-peste-400000-de-experiente-turistice/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@ziar360/117449447072559088",
@@ -127,18 +139,6 @@
       "link": "https://social.5th.ro/@ziar360/117269910994811103",
       "date": "Mon, 14 Sep 2026 14:40:35 +0000",
       "content": "📄Un accident rutier poate produce consecințe care se întind mult dincolo de momentul impactului: intervenții medicale, perioade îndelungate de recuperare, incapacitate de muncă, pierderea unor venituri și, în cele mai grave situații, decesul victimei. Pentru persoana prejudiciată sau pentru familia acesteia, stabilirea despăgubirilor cuvenite în baza unei polițe 🌐 https:// ziar360.ro/legislatia-rca-si-d reptul-la-despagubiri-al-victimelor-cum-se-calculeaza-prejudiciul-in-caz-de-vatamare-sau-deces/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@ziar360/117258191853966743",
-      "date": "Sat, 12 Sep 2026 13:00:15 +0000",
-      "content": "📄&lt;div class=&quot;media_block&quot;&gt;&lt;a href=&quot; https:// ziar360.ro/wp-content/uploads/ 2026/09/validarea-cererii-inainte-sa-maresti-stocul-ce-poti-invata-din-anunturile-online.webp &quot;&gt;&lt;img src=&quot; https:// ziar360.ro/wp-content/uploads/ 2026/09/validarea-cererii-inainte-sa-maresti-stocul-ce-poti-invata-din-anunturile-online.webp &quot; class=&quot;media_thumbnail&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Înainte să blochezi bani într-un stoc mai mare, 🌐 https:// ziar360.ro/validarea-cererii-i nainte-sa-maresti-stocul-ce-poti-invata-din-anunturile-online/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@ziar360/117213992626196365",
-      "date": "Fri, 04 Sep 2026 17:39:48 +0000",
-      "content": "📄Când cumperi din anunțuri online, metoda de predare poate schimba complet nivelul de risc și costul tranzacției. Ghid practic pentru alegerea între întâlnire directă și curier. 🌐 https:// ziar360.ro/predare-personala-s au-curier-cum-alegi-cand-cumperi-din-anunturi-online/"
     }
   ]
 }

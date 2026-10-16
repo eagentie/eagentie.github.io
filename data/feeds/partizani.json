@@ -4,8 +4,14 @@
   "site_feed": "https://partizani.ro/feed/",
   "mastodon": "https://social.5th.ro/@Partizani",
   "mastodon_rss": "https://social.5th.ro/@Partizani.rss",
-  "updated_at": "2026-10-16T09:47:12Z",
+  "updated_at": "2026-10-16T14:51:05Z",
   "site_posts": [
+    {
+      "title": "Curățenie birouri: 7 reguli pentru igienizarea corectă a spațiului de lucru",
+      "link": "https://partizani.ro/curatenie-birouri-7-reguli-pentru-igienizarea-corecta-a-spatiului-de-lucru/",
+      "date": "Fri, 16 Oct 2026 14:00:22 +0000",
+      "summary": "Curățenie birouri înseamnă mai mult decât îndepărtarea prafului și golirea coșurilor de gunoi. Un spațiu de lucru este folosit zilnic de angajați, colaboratori și vizitatori, iar fiecare zonă are propriile cerințe de întreținere. Frecvența potrivită depinde de numărul persoanelor care folosesc biroul, de traficul zilnic și de activitățile desfășurate. Un [&#8230;] Articolul Curățenie birouri: 7 reguli pentru igienizarea corectă a spațiului de lucru apare prima dată în Partizani ."
+    },
     {
       "title": "Ciorapii compresivi pentru damă nu se aleg după cât de strâns se simt: diferența dintre 15-20 și 20-30 mmHg",
       "link": "https://partizani.ro/ciorapii-compresivi-pentru-dama-nu-se-aleg-dupa-cat-de-strans-se-simt-diferenta-dintre-15-20-si-20-30-mmhg/",
@@ -59,12 +65,6 @@
       "link": "https://partizani.ro/unde-poti-integra-mozaicul-din-piatra-naturala-pentru-un-design-cu-personalitate/",
       "date": "Thu, 06 Aug 2026 09:16:59 +0000",
       "summary": "Un spațiu memorabil se distinge adesea prin detalii. Mobilierul și paleta cromatică stabilesc direcția amenajării, însă texturile și accentele decorative îi oferă profunzime. Un perete simplu, o nișă nefolosită sau zona dintre blatul de bucătărie și corpurile suspendate pot fi puse în valoare printr-un finisaj bine ales. Mozaicul din piatră [&#8230;] Articolul Unde poți integra mozaicul din piatră naturală pentru un design cu personalitate apare prima dată în Partizani ."
-    },
-    {
-      "title": "Testarea instalatiilor fotovoltaice: echipamente, metode si verificari obligatorii",
-      "link": "https://partizani.ro/testarea-instalatiilor-fotovoltaice-echipamente-metode-si-verificari-obligatorii/",
-      "date": "Tue, 04 Aug 2026 20:19:36 +0000",
-      "summary": "O instalatie fotovoltaica nu poate fi validata doar prin confirmarea ca invertorul injecteaza energie. Un sistem poate produce, dar sa aiba polaritate gresita pe un circuit neconectat, rezistenta de izolatie redusa, conectori incalziti, siruri dezechilibrate sau module afectate de umbrire si diode bypass active. Testarea corecta separa trei obiective: siguranta [&#8230;] Articolul Testarea instalatiilor fotovoltaice: echipamente, metode si verificari obligatorii apare prima dată în Partizani ."
     }
   ],
   "mastodon_posts": []
