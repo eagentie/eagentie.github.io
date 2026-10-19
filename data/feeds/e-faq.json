@@ -4,8 +4,14 @@
   "site_feed": "https://e-faq.ro/feed/",
   "mastodon": "https://social.5th.ro/@efaq",
   "mastodon_rss": "https://social.5th.ro/@efaq.rss",
-  "updated_at": "2026-10-19T13:08:47Z",
+  "updated_at": "2026-10-19T19:20:18Z",
   "site_posts": [
+    {
+      "title": "Android pentru începători: 7 funcții utile pe care puțini le folosesc",
+      "link": "https://e-faq.ro/android-functii-util-incepatori/",
+      "date": "Mon, 19 Oct 2026 14:21:51 +0000",
+      "summary": "Descopera setari ascunse pe telefonul tau android care te ajuta sa gestionezi notificari, sa partajezi Wi-Fi si sa te concentrezi mai bine. Articolul Android pentru începători: 7 funcții utile pe care puțini le folosesc apare prima dată în FAQ - Intrebari Frecvente ."
+    },
     {
       "title": "7 recomandări Spy Shop pentru alegerea unui sistem de supraveghere video",
       "link": "https://e-faq.ro/7-recomandari-spy-shop-pentru-alegerea-unui-sistem-de-supraveghere-video/",
@@ -53,15 +59,15 @@
       "link": "https://e-faq.ro/12-greseli-pe-care-le-poti-evita-la-prima-vizita-intr-un-parc-de-aventura/",
       "date": "Mon, 06 Jul 2026 21:03:00 +0000",
       "summary": "Prima vizită într-un parc de aventură poate deveni mai obositoare decât te aștepți dacă încerci [&#8230;] Articolul 12 greșeli pe care le poți evita la prima vizită într-un parc de aventură apare prima dată în FAQ - Intrebari Frecvente ."
-    },
-    {
-      "title": "Cum găsești o licență Windows originală fără să plătești prea mult?",
-      "link": "https://e-faq.ro/cum-gasesti-o-licenta-windows-originala-fara-sa-platesti-prea-mult/",
-      "date": "Wed, 17 Jun 2026 08:47:13 +0000",
-      "summary": "Cumpărarea unei licențe Windows 11 nu trebuie să fie complicată sau costisitoare. Există numeroase opțiuni [&#8230;] Articolul Cum găsești o licență Windows originală fără să plătești prea mult? apare prima dată în FAQ - Intrebari Frecvente ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@efaq/117468018403536184",
+      "date": "Mon, 19 Oct 2026 14:21:54 +0000",
+      "content": "🚀 &lt;p&gt;Descopera setari ascunse pe telefonul tau android care te ajuta sa gestionezi notificari, sa partajezi Wi-Fi si sa te concentrezi mai bine.&lt;/p&gt; 🔗 Citeste tot: https:// e-faq.ro/android-functii-util- incepatori/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@efaq/117308503753827980",
@@ -127,12 +133,6 @@
       "link": "https://social.5th.ro/@efaq/116720194944893981",
       "date": "Tue, 09 Jun 2026 12:40:33 +0000",
       "content": "🚀 &lt;p&gt;Ce este un espressor în custodie pentru birou, cum funcționează contractul, ce include serviciul și unde găsești un furnizor în București. Răspunsuri clare, făr&lt;/p&gt; 🔗 Mai mult: https:// e-faq.ro/espressor-in-custodie -pentru-birou-intrebari-si-raspunsuri/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@efaq/116549653215139371",
-      "date": "Sun, 10 May 2026 09:49:33 +0000",
-      "content": "🚀 Te-ai întrebat vreodată de ce simți picioarele grele la finalul zilei? Această senzație, alături de venele vizibile, nu este doar o problemă de estetică, ci un semnal de alarmă al corpului tău. Mulți români suferă de insuficiență venoasă cronică fără să știe că soluțiile moderne sunt acum extrem de accesibile. Imaginează-ți o viață fără durere,… 🔗 Mai mult: https:// e-faq.ro/cum-alegi-tratamentul -potrivit-pentru-varice/"
     }
   ]
 }
