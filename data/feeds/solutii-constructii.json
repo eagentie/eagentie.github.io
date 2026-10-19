@@ -4,8 +4,14 @@
   "site_feed": "https://solutii-constructii.ro/feed/",
   "mastodon": "https://social.5th.ro/@SolutiiConstructii",
   "mastodon_rss": "https://social.5th.ro/@SolutiiConstructii.rss",
-  "updated_at": "2026-10-19T06:13:28Z",
+  "updated_at": "2026-10-19T13:08:56Z",
   "site_posts": [
+    {
+      "title": "Care sunt cele mai rezistente balamale pentru ușile de intrare?",
+      "link": "https://solutii-constructii.ro/balamale-rezistente-usile-de-intrare/",
+      "date": "Mon, 19 Oct 2026 06:36:30 +0000",
+      "summary": "Descopera cum alegi balamalele potrivite in functie de greutatea si materialul usii. Informatii despre otel, rulmenti si sisteme de reglare pentru o functionare corecta. Articolul Care sunt cele mai rezistente balamale pentru ușile de intrare? apare prima dată în Solutii Constructii ."
+    },
     {
       "title": "Oglinzi grele fără burghiu și fără găuri în perete: cum se montează corect",
       "link": "https://solutii-constructii.ro/oglinzi-grele-fara-burghiu-si-fara-gauri-in-perete-cum-se-monteaza-corect/",
@@ -71,15 +77,15 @@
       "link": "https://solutii-constructii.ro/de-ce-sa-cumperi-piese-de-utilaje-de-la-dezmembrari-7-avantaje/",
       "date": "Thu, 09 Jul 2026 07:46:24 +0000",
       "summary": "Costurile de întreținere ale unui utilaj pot crește foarte mult atunci când este necesară înlocuirea unor componente importante. Articolul De ce să cumperi piese de utilaje de la dezmembrări? 7 avantaje apare prima dată în Solutii Constructii ."
-    },
-    {
-      "title": "Iluminatul de interior ca soluție de eficiență: cum alegi corect corpurile, poziția și temperatura de culoare",
-      "link": "https://solutii-constructii.ro/iluminatul-de-interior-ca-solutie-de-eficienta-cum-alegi-corect-corpurile-pozitia-si-temperatura-de-culoare/",
-      "date": "Fri, 26 Jun 2026 06:41:00 +0000",
-      "summary": "Mulți proprietari schimbă corpurile de iluminat la final, când bugetul e deja strâns. Apoi se miră că au Articolul Iluminatul de interior ca soluție de eficiență: cum alegi corect corpurile, poziția și temperatura de culoare apare prima dată în Solutii Constructii ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@SolutiiConstructii/117466188409107975",
+      "date": "Mon, 19 Oct 2026 06:36:30 +0000",
+      "content": "Descopera cum alegi balamalele potrivite in functie de greutatea si materialul usii. Informatii despre otel, rulmenti si sisteme de reglare pentru o functionare corecta. ... 🌐 Vezi: https:// solutii-constructii.ro/balamal e-rezistente-usile-de-intrare/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@SolutiiConstructii/117439667952964260",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@SolutiiConstructii/116888907626649539",
       "date": "Thu, 09 Jul 2026 07:46:25 +0000",
       "content": "Costurile de întreținere ale unui utilaj pot crește foarte mult atunci când este necesară înlocuirea unor componente importante. În multe situații, piesele provenite din dezmembrări reprezintă o alternativă care merită analizată, mai ales dacă provin de la utilaje verificate și sunt într-o stare tehnică bună. Vezi mai departe care sunt principalele avantaje de care te… ... 🌐 Urmareste: https:// solutii-constructii.ro/de-ce-s a-cumperi-piese-de-utilaje-de-la-dezmembrari-7-avantaje/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@SolutiiConstructii/116815042445332623",
-      "date": "Fri, 26 Jun 2026 06:41:32 +0000",
-      "content": "Mulți proprietari schimbă corpurile de iluminat la final, când bugetul e deja strâns. Apoi se miră că au zone întunecate, umbre pe blatul din bucătărie și facturi mai mari. Lumina bună nu ține de „gust”. Ține de calcule simple, poziționare corectă și surse potrivite. Pe solutii-constructii.ro apare des ideea de soluție completă, ca la ... 🌐 Continuarea: https:// solutii-constructii.ro/ilumina tul-de-interior-ca-solutie-de-eficienta-cum-alegi-corect-corpurile-pozitia-si-temperatura-de-culoare/"
     }
   ]
 }

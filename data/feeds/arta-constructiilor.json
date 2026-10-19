@@ -4,8 +4,14 @@
   "site_feed": "https://arta-constructiilor.ro/feed/",
   "mastodon": "https://social.5th.ro/@ArtaConstructiilor",
   "mastodon_rss": "https://social.5th.ro/@ArtaConstructiilor.rss",
-  "updated_at": "2026-10-19T06:13:55Z",
+  "updated_at": "2026-10-19T13:09:17Z",
   "site_posts": [
+    {
+      "title": "Tapițeria după renovarea locuinței: ce trebuie verificat înainte de curățarea canapelei",
+      "link": "https://arta-constructiilor.ro/tapiteria-dupa-renovarea-locuintei-ce-trebuie-verificat-inainte-de-curatarea-canapelei/",
+      "date": "Mon, 19 Oct 2026 04:32:25 +0000",
+      "summary": "O curățare profesională a tapițeriei &#238;ncepe cu identificarea materialului și a problemei, nu cu aplicarea automată a unei soluții. Procedura, estimarea și recomandările de uscare &#8230; Articolul Tapițeria după renovarea locuinței: ce trebuie verificat înainte de curățarea canapelei apare prima dată în Arta Constructiilor ."
+    },
     {
       "title": "Cum se calculează puterea caloriferelor necesare unei locuințe: ghid pentru alegerea corectă a radiatoarelor",
       "link": "https://arta-constructiilor.ro/calcul-puterea-caloriferelor/",
@@ -59,15 +65,15 @@
       "link": "https://arta-constructiilor.ro/iluminat-pe-sina-ghid-alegere/",
       "date": "Tue, 22 Sep 2026 13:30:24 +0000",
       "summary": "Descopera cum sa planifici traseul si sa alegi corpurile potrivite pentru un sistem de iluminat pe sina eficient si estetic in spatiul tau. Articolul Iluminatul pe șină într-o casă modernă: cum alegi sistemul și corpurile de iluminat apare prima dată în Arta Constructiilor ."
-    },
-    {
-      "title": "De ce hala industrială este un caz de risc ridicat",
-      "link": "https://arta-constructiilor.ro/de-ce-hala-industriala-este-un-caz-de-risc-ridicat/",
-      "date": "Fri, 18 Sep 2026 14:09:00 +0000",
-      "summary": "Ce se întâmplă când o infiltrație oprește o linie de fabricație și cum poate fi prevenită Într-o hală industrială cu linii de producție moderne, fiecare &#8230; Articolul De ce hala industrială este un caz de risc ridicat apare prima dată în Arta Constructiilor ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@ArtaConstructiilor/117466413227229128",
+      "date": "Mon, 19 Oct 2026 07:33:41 +0000",
+      "content": "O curățare profesională a tapițeriei începe cu identificarea materialului și a problemei, nu cu aplicarea automată a unei soluții. Procedura, estimarea și recomandările de uscare trebuie stabilite după evaluarea compatibilității, iar petele sau mirosurile nu pot fi promise ca eliminate în orice situație. Praful de șantier nu se comportă ca murdăria obișnuită După .... 🌐 https:// arta-constructiilor.ro/tapiter ia-dupa-renovarea-locuintei-ce-trebuie-verificat-inainte-de-curatarea-canapelei/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@ArtaConstructiilor/117443697912956409",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@ArtaConstructiilor/117285700870226228",
       "date": "Thu, 17 Sep 2026 09:36:09 +0000",
       "content": "Ideea de birou a evoluat considerabil în ultimii ani, iar tot mai multe companii privesc spațiul de lucru ca pe un factor direct legat de starea de bine a angajaților, nu doar ca pe un loc unde se desfășoară activitatea zilnică. Această schimbare de perspectivă a adus în prim-plan detalii care, până de curând, erau… .... 🌐 https:// arta-constructiilor.ro/ce-tend inte-contureaza-amenajarea-birourilor-orientate-spre-bunastarea-angajatilor/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@ArtaConstructiilor/117280501852455095",
-      "date": "Wed, 16 Sep 2026 11:33:58 +0000",
-      "content": "Atunci când te pregătești pentru un proiect de construcție sau de amenajare, fie că este vorba despre o casă nouă, o renovare sau o grădină, alegerea corectă a materialelor de bază este crucială. Nisipul și pietrișul sunt agregate indispensabile, iar calitatea și proveniența lor pot influența semnificativ durabilitatea și costul final al lucrării. Navigarea pe… .... 🌐 https:// arta-constructiilor.ro/ghid-co mplet-pentru-achizitia-de-nisip-si-pietris-in-bucuresti-si-ilfov/"
     }
   ]
 }

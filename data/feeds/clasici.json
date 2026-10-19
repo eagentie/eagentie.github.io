@@ -4,8 +4,14 @@
   "site_feed": "https://clasici.ro/feed/",
   "mastodon": "https://social.5th.ro/@clasici",
   "mastodon_rss": "https://social.5th.ro/@clasici.rss",
-  "updated_at": "2026-10-19T06:13:10Z",
+  "updated_at": "2026-10-19T13:08:39Z",
   "site_posts": [
+    {
+      "title": "Scaunele tapițate din zona de dining: de ce nu se curăță întotdeauna toate la fel",
+      "link": "https://clasici.ro/scaunele-tapitate-din-zona-de-dining-de-ce-nu-se-curata-intotdeauna-toate-la-fel/",
+      "date": "Mon, 19 Oct 2026 04:46:15 +0000",
+      "summary": "O curățare profesională a tapițeriei &#238;ncepe cu identificarea materialului și a problemei, nu cu aplicarea..."
+    },
     {
       "title": "Anul acesta, re7consulting împlinește 11 ani.",
       "link": "https://clasici.ro/anul-acesta-re7consulting-implineste-11-ani/",
@@ -71,15 +77,15 @@
       "link": "https://clasici.ro/cotele-dunarii-la-isaccea-in-2026-nivelul-apei-azi-grafic-si-repere-pentru-zona/",
       "date": "Fri, 13 Feb 2026 08:38:11 +0000",
       "summary": "Te-ai întrebat vreodată cum influențează fluviul viața de zi cu zi într-un oraș portuar? Dunărea..."
-    },
-    {
-      "title": "Să îți cumperi patul pentru dormitor, o alegere mai dificilă decât crezi",
-      "link": "https://clasici.ro/sa-iti-cumperi-patul-pentru-dormitor-o-alegere-mai-dificila-decat-crezi/",
-      "date": "Thu, 25 Dec 2025 10:30:00 +0000",
-      "summary": "Vrei să-ți (re)amenajezi dormitorul matrimonial? Sună excelent, mai ales că &#238;n mintea ta sunt deja..."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@clasici/117466468179705648",
+      "date": "Mon, 19 Oct 2026 07:47:39 +0000",
+      "content": "⭐O curățare profesională a tapițeriei începe cu identificarea materialului și a problemei, nu cu aplicarea automată a unei soluții. Procedura, estimarea și recomandările de uscare trebuie stabilite după evaluarea compatibilității, iar petele sau mirosurile nu pot fi promise ca eliminate în orice situație. Un set identic nu are întotdeauna aceeași stare Într-o zonă de dining,… ⭐ https:// clasici.ro/scaunele-tapitate-d in-zona-de-dining-de-ce-nu-se-curata-intotdeauna-toate-la-fel/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@clasici/117439538013281953",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@clasici/116062945934388594",
       "date": "Fri, 13 Feb 2026 10:53:29 +0000",
       "content": "⭐Te-ai întrebat vreodată cum influențează fluviul viața de zi cu zi într-un oraș portuar? Dunărea este inima pulsândă a transportului și economiei în sud-estul României. Pentru localnici și navigatori, cunoașterea valorilor exacte pentru cotele Dunării Isaccea nu este doar o curiozitate, ci o necesitate vitală. Interesul pentru evoluția fluviului crește pe măsură ce fenomenele climatice… ⭐ https:// clasici.ro/cotele-dunarii-la-i saccea-in-2026-nivelul-apei-azi-grafic-si-repere-pentru-zona/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@clasici/115847694804327683",
-      "date": "Tue, 06 Jan 2026 10:32:18 +0000",
-      "content": "⭐Vrei să-ți (re)amenajezi dormitorul matrimonial? Sună excelent, mai ales că în mintea ta sunt deja conturate unele care abia așteaptă să fie puse în practică. De altfel, ca să fii sigur, internetul și revistele de specialitate sunt cele care să zicem că te-au influențat puțin. Ne facem și noi datoria și îți venim în întâmpinare… ⭐ https:// clasici.ro/sa-iti-cumperi-patu l-pentru-dormitor-o-alegere-mai-dificila-decat-crezi/"
     }
   ]
 }
