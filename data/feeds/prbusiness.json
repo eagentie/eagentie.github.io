@@ -4,8 +4,14 @@
   "site_feed": "https://prbusiness.ro/feed/",
   "mastodon": "https://social.5th.ro/@prbusiness",
   "mastodon_rss": "https://social.5th.ro/@prbusiness.rss",
-  "updated_at": "2026-10-20T04:46:49Z",
+  "updated_at": "2026-10-20T10:02:22Z",
   "site_posts": [
+    {
+      "title": "Rebrandingul unei rețele de locații: pașii, calendarul și greșelile care întârzie deschiderile",
+      "link": "https://prbusiness.ro/rebrandingul-unei-retele-de-locatii-pasii-calendarul-si-greselile-care-intarzie-deschiderile/",
+      "date": "Tue, 20 Oct 2026 08:36:41 +0000",
+      "summary": "Un rebranding arată spectaculos în prezentarea de agenție, dar se câștigă sau se pierde pe stradă. Noul logo The post Rebrandingul unei rețele de locații: pașii, calendarul și greșelile care întârzie deschiderile appeared first on PR Business ."
+    },
     {
       "title": "Cum să găsești o relație serioasă online: 10 sfaturi pentru un dating de succes",
       "link": "https://prbusiness.ro/cum-sa-gasesti-o-relatie-serioasa-online-10-sfaturi-pentru-un-dating-de-succes/",
@@ -71,15 +77,15 @@
       "link": "https://prbusiness.ro/cum-iti-poti-extinde-afacerea-in-bulgaria-fara-sa-renunti-la-firma-din-romania/",
       "date": "Mon, 01 Jun 2026 09:22:00 +0000",
       "summary": "Extinderea unei afaceri în Bulgaria poate fi o decizie calculată, mai ales dacă ai deja o firmă funcțională The post Cum îți poți extinde afacerea în Bulgaria fără să renunți la firma din România appeared first on PR Business ."
-    },
-    {
-      "title": "Strategii de vizibilitate prin articole, advertoriale SEO și comunicate",
-      "link": "https://prbusiness.ro/strategii-de-vizibilitate-prin-articole-advertoriale-seo-si-comunicate/",
-      "date": "Fri, 22 May 2026 12:58:50 +0000",
-      "summary": "Articolele și advertorialele te ajută să crești vizibilitatea în online. Când publici articole și advertoriale optimizate SEO, brandul The post Strategii de vizibilitate prin articole, advertoriale SEO și comunicate appeared first on PR Business ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@prbusiness/117472323429826689",
+      "date": "Tue, 20 Oct 2026 08:36:43 +0000",
+      "content": ".... More details at: https:// prbusiness.ro/rebrandingul-une i-retele-de-locatii-pasii-calendarul-si-greselile-care-intarzie-deschiderile/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@prbusiness/117308451715217756",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@prbusiness/116736672719283118",
       "date": "Fri, 12 Jun 2026 10:31:04 +0000",
       "content": "Extinderea unei afaceri în Bulgaria poate fi o decizie calculată, mai ales dacă ai deja o firmă funcțională în România și vrei acces la o piață apropiată, la costuri administrative predictibile și la o structură fiscală diferită. Pentru mulți antreprenori români, ideea nu pornește de la închiderea firmei existente, ci de la construirea unei prezențe… .... Read more at: https:// prbusiness.ro/cum-iti-poti-ext inde-afacerea-in-bulgaria-fara-sa-renunti-la-firma-din-romania-2/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@prbusiness/116736665538716765",
-      "date": "Fri, 12 Jun 2026 10:29:15 +0000",
-      "content": "Extinderea unei afaceri în Bulgaria poate fi o decizie calculată, mai ales dacă ai deja o firmă funcțională în România și vrei acces la o piață apropiată, la costuri administrative predictibile și la o structură fiscală diferită. Pentru mulți antreprenori români, ideea nu pornește de la închiderea firmei existente, ci de la construirea unei prezențe… .... Read more at: https:// prbusiness.ro/cum-iti-poti-ext inde-afacerea-in-bulgaria-fara-sa-renunti-la-firma-din-romania/"
     }
   ]
 }
