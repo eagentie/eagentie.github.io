@@ -4,8 +4,14 @@
   "site_feed": "https://topcomunicate.ro/feed/",
   "mastodon": "https://social.5th.ro/@topcomunicate_ro",
   "mastodon_rss": "https://social.5th.ro/@topcomunicate_ro.rss",
-  "updated_at": "2026-10-22T10:08:39Z",
+  "updated_at": "2026-10-22T15:14:48Z",
   "site_posts": [
+    {
+      "title": "Agricultură, pregătirea culturilor de grâu și rapiță pentru iarnă",
+      "link": "https://topcomunicate.ro/agricultura-pregatirea-culturilor-de-grau-si-rapita-pentru-iarna/",
+      "date": "Thu, 22 Oct 2026 12:04:19 +0000",
+      "summary": "Intrarea în iarnă este unul dintre momentele care decid, în bună măsură, cum va arăta o cultură... The post Agricultură, pregătirea culturilor de grâu și rapiță pentru iarnă appeared first on Comunicate de presa ."
+    },
     {
       "title": "Seri de film și muzică acasă: cum amenajezi un colț de relaxare confortabil?",
       "link": "https://topcomunicate.ro/colt-de-relaxare-acasa/",
@@ -71,15 +77,15 @@
       "link": "https://topcomunicate.ro/uscator-de-maini-sau-prosoape-de-hartie-2/",
       "date": "Thu, 24 Sep 2026 10:14:37 +0000",
       "summary": "Uscător de mâini sau prosoape de hârtie? Cum alegi soluția potrivită pentru grupurile sanitare Uscarea mâinilor este... The post Uscător de mâini sau prosoape de hârtie? appeared first on Comunicate de presa ."
-    },
-    {
-      "title": "AnovaChicago Introduces the Oyster-Ko, a New Take on the Classic Oyster Homage",
-      "link": "https://topcomunicate.ro/anovachicago-introduces-the-oyster-ko-a-new-take-on-the-classic-oyster-homage/",
-      "date": "Thu, 17 Sep 2026 06:38:33 +0000",
-      "summary": "The Rolex Oyster design has influenced generations of watches. Discover why Oyster homage watches are attracting attention and how AnovaChicago's Oyster-Ko combines classic styling with modern Seiko-based watchmaking. The post AnovaChicago Introduces the Oyster-Ko, a New Take on the Classic Oyster Homage appeared first on Comunicate de presa ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@topcomunicate_ro/117484464513188614",
+      "date": "Thu, 22 Oct 2026 12:04:22 +0000",
+      "content": "⭐ Intrarea în iarnă este unul dintre momentele care decid, în bună măsură, cum va arăta o cultură în primăvară. Grâul și rapița sunt culturi de toamnă, semănate cu câteva luni înainte de venirea gerului, iar felul în care ajung la prima perioadă rece influențează direct rezistența la iernare și potențialul de producție. Pregătirea lor nu… 🔗 Mai mult: https:// topcomunicate.ro/agricultura-p regatirea-culturilor-de-grau-si-rapita-pentru-iarna/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@topcomunicate_ro/117483677717377919",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@topcomunicate_ro/117308409359200323",
       "date": "Mon, 21 Sep 2026 09:51:13 +0000",
       "content": "⭐ O vacanță la munte schimbă destul de mult riscurile unei călătorii. Dacă programul înseamnă plimbări prin stațiune și câteva zile de odihnă, o poliță medicală obișnuită poate acoperi situațiile uzuale. Dacă intră în plan schiul, snowboardingul sau deplasările în afara pârtiilor amenajate, merită citite atent condițiile asigurării.Unele polițe standard exclud anumite 🔗 Mai mult: https:// topcomunicate.ro/sporturile-de -iarna-pentru-care-polita-standard-de-asigurare-poate-fi-insuficienta/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@topcomunicate_ro/117285002620014828",
-      "date": "Thu, 17 Sep 2026 06:38:35 +0000",
-      "content": "⭐ The Rolex Oyster design has influenced generations of watches. Discover why Oyster homage watches are attracting attention and how AnovaChicago's Oyster-Ko combines classic styling with modern Seiko-based watchmaking. 🔗 Mai mult: https:// topcomunicate.ro/anovachicago- introduces-the-oyster-ko-a-new-take-on-the-classic-oyster-homage/"
     }
   ]
 }
