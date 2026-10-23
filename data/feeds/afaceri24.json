@@ -4,8 +4,14 @@
   "site_feed": "https://afaceri24.ro/feed/",
   "mastodon": "https://social.5th.ro/@afaceri24",
   "mastodon_rss": "https://social.5th.ro/@afaceri24.rss",
-  "updated_at": "2026-10-23T07:29:19Z",
+  "updated_at": "2026-10-23T13:23:59Z",
   "site_posts": [
+    {
+      "title": "Traficul schimbă tipul murdăriei",
+      "link": "https://afaceri24.ro/traficul-schimba-tipul-murdariei/",
+      "date": "Thu, 22 Oct 2026 07:55:00 +0000",
+      "summary": "Curățarea mochetelor în Oradea: diferențe între zonele cu trafic, suprafața accesibilă, suport și organizarea lucrării. The post Traficul schimbă tipul murdăriei appeared first on Afaceri 24 ."
+    },
     {
       "title": "Shining Crown și seria sa: ce diferă între variante",
       "link": "https://afaceri24.ro/shining-crown-variantesloturi/",
@@ -59,15 +65,15 @@
       "link": "https://afaceri24.ro/cat-de-eficient-este-un-aspirator-robot-intr-o-casa-dezordonata/",
       "date": "Mon, 14 Sep 2026 15:54:20 +0000",
       "summary": "Dacă „curățenia” înseamnă pentru tine mai degrabă mutarea lucrurilor dintr-un colț în altul decât aspiratul propriu-zis, poți să stai liniștit, că nu ești deloc o excepție. Aproape o treime dintre oameni recunosc că aleg această soluție rapidă. În multe locuințe, podelele ajung să fie pline de încărcătoare, încălțăminte sau haine lăsate la întâmplare, iar prezența [&#8230;] The post Cât de Eficient Este un Aspirator Robot într-o Casă Dezordonată? appeared first on Afaceri 24 ."
-    },
-    {
-      "title": "Când merită să cumperi încălțăminte la reduceri și când e mai bine să aștepți colecția nouă",
-      "link": "https://afaceri24.ro/reduceri-sau-colectia-noua/",
-      "date": "Fri, 11 Sep 2026 09:37:21 +0000",
-      "summary": "Află cum să cânțaresti avantajele prețului redus față de selecția largă a modelelor noi, pentru a evita cumpărăturile impulsive. The post Când merită să cumperi încălțăminte la reduceri și când e mai bine să aștepți colecția nouă appeared first on Afaceri 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@afaceri24/117489154140144172",
+      "date": "Fri, 23 Oct 2026 07:57:00 +0000",
+      "content": "📄Curățarea mochetelor în Oradea: diferențe între zonele cu trafic, suprafața accesibilă, suport și organizarea lucrării. 💡 https:// afaceri24.ro/traficul-schimba- tipul-murdariei/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@afaceri24/117474126970643500",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@afaceri24/117251731918866599",
       "date": "Fri, 11 Sep 2026 09:37:24 +0000",
       "content": "📄Află cum să cânțaresti avantajele prețului redus față de selecția largă a modelelor noi, pentru a evita cumpărăturile impulsive. 💡 https:// afaceri24.ro/reduceri-sau-cole ctia-noua/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@afaceri24/117246836239620125",
-      "date": "Thu, 10 Sep 2026 12:52:22 +0000",
-      "content": "📄License: e124167efa308d623e6713512d9382964eAlt: Incaltaminte si genti ALDO Uneori, stilul se vede în detalii înainte să fie rostit în cuvinte. Într-o pereche de pantofi care schimbă felul în care pășești, într-o geantă care completează perfect o ținută sau într-un accesoriu ales cu grijă pentru cineva drag. Iar când aceeași piesă trebuie să țină pasul cu agenda ta… 💡 https:// afaceri24.ro/incaltaminte-si-g enti-aldo-cum-alegi-modelul-potrivit-pentru-birou-evenimente-sau-cadouri/"
     }
   ]
 }
