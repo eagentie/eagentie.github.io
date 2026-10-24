@@ -4,8 +4,14 @@
   "site_feed": "https://doctorite.ro/feed/",
   "mastodon": "https://social.5th.ro/@DoctoriteBlog",
   "mastodon_rss": "https://social.5th.ro/@DoctoriteBlog.rss",
-  "updated_at": "2026-10-24T14:31:27Z",
+  "updated_at": "2026-10-24T18:08:00Z",
   "site_posts": [
+    {
+      "title": "Durerea care revine: de ce reabilitarea nu se oprește când trece durerea",
+      "link": "https://doctorite.ro/durerea-care-revine-reabilitare-fizioterapie-kinetoterapie/",
+      "date": "Sat, 24 Oct 2026 16:23:01 +0000",
+      "summary": "Durerea de spate, de umăr sau de genunchi trece adesea în câteva zile sau săptămâni.... Articolul Durerea care revine: de ce reabilitarea nu se oprește când trece durerea apare prima dată în Doctorite ."
+    },
     {
       "title": "Ce obiceiuri de zi cu zi îți pot schimba culoarea dinților fără să-ți dai seama?",
       "link": "https://doctorite.ro/ce-obiceiuri-de-zi-cu-zi-iti-pot-schimba-culoarea-dintilor-fara-sa-ti-dai-seama/",
@@ -59,15 +65,15 @@
       "link": "https://doctorite.ro/pierderea-masei-musculare-la-perimenopauza-si-menopauza-rolul-recuperarii-medicale/",
       "date": "Thu, 20 Aug 2026 04:45:35 +0000",
       "summary": "Consultant științific: Dr.&#160;Mirena Niculae, Medic specialist reabilitare medicală Perimenopauza și menopauza sunt perioade caracterizate de... Articolul Pierderea masei musculare la perimenopauză și menopauză: rolul recuperării medicale apare prima dată în Doctorite ."
-    },
-    {
-      "title": "Durerea lombară după o zi la birou. Semnele care cer mai mult decât un antiinflamator",
-      "link": "https://doctorite.ro/durerea-lombara-dupa-o-zi-la-birou-semnele-care-cer-mai-mult-decat-un-antiinflamator/",
-      "date": "Mon, 10 Aug 2026 12:39:42 +0000",
-      "summary": "Dacă lucrezi la birou, conduci mult sau petreci ore întregi pe scaun, durerea lombară poate... Articolul Durerea lombară după o zi la birou. Semnele care cer mai mult decât un antiinflamator apare prima dată în Doctorite ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@DoctoriteBlog/117496806765479948",
+      "date": "Sat, 24 Oct 2026 16:23:09 +0000",
+      "content": "Durerea de spate, de umăr sau de genunchi trece adesea în câteva zile sau săptămâni. Problema apare când revine: la aceeași mișcare, după același efort, de fiecare dată puțin mai repede. În multe cazuri, explicația nu este că tratamentul „nu a mers”, ci că recuperarea s-a oprit odată cu durerea. De ce dispariția durerii nu… https:// doctorite.ro/durerea-care-revi ne-reabilitare-fizioterapie-kinetoterapie/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@DoctoriteBlog/117449444444663408",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@DoctoriteBlog/117014397602810179",
       "date": "Fri, 31 Jul 2026 11:40:10 +0000",
       "content": "Disconfortul din zona burticii apare foarte des în viața de zi cu zi. Totuși, atunci când suferința nu dispare, corpul îți trimite un semnal clar de alarmă. Poate fi vorba despre o simplă indigestie sau despre o afecțiune mai complexă. Din păcate, mulți oameni amână vizita la medic și speră că problema se va rezolva… https:// doctorite.ro/cand-trebuie-inve stigate-durerile-abdominale-persistente/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@DoctoriteBlog/116888902453693119",
-      "date": "Thu, 09 Jul 2026 07:45:06 +0000",
-      "content": "Mutarea cabinetului psihologic direct în sufrageria sau biroul tău vine la pachet cu un nivel uriaș de confort și economii de timp. Totuși, această libertate implică riscul de a trata interacțiunea terapeutică mult prea relaxat, scăzându-i involuntar din eficiență. Trecerea de la agitația zilnică la starea de introspecție necesită o pregătire minimă a spațiului și… https:// doctorite.ro/cum-sa-te-pregate sti-pentru-o-sedinta-cu-un-psiholog-online-din-confortul-casei-tale/"
     }
   ]
 }
