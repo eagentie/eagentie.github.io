@@ -4,8 +4,14 @@
   "site_feed": "https://topcomunicate.ro/feed/",
   "mastodon": "https://social.5th.ro/@topcomunicate_ro",
   "mastodon_rss": "https://social.5th.ro/@topcomunicate_ro.rss",
-  "updated_at": "2026-10-26T19:16:11Z",
+  "updated_at": "2026-10-26T23:08:37Z",
   "site_posts": [
+    {
+      "title": "Uscător de mâini sau prosoape de hârtie?",
+      "link": "https://topcomunicate.ro/uscator-de-maini-sau-prosoape-de-hartie-3/",
+      "date": "Mon, 26 Oct 2026 19:40:00 +0000",
+      "summary": "Cum alegi soluția potrivită pentru grupurile sanitare Alegerea metodei de uscare a m&#226;inilor influențează igiena, confortul utilizatorilor... The post Uscător de mâini sau prosoape de hârtie? appeared first on Comunicate de presa ."
+    },
     {
       "title": "Cum compari două oferte de curățare a colțarului fără să te uiți doar la preț",
       "link": "https://topcomunicate.ro/cum-compari-doua-oferte-de-curatare-a-coltarului-fara-sa-te-uiti-doar-la-pret/",
@@ -71,15 +77,15 @@
       "link": "https://topcomunicate.ro/obligatii-certificat-energetic-vanzare/",
       "date": "Tue, 29 Sep 2026 17:29:44 +0000",
       "summary": "Descoperiti cand este obligatoriu si cum il folositi la vanzare sau inchiriere. Verificati datele din document inainte de a semna contractul. The post Ce obligații aveți legat de certificatul energetic la vânzarea sau închirierea unui imobil appeared first on Comunicate de presa ."
-    },
-    {
-      "title": "De ce ecocardiografia este esențială în diagnosticul bolilor cardiace la Memorial România?",
-      "link": "https://topcomunicate.ro/ecocardiografie-memorial-romania/",
-      "date": "Mon, 28 Sep 2026 17:05:19 +0000",
-      "summary": "Descopera rolul ecocardiografiei in evaluarea functionala a inimii si cum monitorizarea periodica la Memorial Romania poate preveni complicatiile. The post De ce ecocardiografia este esențială în diagnosticul bolilor cardiace la Memorial România? appeared first on Comunicate de presa ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@topcomunicate_ro/117508906048620107",
+      "date": "Mon, 26 Oct 2026 19:40:10 +0000",
+      "content": "⭐ Cum alegi soluția potrivită pentru grupurile sanitare Alegerea metodei de uscare a mâinilor influențează igiena, confortul utilizatorilor și costurile de întreținere ale unui grup sanitar. În clădirile de birouri, restaurante, hoteluri, clinici și centre comerciale, administratorii trebuie să găsească o soluție care să răspundă atât volumului de utilizare, cât și cerințelor de curățenie și eficiență… 🔗 Mai mult: https:// topcomunicate.ro/uscator-de-ma ini-sau-prosoape-de-hartie-3/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@topcomunicate_ro/117507029684576379",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@topcomunicate_ro/117355510869570920",
       "date": "Tue, 29 Sep 2026 17:29:45 +0000",
       "content": "⭐ Descoperiti cand este obligatoriu si cum il folositi la vanzare sau inchiriere. Verificati datele din document inainte de a semna contractul. 🔗 Mai mult: https:// topcomunicate.ro/obligatii-cer tificat-energetic-vanzare/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@topcomunicate_ro/117349752677020601",
-      "date": "Mon, 28 Sep 2026 17:05:22 +0000",
-      "content": "⭐ Descopera rolul ecocardiografiei in evaluarea functionala a inimii si cum monitorizarea periodica la Memorial Romania poate preveni complicatiile. 🔗 Detalii aici: https:// topcomunicate.ro/ecocardiograf ie-memorial-romania/"
     }
   ]
 }
