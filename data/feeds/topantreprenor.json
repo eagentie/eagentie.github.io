@@ -4,8 +4,14 @@
   "site_feed": "https://topantreprenor.ro/feed/",
   "mastodon": "https://social.5th.ro/@topantreprenor",
   "mastodon_rss": "https://social.5th.ro/@topantreprenor.rss",
-  "updated_at": "2026-10-27T02:04:35Z",
+  "updated_at": "2026-10-27T07:49:29Z",
   "site_posts": [
+    {
+      "title": "Cum se organizează intervenția când răcirea susține un proces care nu poate aștepta?",
+      "link": "https://topantreprenor.ro/organizare-interventia-frigorifica/",
+      "date": "Tue, 27 Oct 2026 04:42:04 +0000",
+      "summary": "Pregatirea corecta a informatiilor si accesul la date scurteaza etapele de diagnostic si faciliteaza lucrul echipelor de service. The post Cum se organizează intervenția când răcirea susține un proces care nu poate aștepta? appeared first on Top Antreprenor ."
+    },
     {
       "title": "Un interior îngrijit nu înseamnă doar scaune curate",
       "link": "https://topantreprenor.ro/un-interior-ingrijit-nu-inseamna-doar-scaune-curate/",
@@ -59,15 +65,15 @@
       "link": "https://topantreprenor.ro/ce-ar-fi-daca-pentru-o-zi-am-privi-esecul-altfel/",
       "date": "Thu, 24 Sep 2026 11:38:57 +0000",
       "summary": "Ce-ar fi dacă, pentru o zi, am privi eșecul altfel? Nu ca pe o dovadă că nu ești suficient de bun, ci ca pe unul dintre cele mai directe moduri prin care afli ce nu merge, schimbi direcția, pivotezi, experimentezi și înveți mai repede. Pe 9 noiembrie, la Opera Națională București, I Love Failure 2026 [&#8230;] The post Ce-ar fi dacă, pentru o zi, am privi eșecul altfel? appeared first on Top Antreprenor ."
-    },
-    {
-      "title": "Factoring înainte de Black Friday: cum pregătești cash-flow-ul pentru lunile cu vânzări explozive?",
-      "link": "https://topantreprenor.ro/factoring-black-friday-cash-flow/",
-      "date": "Fri, 18 Sep 2026 08:14:56 +0000",
-      "summary": "Invata sa planifici lichiditatile pentru black friday. Alege facturile corecte si calculeaza marja dupa reduceri pentru a evita blocajele. The post Factoring înainte de Black Friday: cum pregătești cash-flow-ul pentru lunile cu vânzări explozive? appeared first on Top Antreprenor ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@topantreprenor/117511036932053935",
+      "date": "Tue, 27 Oct 2026 04:42:05 +0000",
+      "content": "📰Pregatirea corecta a informatiilor si accesul la date scurteaza etapele de diagnostic si faciliteaza lucrul echipelor de service. 🌐 https:// topantreprenor.ro/organizare-i nterventia-frigorifica/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@topantreprenor/117489171982827656",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@topantreprenor/117291043819112271",
       "date": "Fri, 18 Sep 2026 08:14:56 +0000",
       "content": "📰Invata sa planifici lichiditatile pentru black friday. Alege facturile corecte si calculeaza marja dupa reduceri pentru a evita blocajele. 🌐 https:// topantreprenor.ro/factoring-bl ack-friday-cash-flow/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@topantreprenor/117275065962028471",
-      "date": "Tue, 15 Sep 2026 12:31:33 +0000",
-      "content": "📰Odată cu creșterea interesului pentru un stil de viață sănătos, tot mai multe persoane aleg să introducă suplimente în alimentația zilnică. Alături de această popularitate au apărut însă și numeroase idei preconcepute, unele transmise din generație în generație, altele răspândite rapid prin discuții informale sau prin conținut nesustinut de informații corecte. Separarea faptelor de mituri… 🌐 https:// topantreprenor.ro/cele-mai-des -intalnite-mituri-despre-suplimentele-naturale/"
     }
   ]
 }
