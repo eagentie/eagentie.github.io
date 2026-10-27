@@ -4,8 +4,14 @@
   "site_feed": "https://constructii360.ro/feed/",
   "mastodon": "https://social.5th.ro/@constructii360",
   "mastodon_rss": "https://social.5th.ro/@constructii360.rss",
-  "updated_at": "2026-10-27T14:28:50Z",
+  "updated_at": "2026-10-27T20:04:22Z",
   "site_posts": [
+    {
+      "title": "Ce lucrări de construcții mai poți face în octombrie–noiembrie și ce amâni până la primăvară",
+      "link": "https://constructii360.ro/lucrari-de-constructii-toamna/",
+      "date": "Tue, 27 Oct 2026 16:21:52 +0000",
+      "summary": "Descopera care sunt interventiile potrivite pentru toamna si ce proiecte este mai bine sa amani. Ghid practic pentru planificare. Articolul Ce lucrări de construcții mai poți face în octombrie–noiembrie și ce amâni până la primăvară apare prima dată în Constructii 360 ."
+    },
     {
       "title": "Calorifere din aluminiu: câți wați îți trebuie pe cameră și ce se schimbă la racorduri",
       "link": "https://constructii360.ro/calorifere-aluminiu-schimba-la-racorduri/",
@@ -59,15 +65,15 @@
       "link": "https://constructii360.ro/metastazele-hepatice-cand-poate-ajuta-chirurgia/",
       "date": "Fri, 31 Jul 2026 08:32:01 +0000",
       "summary": "Un diagnostic oncologic aduce de fiecare dată multă nesiguranță și numeroase întrebări. Cu toate acestea, Articolul Metastazele hepatice: când poate ajuta chirurgia? apare prima dată în Constructii 360 ."
-    },
-    {
-      "title": "Tabla fălțuită și rezistența la vânt: De ce este învelitoarea recomandată pentru zonele cu fenomene meteo extreme în 2026",
-      "link": "https://constructii360.ro/tabla-faltuita-si-rezistenta-la-vant-de-ce-este-invelitoarea-recomandata-pentru-zonele-cu-fenomene-meteo-extreme-in-2026/",
-      "date": "Tue, 14 Jul 2026 09:41:00 +0000",
-      "summary": "Fenomenele meteo din ultimii ani arată că acoperișul trebuie ales cu mai multă atenție decât Articolul Tabla fălțuită și rezistența la vânt: De ce este învelitoarea recomandată pentru zonele cu fenomene meteo extreme în 2026 apare prima dată în Constructii 360 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@constructii360/117513788620935304",
+      "date": "Tue, 27 Oct 2026 16:21:52 +0000",
+      "content": "🆕Descopera care sunt interventiile potrivite pentru toamna si ce proiecte este mai bine sa amani. Ghid practic pentru planificare. https:// constructii360.ro/lucrari-de-c onstructii-toamna/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@constructii360/117361188770827833",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@constructii360/116804909844473111",
       "date": "Wed, 24 Jun 2026 11:44:40 +0000",
       "content": "🆕Pe 30 iunie 2026, Sala Eminescu a Grand Hotel Traian din Iași va găzdui cea de-a doua ediție a evenimentului Matricea Succesului, organizat de Acceleratorul.com. Evenimentul reunește profesioniști din imobiliare, brokeraj de credite și asigurări într-un format structurat în jurul prezentărilor aplicate, workshopurilor și sesiunilor de networking. Matricea Succesului este o https:// constructii360.ro/imobiliare-c redite-si-asigurari-ecosistemul-castigator-in-2026-acceleratorul-revine-la-iasi/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@constructii360/116765540561284219",
-      "date": "Wed, 17 Jun 2026 12:52:33 +0000",
-      "content": "🆕Să cumperi, în prezent, un aparat de aer condiționat nu trebuie să fie acel gen de decizie pe care o iei în urma primului impuls. Până la urmă, este vorba despre un echipament destul de scump, pe care nu vrei să îl înlocuiești prea curând, și care să contribuie din plin la confortul resimțit în… https:// constructii360.ro/87-original- cum-si-de-unde-poti-sa-iti-cumperi-aparatul-de-aer-conditionat/"
     }
   ]
 }

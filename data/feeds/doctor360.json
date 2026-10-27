@@ -4,8 +4,14 @@
   "site_feed": "https://doctor360.ro/feed/",
   "mastodon": "https://social.5th.ro/@doctor360",
   "mastodon_rss": "https://social.5th.ro/@doctor360.rss",
-  "updated_at": "2026-10-27T14:29:34Z",
+  "updated_at": "2026-10-27T20:05:00Z",
   "site_posts": [
+    {
+      "title": "Nodulii musculari pe care nu-i simți până nu apasă cineva pe ei",
+      "link": "https://doctor360.ro/noduri-musculare-apasa/",
+      "date": "Tue, 27 Oct 2026 16:20:46 +0000",
+      "summary": "Nodurile musculare raman ascunse pana cand presiunea le activeaza. Afla de ce apar si cum le tratezi corect. Articolul Nodulii musculari pe care nu-i simți până nu apasă cineva pe ei apare prima dată în Doctor 360 ."
+    },
     {
       "title": "Infecția urinară: de ce apare și cum scapi de ea rapid?",
       "link": "https://doctor360.ro/infectia-urinara-de-ce-apare-si-cum-scapi-de-ea-rapid/",
@@ -71,15 +77,15 @@
       "link": "https://doctor360.ro/operatie-varice-bucuresti-cand-devine-necesar-tratamentul-chirurgical/",
       "date": "Sun, 10 May 2026 06:30:00 +0000",
       "summary": "Vă confruntați des cu senzația de picioare grele sau umflate la finalul zilei? Această stare nu este doar o urmare a oboselii, ci poate fi primul semn pentru insuficienta venoasa, o afecțiune care progresează în timp. Multe persoane amână vizita la medic, sperând că simptomele vor trece de la sine, însă venele dilatate pot ascunde [&#8230;] Articolul Operație varice București: când devine necesar tratamentul chirurgical apare prima dată în Doctor 360 ."
-    },
-    {
-      "title": "Adenomioza: De ce uterul devine dureros, mărit și inflamat",
-      "link": "https://doctor360.ro/adenomioza-de-ce-uterul-devine-dureros-marit-si-inflamat/",
-      "date": "Fri, 27 Feb 2026 10:42:44 +0000",
-      "summary": "Durerile menstruale severe și sângerările care par să nu se mai oprească sunt adesea etichetate, în mod eronat și superficial, ca fiind &#8222;normale&#8221; sau &#8222;o parte inerentă a vieții de femeie&#8221;. Multe paciente ajung la medicul ginecolog convinse că suferă de fibroame uterine, acele tumori benigne arhicunoscute. Însă, surpriza apare la ecografie: medicul nu găsește [&#8230;] Articolul Adenomioza: De ce uterul devine dureros, mărit și inflamat apare prima dată în Doctor 360 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@doctor360/117513784314972608",
+      "date": "Tue, 27 Oct 2026 16:20:46 +0000",
+      "content": "💡Nodurile musculare raman ascunse pana cand presiunea le activeaza. Afla de ce apar si cum le tratezi corect. 💡 https:// doctor360.ro/noduri-musculare- apasa/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@doctor360/117433054088202162",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@doctor360/116549647903688110",
       "date": "Sun, 10 May 2026 09:48:12 +0000",
       "content": "💡Vă confruntați des cu senzația de picioare grele sau umflate la finalul zilei? Această stare nu este doar o urmare a oboselii, ci poate fi primul semn pentru insuficienta venoasa, o afecțiune care progresează în timp. Multe persoane amână vizita la medic, sperând că simptomele vor trece de la sine, însă venele dilatate pot ascunde… 💡 https:// doctor360.ro/operatie-varice-b ucuresti-cand-devine-necesar-tratamentul-chirurgical/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@doctor360/116142175984614473",
-      "date": "Fri, 27 Feb 2026 10:42:44 +0000",
-      "content": "💡Durerile menstruale severe și sângerările care par să nu se mai oprească sunt adesea etichetate, în mod eronat și superficial, ca fiind &quot;normale&quot; sau &quot;o parte inerentă a vieții de femeie&quot;. Multe paciente ajung la medicul ginecolog convinse că suferă de fibroame uterine, acele tumori benigne arhicunoscute. Însă, surpriza apare la ecografie: medicul nu găsește… 💡 https:// doctor360.ro/adenomioza-de-ce- uterul-devine-dureros-marit-si-inflamat/"
     }
   ]
 }
