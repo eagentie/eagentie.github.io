@@ -4,8 +4,14 @@
   "site_feed": "https://top15.ro/feed/",
   "mastodon": "https://social.5th.ro/@top",
   "mastodon_rss": "https://social.5th.ro/@top.rss",
-  "updated_at": "2026-10-27T07:50:03Z",
+  "updated_at": "2026-10-27T14:30:07Z",
   "site_posts": [
+    {
+      "title": "Cum a ajuns fabrica ClarSanit din Constanța să dezvolte linii complete pentru curățenia casei și îngrijire personală?",
+      "link": "https://top15.ro/cum-a-ajuns-fabrica-clarsanit-din-constanta-sa-dezvolte-linii-complete-pentru-curatenia-casei-si-ingrijire-personala/",
+      "date": "Tue, 27 Oct 2026 06:46:05 +0000",
+      "summary": "Industria bunurilor de larg consum din Rom&#226;nia a trecut printr-o schimbare majoră de paradigmă &#238;n... Articolul Cum a ajuns fabrica ClarSanit din Constanța să dezvolte linii complete pentru curățenia casei și îngrijire personală? apare prima dată în TOP 15 ."
+    },
     {
       "title": "Etichete personalizate în rolă din polipropilenă: soluția practică pentru ambalare și promovarea produselor",
       "link": "https://top15.ro/etichete-personalizate-in-rola-din-polipropilena-solutia-practica-pentru-ambalare-si-promovarea-produselor/",
@@ -71,15 +77,15 @@
       "link": "https://top15.ro/lichioruri-esentiale-pentru-barul-acasa-trei-sticle-dulci-care-nu-raman-uitate/",
       "date": "Mon, 07 Sep 2026 08:12:15 +0000",
       "summary": "Cumperi o sticlă pentru un cocteil, o deschizi la o aniversare și apoi o uiți... Articolul Lichioruri esențiale pentru barul acasă: trei sticle dulci care nu rămân uitate apare prima dată în TOP 15 ."
-    },
-    {
-      "title": "Șemineu tradițional pe lemne vs. termoșemineu automatizat pe peleți: cum faci alegerea corectă pentru casa ta",
-      "link": "https://top15.ro/semineu-traditional-pe-lemne-vs-termosemineu-automatizat-pe-peleti-cum-faci-alegerea-corecta-pentru-casa-ta/",
-      "date": "Fri, 04 Sep 2026 06:30:22 +0000",
-      "summary": "License: e132758c5ef02b83b309aa960f26b47359 Într-o casă nouă sau într-un proiect de renovare, alegerea sistemului de încălzire este... Articolul Șemineu tradițional pe lemne vs. termoșemineu automatizat pe peleți: cum faci alegerea corectă pentru casa ta apare prima dată în TOP 15 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@top/117512003789867846",
+      "date": "Tue, 27 Oct 2026 08:47:58 +0000",
+      "content": "📰Industria bunurilor de larg consum din România a trecut printr-o schimbare majoră de paradigmă în ultimii ani. Timp de decenii, consumatorul român a avut de ales aproape exclusiv între două extreme: produse de import ale giganților multinaționali, vândute la prețuri tot mai mari din cauza costurilor de marketing și logistică internațională, sau produse foarte 📰 https:// top15.ro/cum-a-ajuns-fabrica-c larsanit-din-constanta-sa-dezvolte-linii-complete-pentru-curatenia-casei-si-ingrijire-personala/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@top/117485547086497318",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@top/117228748116757076",
       "date": "Mon, 07 Sep 2026 08:12:19 +0000",
       "content": "📰Cumperi o sticlă pentru un cocteil, o deschizi la o aniversare și apoi o uiți în spatele dulapului. Situația apare des când alegi lichiorul după etichetă sau după cât de dulce pare, fără să te gândești la locul lui în băuturile pe care le bei cu adevărat.Listele obișnuite pentru un bar de acasă pornesc de… 📰 https:// top15.ro/lichioruri-esentiale- pentru-barul-acasa-trei-sticle-dulci-care-nu-raman-uitate/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@top/117211360501580257",
-      "date": "Fri, 04 Sep 2026 06:30:25 +0000",
-      "content": "📰License: e132758c5ef02b83b309aa960f26b47359 Într-o casă nouă sau într-un proiect de renovare, alegerea sistemului de încălzire este influențată atât de criterii tehnice, cât și de preferințe personale. Mulți proprietari se regăsesc în aceeași dilemă: să opteze pentru un șemineu clasic pe lemne, apreciat pentru atmosfera autentică pe care o creează, sau pentru un 📰 https:// top15.ro/semineu-traditional-p e-lemne-vs-termosemineu-automatizat-pe-peleti-cum-faci-alegerea-corecta-pentru-casa-ta/"
     }
   ]
 }
