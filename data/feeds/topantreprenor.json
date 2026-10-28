@@ -4,8 +4,14 @@
   "site_feed": "https://topantreprenor.ro/feed/",
   "mastodon": "https://social.5th.ro/@topantreprenor",
   "mastodon_rss": "https://social.5th.ro/@topantreprenor.rss",
-  "updated_at": "2026-10-28T05:38:44Z",
+  "updated_at": "2026-10-28T12:50:05Z",
   "site_posts": [
+    {
+      "title": "Piesă nouă sau second hand: când merită fiecare, explicat de AutoEco",
+      "link": "https://topantreprenor.ro/piese-auto-second-hand-cand-merita/",
+      "date": "Wed, 28 Oct 2026 06:32:07 +0000",
+      "summary": "Descopera cand merita sa cumperi piese second hand si cand e mai sigur sa alegi varianta noua. Ghid practic pentru a reduce costurile de reparatie. The post Piesă nouă sau second hand: când merită fiecare, explicat de AutoEco appeared first on Top Antreprenor ."
+    },
     {
       "title": "Cum se organizează intervenția când răcirea susține un proces care nu poate aștepta?",
       "link": "https://topantreprenor.ro/organizare-interventia-frigorifica/",
@@ -59,15 +65,15 @@
       "link": "https://topantreprenor.ro/pungi-si-sacose-pentru-brand/",
       "date": "Fri, 25 Sep 2026 16:32:59 +0000",
       "summary": "Alege materialul si dimensiunile in functie de produs si context. Un design simplu si rezistent sustine imaginea afacerii dupa momentul cumpararii. The post Pungi și sacoșe personalizate: cum pot susține imaginea unui brand appeared first on Top Antreprenor ."
-    },
-    {
-      "title": "Ce-ar fi dacă, pentru o zi, am privi eșecul altfel?",
-      "link": "https://topantreprenor.ro/ce-ar-fi-daca-pentru-o-zi-am-privi-esecul-altfel/",
-      "date": "Thu, 24 Sep 2026 11:38:57 +0000",
-      "summary": "Ce-ar fi dacă, pentru o zi, am privi eșecul altfel? Nu ca pe o dovadă că nu ești suficient de bun, ci ca pe unul dintre cele mai directe moduri prin care afli ce nu merge, schimbi direcția, pivotezi, experimentezi și înveți mai repede. Pe 9 noiembrie, la Opera Națională București, I Love Failure 2026 [&#8230;] The post Ce-ar fi dacă, pentru o zi, am privi eșecul altfel? appeared first on Top Antreprenor ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@topantreprenor/117517131952338360",
+      "date": "Wed, 28 Oct 2026 06:32:07 +0000",
+      "content": "📰Descopera cand merita sa cumperi piese second hand si cand e mai sigur sa alegi varianta noua. Ghid practic pentru a reduce costurile de reparatie. 🌐 https:// topantreprenor.ro/piese-auto-s econd-hand-cand-merita/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@topantreprenor/117511036932053935",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@topantreprenor/117308404171820158",
       "date": "Mon, 21 Sep 2026 09:49:54 +0000",
       "content": "📰Polița de asigurare auto obligatorie te scapă de plata pagubelor pe care le provoci altor participanți la trafic, dar nu pune nici măcar un leu la repararea propriului tău vehicul. Mulți conducători auto realizează această limitare abia în fața devizului de la mecanic, după o tamponare ușoară din vina lor sau după o dimineață în… 🌐 https:// topantreprenor.ro/unde-se-opre ste-protectia-oferita-de-rca-si-ce-riscuri-majore-raman-descoperite-fara-o-polita-casco/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@topantreprenor/117291043819112271",
-      "date": "Fri, 18 Sep 2026 08:14:56 +0000",
-      "content": "📰Invata sa planifici lichiditatile pentru black friday. Alege facturile corecte si calculeaza marja dupa reduceri pentru a evita blocajele. 🌐 https:// topantreprenor.ro/factoring-bl ack-friday-cash-flow/"
     }
   ]
 }
