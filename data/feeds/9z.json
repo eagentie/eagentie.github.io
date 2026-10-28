@@ -4,8 +4,14 @@
   "site_feed": "https://9z.ro/feed/",
   "mastodon": "https://social.5th.ro/@9z",
   "mastodon_rss": "https://social.5th.ro/@9z.rss",
-  "updated_at": "2026-10-28T12:50:41Z",
+  "updated_at": "2026-10-28T18:52:12Z",
   "site_posts": [
+    {
+      "title": "Novalyx Labs și noul standard de transparență pe piața de peptide in România",
+      "link": "https://9z.ro/novalyx-labs-si-noul-standard-de-transparenta-pe-piata-de-peptide-in-romania/",
+      "date": "Wed, 28 Oct 2026 17:24:20 +0000",
+      "summary": "Descoperă Novalyx Labs, furnizor de Peptide în România, cu accent pe trasabilitate, documentație tehnică și transparență pentru cercetare. The post Novalyx Labs și noul standard de transparență pe piața de peptide in România appeared first on 9z ."
+    },
     {
       "title": "Începe cu informațiile potrivite, nu cu promisiuni",
       "link": "https://9z.ro/incepe-cu-informatiile-potrivite-nu-cu-promisiuni/",
@@ -59,15 +65,15 @@
       "link": "https://9z.ro/tehnologia-folosita-la-rmn/",
       "date": "Thu, 01 Oct 2026 07:53:31 +0000",
       "summary": "Descopera cum generatia aparatului si softul de procesare modifica durata investigatiei si nivelul de disconfort. Informatii clare despre beneficiile tehnologiei moderne. The post De ce contează tehnologia folosită la un RMN? Ce explică echipa Medikali? appeared first on 9z ."
-    },
-    {
-      "title": "Beneficiile serviciilor de fizioterapie veterinară disponibile în cadrul PartnerVet",
-      "link": "https://9z.ro/fizioterapie-veterinara-cadrul-partnervet/",
-      "date": "Thu, 01 Oct 2026 07:53:29 +0000",
-      "summary": "Descopera cum sesiunile de recuperare in cadrul Partnervet sprijina mobilitatea si confortul animalului tau, de la caini seniori la pisici post-operator. The post Beneficiile serviciilor de fizioterapie veterinară disponibile în cadrul PartnerVet appeared first on 9z ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@9z/117519696795494100",
+      "date": "Wed, 28 Oct 2026 17:24:24 +0000",
+      "content": "Descoperă Novalyx Labs, furnizor de Peptide în România, cu accent pe trasabilitate, documentație tehnică și transparență pentru cercetare. https:// 9z.ro/novalyx-labs-si-noul-sta ndard-de-transparenta-pe-piata-de-peptide-in-romania/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@9z/117489193406905760",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@9z/117384312415283802",
       "date": "Sun, 04 Oct 2026 19:34:22 +0000",
       "content": "ATM RO Metal Construction își extinde serviciile de structuri metalice și placări în Europa. https:// comunicatpresa.9z.ro/atm-ro-me tal-construction-structuri-metalice-placari-europa/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@9z/117384312358521521",
-      "date": "Sun, 04 Oct 2026 19:34:21 +0000",
-      "content": "Antica Sartoria Positano ajunge în România – Brandul italian Antica Sartoria Positano, născut în Positano, pe Coasta Amalfi, este disponibil acum în România pe anticasartoria.ro. Colecțiile create de Giacomo Cinque, cu imprimeuri de lămâi, flori și majolica, includ rochii, caftane, bluze și accesorii, cu livrare în 24-48 de ore, transport gratuit peste 449 de lei și retur în 14 zile. Mai multe detalii pe anticasartoria.ro. https:// comunicatpresa.9z.ro/articol-n ou/"
     }
   ]
 }

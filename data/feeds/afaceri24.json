@@ -4,8 +4,14 @@
   "site_feed": "https://afaceri24.ro/feed/",
   "mastodon": "https://social.5th.ro/@afaceri24",
   "mastodon_rss": "https://social.5th.ro/@afaceri24.rss",
-  "updated_at": "2026-10-28T12:49:47Z",
+  "updated_at": "2026-10-28T18:51:14Z",
   "site_posts": [
+    {
+      "title": "Care este cea mai apreciată pizza din București, din punct de vedere al recenziilor?",
+      "link": "https://afaceri24.ro/apreciata-pizza-bucuresti/",
+      "date": "Wed, 28 Oct 2026 14:29:51 +0000",
+      "summary": "Ratingul nu spune totul. Afla ce elemente conteaza intr-adevar la o pizzeria din Bucuresti si cum zona ta influenteaza alegerea finala. The post Care este cea mai apreciată pizza din București, din punct de vedere al recenziilor? appeared first on Afaceri 24 ."
+    },
     {
       "title": "Traficul schimbă tipul murdăriei",
       "link": "https://afaceri24.ro/traficul-schimba-tipul-murdariei/",
@@ -59,15 +65,15 @@
       "link": "https://afaceri24.ro/networkingul-b2b-evenimente/",
       "date": "Tue, 15 Sep 2026 11:30:18 +0000",
       "summary": "Networkingul profesional, matchmakingul B2B și întâlnirile programate pot transforma un eveniment dintr-o simplă experiență de participare într-un mediu în care se creează conexiuni și oportunități reale de business. The post Networking B2B la evenimente: cum transformi participanții în conexiuni de business appeared first on Afaceri 24 ."
-    },
-    {
-      "title": "Cât de Eficient Este un Aspirator Robot într-o Casă Dezordonată?",
-      "link": "https://afaceri24.ro/cat-de-eficient-este-un-aspirator-robot-intr-o-casa-dezordonata/",
-      "date": "Mon, 14 Sep 2026 15:54:20 +0000",
-      "summary": "Dacă „curățenia” înseamnă pentru tine mai degrabă mutarea lucrurilor dintr-un colț în altul decât aspiratul propriu-zis, poți să stai liniștit, că nu ești deloc o excepție. Aproape o treime dintre oameni recunosc că aleg această soluție rapidă. În multe locuințe, podelele ajung să fie pline de încărcătoare, încălțăminte sau haine lăsate la întâmplare, iar prezența [&#8230;] The post Cât de Eficient Este un Aspirator Robot într-o Casă Dezordonată? appeared first on Afaceri 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@afaceri24/117519010706347014",
+      "date": "Wed, 28 Oct 2026 14:29:55 +0000",
+      "content": "📄Ratingul nu spune totul. Afla ce elemente conteaza intr-adevar la o pizzeria din Bucuresti si cum zona ta influenteaza alegerea finala. 💡 https:// afaceri24.ro/apreciata-pizza-b ucuresti/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@afaceri24/117489154140144172",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@afaceri24/117270201183646297",
       "date": "Mon, 14 Sep 2026 15:54:23 +0000",
       "content": "📄Dacă „curățenia” înseamnă pentru tine mai degrabă mutarea lucrurilor dintr-un colț în altul decât aspiratul propriu-zis, poți să stai liniștit, că nu ești deloc o excepție.Aproape o treime dintre oameni recunosc că aleg această soluție rapidă. În multe locuințe, podelele ajung să fie pline de încărcătoare, încălțăminte sau haine lăsate la întâmplare, iar prezența copiilor… 💡 https:// afaceri24.ro/cat-de-eficient-e ste-un-aspirator-robot-intr-o-casa-dezordonata/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@afaceri24/117251731918866599",
-      "date": "Fri, 11 Sep 2026 09:37:24 +0000",
-      "content": "📄Află cum să cânțaresti avantajele prețului redus față de selecția largă a modelelor noi, pentru a evita cumpărăturile impulsive. 💡 https:// afaceri24.ro/reduceri-sau-cole ctia-noua/"
     }
   ]
 }

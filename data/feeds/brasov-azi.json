@@ -4,8 +4,14 @@
   "site_feed": "https://brasov-azi.ro/feed/",
   "mastodon": "https://social.5th.ro/@brasov",
   "mastodon_rss": "https://social.5th.ro/@brasov.rss",
-  "updated_at": "2026-10-28T12:49:24Z",
+  "updated_at": "2026-10-28T18:50:49Z",
   "site_posts": [
+    {
+      "title": "Andrei, Andreea, Andra: cum sărbătorești onomastica atunci când toată lumea pleacă în minivacanță",
+      "link": "https://brasov-azi.ro/onomastica-andrei-minivacanta/",
+      "date": "Wed, 28 Oct 2026 17:26:08 +0000",
+      "summary": "Descopera cum sa adaptezi planurile pentru onomastica lui Andrei in perioada minivacantei. Ghid simplu pentru cadouri si urari. Articolul Andrei, Andreea, Andra: cum sărbătorești onomastica atunci când toată lumea pleacă în minivacanță apare prima dată în Brasov AZI ."
+    },
     {
       "title": "Evenimentele business din Brașov se schimbă: de ce networkingul devine tot mai important",
       "link": "https://brasov-azi.ro/networking-b2b-brasov/",
@@ -71,15 +77,15 @@
       "link": "https://brasov-azi.ro/ce-responsabilitati-ai-ca-sofer-de-autobuz-merita-sa-obtii-permisul-categoria-d/",
       "date": "Tue, 03 Mar 2026 14:46:24 +0000",
       "summary": "În România, dar și la nivel european, există un deficit major de șoferi profesioniști. Cererea pentru transportul de persoane a crescut semnificativ, iar companiile caută constant oameni bine pregătiți pentru a acoperi aceste posturi libere. Obținerea permisului categoria D deschide ușa către o carieră stabilă, atât în transportul public urban, cât și în cel turistic [&#8230;] Articolul Ce responsabilități ai ca șofer de autobuz? Merită să obții permisul categoria D? apare prima dată în Brasov AZI ."
-    },
-    {
-      "title": "Irineu Darău: Austeritatea fără stimularea economiei înseamnă stagnare. Guvernul aprobă măsuri pentru relansare economică",
-      "link": "https://brasov-azi.ro/irineu-darau-austeritatea-fara-stimularea-economiei-inseamna-stagnare-guvernul-aproba-masuri-pentru-relansare-economica/",
-      "date": "Wed, 25 Feb 2026 11:06:47 +0000",
-      "summary": "Executivul a adoptat recent o Ordonanță de Urgență care introduce un set complex de măsuri menite să revitalizeze mediul economic național. În acest context, **Irineu Darău**, ministrul Economiei, Digitalizării, Antreprenoriatului și Turismului, a evidențiat importanța abandonării politicilor bazate exclusiv pe restricții în favoarea unor investiții bine țintite. Conform oficialului originar din Brașov, simpla menținere a [&#8230;] Articolul Irineu Darău: Austeritatea fără stimularea economiei înseamnă stagnare. Guvernul aprobă măsuri pentru relansare economică apare prima dată în Brasov AZI ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@brasov/117519703634055161",
+      "date": "Wed, 28 Oct 2026 17:26:08 +0000",
+      "content": "Descopera cum sa adaptezi planurile pentru onomastica lui Andrei in perioada minivacantei. Ghid simplu pentru cadouri si urari. https:// brasov-azi.ro/onomastica-andre i-minivacanta/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@brasov/117274924216712483",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@brasov/116599656751961414",
       "date": "Tue, 19 May 2026 05:46:07 +0000",
       "content": "Curelele trapezoidale sunt unele dintre cele mai folosite componente în sistemele de transmisie mecanică. Le întâlnim în utilaje agricole, echipamente de grădinărit, compresoare, ventilatoare, pompe, mașini industriale și multe alte aplicații unde mișcarea trebuie transmisă eficient de la un arbore la altul. Chiar dacă par piese simple, alegerea corectă a unei curele poate https:// brasov-azi.ro/curele-trapezoid ale-tipuri-utilizari-si-cum-alegi-corect-pentru-utilaje-si-aplicatii-industriale/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@brasov/116367521818389710",
-      "date": "Wed, 08 Apr 2026 05:51:09 +0000",
-      "content": "Într-o piață atât de dinamică precum cea din Capitală, imaginea afacerii tale depinde enorm de prima impresie vizuală. Vrei ca brandul tău să strălucească și să atragă privirile trecătorilor încă din prima secundă? Alegerea unor soluții de producție publicitară București de înaltă calitate este pasul esențial pentru a transforma trecătorii în clienți loiali. Imaginează-ți un… https:// brasov-azi.ro/cum-alegi-corect -o-firma-de-productie-publicitara-in-bucuresti-pentru-un-proiect-fara-intarzieri/"
     }
   ]
 }
