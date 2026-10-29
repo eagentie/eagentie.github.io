@@ -4,8 +4,14 @@
   "site_feed": "https://9z.ro/feed/",
   "mastodon": "https://social.5th.ro/@9z",
   "mastodon_rss": "https://social.5th.ro/@9z.rss",
-  "updated_at": "2026-10-29T16:56:34Z",
+  "updated_at": "2026-10-29T21:49:11Z",
   "site_posts": [
+    {
+      "title": "Instalație interactivă la granița dintre dans, neuroștiință și artă digitală",
+      "link": "https://9z.ro/ce-ramane-din-noi-in-absenta-corpului/",
+      "date": "Thu, 29 Oct 2026 20:26:18 +0000",
+      "summary": "Pe 4 și 5 noiembrie 2026, la Linotip – Centru Independent Coregrafic din București, Asociația Secția de Coregrafie prezintă DANS.ID, o instalație digitală interactivă care îmbină dansul, neuroștiința și arta digitală. Prin intermediul mișcării corpului și al semnalelor EEG, fiecare vizitator contribuie la crearea unei experiențe vizuale, sonore și coregrafice unice. Lansarea marchează și 15 ani de activitate ai Asociației Secția de Coregrafie. The post Instalație interactivă la granița dintre dans, neuroștiință și artă digitală appeared first on 9z ."
+    },
     {
       "title": "Sa le dam aripi: educatie, autonomie si incredere pentru tinerii cu cerinte speciale",
       "link": "https://9z.ro/sa-le-dam-aripi-educatie-autonomie-si-incredere-pentru-tinerii-cu-cerinte-speciale/",
@@ -59,15 +65,15 @@
       "link": "https://9z.ro/automatizare-articole-ai-moon-post/",
       "date": "Sat, 10 Oct 2026 15:29:23 +0000",
       "summary": "Automatizarea articolelor începe cu subiecte relevante și informații corecte. Descoperă ce trebuie verificat înainte de publicare și unde se încadrează MOON Post. The post Ce verifici înainte să automatizezi articolele cu AI appeared first on 9z ."
-    },
-    {
-      "title": "Actualizarea codurilor CAEN, obligatorie pentru firme",
-      "link": "https://9z.ro/actualizarea-codurilor-caen-la-rev-3-este-obligatorie-doar-1-3-au-reusit/",
-      "date": "Fri, 02 Oct 2026 05:25:44 +0000",
-      "summary": "Actualizarea codurilor CAEN la Rev. 3 este obligatorie pentru toate firmele din Romania. Doar 1/3 au reușit actualizarea pana in prezent. Profita de oferta Shift View Consulting. The post Actualizarea codurilor CAEN, obligatorie pentru firme appeared first on 9z ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@9z/117526074574161495",
+      "date": "Thu, 29 Oct 2026 20:26:21 +0000",
+      "content": "Pe 4 și 5 noiembrie 2026, la Linotip – Centru Independent Coregrafic din București, Asociația Secția de Coregrafie prezintă DANS.ID, o instalație digitală interactivă care îmbină dansul, neuroștiința și arta digitală. Prin intermediul mișcării corpului și al semnalelor EEG, fiecare vizitator contribuie la crearea unei experiențe vizuale, sonore și coregrafice unice. Lansarea marchează și 15 ani de activitate ai Asociației Secția de Coregrafie. https:// 9z.ro/ce-ramane-din-noi-in-abs enta-corpului/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@9z/117523712138621098",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@9z/117417323204560802",
       "date": "Sat, 10 Oct 2026 15:29:27 +0000",
       "content": "Automatizarea articolelor începe cu subiecte relevante și informații corecte. Descoperă ce trebuie verificat înainte de publicare și unde se încadrează MOON Post. https:// 9z.ro/automatizare-articole-ai -moon-post/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@9z/117410752099011963",
-      "date": "Fri, 09 Oct 2026 11:38:19 +0000",
-      "content": "Ferestrele mari fac orice cameră mai luminoasă și mai plăcută, dar aduc și privirile curioase dinspre stradă sau dinspre blocul vecin, mai ales seara, când aprinzi luminile. Vestea bună? Nu trebuie să alegi între o casă luminoasă și una în care te simți în largul tău. Cu textilele potrivite, câteva storuri, o folie pentru geam… https:// comunicatpresa.9z.ro/lumina-na turala-si-intimitatea-cum-gasesti-echilibrul-in-casa/"
     }
   ]
 }
