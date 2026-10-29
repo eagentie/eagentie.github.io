@@ -4,8 +4,14 @@
   "site_feed": "https://topcomunicate.ro/feed/",
   "mastodon": "https://social.5th.ro/@topcomunicate_ro",
   "mastodon_rss": "https://social.5th.ro/@topcomunicate_ro.rss",
-  "updated_at": "2026-10-29T09:54:16Z",
+  "updated_at": "2026-10-29T16:54:41Z",
   "site_posts": [
+    {
+      "title": "Nenos Software: servicii cloud AWS care conectează arhitectura, performanța și administrarea infrastructurii",
+      "link": "https://topcomunicate.ro/nenos-software-servicii-cloud-aws/",
+      "date": "Thu, 29 Oct 2026 10:58:38 +0000",
+      "summary": "Echipa Nenos Software asista in migrarea si optimizarea mediilor AWS, conectand arhitectura cu dezvoltarea software si AI. The post Nenos Software: servicii cloud AWS care conectează arhitectura, performanța și administrarea infrastructurii appeared first on Comunicate de presa ."
+    },
     {
       "title": "Network One Distribution și SHARP Consumer Electronics anunță un parteneriat strategic pentru piața din România",
       "link": "https://topcomunicate.ro/network-one-distribution-sharp-parteneriat/",
@@ -71,15 +77,15 @@
       "link": "https://topcomunicate.ro/gallerydock-client-galleries-website-embedding/",
       "date": "Mon, 05 Oct 2026 09:58:16 +0000",
       "summary": "GalleryDock extends website embedding to English-speaking photographers, combining client galleries, password protection and a free starting allowance of three galleries. The post GalleryDock Expands Client Galleries With Website Embedding appeared first on Comunicate de presa ."
-    },
-    {
-      "title": "CAZUL VIDRA: PESTE 50 DE MILIOANE DE EURO INVESTIȚI, 300 DE LOCURI DE MUNCĂ ȘI DEȘEURI TRATATE",
-      "link": "https://topcomunicate.ro/cazul-vidra-peste-50-de-milioane-de-euro-investiti-300-de-locuri-de-munca-si-deseuri-tratate/",
-      "date": "Wed, 30 Sep 2026 05:59:18 +0000",
-      "summary": "O analiză realizată de Gavril Dulcu, specialist internațional în domeniul deșeurilor, în prezent pensionar și legumicultor în... The post CAZUL VIDRA: PESTE 50 DE MILIOANE DE EURO INVESTIȚI, 300 DE LOCURI DE MUNCĂ ȘI DEȘEURI TRATATE appeared first on Comunicate de presa ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@topcomunicate_ro/117523842348853719",
+      "date": "Thu, 29 Oct 2026 10:58:40 +0000",
+      "content": "⭐ Echipa Nenos Software asista in migrarea si optimizarea mediilor AWS, conectand arhitectura cu dezvoltarea software si AI. 🔗 Detalii aici: https:// topcomunicate.ro/nenos-softwar e-servicii-cloud-aws/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@topcomunicate_ro/117512055787899135",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@topcomunicate_ro/117387709543655225",
       "date": "Mon, 05 Oct 2026 09:58:18 +0000",
       "content": "⭐ GalleryDock extends website embedding to English-speaking photographers, combining client galleries, password protection and a free starting allowance of three galleries. 🔗 Mai mult: https:// topcomunicate.ro/gallerydock-c lient-galleries-website-embedding/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@topcomunicate_ro/117359170582167984",
-      "date": "Wed, 30 Sep 2026 09:00:28 +0000",
-      "content": "⭐ O analiză realizată de Gavril Dulcu, specialist internațional în domeniul deșeurilor, în prezent pensionar și legumicultor în Vidra, ridică o întrebare incomodă: cum a ajuns o asociație care declară că apără mediul să solicite anularea autorizației unei instalații construite tocmai pentru tratarea deșeurilor?Redacția avertizori-deintegritate.ro a analizat 🔗 Detalii aici: https:// topcomunicate.ro/cazul-vidra-p este-50-de-milioane-de-euro-investiti-300-de-locuri-de-munca-si-deseuri-tratate/"
     }
   ]
 }

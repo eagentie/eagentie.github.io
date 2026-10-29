@@ -4,8 +4,14 @@
   "site_feed": "https://e-faq.ro/feed/",
   "mastodon": "https://social.5th.ro/@efaq",
   "mastodon_rss": "https://social.5th.ro/@efaq.rss",
-  "updated_at": "2026-10-29T09:55:22Z",
+  "updated_at": "2026-10-29T16:55:44Z",
   "site_posts": [
+    {
+      "title": "Copii cu CES, adulti independenti: rolul educatiei in drumul spre autonomie",
+      "link": "https://e-faq.ro/copii-cu-ces-adulti-independenti-rolul-educatiei-in-drumul-spre-autonomie/",
+      "date": "Thu, 29 Oct 2026 10:25:40 +0000",
+      "summary": "Noul spatiu de autoservire al Asociatiei CONIL transforma teoria in abilitati practice pentru tinerii cu nevoi speciale. Articolul Copii cu CES, adulti independenti: rolul educatiei in drumul spre autonomie apare prima dată în FAQ - Intrebari Frecvente ."
+    },
     {
       "title": "Android pentru începători: 7 funcții utile pe care puțini le folosesc",
       "link": "https://e-faq.ro/android-functii-util-incepatori/",
@@ -53,15 +59,15 @@
       "link": "https://e-faq.ro/intrebari-frecvente-despre-asistentii-ai-in-clinici-ce-pot-face-si-unde-sunt-limitele/",
       "date": "Sun, 12 Jul 2026 05:33:03 +0000",
       "summary": "Tehnologia a intrat în relația dintre pacient și clinică prin pași mici: site-uri mai clare, [&#8230;] Articolul Întrebări frecvente despre asistenții AI în clinici: ce pot face și unde sunt limitele apare prima dată în FAQ - Intrebari Frecvente ."
-    },
-    {
-      "title": "12 greșeli pe care le poți evita la prima vizită într-un parc de aventură",
-      "link": "https://e-faq.ro/12-greseli-pe-care-le-poti-evita-la-prima-vizita-intr-un-parc-de-aventura/",
-      "date": "Mon, 06 Jul 2026 21:03:00 +0000",
-      "summary": "Prima vizită într-un parc de aventură poate deveni mai obositoare decât te aștepți dacă încerci [&#8230;] Articolul 12 greșeli pe care le poți evita la prima vizită într-un parc de aventură apare prima dată în FAQ - Intrebari Frecvente ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@efaq/117523712736577990",
+      "date": "Thu, 29 Oct 2026 10:25:42 +0000",
+      "content": "🚀 &lt;p&gt;Noul spatiu de autoservire al Asociatiei CONIL transforma teoria in abilitati practice pentru tinerii cu nevoi speciale.&lt;/p&gt; 🔗 Mai mult: https:// e-faq.ro/copii-cu-ces-adulti-i ndependenti-rolul-educatiei-in-drumul-spre-autonomie/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@efaq/117468018403536184",
@@ -127,12 +133,6 @@
       "link": "https://social.5th.ro/@efaq/116764576115905720",
       "date": "Wed, 17 Jun 2026 08:47:16 +0000",
       "content": "🚀 Cumpărarea unei licențe Windows 11 nu trebuie să fie complicată sau costisitoare. Există numeroase opțiuni disponibile online, însă este important să alegi o platformă de încredere și să înțelegi diferențele dintre tipurile de licențe existente. Descoperă principalele aspecte pe care ar trebui să le verifici înainte de a face o achiziție. Produsele digitale au devenit… 🔗 Complet aici: https:// e-faq.ro/cum-gasesti-o-licenta -windows-originala-fara-sa-platesti-prea-mult/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@efaq/116720194944893981",
-      "date": "Tue, 09 Jun 2026 12:40:33 +0000",
-      "content": "🚀 &lt;p&gt;Ce este un espressor în custodie pentru birou, cum funcționează contractul, ce include serviciul și unde găsești un furnizor în București. Răspunsuri clare, făr&lt;/p&gt; 🔗 Mai mult: https:// e-faq.ro/espressor-in-custodie -pentru-birou-intrebari-si-raspunsuri/"
     }
   ]
 }

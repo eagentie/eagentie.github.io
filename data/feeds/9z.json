@@ -4,8 +4,14 @@
   "site_feed": "https://9z.ro/feed/",
   "mastodon": "https://social.5th.ro/@9z",
   "mastodon_rss": "https://social.5th.ro/@9z.rss",
-  "updated_at": "2026-10-29T09:56:12Z",
+  "updated_at": "2026-10-29T16:56:34Z",
   "site_posts": [
+    {
+      "title": "Sa le dam aripi: educatie, autonomie si incredere pentru tinerii cu cerinte speciale",
+      "link": "https://9z.ro/sa-le-dam-aripi-educatie-autonomie-si-incredere-pentru-tinerii-cu-cerinte-speciale/",
+      "date": "Thu, 29 Oct 2026 10:25:30 +0000",
+      "summary": "Noul spatiu de autoservire al Asociatiei CONIL transforma teoria in abilitati practice pentru tinerii cu nevoi speciale. The post Sa le dam aripi: educatie, autonomie si incredere pentru tinerii cu cerinte speciale appeared first on 9z ."
+    },
     {
       "title": "Novalyx Labs și noul standard de transparență pe piața de peptide in România",
       "link": "https://9z.ro/novalyx-labs-si-noul-standard-de-transparenta-pe-piata-de-peptide-in-romania/",
@@ -59,15 +65,21 @@
       "link": "https://9z.ro/actualizarea-codurilor-caen-la-rev-3-este-obligatorie-doar-1-3-au-reusit/",
       "date": "Fri, 02 Oct 2026 05:25:44 +0000",
       "summary": "Actualizarea codurilor CAEN la Rev. 3 este obligatorie pentru toate firmele din Romania. Doar 1/3 au reușit actualizarea pana in prezent. Profita de oferta Shift View Consulting. The post Actualizarea codurilor CAEN, obligatorie pentru firme appeared first on 9z ."
-    },
-    {
-      "title": "De ce contează tehnologia folosită la un RMN? Ce explică echipa Medikali?",
-      "link": "https://9z.ro/tehnologia-folosita-la-rmn/",
-      "date": "Thu, 01 Oct 2026 07:53:31 +0000",
-      "summary": "Descopera cum generatia aparatului si softul de procesare modifica durata investigatiei si nivelul de disconfort. Informatii clare despre beneficiile tehnologiei moderne. The post De ce contează tehnologia folosită la un RMN? Ce explică echipa Medikali? appeared first on 9z ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@9z/117523712138621098",
+      "date": "Thu, 29 Oct 2026 10:25:33 +0000",
+      "content": "Noul spatiu de autoservire al Asociatiei CONIL transforma teoria in abilitati practice pentru tinerii cu nevoi speciale. https:// 9z.ro/sa-le-dam-aripi-educatie -autonomie-si-incredere-pentru-tinerii-cu-cerinte-speciale/"
+    },
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@9z/117523710927861523",
+      "date": "Thu, 29 Oct 2026 10:25:14 +0000",
+      "content": "Noul spatiu de autoservire al Asociatiei CONIL transforma teoria in abilitati practice pentru tinerii cu nevoi speciale. https:// comunicatpresa.9z.ro/un-viitor -fara-limite-educatie-autonomie-si-independenta-pentru-copiii-si-tinerii-cu-ces/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@9z/117519696795494100",
@@ -127,18 +139,6 @@
       "link": "https://social.5th.ro/@9z/117410752099011963",
       "date": "Fri, 09 Oct 2026 11:38:19 +0000",
       "content": "Ferestrele mari fac orice cameră mai luminoasă și mai plăcută, dar aduc și privirile curioase dinspre stradă sau dinspre blocul vecin, mai ales seara, când aprinzi luminile. Vestea bună? Nu trebuie să alegi între o casă luminoasă și una în care te simți în largul tău. Cu textilele potrivite, câteva storuri, o folie pentru geam… https:// comunicatpresa.9z.ro/lumina-na turala-si-intimitatea-cum-gasesti-echilibrul-in-casa/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@9z/117393307284573450",
-      "date": "Tue, 06 Oct 2026 09:41:53 +0000",
-      "content": "Magneții sunt printre cele mai simple materiale cu care poți face experimente acasă. Nu ai nevoie de aparate complicate, de laborator sau de explicații grele. Ai nevoie de câțiva magneți potriviți, agrafe, hârtie, pilitură de fier, monede, apă, carton, câteva obiecte din casă și puțină răbdare.Pentru copii, partea interesantă apare imediat. Un obiect se mișcă… https:// 9z.ro/10-experimente-simple-cu -magneti-de-care-copiii-tai-vor-fi-incantati/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@9z/117384312415283802",
-      "date": "Sun, 04 Oct 2026 19:34:22 +0000",
-      "content": "ATM RO Metal Construction își extinde serviciile de structuri metalice și placări în Europa. https:// comunicatpresa.9z.ro/atm-ro-me tal-construction-structuri-metalice-placari-europa/"
     }
   ]
 }

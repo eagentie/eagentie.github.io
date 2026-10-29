@@ -4,8 +4,14 @@
   "site_feed": "https://stirisociale.ro/feed/",
   "mastodon": "https://social.5th.ro/@stiri_sociale",
   "mastodon_rss": "https://social.5th.ro/@stiri_sociale.rss",
-  "updated_at": "2026-10-29T09:55:28Z",
+  "updated_at": "2026-10-29T16:55:50Z",
   "site_posts": [
+    {
+      "title": "Fiecare copil conteaza: educatie incluziva, autonomie si viitor pentru tinerii cu CES",
+      "link": "https://stirisociale.ro/fiecare-copil-conteaza-educatie-incluziva-autonomie-si-viitor-pentru-tinerii-cu-ces/",
+      "date": "Thu, 29 Oct 2026 10:26:46 +0000",
+      "summary": "Noul spatiu de autoservire al Asociatiei CONIL transforma teoria in abilitati practice pentru tinerii cu nevoi speciale. Articolul Fiecare copil conteaza: educatie incluziva, autonomie si viitor pentru tinerii cu CES apare prima dată în Stiri sociale ."
+    },
     {
       "title": "De ce merită să alegi lenjerii de pat fabricate în România",
       "link": "https://stirisociale.ro/de-ce-merita-sa-alegi-lenjerii-de-pat-fabricate-in-romania/",
@@ -59,15 +65,15 @@
       "link": "https://stirisociale.ro/inchiriere-auto-pentru-vacanta-in-cluj-napoca-cum-alegi-corect-cand-planul-include-mai-mult-decat-orasul/",
       "date": "Wed, 18 Feb 2026 10:22:00 +0000",
       "summary": "Clujul este punctul de plecare, nu destinația finalăPentru mulți vizitatori, Cluj-Napoca nu este doar un oraș de explorat, ci baza din care pornesc spre alte destinații. Cheile Turzii, Salina Turda,&#8230; Articolul Închiriere auto pentru vacanță în Cluj-Napoca: cum alegi corect când planul include mai mult decât orașul apare prima dată în Stiri sociale ."
-    },
-    {
-      "title": "De ce formularele clasice de contact mor în 2026 și ce le ia locul",
-      "link": "https://stirisociale.ro/de-ce-formularele-clasice-de-contact-mor-in-2026-si-ce-le-ia-locul/",
-      "date": "Sun, 15 Feb 2026 12:24:00 +0000",
-      "summary": "Formularul clasic de contact a fost, ani la rând, piesa centrală a conversiilor online. „Nume, email, telefon, mesaj” – o structură aproape neschimbată de un deceniu. Problema este că între&#8230; Articolul De ce formularele clasice de contact mor în 2026 și ce le ia locul apare prima dată în Stiri sociale ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@stiri_sociale/117523717202504892",
+      "date": "Thu, 29 Oct 2026 10:26:50 +0000",
+      "content": "Noul spatiu de autoservire al Asociatiei CONIL transforma teoria in abilitati practice pentru tinerii cu nevoi speciale. https:// stirisociale.ro/fiecare-copil- conteaza-educatie-incluziva-autonomie-si-viitor-pentru-tinerii-cu-ces/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@stiri_sociale/117189315673439158",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@stiri_sociale/115881418652183247",
       "date": "Mon, 12 Jan 2026 09:28:43 +0000",
       "content": "Dincolo de sala de clasă: universul de aventură și învățare de la gradinita Mami și TatiCând alegi o grădiniță sau un after school, nu cauți doar un spațiu sigur, ci un partener care să îi ofere copilului tău experiențe de viață. La gradinita Mami și Tati, credem că cele mai prețioase lecții se învață atunci… https:// stirisociale.ro/taberele-de-ia rna-curaj-pe-schiuri-si-magie-in-zapada/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@stiri_sociale/115736478210706484",
-      "date": "Wed, 17 Dec 2025 19:08:27 +0000",
-      "content": "Te-ai săturat de algoritmii care îți dictează ce vezi și de lipsa de control asupra datelor tale? Ești gata să faci pasul spre un spațiu social descentralizat? Dacă ești nou pe Mastodon, s-ar putea să te simți inițial confuz. Fediverse funcționează după principii diferite față de rețelele tradiționale, iar modul în care interacționezi contează enorm.… https:// stirisociale.ro/ghid-de-etiche ta-pentru-mastodon-romania-ce-functioneaza/"
     }
   ]
 }

@@ -4,8 +4,14 @@
   "site_feed": "https://cetateanmodel.ro/feed/",
   "mastodon": "https://social.5th.ro/@cetatean_model",
   "mastodon_rss": "https://social.5th.ro/@cetatean_model.rss",
-  "updated_at": "2026-10-29T09:54:27Z",
+  "updated_at": "2026-10-29T16:54:50Z",
   "site_posts": [
+    {
+      "title": "De la sprijin la independenta: educatia care schimba destine",
+      "link": "https://cetateanmodel.ro/de-la-sprijin-la-independenta-educatia-care-schimba-destine/",
+      "date": "Thu, 29 Oct 2026 10:26:18 +0000",
+      "summary": "Noul spatiu de autoservire al Asociatiei CONIL transforma teoria in abilitati practice pentru tinerii cu nevoi speciale. Articolul De la sprijin la independenta: educatia care schimba destine apare prima dată în Cetatean model ."
+    },
     {
       "title": "Partenerii care fac posibil HER SPACE FESTIVAL ROMANIA – TINEREȚE FĂRĂ BĂTRÂNEȚE?",
       "link": "https://cetateanmodel.ro/partenerii-care-fac-posibil-her-space-festival-romania-tinerete-fara-batranete/",
@@ -71,15 +77,15 @@
       "link": "https://cetateanmodel.ro/cotele-dunarii-la-orsova-in-2026-nivelul-apei-azi-grafic-si-dinamica-zilnica/",
       "date": "Fri, 13 Feb 2026 08:38:11 +0000",
       "summary": "Dacă plănuiești o escapadă în Clisura Dunării, cu siguranță te interesează cum arată fluviul astăzi. Imaginează-ți o plimbare cu barca printre spectaculoasele Cazane, unde peisajul depinde direct de volumul de apă. Monitorizarea pentru cotele Dunării Orșova este esențială pentru orice turist, pescar sau navigator care dorește o experiență sigură. O simplă verificare a datelor te [&#8230;] Articolul Cotele Dunării la Orșova în 2026: nivelul apei azi, grafic și dinamica zilnică apare prima dată în Cetatean model ."
-    },
-    {
-      "title": "Cum conectezi mai multe conturi Mastodon la același WordPress",
-      "link": "https://cetateanmodel.ro/cum-conectezi-mai-multe-conturi-mastodon-la-acelasi-wordpress/",
-      "date": "Wed, 17 Dec 2025 16:58:54 +0000",
-      "summary": "Te-ai săturat de algoritmii care îți ascund conținutul, limitând astfel impactul postărilor tale? Tranziția către platforme descentralizate, cum ar fi Mastodon, nu este doar o tendință, ci o mișcare strategică vitală pentru creatorii de conținut și branduri. Dacă deții un site WordPress bine stabilit, știi că eficiența este cheia. Dar ce se întâmplă când nu [&#8230;] Articolul Cum conectezi mai multe conturi Mastodon la același WordPress apare prima dată în Cetatean model ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@cetatean_model/117523715364702894",
+      "date": "Thu, 29 Oct 2026 10:26:22 +0000",
+      "content": "Noul spatiu de autoservire al Asociatiei CONIL transforma teoria in abilitati practice pentru tinerii cu nevoi speciale. https:// cetateanmodel.ro/de-la-sprijin -la-independenta-educatia-care-schimba-destine/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@cetatean_model/117386899680238449",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@cetatean_model/116063007010920069",
       "date": "Fri, 13 Feb 2026 11:09:01 +0000",
       "content": "Dacă plănuiești o escapadă în Clisura Dunării, cu siguranță te interesează cum arată fluviul astăzi. Imaginează-ți o plimbare cu barca printre spectaculoasele Cazane, unde peisajul depinde direct de volumul de apă. Monitorizarea pentru cotele Dunării Orșova este esențială pentru orice turist, pescar sau navigator care dorește o experiență sigură. O simplă verificare a datelor te… https:// cetateanmodel.ro/cotele-dunari i-la-orsova-in-2026-nivelul-apei-azi-grafic-si-dinamica-zilnica/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@cetatean_model/115798082161917141",
-      "date": "Sun, 28 Dec 2025 16:15:09 +0000",
-      "content": "/tmp/tmpghu75w8n.html https:// cetateanmodel.ro/reabilitarea- cardiaca-secretul-recuperarii-complete/"
     }
   ]
 }

@@ -4,8 +4,14 @@
   "site_feed": "https://stiridemocratice.ro/feed/",
   "mastodon": "https://social.5th.ro/@stiri_democratice",
   "mastodon_rss": "https://social.5th.ro/@stiri_democratice.rss",
-  "updated_at": "2026-10-29T09:55:51Z",
+  "updated_at": "2026-10-29T16:56:11Z",
   "site_posts": [
+    {
+      "title": "Dincolo de limite: drumul spre autonomie al copiilor cu cerinte educationale speciale",
+      "link": "https://stiridemocratice.ro/dincolo-de-limite-drumul-spre-autonomie-al-copiilor-cu-cerinte-educationale-speciale/",
+      "date": "Thu, 29 Oct 2026 10:26:58 +0000",
+      "summary": "Noul spatiu de autoservire al Asociatiei CONIL transforma teoria in abilitati practice pentru tinerii cu nevoi speciale. Articolul Dincolo de limite: drumul spre autonomie al copiilor cu cerinte educationale speciale apare prima dată în Stiri democratice ."
+    },
     {
       "title": "Chist pilonidal: de ce apare și când se tratează chirurgical",
       "link": "https://stiridemocratice.ro/chist-pilonidal-de-ce-apare-si-cand-se-trateaza-chirurgical/",
@@ -65,15 +71,15 @@
       "link": "https://stiridemocratice.ro/jurnalul-pariorului-cum-iti-notezi-si-analizezi-biletele-jucate/",
       "date": "Fri, 14 Nov 2025 09:07:58 +0000",
       "summary": "A (Atenție): Ești sătul să depui constant bani la casele de pariuri, fără să înțelegi exact unde greșești? Majoritatea pariorilor se bazează pe memorie sau pe emoție. Ei se concentrează doar pe rezultatul imediat, ratând imaginea de ansamblu esențială pentru succes. I (Interes): Vrei să transformi pariurile dintr-un hobby costisitor într-o activitate strategică, bazată pe [&#8230;] Articolul Jurnalul pariorului: cum îți notezi și analizezi biletele jucate apare prima dată în Stiri democratice ."
-    },
-    {
-      "title": "Pagini FAQ optimizate SEO: cum răspunzi întrebărilor frecvente și prinzi snippets",
-      "link": "https://stiridemocratice.ro/pagini-faq-optimizate-seo-cum-raspunzi-intrebarilor-frecvente-si-prinzi-snippets/",
-      "date": "Fri, 14 Nov 2025 07:32:14 +0000",
-      "summary": "Atenție: Vă luptați zilnic pentru a ajunge pe prima pagină în Google, dar rezultatele nu apar? Majoritatea afacerilor online se concentrează doar pe articole lungi, ignorând o tactică simplă, dar extrem de puternică, care vă poate propulsa instantaneu deasupra concurenței. Interes: Nu este vorba doar de a avea conținut bun; este vorba de a-l prezenta [&#8230;] Articolul Pagini FAQ optimizate SEO: cum răspunzi întrebărilor frecvente și prinzi snippets apare prima dată în Stiri democratice ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@stiri_democratice/117523717768666442",
+      "date": "Thu, 29 Oct 2026 10:26:59 +0000",
+      "content": "Noul spatiu de autoservire al Asociatiei CONIL transforma teoria in abilitati practice pentru tinerii cu nevoi speciale. https:// stiridemocratice.ro/dincolo-de -limite-drumul-spre-autonomie-al-copiilor-cu-cerinte-educationale-speciale/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@stiri_democratice/116799121330821348",
