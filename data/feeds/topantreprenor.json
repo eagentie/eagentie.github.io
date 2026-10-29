@@ -4,8 +4,14 @@
   "site_feed": "https://topantreprenor.ro/feed/",
   "mastodon": "https://social.5th.ro/@topantreprenor",
   "mastodon_rss": "https://social.5th.ro/@topantreprenor.rss",
-  "updated_at": "2026-10-29T02:26:00Z",
+  "updated_at": "2026-10-29T09:55:35Z",
   "site_posts": [
+    {
+      "title": "Piese auto Ford pentru Kuga și întreținerea adaptată cu Altgrad",
+      "link": "https://topantreprenor.ro/piese-auto-ford-kuga-intretinere/",
+      "date": "Wed, 28 Oct 2026 08:53:00 +0000",
+      "summary": "Ghid pentru selectarea componentelor Ford Kuga in functie de varianta de motorizare si programul de service. Informatii practice pentru o comanda precisa. The post Piese auto Ford pentru Kuga și întreținerea adaptată cu Altgrad appeared first on Top Antreprenor ."
+    },
     {
       "title": "Piesă nouă sau second hand: când merită fiecare, explicat de AutoEco",
       "link": "https://topantreprenor.ro/piese-auto-second-hand-cand-merita/",
@@ -59,15 +65,15 @@
       "link": "https://topantreprenor.ro/agentie-de-marketing-ai/",
       "date": "Fri, 25 Sep 2026 16:36:40 +0000",
       "summary": "Descopera trei semne ca instrumentele AI nu sunt suficiente si cum o echipa specializata poate optimiza strategia ta digitala. The post Ce faci când marketingul online cu AI nu dă rezultate? 3 semne că ai nevoie de o agenție de marketing appeared first on Top Antreprenor ."
-    },
-    {
-      "title": "Pungi și sacoșe personalizate: cum pot susține imaginea unui brand",
-      "link": "https://topantreprenor.ro/pungi-si-sacose-pentru-brand/",
-      "date": "Fri, 25 Sep 2026 16:32:59 +0000",
-      "summary": "Alege materialul si dimensiunile in functie de produs si context. Un design simplu si rezistent sustine imaginea afacerii dupa momentul cumpararii. The post Pungi și sacoșe personalizate: cum pot susține imaginea unui brand appeared first on Top Antreprenor ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@topantreprenor/117523351066092506",
+      "date": "Thu, 29 Oct 2026 08:53:43 +0000",
+      "content": "📰Ghid pentru selectarea componentelor Ford Kuga in functie de varianta de motorizare si programul de service. Informatii practice pentru o comanda precisa. 🌐 https:// topantreprenor.ro/piese-auto-f ord-kuga-intretinere/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@topantreprenor/117517131952338360",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@topantreprenor/117326591929633070",
       "date": "Thu, 24 Sep 2026 14:55:17 +0000",
       "content": "📰Ce-ar fi dacă, pentru o zi, am privi eșecul altfel?Nu ca pe o dovadă că nu ești suficient de bun, ci ca pe unul dintre cele mai directe moduri prin care afli ce nu merge, schimbi direcția, pivotezi, experimentezi și înveți mai repede. Pe 9 noiembrie, la Opera Națională București, I Love Failure 2026 aduce… 🌐 https:// topantreprenor.ro/ce-ar-fi-dac a-pentru-o-zi-am-privi-esecul-altfel/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@topantreprenor/117308404171820158",
-      "date": "Mon, 21 Sep 2026 09:49:54 +0000",
-      "content": "📰Polița de asigurare auto obligatorie te scapă de plata pagubelor pe care le provoci altor participanți la trafic, dar nu pune nici măcar un leu la repararea propriului tău vehicul. Mulți conducători auto realizează această limitare abia în fața devizului de la mecanic, după o tamponare ușoară din vina lor sau după o dimineață în… 🌐 https:// topantreprenor.ro/unde-se-opre ste-protectia-oferita-de-rca-si-ce-riscuri-majore-raman-descoperite-fara-o-polita-casco/"
     }
   ]
 }

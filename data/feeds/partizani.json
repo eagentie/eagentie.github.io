@@ -4,8 +4,14 @@
   "site_feed": "https://partizani.ro/feed/",
   "mastodon": "https://social.5th.ro/@Partizani",
   "mastodon_rss": "https://social.5th.ro/@Partizani.rss",
-  "updated_at": "2026-10-29T02:26:03Z",
+  "updated_at": "2026-10-29T09:55:38Z",
   "site_posts": [
+    {
+      "title": "Rețete cu pui pentru cina de toamnă în familie: 5 idei rapide din colecția de rețete Selgros",
+      "link": "https://partizani.ro/retete-cu-pui-cina-toamna/",
+      "date": "Thu, 29 Oct 2026 09:55:29 +0000",
+      "summary": "Alege dintre cinci preparate calde cu pui, de la quiche la frigaturi, si organizeaza-ti cina de toamna in familie cu ingrediente de sezon. Articolul Rețete cu pui pentru cina de toamnă în familie: 5 idei rapide din colecția de rețete Selgros apare prima dată în Partizani ."
+    },
     {
       "title": "Au Pair Moldova lansează un ghid gratuit pentru tinerii din Moldova care vor să plece au pair în Germania",
       "link": "https://partizani.ro/au-pair-moldova-lanseaza-un-ghid-gratuit-pentru-tinerii-din-moldova-care-vor-sa-plece-au-pair-in-germania/",
@@ -59,12 +65,6 @@
       "link": "https://partizani.ro/literele-de-pe-sticla-de-coniac-ascund-o-diferenta-de-opt-ani-vs-vsop-si-xo-fara-confuzii/",
       "date": "Mon, 07 Sep 2026 08:12:55 +0000",
       "summary": "Cumperi o sticlă de coniac și găsești pe etichetă trei litere care par să spună totul: VS, VSOP sau XO. Prețul urcă, culoarea devine mai închisă, iar explicațiile din jurul raftului rămân uneori neclare. Diferența dintre coniac VS și XO nu este doar o treaptă de preț. Ea pornește de [&#8230;] Articolul Literele de pe sticla de coniac ascund o diferență de opt ani &#8211; VS, VSOP și XO fără confuzii apare prima dată în Partizani ."
-    },
-    {
-      "title": "Insecticid profesional vs obișnuit: costul nu se vede în flacon, ci în aplicare",
-      "link": "https://partizani.ro/insecticid-profesional-vs-obisnuit-costul-nu-se-vede-in-flacon-ci-in-aplicare/",
-      "date": "Thu, 03 Sep 2026 14:43:16 +0000",
-      "summary": "Te uiți la două produse împotriva insectelor și observi aceeași promisiune: acțiune rapidă, protecție îndelungată, rezultate vizibile. Unul costă mai mult și este prezentat drept profesional. Celălalt se găsește ușor și pare suficient pentru o problemă obișnuită. Diferența nu este mereu concentrația și nici nu stă doar în substanța activă. [&#8230;] Articolul Insecticid profesional vs obișnuit: costul nu se vede în flacon, ci în aplicare apare prima dată în Partizani ."
     }
   ],
   "mastodon_posts": []
