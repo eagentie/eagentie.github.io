@@ -4,7 +4,7 @@
   "site_feed": "https://9z.ro/feed/",
   "mastodon": "https://social.5th.ro/@9z",
   "mastodon_rss": "https://social.5th.ro/@9z.rss",
-  "updated_at": "2026-11-01T20:30:51Z",
+  "updated_at": "2026-11-02T00:42:55Z",
   "site_posts": [
     {
       "title": "Instalație interactivă la granița dintre dans, neuroștiință și artă digitală",
@@ -70,6 +70,12 @@
   "mastodon_posts": [
     {
       "title": "",
+      "link": "https://social.5th.ro/@9z/117543384308289369",
+      "date": "Sun, 01 Nov 2026 21:48:26 +0000",
+      "content": "Invitație de participare la cel de-al II-lea Simpozion Global al Familiilor Monoparentale – SpaniaExistă momente în care o invitație înseamnă mai mult decât participarea la un eveniment. Înseamnă recunoașterea unei misiuni, deschiderea unui drum și oportunitatea de a duce vocea unor oameni dincolo de granițele țării lor.Asociația Floarea Vieții D&amp;L este invitată în Spania, la… https:// comunicatpresa.9z.ro/romania-p rin-asociatia-floarea-vietii-d-amp-l-la-masa-dialogului/"
+    },
+    {
+      "title": "",
       "link": "https://social.5th.ro/@9z/117526074574161495",
       "date": "Thu, 29 Oct 2026 20:26:21 +0000",
       "content": "Pe 4 și 5 noiembrie 2026, la Linotip – Centru Independent Coregrafic din București, Asociația Secția de Coregrafie prezintă DANS.ID, o instalație digitală interactivă care îmbină dansul, neuroștiința și arta digitală. Prin intermediul mișcării corpului și al semnalelor EEG, fiecare vizitator contribuie la crearea unei experiențe vizuale, sonore și coregrafice unice. Lansarea marchează și 15 ani de activitate ai Asociației Secția de Coregrafie. https:// 9z.ro/ce-ramane-din-noi-in-abs enta-corpului/"
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@9z/117427644220265737",
       "date": "Mon, 12 Oct 2026 11:14:13 +0000",
       "content": "Descopera daca un telefon pliabil se potriveste rutinei tale. Analizam diferenta dintre modelele flip si book, precum si aspectele practice de intretinere. https:// 9z.ro/telefoane-pliabile-merit a/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@9z/117417323204560802",
-      "date": "Sat, 10 Oct 2026 15:29:27 +0000",
-      "content": "Automatizarea articolelor începe cu subiecte relevante și informații corecte. Descoperă ce trebuie verificat înainte de publicare și unde se încadrează MOON Post. https:// 9z.ro/automatizare-articole-ai -moon-post/"
     }
   ]
 }

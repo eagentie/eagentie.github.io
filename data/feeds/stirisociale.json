@@ -4,8 +4,14 @@
   "site_feed": "https://stirisociale.ro/feed/",
   "mastodon": "https://social.5th.ro/@stiri_sociale",
   "mastodon_rss": "https://social.5th.ro/@stiri_sociale.rss",
-  "updated_at": "2026-11-01T20:30:10Z",
+  "updated_at": "2026-11-02T00:42:10Z",
   "site_posts": [
+    {
+      "title": "ROMÂNIA, PRIN ASOCIAȚIA FLOAREA VIEȚII D&L, LA MASA DIALOGULUI INTERNAȚIONAL DESPRE FAMILIILE MONOPARENTALE",
+      "link": "https://stirisociale.ro/romania-prin-asociatia-floarea-vietii-d-amp-l-la-masa-dialogului/",
+      "date": "Sun, 01 Nov 2026 21:48:35 +0000",
+      "summary": "Invitație de participare la cel de-al II-lea Simpozion Global al Familiilor Monoparentale – Spania Există momente în care o invitație înseamnă mai mult decât participarea la un eveniment. Înseamnă recunoașterea&#8230; Articolul ROMÂNIA, PRIN ASOCIAȚIA FLOAREA VIEȚII D&amp;L, LA MASA DIALOGULUI INTERNAȚIONAL DESPRE FAMILIILE MONOPARENTALE apare prima dată în Stiri sociale ."
+    },
     {
       "title": "Fiecare copil conteaza: educatie incluziva, autonomie si viitor pentru tinerii cu CES",
       "link": "https://stirisociale.ro/fiecare-copil-conteaza-educatie-incluziva-autonomie-si-viitor-pentru-tinerii-cu-ces/",
@@ -59,15 +65,15 @@
       "link": "https://stirisociale.ro/pantaloni-moto-pentru-femei-protectie-si-feminitate/",
       "date": "Mon, 02 Mar 2026 15:09:37 +0000",
       "summary": "Echipamentul moto pentru femei a evoluat semnificativ în ultimii ani. Nu mai este vorba doar despre o necesitate de siguranță, ci despre o parte firească a stilului și a încrederii&#8230; Articolul Pantaloni moto pentru femei: protecție și feminitate apare prima dată în Stiri sociale ."
-    },
-    {
-      "title": "Închiriere auto pentru vacanță în Cluj-Napoca: cum alegi corect când planul include mai mult decât orașul",
-      "link": "https://stirisociale.ro/inchiriere-auto-pentru-vacanta-in-cluj-napoca-cum-alegi-corect-cand-planul-include-mai-mult-decat-orasul/",
-      "date": "Wed, 18 Feb 2026 10:22:00 +0000",
-      "summary": "Clujul este punctul de plecare, nu destinația finalăPentru mulți vizitatori, Cluj-Napoca nu este doar un oraș de explorat, ci baza din care pornesc spre alte destinații. Cheile Turzii, Salina Turda,&#8230; Articolul Închiriere auto pentru vacanță în Cluj-Napoca: cum alegi corect când planul include mai mult decât orașul apare prima dată în Stiri sociale ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@stiri_sociale/117543385094826898",
+      "date": "Sun, 01 Nov 2026 21:48:38 +0000",
+      "content": "Invitație de participare la cel de-al II-lea Simpozion Global al Familiilor Monoparentale – SpaniaExistă momente în care o invitație înseamnă mai mult decât participarea la un eveniment. Înseamnă recunoașterea unei misiuni, deschiderea unui drum și oportunitatea de a duce vocea unor oameni dincolo de granițele țării lor.Asociația Floarea Vieții D&amp;L este invitată în Spania, la… https:// stirisociale.ro/romania-prin-a sociatia-floarea-vietii-d-amp-l-la-masa-dialogului/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@stiri_sociale/117523717202504892",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@stiri_sociale/116130005026573254",
       "date": "Wed, 25 Feb 2026 07:07:30 +0000",
       "content": "Formularul clasic de contact a fost, ani la rând, piesa centrală a conversiilor online. „Nume, email, telefon, mesaj” – o structură aproape neschimbată de un deceniu. Problema este că între timp comportamentul utilizatorilor s-a schimbat radical, iar formularul a rămas în urmă.În 2026, formularul clasic nu mai este doar ineficient. În multe cazuri, este un… https:// stirisociale.ro/de-ce-formular ele-clasice-de-contact-mor-in-2026-si-ce-le-ia-locul/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@stiri_sociale/115881418652183247",
-      "date": "Mon, 12 Jan 2026 09:28:43 +0000",
-      "content": "Dincolo de sala de clasă: universul de aventură și învățare de la gradinita Mami și TatiCând alegi o grădiniță sau un after school, nu cauți doar un spațiu sigur, ci un partener care să îi ofere copilului tău experiențe de viață. La gradinita Mami și Tati, credem că cele mai prețioase lecții se învață atunci… https:// stirisociale.ro/taberele-de-ia rna-curaj-pe-schiuri-si-magie-in-zapada/"
     }
   ]
 }
