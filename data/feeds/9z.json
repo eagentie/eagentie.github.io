@@ -4,7 +4,7 @@
   "site_feed": "https://9z.ro/feed/",
   "mastodon": "https://social.5th.ro/@9z",
   "mastodon_rss": "https://social.5th.ro/@9z.rss",
-  "updated_at": "2026-11-02T07:41:10Z",
+  "updated_at": "2026-11-02T18:20:31Z",
   "site_posts": [
     {
       "title": "Instalație interactivă la granița dintre dans, neuroștiință și artă digitală",
@@ -70,6 +70,12 @@
   "mastodon_posts": [
     {
       "title": "",
+      "link": "https://social.5th.ro/@9z/117546297487654134",
+      "date": "Mon, 02 Nov 2026 10:09:18 +0000",
+      "content": "ATIC lansează Academia CyberSecurity Essentials 2026, un proiect educațional care reunește 26 de episoade și experți din instituții publice, mediul academic și industria tehnologică. Organizată în șase direcții tematice, Academia abordează amenințările cibernetice, protecția cetățenilor, inteligența artificială, reglementările europene și securitatea infrastructurilor critice, promovând educația, prevenția și responsabilitatea https:// comunicatpresa.9z.ro/academia- cybersecurity-essentials-2026/"
+    },
+    {
+      "title": "",
       "link": "https://social.5th.ro/@9z/117543384308289369",
       "date": "Sun, 01 Nov 2026 21:48:26 +0000",
       "content": "Invitație de participare la cel de-al II-lea Simpozion Global al Familiilor Monoparentale – SpaniaExistă momente în care o invitație înseamnă mai mult decât participarea la un eveniment. Înseamnă recunoașterea unei misiuni, deschiderea unui drum și oportunitatea de a duce vocea unor oameni dincolo de granițele țării lor.Asociația Floarea Vieții D&amp;L este invitată în Spania, la… https:// comunicatpresa.9z.ro/romania-p rin-asociatia-floarea-vietii-d-amp-l-la-masa-dialogului/"
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@9z/117434101274062441",
       "date": "Tue, 13 Oct 2026 14:36:20 +0000",
       "content": "Imagine: Piața Mare Sibiu – Wikimedia CommonsSibiul e un punct bun de plecare pentru un weekend cu două ritmuri: o zi petrecută printre piețele și străzile centrului istoric, apoi o ieșire spre satele și peisajele din împrejurimi. Dacă ai mai multe zile, poți păstra o excursie separată pentru Transfăgărășan, cu verificarea atentă a condițiilor de… https:// comunicatpresa.9z.ro/cum-organ izezi-escapade-din-sibiu-marginimea-sibiului-si-un-plan-pentru-transfagarasan/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@9z/117427644220265737",
-      "date": "Mon, 12 Oct 2026 11:14:13 +0000",
-      "content": "Descopera daca un telefon pliabil se potriveste rutinei tale. Analizam diferenta dintre modelele flip si book, precum si aspectele practice de intretinere. https:// 9z.ro/telefoane-pliabile-merit a/"
     }
   ]
 }

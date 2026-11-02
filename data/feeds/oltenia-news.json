@@ -4,8 +4,14 @@
   "site_feed": "https://oltenia-news.ro/feed/",
   "mastodon": "https://social.5th.ro/@oltenia",
   "mastodon_rss": "https://social.5th.ro/@oltenia.rss",
-  "updated_at": "2026-11-02T07:40:09Z",
+  "updated_at": "2026-11-02T18:19:19Z",
   "site_posts": [
+    {
+      "title": "ATIC lansează Academia CyberSecurity Essentials 2026",
+      "link": "https://oltenia-news.ro/academia-cybersecurity-essentials-2026/",
+      "date": "Mon, 02 Nov 2026 10:09:29 +0000",
+      "summary": "ATIC lansează Academia CyberSecurity Essentials 2026, un proiect educațional care reunește 26 de episoade și experți din instituții publice, mediul academic și industria tehnologică. Organizată în șase direcții tematice, Academia abordează amenințările cibernetice, protecția cetățenilor, inteligența artificială, reglementările europene și securitatea infrastructurilor critice, promovând educația, prevenția și responsabilitatea digitală. Articolul ATIC lansează Academia CyberSecurity Essentials 2026 apare prima dată în Oltenia News ."
+    },
     {
       "title": "De la certificat la propria afacere: cum poți deveni propriul tău angajator în mediul rural",
       "link": "https://oltenia-news.ro/de-la-certificat-la-propria-afacere-cum-poti-deveni-propriul-tau-angajator-in-mediul-rural/",
@@ -71,15 +77,15 @@
       "link": "https://oltenia-news.ro/depozitul-ecologic-mofleni-partener-pentru-mediu-si-comunitate-in-judetul-dolj/",
       "date": "Wed, 08 Oct 2025 17:41:14 +0000",
       "summary": "Depozitul Ecologic Mofleni – partener pentru mediu și comunitate în județul Dolj &#160; Situat în apropierea municipiului Craiova, în regiunea de sud-vest a României, Depozitul Ecologic Mofleni, operat de Eco Sud SA, reprezintă una dintre cele mai importante investiții în infrastructura de mediu din județul Dolj. Această facilitate modernă a revoluționat modul de gestionare a [&#8230;] Articolul Depozitul Ecologic Mofleni – partener pentru mediu și comunitate în județul Dolj apare prima dată în Oltenia News ."
-    },
-    {
-      "title": "Excursii cu barca Ilganii de Sus – lacuri cu nuferi și colonii de păsări",
-      "link": "https://oltenia-news.ro/excursii-cu-barca-ilganii-de-sus-lacuri-cu-nuferi-si-colonii-de-pasari/",
-      "date": "Thu, 04 Sep 2025 00:01:56 +0000",
-      "summary": "Vrei să descoperi o lume ascunsă, plină de frumusețe naturală? Imaginează-ți o plimbare liniștită pe apele cristaline, înconjurat de nuferi încântători și păsări melodioase. Sună fantastic, nu-i așa? Ei bine, excursiile cu barca Ilganii de Sus îți oferă exact această experiență unică! Descoperă farmecul excursiilor Ilganii de Sus Un colț de rai în Delta Dunării [&#8230;] Articolul Excursii cu barca Ilganii de Sus – lacuri cu nuferi și colonii de păsări apare prima dată în Oltenia News ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@oltenia/117546298224511223",
+      "date": "Mon, 02 Nov 2026 10:09:29 +0000",
+      "content": "ATIC lansează Academia CyberSecurity Essentials 2026, un proiect educațional care reunește 26 de episoade și experți din instituții publice, mediul academic și industria tehnologică. Organizată în șase direcții tematice, Academia abordează amenințările cibernetice, protecția cetățenilor, inteligența artificială, reglementările europene și securitatea infrastructurilor critice, promovând educația, prevenția și responsabilitatea https:// oltenia-news.ro/academia-cyber security-essentials-2026/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@oltenia/116918214582589032",

@@ -4,8 +4,14 @@
   "site_feed": "https://prbusiness.ro/feed/",
   "mastodon": "https://social.5th.ro/@prbusiness",
   "mastodon_rss": "https://social.5th.ro/@prbusiness.rss",
-  "updated_at": "2026-11-02T07:40:23Z",
+  "updated_at": "2026-11-02T18:19:33Z",
   "site_posts": [
+    {
+      "title": "Top 6 site-uri de anunțuri din România în 2026",
+      "link": "https://prbusiness.ro/studiu-open-page-rank-pentru-sase-platforme-in-2026/",
+      "date": "Mon, 02 Nov 2026 10:14:49 +0000",
+      "summary": "Studiu comparativ pentru șase platforme de anunțuri online: scoruri Open Page Rank, poziții globale PageRank și evoluția lunară din ianuarie până în octombrie 2026. The post Top 6 site-uri de anunțuri din România în 2026 appeared first on PR Business ."
+    },
     {
       "title": "Rebrandingul unei rețele de locații: pașii, calendarul și greșelile care întârzie deschiderile",
       "link": "https://prbusiness.ro/rebrandingul-unei-retele-de-locatii-pasii-calendarul-si-greselile-care-intarzie-deschiderile/",
@@ -71,15 +77,15 @@
       "link": "https://prbusiness.ro/cum-iti-poti-extinde-afacerea-in-bulgaria-fara-sa-renunti-la-firma-din-romania-2/",
       "date": "Mon, 01 Jun 2026 09:22:00 +0000",
       "summary": "Extinderea unei afaceri în Bulgaria poate fi o decizie calculată, mai ales dacă ai deja o firmă funcțională The post Cum îți poți extinde afacerea în Bulgaria fără să renunți la firma din România appeared first on PR Business ."
-    },
-    {
-      "title": "Cum îți poți extinde afacerea în Bulgaria fără să renunți la firma din România",
-      "link": "https://prbusiness.ro/cum-iti-poti-extinde-afacerea-in-bulgaria-fara-sa-renunti-la-firma-din-romania/",
-      "date": "Mon, 01 Jun 2026 09:22:00 +0000",
-      "summary": "Extinderea unei afaceri în Bulgaria poate fi o decizie calculată, mai ales dacă ai deja o firmă funcțională The post Cum îți poți extinde afacerea în Bulgaria fără să renunți la firma din România appeared first on PR Business ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@prbusiness/117546319321957548",
+      "date": "Mon, 02 Nov 2026 10:14:51 +0000",
+      "content": "Studiu comparativ pentru șase platforme de anunțuri online: scoruri Open Page Rank, poziții globale PageRank și evoluția lunară din ianuarie până în octombrie 2026. .... More details at: https:// prbusiness.ro/studiu-open-page -rank-pentru-sase-platforme-in-2026/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@prbusiness/117472323429826689",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@prbusiness/116794530778573672",
       "date": "Mon, 22 Jun 2026 15:45:08 +0000",
       "content": "Când analizezi proiectele imobiliare noi, observi o schimbare în alegerea materialelor. Dezvoltatorii și proprietarii de case se orientează frecvent către profilele metalice pentru ferestre și uși. Această decizie are la bază specificații tehnice clare. Structurile de acest tip rezolvă probleme pe care alte materiale nu le pot gestiona la fel de eficient. Alegerea .... More details at: https:// prbusiness.ro/de-ce-a-devenit- tamplaria-din-aluminiu-o-optiune-aleasa-adesea-in-constructiile-premium/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@prbusiness/116736672719283118",
-      "date": "Fri, 12 Jun 2026 10:31:04 +0000",
-      "content": "Extinderea unei afaceri în Bulgaria poate fi o decizie calculată, mai ales dacă ai deja o firmă funcțională în România și vrei acces la o piață apropiată, la costuri administrative predictibile și la o structură fiscală diferită. Pentru mulți antreprenori români, ideea nu pornește de la închiderea firmei existente, ci de la construirea unei prezențe… .... Read more at: https:// prbusiness.ro/cum-iti-poti-ext inde-afacerea-in-bulgaria-fara-sa-renunti-la-firma-din-romania-2/"
     }
   ]
 }
