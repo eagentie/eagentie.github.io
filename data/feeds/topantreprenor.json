@@ -4,8 +4,14 @@
   "site_feed": "https://topantreprenor.ro/feed/",
   "mastodon": "https://social.5th.ro/@topantreprenor",
   "mastodon_rss": "https://social.5th.ro/@topantreprenor.rss",
-  "updated_at": "2026-11-03T01:34:27Z",
+  "updated_at": "2026-11-03T09:30:36Z",
   "site_posts": [
+    {
+      "title": "De ce durerea de spate a patronului durează mai mult decât a angajatului",
+      "link": "https://topantreprenor.ro/durerea-lombara-patroni/",
+      "date": "Tue, 03 Nov 2026 08:04:23 +0000",
+      "summary": "Patronii amana tratamentul din cauza presiunilor operationale, ceea ce prelungeste recuperarea. Un program de kinetoterapie adaptat poate scurta absentele si reduce riscul recidivei. The post De ce durerea de spate a patronului durează mai mult decât a angajatului appeared first on Top Antreprenor ."
+    },
     {
       "title": "Piese auto Ford pentru Kuga și întreținerea adaptată cu Altgrad",
       "link": "https://topantreprenor.ro/piese-auto-ford-kuga-intretinere/",
@@ -59,15 +65,15 @@
       "link": "https://topantreprenor.ro/magazine-online-google-shopping-css/",
       "date": "Fri, 25 Sep 2026 16:39:18 +0000",
       "summary": "Un partener CSS independent permite ca intreaga suma licitata sa intre in licitatie, fara marje interne. Asta creste competitivitatea reclamelor de Shopping. The post Cum pot magazinele online să devină mai eficiente în campaniile de Google Shopping appeared first on Top Antreprenor ."
-    },
-    {
-      "title": "Ce faci când marketingul online cu AI nu dă rezultate? 3 semne că ai nevoie de o agenție de marketing",
-      "link": "https://topantreprenor.ro/agentie-de-marketing-ai/",
-      "date": "Fri, 25 Sep 2026 16:36:40 +0000",
-      "summary": "Descopera trei semne ca instrumentele AI nu sunt suficiente si cum o echipa specializata poate optimiza strategia ta digitala. The post Ce faci când marketingul online cu AI nu dă rezultate? 3 semne că ai nevoie de o agenție de marketing appeared first on Top Antreprenor ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@topantreprenor/117551468607295196",
+      "date": "Tue, 03 Nov 2026 08:04:23 +0000",
+      "content": "📰Patronii amana tratamentul din cauza presiunilor operationale, ceea ce prelungeste recuperarea. Un program de kinetoterapie adaptat poate scurta absentele si reduce riscul recidivei. 🌐 https:// topantreprenor.ro/durerea-lomb ara-patroni/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@topantreprenor/117523351066092506",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@topantreprenor/117332638395482382",
       "date": "Fri, 25 Sep 2026 16:32:59 +0000",
       "content": "📰Alege materialul si dimensiunile in functie de produs si context. Un design simplu si rezistent sustine imaginea afacerii dupa momentul cumpararii. 🌐 https:// topantreprenor.ro/pungi-si-sac ose-pentru-brand/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@topantreprenor/117326591929633070",
-      "date": "Thu, 24 Sep 2026 14:55:17 +0000",
-      "content": "📰Ce-ar fi dacă, pentru o zi, am privi eșecul altfel?Nu ca pe o dovadă că nu ești suficient de bun, ci ca pe unul dintre cele mai directe moduri prin care afli ce nu merge, schimbi direcția, pivotezi, experimentezi și înveți mai repede. Pe 9 noiembrie, la Opera Națională București, I Love Failure 2026 aduce… 🌐 https:// topantreprenor.ro/ce-ar-fi-dac a-pentru-o-zi-am-privi-esecul-altfel/"
     }
   ]
 }
