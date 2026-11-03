@@ -4,8 +4,14 @@
   "site_feed": "https://dobrogea-news.ro/feed/",
   "mastodon": "https://social.5th.ro/@dobrogea",
   "mastodon_rss": "https://social.5th.ro/@dobrogea.rss",
-  "updated_at": "2026-11-03T09:29:48Z",
+  "updated_at": "2026-11-03T17:49:47Z",
   "site_posts": [
+    {
+      "title": "Este obligatoriu comunicatul de presă în proiectele cu fonduri europene? Ce cer regulile și unde îl publici",
+      "link": "https://dobrogea-news.ro/comunicat-presa-obligatoriu-fonduri-europene/",
+      "date": "Tue, 03 Nov 2026 17:01:56 +0000",
+      "summary": "Ce cere Regulamentul UE 2021/1060, de unde vine obligatia anuntului de presa, ce trebuie sa contina si ce dovada pastrezi pentru rambursare. Articolul Este obligatoriu comunicatul de presă în proiectele cu fonduri europene? Ce cer regulile și unde îl publici apare prima dată în Dobrogea News ."
+    },
     {
       "title": "ARC MEDIASOFT SRL – Anunț public privind decizia etapei de încadrare",
       "link": "https://dobrogea-news.ro/arc-mediasoft-srl-anunt-public-privind-decizia-etapei-de-incadrare/",
@@ -59,15 +65,15 @@
       "link": "https://dobrogea-news.ro/structura-ideala-de-articole-pentru-seo-h1-h2-paragrafe-si-faq/",
       "date": "Fri, 14 Nov 2025 12:45:56 +0000",
       "summary": "V-ați investit timp prețios în crearea unui conținut excepțional, plin de informații valoroase. Ați scris texte complexe, documentate, dar ele&#8230; Articolul Structura ideală de articole pentru SEO: H1, H2, paragrafe și FAQ apare prima dată în Dobrogea News ."
-    },
-    {
-      "title": "Păcănele online vs cazino fizic: ce experiență ți se potrivește mai bine?",
-      "link": "https://dobrogea-news.ro/pacanele-online-vs-cazino-fizic-ce-experienta-ti-se-potriveste-mai-bine/",
-      "date": "Fri, 14 Nov 2025 09:07:58 +0000",
-      "summary": "Dilema Modernă a Jucătorului: O Analiză Detaliată a Două Lumi Diferite Atenție: Te-ai întrebat vreodată unde se simte mai bine&#8230; Articolul Păcănele online vs cazino fizic: ce experiență ți se potrivește mai bine? apare prima dată în Dobrogea News ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@dobrogea/117553582390166389",
+      "date": "Tue, 03 Nov 2026 17:01:57 +0000",
+      "content": "Ce cere Regulamentul UE 2021/1060, de unde vine obligatia anuntului de presa, ce trebuie sa contina si ce dovada pastrezi pentru rambursare. https:// dobrogea-news.ro/comunicat-pre sa-obligatoriu-fonduri-europene/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@dobrogea/116572661435675108",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@dobrogea/115706468561664596",
       "date": "Fri, 12 Dec 2025 11:56:36 +0000",
       "content": "Dilema Modernă a Jucătorului: O Analiză Detaliată a Două Lumi Diferite Atenție: Te-ai întrebat vreodată unde se simte mai bine adrenalina jocului? Într-o sală elegantă, plină de lumină și sunete, sau în confortul casei tale, având acces la mii de titluri? Aceasta este dilema care stă la baza industriei moderne a divertismentului pentru adulți. De… https:// dobrogea-news.ro/pacanele-onli ne-vs-cazino-fizic-ce-experienta-ti-se-potriveste-mai-bine/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@dobrogea/115706450890195507",
-      "date": "Fri, 12 Dec 2025 11:52:07 +0000",
-      "content": "Știri și povești din Dobrogea: orașe, sate, porturi, litoral, Delta Dunării, energie și afaceri locale. Urmărește-ne pentru noutăți din toată regiunea dintre Dunăre și mare. # dobrogea # stiri # litoral # delta # dobrogeanews https:// dobrogea-news.ro"
     }
   ]
 }

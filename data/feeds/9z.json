@@ -4,7 +4,7 @@
   "site_feed": "https://9z.ro/feed/",
   "mastodon": "https://social.5th.ro/@9z",
   "mastodon_rss": "https://social.5th.ro/@9z.rss",
-  "updated_at": "2026-11-03T09:31:12Z",
+  "updated_at": "2026-11-03T17:51:05Z",
   "site_posts": [
     {
       "title": "Instalație interactivă la granița dintre dans, neuroștiință și artă digitală",
@@ -70,6 +70,12 @@
   "mastodon_posts": [
     {
       "title": "",
+      "link": "https://social.5th.ro/@9z/117552626230604019",
+      "date": "Tue, 03 Nov 2026 12:58:47 +0000",
+      "content": "Noul cod al urbanismului schimba regulile de construire si avizare. Iata ce trebuie sa verifice un proprietar inainte de a dezvolta un teren. https:// comunicatpresa.9z.ro/noul-cod- urbanism-terenuri/"
+    },
+    {
+      "title": "",
       "link": "https://social.5th.ro/@9z/117546297487654134",
       "date": "Mon, 02 Nov 2026 10:09:18 +0000",
       "content": "ATIC lansează Academia CyberSecurity Essentials 2026, un proiect educațional care reunește 26 de episoade și experți din instituții publice, mediul academic și industria tehnologică. Organizată în șase direcții tematice, Academia abordează amenințările cibernetice, protecția cetățenilor, inteligența artificială, reglementările europene și securitatea infrastructurilor critice, promovând educația, prevenția și responsabilitatea https:// comunicatpresa.9z.ro/academia- cybersecurity-essentials-2026/"
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@9z/117438487023646690",
       "date": "Wed, 14 Oct 2026 09:11:41 +0000",
       "content": "Continutul nu este disponibil. Te rugam sa incarci textul pentru a genera un rezumat corect pentru lista de articole. https:// 9z.ro/fotograf-nunta-bucuresti -andrei-lungu/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@9z/117434101274062441",
-      "date": "Tue, 13 Oct 2026 14:36:20 +0000",
-      "content": "Imagine: Piața Mare Sibiu – Wikimedia CommonsSibiul e un punct bun de plecare pentru un weekend cu două ritmuri: o zi petrecută printre piețele și străzile centrului istoric, apoi o ieșire spre satele și peisajele din împrejurimi. Dacă ai mai multe zile, poți păstra o excursie separată pentru Transfăgărășan, cu verificarea atentă a condițiilor de… https:// comunicatpresa.9z.ro/cum-organ izezi-escapade-din-sibiu-marginimea-sibiului-si-un-plan-pentru-transfagarasan/"
     }
   ]
 }
