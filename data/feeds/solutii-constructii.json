@@ -4,8 +4,14 @@
   "site_feed": "https://solutii-constructii.ro/feed/",
   "mastodon": "https://social.5th.ro/@SolutiiConstructii",
   "mastodon_rss": "https://social.5th.ro/@SolutiiConstructii.rss",
-  "updated_at": "2026-11-04T06:13:42Z",
+  "updated_at": "2026-11-04T14:30:04Z",
   "site_posts": [
+    {
+      "title": "Lumină caldă sau rece în birou? Ce soluții Visioluce să alegi și de ce",
+      "link": "https://solutii-constructii.ro/lumina-calda-birou-visioluce/",
+      "date": "Wed, 04 Nov 2026 10:24:50 +0000",
+      "summary": "Temperatura de culoare influenteaza confortul vizual si atmosfera din birou. Alege corect Kelvinul si nivelul de iluminare pentru fiecare zona. Articolul Lumină caldă sau rece în birou? Ce soluții Visioluce să alegi și de ce apare prima dată în Solutii Constructii ."
+    },
     {
       "title": "Piatră, beton armat sau gresie: ce disc folosești pentru fiecare material?",
       "link": "https://solutii-constructii.ro/discuri-diamantate-beton-armat/",
@@ -71,15 +77,15 @@
       "link": "https://solutii-constructii.ro/servicii-de-foraje-pentru-puturi-de-apa-de-ce-executia-profesionala-face-diferenta/",
       "date": "Thu, 27 Aug 2026 06:43:00 +0000",
       "summary": "Accesul la o sursă sigură și constantă de apă este esențial atât pentru gospodării, cât și pentru activitățile Articolul Servicii de foraje pentru puțuri de apă – de ce execuția profesională face diferența apare prima dată în Solutii Constructii ."
-    },
-    {
-      "title": "Spălare tapițerie auto Oradea: soluția diferă pentru fiecare material",
-      "link": "https://solutii-constructii.ro/spalare-tapiterie-auto-oradea-solutia-difera-pentru-fiecare-material/",
-      "date": "Mon, 17 Aug 2026 04:11:25 +0000",
-      "summary": "Advertorial tehnic realizat cu informații și cazuri CleanSpot Oradea. Habitaclul este un sistem de materiale lipite, cusute și Articolul Spălare tapițerie auto Oradea: soluția diferă pentru fiecare material apare prima dată în Solutii Constructii ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@SolutiiConstructii/117557683227002948",
+      "date": "Wed, 04 Nov 2026 10:24:51 +0000",
+      "content": "Temperatura de culoare influenteaza confortul vizual si atmosfera din birou. Alege corect Kelvinul si nivelul de iluminare pentru fiecare zona. ... 🌐 Citeste: https:// solutii-constructii.ro/lumina- calda-birou-visioluce/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@SolutiiConstructii/117547383829135695",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@SolutiiConstructii/117171780563484417",
       "date": "Fri, 28 Aug 2026 06:44:43 +0000",
       "content": "Accesul la o sursă sigură și constantă de apă este esențial atât pentru gospodării, cât și pentru activitățile agricole, comerciale sau industriale. În zonele în care rețeaua publică de alimentare nu este disponibilă sau nu poate acoperi necesarul de consum, realizarea unui puț forat reprezintă una dintre cele mai eficiente soluții. Totuși, un puț de… ... 🌐 Continuarea: https:// solutii-constructii.ro/servici i-de-foraje-pentru-puturi-de-apa-de-ce-executia-profesionala-face-diferenta/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@SolutiiConstructii/117109605146031508",
-      "date": "Mon, 17 Aug 2026 07:12:42 +0000",
-      "content": "Advertorial tehnic realizat cu informații și cazuri CleanSpot Oradea. Habitaclul este un sistem de materiale lipite, cusute și montate împreună: textil, spumă, piele, Alcantara, mochetă, plastic, adezivi și componente electronice. O spălare tapițerie auto Oradea profesionistă nu poate trata întregul interior ca pe o singură suprafață. Textilul: extracție, nu îmbibare Scaunele și ... 🌐 Vezi: https:// solutii-constructii.ro/spalare -tapiterie-auto-oradea-solutia-difera-pentru-fiecare-material/"
     }
   ]
 }

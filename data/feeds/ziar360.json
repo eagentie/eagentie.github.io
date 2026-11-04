@@ -4,8 +4,14 @@
   "site_feed": "https://ziar360.ro/feed/",
   "mastodon": "https://social.5th.ro/@ziar360",
   "mastodon_rss": "https://social.5th.ro/@ziar360.rss",
-  "updated_at": "2026-11-04T06:12:57Z",
+  "updated_at": "2026-11-04T14:28:53Z",
   "site_posts": [
+    {
+      "title": "Comunicate.eu deschide serverul MCP pentru ChatGPT și Claude",
+      "link": "https://ziar360.ro/comunicate-eu-server-mcp-chatgpt-claude/",
+      "date": "Wed, 04 Nov 2026 07:00:00 +0000",
+      "summary": "Asistentii AI pot cauta in peste 3.800 de publicatii si pot face un plan de advertoriale pe buget, prin serverul MCP Comunicate.eu. The post Comunicate.eu deschide serverul MCP pentru ChatGPT și Claude appeared first on Ziar 360 ."
+    },
     {
       "title": "5 greșeli de ambalare care îți pot strica preparatele de cofetărie și catering până ajung la client",
       "link": "https://ziar360.ro/5-greseli-de-ambalare-care-iti-pot-strica-preparatele-de-cofetarie-si-catering-pana-ajung-la-client/",
@@ -59,15 +65,15 @@
       "link": "https://ziar360.ro/musca-tentatii-animate-tiktok/",
       "date": "Thu, 08 Oct 2026 01:06:00 +0000",
       "summary": "Un personaj animat creat cu ajutorul inteligenței artificiale a devenit viral pe TikTok. Musca, o gospodină cu o personalitate puternică și un umor aparte, a cucerit publicul prin situații inspirate din viața de zi cu zi. The post Cum a ajuns o muscă animată să cucerească TikTok-ul: povestea Tentații Animate appeared first on Ziar 360 ."
-    },
-    {
-      "title": "Motoare trifazate cu talpă sau cu flanșă: cum alegi tipul de montaj",
-      "link": "https://ziar360.ro/motoare-trifazate-cu-talpa-sau-cu-flansa-cum-alegi-tipul-de-montaj/",
-      "date": "Fri, 02 Oct 2026 05:27:11 +0000",
-      "summary": "Compari montajul pe talpa si pe flansa pentru a evita modificari la utilaj. Verifici spatiul si dimensiunile mecanice inainte de comanda. Articolul Motoare trifazate cu talpă sau cu flanșă: cum alegi tipul de montaj apare prima dată în Revista Antreprenorului . The post Motoare trifazate cu talpă sau cu flanșă: cum alegi tipul de montaj appeared first on Ziar 360 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@ziar360/117556878050748434",
+      "date": "Wed, 04 Nov 2026 07:00:05 +0000",
+      "content": "📄Asistentii AI pot cauta in peste 3.800 de publicatii si pot face un plan de advertoriale pe buget, prin serverul MCP Comunicate.eu. # advertoriale # ChatGPT # comunicatedepresa # inteligentaartificiala 🌐 https:// ziar360.ro/comunicate-eu-serve r-mcp-chatgpt-claude/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@ziar360/117511998520931449",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@ziar360/117355503731361048",
       "date": "Tue, 29 Sep 2026 17:27:56 +0000",
       "content": "📄Oscar si Smiley s-au confruntat la Romexpo intr-un duel muzical strans. Publicul a decis castigatorul dupa patru runde spectaculoase. 🌐 https:// ziar360.ro/oscar-castiga-red-b ull-soundclash-2026/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@ziar360/117354723330029935",
-      "date": "Tue, 29 Sep 2026 14:09:28 +0000",
-      "content": "📄Descopera cum ingineria meniului si uniformitatea ingredientelor te ajuta sa mentii standardele culinare si sa optimizezi costurile in restaurant. 🌐 https:// ziar360.ro/echilibru-unui-meni u-selgros/"
     }
   ]
 }
