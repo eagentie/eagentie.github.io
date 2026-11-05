@@ -4,8 +4,14 @@
   "site_feed": "https://top15.ro/feed/",
   "mastodon": "https://social.5th.ro/@top",
   "mastodon_rss": "https://social.5th.ro/@top.rss",
-  "updated_at": "2026-11-05T10:51:11Z",
+  "updated_at": "2026-11-05T18:44:29Z",
   "site_posts": [
+    {
+      "title": "Cum identifici momentul în care publicul începe să ignore reclamele?",
+      "link": "https://top15.ro/cum-identifici-momentul-in-care-publicul-incepe-sa-ignore-reclamele/",
+      "date": "Sun, 01 Nov 2026 10:31:00 +0000",
+      "summary": "Cum eviți uzura creativă a reclamelor în social media atunci când te adresezi unei nișe... Articolul Cum identifici momentul în care publicul începe să ignore reclamele? apare prima dată în TOP 15 ."
+    },
     {
       "title": "Cum a ajuns fabrica ClarSanit din Constanța să dezvolte linii complete pentru curățenia casei și îngrijire personală?",
       "link": "https://top15.ro/cum-a-ajuns-fabrica-clarsanit-din-constanta-sa-dezvolte-linii-complete-pentru-curatenia-casei-si-ingrijire-personala/",
@@ -71,15 +77,15 @@
       "link": "https://top15.ro/mananci-pe-fuga-si-te-simti-mereu-obosit-ce-nutrienti-merita-sa-urmaresti-in-perioadele-aglomerate/",
       "date": "Wed, 09 Sep 2026 09:27:59 +0000",
       "summary": "Dacă ești student, lucrezi în ture, ai grijă de copii sau îți petreci ziua între... Articolul Mănânci pe fugă și te simți mereu obosit? Ce nutrienți merită să urmărești în perioadele aglomerate apare prima dată în TOP 15 ."
-    },
-    {
-      "title": "Lichioruri esențiale pentru barul acasă: trei sticle dulci care nu rămân uitate",
-      "link": "https://top15.ro/lichioruri-esentiale-pentru-barul-acasa-trei-sticle-dulci-care-nu-raman-uitate/",
-      "date": "Mon, 07 Sep 2026 08:12:15 +0000",
-      "summary": "Cumperi o sticlă pentru un cocteil, o deschizi la o aniversare și apoi o uiți... Articolul Lichioruri esențiale pentru barul acasă: trei sticle dulci care nu rămân uitate apare prima dată în TOP 15 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@top/117564588348406033",
+      "date": "Thu, 05 Nov 2026 15:40:54 +0000",
+      "content": "📰Cum eviți uzura creativă a reclamelor în social media atunci când te adresezi unei nișe înguste de companii?Promovarea pe Facebook și Instagram devine mai dificilă atunci când publicul vizat este format dintr-un număr limitat de companii. Dacă vinzi echipamente industriale specializate, servicii de consultanță B2B sau soluții software pentru o anumită industrie, audiența potențială poate… 📰 https:// top15.ro/cum-identifici-moment ul-in-care-publicul-incepe-sa-ignore-reclamele/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@top/117512003789867846",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@top/117240370469156289",
       "date": "Wed, 09 Sep 2026 09:28:02 +0000",
       "content": "📰Dacă ești student, lucrezi în ture, ai grijă de copii sau îți petreci ziua între drumuri și termene-limită, mesele luate pe fugă pot deveni o obișnuință. Cafeaua ține loc de mic dejun, prânzul se reduce la un sandviș, iar seara alegi ce se pregătește cel mai repede. După câteva zile, apar oboseala, lipsa de concentrare… 📰 https:// top15.ro/mananci-pe-fuga-si-te -simti-mereu-obosit-ce-nutrienti-merita-sa-urmaresti-in-perioadele-aglomerate/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@top/117228748116757076",
-      "date": "Mon, 07 Sep 2026 08:12:19 +0000",
-      "content": "📰Cumperi o sticlă pentru un cocteil, o deschizi la o aniversare și apoi o uiți în spatele dulapului. Situația apare des când alegi lichiorul după etichetă sau după cât de dulce pare, fără să te gândești la locul lui în băuturile pe care le bei cu adevărat.Listele obișnuite pentru un bar de acasă pornesc de… 📰 https:// top15.ro/lichioruri-esentiale- pentru-barul-acasa-trei-sticle-dulci-care-nu-raman-uitate/"
     }
   ]
 }
