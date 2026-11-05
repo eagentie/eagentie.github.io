@@ -4,8 +4,14 @@
   "site_feed": "https://9z.ro/feed/",
   "mastodon": "https://social.5th.ro/@9z",
   "mastodon_rss": "https://social.5th.ro/@9z.rss",
-  "updated_at": "2026-11-05T02:25:51Z",
+  "updated_at": "2026-11-05T10:51:07Z",
   "site_posts": [
+    {
+      "title": "Drept de Autor SRL: sprijin pentru muzicieni și organizatori de evenimente",
+      "link": "https://9z.ro/drept-de-autor-srl-muzicieni/",
+      "date": "Thu, 05 Nov 2026 10:09:11 +0000",
+      "summary": "Drept de Autor SRL gestioneaza contractele si facturile pentru muzicieni si organizatori. Sprijin administrativ pentru colaborari artistice. The post Drept de Autor SRL: sprijin pentru muzicieni și organizatori de evenimente appeared first on 9z ."
+    },
     {
       "title": "Instalație interactivă la granița dintre dans, neuroștiință și artă digitală",
       "link": "https://9z.ro/ce-ramane-din-noi-in-absenta-corpului/",
@@ -59,15 +65,15 @@
       "link": "https://9z.ro/telefoane-pliabile-merita/",
       "date": "Mon, 12 Oct 2026 11:14:10 +0000",
       "summary": "Descopera daca un telefon pliabil se potriveste rutinei tale. Analizam diferenta dintre modelele flip si book, precum si aspectele practice de intretinere. The post Telefoanele pliabile: merită? Avantajele și compromisurile unui design nou appeared first on 9z ."
-    },
-    {
-      "title": "Ce verifici înainte să automatizezi articolele cu AI",
-      "link": "https://9z.ro/automatizare-articole-ai-moon-post/",
-      "date": "Sat, 10 Oct 2026 15:29:23 +0000",
-      "summary": "Automatizarea articolelor începe cu subiecte relevante și informații corecte. Descoperă ce trebuie verificat înainte de publicare și unde se încadrează MOON Post. The post Ce verifici înainte să automatizezi articolele cu AI appeared first on 9z ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@9z/117563284237828942",
+      "date": "Thu, 05 Nov 2026 10:09:15 +0000",
+      "content": "Drept de Autor SRL gestioneaza contractele si facturile pentru muzicieni si organizatori. Sprijin administrativ pentru colaborari artistice. https:// 9z.ro/drept-de-autor-srl-muzic ieni/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@9z/117552626230604019",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@9z/117444358720423663",
       "date": "Thu, 15 Oct 2026 10:04:56 +0000",
       "content": "Compara avantajele unui marketplace cu cele ale unui magazin online. Afla cum sa alegi platforma potrivita in functie de varietatea produselor si suportul oferit. https:// 9z.ro/marketplace-magazin-onli ne-diferente/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@9z/117438487023646690",
-      "date": "Wed, 14 Oct 2026 09:11:41 +0000",
-      "content": "Continutul nu este disponibil. Te rugam sa incarci textul pentru a genera un rezumat corect pentru lista de articole. https:// 9z.ro/fotograf-nunta-bucuresti -andrei-lungu/"
     }
   ]
 }
