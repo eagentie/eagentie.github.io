@@ -4,8 +4,14 @@
   "site_feed": "https://dobrogea-news.ro/feed/",
   "mastodon": "https://social.5th.ro/@dobrogea",
   "mastodon_rss": "https://social.5th.ro/@dobrogea.rss",
-  "updated_at": "2026-11-06T15:00:08Z",
+  "updated_at": "2026-11-06T20:52:38Z",
   "site_posts": [
+    {
+      "title": "Aproape 700 de elevi din 8 localități din județul Constanța au participat la activități educative despre sănătatea animalelor și prevenirea rabiei",
+      "link": "https://dobrogea-news.ro/elevi-localitati-din-judetul-constanta/",
+      "date": "Fri, 06 Nov 2026 17:57:00 +0000",
+      "summary": "Aproape 700 de elevi din 8 localitati din judetul Constanta au participat la sesiuni interactive despre sanatatea animalelor si prevenirea rabiei. Articolul Aproape 700 de elevi din 8 localități din județul Constanța au participat la activități educative despre sănătatea animalelor și prevenirea rabiei apare prima dată în Dobrogea News ."
+    },
     {
       "title": "Este obligatoriu comunicatul de presă în proiectele cu fonduri UE?",
       "link": "https://dobrogea-news.ro/comunicat-presa-obligatoriu-fonduri-europene/",
@@ -59,15 +65,15 @@
       "link": "https://dobrogea-news.ro/bankroll-management-in-poker-cea-mai-importanta-regula-a-jucatorului-serios/",
       "date": "Sat, 15 Nov 2025 10:03:28 +0000",
       "summary": "Introducere în Strategiile de Supraviețuire în Pokerul Online Atenție: V-ați simțit vreodată frustrat după ce ați pierdut rapid toți banii&#8230; Articolul Bankroll management în poker: cea mai importantă regulă a jucătorului serios apare prima dată în Dobrogea News ."
-    },
-    {
-      "title": "Structura ideală de articole pentru SEO: H1, H2, paragrafe și FAQ",
-      "link": "https://dobrogea-news.ro/structura-ideala-de-articole-pentru-seo-h1-h2-paragrafe-si-faq/",
-      "date": "Fri, 14 Nov 2025 12:45:56 +0000",
-      "summary": "V-ați investit timp prețios în crearea unui conținut excepțional, plin de informații valoroase. Ați scris texte complexe, documentate, dar ele&#8230; Articolul Structura ideală de articole pentru SEO: H1, H2, paragrafe și FAQ apare prima dată în Dobrogea News ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@dobrogea/117571037759491395",
+      "date": "Fri, 06 Nov 2026 19:01:05 +0000",
+      "content": "Aproape 700 de elevi din 8 localitati din judetul Constanta au participat la sesiuni interactive despre sanatatea animalelor si prevenirea rabiei. https:// dobrogea-news.ro/elevi-localit ati-din-judetul-constanta/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@dobrogea/117553582390166389",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@dobrogea/115706476861433885",
       "date": "Fri, 12 Dec 2025 11:58:43 +0000",
       "content": "V-ați investit timp prețios în crearea unui conținut excepțional, plin de informații valoroase. Ați scris texte complexe, documentate, dar ele refuză să ajungă în topul rezultatelor Google. De ce se întâmplă asta? De multe ori, problema nu este la calitatea informației, ci la modul în care aceasta este prezentată. A (Atenție): Algoritmii Google nu citesc… https:// dobrogea-news.ro/structura-ide ala-de-articole-pentru-seo-h1-h2-paragrafe-si-faq/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@dobrogea/115706468561664596",
-      "date": "Fri, 12 Dec 2025 11:56:36 +0000",
-      "content": "Dilema Modernă a Jucătorului: O Analiză Detaliată a Două Lumi Diferite Atenție: Te-ai întrebat vreodată unde se simte mai bine adrenalina jocului? Într-o sală elegantă, plină de lumină și sunete, sau în confortul casei tale, având acces la mii de titluri? Aceasta este dilema care stă la baza industriei moderne a divertismentului pentru adulți. De… https:// dobrogea-news.ro/pacanele-onli ne-vs-cazino-fizic-ce-experienta-ti-se-potriveste-mai-bine/"
     }
   ]
 }
