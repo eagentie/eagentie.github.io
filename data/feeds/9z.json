@@ -4,8 +4,14 @@
   "site_feed": "https://9z.ro/feed/",
   "mastodon": "https://social.5th.ro/@9z",
   "mastodon_rss": "https://social.5th.ro/@9z.rss",
-  "updated_at": "2026-11-08T16:42:40Z",
+  "updated_at": "2026-11-08T21:08:56Z",
   "site_posts": [
+    {
+      "title": "De la primul salariu la pensie: cum îți adaptezi planul financiar de-a lungul vieții",
+      "link": "https://9z.ro/plan-financiar-pe-etape/",
+      "date": "Sun, 08 Nov 2026 18:38:50 +0000",
+      "summary": "Prioritatile financiare se schimba odata cu varsta. Acest ghid te ajuta sa adaptezi planul financiar in fiecare etapa, de la primul salariu pana la pensionare. The post De la primul salariu la pensie: cum îți adaptezi planul financiar de-a lungul vieții appeared first on 9z ."
+    },
     {
       "title": "Drept de Autor SRL: sprijin pentru muzicieni și organizatori de evenimente",
       "link": "https://9z.ro/drept-de-autor-srl-muzicieni/",
@@ -59,15 +65,15 @@
       "link": "https://9z.ro/fotograf-nunta-bucuresti-andrei-lungu/",
       "date": "Wed, 14 Oct 2026 09:11:37 +0000",
       "summary": "Continutul nu este disponibil. Te rugam sa incarci textul pentru a genera un rezumat corect pentru lista de articole. The post Fotograf nunta Bucuresti | Andrei Lungu appeared first on 9z ."
-    },
-    {
-      "title": "Telefoanele pliabile: merită? Avantajele și compromisurile unui design nou",
-      "link": "https://9z.ro/telefoane-pliabile-merita/",
-      "date": "Mon, 12 Oct 2026 11:14:10 +0000",
-      "summary": "Descopera daca un telefon pliabil se potriveste rutinei tale. Analizam diferenta dintre modelele flip si book, precum si aspectele practice de intretinere. The post Telefoanele pliabile: merită? Avantajele și compromisurile unui design nou appeared first on 9z ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@9z/117582275084211614",
+      "date": "Sun, 08 Nov 2026 18:38:52 +0000",
+      "content": "Prioritatile financiare se schimba odata cu varsta. Acest ghid te ajuta sa adaptezi planul financiar in fiecare etapa, de la primul salariu pana la pensionare. https:// 9z.ro/plan-financiar-pe-etape/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@9z/117568215261582244",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@9z/117468018025339700",
       "date": "Mon, 19 Oct 2026 14:21:48 +0000",
       "content": "Protejeaza creantele si sustine accesul la finantare. Otto Broker te ajuta sa structurezi o politica de risc clara pentru a creste in siguranta. https:// 9z.ro/asigurarea-de-credit-ott o-broker/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@9z/117450294849735766",
-      "date": "Fri, 16 Oct 2026 11:14:34 +0000",
-      "content": "Un set poate obține un rezultat foarte bun pe asfalt uscat și totuși să lase întrebări când drumul este ud. Într-o comparație pentru dimensiunea 225/45 R17, modelul Goodyear analizat s-a apropiat de vârful clasamentului la manevrabilitate pe uscat. În jurul aceluiași test au apărut însă opinii diferite despre comportamentul în condiții de ploaie. Când compari… https:// 9z.ro/anvelope-goodyear-ce-ara ta-testele-despre-aderenta-ploaie-zgomot-si-uzura/"
     }
   ]
 }
