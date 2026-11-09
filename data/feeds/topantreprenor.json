@@ -4,8 +4,14 @@
   "site_feed": "https://topantreprenor.ro/feed/",
   "mastodon": "https://social.5th.ro/@topantreprenor",
   "mastodon_rss": "https://social.5th.ro/@topantreprenor.rss",
-  "updated_at": "2026-11-09T07:56:44Z",
+  "updated_at": "2026-11-09T18:45:49Z",
   "site_posts": [
+    {
+      "title": "Când aveți firmă, durerea de dinte vine mereu în săptămâna proastă. Ce câștigi cu un control la 6 luni",
+      "link": "https://topantreprenor.ro/control-dentist-sase-luni/",
+      "date": "Mon, 09 Nov 2026 10:37:26 +0000",
+      "summary": "Un control la sase luni te ajuta sa eviti tratamente lungi si costuri neasteptate. Afla cum il programezi eficient in calendarul firmei tale. The post Când aveți firmă, durerea de dinte vine mereu în săptămâna proastă. Ce câștigi cu un control la 6 luni appeared first on Top Antreprenor ."
+    },
     {
       "title": "De ce durerea de spate a patronului durează mai mult decât a angajatului",
       "link": "https://topantreprenor.ro/durerea-lombara-patroni/",
@@ -59,15 +65,15 @@
       "link": "https://topantreprenor.ro/ghid-control-fiscal-firme-mici/",
       "date": "Wed, 30 Sep 2026 10:39:40 +0000",
       "summary": "Identifica tipul verificarii, pregateste dosarul si coordoneaza comunicarea cu inspectorii. Ghid pas cu pas pentru antreprenori. The post Primul control fiscal al unei firme mici: ghid calm pentru antreprenorul care n-a mai trecut prin asta appeared first on Top Antreprenor ."
-    },
-    {
-      "title": "Cum pot magazinele online să devină mai eficiente în campaniile de Google Shopping",
-      "link": "https://topantreprenor.ro/magazine-online-google-shopping-css/",
-      "date": "Fri, 25 Sep 2026 16:39:18 +0000",
-      "summary": "Un partener CSS independent permite ca intreaga suma licitata sa intre in licitatie, fara marje interne. Asta creste competitivitatea reclamelor de Shopping. The post Cum pot magazinele online să devină mai eficiente în campaniile de Google Shopping appeared first on Top Antreprenor ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@topantreprenor/117586044323328834",
+      "date": "Mon, 09 Nov 2026 10:37:27 +0000",
+      "content": "📰Un control la sase luni te ajuta sa eviti tratamente lungi si costuri neasteptate. Afla cum il programezi eficient in calendarul firmei tale. 🌐 https:// topantreprenor.ro/control-dent ist-sase-luni/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@topantreprenor/117551468607295196",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@topantreprenor/117332652878636794",
       "date": "Fri, 25 Sep 2026 16:36:40 +0000",
       "content": "📰Descopera trei semne ca instrumentele AI nu sunt suficiente si cum o echipa specializata poate optimiza strategia ta digitala. 🌐 https:// topantreprenor.ro/agentie-de-m arketing-ai/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@topantreprenor/117332638395482382",
-      "date": "Fri, 25 Sep 2026 16:32:59 +0000",
-      "content": "📰Alege materialul si dimensiunile in functie de produs si context. Un design simplu si rezistent sustine imaginea afacerii dupa momentul cumpararii. 🌐 https:// topantreprenor.ro/pungi-si-sac ose-pentru-brand/"
     }
   ]
 }
