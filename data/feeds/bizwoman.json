@@ -4,8 +4,14 @@
   "site_feed": "https://bizwoman.ro/feed/",
   "mastodon": "https://social.5th.ro/@BIZWoman",
   "mastodon_rss": "https://social.5th.ro/@BIZWoman.rss",
-  "updated_at": "2026-11-11T10:53:52Z",
+  "updated_at": "2026-11-11T18:42:22Z",
   "site_posts": [
+    {
+      "title": "MORE Networking celebrează antreprenoriatul feminin pe 19 noiembrie 2026",
+      "link": "https://bizwoman.ro/gala-antreprenoriatul-feminin-2026/",
+      "date": "Wed, 11 Nov 2026 16:26:08 +0000",
+      "summary": "MORE Networking organizeaza a doua editie a Galei Antreprenoriatului Feminin la Aurrum Palace. Evenimentul include paneluri, licitatie caritabila si premii pentru 12 femei. Articolul MORE Networking celebrează antreprenoriatul feminin pe 19 noiembrie 2026 apare prima dată în Biz Woman ."
+    },
     {
       "title": "3 opțiuni de personalizare pentru bijuterii din aur 14K",
       "link": "https://bizwoman.ro/personalizare-bijuterii-din-aur-14k/",
@@ -59,15 +65,15 @@
       "link": "https://bizwoman.ro/lansarea-proiectului-o-noua-sansa-independentei/",
       "date": "Tue, 04 Aug 2026 13:44:40 +0000",
       "summary": "COMUNICAT DE PRESĂ Lansarea proiectului &#8222;O nouă șansă independenței&#8221; &#8211; Cod SMIS 354321 ASOCIAȚIA IZVORUL&#8230; Articolul Lansarea proiectului „O nouă șansă independenței” apare prima dată în Biz Woman ."
-    },
-    {
-      "title": "Tumorile digestive: când este indicată intervenția chirurgicală?",
-      "link": "https://bizwoman.ro/tumorile-digestive-cand-este-indicata-interventia-chirurgicala/",
-      "date": "Fri, 31 Jul 2026 08:32:01 +0000",
-      "summary": "Tulburările digestive severe pot ascunde afecțiuni grave pe care nu trebuie să le ignorăm sub&#8230; Articolul Tumorile digestive: când este indicată intervenția chirurgicală? apare prima dată în Biz Woman ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@BIZWoman/117598740301264544",
+      "date": "Wed, 11 Nov 2026 16:26:12 +0000",
+      "content": "📄MORE Networking organizeaza a doua editie a Galei Antreprenoriatului Feminin la Aurrum Palace. Evenimentul include paneluri, licitatie caritabila si premii pentru 12 femei. 📄 https:// bizwoman.ro/gala-antreprenoria tul-feminin-2026/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@BIZWoman/117552649944684902",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@BIZWoman/117014403109999869",
       "date": "Fri, 31 Jul 2026 11:41:34 +0000",
       "content": "📄Tulburările digestive severe pot ascunde afecțiuni grave pe care nu trebuie să le ignorăm sub nicio formă. Un disconfort abdominal care persistă timp de mai multe săptămâni poate fi primul semn al unei probleme de sănătate complexe. Medicii recomandă să fim mereu atenți la semnalele pe care le transmite organismul nostru. În fiecare an, mulți… 📄 https:// bizwoman.ro/tumorile-digestive -cand-este-indicata-interventia-chirurgicala/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@BIZWoman/116957090618057763",
-      "date": "Tue, 21 Jul 2026 08:46:15 +0000",
-      "content": "📄De câte ori nu ai simțit acea frustrare când, după ore întregi de căutări, prețul biletului de avion a crescut exact când voiai să apeși „cumpără”? Călătoriile și niște bilete avion MD nu ar trebui să fie un lux rezervat doar celor cu bugete nelimitate. Din fericire, există o metodă prin care poți bate sistemul.… 📄 https:// bizwoman.ro/secretul-calatorii lor-inteligente-trucuri-de-la-voiaj-pentru-cele-mai-ieftine-bilete-de-avion-md/"
     }
   ]
 }

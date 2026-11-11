@@ -4,8 +4,14 @@
   "site_feed": "https://UniversulTech.ro/feed/",
   "mastodon": "https://social.5th.ro/@UniversulTech",
   "mastodon_rss": "https://social.5th.ro/@UniversulTech.rss",
-  "updated_at": "2026-11-11T10:53:50Z",
+  "updated_at": "2026-11-11T18:42:19Z",
   "site_posts": [
+    {
+      "title": "Linkjob AI Adds Unlimited Dual-Device Mode to Every Paid Plan",
+      "link": "https://universultech.ro/linkjob-ai-dual-device-mode/",
+      "date": "Wed, 11 Nov 2026 13:41:10 +0000",
+      "summary": "Live answer suggestions can appear on a phone while the desktop app runs in the background Articolul Linkjob AI Adds Unlimited Dual-Device Mode to Every Paid Plan apare prima dată în Universul Tech ."
+    },
     {
       "title": "Server MCP pentru marketing: ce poate face un agent AI și ce nu",
       "link": "https://universultech.ro/server-mcp-marketing-agent-ai/",
@@ -71,15 +77,15 @@
       "link": "https://universultech.ro/cum-iti-afecteaza-motorul-masinii-un-ulei-de-proasta-calitate/",
       "date": "Wed, 17 Jun 2026 08:42:45 +0000",
       "summary": "Mulți șoferi acordă atenție consumului de combustibil, stării anvelopelor sau frecvenței reviziilor, însă nu întotdeauna acordă aceeași importanță uleiului de&#8230; Articolul Cum îți afectează motorul mașinii un ulei de proastă calitate apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "Experiența de party pe care o poți lua oriunde: sunet portabil pentru vibe-uri de neuitat",
-      "link": "https://universultech.ro/experienta-de-party-pe-care-o-poti-lua-oriunde-sunet-portabil-pentru-vibe-uri-de-neuitat/",
-      "date": "Wed, 10 Jun 2026 04:00:35 +0000",
-      "summary": "În era digitală, unde tehnologia avansează rapid, nu mai este nevoie de echipamente voluminoase pentru a crea momente memorabile. Cu&#8230; Articolul Experiența de party pe care o poți lua oriunde: sunet portabil pentru vibe-uri de neuitat apare prima dată în Universul Tech ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@UniversulTech/117598091723239072",
+      "date": "Wed, 11 Nov 2026 13:41:15 +0000",
+      "content": "💡Live answer suggestions can appear on a phone while the desktop app runs in the background ✅ https:// universultech.ro/linkjob-ai-du al-device-mode/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@UniversulTech/117390543547227986",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@UniversulTech/116764558499068762",
       "date": "Wed, 17 Jun 2026 08:42:48 +0000",
       "content": "💡Mulți șoferi acordă atenție consumului de combustibil, stării anvelopelor sau frecvenței reviziilor, însă nu întotdeauna acordă aceeași importanță uleiului de motor. În realitate, acesta este unul dintre cele mai importante consumabile ale unei mașini. Rolul său nu se limitează la simpla lubrifiere a componentelor interne, ci contribuie la răcirea motorului, reducerea uzurii, prevenirea depunerilor și… ✅ https:// universultech.ro/cum-iti-afect eaza-motorul-masinii-un-ulei-de-proasta-calitate/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@UniversulTech/116723812782875516",
-      "date": "Wed, 10 Jun 2026 04:00:37 +0000",
-      "content": "💡În era digitală, unde tehnologia avansează rapid, nu mai este nevoie de echipamente voluminoase pentru a crea momente memorabile. Cu o boxă portabilă modernă, orice loc poate deveni scena perfectă pentru o petrecere spontană. Indiferent dacă este vorba de o adunare în grădină, un picnic în parc sau chiar o întâlnire pe plajă, sunetul puternic… ✅ https:// universultech.ro/experienta-de -party-pe-care-o-poti-lua-oriunde-sunet-portabil-pentru-vibe-uri-de-neuitat/"
     }
   ]
 }

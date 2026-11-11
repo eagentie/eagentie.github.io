@@ -4,8 +4,14 @@
   "site_feed": "https://cetateanmodel.ro/feed/",
   "mastodon": "https://social.5th.ro/@cetatean_model",
   "mastodon_rss": "https://social.5th.ro/@cetatean_model.rss",
-  "updated_at": "2026-11-11T10:52:30Z",
+  "updated_at": "2026-11-11T18:40:42Z",
   "site_posts": [
+    {
+      "title": "Asociația M.A.M.E. dezvoltă o rețea națională de sprijin pentru copiii cu boli grave și familiile acestora",
+      "link": "https://cetateanmodel.ro/asociatia-mame-retea-sustinere-copii/",
+      "date": "Wed, 11 Nov 2026 16:36:13 +0000",
+      "summary": "Hub-ul national de management de caz coordoneaza accesul la kinetoterapie, psihoterapie si logopedie. Programul include si sprijin financiar si emotional pentru parinti. Articolul Asociația M.A.M.E. dezvoltă o rețea națională de sprijin pentru copiii cu boli grave și familiile acestora apare prima dată în Cetatean model ."
+    },
     {
       "title": "De la sprijin la independenta: educatia care schimba destine",
       "link": "https://cetateanmodel.ro/de-la-sprijin-la-independenta-educatia-care-schimba-destine/",
@@ -71,15 +77,15 @@
       "link": "https://cetateanmodel.ro/monitorizare-gps-auto-ce-verifici-inainte-sa-alegi-un-furnizor/",
       "date": "Mon, 02 Mar 2026 15:09:05 +0000",
       "summary": "Când cauți monitorizare GPS auto, cea mai mare greșeală este să compari doar prețul și să presupui că „toate fac același lucru”. Un sistem eficient de monitorizare GPS auto îți oferă rapoarte pe care le folosești cu adevărat, alerte fără exces și suport real, care intervine concret când ai nevoie. Monitorizare GPS auto: checklist înainte [&#8230;] Articolul Monitorizare GPS auto: Ce verifici înainte să alegi un furnizor apare prima dată în Cetatean model ."
-    },
-    {
-      "title": "Cotele Dunării la Orșova în 2026: nivelul apei azi, grafic și dinamica zilnică",
-      "link": "https://cetateanmodel.ro/cotele-dunarii-la-orsova-in-2026-nivelul-apei-azi-grafic-si-dinamica-zilnica/",
-      "date": "Fri, 13 Feb 2026 08:38:11 +0000",
-      "summary": "Dacă plănuiești o escapadă în Clisura Dunării, cu siguranță te interesează cum arată fluviul astăzi. Imaginează-ți o plimbare cu barca printre spectaculoasele Cazane, unde peisajul depinde direct de volumul de apă. Monitorizarea pentru cotele Dunării Orșova este esențială pentru orice turist, pescar sau navigator care dorește o experiență sigură. O simplă verificare a datelor te [&#8230;] Articolul Cotele Dunării la Orșova în 2026: nivelul apei azi, grafic și dinamica zilnică apare prima dată în Cetatean model ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@cetatean_model/117598779929884159",
+      "date": "Wed, 11 Nov 2026 16:36:16 +0000",
+      "content": "Hub-ul national de management de caz coordoneaza accesul la kinetoterapie, psihoterapie si logopedie. Programul include si sprijin financiar si emotional pentru parinti. https:// cetateanmodel.ro/asociatia-mam e-retea-sustinere-copii/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@cetatean_model/117523715364702894",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@cetatean_model/116160210486033921",
       "date": "Mon, 02 Mar 2026 15:09:09 +0000",
       "content": "Când cauți monitorizare GPS auto, cea mai mare greșeală este să compari doar prețul și să presupui că „toate fac același lucru”. Un sistem eficient de monitorizare GPS auto îți oferă rapoarte pe care le folosești cu adevărat, alerte fără exces și suport real, care intervine concret când ai nevoie. Monitorizare GPS auto: checklist înainte… https:// cetateanmodel.ro/monitorizare- gps-auto-ce-verifici-inainte-sa-alegi-un-furnizor/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@cetatean_model/116063007010920069",
-      "date": "Fri, 13 Feb 2026 11:09:01 +0000",
-      "content": "Dacă plănuiești o escapadă în Clisura Dunării, cu siguranță te interesează cum arată fluviul astăzi. Imaginează-ți o plimbare cu barca printre spectaculoasele Cazane, unde peisajul depinde direct de volumul de apă. Monitorizarea pentru cotele Dunării Orșova este esențială pentru orice turist, pescar sau navigator care dorește o experiență sigură. O simplă verificare a datelor te… https:// cetateanmodel.ro/cotele-dunari i-la-orsova-in-2026-nivelul-apei-azi-grafic-si-dinamica-zilnica/"
     }
   ]
 }

@@ -4,8 +4,20 @@
   "site_feed": "https://topantreprenor.ro/feed/",
   "mastodon": "https://social.5th.ro/@topantreprenor",
   "mastodon_rss": "https://social.5th.ro/@topantreprenor.rss",
-  "updated_at": "2026-11-11T10:53:26Z",
+  "updated_at": "2026-11-11T18:41:51Z",
   "site_posts": [
+    {
+      "title": "MORE Networking celebrează antreprenoriatul feminin pe 19 noiembrie 2026",
+      "link": "https://topantreprenor.ro/gala-antreprenoriatul-feminin-2026/",
+      "date": "Wed, 11 Nov 2026 16:26:15 +0000",
+      "summary": "MORE Networking organizeaza a doua editie a Galei Antreprenoriatului Feminin la Aurrum Palace. Evenimentul include paneluri, licitatie caritabila si premii pentru 12 femei. The post MORE Networking celebrează antreprenoriatul feminin pe 19 noiembrie 2026 appeared first on Top Antreprenor ."
+    },
+    {
+      "title": "AI Act: firmele care folosesc AI trebuie să-și pregătească angajații. Ghid practic pentru manageri, de la coachul executiv Geo Ivanov",
+      "link": "https://topantreprenor.ro/ghid-practic-coach-executiv-ai-act/",
+      "date": "Wed, 11 Nov 2026 12:31:42 +0000",
+      "summary": "Firmele care folosesc AI trebuie să-și pregătească angajații (art. 4 AI Act). Geo Ivanov oferă managerilor un plan practic: ebookul Humanversia AI și un coach executiv AI cu 7 zile gratuite. The post AI Act: firmele care folosesc AI trebuie să-și pregătească angajații. Ghid practic pentru manageri, de la coachul executiv Geo Ivanov appeared first on Top Antreprenor ."
+    },
     {
       "title": "Când aveți firmă, durerea de dinte vine mereu în săptămâna proastă. Ce câștigi cu un control la 6 luni",
       "link": "https://topantreprenor.ro/control-dentist-sase-luni/",
@@ -53,21 +65,21 @@
       "link": "https://topantreprenor.ro/obiceiuri-care-pot-schimba-igiena-orala/",
       "date": "Sat, 10 Oct 2026 18:33:12 +0000",
       "summary": "Gestiuni simple din rutina zilnica pot influenta sanatatea dintilor. Afla cum sa previi problemele si cand sa cauti ajutor profesional. The post Dincolo de periaj: obiceiurile mici care pot schimba felul în care ai grijă de dinții tăi appeared first on Top Antreprenor ."
-    },
-    {
-      "title": "Curele trapezoidale clasice sau înguste: diferențe de performanță și randament",
-      "link": "https://topantreprenor.ro/curele-trapezoidale-clasic-vingust/",
-      "date": "Fri, 02 Oct 2026 05:30:49 +0000",
-      "summary": "Descopera de ce profilul ingust poate transmite mai multa putere in aceeasi latime. Verifica parametrii tehnici inainte de a schimba cureaua. The post Curele trapezoidale clasice sau înguste: diferențe de performanță și randament appeared first on Top Antreprenor ."
-    },
-    {
-      "title": "Primul control fiscal al unei firme mici: ghid calm pentru antreprenorul care n-a mai trecut prin asta",
-      "link": "https://topantreprenor.ro/ghid-control-fiscal-firme-mici/",
-      "date": "Wed, 30 Sep 2026 10:39:40 +0000",
-      "summary": "Identifica tipul verificarii, pregateste dosarul si coordoneaza comunicarea cu inspectorii. Ghid pas cu pas pentru antreprenori. The post Primul control fiscal al unei firme mici: ghid calm pentru antreprenorul care n-a mai trecut prin asta appeared first on Top Antreprenor ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@topantreprenor/117598740510614850",
+      "date": "Wed, 11 Nov 2026 16:26:15 +0000",
+      "content": "📰MORE Networking organizeaza a doua editie a Galei Antreprenoriatului Feminin la Aurrum Palace. Evenimentul include paneluri, licitatie caritabila si premii pentru 12 femei. 🌐 https:// topantreprenor.ro/gala-antrepr enoriatul-feminin-2026/"
+    },
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@topantreprenor/117597818265088380",
+      "date": "Wed, 11 Nov 2026 12:31:43 +0000",
+      "content": "📰Firmele care folosesc AI trebuie să-și pregătească angajații (art. 4 AI Act). Geo Ivanov oferă managerilor un plan practic: ebookul Humanversia AI și un coach executiv AI cu 7 zile gratuite. 🌐 https:// topantreprenor.ro/ghid-practic -coach-executiv-ai-act/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@topantreprenor/117586044323328834",
@@ -127,18 +139,6 @@
       "link": "https://social.5th.ro/@topantreprenor/117359560688617342",
       "date": "Wed, 30 Sep 2026 10:39:41 +0000",
       "content": "📰Identifica tipul verificarii, pregateste dosarul si coordoneaza comunicarea cu inspectorii. Ghid pas cu pas pentru antreprenori. 🌐 https:// topantreprenor.ro/ghid-control -fiscal-firme-mici/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@topantreprenor/117332663223692860",
-      "date": "Fri, 25 Sep 2026 16:39:18 +0000",
-      "content": "📰Un partener CSS independent permite ca intreaga suma licitata sa intre in licitatie, fara marje interne. Asta creste competitivitatea reclamelor de Shopping. 🌐 https:// topantreprenor.ro/magazine-onl ine-google-shopping-css/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@topantreprenor/117332652878636794",
-      "date": "Fri, 25 Sep 2026 16:36:40 +0000",
-      "content": "📰Descopera trei semne ca instrumentele AI nu sunt suficiente si cum o echipa specializata poate optimiza strategia ta digitala. 🌐 https:// topantreprenor.ro/agentie-de-m arketing-ai/"
     }
   ]
 }
