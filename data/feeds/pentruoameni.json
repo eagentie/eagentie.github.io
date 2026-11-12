@@ -4,8 +4,14 @@
   "site_feed": "https://pentruoameni.ro/feed/",
   "mastodon": "https://social.5th.ro/@pentruoameni",
   "mastodon_rss": "https://social.5th.ro/@pentruoameni.rss",
-  "updated_at": "2026-11-12T09:46:42Z",
+  "updated_at": "2026-11-12T18:16:08Z",
   "site_posts": [
+    {
+      "title": "Copiii cu boli grave și familiile lor au nevoie de sprijin dincolo de tratamentul medical. Un program național le oferă acces gratuit la recuperare",
+      "link": "https://pentruoameni.ro/copii-boli-grave-au-nevoie-sprin/",
+      "date": "Thu, 12 Nov 2026 16:00:32 +0000",
+      "summary": "Asociatia M.A.M.E. si CEC Bank extind un program national de recuperare gratuita pentru 150 de copii cu afectiuni grave si 100 de parinti, oferind terapii si consiliere. Articolul Copiii cu boli grave și familiile lor au nevoie de sprijin dincolo de tratamentul medical. Un program național le oferă acces gratuit la recuperare apare prima dată în Pentru Oameni ."
+    },
     {
       "title": "Anvelope Pirelli: ce le face speciale și de ce sunt atât de populare",
       "link": "https://pentruoameni.ro/anvelope-pirelli-ce-le-face-speciale-si-de-ce-sunt-atat-de-populare/",
@@ -71,15 +77,15 @@
       "link": "https://pentruoameni.ro/secretele-unui-mester-priceput-5-factori-de-care-sa-tii-cont-ca-sa-alegi-masina-de-insurubat-perfecta/",
       "date": "Wed, 24 Jun 2026 09:56:25 +0000",
       "summary": "O mașină de înșurubat bună îți face proiectele mai rapide, mai curate și îți lasă energie pentru ideile următoare, nu pentru bătăi de cap. De la primul raft montat în apartament până la lucrări serioase în atelier, totul se schimbă când alegerea nu mai este la întâmplare, ci ghidată de aceleași criterii după care judecă [&#8230;] Articolul Secretele unui meșter priceput: 5 factori de care să ții cont ca să alegi mașina de înșurubat perfectă apare prima dată în Pentru Oameni ."
-    },
-    {
-      "title": "Apendicita acută: simptome, diagnostic și tratament chirurgical",
-      "link": "https://pentruoameni.ro/apendicita-acuta-simptome-diagnostic-si-tratament-chirurgical/",
-      "date": "Tue, 23 Jun 2026 08:05:55 +0000",
-      "summary": "Articol informativ pentru pacienți din București despre apendicita acută — simptome, diagnostic și tratamente chirurgicale. Ton calm, empatic, accesibil. Articolul Apendicita acută: simptome, diagnostic și tratament chirurgical apare prima dată în Pentru Oameni ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@pentruoameni/117604301978967770",
+      "date": "Thu, 12 Nov 2026 16:00:36 +0000",
+      "content": "Asociatia M.A.M.E. si CEC Bank extind un program national de recuperare gratuita pentru 150 de copii cu afectiuni grave si 100 de parinti, oferind terapii si consiliere. .... https:// pentruoameni.ro/copii-boli-gra ve-au-nevoie-sprin/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@pentruoameni/117450299885974801",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@pentruoameni/116804484315831500",
       "date": "Wed, 24 Jun 2026 09:56:27 +0000",
       "content": "O mașină de înșurubat bună îți face proiectele mai rapide, mai curate și îți lasă energie pentru ideile următoare, nu pentru bătăi de cap. De la primul raft montat în apartament până la lucrări serioase în atelier, totul se schimbă când alegerea nu mai este la întâmplare, ci ghidată de aceleași criterii după care judecă… .... https:// pentruoameni.ro/secretele-unui -mester-priceput-5-factori-de-care-sa-tii-cont-ca-sa-alegi-masina-de-insurubat-perfecta/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@pentruoameni/116799100153631095",
-      "date": "Tue, 23 Jun 2026 11:07:11 +0000",
-      "content": "Articol informativ pentru pacienți din București despre apendicita acută — simptome, diagnostic și tratamente chirurgicale. Ton calm, empatic, accesibil. .... https:// pentruoameni.ro/apendicita-acu ta-simptome-diagnostic-si-tratament-chirurgical/"
     }
   ]
 }

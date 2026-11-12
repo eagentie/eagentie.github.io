@@ -4,8 +4,14 @@
   "site_feed": "https://solutii-constructii.ro/feed/",
   "mastodon": "https://social.5th.ro/@SolutiiConstructii",
   "mastodon_rss": "https://social.5th.ro/@SolutiiConstructii.rss",
-  "updated_at": "2026-11-12T09:47:56Z",
+  "updated_at": "2026-11-12T18:17:31Z",
   "site_posts": [
+    {
+      "title": "Poți aplica tencuiala decorativă toamna? Ce condiții de temperatură și umiditate contează",
+      "link": "https://solutii-constructii.ro/poti-aplica-tencuiala-decorativa-toamna-ce-conditii-de-temperatura-si-umiditate-conteaza/",
+      "date": "Thu, 12 Nov 2026 13:02:49 +0000",
+      "summary": "Toamna este o perioadă în care mulți proprietari încearcă să finalizeze lucrările la fațadă înainte de venirea iernii. Articolul Poți aplica tencuiala decorativă toamna? Ce condiții de temperatură și umiditate contează apare prima dată în Solutii Constructii ."
+    },
     {
       "title": "Lumină caldă sau rece în birou? Ce soluții Visioluce să alegi și de ce",
       "link": "https://solutii-constructii.ro/lumina-calda-birou-visioluce/",
@@ -71,15 +77,15 @@
       "link": "https://solutii-constructii.ro/cazan-pe-peleti-ferroli-pentru-cine-este-o-alegere-potrivita-si-ce-trebuie-sa-verifici-inainte-de-cumparare/",
       "date": "Fri, 28 Aug 2026 12:46:50 +0000",
       "summary": "License: e1702fdaffb44c23e623ec65eb58136252 Pentru un proprietar de casă, dorința de a reduce dependența de gaz și de a avea Articolul Cazan pe peleți Ferroli: pentru cine este o alegere potrivită și ce trebuie să verifici înainte de cumpărare? apare prima dată în Solutii Constructii ."
-    },
-    {
-      "title": "Servicii de foraje pentru puțuri de apă – de ce execuția profesională face diferența",
-      "link": "https://solutii-constructii.ro/servicii-de-foraje-pentru-puturi-de-apa-de-ce-executia-profesionala-face-diferenta/",
-      "date": "Thu, 27 Aug 2026 06:43:00 +0000",
-      "summary": "Accesul la o sursă sigură și constantă de apă este esențial atât pentru gospodării, cât și pentru activitățile Articolul Servicii de foraje pentru puțuri de apă – de ce execuția profesională face diferența apare prima dată în Solutii Constructii ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@SolutiiConstructii/117603602905156880",
+      "date": "Thu, 12 Nov 2026 13:02:49 +0000",
+      "content": "Toamna este o perioadă în care mulți proprietari încearcă să finalizeze lucrările la fațadă înainte de venirea iernii. Temperaturile sunt încă acceptabile în timpul zilei, dar diminețile reci, ploile și umiditatea ridicată pot complica lucrurile.Apare, inevitabil, întrebarea: mai poți aplica tencuiala decorativă în octombrie sau noiembrie, fără să riști ... 🌐 Vezi: https:// solutii-constructii.ro/poti-ap lica-tencuiala-decorativa-toamna-ce-conditii-de-temperatura-si-umiditate-conteaza/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@SolutiiConstructii/117557683227002948",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@SolutiiConstructii/117173204450499227",
       "date": "Fri, 28 Aug 2026 12:46:50 +0000",
       "content": "License: e1702fdaffb44c23e623ec65eb58136252 Pentru un proprietar de casă, dorința de a reduce dependența de gaz și de a avea un sistem de încălzire mai ușor de gestionat poate duce rapid la luarea în calcul a unui cazan pe peleți. La prima vedere, alegerea pare simplă: compari puterea, prețul și dimensiunile echipamentului. În realitate, sunt mai ... 🌐 Vezi: https:// solutii-constructii.ro/cazan-p e-peleti-ferroli-pentru-cine-este-o-alegere-potrivita-si-ce-trebuie-sa-verifici-inainte-de-cumparare/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@SolutiiConstructii/117171780563484417",
-      "date": "Fri, 28 Aug 2026 06:44:43 +0000",
-      "content": "Accesul la o sursă sigură și constantă de apă este esențial atât pentru gospodării, cât și pentru activitățile agricole, comerciale sau industriale. În zonele în care rețeaua publică de alimentare nu este disponibilă sau nu poate acoperi necesarul de consum, realizarea unui puț forat reprezintă una dintre cele mai eficiente soluții. Totuși, un puț de… ... 🌐 Continuarea: https:// solutii-constructii.ro/servici i-de-foraje-pentru-puturi-de-apa-de-ce-executia-profesionala-face-diferenta/"
     }
   ]
 }

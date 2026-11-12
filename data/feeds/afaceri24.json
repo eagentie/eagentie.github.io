@@ -4,8 +4,14 @@
   "site_feed": "https://afaceri24.ro/feed/",
   "mastodon": "https://social.5th.ro/@afaceri24",
   "mastodon_rss": "https://social.5th.ro/@afaceri24.rss",
-  "updated_at": "2026-11-12T09:47:43Z",
+  "updated_at": "2026-11-12T18:17:15Z",
   "site_posts": [
+    {
+      "title": "Otto Broker și SelfPay aduc asigurările în SelfPay Now: polițele RCA și PAD sunt deja disponibile în aplicație",
+      "link": "https://afaceri24.ro/otto-broker-selfpay-asigurari-app/",
+      "date": "Thu, 12 Nov 2026 11:18:25 +0000",
+      "summary": "Utilizatorii SelfPay Now pot achizitiona deja polite RCA si PAD prin parteneriatul cu Otto Broker. In curand vor fi disponibile si asigurari CASCO si de calatorie. The post Otto Broker și SelfPay aduc asigurările în SelfPay Now: polițele RCA și PAD sunt deja disponibile în aplicație appeared first on Afaceri 24 ."
+    },
     {
       "title": "Huawei și Honor: Istoria unei moșteniri comune și de ce ecranele lor au nevoie de aceeași protecție premium",
       "link": "https://afaceri24.ro/huawei-si-honor-istoria-unei-mosteniri-comune-si-de-ce-ecranele-lor-au-nevoie-de-aceeasi-protectie-premium/",
@@ -59,15 +65,15 @@
       "link": "https://afaceri24.ro/ce-ar-fi-daca-pentru-o-zi-am-privi-esecul-altfel/",
       "date": "Thu, 24 Sep 2026 11:38:57 +0000",
       "summary": "Ce-ar fi dacă, pentru o zi, am privi eșecul altfel? Nu ca pe o dovadă că nu ești suficient de bun, ci ca pe unul dintre cele mai directe moduri prin care afli ce nu merge, schimbi direcția, pivotezi, experimentezi și înveți mai repede. Pe 9 noiembrie, la Opera Națională București, I Love Failure 2026 [&#8230;] The post Ce-ar fi dacă, pentru o zi, am privi eșecul altfel? appeared first on Afaceri 24 ."
-    },
-    {
-      "title": "De ce broderia personalizată a devenit un pilon al imaginii de brand pentru companiile românești",
-      "link": "https://afaceri24.ro/de-ce-broderia-personalizata-a-devenit-un-pilon-al-imaginii-de-brand-pentru-companiile-romanesti/",
-      "date": "Wed, 16 Sep 2026 07:42:51 +0000",
-      "summary": "Într-un mediu de afaceri tot mai competitiv, imaginea de brand nu se mai construiește doar prin logo, website sau campanii de marketing, ci și prin fiecare detaliu vizibil pe care angajații îl poartă zilnic. Uniformele, echipamentul de lucru și articolele vestimentare personalizate au devenit puncte de contact reale între brand și public, iar modul în [&#8230;] The post De ce broderia personalizată a devenit un pilon al imaginii de brand pentru companiile românești appeared first on Afaceri 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@afaceri24/117603192580191490",
+      "date": "Thu, 12 Nov 2026 11:18:28 +0000",
+      "content": "📄Utilizatorii SelfPay Now pot achizitiona deja polite RCA si PAD prin parteneriatul cu Otto Broker. In curand vor fi disponibile si asigurari CASCO si de calatorie. 💡 https:// afaceri24.ro/otto-broker-selfp ay-asigurari-app/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@afaceri24/117586425678240097",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@afaceri24/117279593217247830",
       "date": "Wed, 16 Sep 2026 07:42:54 +0000",
       "content": "📄Într-un mediu de afaceri tot mai competitiv, imaginea de brand nu se mai construiește doar prin logo, website sau campanii de marketing, ci și prin fiecare detaliu vizibil pe care angajații îl poartă zilnic. Uniformele, echipamentul de lucru și articolele vestimentare personalizate au devenit puncte de contact reale între brand și public, iar modul în… 💡 https:// afaceri24.ro/de-ce-broderia-pe rsonalizata-a-devenit-un-pilon-al-imaginii-de-brand-pentru-companiile-romanesti/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@afaceri24/117274825258130450",
-      "date": "Tue, 15 Sep 2026 11:30:20 +0000",
-      "content": "📄Networkingul profesional, matchmakingul B2B și întâlnirile programate pot transforma un eveniment dintr-o simplă experiență de participare într-un mediu în care se creează conexiuni și oportunități reale de business. 💡 https:// afaceri24.ro/networkingul-b2b- evenimente/"
     }
   ]
 }

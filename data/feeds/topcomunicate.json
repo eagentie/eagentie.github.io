@@ -4,8 +4,14 @@
   "site_feed": "https://topcomunicate.ro/feed/",
   "mastodon": "https://social.5th.ro/@topcomunicate_ro",
   "mastodon_rss": "https://social.5th.ro/@topcomunicate_ro.rss",
-  "updated_at": "2026-11-12T09:46:49Z",
+  "updated_at": "2026-11-12T18:16:15Z",
   "site_posts": [
+    {
+      "title": "Fundația Mihai Eminescu Trust lansează un proiect de conservare a soiurilor tradiționale de pomi fructiferi și restaurare a peisajului rural din sudul Transilvaniei",
+      "link": "https://topcomunicate.ro/fundatia-mihai-eminescu-trust-lanseaza-un-proiect-de-conservare-a/",
+      "date": "Thu, 12 Nov 2026 12:37:20 +0000",
+      "summary": "COMUNICAT DE PRESĂ Minimum 300 de pomi fructiferi tradiționali vor fi plantați în Mălâncrav și Alma Vii,... The post Fundația Mihai Eminescu Trust lansează un proiect de conservare a soiurilor tradiționale de pomi fructiferi și restaurare a peisajului rural din sudul Transilvaniei appeared first on Comunicate de presa ."
+    },
     {
       "title": "Nenos Software: servicii cloud AWS care conectează arhitectura, performanța și administrarea infrastructurii",
       "link": "https://topcomunicate.ro/nenos-software-servicii-cloud-aws/",
@@ -71,15 +77,15 @@
       "link": "https://topcomunicate.ro/obiceiuri-zilnice-dinti/",
       "date": "Sat, 10 Oct 2026 17:55:23 +0000",
       "summary": "Sanatatea orala depinde de detalii mici, repetate zilnic. Afla ce gesturi simple pot cauza probleme dentare si cum le poti evita. The post 7 obiceiuri zilnice care îți pot afecta dinții fără să-ți dai seama appeared first on Comunicate de presa ."
-    },
-    {
-      "title": "GalleryDock Expands Client Galleries With Website Embedding",
-      "link": "https://topcomunicate.ro/gallerydock-client-galleries-website-embedding/",
-      "date": "Mon, 05 Oct 2026 09:58:16 +0000",
-      "summary": "GalleryDock extends website embedding to English-speaking photographers, combining client galleries, password protection and a free starting allowance of three galleries. The post GalleryDock Expands Client Galleries With Website Embedding appeared first on Comunicate de presa ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@topcomunicate_ro/117603502863075530",
+      "date": "Thu, 12 Nov 2026 12:37:23 +0000",
+      "content": "⭐ COMUNICAT DE PRESĂMinimum 300 de pomi fructiferi tradiționali vor fi plantați în Mălâncrav și Alma Vii, iar două livezi educative vor fi amenajate în Mălâncrav și Viscri, în cadrul unui proiect susținut de Fundația OMV Petrom.Sighișoara, 12.11.2026– Fundația Mihai Eminescu Trust (MET) anunță lansarea proiectului „Peisaje vii în satele transilvănene”, o inițiativă dedicată conservării 🔗 Detalii aici: https:// topcomunicate.ro/fundatia-miha i-eminescu-trust-lanseaza-un-proiect-de-conservare-a/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@topcomunicate_ro/117523842348853719",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@topcomunicate_ro/117417897224797463",
       "date": "Sat, 10 Oct 2026 17:55:25 +0000",
       "content": "⭐ Sanatatea orala depinde de detalii mici, repetate zilnic. Afla ce gesturi simple pot cauza probleme dentare si cum le poti evita. 🔗 Detalii aici: https:// topcomunicate.ro/obiceiuri-zil nice-dinti/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@topcomunicate_ro/117387709543655225",
-      "date": "Mon, 05 Oct 2026 09:58:18 +0000",
-      "content": "⭐ GalleryDock extends website embedding to English-speaking photographers, combining client galleries, password protection and a free starting allowance of three galleries. 🔗 Mai mult: https:// topcomunicate.ro/gallerydock-c lient-galleries-website-embedding/"
     }
   ]
 }
