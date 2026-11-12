@@ -4,7 +4,7 @@
   "site_feed": "https://9z.ro/feed/",
   "mastodon": "https://social.5th.ro/@9z",
   "mastodon_rss": "https://social.5th.ro/@9z.rss",
-  "updated_at": "2026-11-12T01:33:02Z",
+  "updated_at": "2026-11-12T09:48:31Z",
   "site_posts": [
     {
       "title": "De la primul salariu la pensie: cum îți adaptezi planul financiar de-a lungul vieții",
@@ -70,6 +70,12 @@
   "mastodon_posts": [
     {
       "title": "",
+      "link": "https://social.5th.ro/@9z/117602422271944538",
+      "date": "Thu, 12 Nov 2026 08:02:34 +0000",
+      "content": "Primul sanctuar pentru animale din România, NIMA, a împlinit opt ani. Astăzi, 140 de animăluțe salvate din 11 specii trăiesc în siguranță, cu sprijinul donatorilor. https:// comunicatpresa.9z.ro/sanctuaru l-nima-primul-din-romania-8-ani/"
+    },
+    {
+      "title": "",
       "link": "https://social.5th.ro/@9z/117582275084211614",
       "date": "Sun, 08 Nov 2026 18:38:52 +0000",
       "content": "Prioritatile financiare se schimba odata cu varsta. Acest ghid te ajuta sa adaptezi planul financiar in fiecare etapa, de la primul salariu pana la pensionare. https:// 9z.ro/plan-financiar-pe-etape/"
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@9z/117489193406905760",
       "date": "Fri, 23 Oct 2026 08:06:59 +0000",
       "content": "Curățarea canapelei la domiciliu în Oradea: ce trebuie să știe clientul înainte de programare OradeaCuAbur Programarea unei curățări de canapea la domiciliu începe înainte ca echipamentul să ajungă în locuință. Fotografii bine făcute, dimensiuni aproximative și informații despre pete permit o estimare mai utilă pentru clientul din Oradea și reduc neînțelegerile despre ce se va… https:// 9z.ro/incepe-cu-informatiile-p otrivite-nu-cu-promisiuni/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@9z/117468018025339700",
-      "date": "Mon, 19 Oct 2026 14:21:48 +0000",
-      "content": "Protejeaza creantele si sustine accesul la finantare. Otto Broker te ajuta sa structurezi o politica de risc clara pentru a creste in siguranta. https:// 9z.ro/asigurarea-de-credit-ott o-broker/"
     }
   ]
 }
