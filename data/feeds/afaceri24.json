@@ -4,8 +4,14 @@
   "site_feed": "https://afaceri24.ro/feed/",
   "mastodon": "https://social.5th.ro/@afaceri24",
   "mastodon_rss": "https://social.5th.ro/@afaceri24.rss",
-  "updated_at": "2026-11-14T10:20:42Z",
+  "updated_at": "2026-11-14T17:05:07Z",
   "site_posts": [
+    {
+      "title": "Anunț imobiliar: ce verifici înainte de prima vizionare",
+      "link": "https://afaceri24.ro/anunt-imobiliar-verifici-vizionare/",
+      "date": "Sat, 14 Nov 2026 13:59:20 +0000",
+      "summary": "Șapte informații din anunțul imobiliar te ajută să alegi vizionările utile. Începe cu suprafața, localizarea și costul total, apoi verifică documentele. The post Anunț imobiliar: ce verifici înainte de prima vizionare appeared first on Afaceri 24 ."
+    },
     {
       "title": "Otto Broker și SelfPay aduc asigurările în SelfPay Now: polițele RCA și PAD sunt deja disponibile în aplicație",
       "link": "https://afaceri24.ro/otto-broker-selfpay-asigurari-app/",
@@ -59,15 +65,15 @@
       "link": "https://afaceri24.ro/helicobacter-pylori-naturist-recomandari/",
       "date": "Thu, 24 Sep 2026 14:46:23 +0000",
       "summary": "Descopera ce alimente si suplimente pot sprijini eradicarea bacteriei si cum protejezi mucoasa gastrica in timpul si dupa tratament. The post Se poate trata helicobacter pylori naturist? Top recomandări de la specialiști appeared first on Afaceri 24 ."
-    },
-    {
-      "title": "Ce-ar fi dacă, pentru o zi, am privi eșecul altfel?",
-      "link": "https://afaceri24.ro/ce-ar-fi-daca-pentru-o-zi-am-privi-esecul-altfel/",
-      "date": "Thu, 24 Sep 2026 11:38:57 +0000",
-      "summary": "Ce-ar fi dacă, pentru o zi, am privi eșecul altfel? Nu ca pe o dovadă că nu ești suficient de bun, ci ca pe unul dintre cele mai directe moduri prin care afli ce nu merge, schimbi direcția, pivotezi, experimentezi și înveți mai repede. Pe 9 noiembrie, la Opera Națională București, I Love Failure 2026 [&#8230;] The post Ce-ar fi dacă, pentru o zi, am privi eșecul altfel? appeared first on Afaceri 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@afaceri24/117615149928461643",
+      "date": "Sat, 14 Nov 2026 13:59:23 +0000",
+      "content": "📄Șapte informații din anunțul imobiliar te ajută să alegi vizionările utile. Începe cu suprafața, localizarea și costul total, apoi verifică documentele. 💡 https:// afaceri24.ro/anunt-imobiliar-v erifici-vizionare/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@afaceri24/117603192580191490",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@afaceri24/117308426208931017",
       "date": "Mon, 21 Sep 2026 09:55:30 +0000",
       "content": "📄Mașinile electrice și hibride au ajuns suficient de răspândite încât RCA-ul pentru ele să nu mai fie o situație rară. Procedura de cumpărare este apropiată de cea pentru o mașină cu motor pe benzină sau motorină: introduci datele proprietarului și ale vehiculului, compari ofertele și alegi perioada pentru care vrei asigurarea.Diferențele apar la caracteristicile tehnice… 💡 https:// afaceri24.ro/rca-pentru-masini -electrice-si-hibride-explicat-pe-intelesul-tuturor/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@afaceri24/117279593217247830",
-      "date": "Wed, 16 Sep 2026 07:42:54 +0000",
-      "content": "📄Într-un mediu de afaceri tot mai competitiv, imaginea de brand nu se mai construiește doar prin logo, website sau campanii de marketing, ci și prin fiecare detaliu vizibil pe care angajații îl poartă zilnic. Uniformele, echipamentul de lucru și articolele vestimentare personalizate au devenit puncte de contact reale între brand și public, iar modul în… 💡 https:// afaceri24.ro/de-ce-broderia-pe rsonalizata-a-devenit-un-pilon-al-imaginii-de-brand-pentru-companiile-romanesti/"
     }
   ]
 }

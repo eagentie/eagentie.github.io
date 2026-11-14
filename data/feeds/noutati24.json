@@ -4,8 +4,14 @@
   "site_feed": "https://noutati24.ro/feed/",
   "mastodon": "https://social.5th.ro/@noutati24",
   "mastodon_rss": "https://social.5th.ro/@noutati24.rss",
-  "updated_at": "2026-11-14T10:20:29Z",
+  "updated_at": "2026-11-14T17:04:30Z",
   "site_posts": [
+    {
+      "title": "Anunț auto second-hand: verificări înainte de vizionare",
+      "link": "https://noutati24.ro/verificari-anunt-auto-second-hand/",
+      "date": "Sat, 14 Nov 2026 13:59:18 +0000",
+      "summary": "Un anunț auto te poate ajuta să alegi ce mașini merită văzute. Află ce informații merită comparate înainte să programezi vizionarea. Articolul Anunț auto second-hand: verificări înainte de vizionare apare prima dată în Noutati 24 ."
+    },
     {
       "title": "Comunitatea de sustenabilitate eEco iese din online",
       "link": "https://noutati24.ro/comunitatea-de-sustenabilitate-eeco-iese-din-online/",
@@ -71,15 +77,15 @@
       "link": "https://noutati24.ro/participarea-secretarului-de-stat-in-ministerul-justitiei-domnul-ioan-turc-la-evenimentul-de-diseminare-a-raportului-de-audit-privind-sistemul-national-de-recuperare-a-creantelor-provenite-din-infra/",
       "date": "Fri, 25 Sep 2026 12:49:49 +0000",
       "summary": "În data de 24 septembrie a.c., Agenția Națională de Administrare a Bunurilor Indisponibilizate (ANABI) a organizat, la București, evenimentul public &#8230; Articolul Participarea Secretarului de Stat în Ministerul Justiției, domnul Ioan Turc, la evenimentul de diseminare a raportului de audit privind sistemul național de recuperare a creanțelor provenite din infracțiuni apare prima dată în Noutati 24 ."
-    },
-    {
-      "title": "Ministerul Justiției continuă monitorizarea investițiilor în infrastructura instanțelor și accelerează lucrările aflate în derulare, 25 septembrie 2026",
-      "link": "https://noutati24.ro/ministerul-justitiei-continua-monitorizarea-investitiilor-in-infrastructura-instantelor-si-accelereaza-lucrarile-aflate-in-derulare-25-septembrie-2026/",
-      "date": "Fri, 25 Sep 2026 12:15:34 +0000",
-      "summary": "Ministerul Justiției urmărește dezvoltarea unei infrastructuri judiciare moderne, sigure și funcționale, capabile să răspundă atât nevoilor instanțelor, cât și așteptărilor &#8230; Articolul Ministerul Justiției continuă monitorizarea investițiilor în infrastructura instanțelor și accelerează lucrările aflate în derulare, 25 septembrie 2026 apare prima dată în Noutati 24 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@noutati24/117615149866352256",
+      "date": "Sat, 14 Nov 2026 13:59:22 +0000",
+      "content": "🆕Un anunț auto te poate ajuta să alegi ce mașini merită văzute. Află ce informații merită comparate înainte să programezi vizionarea. 🌐 https:// noutati24.ro/verificari-anunt- auto-second-hand/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@noutati24/117433300319330722",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@noutati24/117336139508086841",
       "date": "Sat, 26 Sep 2026 07:23:22 +0000",
       "content": "🆕În data de 24 septembrie a.c., Agenția Națională de Administrare a Bunurilor Indisponibilizate (ANABI) a organizat, la București, evenimentul public de diseminare a raportului de audit extern privind capacitatea de investigare a autorităților române în materia confiscării și 🌐 https:// noutati24.ro/participarea-secr etarului-de-stat-in-ministerul-justitiei-domnul-ioan-turc-la-evenimentul-de-diseminare-a-raportului-de-audit-privind-sistemul-national-de-recuperare-a-creantelor-provenite-din-infra/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@noutati24/117336139274825101",
-      "date": "Sat, 26 Sep 2026 07:23:18 +0000",
-      "content": "🆕În contextul implementării Programului Justiție, finanțat prin Programul de Cooperare Elvețiano-Român, în data de 25 septembrie 2026, Ministerul Justiției, în calitate de Operator de Program, a organizat o sesiune de consultări în vederea identificării de noi direcții de 🌐 https:// noutati24.ro/participarea-secr etarului-de-stat-in-ministerul-justitiei-doamna-teodora-stoian-la-sesiunea-de-consultari-in-contextul-implementarii-programului-justitie-finantat-prin-programul-de-cooperare-elveti/"
     }
   ]
 }
