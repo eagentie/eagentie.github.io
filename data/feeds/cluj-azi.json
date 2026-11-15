@@ -4,7 +4,7 @@
   "site_feed": "https://cluj-azi.ro/feed/",
   "mastodon": "https://social.5th.ro/@cluj",
   "mastodon_rss": "https://social.5th.ro/@cluj.rss",
-  "updated_at": "2026-11-15T09:20:12Z",
+  "updated_at": "2026-11-15T17:05:46Z",
   "site_posts": [
     {
       "title": "O poveste de iarnă cu lumini și colinde: 4 Piețe de Crăciun în inima Europei",
@@ -70,6 +70,12 @@
   "mastodon_posts": [
     {
       "title": "",
+      "link": "https://social.5th.ro/@cluj/117621139833426278",
+      "date": "Sun, 15 Nov 2026 15:22:42 +0000",
+      "content": "Verificam legatura cu integrarea externa si drumul unui material de test. Confirmam ca publicarea automata si aprobarea distribuitorilor functioneaza corect. https:// cluj-azi.ro/proba-tehnica-comu nicate-eu/"
+    },
+    {
+      "title": "",
       "link": "https://social.5th.ro/@cluj/117514785181710647",
       "date": "Tue, 27 Oct 2026 20:35:18 +0000",
       "content": "Fiecare iarnă aduce cu sine o promisiune de magie, o invitație la căldură sufletească și momente de neuitat. Și ce poate fi mai încântător decât o călătorie prin orașe imperiale, transformate în veritabile tărâmuri de poveste de luminile feerice și aromele îmbietoare ale piețelor de Crăciun? Imaginați-vă străzile istorice din Budapesta, Praga, Karlovy Vary și… https:// cluj-azi.ro/o-poveste-de-iarna -cu-lumini-si-colinde-4-piete-de-craciun-in-inima-europei/"
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@cluj/116319250715659291",
       "date": "Mon, 30 Mar 2026 17:15:10 +0000",
       "content": "Ana avea 22 de ani când a început să se gândească la un job în videochat. Văzuse multe anunțuri online care promiteau câștiguri foarte mari, program flexibil și o viață complet diferită. Imaginile erau mereu aceleași: vacanțe exotice, haine de firmă, mașini scumpe și multă independență financiară. La început, totul părea simplu. Aproape fiecare studio… https:// cluj-azi.ro/modelele-afla-pe-f orumvideochat-ro-adevarul-despre-vivadiva-si-celelalte-studiouri-de-videochat-din-iasi/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@cluj/115736919125895209",
-      "date": "Wed, 17 Dec 2025 21:00:35 +0000",
-      "content": "Ați investit timp și efort în crearea de conținut valoros pe platforma dumneavoastră wordpress. Următorul pas natural este distribuția automată în Fediverse. Vă folosiți de un mastodon wordpress plugin pentru a simplifica procesul. Dar, adesea, apare o problemă critică: deși postarea ajunge pe Mastodon, atribuirea corectă lipsește. Numele autor-ului care a scris articolul nu este… https:// cluj-azi.ro/cum-afisezi-numele -autorului-in-postarea-mastodon-din-wordpress/"
     }
   ]
 }

@@ -4,8 +4,14 @@
   "site_feed": "https://arta-constructiilor.ro/feed/",
   "mastodon": "https://social.5th.ro/@ArtaConstructiilor",
   "mastodon_rss": "https://social.5th.ro/@ArtaConstructiilor.rss",
-  "updated_at": "2026-11-15T09:21:09Z",
+  "updated_at": "2026-11-15T17:06:41Z",
   "site_posts": [
+    {
+      "title": "Legea 169/2026 schimbă regulile urmăririi comportării construcțiilor în România: ce trebuie să știe proprietarii și constructorii",
+      "link": "https://arta-constructiilor.ro/urmarirea-comportarii-constructiilor/",
+      "date": "Sun, 15 Nov 2026 09:31:43 +0000",
+      "summary": "Noul cod impune urmarirea comportarii constructiilor in timp. Proprietarii din clasele CC2-CC4 au noi obligatii si sanctiuni. Articolul Legea 169/2026 schimbă regulile urmăririi comportării construcțiilor în România: ce trebuie să știe proprietarii și constructorii apare prima dată în Arta Constructiilor ."
+    },
     {
       "title": "Cum folosești carotele diamantate pentru găurire în piatră fără să fisurezi placa?",
       "link": "https://arta-constructiilor.ro/carotele-diamantate-gaurire-piatra/",
@@ -53,15 +59,15 @@
       "link": "https://arta-constructiilor.ro/aprovizionarea-cu-lubrifianti-industriali-cum-reduci-erorile-si-opririle-neplanificate/",
       "date": "Mon, 28 Sep 2026 07:07:04 +0000",
       "summary": "Într-o fabrică, lipsa unui lubrifiant potrivit nu se vede întotdeauna în aceeași zi. Uneori, utilajul continuă să lucreze, iar problema apare abia la următoarea oprire, când lista de remedieri s-a lungit și costurile au crescut. Când consumul este mare, aprovizionarea cu lubrifianți industriali nu mai poate sta într-un tabel cu denumiri și cantități. Contează ce [&#8230;] Articolul Aprovizionarea cu lubrifianți industriali &#8211; cum reduci erorile și opririle neplanificate apare prima dată în Arta Constructiilor ."
-    },
-    {
-      "title": "Lenjerii de pat pentru copii: confort, culoare și materiale de calitate",
-      "link": "https://arta-constructiilor.ro/lenjerii-de-pat-pentru-copii-confort-culoare-si-materiale-de-calitate/",
-      "date": "Sat, 26 Sep 2026 12:38:00 +0000",
-      "summary": "Alegerea unei lenjerii de pat pentru copii poate părea, la &#238;nceput, o decizie simplă. Mulți părinți se concentrează &#238;n primul r&#226;nd pe imprimeu, culori sau personajele preferate ale celor mici. &#206;n realitate, o lenjerie potrivită trebuie să ofere mult mai mult dec&#226;t un design atractiv. Materialul, dimensiunea, confortul, rezistența la utilizare și ușurința &#238;n &#238;ntreținere [&#8230;] Articolul Lenjerii de pat pentru copii: confort, culoare și materiale de calitate apare prima dată în Arta Constructiilor ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@ArtaConstructiilor/117619759765023531",
+      "date": "Sun, 15 Nov 2026 09:31:43 +0000",
+      "content": "Noul cod impune urmarirea comportarii constructiilor in timp. Proprietarii din clasele CC2-CC4 au noi obligatii si sanctiuni. .... 🌐 https:// arta-constructiilor.ro/urmarir ea-comportarii-constructiilor/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@ArtaConstructiilor/117569298784341214",
@@ -127,12 +133,6 @@
       "link": "https://social.5th.ro/@ArtaConstructiilor/117337381612927897",
       "date": "Sat, 26 Sep 2026 12:39:15 +0000",
       "content": "Alegerea unei lenjerii de pat pentru copii poate părea, la început, o decizie simplă. Mulți părinți se concentrează în primul rând pe imprimeu, culori sau personajele preferate ale celor mici. În realitate, o lenjerie potrivită trebuie să ofere mult mai mult decât un design atractiv. Materialul, dimensiunea, confortul, rezistența la utilizare și ușurința în întreținere… .... 🌐 https:// arta-constructiilor.ro/lenjeri i-de-pat-pentru-copii-confort-culoare-si-materiale-de-calitate/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@ArtaConstructiilor/117332434230981275",
-      "date": "Fri, 25 Sep 2026 15:41:04 +0000",
-      "content": "Vezi intervalele de pret pentru o baie de 4-5 mp, de la demolare la finisaje. Afla unde merita sa cheltui si cum sa eviti costurile inutile. .... 🌐 https:// arta-constructiilor.ro/cat-cos ta-renovarea-baii/"
     }
   ]
 }
