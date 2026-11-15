@@ -4,8 +4,14 @@
   "site_feed": "https://aiadvertising.ro/feed/",
   "mastodon": "https://social.5th.ro/@ai_advertising",
   "mastodon_rss": "https://social.5th.ro/@ai_advertising.rss",
-  "updated_at": "2026-11-15T17:05:13Z",
+  "updated_at": "2026-11-15T21:45:49Z",
   "site_posts": [
+    {
+      "title": "Cât durează, de fapt, realizarea unui magazin online și ce îl întârzie",
+      "link": "https://aiadvertising.ro/cat-dureaza-de-fapt-realizarea-unui-magazin-online-si-ce-il-intarzie/",
+      "date": "Sun, 15 Nov 2026 19:53:30 +0000",
+      "summary": "Aproape orice magazin online nou are două date de lansare: cea stabilită la prima discuție... Articolul Cât durează, de fapt, realizarea unui magazin online și ce îl întârzie apare prima dată în Ai advertising ."
+    },
     {
       "title": "Top 5 soluții de securitate pentru menținerea supravegherii video în timpul unei pene de curent",
       "link": "https://aiadvertising.ro/supraveghere-video-pene-de-curent/",
@@ -59,15 +65,15 @@
       "link": "https://aiadvertising.ro/opinia-unui-fost-model-despre-viva-diva-de-ce-am-plecat-dupa-4-luni-si-ce-am-aflat-pe-forumvideochat-ro/",
       "date": "Thu, 30 Jul 2026 07:41:20 +0000",
       "summary": "Salut, sunt Liliana și vreau să-ți împărtășesc opinia unui fost model despre Viva Diva. Fac... Articolul Opinia unui fost model despre Viva Diva – de ce am plecat după 4 luni și ce am aflat pe ForumVideoChat.ro apare prima dată în Ai advertising ."
-    },
-    {
-      "title": "Cum ajută NuEra Tight la reducerea celulitei și fermitatea pielii",
-      "link": "https://aiadvertising.ro/cum-ajuta-nuera-tight-la-reducerea-celulitei-si-fermitatea-pielii/",
-      "date": "Thu, 30 Jul 2026 07:11:49 +0000",
-      "summary": "Celulita și pielea lipsită de fermitate nu apar doar în cazul persoanelor care au kilograme... Articolul Cum ajută NuEra Tight la reducerea celulitei și fermitatea pielii apare prima dată în Ai advertising ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@ai_advertising/117622204970950784",
+      "date": "Sun, 15 Nov 2026 19:53:34 +0000",
+      "content": "Aproape orice magazin online nou are două date de lansare: cea stabilită la prima discuție și cea în care primește, în sfârșit, prima comandă. Între ele trec adesea două-trei luni. O firmă care vinde echipament de camping hotărăște în februarie că vrea magazinul gata pentru vară, semnează în martie și deschide abia la jumătatea lui… https:// aiadvertising.ro/cat-dureaza-d e-fapt-realizarea-unui-magazin-online-si-ce-il-intarzie/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@ai_advertising/117332657258108545",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@ai_advertising/117007680327705772",
       "date": "Thu, 30 Jul 2026 07:11:52 +0000",
       "content": "Celulita și pielea lipsită de fermitate nu apar doar în cazul persoanelor care au kilograme în plus. Aspectul denivelat al pielii poate deveni vizibil inclusiv la persoanele active, cu o greutate stabilă, fiind influențat de structura țesutului conjunctiv, factori hormonali, circulație, vârstă și predispoziție genetică. Tocmai de aceea, sportul și alimentația echilibrată, deși esențiale pentru… https:// aiadvertising.ro/cum-ajuta-nue ra-tight-la-reducerea-celulitei-si-fermitatea-pielii/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@ai_advertising/116905377826564266",
-      "date": "Sun, 12 Jul 2026 05:35:00 +0000",
-      "content": "Inteligența artificială este discutată frecvent în contextul automatizării, al marketingului digital și al productivității. Totuși, una dintre cele mai importante utilizări ale AI nu este spectaculoasă, ci practică: îmbunătățirea primului contact dintre client și companie. Acest prim contact contează foarte mult. În multe industrii, utilizatorul ajunge pe un site cu o nevoie clară, dar https:// aiadvertising.ro/cum-schimba-a i-primul-contact-dintre-client-si-companie-exemplul-clinicilor-medicale/"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "site_feed": "https://cluj-azi.ro/feed/",
   "mastodon": "https://social.5th.ro/@cluj",
   "mastodon_rss": "https://social.5th.ro/@cluj.rss",
-  "updated_at": "2026-11-15T17:05:46Z",
+  "updated_at": "2026-11-15T21:46:22Z",
   "site_posts": [
     {
       "title": "O poveste de iarnă cu lumini și colinde: 4 Piețe de Crăciun în inima Europei",
@@ -70,6 +70,12 @@
   "mastodon_posts": [
     {
       "title": "",
+      "link": "https://social.5th.ro/@cluj/117621669442086380",
+      "date": "Sun, 15 Nov 2026 17:37:23 +0000",
+      "content": "Probă tehnică de integrare, nu un comunicat real. https:// cluj-azi.ro/proba-tehnica-de-i ntegrare/"
+    },
+    {
+      "title": "",
       "link": "https://social.5th.ro/@cluj/117621139833426278",
       "date": "Sun, 15 Nov 2026 15:22:42 +0000",
       "content": "Verificam legatura cu integrarea externa si drumul unui material de test. Confirmam ca publicarea automata si aprobarea distribuitorilor functioneaza corect. https:// cluj-azi.ro/proba-tehnica-comu nicate-eu/"
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@cluj/116367548302284703",
       "date": "Wed, 08 Apr 2026 05:57:53 +0000",
       "content": "Te-ai întrebat vreodată de ce unele zone dintr-o expoziție sunt mereu aglomerate, în timp ce altele rămân pustii? Răspunsul nu stă doar în notorietatea brandului, ci în modul în care este construită prezența fizică la fața locului. Participarea la un târg este o oportunitate uriașă pentru orice afacere care vrea să crească rapid. O strategie… https:// cluj-azi.ro/standuri-expozitio nale-si-materiale-pentru-evenimente-cum-pregatesti-o-prezenta-care-se-vede/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@cluj/116319250715659291",
-      "date": "Mon, 30 Mar 2026 17:15:10 +0000",
-      "content": "Ana avea 22 de ani când a început să se gândească la un job în videochat. Văzuse multe anunțuri online care promiteau câștiguri foarte mari, program flexibil și o viață complet diferită. Imaginile erau mereu aceleași: vacanțe exotice, haine de firmă, mașini scumpe și multă independență financiară. La început, totul părea simplu. Aproape fiecare studio… https:// cluj-azi.ro/modelele-afla-pe-f orumvideochat-ro-adevarul-despre-vivadiva-si-celelalte-studiouri-de-videochat-din-iasi/"
     }
   ]
 }
