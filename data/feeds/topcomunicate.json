@@ -4,8 +4,14 @@
   "site_feed": "https://topcomunicate.ro/feed/",
   "mastodon": "https://social.5th.ro/@topcomunicate_ro",
   "mastodon_rss": "https://social.5th.ro/@topcomunicate_ro.rss",
-  "updated_at": "2026-11-16T02:00:54Z",
+  "updated_at": "2026-11-16T09:36:34Z",
   "site_posts": [
+    {
+      "title": "Boxele portabile: cum alegi un model care oferă volum, bass și autonomie bună",
+      "link": "https://topcomunicate.ro/boxele-portabile-cum-alegi-un-model-care-ofera-volum-bass-si-autonomie-buna/",
+      "date": "Mon, 16 Nov 2026 08:10:50 +0000",
+      "summary": "O boxă portabilă poate fi folosită în multe situații: la o ieșire cu prietenii, într-o excursie, în... The post Boxele portabile: cum alegi un model care oferă volum, bass și autonomie bună appeared first on Comunicate de presa ."
+    },
     {
       "title": "Fundația Mihai Eminescu Trust lansează un proiect de conservare a soiurilor tradiționale de pomi fructiferi și restaurare a peisajului rural din sudul Transilvaniei",
       "link": "https://topcomunicate.ro/fundatia-mihai-eminescu-trust-lanseaza-un-proiect-de-conservare-a/",
@@ -71,15 +77,15 @@
       "link": "https://topcomunicate.ro/verifica-procura-inainte/",
       "date": "Sat, 10 Oct 2026 18:32:10 +0000",
       "summary": "Verifici scopul, documentele si forma notariala inainte de semnare. Astfel eviti refacerea actului si intarzierile la institutii. The post De ce merită să verifici actele înainte de a oferi sau primi o procură appeared first on Comunicate de presa ."
-    },
-    {
-      "title": "7 obiceiuri zilnice care îți pot afecta dinții fără să-ți dai seama",
-      "link": "https://topcomunicate.ro/obiceiuri-zilnice-dinti/",
-      "date": "Sat, 10 Oct 2026 17:55:23 +0000",
-      "summary": "Sanatatea orala depinde de detalii mici, repetate zilnic. Afla ce gesturi simple pot cauza probleme dentare si cum le poti evita. The post 7 obiceiuri zilnice care îți pot afecta dinții fără să-ți dai seama appeared first on Comunicate de presa ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@topcomunicate_ro/117625104160929180",
+      "date": "Mon, 16 Nov 2026 08:10:52 +0000",
+      "content": "⭐ O boxă portabilă poate fi folosită în multe situații: la o ieșire cu prietenii, într-o excursie, în curte, la piscină sau pur și simplu acasă, atunci când nu vrei să pornești sistemul audio principal. Conectarea prin Bluetooth este rapidă, iar dimensiunile reduse permit transportul fără prea mult efort.Problema apare când începi să compari modelele disponibile.… 🔗 Mai mult: https:// topcomunicate.ro/boxele-portab ile-cum-alegi-un-model-care-ofera-volum-bass-si-autonomie-buna/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@topcomunicate_ro/117603502863075530",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@topcomunicate_ro/117418041816372607",
       "date": "Sat, 10 Oct 2026 18:32:12 +0000",
       "content": "⭐ Verifici scopul, documentele si forma notariala inainte de semnare. Astfel eviti refacerea actului si intarzierile la institutii. 🔗 Mai mult: https:// topcomunicate.ro/verifica-proc ura-inainte/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@topcomunicate_ro/117417897224797463",
-      "date": "Sat, 10 Oct 2026 17:55:25 +0000",
-      "content": "⭐ Sanatatea orala depinde de detalii mici, repetate zilnic. Afla ce gesturi simple pot cauza probleme dentare si cum le poti evita. 🔗 Detalii aici: https:// topcomunicate.ro/obiceiuri-zil nice-dinti/"
     }
   ]
 }
