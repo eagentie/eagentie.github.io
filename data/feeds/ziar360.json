@@ -4,8 +4,14 @@
   "site_feed": "https://ziar360.ro/feed/",
   "mastodon": "https://social.5th.ro/@ziar360",
   "mastodon_rss": "https://social.5th.ro/@ziar360.rss",
-  "updated_at": "2026-11-16T09:36:57Z",
+  "updated_at": "2026-11-16T20:26:18Z",
   "site_posts": [
+    {
+      "title": "Care este cea mai apreciată pizza din București, din punct de vedere al recenziilor?",
+      "link": "https://ziar360.ro/apreciata-pizza-bucuresti-recenziile/",
+      "date": "Mon, 16 Nov 2026 11:23:04 +0000",
+      "summary": "Nu exista un singur raspuns la intrebarea despre cea mai buna pizza din Capitala. Analizam cum sa citesti recenziile si ce criterii conteaza in functie de zona ta. The post Care este cea mai apreciată pizza din București, din punct de vedere al recenziilor? appeared first on Ziar 360 ."
+    },
     {
       "title": "Cazare în Bușteni aproape de obiective turistice: 5 recomandări de la Cazari Unice",
       "link": "https://ziar360.ro/cazare-in-busteni-aproape-de-obiective-turistice-5-recomandari-de-la-cazari-unice/",
@@ -59,15 +65,15 @@
       "link": "https://ziar360.ro/explorat-platforma-fondata-in-suceava-care-ofera-peste-400000-de-experiente-turistice/",
       "date": "Fri, 16 Oct 2026 11:11:52 +0000",
       "summary": "Explorat - O platformă de rezervări fondată în Suceava de antreprenori români aduce la un loc experiențe turistice din întreaga lume. The post Explorat, platforma fondată în Suceava care oferă peste 400.000 de experiențe turistice appeared first on Ziar 360 ."
-    },
-    {
-      "title": "Canal endodontic greu de localizat – ce poate clarifica microscopul",
-      "link": "https://ziar360.ro/canal-endodontic-greu-de-localizat-ce-poate-clarifica-microscopul/",
-      "date": "Fri, 16 Oct 2026 07:38:53 +0000",
-      "summary": "Când un canal radicular este greu de localizat, tratamentul endodontic poate deveni mai complex decât părea inițial. Calcificarea, forma rădăcinilor sau particularitățile anatomice ale dintelui pot face dificilă identificarea traseului canalului, iar următorul pas nu este întotdeauna evident. În astfel de situații, microscopul poate oferi medicului o imagine mai detaliată asupra zonei de lucru, dar [&#8230;] The post Canal endodontic greu de localizat &#8211; ce poate clarifica microscopul appeared first on Ziar 360 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@ziar360/117625860128646721",
+      "date": "Mon, 16 Nov 2026 11:23:07 +0000",
+      "content": "📄Nu exista un singur raspuns la intrebarea despre cea mai buna pizza din Capitala. Analizam cum sa citesti recenziile si ce criterii conteaza in functie de zona ta. 🌐 https:// ziar360.ro/apreciata-pizza-buc uresti-recenziile/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@ziar360/117603087340356389",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@ziar360/117438637692857025",
       "date": "Wed, 14 Oct 2026 09:50:00 +0000",
       "content": "📄&lt;div class=&quot;media_block&quot;&gt;&lt;a href=&quot; https:// ziar360.ro/wp-content/uploads/ 2026/10/anul-acesta-re7consulting-implineste-11-ani.jpg &quot;&gt;&lt;img src=&quot; https:// ziar360.ro/wp-content/uploads/ 2026/10/anul-acesta-re7consulting-implineste-11-ani.jpg &quot; class=&quot;media_thumbnail&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Re7consulting sarbatoreste 11 ani de activitate. Afla cum combinam tehnologia cu relatia umana pentru a construi strategii de marketing eficiente.&lt;/p&gt; 🌐 https:// ziar360.ro/anul-acesta-re7cons ulting-implineste-11-ani/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@ziar360/117432265329351378",
-      "date": "Tue, 13 Oct 2026 06:49:25 +0000",
-      "content": "📄Descopera 5 variante de cazare in Busteni, de la vile A-frame la cabane rustice. Alege zona in functie de obiectivele tale turistice si mijlocul de transport. 🌐 https:// ziar360.ro/cazare-busteni-caza ri-unice/"
     }
   ]
 }

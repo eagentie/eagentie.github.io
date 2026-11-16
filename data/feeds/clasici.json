@@ -4,8 +4,14 @@
   "site_feed": "https://clasici.ro/feed/",
   "mastodon": "https://social.5th.ro/@clasici",
   "mastodon_rss": "https://social.5th.ro/@clasici.rss",
-  "updated_at": "2026-11-16T09:37:28Z",
+  "updated_at": "2026-11-16T20:26:48Z",
   "site_posts": [
+    {
+      "title": "Cum alegi piesele de Crăciun potrivite pentru cursul de canto? 7 sfaturi utile",
+      "link": "https://clasici.ro/cum-alegi-piesele-de-craciun-potrivite-pentru-cursul-de-canto-7-sfaturi-utile/",
+      "date": "Mon, 16 Nov 2026 15:04:51 +0000",
+      "summary": "Sărbătorile de iarnă sunt o perioadă specială pentru cei care iubesc muzica. Colindele și cântecele..."
+    },
     {
       "title": "Cum îngrijești lenjeria delicată ca să reziste mai mult: 7 pași practici",
       "link": "https://clasici.ro/ingrijire-lenjeria-delicata/",
@@ -71,15 +77,15 @@
       "link": "https://clasici.ro/ce-deserturi-traditionale-merita-incercate-in-roma/",
       "date": "Fri, 12 Jun 2026 10:45:00 +0000",
       "summary": "G&#226;ndul la capitala Italiei te duce instantaneu la Colosseum, la străduțele pietruite din Trastevere și..."
-    },
-    {
-      "title": "Medic chirurg Medicover Pipera: când să programezi un consult",
-      "link": "https://clasici.ro/medic-chirurg-medicover-pipera-cand-sa-programezi-un-consult/",
-      "date": "Sun, 10 May 2026 06:30:00 +0000",
-      "summary": "Vă confruntați cu dureri abdominale persistente sau ați observat recent modificări neobișnuite la nivelul corpului?..."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@clasici/117626732203978607",
+      "date": "Mon, 16 Nov 2026 15:04:54 +0000",
+      "content": "⭐Sărbătorile de iarnă sunt o perioadă specială pentru cei care iubesc muzica. Colindele și cântecele de Crăciun creează o atmosferă aparte, iar pentru copiii care urmează cursuri de canto reprezintă și o ocazie frumoasă de a-și pune în valoare vocea. Alegerea unei piese potrivite nu este însă întotdeauna simplă. Unele cântece sunt foarte cunoscute, dar… ⭐ https:// clasici.ro/cum-alegi-piesele-d e-craciun-potrivite-pentru-cursul-de-canto-7-sfaturi-utile/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@clasici/117484338265789820",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@clasici/116793588093054579",
       "date": "Mon, 22 Jun 2026 11:45:24 +0000",
       "content": "⭐Gândul la capitala Italiei te duce instantaneu la Colosseum, la străduțele pietruite din Trastevere și la aromele inconfundabile ale bucătăriei romane. Dincolo de pastele carbonara sau pizza al taglio, orașul ascunde o cultură fascinantă a dulciurilor. Cofetăriile istorice și gelateriile artizanale oferă produse care respectă rețete vechi de secole. Gustul autentic provine din ingrediente simple,… ⭐ https:// clasici.ro/ce-deserturi-tradit ionale-merita-incercate-in-roma/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@clasici/116549580801138193",
-      "date": "Sun, 10 May 2026 09:31:08 +0000",
-      "content": "⭐Vă confruntați cu dureri abdominale persistente sau ați observat recent modificări neobișnuite la nivelul corpului? Sănătatea este cel mai prețios bun pe care îl deținem, iar prevenția joacă un rol crucial în menținerea acesteia pe termen lung. Alegerea unui specialist cu experiență reprezintă primul pas esențial către o recuperare rapidă și sigură. Dacă locuiți sau… ⭐ https:// clasici.ro/medic-chirurg-medic over-pipera-cand-sa-programezi-un-consult/"
     }
   ]
 }

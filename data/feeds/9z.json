@@ -4,8 +4,14 @@
   "site_feed": "https://9z.ro/feed/",
   "mastodon": "https://social.5th.ro/@9z",
   "mastodon_rss": "https://social.5th.ro/@9z.rss",
-  "updated_at": "2026-11-16T09:38:36Z",
+  "updated_at": "2026-11-16T20:27:44Z",
   "site_posts": [
+    {
+      "title": "De ce telefonul tău Motorola are nevoie de o folie din silicon tăiată la comandă",
+      "link": "https://9z.ro/de-ce-telefonul-tau-motorola-are-nevoie-de-o-folie-din-silicon-taiata-la-comanda/",
+      "date": "Mon, 16 Nov 2026 15:04:36 +0000",
+      "summary": "Brandul Motorola este recunoscut pentru fiabilitate și inovație, oferind o gamă largă de dispozitive, de la modele accesibile din seria G la flagship-uri premium din seria Edge. Indiferent de modelul pe care îl deții, un lucru este cert: ecranul este componenta cea mai vulnerabilă și necesită o protecție serioasă pentru a preveni zgârieturile și spargerea. [&#8230;] The post De ce telefonul tău Motorola are nevoie de o folie din silicon tăiată la comandă appeared first on 9z ."
+    },
     {
       "title": "Cardinalia Timeless Velocity- eleganța nu are vârstă",
       "link": "https://9z.ro/eleganta-nu-are-varsta-nici-pe-drum-nici-pe-podium/",
@@ -59,15 +65,21 @@
       "link": "https://9z.ro/anvelope-goodyear-ce-arata-testele-despre-aderenta-ploaie-zgomot-si-uzura/",
       "date": "Fri, 16 Oct 2026 11:14:31 +0000",
       "summary": "Un set poate obține un rezultat foarte bun pe asfalt uscat și totuși să lase întrebări când drumul este ud. Într-o comparație pentru dimensiunea 225/45 R17, modelul Goodyear analizat s-a apropiat de vârful clasamentului la manevrabilitate pe uscat. În jurul aceluiași test au apărut însă opinii diferite despre comportamentul în condiții de ploaie. Când compari [&#8230;] The post Anvelope Goodyear: ce arată testele despre aderență, ploaie, zgomot și uzură appeared first on 9z ."
-    },
-    {
-      "title": "Ce este un marketplace și cu ce diferă de un magazin online",
-      "link": "https://9z.ro/marketplace-magazin-online-diferente/",
-      "date": "Thu, 15 Oct 2026 10:04:52 +0000",
-      "summary": "Compara avantajele unui marketplace cu cele ale unui magazin online. Afla cum sa alegi platforma potrivita in functie de varietatea produselor si suportul oferit. The post Ce este un marketplace și cu ce diferă de un magazin online appeared first on 9z ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@9z/117626731246612187",
+      "date": "Mon, 16 Nov 2026 15:04:40 +0000",
+      "content": "Brandul Motorola este recunoscut pentru fiabilitate și inovație, oferind o gamă largă de dispozitive, de la modele accesibile din seria G la flagship-uri premium din seria Edge. Indiferent de modelul pe care îl deții, un lucru este cert: ecranul este componenta cea mai vulnerabilă și necesită o protecție serioasă pentru a preveni zgârieturile și spargerea.… https:// 9z.ro/de-ce-telefonul-tau-moto rola-are-nevoie-de-o-folie-din-silicon-taiata-la-comanda/"
+    },
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@9z/117625856515169292",
+      "date": "Mon, 16 Nov 2026 11:22:12 +0000",
+      "content": "Proiectul a adus impreuna ONG-uri, companii si scoli pentru a discuta despre implicarea civica. S-a pus accent pe voluntariat si mentorat pentru tineri. https:// comunicatpresa.9z.ro/parteneri at-implicare-civica-educatie/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@9z/117613810397865099",
@@ -127,18 +139,6 @@
       "link": "https://social.5th.ro/@9z/117526074574161495",
       "date": "Thu, 29 Oct 2026 20:26:21 +0000",
       "content": "Pe 4 și 5 noiembrie 2026, la Linotip – Centru Independent Coregrafic din București, Asociația Secția de Coregrafie prezintă DANS.ID, o instalație digitală interactivă care îmbină dansul, neuroștiința și arta digitală. Prin intermediul mișcării corpului și al semnalelor EEG, fiecare vizitator contribuie la crearea unei experiențe vizuale, sonore și coregrafice unice. Lansarea marchează și 15 ani de activitate ai Asociației Secția de Coregrafie. https:// 9z.ro/ce-ramane-din-noi-in-abs enta-corpului/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@9z/117523712138621098",
-      "date": "Thu, 29 Oct 2026 10:25:33 +0000",
-      "content": "Noul spatiu de autoservire al Asociatiei CONIL transforma teoria in abilitati practice pentru tinerii cu nevoi speciale. https:// 9z.ro/sa-le-dam-aripi-educatie -autonomie-si-incredere-pentru-tinerii-cu-cerinte-speciale/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@9z/117523710927861523",
-      "date": "Thu, 29 Oct 2026 10:25:14 +0000",
-      "content": "Noul spatiu de autoservire al Asociatiei CONIL transforma teoria in abilitati practice pentru tinerii cu nevoi speciale. https:// comunicatpresa.9z.ro/un-viitor -fara-limite-educatie-autonomie-si-independenta-pentru-copiii-si-tinerii-cu-ces/"
     }
   ]
 }
