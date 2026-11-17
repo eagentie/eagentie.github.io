@@ -4,8 +4,14 @@
   "site_feed": "https://UniversulTech.ro/feed/",
   "mastodon": "https://social.5th.ro/@UniversulTech",
   "mastodon_rss": "https://social.5th.ro/@UniversulTech.rss",
-  "updated_at": "2026-11-17T13:20:54Z",
+  "updated_at": "2026-11-17T22:20:03Z",
   "site_posts": [
+    {
+      "title": "Security365 reunește peste 4.800 de profiluri de companii și resurse pentru alegerea serviciilor de securitate",
+      "link": "https://universultech.ro/security365-profiluri-de-companii/",
+      "date": "Tue, 17 Nov 2026 19:52:06 +0000",
+      "summary": "Security365 reunește 4.870 de profiluri de companii, distribuitori, producători și resurse legislative pentru industria de securitate din România. Articolul Security365 reunește peste 4.800 de profiluri de companii și resurse pentru alegerea serviciilor de securitate apare prima dată în Universul Tech ."
+    },
     {
       "title": "Linkjob AI Adds Unlimited Dual-Device Mode to Every Paid Plan",
       "link": "https://universultech.ro/linkjob-ai-dual-device-mode/",
@@ -71,15 +77,15 @@
       "link": "https://universultech.ro/asistenti-digitali-ai-site-uri-utile-utilizatori/",
       "date": "Sun, 12 Jul 2026 05:27:56 +0000",
       "summary": "Site-urile companiilor au evoluat mult în ultimii ani. La început, un site era în principal o carte de vizită online:&#8230; Articolul Asistenții digitali cu AI: cum devin site-urile mai utile pentru utilizatori apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "Cum îți afectează motorul mașinii un ulei de proastă calitate",
-      "link": "https://universultech.ro/cum-iti-afecteaza-motorul-masinii-un-ulei-de-proasta-calitate/",
-      "date": "Wed, 17 Jun 2026 08:42:45 +0000",
-      "summary": "Mulți șoferi acordă atenție consumului de combustibil, stării anvelopelor sau frecvenței reviziilor, însă nu întotdeauna acordă aceeași importanță uleiului de&#8230; Articolul Cum îți afectează motorul mașinii un ulei de proastă calitate apare prima dată în Universul Tech ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@UniversulTech/117633524108115497",
+      "date": "Tue, 17 Nov 2026 19:52:11 +0000",
+      "content": "💡Security365 reunește 4.870 de profiluri de companii, distribuitori, producători și resurse legislative pentru industria de securitate din România. ✅ https:// universultech.ro/security365-p rofiluri-de-companii/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@UniversulTech/117598091723239072",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@UniversulTech/116905350189205005",
       "date": "Sun, 12 Jul 2026 05:27:58 +0000",
       "content": "💡Site-urile companiilor au evoluat mult în ultimii ani. La început, un site era în principal o carte de vizită online: câteva pagini de prezentare, date de contact, o listă de servicii și eventual un formular. Astăzi, utilizatorii se așteaptă la mai mult. Vor răspunsuri rapide, informații clare și un traseu simplu până la acțiunea dorită.… ✅ https:// universultech.ro/asistenti-dig itali-ai-site-uri-utile-utilizatori/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@UniversulTech/116764558499068762",
-      "date": "Wed, 17 Jun 2026 08:42:48 +0000",
-      "content": "💡Mulți șoferi acordă atenție consumului de combustibil, stării anvelopelor sau frecvenței reviziilor, însă nu întotdeauna acordă aceeași importanță uleiului de motor. În realitate, acesta este unul dintre cele mai importante consumabile ale unei mașini. Rolul său nu se limitează la simpla lubrifiere a componentelor interne, ci contribuie la răcirea motorului, reducerea uzurii, prevenirea depunerilor și… ✅ https:// universultech.ro/cum-iti-afect eaza-motorul-masinii-un-ulei-de-proasta-calitate/"
     }
   ]
 }
