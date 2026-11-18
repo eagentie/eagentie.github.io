@@ -4,8 +4,14 @@
   "site_feed": "https://topcomunicate.ro/feed/",
   "mastodon": "https://social.5th.ro/@topcomunicate_ro",
   "mastodon_rss": "https://social.5th.ro/@topcomunicate_ro.rss",
-  "updated_at": "2026-11-18T13:03:24Z",
+  "updated_at": "2026-11-18T21:24:45Z",
   "site_posts": [
+    {
+      "title": "AutoEco: de ce același model de mașină poate avea trei piese diferite și cum o comanzi pe cea corectă",
+      "link": "https://topcomunicate.ro/acelasi-model-piese-diferite/",
+      "date": "Wed, 18 Nov 2026 15:07:56 +0000",
+      "summary": "Descopera de ce marca si modelul nu sunt suficiente si cum seria de caroserie te ajuta sa identifici piesa corecta pentru masina ta. The post AutoEco: de ce același model de mașină poate avea trei piese diferite și cum o comanzi pe cea corectă appeared first on Comunicate de presa ."
+    },
     {
       "title": "Boxele portabile: cum alegi un model care oferă volum, bass și autonomie bună",
       "link": "https://topcomunicate.ro/boxele-portabile-cum-alegi-un-model-care-ofera-volum-bass-si-autonomie-buna/",
@@ -71,15 +77,15 @@
       "link": "https://topcomunicate.ro/flony-gift-colectie-cadouri-craciun-2026/",
       "date": "Thu, 15 Oct 2026 04:13:03 +0000",
       "summary": "Colectia de Craciun 2026 include 45 de cosuri cadou segmentate pe destinatar, cu preturi de la 45 de lei si optiuni de personalizare. The post Flony Gift deschide sezonul de sărbători cu o colecție de 45 de pachete cadou appeared first on Comunicate de presa ."
-    },
-    {
-      "title": "De ce merită să verifici actele înainte de a oferi sau primi o procură",
-      "link": "https://topcomunicate.ro/verifica-procura-inainte/",
-      "date": "Sat, 10 Oct 2026 18:32:10 +0000",
-      "summary": "Verifici scopul, documentele si forma notariala inainte de semnare. Astfel eviti refacerea actului si intarzierile la institutii. The post De ce merită să verifici actele înainte de a oferi sau primi o procură appeared first on Comunicate de presa ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@topcomunicate_ro/117638068832492640",
+      "date": "Wed, 18 Nov 2026 15:07:58 +0000",
+      "content": "⭐ Descopera de ce marca si modelul nu sunt suficiente si cum seria de caroserie te ajuta sa identifici piesa corecta pentru masina ta. 🔗 Detalii aici: https:// topcomunicate.ro/acelasi-model -piese-diferite/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@topcomunicate_ro/117625104160929180",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@topcomunicate_ro/117442975240789029",
       "date": "Thu, 15 Oct 2026 04:13:06 +0000",
       "content": "⭐ Colectia de Craciun 2026 include 45 de cosuri cadou segmentate pe destinatar, cu preturi de la 45 de lei si optiuni de personalizare. 🔗 Mai mult: https:// topcomunicate.ro/flony-gift-co lectie-cadouri-craciun-2026/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@topcomunicate_ro/117418041816372607",
-      "date": "Sat, 10 Oct 2026 18:32:12 +0000",
-      "content": "⭐ Verifici scopul, documentele si forma notariala inainte de semnare. Astfel eviti refacerea actului si intarzierile la institutii. 🔗 Mai mult: https:// topcomunicate.ro/verifica-proc ura-inainte/"
     }
   ]
 }
