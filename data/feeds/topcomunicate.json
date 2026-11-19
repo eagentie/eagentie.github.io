@@ -4,8 +4,14 @@
   "site_feed": "https://topcomunicate.ro/feed/",
   "mastodon": "https://social.5th.ro/@topcomunicate_ro",
   "mastodon_rss": "https://social.5th.ro/@topcomunicate_ro.rss",
-  "updated_at": "2026-11-19T12:59:08Z",
+  "updated_at": "2026-11-19T21:29:05Z",
   "site_posts": [
+    {
+      "title": "Ofertă de angajare: întrebări înainte să accepți",
+      "link": "https://topcomunicate.ro/intrebari-inainte-sa-accepti-oferta/",
+      "date": "Thu, 19 Nov 2026 18:38:11 +0000",
+      "summary": "Titlul postului și salariul din anunț sunt doar începutul. Un ghid pentru verificarea responsabilităților, programului, condițiilor și documentelor. The post Ofertă de angajare: întrebări înainte să accepți appeared first on Comunicate de presa ."
+    },
     {
       "title": "Masina nu mai porneste, dar bateria este buna? Defectiunea ascunsa care iti poate da peste cap tot bugetul!",
       "link": "https://topcomunicate.ro/masina-nu-mai-porneste-dar-bateria-este-buna-defectiunea-ascunsa-care-iti-poate-da-peste-cap-tot-bugetul/",
@@ -71,15 +77,15 @@
       "link": "https://topcomunicate.ro/agricultura-pregatirea-culturilor-de-grau-si-rapita-pentru-iarna/",
       "date": "Thu, 22 Oct 2026 12:04:19 +0000",
       "summary": "Intrarea în iarnă este unul dintre momentele care decid, în bună măsură, cum va arăta o cultură... The post Agricultură, pregătirea culturilor de grâu și rapiță pentru iarnă appeared first on Comunicate de presa ."
-    },
-    {
-      "title": "Seri de film și muzică acasă: cum amenajezi un colț de relaxare confortabil?",
-      "link": "https://topcomunicate.ro/colt-de-relaxare-acasa/",
-      "date": "Thu, 22 Oct 2026 08:44:13 +0000",
-      "summary": "Descopera cum sa creezi un spatiu intim pentru filme si muzica. Ghid practic pentru sunet, lumina si confort in orice incapere. The post Seri de film și muzică acasă: cum amenajezi un colț de relaxare confortabil? appeared first on Comunicate de presa ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@topcomunicate_ro/117644557900328864",
+      "date": "Thu, 19 Nov 2026 18:38:13 +0000",
+      "content": "⭐ Titlul postului și salariul din anunț sunt doar începutul. Un ghid pentru verificarea responsabilităților, programului, condițiilor și documentelor. 🔗 Detalii aici: https:// topcomunicate.ro/intrebari-ina inte-sa-accepti-oferta/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@topcomunicate_ro/117642432652425385",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@topcomunicate_ro/117484464513188614",
       "date": "Thu, 22 Oct 2026 12:04:22 +0000",
       "content": "⭐ Intrarea în iarnă este unul dintre momentele care decid, în bună măsură, cum va arăta o cultură în primăvară. Grâul și rapița sunt culturi de toamnă, semănate cu câteva luni înainte de venirea gerului, iar felul în care ajung la prima perioadă rece influențează direct rezistența la iernare și potențialul de producție. Pregătirea lor nu… 🔗 Mai mult: https:// topcomunicate.ro/agricultura-p regatirea-culturilor-de-grau-si-rapita-pentru-iarna/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@topcomunicate_ro/117483677717377919",
-      "date": "Thu, 22 Oct 2026 08:44:16 +0000",
-      "content": "⭐ Descopera cum sa creezi un spatiu intim pentru filme si muzica. Ghid practic pentru sunet, lumina si confort in orice incapere. 🔗 Mai mult: https:// topcomunicate.ro/colt-de-relax are-acasa/"
     }
   ]
 }
