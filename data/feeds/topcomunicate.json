@@ -4,8 +4,14 @@
   "site_feed": "https://topcomunicate.ro/feed/",
   "mastodon": "https://social.5th.ro/@topcomunicate_ro",
   "mastodon_rss": "https://social.5th.ro/@topcomunicate_ro.rss",
-  "updated_at": "2026-11-19T03:22:15Z",
+  "updated_at": "2026-11-19T12:59:08Z",
   "site_posts": [
+    {
+      "title": "Masina nu mai porneste, dar bateria este buna? Defectiunea ascunsa care iti poate da peste cap tot bugetul!",
+      "link": "https://topcomunicate.ro/masina-nu-mai-porneste-dar-bateria-este-buna-defectiunea-ascunsa-care-iti-poate-da-peste-cap-tot-bugetul/",
+      "date": "Thu, 19 Nov 2026 09:37:42 +0000",
+      "summary": "Imagineaza-ti urmatoarea situatie: te urci dimineata la volan, introduci cheia in contact si astepti sa porneasca motorul.... The post Masina nu mai porneste, dar bateria este buna? Defectiunea ascunsa care iti poate da peste cap tot bugetul! appeared first on Comunicate de presa ."
+    },
     {
       "title": "AutoEco: de ce același model de mașină poate avea trei piese diferite și cum o comanzi pe cea corectă",
       "link": "https://topcomunicate.ro/acelasi-model-piese-diferite/",
@@ -71,15 +77,15 @@
       "link": "https://topcomunicate.ro/colt-de-relaxare-acasa/",
       "date": "Thu, 22 Oct 2026 08:44:13 +0000",
       "summary": "Descopera cum sa creezi un spatiu intim pentru filme si muzica. Ghid practic pentru sunet, lumina si confort in orice incapere. The post Seri de film și muzică acasă: cum amenajezi un colț de relaxare confortabil? appeared first on Comunicate de presa ."
-    },
-    {
-      "title": "Flony Gift deschide sezonul de sărbători cu o colecție de 45 de pachete cadou",
-      "link": "https://topcomunicate.ro/flony-gift-colectie-cadouri-craciun-2026/",
-      "date": "Thu, 15 Oct 2026 04:13:03 +0000",
-      "summary": "Colectia de Craciun 2026 include 45 de cosuri cadou segmentate pe destinatar, cu preturi de la 45 de lei si optiuni de personalizare. The post Flony Gift deschide sezonul de sărbători cu o colecție de 45 de pachete cadou appeared first on Comunicate de presa ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@topcomunicate_ro/117642432652425385",
+      "date": "Thu, 19 Nov 2026 09:37:44 +0000",
+      "content": "⭐ Imagineaza-ti urmatoarea situatie: te urci dimineata la volan, introduci cheia in contact si astepti sa porneasca motorul. Numai ca, de data aceasta, masina refuza sa porneasca. Bateria pare in regula, electromotorul functioneaza, dar ceva nu este cum trebuie. Dupa cateva verificari, mecanicul iti spune ca problema ar putea veni de la calculatorul 🔗 Detalii aici: https:// topcomunicate.ro/masina-nu-mai -porneste-dar-bateria-este-buna-defectiunea-ascunsa-care-iti-poate-da-peste-cap-tot-bugetul/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@topcomunicate_ro/117638068832492640",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@topcomunicate_ro/117483677717377919",
       "date": "Thu, 22 Oct 2026 08:44:16 +0000",
       "content": "⭐ Descopera cum sa creezi un spatiu intim pentru filme si muzica. Ghid practic pentru sunet, lumina si confort in orice incapere. 🔗 Mai mult: https:// topcomunicate.ro/colt-de-relax are-acasa/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@topcomunicate_ro/117442975240789029",
-      "date": "Thu, 15 Oct 2026 04:13:06 +0000",
-      "content": "⭐ Colectia de Craciun 2026 include 45 de cosuri cadou segmentate pe destinatar, cu preturi de la 45 de lei si optiuni de personalizare. 🔗 Mai mult: https:// topcomunicate.ro/flony-gift-co lectie-cadouri-craciun-2026/"
     }
   ]
 }

@@ -4,8 +4,14 @@
   "site_feed": "https://pentruoameni.ro/feed/",
   "mastodon": "https://social.5th.ro/@pentruoameni",
   "mastodon_rss": "https://social.5th.ro/@pentruoameni.rss",
-  "updated_at": "2026-11-19T03:22:08Z",
+  "updated_at": "2026-11-19T12:59:01Z",
   "site_posts": [
+    {
+      "title": "Mișcarea după 50 de ani: cum îți protejezi articulațiile și îți ții colesterolul sub control?",
+      "link": "https://pentruoameni.ro/miscare-dupa-50-de-ani/",
+      "date": "Thu, 19 Nov 2026 09:36:10 +0000",
+      "summary": "Descopera cum activitatea fizica blanda iti poate ajuta articulatiile si nivelul de colesterol dupa 50 de ani. Sfaturi practice pentru un inceput treptat. Articolul Mișcarea după 50 de ani: cum îți protejezi articulațiile și îți ții colesterolul sub control? apare prima dată în Pentru Oameni ."
+    },
     {
       "title": "Copiii cu boli grave și familiile lor au nevoie de sprijin dincolo de tratamentul medical. Un program național le oferă acces gratuit la recuperare",
       "link": "https://pentruoameni.ro/copii-boli-grave-au-nevoie-sprin/",
@@ -71,15 +77,15 @@
       "link": "https://pentruoameni.ro/cum-iti-dai-seama-daca-ai-nevoie-de-suplimente-pentru-imunitate-sau-doar-de-schimbarea-stilului-de-viata/",
       "date": "Wed, 01 Jul 2026 19:47:42 +0000",
       "summary": "Când oboseala se combină cu răceli dese sau cu perioade stresante, tentația este să alegi o pastilă care pare că rezolvă totul. În spatele acestor alegeri stau însă obiceiuri zilnice, alimentație, somn, stres și mișcare, care influențează mult mai mult decât pare felul în care funcționează organismul. Înainte să te îndrepți către un produs sau [&#8230;] Articolul Cum îți dai seama dacă ai nevoie de suplimente pentru imunitate sau doar de schimbarea stilului de viață apare prima dată în Pentru Oameni ."
-    },
-    {
-      "title": "Secretele unui meșter priceput: 5 factori de care să ții cont ca să alegi mașina de înșurubat perfectă",
-      "link": "https://pentruoameni.ro/secretele-unui-mester-priceput-5-factori-de-care-sa-tii-cont-ca-sa-alegi-masina-de-insurubat-perfecta/",
-      "date": "Wed, 24 Jun 2026 09:56:25 +0000",
-      "summary": "O mașină de înșurubat bună îți face proiectele mai rapide, mai curate și îți lasă energie pentru ideile următoare, nu pentru bătăi de cap. De la primul raft montat în apartament până la lucrări serioase în atelier, totul se schimbă când alegerea nu mai este la întâmplare, ci ghidată de aceleași criterii după care judecă [&#8230;] Articolul Secretele unui meșter priceput: 5 factori de care să ții cont ca să alegi mașina de înșurubat perfectă apare prima dată în Pentru Oameni ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@pentruoameni/117642426785417038",
+      "date": "Thu, 19 Nov 2026 09:36:15 +0000",
+      "content": "Descopera cum activitatea fizica blanda iti poate ajuta articulatiile si nivelul de colesterol dupa 50 de ani. Sfaturi practice pentru un inceput treptat. .... https:// pentruoameni.ro/miscare-dupa-5 0-de-ani/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@pentruoameni/117604301978967770",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@pentruoameni/116846445530055606",
       "date": "Wed, 01 Jul 2026 19:47:45 +0000",
       "content": "Când oboseala se combină cu răceli dese sau cu perioade stresante, tentația este să alegi o pastilă care pare că rezolvă totul. În spatele acestor alegeri stau însă obiceiuri zilnice, alimentație, somn, stres și mișcare, care influențează mult mai mult decât pare felul în care funcționează organismul. Înainte să te îndrepți către un produs sau… .... https:// pentruoameni.ro/cum-iti-dai-se ama-daca-ai-nevoie-de-suplimente-pentru-imunitate-sau-doar-de-schimbarea-stilului-de-viata/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@pentruoameni/116804484315831500",
-      "date": "Wed, 24 Jun 2026 09:56:27 +0000",
-      "content": "O mașină de înșurubat bună îți face proiectele mai rapide, mai curate și îți lasă energie pentru ideile următoare, nu pentru bătăi de cap. De la primul raft montat în apartament până la lucrări serioase în atelier, totul se schimbă când alegerea nu mai este la întâmplare, ci ghidată de aceleași criterii după care judecă… .... https:// pentruoameni.ro/secretele-unui -mester-priceput-5-factori-de-care-sa-tii-cont-ca-sa-alegi-masina-de-insurubat-perfecta/"
     }
   ]
 }
