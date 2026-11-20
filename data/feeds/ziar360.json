@@ -4,8 +4,14 @@
   "site_feed": "https://ziar360.ro/feed/",
   "mastodon": "https://social.5th.ro/@ziar360",
   "mastodon_rss": "https://social.5th.ro/@ziar360.rss",
-  "updated_at": "2026-11-20T11:31:24Z",
+  "updated_at": "2026-11-20T20:11:15Z",
   "site_posts": [
+    {
+      "title": "Ce documente emite corect un PFA cu venituri din mai multe surse",
+      "link": "https://ziar360.ro/ce-documente-emite-corect-un-pfa-cu-venituri-din-mai-multe-surse/",
+      "date": "Fri, 20 Nov 2026 10:57:26 +0000",
+      "summary": "Inveti cum sa distingi intre factura, bon fiscal si extras de cont pentru a documenta corect veniturile PFA-ului din diverse surse. Articolul Ce documente emite corect un PFA cu venituri din mai multe surse apare prima dată în Revista Antreprenorului . The post Ce documente emite corect un PFA cu venituri din mai multe surse appeared first on Ziar 360 ."
+    },
     {
       "title": "Care este cea mai apreciată pizza din București, din punct de vedere al recenziilor?",
       "link": "https://ziar360.ro/apreciata-pizza-bucuresti-recenziile/",
@@ -59,15 +65,15 @@
       "link": "https://ziar360.ro/divertisment-interactiv-rezultat/",
       "date": "Fri, 16 Oct 2026 11:13:04 +0000",
       "summary": "Tehnologia a adaugat statistici live si optiuni de participare. Afla cum interactiunea modifica perceptia asupra rezultatului in divertisment. The post Drumul contează, nu doar rezultatul: cum a devenit divertismentul mai interactiv appeared first on Ziar 360 ."
-    },
-    {
-      "title": "Explorat, platforma fondată în Suceava care oferă peste 400.000 de experiențe turistice",
-      "link": "https://ziar360.ro/explorat-platforma-fondata-in-suceava-care-ofera-peste-400000-de-experiente-turistice/",
-      "date": "Fri, 16 Oct 2026 11:11:52 +0000",
-      "summary": "Explorat - O platformă de rezervări fondată în Suceava de antreprenori români aduce la un loc experiențe turistice din întreaga lume. The post Explorat, platforma fondată în Suceava care oferă peste 400.000 de experiențe turistice appeared first on Ziar 360 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@ziar360/117649753365379883",
+      "date": "Fri, 20 Nov 2026 16:39:29 +0000",
+      "content": "📄&lt;div class=&quot;media_block&quot;&gt;&lt;a href=&quot; https:// ziar360.ro/wp-content/uploads/ 2026/11/ce-documente-emite-corect-un-pfa-cu-venituri-din-mai-multe-surse.jpg &quot;&gt;&lt;img src=&quot; https:// ziar360.ro/wp-content/uploads/ 2026/11/ce-documente-emite-corect-un-pfa-cu-venituri-din-mai-multe-surse.jpg &quot; class=&quot;media_thumbnail&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Inveti cum sa distingi intre factura, bon fiscal si extras de cont pentru a documenta corect 🌐 https:// ziar360.ro/ce-documente-emite- corect-un-pfa-cu-venituri-din-mai-multe-surse/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@ziar360/117625860128646721",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@ziar360/117449447072559088",
       "date": "Fri, 16 Oct 2026 07:38:58 +0000",
       "content": "📄Când un canal radicular este greu de localizat, tratamentul endodontic poate deveni mai complex decât părea inițial. Calcificarea, forma rădăcinilor sau particularitățile anatomice ale dintelui pot face dificilă identificarea traseului canalului, iar următorul pas nu este întotdeauna evident.În astfel de situații, microscopul poate oferi medicului o imagine mai detaliată asupra zonei de lucru, dar nu… 🌐 https:// ziar360.ro/canal-endodontic-gr eu-de-localizat-ce-poate-clarifica-microscopul/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@ziar360/117438637692857025",
-      "date": "Wed, 14 Oct 2026 09:50:00 +0000",
-      "content": "📄&lt;div class=&quot;media_block&quot;&gt;&lt;a href=&quot; https:// ziar360.ro/wp-content/uploads/ 2026/10/anul-acesta-re7consulting-implineste-11-ani.jpg &quot;&gt;&lt;img src=&quot; https:// ziar360.ro/wp-content/uploads/ 2026/10/anul-acesta-re7consulting-implineste-11-ani.jpg &quot; class=&quot;media_thumbnail&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Re7consulting sarbatoreste 11 ani de activitate. Afla cum combinam tehnologia cu relatia umana pentru a construi strategii de marketing eficiente.&lt;/p&gt; 🌐 https:// ziar360.ro/anul-acesta-re7cons ulting-implineste-11-ani/"
     }
   ]
 }
