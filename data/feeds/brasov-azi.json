@@ -4,8 +4,14 @@
   "site_feed": "https://brasov-azi.ro/feed/",
   "mastodon": "https://social.5th.ro/@brasov",
   "mastodon_rss": "https://social.5th.ro/@brasov.rss",
-  "updated_at": "2026-11-19T21:29:43Z",
+  "updated_at": "2026-11-20T03:10:14Z",
   "site_posts": [
+    {
+      "title": "Echipamente sportive second-hand: ce verifici",
+      "link": "https://brasov-azi.ro/echipamente-sportive-second-ce-verifici/",
+      "date": "Thu, 19 Nov 2026 21:31:49 +0000",
+      "summary": "O bicicletă, o undiță sau un accesoriu de antrenament folosit necesită verificări diferite. Un ghid pentru cumpărători responsabili. Articolul Echipamente sportive second-hand: ce verifici apare prima dată în Brasov AZI ."
+    },
     {
       "title": "Andrei, Andreea, Andra: cum sărbătorești onomastica atunci când toată lumea pleacă în minivacanță",
       "link": "https://brasov-azi.ro/onomastica-andrei-minivacanta/",
@@ -71,15 +77,15 @@
       "link": "https://brasov-azi.ro/de-ce-site-urile-construite-ieftin-costa-cel-mai-mult-pe-termen-lung-calculul-pe-care-nu-il-face-nimeni-la-inceput/",
       "date": "Thu, 05 Mar 2026 09:01:00 +0000",
       "summary": "Tentația economiei inițiale și capcana pe care o ascunde Există o tentație puternică și complet înțeleaptă în mediul antreprenorial românesc de a minimiza investiția inițială în infrastructura digitală, în special în fazele de lansare când bugetele sunt strânse și incertitudinile sunt mari. De ce să dai trei mii sau cinci mii de euro pe un [&#8230;] Articolul De ce site-urile construite ieftin costă cel mai mult pe termen lung: calculul pe care nu îl face nimeni la început apare prima dată în Brasov AZI ."
-    },
-    {
-      "title": "Ce responsabilități ai ca șofer de autobuz? Merită să obții permisul categoria D?",
-      "link": "https://brasov-azi.ro/ce-responsabilitati-ai-ca-sofer-de-autobuz-merita-sa-obtii-permisul-categoria-d/",
-      "date": "Tue, 03 Mar 2026 14:46:24 +0000",
-      "summary": "În România, dar și la nivel european, există un deficit major de șoferi profesioniști. Cererea pentru transportul de persoane a crescut semnificativ, iar companiile caută constant oameni bine pregătiți pentru a acoperi aceste posturi libere. Obținerea permisului categoria D deschide ușa către o carieră stabilă, atât în transportul public urban, cât și în cel turistic [&#8230;] Articolul Ce responsabilități ai ca șofer de autobuz? Merită să obții permisul categoria D? apare prima dată în Brasov AZI ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@brasov/117645240520502250",
+      "date": "Thu, 19 Nov 2026 21:31:49 +0000",
+      "content": "O bicicletă, o undiță sau un accesoriu de antrenament folosit necesită verificări diferite. Un ghid pentru cumpărători responsabili. https:// brasov-azi.ro/echipamente-spor tive-second-ce-verifici/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@brasov/117519703634055161",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@brasov/116765315329441237",
       "date": "Wed, 17 Jun 2026 11:55:16 +0000",
       "content": "Un ghid practic despre cum răspunzi mai atent la anunțuri online, ce întrebări trebuie să pui, cum verifici oferta și ce semne ar trebui tratate cu prudență. https:// brasov-azi.ro/cum-eviti-proble mele-cand-raspunzi-la-anunturi-online/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@brasov/116599656751961414",
-      "date": "Tue, 19 May 2026 05:46:07 +0000",
-      "content": "Curelele trapezoidale sunt unele dintre cele mai folosite componente în sistemele de transmisie mecanică. Le întâlnim în utilaje agricole, echipamente de grădinărit, compresoare, ventilatoare, pompe, mașini industriale și multe alte aplicații unde mișcarea trebuie transmisă eficient de la un arbore la altul. Chiar dacă par piese simple, alegerea corectă a unei curele poate https:// brasov-azi.ro/curele-trapezoid ale-tipuri-utilizari-si-cum-alegi-corect-pentru-utilaje-si-aplicatii-industriale/"
     }
   ]
 }
