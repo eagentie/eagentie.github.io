@@ -4,8 +4,14 @@
   "site_feed": "https://femeiaz.ro/feed/",
   "mastodon": "https://social.5th.ro/@femeiAZ",
   "mastodon_rss": "https://social.5th.ro/@femeiAZ.rss",
-  "updated_at": "2026-11-20T03:10:19Z",
+  "updated_at": "2026-11-20T11:31:37Z",
   "site_posts": [
+    {
+      "title": "Produse locale din anunțuri: ce verifici",
+      "link": "https://femeiaz.ro/2026/11/20/verifici-produse-locale/",
+      "date": "Fri, 20 Nov 2026 10:13:38 +0000",
+      "summary": "Un coș de produse locale poate conține articole diferite de la o ofertă la alta. Cere cantități, detalii și condiții de predare. Articolul Produse locale din anunțuri: ce verifici apare prima dată în Femei A-Z ."
+    },
     {
       "title": "Aur românesc de încredere: cum recunoști un brand de bijuterii serios",
       "link": "https://femeiaz.ro/2026/11/03/brand-de-bijuterii-serios/",
@@ -59,15 +65,15 @@
       "link": "https://femeiaz.ro/2026/07/31/peritonita-o-urgenta-chirurgicala-care-necesita-interventie-rapida/",
       "date": "Fri, 31 Jul 2026 08:32:01 +0000",
       "summary": "O durere abdominală bruscă și insuportabilă îți poate schimba viața în doar câteva ore. Această stare gravă indică adesea o&#8230; Articolul Peritonita: o urgență chirurgicală care necesită intervenție rapidă apare prima dată în Femei A-Z ."
-    },
-    {
-      "title": "De la simptom la sursă: cum schimbă brain mapping abordarea sănătății mintale",
-      "link": "https://femeiaz.ro/2026/06/10/de-la-simptom-la-sursa-cum-schimba-brain-mapping-abordarea-sanatatii-mintale/",
-      "date": "Wed, 10 Jun 2026 06:27:16 +0000",
-      "summary": "Timp îndelungat, evaluarea stării psihice s-a bazat aproape exclusiv pe ceea ce spune pacientul, adică, pe descrierea simptomelor, pe istoricul&#8230; Articolul De la simptom la sursă: cum schimbă brain mapping abordarea sănătății mintale apare prima dată în Femei A-Z ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@femeiAZ/117648236143990450",
+      "date": "Fri, 20 Nov 2026 10:13:38 +0000",
+      "content": "Un coș de produse locale poate conține articole diferite de la o ofertă la alta. Cere cantități, detalii și condiții de predare. https:// femeiaz.ro/2026/11/20/verifici -produse-locale/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@femeiAZ/117552633506644122",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@femeiAZ/116724389458905092",
       "date": "Wed, 10 Jun 2026 06:27:17 +0000",
       "content": "https:// femeiaz.ro/2026/06/10/de-la-si mptom-la-sursa-cum-schimba-brain-mapping-abordarea-sanatatii-mintale/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@femeiAZ/116658176742627954",
-      "date": "Fri, 29 May 2026 13:48:31 +0000",
-      "content": "Peste 20.000 de vizitatori au celebrat dreptul fiecarui copil de a conta In zilele de 23 si 24 mai 2026, Bucurestiul a gazduit cea mai importanta si frumoasa sarbatoare dedicata incluziunii copiilor, CONIL Fest 2026, editia cu tema &quot;Toti Copiii Conteaza&quot;. Evenimentul organizat de Asociația CONIL în parteneriat cu Circul Metropolitan București, s-a bucurat de… https:// femeiaz.ro/2026/05/29/conil-fe st-2026-o-lume-in-care-niciun-copil-nu-e-lasat-in-urma/"
     }
   ]
 }

@@ -4,8 +4,14 @@
   "site_feed": "https://topantreprenor.ro/feed/",
   "mastodon": "https://social.5th.ro/@topantreprenor",
   "mastodon_rss": "https://social.5th.ro/@topantreprenor.rss",
-  "updated_at": "2026-11-20T03:11:05Z",
+  "updated_at": "2026-11-20T11:32:12Z",
   "site_posts": [
+    {
+      "title": "Piese auto second-hand: verificarea compatibilității",
+      "link": "https://topantreprenor.ro/verificarea-compatibilitatii-piese-auto/",
+      "date": "Fri, 20 Nov 2026 06:52:44 +0000",
+      "summary": "O piesă care arată identic poate să nu fie compatibilă cu vehiculul tău. Cum reduci riscul unei achiziții greșite. The post Piese auto second-hand: verificarea compatibilității appeared first on Top Antreprenor ."
+    },
     {
       "title": "Ai o Dacia si ti s-a stricat ceva la ea? Trucul pe care multi soferi il descopera abia dupa ce au cheltuit o avere!",
       "link": "https://topantreprenor.ro/ai-o-dacia-si-ti-s-a-stricat-ceva-la-ea-trucul-pe-care-multi-soferi-il-descopera-abia-dupa-ce-au-cheltuit-o-avere/",
@@ -59,15 +65,15 @@
       "link": "https://topantreprenor.ro/un-interior-ingrijit-nu-inseamna-doar-scaune-curate/",
       "date": "Fri, 23 Oct 2026 05:00:04 +0000",
       "summary": "Mașina folosită pentru întâlniri profesionale: ce include, de fapt, detailingul interior OradeaCuAbur Un automobil folosit pentru deplasări profesionale combină materiale care reacționează diferit la curățare. Înainte de a alege un pachet de detailing interior auto în Oradea, merită clarificat ce intră în serviciu: scaune, banchetă, plafon, podea, portbagaj sau suprafețe de contact. Un interior îngrijit [&#8230;] The post Un interior îngrijit nu înseamnă doar scaune curate appeared first on Top Antreprenor ."
-    },
-    {
-      "title": "3 cărți românești contemporane care merită descoperite",
-      "link": "https://topantreprenor.ro/carti-romaneesti-contemporane/",
-      "date": "Tue, 13 Oct 2026 19:42:40 +0000",
-      "summary": "O selectie de trei volume romanesti care exploreaza memoria, satira si poezia. Citeste despre autori care scriu dincolo de topurile de vanzari. The post 3 cărți românești contemporane care merită descoperite appeared first on Top Antreprenor ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@topantreprenor/117647446140825589",
+      "date": "Fri, 20 Nov 2026 06:52:44 +0000",
+      "content": "📰O piesă care arată identic poate să nu fie compatibilă cu vehiculul tău. Cum reduci riscul unei achiziții greșite. 🌐 https:// topantreprenor.ro/verificarea- compatibilitatii-piese-auto/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@topantreprenor/117642425673905597",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@topantreprenor/117418045807962215",
       "date": "Sat, 10 Oct 2026 18:33:13 +0000",
       "content": "📰Gestiuni simple din rutina zilnica pot influenta sanatatea dintilor. Afla cum sa previi problemele si cand sa cauti ajutor profesional. 🌐 https:// topantreprenor.ro/obiceiuri-ca re-pot-schimba-igiena-orala/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@topantreprenor/117369670827621441",
-      "date": "Fri, 02 Oct 2026 05:30:49 +0000",
-      "content": "📰Descopera de ce profilul ingust poate transmite mai multa putere in aceeasi latime. Verifica parametrii tehnici inainte de a schimba cureaua. 🌐 https:// topantreprenor.ro/curele-trape zoidale-clasic-vingust/"
     }
   ]
 }

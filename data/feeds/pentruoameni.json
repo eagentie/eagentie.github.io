@@ -4,8 +4,14 @@
   "site_feed": "https://pentruoameni.ro/feed/",
   "mastodon": "https://social.5th.ro/@pentruoameni",
   "mastodon_rss": "https://social.5th.ro/@pentruoameni.rss",
-  "updated_at": "2026-11-20T03:09:10Z",
+  "updated_at": "2026-11-20T11:30:57Z",
   "site_posts": [
+    {
+      "title": "Echipamente pentru studiu second-hand: ce verifici",
+      "link": "https://pentruoameni.ro/echipamente-studiu-second-hand/",
+      "date": "Fri, 20 Nov 2026 06:52:56 +0000",
+      "summary": "Un spațiu de studiu funcțional nu are nevoie de obiecte scumpe. Ce verifici la echipamentele folosite înainte să cheltuiești bugetul. Articolul Echipamente pentru studiu second-hand: ce verifici apare prima dată în Pentru Oameni ."
+    },
     {
       "title": "Mișcarea după 50 de ani: cum îți protejezi articulațiile și îți ții colesterolul sub control?",
       "link": "https://pentruoameni.ro/miscare-dupa-50-de-ani/",
@@ -71,15 +77,15 @@
       "link": "https://pentruoameni.ro/secretele-unui-zambet-fara-cusur-cauzele-ascunse-ale-cariilor-si-sfaturi-de-gestionare-moderna/",
       "date": "Mon, 20 Jul 2026 18:25:48 +0000",
       "summary": "Să înțelegi de ce apar cariile și cum le poți gestiona eficient nu este doar o chestiune de estetică, ci o investiție directă în calitatea vieții tale și în sănătatea întregului organism. Pentru a te ajuta să preiei controlul total asupra sănătății tale orale, iată principalele beneficii și informații pe care le vei descoperi: Mecanismul [&#8230;] Articolul Secretele unui zâmbet fără cusur: Cauzele ascunse ale cariilor și sfaturi de gestionare modernă apare prima dată în Pentru Oameni ."
-    },
-    {
-      "title": "Cum îți dai seama dacă ai nevoie de suplimente pentru imunitate sau doar de schimbarea stilului de viață",
-      "link": "https://pentruoameni.ro/cum-iti-dai-seama-daca-ai-nevoie-de-suplimente-pentru-imunitate-sau-doar-de-schimbarea-stilului-de-viata/",
-      "date": "Wed, 01 Jul 2026 19:47:42 +0000",
-      "summary": "Când oboseala se combină cu răceli dese sau cu perioade stresante, tentația este să alegi o pastilă care pare că rezolvă totul. În spatele acestor alegeri stau însă obiceiuri zilnice, alimentație, somn, stres și mișcare, care influențează mult mai mult decât pare felul în care funcționează organismul. Înainte să te îndrepți către un produs sau [&#8230;] Articolul Cum îți dai seama dacă ai nevoie de suplimente pentru imunitate sau doar de schimbarea stilului de viață apare prima dată în Pentru Oameni ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@pentruoameni/117647447212607272",
+      "date": "Fri, 20 Nov 2026 06:53:00 +0000",
+      "content": "Un spațiu de studiu funcțional nu are nevoie de obiecte scumpe. Ce verifici la echipamentele folosite înainte să cheltuiești bugetul. .... https:// pentruoameni.ro/echipamente-st udiu-second-hand/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@pentruoameni/117642426785417038",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@pentruoameni/116953707428301848",
       "date": "Mon, 20 Jul 2026 18:25:51 +0000",
       "content": "Să înțelegi de ce apar cariile și cum le poți gestiona eficient nu este doar o chestiune de estetică, ci o investiție directă în calitatea vieții tale și în sănătatea întregului organism. Pentru a te ajuta să preiei controlul total asupra sănătății tale orale, iată principalele beneficii și informații pe care le vei descoperi:Mecanismul biologic… .... https:// pentruoameni.ro/secretele-unui -zambet-fara-cusur-cauzele-ascunse-ale-cariilor-si-sfaturi-de-gestionare-moderna/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@pentruoameni/116846445530055606",
-      "date": "Wed, 01 Jul 2026 19:47:45 +0000",
-      "content": "Când oboseala se combină cu răceli dese sau cu perioade stresante, tentația este să alegi o pastilă care pare că rezolvă totul. În spatele acestor alegeri stau însă obiceiuri zilnice, alimentație, somn, stres și mișcare, care influențează mult mai mult decât pare felul în care funcționează organismul. Înainte să te îndrepți către un produs sau… .... https:// pentruoameni.ro/cum-iti-dai-se ama-daca-ai-nevoie-de-suplimente-pentru-imunitate-sau-doar-de-schimbarea-stilului-de-viata/"
     }
   ]
 }
