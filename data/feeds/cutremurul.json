@@ -4,8 +4,14 @@
   "site_feed": "https://cutremurul.ro/feed/",
   "mastodon": "https://social.5th.ro/@cutremur",
   "mastodon_rss": "https://social.5th.ro/@cutremur.rss",
-  "updated_at": "2026-11-21T01:29:42Z",
+  "updated_at": "2026-11-21T09:45:16Z",
   "site_posts": [
+    {
+      "title": "Cutremur Vrancea 21-11-2026 ora 05:26",
+      "link": "https://cutremurul.ro/cutremur-vrancea-21-11-2026-ora-0526",
+      "date": "Sat, 21 Nov 2026 03:26:26 GMT",
+      "summary": ""
+    },
     {
       "title": "Animalele de companie la cutremur: ce pregătești și ce faci",
       "link": "https://cutremurul.ro/animale-de-companie-la-cutremur",
@@ -71,12 +77,6 @@
       "link": "https://cutremurul.ro/cutremure-de-adancime-intermediara",
       "date": "Thu, 19 Nov 2026 22:33:30 GMT",
       "summary": "Ce este un cutremur de adâncime intermediară, la ce adâncimi se produc cutremurele din Vrancea și de ce se simt pe suprafețe mari, după INFP și USGS."
-    },
-    {
-      "title": "De ce același cutremur are magnitudini diferite",
-      "link": "https://cutremurul.ro/magnitudinea-unui-cutremur",
-      "date": "Thu, 19 Nov 2026 22:33:30 GMT",
-      "summary": "Cutremurul din 18 noiembrie 2026 a avut 5,7 la INFP și 5,3 la EMSC. Ce înseamnă ML și Mw, de ce valorile diferă și ce valoare afișează fișa noastră."
     }
   ],
   "mastodon_posts": [
