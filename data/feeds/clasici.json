@@ -4,81 +4,8 @@
   "site_feed": "https://clasici.ro/feed/",
   "mastodon": "https://social.5th.ro/@clasici",
   "mastodon_rss": "https://social.5th.ro/@clasici.rss",
-  "updated_at": "2026-11-23T07:45:16Z",
-  "site_posts": [
-    {
-      "title": "Ce documente emite corect un PFA cu venituri din mai multe surse",
-      "link": "https://clasici.ro/ce-documente-emite-corect-un-pfa-cu-venituri-din-mai-multe-surse/",
-      "date": "Fri, 20 Nov 2026 10:57:26 +0000",
-      "summary": "Un PFA poate obține venituri din servicii prestate firmelor, vânzări online, colaborări cu platforme, cursuri,..."
-    },
-    {
-      "title": "Cum alegi piesele de Crăciun potrivite pentru cursul de canto? 7 sfaturi utile",
-      "link": "https://clasici.ro/cum-alegi-piesele-de-craciun-potrivite-pentru-cursul-de-canto-7-sfaturi-utile/",
-      "date": "Mon, 16 Nov 2026 15:04:51 +0000",
-      "summary": "Sărbătorile de iarnă sunt o perioadă specială pentru cei care iubesc muzica. Colindele și cântecele..."
-    },
-    {
-      "title": "Cum îngrijești lenjeria delicată ca să reziste mai mult: 7 pași practici",
-      "link": "https://clasici.ro/ingrijire-lenjeria-delicata/",
-      "date": "Thu, 22 Oct 2026 11:32:12 +0000",
-      "summary": "Invaata sa ingrijesti lenjeria delicata cu 7 pasi simpli, de la spalare la depozitare. Pastrai piesele tale preferate in stare buna mai mult timp."
-    },
-    {
-      "title": "Scaunele tapițate din zona de dining: de ce nu se curăță întotdeauna toate la fel",
-      "link": "https://clasici.ro/scaunele-tapitate-din-zona-de-dining-de-ce-nu-se-curata-intotdeauna-toate-la-fel/",
-      "date": "Mon, 19 Oct 2026 04:46:15 +0000",
-      "summary": "O curățare profesională a tapițeriei &#238;ncepe cu identificarea materialului și a problemei, nu cu aplicarea..."
-    },
-    {
-      "title": "Anul acesta, re7consulting împlinește 11 ani.",
-      "link": "https://clasici.ro/anul-acesta-re7consulting-implineste-11-ani/",
-      "date": "Wed, 14 Oct 2026 08:37:32 +0000",
-      "summary": "11 ani în care am lucrat cu sute de businessuri, am cunoscut antreprenori extraordinari, am..."
-    },
-    {
-      "title": "Motoare trifazate cu talpă sau cu flanșă: cum alegi tipul de montaj",
-      "link": "https://clasici.ro/motoare-trifazate-cu-talpa-sau-cu-flansa-cum-alegi-tipul-de-montaj/",
-      "date": "Fri, 02 Oct 2026 05:27:11 +0000",
-      "summary": "Ai ales puterea, turația și tensiunea motorului, dar mai rămâne o întrebare: cum îl prinzi..."
-    },
-    {
-      "title": "AMOLED vs. OLED vs. TFT/LCD: Care e diferența, ce ecran este mai rezistent și de ce au toate nevoie de protecție?",
-      "link": "https://clasici.ro/amoled-vs-oled-vs-tft-lcd-care-e-diferenta-ce-ecran-este-mai-rezistent-si-de-ce-au-toate-nevoie-de-protectie/",
-      "date": "Thu, 01 Oct 2026 15:46:49 +0000",
-      "summary": "Când vine vorba de ecranul smartphone-ului tău, tehnologia folosită influențează direct totul: de la intensitatea..."
-    },
-    {
-      "title": "Negociere preț second hand: cum faci o ofertă corectă fără să pierzi produsul",
-      "link": "https://clasici.ro/negociere-pret-second-hand-oferta-corecta/",
-      "date": "Sat, 12 Sep 2026 09:34:20 +0000",
-      "summary": "Negocierea unui produs second-hand nu înseamnă să oferi automat cel mai mic preț posibil. Un cumpărător bine pregătit verifică piața, starea produsului, accesoriile și costurile reale înainte să propună o sumă."
-    },
-    {
-      "title": "Rindeaua electrică: scula care poate transforma rapid o bucată de lemn într-o piesă bine finisată",
-      "link": "https://clasici.ro/rindeaua-electrica-scula-care-poate-transforma-rapid-o-bucata-de-lemn-intr-o-piesa-bine-finisata/",
-      "date": "Tue, 25 Aug 2026 13:30:33 +0000",
-      "summary": "Prelucrarea lemnului cere răbdare, dar și scule potrivite. O ușă care freacă în toc, o..."
-    },
-    {
-      "title": "Castig, banda si zgomot: parametrii esentiali ai unui amplificator de semnal",
-      "link": "https://clasici.ro/castig-banda-si-zgomot-parametrii-esentiali-ai-unui-amplificator-de-semnal/",
-      "date": "Tue, 04 Aug 2026 20:19:24 +0000",
-      "summary": "Un amplificator nu este potrivit doar pentru ca poate mari un semnal de zece ori...."
-    },
-    {
-      "title": "Invatarea prin joaca. Importanta grădiniței în dezvoltarea copilului",
-      "link": "https://clasici.ro/invatarea-prin-joaca-importanta-gradinitei-in-dezvoltarea-copilului/",
-      "date": "Tue, 04 Aug 2026 20:12:29 +0000",
-      "summary": "Primii ani din viata unui copil reprezinta o perioada de maxima plasticitate cerebrala, un interval..."
-    },
-    {
-      "title": "Laparoscopia: când este recomandată și ce avantaje oferă",
-      "link": "https://clasici.ro/laparoscopia-cand-este-recomandata-si-ce-avantaje-ofera/",
-      "date": "Fri, 31 Jul 2026 08:32:01 +0000",
-      "summary": "Gândul la o intervenție chirurgicală provoacă anxietate oricărui pacient. Inciziile mari, durerile intense și spitalizarea..."
-    }
-  ],
+  "updated_at": "2026-11-23T20:11:14Z",
+  "site_posts": [],
   "mastodon_posts": [
     {
       "title": "",

@@ -4,8 +4,14 @@
   "site_feed": "https://topantreprenor.ro/feed/",
   "mastodon": "https://social.5th.ro/@topantreprenor",
   "mastodon_rss": "https://social.5th.ro/@topantreprenor.rss",
-  "updated_at": "2026-11-23T07:45:37Z",
+  "updated_at": "2026-11-23T20:11:36Z",
   "site_posts": [
+    {
+      "title": "Cum aleg firmele un program de facturare potrivit?",
+      "link": "https://topantreprenor.ro/cum-aleg-firmele-un-program-de-facturare-potrivit",
+      "date": "Mon, 23 Nov 2026 13:59:45 GMT",
+      "summary": ""
+    },
     {
       "title": "Ai o Dacia si ti s-a stricat ceva la ea? Trucul pe care multi soferi il descopera abia dupa ce au cheltuit o avere!",
       "link": "https://topantreprenor.ro/ai-o-dacia-si-ti-s-a-stricat-ceva-la-ea-trucul-pe-care-multi-soferi-il-descopera-abia-dupa-ce-au-cheltuit-o-avere",
@@ -71,12 +77,6 @@
       "link": "https://topantreprenor.ro/obiceiuri-care-pot-schimba-igiena-orala",
       "date": "Sat, 10 Oct 2026 18:33:12 GMT",
       "summary": "Descopera cum obiceiurile zilnice pot schimba igiena orala. Afla ce gesturi simple iti protejeaza dintii pe termen lung si cand sa mergi la dentist."
-    },
-    {
-      "title": "Curele trapezoidale clasice sau înguste: diferențe de performanță și randament",
-      "link": "https://topantreprenor.ro/curele-trapezoidale-clasic-vingust",
-      "date": "Fri, 02 Oct 2026 05:30:49 GMT",
-      "summary": "Afla cum alegi intre profilele clasice si cele inguste pentru transmisii prin curele. Compara puterea, spatiul si durabilitatea in functie de aplicatie."
     }
   ],
   "mastodon_posts": [

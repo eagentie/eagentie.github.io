@@ -4,7 +4,7 @@
   "site_feed": "https://topcomunicate.ro/feed/",
   "mastodon": "https://social.5th.ro/@topcomunicate_ro",
   "mastodon_rss": "https://social.5th.ro/@topcomunicate_ro.rss",
-  "updated_at": "2026-11-23T07:44:22Z",
+  "updated_at": "2026-11-23T20:10:11Z",
   "site_posts": [
     {
       "title": "Ofertă de angajare: întrebări înainte să accepți",
@@ -55,12 +55,6 @@
       "summary": ""
     },
     {
-      "title": "Uscător de mâini sau prosoape de hârtie?",
-      "link": "https://topcomunicate.ro/uscator-de-maini-sau-prosoape-de-hartie-3",
-      "date": "Mon, 26 Oct 2026 19:40:00 GMT",
-      "summary": ""
-    },
-    {
       "title": "Cum compari două oferte de curățare a colțarului fără să te uiți doar la preț",
       "link": "https://topcomunicate.ro/cum-compari-doua-oferte-de-curatare-a-coltarului-fara-sa-te-uiti-doar-la-pret",
       "date": "Mon, 26 Oct 2026 11:42:57 GMT",
@@ -77,6 +71,12 @@
       "link": "https://topcomunicate.ro/agricultura-pregatirea-culturilor-de-grau-si-rapita-pentru-iarna",
       "date": "Thu, 22 Oct 2026 12:04:19 GMT",
       "summary": ""
+    },
+    {
+      "title": "Seri de film și muzică acasă: cum amenajezi un colț de relaxare confortabil?",
+      "link": "https://topcomunicate.ro/colt-de-relaxare-acasa",
+      "date": "Thu, 22 Oct 2026 08:44:13 GMT",
+      "summary": "Descopera cum sa creezi un spatiu intim pentru filme si muzica. Ghid practic pentru sunet, lumina si confort in orice incapere."
     }
   ],
   "mastodon_posts": [

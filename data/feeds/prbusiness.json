@@ -4,8 +4,14 @@
   "site_feed": "https://prbusiness.ro/feed/",
   "mastodon": "https://social.5th.ro/@prbusiness",
   "mastodon_rss": "https://social.5th.ro/@prbusiness.rss",
-  "updated_at": "2026-11-23T07:45:27Z",
+  "updated_at": "2026-11-23T20:11:26Z",
   "site_posts": [
+    {
+      "title": "Cum aleg firmele un program de facturare potrivit?",
+      "link": "https://prbusiness.ro/cum-aleg-firmele-un-program-de-facturare-potrivit/",
+      "date": "Mon, 23 Nov 2026 13:30:35 +0000",
+      "summary": "Digitalizarea proceselor administrative a devenit o preocupare importantă pentru companiile din România. Facturile, ofertele, documentele comerciale și transmiterea The post Cum aleg firmele un program de facturare potrivit? appeared first on PR Business ."
+    },
     {
       "title": "Ti s-a stricat masina si mecanicul ti-a spus cat costa reparatia? Nu te grabi sa scoti banii din buzunar!",
       "link": "https://prbusiness.ro/ti-s-a-stricat-masina-si-mecanicul-ti-a-spus-cat-costa-reparatia-nu-te-grabi-sa-scoti-banii-din-buzunar/",
@@ -71,15 +77,15 @@
       "link": "https://prbusiness.ro/unde-trebuie-montat-corect-detectorul-de-gpl-intr-o-bucatarie/",
       "date": "Mon, 22 Jun 2026 14:03:01 +0000",
       "summary": "Detectorul de GPL poate preveni situații periculoase &#238;ntr-o bucătărie unde se folosește butelie, plită, aragaz sau alt consumator The post Unde trebuie montat corect detectorul de GPL într-o bucătărie appeared first on PR Business ."
-    },
-    {
-      "title": "De ce a devenit tâmplăria din aluminiu o opțiune aleasă adesea în construcțiile premium",
-      "link": "https://prbusiness.ro/de-ce-a-devenit-tamplaria-din-aluminiu-o-optiune-aleasa-adesea-in-constructiile-premium/",
-      "date": "Mon, 22 Jun 2026 12:42:28 +0000",
-      "summary": "C&#226;nd analizezi proiectele imobiliare noi, observi o schimbare &#238;n alegerea materialelor. Dezvoltatorii și proprietarii de case se orientează The post De ce a devenit tâmplăria din aluminiu o opțiune aleasă adesea în construcțiile premium appeared first on PR Business ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@prbusiness/117665997593417597",
+      "date": "Mon, 23 Nov 2026 13:30:37 +0000",
+      "content": "Digitalizarea proceselor administrative a devenit o preocupare importantă pentru companiile din România. Facturile, ofertele, documentele comerciale și transmiterea acestora prin sistemul RO e-Factura presupun operațiuni care trebuie gestionate constant. Pentru firmele care vor să reducă timpul petrecut cu activitățile administrative, alegerea unui program de facturare potrivit poate face diferența. În .... More details at: https:// prbusiness.ro/cum-aleg-firmele -un-program-de-facturare-potrivit/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@prbusiness/117642423618889831",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@prbusiness/116799305362203029",
       "date": "Tue, 23 Jun 2026 11:59:23 +0000",
       "content": "Dr. Bogdan Serban explică, pentru pacienți din București, ce afecțiuni pot fi evaluate chirurgical. Informații despre hernie strangulată și când merită o .... Read more at: https:// prbusiness.ro/hernia-strangula ta-simptome-de-alarma-si-riscuri-daca-amani-operatia/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@prbusiness/116794868414393495",
-      "date": "Mon, 22 Jun 2026 17:11:00 +0000",
-      "content": "Detectorul de GPL poate preveni situații periculoase într-o bucătărie unde se folosește butelie, plită, aragaz sau alt consumator alimentat cu gaz lichefiat. Rolul lui este să sesizeze acumularea gazului înainte ca acesta să ajungă la o concentrație riscantă. Pentru ca aparatul să funcționeze corect, poziția de montaj contează foarte mult. GPL-ul are un comportament diferit… .... Read more at: https:// prbusiness.ro/unde-trebuie-mon tat-corect-detectorul-de-gpl-intr-o-bucatarie/"
     }
   ]
 }
