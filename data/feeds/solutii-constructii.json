@@ -4,8 +4,14 @@
   "site_feed": "https://solutii-constructii.ro/feed/",
   "mastodon": "https://social.5th.ro/@SolutiiConstructii",
   "mastodon_rss": "https://social.5th.ro/@SolutiiConstructii.rss",
-  "updated_at": "2026-11-24T04:46:39Z",
+  "updated_at": "2026-11-24T15:52:12Z",
   "site_posts": [
+    {
+      "title": "Mocheta într-o locuință amenajată: cum decizi când are nevoie de curățare",
+      "link": "https://solutii-constructii.ro/mocheta-curatare-decizie/",
+      "date": "Sun, 22 Nov 2026 06:53:00 +0000",
+      "summary": "Diferentele de aspect la mochetata pot fi cauzate de trafic sau uzura. Verifica fibra si accesul pentru a stabili daca este nevoie de o interventie specifica. Articolul Mocheta într-o locuință amenajată: cum decizi când are nevoie de curățare apare prima dată în Solutii Constructii ."
+    },
     {
       "title": "10 semne că pardoseala ta are probleme din cauza umezelii",
       "link": "https://solutii-constructii.ro/semne-umezeala-pardoseala/",
@@ -71,15 +77,15 @@
       "link": "https://solutii-constructii.ro/cum-alegi-centrala-termica-potrivita-pentru-casa-ta-gaz-electrica-sau-pe-combustibil-solid/",
       "date": "Tue, 15 Sep 2026 13:45:00 +0000",
       "summary": "Alege Simplex, suntem un distribuitor de echipamente pentru încălzire și instalații sanitare, pornește de la o regulă simplă: Articolul Cum alegi centrala termică potrivită pentru casa ta: gaz, electrică sau pe combustibil solid apare prima dată în Solutii Constructii ."
-    },
-    {
-      "title": "Cum alegi dimensiunea unui calorifer vertical în funcție de spațiul disponibil și necesarul termic",
-      "link": "https://solutii-constructii.ro/calorifer-vertical-necesar-termic/",
-      "date": "Mon, 14 Sep 2026 15:58:59 +0000",
-      "summary": "Dimensiunea fizică a radiatorului nu garantează eficiența. Înveți cum să verifici puterea reală în funcție de Delta T și de izolația încăperii. Articolul Cum alegi dimensiunea unui calorifer vertical în funcție de spațiul disponibil și necesarul termic apare prima dată în Solutii Constructii ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@SolutiiConstructii/117670097952115169",
+      "date": "Tue, 24 Nov 2026 06:53:23 +0000",
+      "content": "Diferentele de aspect la mochetata pot fi cauzate de trafic sau uzura. Verifica fibra si accesul pentru a stabili daca este nevoie de o interventie specifica. ... 🌐 Vezi: https:// solutii-constructii.ro/mocheta -curatare-decizie/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@SolutiiConstructii/117643583484067532",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@SolutiiConstructii/117282598429696766",
       "date": "Wed, 16 Sep 2026 20:27:10 +0000",
       "content": "O casă neterminată poate părea o oportunitate bună, dar prețul de cumpărare este doar începutul. Structura, acoperișul, instalațiile, actele și costul real al lucrărilor rămase trebuie verificate înainte de ofertă. ... 🌐 Citeste: https:// solutii-constructii.ro/casa-ne terminata-ce-verifici-inainte-sa-cumperi/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@SolutiiConstructii/117270219293802503",
-      "date": "Mon, 14 Sep 2026 15:58:59 +0000",
-      "content": "Dimensiunea fizică a radiatorului nu garantează eficiența. Înveți cum să verifici puterea reală în funcție de Delta T și de izolația încăperii. ... 🌐 Urmareste: https:// solutii-constructii.ro/calorif er-vertical-necesar-termic/"
     }
   ]
 }

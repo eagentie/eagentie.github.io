@@ -4,8 +4,14 @@
   "site_feed": "https://pentruoameni.ro/feed/",
   "mastodon": "https://social.5th.ro/@pentruoameni",
   "mastodon_rss": "https://social.5th.ro/@pentruoameni.rss",
-  "updated_at": "2026-11-24T04:45:33Z",
+  "updated_at": "2026-11-24T15:50:48Z",
   "site_posts": [
+    {
+      "title": "870 de stejari plantați în Pădurea Balta Neagră, Snagov",
+      "link": "https://pentruoameni.ro/870-de-stejari-plantati-in-padurea-balta-neagra-snagov-in-cadrul-unei/",
+      "date": "Tue, 24 Nov 2026 08:07:35 +0000",
+      "summary": "Oxigen Travel Nature SRL, împreună cu voluntarii Asociației Oxigen, a organizat sâmbătă, 14 noiembrie 2026, începând cu ora 08:00, o acțiune de plantare, susțiunută de Dev HD. Articolul 870 de stejari plantați în Pădurea Balta Neagră, Snagov apare prima dată în Pentru Oameni ."
+    },
     {
       "title": "Echipamente pentru studiu second-hand: ce verifici",
       "link": "https://pentruoameni.ro/echipamente-studiu-second-hand/",
@@ -71,15 +77,15 @@
       "link": "https://pentruoameni.ro/lansarea-proiectului-o-noua-sansa-independentei/",
       "date": "Tue, 04 Aug 2026 13:44:40 +0000",
       "summary": "COMUNICAT DE PRESĂ Lansarea proiectului &#8222;O nouă șansă independenței&#8221; &#8211; Cod SMIS 354321 ASOCIAȚIA IZVORUL TĂMĂDUIRII MAVROGHENI, &#238;n parteneriat cu CENTRUL ROM&#194;N PENTRU EDUCAȚIE ȘI DEZVOLTARE UMANĂ (CRED) și ASOCIAȚIA &#8222;CENTRUL DE PERFORMANȚĂ BEFORE &#38; AFTER SCHOOL CONIL&#8221;, anunță lansarea proiectului &#8222;O nouă șansă independenței&#8221;, Cod SMIS 354321, cofinanțat de Uniunea Europeană prin Programul Incluziune [&#8230;] Articolul Lansarea proiectului „O nouă șansă independenței” apare prima dată în Pentru Oameni ."
-    },
-    {
-      "title": "Secretele unui zâmbet fără cusur: Cauzele ascunse ale cariilor și sfaturi de gestionare modernă",
-      "link": "https://pentruoameni.ro/secretele-unui-zambet-fara-cusur-cauzele-ascunse-ale-cariilor-si-sfaturi-de-gestionare-moderna/",
-      "date": "Mon, 20 Jul 2026 18:25:48 +0000",
-      "summary": "Să înțelegi de ce apar cariile și cum le poți gestiona eficient nu este doar o chestiune de estetică, ci o investiție directă în calitatea vieții tale și în sănătatea întregului organism. Pentru a te ajuta să preiei controlul total asupra sănătății tale orale, iată principalele beneficii și informații pe care le vei descoperi: Mecanismul [&#8230;] Articolul Secretele unui zâmbet fără cusur: Cauzele ascunse ale cariilor și sfaturi de gestionare modernă apare prima dată în Pentru Oameni ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@pentruoameni/117670390021981570",
+      "date": "Tue, 24 Nov 2026 08:07:40 +0000",
+      "content": "Oxigen Travel Nature SRL, împreună cu voluntarii Asociației Oxigen, a organizat sâmbătă, 14 noiembrie 2026, începând cu ora 08:00, o acțiune de plantare, susțiunută de Dev HD. .... https:// pentruoameni.ro/870-de-stejari -plantati-in-padurea-balta-neagra-snagov-in-cadrul-unei/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@pentruoameni/117647447212607272",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@pentruoameni/117038263807226659",
       "date": "Tue, 04 Aug 2026 16:49:39 +0000",
       "content": "COMUNICAT DE PRESĂ Lansarea proiectului „O nouă șansă independenței” – Cod SMIS 354321 ASOCIAȚIA IZVORUL TĂMĂDUIRII MAVROGHENI, în parteneriat cu CENTRUL ROMÂN PENTRU EDUCAȚIE ȘI DEZVOLTARE UMANĂ (CRED) și ASOCIAȚIA „CENTRUL DE PERFORMANȚĂ BEFORE &amp; AFTER SCHOOL CONIL”, anunță lansarea proiectului „O nouă șansă independenței”, Cod SMIS 354321, cofinanțat de Uniunea Europeană prin Programul Incluziune… .... https:// pentruoameni.ro/lansarea-proie ctului-o-noua-sansa-independentei/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@pentruoameni/116953707428301848",
-      "date": "Mon, 20 Jul 2026 18:25:51 +0000",
-      "content": "Să înțelegi de ce apar cariile și cum le poți gestiona eficient nu este doar o chestiune de estetică, ci o investiție directă în calitatea vieții tale și în sănătatea întregului organism. Pentru a te ajuta să preiei controlul total asupra sănătății tale orale, iată principalele beneficii și informații pe care le vei descoperi:Mecanismul biologic… .... https:// pentruoameni.ro/secretele-unui -zambet-fara-cusur-cauzele-ascunse-ale-cariilor-si-sfaturi-de-gestionare-moderna/"
     }
   ]
 }

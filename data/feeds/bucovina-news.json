@@ -4,8 +4,14 @@
   "site_feed": "https://bucovina-news.ro/feed/",
   "mastodon": "https://social.5th.ro/@bucovina",
   "mastodon_rss": "https://social.5th.ro/@bucovina.rss",
-  "updated_at": "2026-11-24T04:46:28Z",
+  "updated_at": "2026-11-24T15:51:58Z",
   "site_posts": [
+    {
+      "title": "Unde publici un advertorial: presă locală, nișă sau național",
+      "link": "https://bucovina-news.ro/unde-publici-un-advertorial/",
+      "date": "Tue, 24 Nov 2026 07:00:00 +0000",
+      "summary": "Trei locuri in care poate aparea un advertorial in Romania, ce primesti pe fiecare si cum alegi daca ai o afacere locala. Articolul Unde publici un advertorial: presă locală, nișă sau național apare prima dată în Bucovina News ."
+    },
     {
       "title": "Tablouri personalizate – Transformă fotografiile tale în tablouri canvas unice | LuxCanva",
       "link": "https://bucovina-news.ro/tablouri-personalizate-transforma-fotografiile-tale-in-tablouri-canvas-unice-luxcanva/",
@@ -59,15 +65,15 @@
       "link": "https://bucovina-news.ro/cum-monitorizezi-concurenta-in-seo-si-gasesti-golurile-din-piata/",
       "date": "Fri, 14 Nov 2025 07:32:14 +0000",
       "summary": "Ai simțit vreodată că munca depusă în SEO nu dă roadele așteptate? Concurența în mediul online este acerbă, iar a te baza doar pe intuiție nu mai este o opțiune&#8230; Articolul Cum monitorizezi concurența în SEO și găsești golurile din piață apare prima dată în Bucovina News ."
-    },
-    {
-      "title": "Ce este AEO (Answer Engine Optimization) și cum răspunzi mai bine la întrebările utilizatorilor?",
-      "link": "https://bucovina-news.ro/ce-este-aeo-answer-engine-optimization-si-cum-raspunzi-mai-bine-la-intrebarile-utilizatorilor/",
-      "date": "Thu, 13 Nov 2025 09:24:16 +0000",
-      "summary": "Navigați adesea pe Google și observați că răspunsul la &#238;ntrebarea dumneavoastră apare direct &#238;n partea de sus a paginii, fără a fi nevoie să dați click pe un link? Acesta&#8230; Articolul Ce este AEO (Answer Engine Optimization) și cum răspunzi mai bine la întrebările utilizatorilor? apare prima dată în Bucovina News ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@bucovina/117670126934382601",
+      "date": "Tue, 24 Nov 2026 07:00:45 +0000",
+      "content": "Trei locuri in care poate aparea un advertorial in Romania, ce primesti pe fiecare si cum alegi daca ai o afacere locala. # advertoriale # bucovina # presalocala # publicareadvertoriale https:// bucovina-news.ro/unde-publici- un-advertorial/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@bucovina/117087490411560755",

@@ -4,8 +4,14 @@
   "site_feed": "https://9z.ro/feed/",
   "mastodon": "https://social.5th.ro/@9z",
   "mastodon_rss": "https://social.5th.ro/@9z.rss",
-  "updated_at": "2026-11-24T04:47:12Z",
+  "updated_at": "2026-11-24T15:52:53Z",
   "site_posts": [
+    {
+      "title": "Integrări PrestaShop pentru stocuri plăți și livrare cu mai puțină muncă manuală",
+      "link": "https://9z.ro/integrari-prestashop-stocuri-plati-livrare/",
+      "date": "Tue, 24 Nov 2026 08:28:33 +0000",
+      "summary": "Descopera cum sa configurezi corect modulele de stoc, plata si curierat. Eviti conflictele de date si simplifici procesul de gestiune a comenzilor. The post Integrări PrestaShop pentru stocuri plăți și livrare cu mai puțină muncă manuală appeared first on 9z ."
+    },
     {
       "title": "Anunțuri gratuite: cum compari ofertele înainte de contact",
       "link": "https://9z.ro/anunturi-gratuite-comparatie/",
@@ -59,15 +65,21 @@
       "link": "https://9z.ro/incepe-cu-informatiile-potrivite-nu-cu-promisiuni/",
       "date": "Fri, 23 Oct 2026 05:05:37 +0000",
       "summary": "Curățarea canapelei la domiciliu &#238;n Oradea: ce trebuie să știe clientul &#238;nainte de programare OradeaCuAbur Programarea unei curățări de canapea la domiciliu &#238;ncepe &#238;nainte ca echipamentul să ajungă &#238;n locuință. Fotografii bine făcute, dimensiuni aproximative și informații despre pete permit o estimare mai utilă pentru clientul din Oradea și reduc ne&#238;nțelegerile despre ce se va [&#8230;] The post Începe cu informațiile potrivite, nu cu promisiuni appeared first on 9z ."
-    },
-    {
-      "title": "De ce firmele cu creștere rapidă aleg asigurarea de credit comercial prin Otto Broker",
-      "link": "https://9z.ro/asigurarea-de-credit-otto-broker/",
-      "date": "Mon, 19 Oct 2026 14:21:46 +0000",
-      "summary": "Protejeaza creantele si sustine accesul la finantare. Otto Broker te ajuta sa structurezi o politica de risc clara pentru a creste in siguranta. The post De ce firmele cu creștere rapidă aleg asigurarea de credit comercial prin Otto Broker appeared first on 9z ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@9z/117670537466929375",
+      "date": "Tue, 24 Nov 2026 08:45:10 +0000",
+      "content": "Descopera cum sa prioritizezi reparatiile si sa verifici corect fluxul de comanda. Un plan comun de optimizare seo si mentenanta reduce riscurile tehnice. https:// comunicatpresa.9z.ro/optimizar e-seo-mentenanta-prestashop/"
+    },
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@9z/117670472411311473",
+      "date": "Tue, 24 Nov 2026 08:28:37 +0000",
+      "content": "Descopera cum sa configurezi corect modulele de stoc, plata si curierat. Eviti conflictele de date si simplifici procesul de gestiune a comenzilor. https:// 9z.ro/integrari-prestashop-sto curi-plati-livrare/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@9z/117665122343966120",
@@ -127,18 +139,6 @@
       "link": "https://social.5th.ro/@9z/117602422271944538",
       "date": "Thu, 12 Nov 2026 08:02:34 +0000",
       "content": "Primul sanctuar pentru animale din România, NIMA, a împlinit opt ani. Astăzi, 140 de animăluțe salvate din 11 specii trăiesc în siguranță, cu sprijinul donatorilor. https:// comunicatpresa.9z.ro/sanctuaru l-nima-primul-din-romania-8-ani/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@9z/117582275084211614",
-      "date": "Sun, 08 Nov 2026 18:38:52 +0000",
-      "content": "Prioritatile financiare se schimba odata cu varsta. Acest ghid te ajuta sa adaptezi planul financiar in fiecare etapa, de la primul salariu pana la pensionare. https:// 9z.ro/plan-financiar-pe-etape/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@9z/117568215261582244",
-      "date": "Fri, 06 Nov 2026 07:03:17 +0000",
-      "content": "SudRezidențial lansează Black November 2026: una dintre cele mai ample campanii de reduceri, promoții și beneficii imobiliare din București și IlfovBucurești, 2 noiembrie 2026 – SudRezidențial.ro, împreună cu Credit24h.ro, Avalon România și cu susținerea URBANIS, anunță lansarea Black November 2026, una dintre cele mai ample https:// comunicatpresa.9z.ro/sudrezide ntial-lanseaza-black-november-2026-una-dintre-cele-mai-ample-campanii-de-reduceri-promotii-si-beneficii-imobiliare-din-bucuresti-si-i/"
     }
   ]
 }

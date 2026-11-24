@@ -4,8 +4,14 @@
   "site_feed": "https://arta-constructiilor.ro/feed/",
   "mastodon": "https://social.5th.ro/@ArtaConstructiilor",
   "mastodon_rss": "https://social.5th.ro/@ArtaConstructiilor.rss",
-  "updated_at": "2026-11-24T04:46:58Z",
+  "updated_at": "2026-11-24T15:52:36Z",
   "site_posts": [
+    {
+      "title": "Optimizare SEO PrestaShop pornind de la categorii produse și filtre",
+      "link": "https://arta-constructiilor.ro/optimizare-seo-prestashop-categorii/",
+      "date": "Tue, 24 Nov 2026 08:28:58 +0000",
+      "summary": "Optimizarea se face prin categorii clare si filtre bine indexate. Inveti sa leagii intentia de cautare de pagina potrivita in magazinul online. Articolul Optimizare SEO PrestaShop pornind de la categorii produse și filtre apare prima dată în Arta Constructiilor ."
+    },
     {
       "title": "Aerotermă electrică, pe gaz sau pe motorină: ce încălzește mai bine atelierul sau garajul",
       "link": "https://arta-constructiilor.ro/aeroterma-electrica-pe-gaz-sau-pe-motorina-ce-incalzeste-mai-bine-atelierul-sau-garajul/",
@@ -53,15 +59,15 @@
       "link": "https://arta-constructiilor.ro/calcul-puterea-caloriferelor/",
       "date": "Thu, 15 Oct 2026 07:16:52 +0000",
       "summary": "Inveleste sa calculezi necesarul termic al unei locuinte folosind volumul si gradul de izolare. Ghidul explica cum sa alegi radiatoarele potrivite. Articolul Cum se calculează puterea caloriferelor necesare unei locuințe: ghid pentru alegerea corectă a radiatoarelor apare prima dată în Arta Constructiilor ."
-    },
-    {
-      "title": "Apartament într-un bloc nou: ce verifici înainte de recepție și de semnare",
-      "link": "https://arta-constructiilor.ro/apartament-intr-un-bloc-nou-ce-verifici-inainte-de-receptie-si-de-semnare/",
-      "date": "Mon, 05 Oct 2026 08:59:51 +0000",
-      "summary": "Un apartament nou pare fără riscuri, dar defectele de execuție apar mai des decât se crede, iar remedierea lor e mai simplă înainte de a prelua cheile decât după. Iată ce merită verificat la recepție și în actele de dinainte de semnare. Înainte de semnare: actele dezvoltatorului Autorizația de construire și faptul că lucrările se [&#8230;] Articolul Apartament într-un bloc nou: ce verifici înainte de recepție și de semnare apare prima dată în Arta Constructiilor ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@ArtaConstructiilor/117670473809056317",
+      "date": "Tue, 24 Nov 2026 08:28:58 +0000",
+      "content": "Optimizarea se face prin categorii clare si filtre bine indexate. Inveti sa leagii intentia de cautare de pagina potrivita in magazinul online. .... 🌐 https:// arta-constructiilor.ro/optimiz are-seo-prestashop-categorii/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@ArtaConstructiilor/117667939768254790",
@@ -127,12 +133,6 @@
       "link": "https://social.5th.ro/@ArtaConstructiilor/117387479700138828",
       "date": "Mon, 05 Oct 2026 08:59:51 +0000",
       "content": "Un apartament nou pare fără riscuri, dar defectele de execuție apar mai des decât se crede, iar remedierea lor e mai simplă înainte de a prelua cheile decât după. Iată ce merită verificat la recepție și în actele de dinainte de semnare. Înainte de semnare: actele dezvoltatorului Autorizația de construire și faptul că lucrările se… .... 🌐 https:// arta-constructiilor.ro/apartam ent-intr-un-bloc-nou-ce-verifici-inainte-de-receptie-si-de-semnare/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@ArtaConstructiilor/117387461328840319",
-      "date": "Mon, 05 Oct 2026 08:55:10 +0000",
-      "content": "ATM RO Metal Construction își extinde serviciile de montaj structuri metalice, fitting și placări pentru proiecte de construcții din Europa. .... 🌐 https:// arta-constructiilor.ro/atm-ro- metal-construction-montaj-structuri-metalice-europa/"
     }
   ]
 }
