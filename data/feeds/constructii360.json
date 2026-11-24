@@ -4,8 +4,14 @@
   "site_feed": "https://constructii360.ro/feed/",
   "mastodon": "https://social.5th.ro/@constructii360",
   "mastodon_rss": "https://social.5th.ro/@constructii360.rss",
-  "updated_at": "2026-11-23T20:11:05Z",
+  "updated_at": "2026-11-24T04:46:17Z",
   "site_posts": [
+    {
+      "title": "Lemnul înainte de lac sau vopsea: granulațiile de șlefuire și ordinea corectă",
+      "link": "https://constructii360.ro/lemnul-inainte-de-lac-sau-vopsea-granulatiile-de-slefuire-si-ordinea-corecta/",
+      "date": "Mon, 23 Nov 2026 21:44:06 +0000",
+      "summary": "Ordinea care funcționează pe aproape orice lemn este 80, apoi 120, apoi 180, iar între Articolul Lemnul înainte de lac sau vopsea: granulațiile de șlefuire și ordinea corectă apare prima dată în Constructii 360 ."
+    },
     {
       "title": "Ce clasă de încărcare se alege la capacele de cămin, în funcție de ce trece peste ele",
       "link": "https://constructii360.ro/clasa-de-incarcare-capace-camin/",
@@ -59,15 +65,15 @@
       "link": "https://constructii360.ro/spalare-saltele-oradea-materialul-decide-metoda-si-rezultatul/",
       "date": "Mon, 17 Aug 2026 03:32:41 +0000",
       "summary": "&#160; Material tehnic sponsorizat, realizat cu informații furnizate de CleanSpot Oradea. La fel ca &#238;ntr-o Articolul Spălare saltele Oradea: materialul decide metoda și rezultatul apare prima dată în Constructii 360 ."
-    },
-    {
-      "title": "Impactul toaletelor publice și al celor ecologice asupra igienei",
-      "link": "https://constructii360.ro/impactul-toaletelor-publice-si-al-celor-ecologice-asupra-igienei/",
-      "date": "Tue, 04 Aug 2026 20:14:36 +0000",
-      "summary": "În orașele aglomerate și în zonele turistice, accesul la o toaletă publică este o necesitate Articolul Impactul toaletelor publice și al celor ecologice asupra igienei apare prima dată în Constructii 360 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@constructii360/117667938117665082",
+      "date": "Mon, 23 Nov 2026 21:44:07 +0000",
+      "content": "🆕Ordinea care funcționează pe aproape orice lemn este 80, apoi 120, apoi 180, iar între straturile de lac 240. Nu sari peste o treaptă, șlefuiește în sensul fibrei și scoate tot praful înainte de fiecare strat. Așa lacul se întinde uniform, iar vopseaua nu scoate în evidență zgârieturile.Ce face fiecare granulație Numărul de pe hârtie… https:// constructii360.ro/lemnul-inain te-de-lac-sau-vopsea-granulatiile-de-slefuire-si-ordinea-corecta/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@constructii360/117631276139768937",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@constructii360/117014545677757309",
       "date": "Fri, 31 Jul 2026 12:17:49 +0000",
       "content": "🆕Un diagnostic oncologic aduce de fiecare dată multă nesiguranță și numeroase întrebări. Cu toate acestea, medicina modernă a făcut progrese extraordinare în ultimii ani. Astăzi, identificarea unor metastaze hepatice nu mai înseamnă lipsa soluțiilor terapeutice. Pentru pacienții diagnosticați cu cancer colorectal, opțiunile de tratament s-au extins considerabil. Astfel, o intervenție bine planificată de chirurgie https:// constructii360.ro/metastazele- hepatice-cand-poate-ajuta-chirurgia/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@constructii360/116917669751900466",
-      "date": "Tue, 14 Jul 2026 09:41:00 +0000",
-      "content": "🆕Fenomenele meteo din ultimii ani arată că acoperișul trebuie ales cu mai multă atenție decât în trecut. Vântul puternic, furtunile și diferențele mari de temperatură pun presiune pe orice învelitoare, iar o alegere inspirată poate face diferența pe termen lung. Tabla fălțuită este apreciată tocmai pentru modul în care este construită și pentru https:// constructii360.ro/tabla-faltui ta-si-rezistenta-la-vant-de-ce-este-invelitoarea-recomandata-pentru-zonele-cu-fenomene-meteo-extreme-in-2026/"
     }
   ]
 }

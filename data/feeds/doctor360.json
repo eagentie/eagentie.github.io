@@ -4,8 +4,14 @@
   "site_feed": "https://doctor360.ro/feed/",
   "mastodon": "https://social.5th.ro/@doctor360",
   "mastodon_rss": "https://social.5th.ro/@doctor360.rss",
-  "updated_at": "2026-11-23T20:11:46Z",
+  "updated_at": "2026-11-24T04:46:48Z",
   "site_posts": [
+    {
+      "title": "Scripete, troliu sau electropalan: cum urci materialele la etaj fără macara",
+      "link": "https://doctor360.ro/scripete-troliu-sau-electropalan-cum-urci-materialele-la-etaj-fara-macara/",
+      "date": "Mon, 23 Nov 2026 21:44:53 +0000",
+      "summary": "Pentru câteva găleți de mortar pe zi îți ajunge un scripete simplu. Dacă urci saci de ciment, bolțari sau țiglă în mod repetat, la înălțimi de peste 4-5 metri, un troliu manual sau, mai comod, un electropalan te scapă de cărat pe scară. Alegerea ține de trei cifre: greutatea unei urcări, numărul de urcări pe [&#8230;] Articolul Scripete, troliu sau electropalan: cum urci materialele la etaj fără macara apare prima dată în Doctor 360 ."
+    },
     {
       "title": "Nodulii musculari pe care nu-i simți până nu apasă cineva pe ei",
       "link": "https://doctor360.ro/noduri-musculare-apasa/",
@@ -71,15 +77,15 @@
       "link": "https://doctor360.ro/claritate-medicala-cum-functioneaza-testarea-genetica-si-cine-are-nevoie-de-ea/",
       "date": "Wed, 20 May 2026 18:29:53 +0000",
       "summary": "Testarea genetică oferă informații importante pentru pacienții aflați în diferite etape ale vieții sau ale bolii. Recomandările pentru testele genetice depind de contextul individual al pacientului, de istoricul medical personal, de cel familial și de planurile de sănătate. Întrucât presupune un proces complex, de care nu e nevoie întotdeauna, e esențial să înțelegem de la [&#8230;] Articolul Claritate medicală: Cum funcționează testarea genetică și cine are nevoie de ea? apare prima dată în Doctor 360 ."
-    },
-    {
-      "title": "Operație varice București: când devine necesar tratamentul chirurgical",
-      "link": "https://doctor360.ro/operatie-varice-bucuresti-cand-devine-necesar-tratamentul-chirurgical/",
-      "date": "Sun, 10 May 2026 06:30:00 +0000",
-      "summary": "Vă confruntați des cu senzația de picioare grele sau umflate la finalul zilei? Această stare nu este doar o urmare a oboselii, ci poate fi primul semn pentru insuficienta venoasa, o afecțiune care progresează în timp. Multe persoane amână vizita la medic, sperând că simptomele vor trece de la sine, însă venele dilatate pot ascunde [&#8230;] Articolul Operație varice București: când devine necesar tratamentul chirurgical apare prima dată în Doctor 360 ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@doctor360/117667941160833474",
+      "date": "Mon, 23 Nov 2026 21:44:53 +0000",
+      "content": "💡Pentru câteva găleți de mortar pe zi îți ajunge un scripete simplu. Dacă urci saci de ciment, bolțari sau țiglă în mod repetat, la înălțimi de peste 4-5 metri, un troliu manual sau, mai comod, un electropalan te scapă de cărat pe scară. Alegerea ține de trei cifre: greutatea unei urcări, numărul de urcări pe… 💡 https:// doctor360.ro/scripete-troliu-s au-electropalan-cum-urci-materialele-la-etaj-fara-macara/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@doctor360/117513784314972608",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@doctor360/116608322398753862",
       "date": "Wed, 20 May 2026 18:29:54 +0000",
       "content": "💡Testarea genetică oferă informații importante pentru pacienții aflați în diferite etape ale vieții sau ale bolii. Recomandările pentru testele genetice depind de contextul individual al pacientului, de istoricul medical personal, de cel familial și de planurile de sănătate. Întrucât presupune un proces complex, de care nu e nevoie întotdeauna, e esențial să înțelegem de la… 💡 https:// doctor360.ro/claritate-medical a-cum-functioneaza-testarea-genetica-si-cine-are-nevoie-de-ea/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@doctor360/116549647903688110",
-      "date": "Sun, 10 May 2026 09:48:12 +0000",
-      "content": "💡Vă confruntați des cu senzația de picioare grele sau umflate la finalul zilei? Această stare nu este doar o urmare a oboselii, ci poate fi primul semn pentru insuficienta venoasa, o afecțiune care progresează în timp. Multe persoane amână vizita la medic, sperând că simptomele vor trece de la sine, însă venele dilatate pot ascunde… 💡 https:// doctor360.ro/operatie-varice-b ucuresti-cand-devine-necesar-tratamentul-chirurgical/"
     }
   ]
 }
