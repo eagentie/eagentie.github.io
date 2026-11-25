@@ -4,8 +4,14 @@
   "site_feed": "https://9z.ro/feed/",
   "mastodon": "https://social.5th.ro/@9z",
   "mastodon_rss": "https://social.5th.ro/@9z.rss",
-  "updated_at": "2026-11-25T09:51:38Z",
+  "updated_at": "2026-11-25T19:57:26Z",
   "site_posts": [
+    {
+      "title": "Podcast cultural LitterAM – un nou proiect la Focșani",
+      "link": "https://9z.ro/podcast-cultural-litteram/",
+      "date": "Wed, 25 Nov 2026 12:30:00 +0000",
+      "summary": "LitterAM, un nou podcast cultural lansat la Focșani, își propune să promoveze literatura, teatrul și dialogul cultural contemporan. Prima ediție îl are ca invitat pe actorul și regizorul Sorin Francu, în dialog cu scriitorul Adrian Matei. The post Podcast cultural LitterAM – un nou proiect la Focșani appeared first on 9z ."
+    },
     {
       "title": "Integrări PrestaShop pentru stocuri plăți și livrare cu mai puțină muncă manuală",
       "link": "https://9z.ro/integrari-prestashop-stocuri-plati-livrare/",
@@ -59,15 +65,15 @@
       "link": "https://9z.ro/novalyx-labs-si-noul-standard-de-transparenta-pe-piata-de-peptide-in-romania/",
       "date": "Wed, 28 Oct 2026 17:24:20 +0000",
       "summary": "Descoperă Novalyx Labs, furnizor de Peptide în România, cu accent pe trasabilitate, documentație tehnică și transparență pentru cercetare. The post Novalyx Labs și noul standard de transparență pe piața de peptide in România appeared first on 9z ."
-    },
-    {
-      "title": "Începe cu informațiile potrivite, nu cu promisiuni",
-      "link": "https://9z.ro/incepe-cu-informatiile-potrivite-nu-cu-promisiuni/",
-      "date": "Fri, 23 Oct 2026 05:05:37 +0000",
-      "summary": "Curățarea canapelei la domiciliu &#238;n Oradea: ce trebuie să știe clientul &#238;nainte de programare OradeaCuAbur Programarea unei curățări de canapea la domiciliu &#238;ncepe &#238;nainte ca echipamentul să ajungă &#238;n locuință. Fotografii bine făcute, dimensiuni aproximative și informații despre pete permit o estimare mai utilă pentru clientul din Oradea și reduc ne&#238;nțelegerile despre ce se va [&#8230;] The post Începe cu informațiile potrivite, nu cu promisiuni appeared first on 9z ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@9z/117678184213727084",
+      "date": "Wed, 25 Nov 2026 17:09:50 +0000",
+      "content": "LitterAM, un nou podcast cultural lansat la Focșani, își propune să promoveze literatura, teatrul și dialogul cultural contemporan. Prima ediție îl are ca invitat pe actorul și regizorul Sorin Francu, în dialog cu scriitorul Adrian Matei. https:// 9z.ro/podcast-cultural-littera m/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@9z/117670537466929375",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@9z/117603502491029687",
       "date": "Thu, 12 Nov 2026 12:37:17 +0000",
       "content": "Peste 35 de modele, femei și bărbați cu vârste de peste 35 de ani, au prezentat creațiile a 11 designeri români, într-un spectacol care a îmbinat moda, creativitatea și eleganța atemporală, completat de un show de lumini și o producție scenică spectaculoasă. https:// 9z.ro/eleganta-nu-are-varsta-n ici-pe-drum-nici-pe-podium/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@9z/117602422271944538",
-      "date": "Thu, 12 Nov 2026 08:02:34 +0000",
-      "content": "Primul sanctuar pentru animale din România, NIMA, a împlinit opt ani. Astăzi, 140 de animăluțe salvate din 11 specii trăiesc în siguranță, cu sprijinul donatorilor. https:// comunicatpresa.9z.ro/sanctuaru l-nima-primul-din-romania-8-ani/"
     }
   ]
 }
