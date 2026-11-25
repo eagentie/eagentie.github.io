@@ -4,8 +4,14 @@
   "site_feed": "https://cluj-azi.ro/feed/",
   "mastodon": "https://social.5th.ro/@cluj",
   "mastodon_rss": "https://social.5th.ro/@cluj.rss",
-  "updated_at": "2026-11-24T15:51:41Z",
+  "updated_at": "2026-11-25T00:41:02Z",
   "site_posts": [
+    {
+      "title": "ACS Delta MMA CLUJ-NAPOCA este Vicecampioana Balcanica 2026 la Taekwon-do !",
+      "link": "https://cluj-azi.ro/vicecampioana-balcanica-taekwon-do-cluj/",
+      "date": "Tue, 24 Nov 2026 16:11:31 +0000",
+      "summary": "Echipa de taekwon do a ACS Delta MMA Cluj-Napoca a obtinut locul II in clasamentul general la V Open Balkan Cup 2026, cu 22 de medalii castigate. Articolul ACS Delta MMA CLUJ-NAPOCA este Vicecampioana Balcanica 2026 la Taekwon-do ! apare prima dată în Cluj AZI ."
+    },
     {
       "title": "O poveste de iarnă cu lumini și colinde: 4 Piețe de Crăciun în inima Europei",
       "link": "https://cluj-azi.ro/o-poveste-de-iarna-cu-lumini-si-colinde-4-piete-de-craciun-in-inima-europei/",
@@ -59,15 +65,15 @@
       "link": "https://cluj-azi.ro/2025-advertoriale-de-autor-vs-advertoriale-scrise-generic-ce-functioneaza-mai-bine/",
       "date": "Mon, 01 Dec 2025 06:42:20 +0000",
       "summary": "Atenție: Până nu demult, publicarea unor advertoriale bazate pe structuri standard și informații superficiale era suficientă pentru a atrage trafic și vizibilitate. Însă, pe măsură ce internetul s-a umplut de zgomot, publicul a devenit din ce în ce mai pretențios. Oamenii nu mai dau click pe orice. Ne confruntăm cu o saturație masivă de informație, [&#8230;] Articolul 2025: advertoriale de autor vs advertoriale scrise generic, ce funcționează mai bine apare prima dată în Cluj AZI ."
-    },
-    {
-      "title": "Analiza valorii cotei: cum găsești „value bet”-uri în oferta zilnică",
-      "link": "https://cluj-azi.ro/analiza-valorii-cotei-cum-gasesti-value-bet-uri-in-oferta-zilnica/",
-      "date": "Sat, 15 Nov 2025 10:03:28 +0000",
-      "summary": "Ați simțit vreodată frustrarea de a vedea echipa favorită câștigând, dar cota să nu vă aducă un profit semnificativ? V-ați întrebat care este secretul pariorilor de succes care reușesc să obțină câștiguri constante pe termen lung? (A &#8211; Atenție) Dacă sunteți în căutarea unei strategii care să depășească simpla ghicire a rezultatului, răspunsul se află [&#8230;] Articolul Analiza valorii cotei: cum găsești „value bet”-uri în oferta zilnică apare prima dată în Cluj AZI ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@cluj/117672292600454064",
+      "date": "Tue, 24 Nov 2026 16:11:31 +0000",
+      "content": "Echipa de taekwon do a ACS Delta MMA Cluj-Napoca a obtinut locul II in clasamentul general la V Open Balkan Cup 2026, cu 22 de medalii castigate. https:// cluj-azi.ro/vicecampioana-balc anica-taekwon-do-cluj/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@cluj/117621669442086380",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@cluj/116616750780520176",
       "date": "Fri, 22 May 2026 06:13:21 +0000",
       "content": "https:// cluj-azi.ro/curele-poly-v-si-c urele-plate-cand-sunt-alegerea-corecta-si-ce-avantaje-ofera-in-transmisii-moderne/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@cluj/116367548302284703",
-      "date": "Wed, 08 Apr 2026 05:57:53 +0000",
-      "content": "Te-ai întrebat vreodată de ce unele zone dintr-o expoziție sunt mereu aglomerate, în timp ce altele rămân pustii? Răspunsul nu stă doar în notorietatea brandului, ci în modul în care este construită prezența fizică la fața locului. Participarea la un târg este o oportunitate uriașă pentru orice afacere care vrea să crească rapid. O strategie… https:// cluj-azi.ro/standuri-expozitio nale-si-materiale-pentru-evenimente-cum-pregatesti-o-prezenta-care-se-vede/"
     }
   ]
 }
