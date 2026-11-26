@@ -4,13 +4,19 @@
   "site_feed": "https://topcomunicate.ro/feed/",
   "mastodon": "https://social.5th.ro/@topcomunicate_ro",
   "mastodon_rss": "https://social.5th.ro/@topcomunicate_ro.rss",
-  "updated_at": "2026-11-26T02:49:28Z",
+  "updated_at": "2026-11-26T12:24:45Z",
   "site_posts": [
     {
       "title": "Jante Alpha: evoluția rezistenței, geometria aliajelor și durata de viață a anvelopelor pentru motociclete",
       "link": "https://topcomunicate.ro/jante-alpha-anvelopelor-pentru-motociclete",
       "date": "Tue, 24 Nov 2026 16:41:21 GMT",
       "summary": "Afla cum alegerea corecta a jantelor si a anvelopelor pentru motociclete influenteaza stabilitatea si durata de viata a ansamblurilor de rulmenti."
+    },
+    {
+      "title": "Uscătoarele de mâini profesionale: avantaje, eficiență și criterii de alegere pentru spațiile publice",
+      "link": "https://topcomunicate.ro/uscatoare-de-maini-profesionale",
+      "date": "Mon, 23 Nov 2026 10:25:00 GMT",
+      "summary": "Descopera cum functioneaza sistemele automate de uscare si ce criterii tehnice conteaza la selectarea echipamentului pentru hoteluri si restaurante."
     },
     {
       "title": "Ofertă de angajare: întrebări înainte să accepți",
@@ -71,12 +77,6 @@
       "link": "https://topcomunicate.ro/cazari-unice-spa-ciubar-munte",
       "date": "Mon, 26 Oct 2026 08:07:35 GMT",
       "summary": "Am selectat 5 optiuni de cazare cu ciubar sau sauna la munte, potrivite pentru diverse tipuri de vacante, pe platforma Cazari Unice."
-    },
-    {
-      "title": "Agricultură, pregătirea culturilor de grâu și rapiță pentru iarnă",
-      "link": "https://topcomunicate.ro/agricultura-pregatirea-culturilor-de-grau-si-rapita-pentru-iarna",
-      "date": "Thu, 22 Oct 2026 12:04:19 GMT",
-      "summary": ""
     }
   ],
   "mastodon_posts": [

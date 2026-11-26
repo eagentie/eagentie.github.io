@@ -4,13 +4,19 @@
   "site_feed": "https://topantreprenor.ro/feed/",
   "mastodon": "https://social.5th.ro/@topantreprenor",
   "mastodon_rss": "https://social.5th.ro/@topantreprenor.rss",
-  "updated_at": "2026-11-26T02:50:42Z",
+  "updated_at": "2026-11-26T12:25:51Z",
   "site_posts": [
     {
       "title": "Cum aleg firmele un program de facturare potrivit?",
       "link": "https://topantreprenor.ro/cum-aleg-firmele-un-program-de-facturare-potrivit",
       "date": "Mon, 23 Nov 2026 13:59:45 GMT",
       "summary": ""
+    },
+    {
+      "title": "Piese auto second-hand: verificarea compatibilității",
+      "link": "https://topantreprenor.ro/verificarea-compatibilitatii-piese-auto",
+      "date": "Fri, 20 Nov 2026 06:52:44 GMT",
+      "summary": "O piesă care arată identic poate să nu fie compatibilă cu vehiculul tău. Cum reduci riscul unei achiziții greșite."
     },
     {
       "title": "Ai o Dacia si ti s-a stricat ceva la ea? Trucul pe care multi soferi il descopera abia dupa ce au cheltuit o avere!",
@@ -71,12 +77,6 @@
       "link": "https://topantreprenor.ro/carti-romaneesti-contemporane",
       "date": "Tue, 13 Oct 2026 19:42:40 GMT",
       "summary": "Descopera trei carti romanesti contemporane: nonfictiune, pamflet si poezie. Afla cum fiecare autor abordeaza memoria, societatea si interioritatea."
-    },
-    {
-      "title": "Dincolo de periaj: obiceiurile mici care pot schimba felul în care ai grijă de dinții tăi",
-      "link": "https://topantreprenor.ro/obiceiuri-care-pot-schimba-igiena-orala",
-      "date": "Sat, 10 Oct 2026 18:33:12 GMT",
-      "summary": "Descopera cum obiceiurile zilnice pot schimba igiena orala. Afla ce gesturi simple iti protejeaza dintii pe termen lung si cand sa mergi la dentist."
     }
   ],
   "mastodon_posts": [

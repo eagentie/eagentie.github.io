@@ -4,8 +4,14 @@
   "site_feed": "https://UniversulTech.ro/feed/",
   "mastodon": "https://social.5th.ro/@UniversulTech",
   "mastodon_rss": "https://social.5th.ro/@UniversulTech.rss",
-  "updated_at": "2026-11-26T02:51:11Z",
+  "updated_at": "2026-11-26T12:26:20Z",
   "site_posts": [
+    {
+      "title": "Typosquatting: 7 pași pentru protejarea mărcii online înainte de lansarea unui produs în 2026",
+      "link": "https://universultech.ro/typosquatting-7-pasi-pentru-protejarea-marcii-online-inainte-de-lansarea-unui-produs-in-2026/",
+      "date": "Thu, 26 Nov 2026 10:15:36 +0000",
+      "summary": "Înainte ca un produs nou să ajungă în reclame, presă sau pe rețelele sociale, numele lui devine ușor de copiat.&#8230; Articolul Typosquatting: 7 pași pentru protejarea mărcii online înainte de lansarea unui produs în 2026 apare prima dată în Universul Tech ."
+    },
     {
       "title": "Security365 reunește peste 4.800 de profiluri de companii și resurse pentru alegerea serviciilor de securitate",
       "link": "https://universultech.ro/security365-profiluri-de-companii/",
@@ -71,15 +77,15 @@
       "link": "https://universultech.ro/fier-si-vitamina-c-luate-pe-stomacul-gol-ajuta-dar-nu-este-singura-regula-care-conteaza/",
       "date": "Mon, 10 Aug 2026 12:36:58 +0000",
       "summary": "Iei suplimentul cu fier dimineața, bei cafeaua imediat după și apoi te întrebi de ce tratamentul îți provoacă greață sau&#8230; Articolul Fier și vitamina C: luate pe stomacul gol ajută, dar nu este singura regulă care contează apare prima dată în Universul Tech ."
-    },
-    {
-      "title": "Asistenții digitali cu AI: cum devin site-urile mai utile pentru utilizatori",
-      "link": "https://universultech.ro/asistenti-digitali-ai-site-uri-utile-utilizatori/",
-      "date": "Sun, 12 Jul 2026 05:27:56 +0000",
-      "summary": "Site-urile companiilor au evoluat mult în ultimii ani. La început, un site era în principal o carte de vizită online:&#8230; Articolul Asistenții digitali cu AI: cum devin site-urile mai utile pentru utilizatori apare prima dată în Universul Tech ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@UniversulTech/117682217989725798",
+      "date": "Thu, 26 Nov 2026 10:15:40 +0000",
+      "content": "💡Înainte ca un produs nou să ajungă în reclame, presă sau pe rețelele sociale, numele lui devine ușor de copiat. O adresă aproape identică poate direcționa vizitatorii către un site fals, poate susține mesaje de phishing sau poate crea confuzie în jurul brandului.Typosquatting descrie folosirea unor domenii asemănătoare cu adresa unui brand. Variantele pot include litere… ✅ https:// universultech.ro/typosquatting -7-pasi-pentru-protejarea-marcii-online-inainte-de-lansarea-unui-produs-in-2026/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@UniversulTech/117633524108115497",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@UniversulTech/117071244242093191",
       "date": "Mon, 10 Aug 2026 12:37:01 +0000",
       "content": "💡Iei suplimentul cu fier dimineața, bei cafeaua imediat după și apoi te întrebi de ce tratamentul îți provoacă greață sau pare să nu funcționeze. Situația este frecventă. Administrarea corectă nu înseamnă doar să înghiți comprimatul la aceeași oră, ci și să ții cont de alimente, băuturi, alte medicamente și reacția propriului stomac.Sfaturile întâlnite cel mai… ✅ https:// universultech.ro/fier-si-vitam ina-c-luate-pe-stomacul-gol-ajuta-dar-nu-este-singura-regula-care-conteaza/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@UniversulTech/116905350189205005",
-      "date": "Sun, 12 Jul 2026 05:27:58 +0000",
-      "content": "💡Site-urile companiilor au evoluat mult în ultimii ani. La început, un site era în principal o carte de vizită online: câteva pagini de prezentare, date de contact, o listă de servicii și eventual un formular. Astăzi, utilizatorii se așteaptă la mai mult. Vor răspunsuri rapide, informații clare și un traseu simplu până la acțiunea dorită.… ✅ https:// universultech.ro/asistenti-dig itali-ai-site-uri-utile-utilizatori/"
     }
   ]
 }

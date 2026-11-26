@@ -4,7 +4,7 @@
   "site_feed": "https://9z.ro/feed/",
   "mastodon": "https://social.5th.ro/@9z",
   "mastodon_rss": "https://social.5th.ro/@9z.rss",
-  "updated_at": "2026-11-26T02:51:18Z",
+  "updated_at": "2026-11-26T12:26:26Z",
   "site_posts": [
     {
       "title": "Podcast cultural LitterAM – un nou proiect la Focșani",
@@ -70,6 +70,12 @@
   "mastodon_posts": [
     {
       "title": "",
+      "link": "https://social.5th.ro/@9z/117681351910061567",
+      "date": "Thu, 26 Nov 2026 06:35:25 +0000",
+      "content": "„All for your vision” Cu o istorie de peste 160 de ani, o prezență de peste 30 de ani pe piața din România și de peste 10 ani în Republica Moldova, Alukönigstahl deschide un nou capitol în evoluția sa, prin lansarea unei noi identități vizuale și a unui mesaj de brand care reflectă filosofia companiei:… https:// comunicatpresa.9z.ro/alukonigs tahl-lanseaza-un-nou-logo-si-o-noua-identitate-de-brand/"
+    },
+    {
+      "title": "",
       "link": "https://social.5th.ro/@9z/117678184213727084",
       "date": "Wed, 25 Nov 2026 17:09:50 +0000",
       "content": "LitterAM, un nou podcast cultural lansat la Focșani, își propune să promoveze literatura, teatrul și dialogul cultural contemporan. Prima ediție îl are ca invitat pe actorul și regizorul Sorin Francu, în dialog cu scriitorul Adrian Matei. https:// 9z.ro/podcast-cultural-littera m/"
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@9z/117613810397865099",
       "date": "Sat, 14 Nov 2026 08:18:43 +0000",
       "content": "Poți avea o manichiură rezistentă, cu aspect îngrijit, fără să folosești o lampă UV sau LED? Tehnica Dip Powder oferă această posibilitate și reprezintă o alternativă la oja semipermanentă și gelurile tradiționale. Totuși, înainte să o încerci, este important să înțelegi atât avantajele, cât și efectele pe care aplicarea și îndepărtarea produselor le pot avea… https:// comunicatpresa.9z.ro/manichiur a-fara-lampa-uv-ce-avantaje-si-riscuri-are-tehnica-dip-powder-pentru-unghiile-naturale/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@9z/117603502491029687",
-      "date": "Thu, 12 Nov 2026 12:37:17 +0000",
-      "content": "Peste 35 de modele, femei și bărbați cu vârste de peste 35 de ani, au prezentat creațiile a 11 designeri români, într-un spectacol care a îmbinat moda, creativitatea și eleganța atemporală, completat de un show de lumini și o producție scenică spectaculoasă. https:// 9z.ro/eleganta-nu-are-varsta-n ici-pe-drum-nici-pe-podium/"
     }
   ]
 }

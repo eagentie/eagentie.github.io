@@ -4,8 +4,14 @@
   "site_feed": "https://doctorite.ro/feed/",
   "mastodon": "https://social.5th.ro/@DoctoriteBlog",
   "mastodon_rss": "https://social.5th.ro/@DoctoriteBlog.rss",
-  "updated_at": "2026-11-26T02:50:53Z",
+  "updated_at": "2026-11-26T12:26:03Z",
   "site_posts": [
+    {
+      "title": "Rigiditate articulara dimineata: de ce apare si ce poti face pentru a te misca mai usor?",
+      "link": "https://doctorite.ro/rigiditate-articulara-dimineata-de-ce-apare-si-ce-poti-face-pentru-a-te-misca-mai-usor",
+      "date": "Thu, 26 Nov 2026 06:36:02 GMT",
+      "summary": ""
+    },
     {
       "title": "Colposcopia – când este recomandată și ce poate descoperi această investigație ginecologică",
       "link": "https://doctorite.ro/colposcopie-investigatie-ginecologica",
@@ -71,12 +77,6 @@
       "link": "https://doctorite.ro/pierderea-masei-musculare-la-perimenopauza-si-menopauza-rolul-recuperarii-medicale",
       "date": "Thu, 20 Aug 2026 04:45:35 GMT",
       "summary": "Consultant științific: Dr. Mirena Niculae, Medic specialist reabilitare medicală. Perimenopauza și menopauza sunt perioade caracterizate de schimbări."
-    },
-    {
-      "title": "Durerea lombară după o zi la birou. Semnele care cer mai mult decât un antiinflamator",
-      "link": "https://doctorite.ro/durerea-lombara-dupa-o-zi-la-birou-semnele-care-cer-mai-mult-decat-un-antiinflamator",
-      "date": "Mon, 10 Aug 2026 12:39:42 GMT",
-      "summary": "Dacă lucrezi la birou, conduci mult sau petreci ore întregi pe scaun, durerea lombară poate deveni parte din rutina zilnică înainte să-i acorzi atenție. O."
     }
   ],
   "mastodon_posts": [
