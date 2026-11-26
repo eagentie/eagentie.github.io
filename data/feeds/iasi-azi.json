@@ -4,8 +4,32 @@
   "site_feed": "https://iasi-azi.ro/feed/",
   "mastodon": "https://social.5th.ro/@Iasi",
   "mastodon_rss": "https://social.5th.ro/@Iasi.rss",
-  "updated_at": "2026-11-26T12:24:57Z",
+  "updated_at": "2026-11-26T22:18:57Z",
   "site_posts": [
+    {
+      "title": "Hârlău și Cotnari: Curtea Domnească, bisericile domnitorilor și Schola Latina",
+      "link": "https://iasi-azi.ro/harlau-si-cotnari-curtea-domneasca-biserici-schola-latina",
+      "date": "Thu, 26 Nov 2026 15:44:56 GMT",
+      "summary": "Ce vezi la Hârlău și Cotnari: Biserica Sfântul Gheorghe a lui Ștefan cel Mare (1492), Curtea Domnească, Schola Latina a lui Despot Vodă și cramele."
+    },
+    {
+      "title": "Pașcani: ce vizitezi și cum ajungi cu trenul din Iași",
+      "link": "https://iasi-azi.ro/pascani-ghid-ce-vizitezi-cum-ajungi-cu-trenul-din-iasi",
+      "date": "Thu, 26 Nov 2026 15:44:56 GMT",
+      "summary": "Ghid pentru Pașcani: trenul din Iași (76 km, linia 606), Palatul Cantacuzino-Pașcanu, biserica din 1664, gara și orașul lui Sadoveanu."
+    },
+    {
+      "title": "Mănăstirea Galata din Iași: istorie, turlele, palatul domnesc și ce vezi azi",
+      "link": "https://iasi-azi.ro/manastirea-galata-iasi-istorie-turnuri-palatul-domnesc",
+      "date": "Thu, 26 Nov 2026 15:44:56 GMT",
+      "summary": "Mănăstirea Galata din Iași, ctitoria lui Petru Șchiopul din 1582–1584: biserica cu două turle, clopotnița, ruinele palatului domnesc și adresa."
+    },
+    {
+      "title": "Mănăstirea Cetățuia din Iași: istorie, Sala Gotică și ce vezi la fața locului",
+      "link": "https://iasi-azi.ro/manastirea-cetatuia-iasi-istorie-sala-gotica-cum-ajungi",
+      "date": "Thu, 26 Nov 2026 15:44:56 GMT",
+      "summary": "Mănăstirea Cetățuia din Iași, ridicată de Gheorghe Duca în 1669–1672: biserica, Sala Gotică, Casa Domnească, adresa și ce trebuie să știi înainte de vizită."
+    },
     {
       "title": "2.972 de oameni au învățat primul ajutor în Iași",
       "link": "https://iasi-azi.ro/2-972-de-oameni-au-invatat-primul-ajutor-in-iasi",
@@ -53,30 +77,6 @@
       "link": "https://iasi-azi.ro/mutare-in-iasi-checklist-pentru-relocare-din-alt-oras",
       "date": "Fri, 07 Aug 2026 10:52:00 GMT",
       "summary": "Relocarea în Iași e mai lină cu o listă pe săptămâni, nu pe zile haotice. Mai jos e ordinea pe care o folosesc mulți nou-sosiți — adaptabilă familiei sau."
-    },
-    {
-      "title": "Unde îți pui laptopul azi? Mic ghid de lucru remote în Iași",
-      "link": "https://iasi-azi.ro/unde-iti-pui-laptopul-azi-mic-ghid-de-lucru-remote-in-iasi",
-      "date": "Tue, 04 Aug 2026 20:18:20 GMT",
-      "summary": "Dacă lucrezi remote de ceva vreme, probabil ai trecut prin toate fazele: entuziasmul biroului de acasă, apoi plictiseala lui, apoi ziua în care realizezi că."
-    },
-    {
-      "title": "Utilități în Iași: cum citești factura și la cine te adresezi",
-      "link": "https://iasi-azi.ro/utilitati-in-iasi-cum-citesti-factura-si-la-cine-te-adresezi",
-      "date": "Sat, 01 Aug 2026 07:37:00 GMT",
-      "summary": "Facturi utilități Iași: consum, tarife, furnizor vs distribuitor și cum contestezi corect."
-    },
-    {
-      "title": "Reciclare și colectare separată în Iași: ce reguli contează pentru locuitori",
-      "link": "https://iasi-azi.ro/reciclare-si-colectare-separata-in-iasi-ce-reguli-conteaza-pentru-locuitori",
-      "date": "Thu, 23 Jul 2026 13:03:00 GMT",
-      "summary": "Colectarea separată funcționează mai bine când știi exact ce intră în fiecare recipient — și când verifici programul pentru blocul tău. Regulile pot varia."
-    },
-    {
-      "title": "Stomatologie și oftalmologie în Iași: cum alegi clinica potrivită",
-      "link": "https://iasi-azi.ro/stomatologie-si-oftalmologie-in-iasi-cum-alegi-clinica-potrivita",
-      "date": "Tue, 14 Jul 2026 08:15:00 GMT",
-      "summary": "Stomatologie și oftalmologie Iași: deviz clar, controale preventive și când nu amâna consultul."
     }
   ],
   "mastodon_posts": [

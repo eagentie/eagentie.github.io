@@ -4,8 +4,32 @@
   "site_feed": "https://dobrogea-news.ro/feed/",
   "mastodon": "https://social.5th.ro/@dobrogea",
   "mastodon_rss": "https://social.5th.ro/@dobrogea.rss",
-  "updated_at": "2026-11-26T12:25:11Z",
+  "updated_at": "2026-11-26T22:19:10Z",
   "site_posts": [
+    {
+      "title": "Epava de la Costinești: povestea navei Evanghelia și ce vezi azi",
+      "link": "https://dobrogea-news.ro/epava-de-la-costinesti-povestea-navei-evanghelia",
+      "date": "Thu, 26 Nov 2026 15:50:25 GMT",
+      "summary": "Epava de la Costinești este nava grecească Evanghelia, eșuată în 1968. Povestea ei, cum arată azi și de ce e periculos să urci pe ea."
+    },
+    {
+      "title": "Permisul de acces în Delta Dunării: cât costă, cine plătește și de unde îl cumperi",
+      "link": "https://dobrogea-news.ro/permis-delta-dunarii-cat-costa-cine-plateste-si-de-unde-il-cumperi",
+      "date": "Thu, 26 Nov 2026 15:50:25 GMT",
+      "summary": "Cât costă permisul de acces în Delta Dunării în 2026: 5 lei pe zi, 15 lei pe 7 zile, 30 de lei pe an. Cine nu plătește și de unde îl cumperi."
+    },
+    {
+      "title": "Acvariul din Tulcea, la Centrul Muzeal Eco-Turistic Delta Dunării: program și bilete",
+      "link": "https://dobrogea-news.ro/acvariul-din-tulcea-centrul-muzeal-eco-turistic-program-si-bilete",
+      "date": "Thu, 26 Nov 2026 15:50:25 GMT",
+      "summary": "Acvariul din Tulcea, la Centrul Muzeal Eco-Turistic Delta Dunării: adresa, programul, prețul biletelor în 2026 și ce specii de pești vezi."
+    },
+    {
+      "title": "Sulina: cum ajungi cu nava de la Tulcea, Farul Vechi, cimitirul și plaja",
+      "link": "https://dobrogea-news.ro/sulina-cum-ajungi-cu-nava-de-la-tulcea-farul-vechi-si-plaja",
+      "date": "Thu, 26 Nov 2026 15:50:25 GMT",
+      "summary": "Cum ajungi la Sulina cu nava de la Tulcea: orarul pe sezoane, durata și prețul biletului în 2026. Ce vezi în oraș: Farul Vechi, cimitirul și plaja."
+    },
     {
       "title": "Aproape 700 de elevi din 8 localități din județul Constanța au participat la activități educative despre sănătatea animalelor și prevenirea rabiei",
       "link": "https://dobrogea-news.ro/elevi-localitati-din-judetul-constanta",
@@ -16,7 +40,7 @@
       "title": "Este obligatoriu comunicatul de presă în proiectele cu fonduri UE?",
       "link": "https://dobrogea-news.ro/comunicat-presa-obligatoriu-fonduri-europene",
       "date": "Tue, 03 Nov 2026 17:01:56 GMT",
-      "summary": "Ce cere Regulamentul UE 2021/1060, de unde vine obligatia anuntului de presa, ce trebuie sa contina si ce dovada pastrezi pentru rambursare."
+      "summary": "Ce cere Regulamentul UE 2021/1060, de unde vine obligația anunțului de presă, ce trebuie să conțină și ce dovadă păstrezi pentru rambursare."
     },
     {
       "title": "ARC MEDIASOFT SRL - Anunț public privind decizia etapei de încadrare",
@@ -52,30 +76,6 @@
       "title": "Diferența dintre Mastodon și X/Twitter: ce câștigi, ce pierzi",
       "link": "https://dobrogea-news.ro/diferenta-dintre-mastodon-si-x-twitter-ce-castigi-ce-pierzi",
       "date": "Wed, 17 Dec 2025 16:58:54 GMT",
-      "summary": ""
-    },
-    {
-      "title": "Prețuri advertoriale în 2025: cât mai merită să plătești pe un articol",
-      "link": "https://dobrogea-news.ro/preturi-advertoriale-in-2025-cat-mai-merita-sa-platesti-pe-un-articol",
-      "date": "Mon, 01 Dec 2025 12:07:49 GMT",
-      "summary": ""
-    },
-    {
-      "title": "Bankroll management în poker: cea mai importantă regulă a jucătorului serios",
-      "link": "https://dobrogea-news.ro/bankroll-management-in-poker-cea-mai-importanta-regula-a-jucatorului-serios",
-      "date": "Sat, 15 Nov 2025 10:03:28 GMT",
-      "summary": ""
-    },
-    {
-      "title": "Structura ideală de articole pentru SEO: H1, H2, paragrafe și FAQ",
-      "link": "https://dobrogea-news.ro/structura-ideala-de-articole-pentru-seo-h1-h2-paragrafe-si-faq",
-      "date": "Fri, 14 Nov 2025 12:45:56 GMT",
-      "summary": ""
-    },
-    {
-      "title": "Păcănele online vs cazino fizic: ce experiență ți se potrivește mai bine?",
-      "link": "https://dobrogea-news.ro/pacanele-online-vs-cazino-fizic-ce-experienta-ti-se-potriveste-mai-bine",
-      "date": "Fri, 14 Nov 2025 09:07:58 GMT",
       "summary": ""
     }
   ],

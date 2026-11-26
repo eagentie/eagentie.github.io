@@ -4,8 +4,32 @@
   "site_feed": "https://brasov-azi.ro/feed/",
   "mastodon": "https://social.5th.ro/@brasov",
   "mastodon_rss": "https://social.5th.ro/@brasov.rss",
-  "updated_at": "2026-11-26T12:25:16Z",
+  "updated_at": "2026-11-26T22:19:14Z",
   "site_posts": [
+    {
+      "title": "Parcarea în Poiana Brașov: tarif, plata prin SMS și ce se schimbă",
+      "link": "https://brasov-azi.ro/parcare-poiana-brasov-tarif-plata-sms",
+      "date": "Thu, 26 Nov 2026 15:39:10 GMT",
+      "summary": "Cât costă parcarea în Poiana Brașov, când plătești, cum trimiți SMS-ul pentru zona 0, aplicația TPark și noile tarife propuse de primărie."
+    },
+    {
+      "title": "Patinoare în Brașov: unde patinezi iarna, program și bilete",
+      "link": "https://brasov-azi.ro/patinoare-brasov-program-bilete-iarna",
+      "date": "Thu, 26 Nov 2026 15:39:10 GMT",
+      "summary": "Patinoarele din Brașov iarna: Patinoarul Olimpic din Parcul Tractorul, prețul pe serie, programul pentru public și ce să știi înainte."
+    },
+    {
+      "title": "Paradisul Acvatic Brașov: program, prețuri și reguli pentru copii",
+      "link": "https://brasov-azi.ro/paradisul-acvatic-brasov-program-preturi-reguli",
+      "date": "Thu, 26 Nov 2026 15:39:10 GMT",
+      "summary": "Paradisul Acvatic Brașov: programul pe zile, de la cât pornesc prețurile, regulile pentru copii, cum plătești și unde e complexul."
+    },
+    {
+      "title": "Dino Parc Râșnov: program, bilete și ce vezi, iarna și vara",
+      "link": "https://brasov-azi.ro/dino-parc-rasnov-program-bilete-iarna-vara",
+      "date": "Thu, 26 Nov 2026 15:39:10 GMT",
+      "summary": "Dino Parc Râșnov e deschis tot anul: programul de iarnă și de vară, prețul biletelor, ce e inclus, atracțiile cu plată separată și cum ajungi."
+    },
     {
       "title": "Echipamente sportive second-hand: ce verifici",
       "link": "https://brasov-azi.ro/echipamente-sportive-second-ce-verifici",
@@ -52,30 +76,6 @@
       "title": "Curele trapezoidale: tipuri, utilizări și cum alegi corect pentru utilaje și aplicații industriale",
       "link": "https://brasov-azi.ro/curele-trapezoidale-tipuri-utilizari-si-cum-alegi-corect-pentru-utilaje-si-aplicatii-industriale",
       "date": "Sat, 16 May 2026 05:43:06 GMT",
-      "summary": ""
-    },
-    {
-      "title": "Cum alegi corect o firmă de producție publicitară în București pentru un proiect fără întârzieri",
-      "link": "https://brasov-azi.ro/cum-alegi-corect-o-firma-de-productie-publicitara-in-bucuresti-pentru-un-proiect-fara-intarzieri",
-      "date": "Wed, 08 Apr 2026 02:49:53 GMT",
-      "summary": ""
-    },
-    {
-      "title": "Păreri VivaDiva – ce spun modelele pe Forumvideochat.ro despre studiourile mici de videochat din Iași",
-      "link": "https://brasov-azi.ro/pareri-vivadiva-ce-spun-modelele-pe-forumvideochat-ro-despre-studiourile-mici-de-videochat-din-iasi",
-      "date": "Mon, 30 Mar 2026 17:09:06 GMT",
-      "summary": ""
-    },
-    {
-      "title": "Închirieri auto Cluj: cum gestionezi o perioadă incertă și data de retur",
-      "link": "https://brasov-azi.ro/inchirieri-auto-cluj-cum-gestionezi-o-perioada-incerta-si-data-de-retur",
-      "date": "Fri, 06 Mar 2026 22:34:00 GMT",
-      "summary": ""
-    },
-    {
-      "title": "De ce site-urile construite ieftin costă cel mai mult pe termen lung: calculul pe care nu îl face nimeni la început",
-      "link": "https://brasov-azi.ro/de-ce-site-urile-construite-ieftin-costa-cel-mai-mult-pe-termen-lung-calculul-pe-care-nu-il-face-nimeni-la-inceput",
-      "date": "Thu, 05 Mar 2026 09:01:00 GMT",
       "summary": ""
     }
   ],

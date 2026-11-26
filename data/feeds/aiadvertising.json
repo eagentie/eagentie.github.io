@@ -4,8 +4,56 @@
   "site_feed": "https://aiadvertising.ro/feed/",
   "mastodon": "https://social.5th.ro/@ai_advertising",
   "mastodon_rss": "https://social.5th.ro/@ai_advertising.rss",
-  "updated_at": "2026-11-26T12:24:51Z",
+  "updated_at": "2026-11-26T22:18:53Z",
   "site_posts": [
+    {
+      "title": "Meta Ads: ce este și cum funcționează reclamele pe Facebook și Instagram",
+      "link": "https://aiadvertising.ro/ce-este-meta-ads",
+      "date": "Thu, 26 Nov 2026 12:27:03 GMT",
+      "summary": "Meta Ads este platforma de reclame pentru Facebook, Instagram, Messenger și aplicațiile partenere. Cum e organizată o campanie și cum se plătește."
+    },
+    {
+      "title": "LTV (lifetime value): ce este, formula și exemplu",
+      "link": "https://aiadvertising.ro/ce-este-ltv-lifetime-value",
+      "date": "Thu, 26 Nov 2026 12:27:03 GMT",
+      "summary": "LTV (lifetime value) arată cât aduce un client pe toată durata relației cu firma. Formula, un exemplu de calcul și legătura cu costul de achiziție."
+    },
+    {
+      "title": "Landing page: ce este și ce trebuie să conțină",
+      "link": "https://aiadvertising.ro/ce-este-un-landing-page",
+      "date": "Thu, 26 Nov 2026 12:27:03 GMT",
+      "summary": "Landing page-ul este pagina pe care ajunge omul după clicul pe o reclamă și care îi cere o singură acțiune. Ce conține și cum îl măsori."
+    },
+    {
+      "title": "SEM (search engine marketing): ce este și cum diferă de SEO",
+      "link": "https://aiadvertising.ro/ce-este-sem-search-engine-marketing",
+      "date": "Thu, 26 Nov 2026 12:27:03 GMT",
+      "summary": "SEM înseamnă promovarea în motoarele de căutare, de obicei prin reclame plătite. Cum funcționează, ce îl deosebește de SEO și de PPC și ce urmărești."
+    },
+    {
+      "title": "SSP (supply-side platform): ce este și cum funcționează",
+      "link": "https://aiadvertising.ro/ce-este-ssp-supply-side-platform",
+      "date": "Thu, 26 Nov 2026 12:27:03 GMT",
+      "summary": "SSP-ul este platforma prin care site-urile și aplicațiile își vând automat spațiul publicitar. Cum funcționează, ce e prețul minim și ce îl deosebește de DSP."
+    },
+    {
+      "title": "DSP (demand-side platform): ce este și cum funcționează",
+      "link": "https://aiadvertising.ro/ce-este-dsp-demand-side-platform",
+      "date": "Thu, 26 Nov 2026 12:27:03 GMT",
+      "summary": "Un DSP este platforma prin care advertiserii cumpără automat afișări de pe mii de site-uri și aplicații. Cum funcționează, ce îl deosebește de SSP și exemple."
+    },
+    {
+      "title": "Advertorial: ce este și cum se recunoaște",
+      "link": "https://aiadvertising.ro/ce-este-un-advertorial",
+      "date": "Thu, 26 Nov 2026 12:27:03 GMT",
+      "summary": "Advertorialul este un articol plătit, scris în stilul presei și marcat ca publicitate. Ce îl deosebește de un articol obișnuit și cum se marchează corect."
+    },
+    {
+      "title": "ROAS (return on ad spend): ce este, formula și exemplu",
+      "link": "https://aiadvertising.ro/ce-este-roas-return-on-ad-spend",
+      "date": "Thu, 26 Nov 2026 12:27:03 GMT",
+      "summary": "ROAS arată câți lei încasezi pentru fiecare leu dat pe reclame. Formula, un exemplu de calcul și pragul de la care o campanie începe să aducă profit."
+    },
     {
       "title": "Stocuri de marfă la lichidare: ce verifici",
       "link": "https://aiadvertising.ro/stocuri-de-marfa-la-lichidare",
@@ -29,54 +77,6 @@
       "link": "https://aiadvertising.ro/model-hibrid-site-ul-propriu-marketplace-2",
       "date": "Fri, 25 Sep 2026 15:40:56 GMT",
       "summary": "Afla cum un model hibrid de vanzare combina site ul propriu cu un marketplace pentru a stabili veniturile si a reduce riscul de trafic."
-    },
-    {
-      "title": "De ce să alegi un model hibrid de vânzare: cum combini site-ul propriu cu Infinity Marketplace",
-      "link": "https://aiadvertising.ro/model-hibrid-site-ul-propriu-marketplace",
-      "date": "Fri, 25 Sep 2026 15:40:55 GMT",
-      "summary": "Afla cum sa combinezi site ul propriu cu un marketplace pentru a stabili veniturile si a reduce riscurile de trafic in e-commerce."
-    },
-    {
-      "title": "De la tradiție la excelență: de ce să alegi bijuterii de aur din România semnate TEILOR",
-      "link": "https://aiadvertising.ro/bijuterii-aur-din-romania-teilor",
-      "date": "Mon, 14 Sep 2026 16:05:17 GMT",
-      "summary": "TEILOR combină tradiția artizanală cu certificări internaționale, oferind bijuterii din aur 18K și diamante GIA într-o rețea extinsă de magazine."
-    },
-    {
-      "title": "Asigurare de călătorie - Șapte documente pe care trebuie să le păstrezi după o consultație în străinătate",
-      "link": "https://aiadvertising.ro/asigurare-de-calatorie-sapte-documente-pe-care-trebuie-sa-le-pastrezi-dupa-o-consultatie-in-strainatate",
-      "date": "Thu, 03 Sep 2026 11:56:00 GMT",
-      "summary": ""
-    },
-    {
-      "title": "La câte puncte de penalizare se suspendă permisul și cum funcționează sistemul în România",
-      "link": "https://aiadvertising.ro/la-cate-puncte-de-penalizare-se-suspenda-permisul-si-cum-functioneaza-sistemul-in-romania",
-      "date": "Fri, 28 Aug 2026 21:33:00 GMT",
-      "summary": ""
-    },
-    {
-      "title": "Cum folosești AI ca să scrii un anunț clar, fără să inventezi detalii: ghid CSV.RO",
-      "link": "https://aiadvertising.ro/cum-folosesti-ai-scrii-anunt-clar-fara-inventezi-detalii",
-      "date": "Fri, 14 Aug 2026 09:43:08 GMT",
-      "summary": "Folosește AI pentru titlu și structură, dar verifică manual starea, specificațiile, prețul și fotografiile înainte să publici un anunț."
-    },
-    {
-      "title": "Cancerul gastric: diagnostic precoce și tratament chirurgical",
-      "link": "https://aiadvertising.ro/cancerul-gastric-diagnostic-precoce-si-tratament-chirurgical",
-      "date": "Fri, 31 Jul 2026 08:32:01 GMT",
-      "summary": ""
-    },
-    {
-      "title": "Opinia unui fost model despre Viva Diva – de ce am plecat după 4 luni și ce am aflat pe ForumVideoChat.ro",
-      "link": "https://aiadvertising.ro/opinia-unui-fost-model-despre-viva-diva-de-ce-am-plecat-dupa-4-luni-si-ce-am-aflat-pe-forumvideochat-ro",
-      "date": "Thu, 30 Jul 2026 07:41:20 GMT",
-      "summary": ""
-    },
-    {
-      "title": "Cum ajută NuEra Tight la reducerea celulitei și fermitatea pielii",
-      "link": "https://aiadvertising.ro/cum-ajuta-nuera-tight-la-reducerea-celulitei-si-fermitatea-pielii",
-      "date": "Thu, 30 Jul 2026 07:11:49 GMT",
-      "summary": ""
     }
   ],
   "mastodon_posts": [

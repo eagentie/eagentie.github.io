@@ -4,7 +4,7 @@
   "site_feed": "https://topantreprenor.ro/feed/",
   "mastodon": "https://social.5th.ro/@topantreprenor",
   "mastodon_rss": "https://social.5th.ro/@topantreprenor.rss",
-  "updated_at": "2026-11-26T12:25:51Z",
+  "updated_at": "2026-11-26T22:19:46Z",
   "site_posts": [
     {
       "title": "Cum aleg firmele un program de facturare potrivit?",
@@ -23,12 +23,6 @@
       "link": "https://topantreprenor.ro/ai-o-dacia-si-ti-s-a-stricat-ceva-la-ea-trucul-pe-care-multi-soferi-il-descopera-abia-dupa-ce-au-cheltuit-o-avere",
       "date": "Thu, 19 Nov 2026 09:35:57 GMT",
       "summary": ""
-    },
-    {
-      "title": "MORE Networking celebrează antreprenoriatul feminin pe 19 noiembrie 2026",
-      "link": "https://topantreprenor.ro/gala-antreprenoriatul-feminin-2026",
-      "date": "Wed, 11 Nov 2026 16:26:15 GMT",
-      "summary": "Afla cum comunitatea MORE Networking sustine antreprenoriatul feminin la Gala din 19 noiembrie 2026."
     },
     {
       "title": "AI Act: firmele care folosesc AI trebuie să-și pregătească angajații. Ghid practic pentru manageri, de la coachul executiv Geo Ivanov",
@@ -77,6 +71,12 @@
       "link": "https://topantreprenor.ro/carti-romaneesti-contemporane",
       "date": "Tue, 13 Oct 2026 19:42:40 GMT",
       "summary": "Descopera trei carti romanesti contemporane: nonfictiune, pamflet si poezie. Afla cum fiecare autor abordeaza memoria, societatea si interioritatea."
+    },
+    {
+      "title": "Dincolo de periaj: obiceiurile mici care pot schimba felul în care ai grijă de dinții tăi",
+      "link": "https://topantreprenor.ro/obiceiuri-care-pot-schimba-igiena-orala",
+      "date": "Sat, 10 Oct 2026 18:33:12 GMT",
+      "summary": "Descopera cum obiceiurile zilnice pot schimba igiena orala. Afla ce gesturi simple iti protejeaza dintii pe termen lung si cand sa mergi la dentist."
     }
   ],
   "mastodon_posts": [

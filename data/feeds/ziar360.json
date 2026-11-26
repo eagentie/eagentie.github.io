@@ -4,7 +4,7 @@
   "site_feed": "https://ziar360.ro/feed/",
   "mastodon": "https://social.5th.ro/@ziar360",
   "mastodon_rss": "https://social.5th.ro/@ziar360.rss",
-  "updated_at": "2026-11-26T12:25:06Z",
+  "updated_at": "2026-11-26T22:19:06Z",
   "site_posts": [
     {
       "title": "Ce documente emite corect un PFA cu venituri din mai multe surse",
@@ -25,12 +25,6 @@
       "summary": ""
     },
     {
-      "title": "Firmele își planifică publicitatea din ChatGPT, prin Comunicate.eu",
-      "link": "https://ziar360.ro/firmele-isi-planifica-publicitatea-din-chatgpt-prin-comunicate-eu",
-      "date": "Fri, 06 Nov 2026 07:00:00 GMT",
-      "summary": "O firma isi poate planifica advertorialele si comunicatele din ChatGPT sau Claude, cu preturi din catalog, prin serverul MCP Comunicate.eu. Articolul Firmele își planifică publicitatea din ChatGPT, prin Comunicate.eu apare prima dată în Revista Antreprenorului."
-    },
-    {
       "title": "Solar Watts: 17 ani de lumina romaneasca, construita cu rabdare, calitate si curaj",
       "link": "https://ziar360.ro/solar-watts-17-ani-de-lumina-romaneasca-construita-cu-rabdare-calitate-si-curaj",
       "date": "Wed, 04 Nov 2026 17:59:29 GMT",
@@ -46,12 +40,6 @@
       "title": "Cum se completează Meta Ads și Google Ads în procesul de achiziție B2B?",
       "link": "https://ziar360.ro/cum-se-completeaza-meta-ads-si-google-ads-in-procesul-de-achizitie-b2b",
       "date": "Sun, 01 Nov 2026 22:31:00 GMT",
-      "summary": ""
-    },
-    {
-      "title": "CAIR propune Guvernului un Pact pentru Producția din România: „Producem, procesăm, reinvestim în România”",
-      "link": "https://ziar360.ro/cair-propune-guvernului-un-pact-pentru-productia-din-romania-producem-procesam-reinvestim-in-romania",
-      "date": "Tue, 27 Oct 2026 08:04:57 GMT",
       "summary": ""
     },
     {
@@ -77,6 +65,18 @@
       "link": "https://ziar360.ro/divertisment-interactiv-rezultat",
       "date": "Fri, 16 Oct 2026 11:13:04 GMT",
       "summary": "Tehnologia a adaugat statistici live si optiuni de participare. Afla cum interactiunea modifica perceptia asupra rezultatului in divertisment."
+    },
+    {
+      "title": "Explorat, platforma fondată în Suceava care oferă peste 400.000 de experiențe turistice",
+      "link": "https://ziar360.ro/explorat-platforma-fondata-in-suceava-care-ofera-peste-400000-de-experiente-turistice",
+      "date": "Fri, 16 Oct 2026 11:11:52 GMT",
+      "summary": "Explorat - O platformă de rezervări fondată în Suceava de antreprenori români aduce la un loc experiențe turistice din întreaga lume."
+    },
+    {
+      "title": "Canal endodontic greu de localizat - ce poate clarifica microscopul",
+      "link": "https://ziar360.ro/canal-endodontic-greu-de-localizat-ce-poate-clarifica-microscopul",
+      "date": "Fri, 16 Oct 2026 07:38:53 GMT",
+      "summary": ""
     }
   ],
   "mastodon_posts": [
