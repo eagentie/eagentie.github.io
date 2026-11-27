@@ -4,8 +4,14 @@
   "site_feed": "https://stiridemocratice.ro/feed/",
   "mastodon": "https://social.5th.ro/@stiri_democratice",
   "mastodon_rss": "https://social.5th.ro/@stiri_democratice.rss",
-  "updated_at": "2026-11-27T05:01:59Z",
+  "updated_at": "2026-11-27T15:02:06Z",
   "site_posts": [
+    {
+      "title": "„Pecetea celor Fara de Frica”",
+      "link": "https://stiridemocratice.ro/lansarea-pecetea-celor/",
+      "date": "Tue, 24 Nov 2026 08:35:00 +0000",
+      "summary": "Lansarea cartii „Pecetea celor Fara de Frica” are loc pe 5 decembrie la Gaudeamus. Autoarea Arina Avram dezvaluie povesti secrete ale marilor eroi romani. Articolul „Pecetea celor Fara de Frica” apare prima dată în Stiri democratice ."
+    },
     {
       "title": "Dincolo de limite: drumul spre autonomie al copiilor cu cerinte educationale speciale",
       "link": "https://stiridemocratice.ro/dincolo-de-limite-drumul-spre-autonomie-al-copiilor-cu-cerinte-educationale-speciale/",
@@ -65,15 +71,15 @@
       "link": "https://stiridemocratice.ro/cum-eviti-sa-combini-alcoolul-cu-sesiunile-lungi-la-pacanele/",
       "date": "Sat, 15 Nov 2025 10:03:28 +0000",
       "summary": "Mulți dintre noi privesc jocurile de noroc ca pe o formă de divertisment. Fie că este vorba de o seară la cazinoul fizic sau de o sesiune online, adrenalina este un factor motivant. Totuși, ce se întâmplă când această activitate se intersectează cu consumul de alcool? Această combinație poate transforma rapid o experiență plăcută într-un [&#8230;] Articolul Cum eviți să combini alcoolul cu sesiunile lungi la păcănele apare prima dată în Stiri democratice ."
-    },
-    {
-      "title": "Jurnalul pariorului: cum îți notezi și analizezi biletele jucate",
-      "link": "https://stiridemocratice.ro/jurnalul-pariorului-cum-iti-notezi-si-analizezi-biletele-jucate/",
-      "date": "Fri, 14 Nov 2025 09:07:58 +0000",
-      "summary": "A (Atenție): Ești sătul să depui constant bani la casele de pariuri, fără să înțelegi exact unde greșești? Majoritatea pariorilor se bazează pe memorie sau pe emoție. Ei se concentrează doar pe rezultatul imediat, ratând imaginea de ansamblu esențială pentru succes. I (Interes): Vrei să transformi pariurile dintr-un hobby costisitor într-o activitate strategică, bazată pe [&#8230;] Articolul Jurnalul pariorului: cum îți notezi și analizezi biletele jucate apare prima dată în Stiri democratice ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@stiri_democratice/117687489951131065",
+      "date": "Fri, 27 Nov 2026 08:36:24 +0000",
+      "content": "Lansarea cartii „Pecetea celor Fara de Frica” are loc pe 5 decembrie la Gaudeamus. Autoarea Arina Avram dezvaluie povesti secrete ale marilor eroi romani. https:// stiridemocratice.ro/lansarea-p ecetea-celor/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@stiri_democratice/117523717768666442",

@@ -4,8 +4,14 @@
   "site_feed": "https://afaceriprofi.ro/feed/",
   "mastodon": "https://social.5th.ro/@AfaceriProfi",
   "mastodon_rss": "https://social.5th.ro/@AfaceriProfi.rss",
-  "updated_at": "2026-11-27T05:01:23Z",
+  "updated_at": "2026-11-27T15:01:32Z",
   "site_posts": [
+    {
+      "title": "Foraje puțuri apă – soluții eficiente pentru alimentarea cu apă a locuințelor și a obiectivelor industrial",
+      "link": "https://afaceriprofi.ro/foraje-puturi-apa",
+      "date": "Fri, 27 Nov 2026 13:28:33 GMT",
+      "summary": "Afla cum functioneaza foraje puturi apa si ce echipamente sunt necesare pentru o sursa proprie de apa in locuinte sau industrii."
+    },
     {
       "title": "Programarea unei reparații acasă: ce trimiți",
       "link": "https://afaceriprofi.ro/programarea-unei-reparatii-acasa",
@@ -71,12 +77,6 @@
       "link": "https://afaceriprofi.ro/ambalajele-alimentare-in-2026-ce-se-schimba-pentru-afacerile-horeca",
       "date": "Mon, 14 Sep 2026 15:48:57 GMT",
       "summary": "Regulamentele europene din 2026 fac distincție clară între materialele biodegradabile și cele compostabile. Iată ce trebuie să știi pentru a respecta noile norme."
-    },
-    {
-      "title": "Producția textilă personalizată: când este potrivită imprimarea DTG",
-      "link": "https://afaceriprofi.ro/productia-textila-personalizata-cand-este-potrivita-imprimarea-dtg",
-      "date": "Thu, 03 Sep 2026 09:21:55 GMT",
-      "summary": ""
     }
   ],
   "mastodon_posts": [

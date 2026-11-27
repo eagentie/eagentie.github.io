@@ -4,8 +4,14 @@
   "site_feed": "https://pentruoameni.ro/feed/",
   "mastodon": "https://social.5th.ro/@pentruoameni",
   "mastodon_rss": "https://social.5th.ro/@pentruoameni.rss",
-  "updated_at": "2026-11-27T05:00:37Z",
+  "updated_at": "2026-11-27T15:00:47Z",
   "site_posts": [
+    {
+      "title": "„Pecetea celor Fara de Frica”",
+      "link": "https://pentruoameni.ro/lansarea-pecetea-celor/",
+      "date": "Tue, 24 Nov 2026 08:35:00 +0000",
+      "summary": "Lansarea cartii „Pecetea celor Fara de Frica” are loc pe 5 decembrie la Gaudeamus. Autoarea Arina Avram dezvaluie povesti secrete ale marilor eroi romani. Articolul „Pecetea celor Fara de Frica” apare prima dată în Pentru Oameni ."
+    },
     {
       "title": "870 de stejari plantați în Pădurea Balta Neagră, Snagov",
       "link": "https://pentruoameni.ro/870-de-stejari-plantati-in-padurea-balta-neagra-snagov-in-cadrul-unei/",
@@ -71,15 +77,15 @@
       "link": "https://pentruoameni.ro/colagenul-pentru-articulatii-nu-este-o-solutie-instant-conteaza-tipul-durata-si-miscarea/",
       "date": "Mon, 10 Aug 2026 14:17:21 +0000",
       "summary": "Când urci scările, te ridici de pe scaun sau faci câțiva pași după o perioadă lungă de stat, genunchiul poate deveni primul lucru la care te gândești. De aici până la întrebarea „cum ajută colagenul articulațiile?” nu este decât un pas, mai ales când suplimentele promit mobilitate și mai puțină durere. Realitatea este mai puțin [&#8230;] Articolul Colagenul pentru articulații nu este o soluție instant: contează tipul, durata și mișcarea apare prima dată în Pentru Oameni ."
-    },
-    {
-      "title": "Lansarea proiectului „O nouă șansă independenței”",
-      "link": "https://pentruoameni.ro/lansarea-proiectului-o-noua-sansa-independentei/",
-      "date": "Tue, 04 Aug 2026 13:44:40 +0000",
-      "summary": "COMUNICAT DE PRESĂ Lansarea proiectului &#8222;O nouă șansă independenței&#8221; &#8211; Cod SMIS 354321 ASOCIAȚIA IZVORUL TĂMĂDUIRII MAVROGHENI, &#238;n parteneriat cu CENTRUL ROM&#194;N PENTRU EDUCAȚIE ȘI DEZVOLTARE UMANĂ (CRED) și ASOCIAȚIA &#8222;CENTRUL DE PERFORMANȚĂ BEFORE &#38; AFTER SCHOOL CONIL&#8221;, anunță lansarea proiectului &#8222;O nouă șansă independenței&#8221;, Cod SMIS 354321, cofinanțat de Uniunea Europeană prin Programul Incluziune [&#8230;] Articolul Lansarea proiectului „O nouă șansă independenței” apare prima dată în Pentru Oameni ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@pentruoameni/117687492131976952",
+      "date": "Fri, 27 Nov 2026 08:36:57 +0000",
+      "content": "Lansarea cartii „Pecetea celor Fara de Frica” are loc pe 5 decembrie la Gaudeamus. Autoarea Arina Avram dezvaluie povesti secrete ale marilor eroi romani. .... https:// pentruoameni.ro/lansarea-pecet ea-celor/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@pentruoameni/117670390021981570",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@pentruoameni/117071638934095290",
       "date": "Mon, 10 Aug 2026 14:17:23 +0000",
       "content": "Când urci scările, te ridici de pe scaun sau faci câțiva pași după o perioadă lungă de stat, genunchiul poate deveni primul lucru la care te gândești. De aici până la întrebarea „cum ajută colagenul articulațiile?” nu este decât un pas, mai ales când suplimentele promit mobilitate și mai puțină durere. Realitatea este mai puțin… .... https:// pentruoameni.ro/colagenul-pent ru-articulatii-nu-este-o-solutie-instant-conteaza-tipul-durata-si-miscarea/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@pentruoameni/117038263807226659",
-      "date": "Tue, 04 Aug 2026 16:49:39 +0000",
-      "content": "COMUNICAT DE PRESĂ Lansarea proiectului „O nouă șansă independenței” – Cod SMIS 354321 ASOCIAȚIA IZVORUL TĂMĂDUIRII MAVROGHENI, în parteneriat cu CENTRUL ROMÂN PENTRU EDUCAȚIE ȘI DEZVOLTARE UMANĂ (CRED) și ASOCIAȚIA „CENTRUL DE PERFORMANȚĂ BEFORE &amp; AFTER SCHOOL CONIL”, anunță lansarea proiectului „O nouă șansă independenței”, Cod SMIS 354321, cofinanțat de Uniunea Europeană prin Programul Incluziune… .... https:// pentruoameni.ro/lansarea-proie ctului-o-noua-sansa-independentei/"
     }
   ]
 }

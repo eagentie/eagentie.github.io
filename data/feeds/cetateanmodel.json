@@ -4,8 +4,14 @@
   "site_feed": "https://cetateanmodel.ro/feed/",
   "mastodon": "https://social.5th.ro/@cetatean_model",
   "mastodon_rss": "https://social.5th.ro/@cetatean_model.rss",
-  "updated_at": "2026-11-27T05:00:50Z",
+  "updated_at": "2026-11-27T15:00:59Z",
   "site_posts": [
+    {
+      "title": "„Pecetea celor Fara de Frica”",
+      "link": "https://cetateanmodel.ro/lansarea-pecetea-celor/",
+      "date": "Tue, 24 Nov 2026 08:35:00 +0000",
+      "summary": "Lansarea cartii „Pecetea celor Fara de Frica” are loc pe 5 decembrie la Gaudeamus. Autoarea Arina Avram dezvaluie povesti secrete ale marilor eroi romani. Articolul „Pecetea celor Fara de Frica” apare prima dată în Cetatean model ."
+    },
     {
       "title": "Asociația M.A.M.E. dezvoltă o rețea națională de sprijin pentru copiii cu boli grave și familiile acestora",
       "link": "https://cetateanmodel.ro/asociatia-mame-retea-sustinere-copii/",
@@ -71,15 +77,15 @@
       "link": "https://cetateanmodel.ro/cand-este-indicata-operatia-in-cancerul-de-colon/",
       "date": "Sun, 10 May 2026 06:30:00 +0000",
       "summary": "Te-ai simțit vreodată copleșit de un diagnostic medical neașteptat? Diagnosticul de cancer colorectal poate părea un obstacol insurmontabil la prima vedere, însă medicina actuală a evoluat enorm. Mulți pacienți se întreabă care sunt pașii următori și cum pot recâștiga controlul asupra sănătății lor. O soluție eficientă și adesea salvatoare este intervenția chirurgicală realizată la timp [&#8230;] Articolul Când este indicată operația în cancerul de colon apare prima dată în Cetatean model ."
-    },
-    {
-      "title": "Monitorizare GPS auto: Ce verifici înainte să alegi un furnizor",
-      "link": "https://cetateanmodel.ro/monitorizare-gps-auto-ce-verifici-inainte-sa-alegi-un-furnizor/",
-      "date": "Mon, 02 Mar 2026 15:09:05 +0000",
-      "summary": "Când cauți monitorizare GPS auto, cea mai mare greșeală este să compari doar prețul și să presupui că „toate fac același lucru”. Un sistem eficient de monitorizare GPS auto îți oferă rapoarte pe care le folosești cu adevărat, alerte fără exces și suport real, care intervine concret când ai nevoie. Monitorizare GPS auto: checklist înainte [&#8230;] Articolul Monitorizare GPS auto: Ce verifici înainte să alegi un furnizor apare prima dată în Cetatean model ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@cetatean_model/117687490498728842",
+      "date": "Fri, 27 Nov 2026 08:36:32 +0000",
+      "content": "Lansarea cartii „Pecetea celor Fara de Frica” are loc pe 5 decembrie la Gaudeamus. Autoarea Arina Avram dezvaluie povesti secrete ale marilor eroi romani. https:// cetateanmodel.ro/lansarea-pece tea-celor/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@cetatean_model/117598779929884159",
@@ -145,12 +151,6 @@
       "link": "https://social.5th.ro/@cetatean_model/116549679546246302",
       "date": "Sun, 10 May 2026 09:56:15 +0000",
       "content": "Te-ai simțit vreodată copleșit de un diagnostic medical neașteptat? Diagnosticul de cancer colorectal poate părea un obstacol insurmontabil la prima vedere, însă medicina actuală a evoluat enorm. Mulți pacienți se întreabă care sunt pașii următori și cum pot recâștiga controlul asupra sănătății lor. O soluție eficientă și adesea salvatoare este intervenția chirurgicală realizată la timp… https:// cetateanmodel.ro/cand-este-ind icata-operatia-in-cancerul-de-colon/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@cetatean_model/116160210486033921",
-      "date": "Mon, 02 Mar 2026 15:09:09 +0000",
-      "content": "Când cauți monitorizare GPS auto, cea mai mare greșeală este să compari doar prețul și să presupui că „toate fac același lucru”. Un sistem eficient de monitorizare GPS auto îți oferă rapoarte pe care le folosești cu adevărat, alerte fără exces și suport real, care intervine concret când ai nevoie. Monitorizare GPS auto: checklist înainte… https:// cetateanmodel.ro/monitorizare- gps-auto-ce-verifici-inainte-sa-alegi-un-furnizor/"
     }
   ]
 }

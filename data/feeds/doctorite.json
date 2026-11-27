@@ -4,8 +4,20 @@
   "site_feed": "https://doctorite.ro/feed/",
   "mastodon": "https://social.5th.ro/@DoctoriteBlog",
   "mastodon_rss": "https://social.5th.ro/@DoctoriteBlog.rss",
-  "updated_at": "2026-11-27T05:01:57Z",
+  "updated_at": "2026-11-27T15:02:04Z",
   "site_posts": [
+    {
+      "title": "Soluții moderne pentru recuperarea mobilității și îmbunătățirea calității vieții",
+      "link": "https://doctorite.ro/solutii-mobilitatii-si-imbunatatirea-vietii",
+      "date": "Fri, 27 Nov 2026 13:32:20 GMT",
+      "summary": "Afla cum kinetoterapia sprijina mobilitatii si imbunatatirea functiilor corporale prin exercitii adaptate nevoilor tale."
+    },
+    {
+      "title": "Cinci obiceiuri zilnice prin care îți susții imunitatea iarna",
+      "link": "https://doctorite.ro/cinci-obiceiuri-zilnice-prin-care-iti-sustii-imunitatea-iarna",
+      "date": "Fri, 27 Nov 2026 11:02:41 GMT",
+      "summary": ""
+    },
     {
       "title": "Rigiditate articulara dimineata: de ce apare si ce poti face pentru a te misca mai usor?",
       "link": "https://doctorite.ro/rigiditate-articulara-dimineata-de-ce-apare-si-ce-poti-face-pentru-a-te-misca-mai-usor",
@@ -65,18 +77,6 @@
       "link": "https://doctorite.ro/idei-de-cadouri-personalizate-pentru-cei-dragi-dincolo-de-clisee",
       "date": "Fri, 21 Aug 2026 05:51:55 GMT",
       "summary": "Aproape fiecare dintre noi a primit, la un moment dat, un cadou care, deși bine intenționat, nu a reușit să transmită nimic special — un obiect frumos, poate."
-    },
-    {
-      "title": "Sănătatea mitocondrială: ce știm, ce promite marketingul și cum evaluăm corect un supliment",
-      "link": "https://doctorite.ro/sanatatea-mitocondriala-ce-stim-ce-promite-marketingul-si-cum-evaluam-corect-un-supliment",
-      "date": "Thu, 20 Aug 2026 04:53:36 GMT",
-      "summary": "Despre mitocondrii se vorbește tot mai des: „mai multă energie”, „mitocondrii noi”, „întinerire celulară”. Interesul este firesc. Mitocondriile sunt organite."
-    },
-    {
-      "title": "Pierderea masei musculare la perimenopauză și menopauză: rolul recuperării medicale",
-      "link": "https://doctorite.ro/pierderea-masei-musculare-la-perimenopauza-si-menopauza-rolul-recuperarii-medicale",
-      "date": "Thu, 20 Aug 2026 04:45:35 GMT",
-      "summary": "Consultant științific: Dr. Mirena Niculae, Medic specialist reabilitare medicală. Perimenopauza și menopauza sunt perioade caracterizate de schimbări."
     }
   ],
   "mastodon_posts": [

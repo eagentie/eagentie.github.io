@@ -4,7 +4,7 @@
   "site_feed": "https://arta-constructiilor.ro/feed/",
   "mastodon": "https://social.5th.ro/@ArtaConstructiilor",
   "mastodon_rss": "https://social.5th.ro/@ArtaConstructiilor.rss",
-  "updated_at": "2026-11-27T05:02:06Z",
+  "updated_at": "2026-11-27T15:02:12Z",
   "site_posts": [
     {
       "title": "Optimizare SEO PrestaShop pornind de la categorii produse și filtre",
@@ -37,6 +37,12 @@
       "summary": "Noul cod impune urmarirea comportarii constructiilor in timp. Proprietarii din clasele CC2-CC4 au noi obligatii si sanctiuni. Articolul Legea 169/2026 schimbă regulile urmăririi comportării construcțiilor în România: ce trebuie să știe proprietarii și constructorii apare prima dată în Arta Constructiilor ."
     },
     {
+      "title": "Cum recunoști o garsonieră bine izolată fonic chiar de la prima vizionare într-un bloc nou?",
+      "link": "https://arta-constructiilor.ro/cum-recunosti-o-garsoniera-bine-izolata-fonic-chiar-de-la-prima-vizionare-intr-un-bloc-nou/",
+      "date": "Sun, 08 Nov 2026 09:18:00 +0000",
+      "summary": "Zgomotul produs de lift, apa care circulă prin conducte, pașii vecinilor de la etajul superior sau conversațiile din apartamentul alăturat pot deveni deranjante într-o locuință cu o izolare fonică insuficientă. Într-o garsonieră, problema este cu atât mai importantă cu cât dormitul, relaxarea și activitatea profesională se desfășoară, de cele mai multe ori, în aceeași încăpere. [&#8230;] Articolul Cum recunoști o garsonieră bine izolată fonic chiar de la prima vizionare într-un bloc nou? apare prima dată în Arta Constructiilor ."
+    },
+    {
       "title": "Cum folosești carotele diamantate pentru găurire în piatră fără să fisurezi placa?",
       "link": "https://arta-constructiilor.ro/carotele-diamantate-gaurire-piatra/",
       "date": "Fri, 06 Nov 2026 11:38:50 +0000",
@@ -53,15 +59,15 @@
       "link": "https://arta-constructiilor.ro/tapiteria-dupa-renovarea-locuintei-ce-trebuie-verificat-inainte-de-curatarea-canapelei/",
       "date": "Mon, 19 Oct 2026 04:32:25 +0000",
       "summary": "O curățare profesională a tapițeriei &#238;ncepe cu identificarea materialului și a problemei, nu cu aplicarea automată a unei soluții. Procedura, estimarea și recomandările de uscare trebuie stabilite după evaluarea compatibilității, iar petele sau mirosurile nu pot fi promise ca eliminate &#238;n orice situație. Praful de șantier nu se comportă ca murdăria obișnuită După zugrăvire, montarea [&#8230;] Articolul Tapițeria după renovarea locuinței: ce trebuie verificat înainte de curățarea canapelei apare prima dată în Arta Constructiilor ."
-    },
-    {
-      "title": "Cum se calculează puterea caloriferelor necesare unei locuințe: ghid pentru alegerea corectă a radiatoarelor",
-      "link": "https://arta-constructiilor.ro/calcul-puterea-caloriferelor/",
-      "date": "Thu, 15 Oct 2026 07:16:52 +0000",
-      "summary": "Inveleste sa calculezi necesarul termic al unei locuinte folosind volumul si gradul de izolare. Ghidul explica cum sa alegi radiatoarele potrivite. Articolul Cum se calculează puterea caloriferelor necesare unei locuințe: ghid pentru alegerea corectă a radiatoarelor apare prima dată în Arta Constructiilor ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@ArtaConstructiilor/117687665179094208",
+      "date": "Fri, 27 Nov 2026 09:20:58 +0000",
+      "content": "Zgomotul produs de lift, apa care circulă prin conducte, pașii vecinilor de la etajul superior sau conversațiile din apartamentul alăturat pot deveni deranjante într-o locuință cu o izolare fonică insuficientă.Într-o garsonieră, problema este cu atât mai importantă cu cât dormitul, relaxarea și activitatea profesională se desfășoară, de cele mai multe ori, în aceeași .... 🌐 https:// arta-constructiilor.ro/cum-rec unosti-o-garsoniera-bine-izolata-fonic-chiar-de-la-prima-vizionare-intr-un-bloc-nou/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@ArtaConstructiilor/117670473809056317",
@@ -127,12 +133,6 @@
       "link": "https://social.5th.ro/@ArtaConstructiilor/117443697912956409",
       "date": "Thu, 15 Oct 2026 07:16:53 +0000",
       "content": "Inveleste sa calculezi necesarul termic al unei locuinte folosind volumul si gradul de izolare. Ghidul explica cum sa alegi radiatoarele potrivite. .... 🌐 https:// arta-constructiilor.ro/calcul- puterea-caloriferelor/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@ArtaConstructiilor/117387479700138828",
-      "date": "Mon, 05 Oct 2026 08:59:51 +0000",
-      "content": "Un apartament nou pare fără riscuri, dar defectele de execuție apar mai des decât se crede, iar remedierea lor e mai simplă înainte de a prelua cheile decât după. Iată ce merită verificat la recepție și în actele de dinainte de semnare. Înainte de semnare: actele dezvoltatorului Autorizația de construire și faptul că lucrările se… .... 🌐 https:// arta-constructiilor.ro/apartam ent-intr-un-bloc-nou-ce-verifici-inainte-de-receptie-si-de-semnare/"
     }
   ]
 }

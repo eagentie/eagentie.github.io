@@ -4,8 +4,14 @@
   "site_feed": "https://stirisociale.ro/feed/",
   "mastodon": "https://social.5th.ro/@stiri_sociale",
   "mastodon_rss": "https://social.5th.ro/@stiri_sociale.rss",
-  "updated_at": "2026-11-27T05:01:40Z",
+  "updated_at": "2026-11-27T15:01:49Z",
   "site_posts": [
+    {
+      "title": "„Pecetea celor Fara de Frica”",
+      "link": "https://stirisociale.ro/lansarea-pecetea-celor/",
+      "date": "Tue, 24 Nov 2026 08:35:00 +0000",
+      "summary": "Lansarea cartii „Pecetea celor Fara de Frica” are loc pe 5 decembrie la Gaudeamus. Autoarea Arina Avram dezvaluie povesti secrete ale marilor eroi romani. Articolul „Pecetea celor Fara de Frica” apare prima dată în Stiri sociale ."
+    },
     {
       "title": "ROMÂNIA, PRIN ASOCIAȚIA FLOAREA VIEȚII D&L, LA MASA DIALOGULUI INTERNAȚIONAL DESPRE FAMILIILE MONOPARENTALE",
       "link": "https://stirisociale.ro/romania-prin-asociatia-floarea-vietii-d-amp-l-la-masa-dialogului/",
@@ -59,15 +65,15 @@
       "link": "https://stirisociale.ro/formare-autorizata-vs-neautorizata-cum-alegi-calea-corecta-pentru-succesul-organizatiei-tale/",
       "date": "Tue, 07 Apr 2026 08:08:48 +0000",
       "summary": "Într-o eră a informației instantanee, accesul la cunoaștere nu a fost niciodată mai simplu. Cu un singur click, poți accesa cursuri, webinarii și tutoriale pe aproape orice temă imaginabilă. Totuși,&#8230; Articolul Formare autorizată vs. neautorizată: Cum alegi calea corectă pentru succesul organizației tale? apare prima dată în Stiri sociale ."
-    },
-    {
-      "title": "Pantaloni moto pentru femei: protecție și feminitate",
-      "link": "https://stirisociale.ro/pantaloni-moto-pentru-femei-protectie-si-feminitate/",
-      "date": "Mon, 02 Mar 2026 15:09:37 +0000",
-      "summary": "Echipamentul moto pentru femei a evoluat semnificativ în ultimii ani. Nu mai este vorba doar despre o necesitate de siguranță, ci despre o parte firească a stilului și a încrederii&#8230; Articolul Pantaloni moto pentru femei: protecție și feminitate apare prima dată în Stiri sociale ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@stiri_sociale/117687492562655347",
+      "date": "Fri, 27 Nov 2026 08:37:04 +0000",
+      "content": "Lansarea cartii „Pecetea celor Fara de Frica” are loc pe 5 decembrie la Gaudeamus. Autoarea Arina Avram dezvaluie povesti secrete ale marilor eroi romani. https:// stirisociale.ro/lansarea-pecet ea-celor/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@stiri_sociale/117543385094826898",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@stiri_sociale/116130101838785568",
       "date": "Wed, 25 Feb 2026 07:32:07 +0000",
       "content": "Clujul este punctul de plecare, nu destinația finalăPentru mulți vizitatori, Cluj-Napoca nu este doar un oraș de explorat, ci baza din care pornesc spre alte destinații. Cheile Turzii, Salina Turda, zona Mărișel, Lacul Tarnița, Apuseni sau chiar orașe precum Oradea și Alba Iulia sunt la distanțe accesibile.Problema apare când planul inițial, gândit pentru deplasări https:// stirisociale.ro/inchiriere-aut o-pentru-vacanta-in-cluj-napoca-cum-alegi-corect-cand-planul-include-mai-mult-decat-orasul/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@stiri_sociale/116130005026573254",
-      "date": "Wed, 25 Feb 2026 07:07:30 +0000",
-      "content": "Formularul clasic de contact a fost, ani la rând, piesa centrală a conversiilor online. „Nume, email, telefon, mesaj” – o structură aproape neschimbată de un deceniu. Problema este că între timp comportamentul utilizatorilor s-a schimbat radical, iar formularul a rămas în urmă.În 2026, formularul clasic nu mai este doar ineficient. În multe cazuri, este un… https:// stirisociale.ro/de-ce-formular ele-clasice-de-contact-mor-in-2026-si-ce-le-ia-locul/"
     }
   ]
 }

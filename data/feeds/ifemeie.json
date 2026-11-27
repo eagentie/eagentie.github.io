@@ -4,8 +4,14 @@
   "site_feed": "https://iFemeie.ro/feed/",
   "mastodon": "https://social.5th.ro/@iFemeie",
   "mastodon_rss": "https://social.5th.ro/@iFemeie.rss",
-  "updated_at": "2026-11-27T05:02:11Z",
+  "updated_at": "2026-11-27T15:02:16Z",
   "site_posts": [
+    {
+      "title": "„Pecetea celor Fara de Frica”",
+      "link": "https://ifemeie.ro/lansarea-pecetea-celor/",
+      "date": "Tue, 24 Nov 2026 08:35:00 +0000",
+      "summary": "Lansarea cartii „Pecetea celor Fara de Frica” are loc pe 5 decembrie la Gaudeamus. Autoarea Arina Avram dezvaluie povesti secrete ale marilor eroi romani. Articolul „Pecetea celor Fara de Frica” apare prima dată în iFemeie ."
+    },
     {
       "title": "Oferte pentru curățenie și reparații: cum le compari",
       "link": "https://ifemeie.ro/oferte-pentru-curatenie-reparatii/",
@@ -65,15 +71,15 @@
       "link": "https://ifemeie.ro/cea-mai-buna-reteta-de-sorici-expandat/",
       "date": "Thu, 13 Aug 2026 17:17:07 +0000",
       "summary": "Câte seri nu s-au încheiat cu aceeași dilemă frustrantă: pofta incontrolabilă de ceva crocant în... Articolul Cea mai buna reteta de sorici expandat apare prima dată în iFemeie ."
-    },
-    {
-      "title": "Cum alegi rochia perfectă pentru un eveniment în Constanța",
-      "link": "https://ifemeie.ro/cum-alegi-rochia-perfecta-pentru-un-eveniment-in-constanta/",
-      "date": "Sat, 08 Aug 2026 04:53:56 +0000",
-      "summary": "Atunci când participi la un eveniment important, alegerea rochiei potrivite este unul dintre cele mai... Articolul Cum alegi rochia perfectă pentru un eveniment în Constanța apare prima dată în iFemeie ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@iFemeie/117687491636929802",
+      "date": "Fri, 27 Nov 2026 08:36:50 +0000",
+      "content": "Lansarea cartii „Pecetea celor Fara de Frica” are loc pe 5 decembrie la Gaudeamus. Autoarea Arina Avram dezvaluie povesti secrete ale marilor eroi romani. https:// ifemeie.ro/lansarea-pecetea-ce lor/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@iFemeie/117615149763212577",
@@ -139,12 +145,6 @@
       "link": "https://social.5th.ro/@iFemeie/117058098733814078",
       "date": "Sat, 08 Aug 2026 04:53:56 +0000",
       "content": "Atunci când participi la un eveniment important, alegerea rochiei potrivite este unul dintre cele mai importante detalii ale întregii ținute. Fie că este vorba despre o nuntă, un botez, o cununie civilă sau o gală, o rochie elegantă trebuie să îmbine confortul, rafinamentul și calitatea materialelor. În Constanța există tot mai multe opțiuni, însă alegerea… https:// ifemeie.ro/cum-alegi-rochia-pe rfecta-pentru-un-eveniment-in-constanta/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@iFemeie/117038253626389353",
-      "date": "Tue, 04 Aug 2026 16:47:04 +0000",
-      "content": "COMUNICAT DE PRESĂ Lansarea proiectului „O nouă șansă independenței” – Cod SMIS 354321 ASOCIAȚIA IZVORUL TĂMĂDUIRII MAVROGHENI, în parteneriat cu CENTRUL ROMÂN PENTRU EDUCAȚIE ȘI DEZVOLTARE UMANĂ (CRED) și ASOCIAȚIA „CENTRUL DE PERFORMANȚĂ BEFORE &amp; AFTER SCHOOL CONIL”, anunță lansarea proiectului „O nouă șansă independenței”, Cod SMIS 354321, cofinanțat de Uniunea Europeană prin Programul Incluziune… https:// ifemeie.ro/lansarea-proiectulu i-o-noua-sansa-independentei/"
     }
   ]
 }

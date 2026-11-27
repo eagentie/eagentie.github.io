@@ -4,8 +4,14 @@
   "site_feed": "https://recent-news.ro/feed/",
   "mastodon": "https://social.5th.ro/@recent_news",
   "mastodon_rss": "https://social.5th.ro/@recent_news.rss",
-  "updated_at": "2026-11-27T05:00:41Z",
+  "updated_at": "2026-11-27T15:00:50Z",
   "site_posts": [
+    {
+      "title": "„Pecetea celor Fara de Frica”",
+      "link": "https://recent-news.ro/lansarea-pecetea-celor/",
+      "date": "Tue, 24 Nov 2026 08:35:00 +0000",
+      "summary": "Lansarea cartii „Pecetea celor Fara de Frica” are loc pe 5 decembrie la Gaudeamus. Autoarea Arina Avram dezvaluie povesti secrete ale marilor eroi romani. Articolul „Pecetea celor Fara de Frica” apare prima dată în Recent News ."
+    },
     {
       "title": "Plata în rate la încălțăminte: când are sens și ce verifici înainte să alegi opțiunea",
       "link": "https://recent-news.ro/plata-in-rate-la-incaltaminte/",
@@ -59,15 +65,15 @@
       "link": "https://recent-news.ro/imobiliare-credite-si-asigurari-ecosistemul-castigator-in-2026-acceleratorul-revine-la-iasi/",
       "date": "Wed, 24 Jun 2026 08:49:35 +0000",
       "summary": "Pe 30 iunie 2026, Sala Eminescu a Grand Hotel Traian din Iași va găzdui cea de-a doua ediție a evenimentului&#8230; Articolul Imobiliare, credite și asigurări: ecosistemul câștigător în 2026. Acceleratorul revine la Iași apare prima dată în Recent News ."
-    },
-    {
-      "title": "Diverticulita complicată: când poate fi nevoie de tratament chirurgical",
-      "link": "https://recent-news.ro/diverticulita-complicata-cand-poate-fi-nevoie-de-tratament-chirurgical/",
-      "date": "Tue, 23 Jun 2026 08:05:55 +0000",
-      "summary": "Articol informativ pentru pacienți din București despre diverticulita complicată și momentele în care este necesară consultarea unui specialist. Articolul Diverticulita complicată: când poate fi nevoie de tratament chirurgical apare prima dată în Recent News ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@recent_news/117687491307041673",
+      "date": "Fri, 27 Nov 2026 08:36:45 +0000",
+      "content": "Lansarea cartii „Pecetea celor Fara de Frica” are loc pe 5 decembrie la Gaudeamus. Autoarea Arina Avram dezvaluie povesti secrete ale marilor eroi romani. https:// recent-news.ro/lansarea-pecete a-celor/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@recent_news/117360609830913261",
@@ -133,12 +139,6 @@
       "link": "https://social.5th.ro/@recent_news/116794525096393635",
       "date": "Mon, 22 Jun 2026 15:43:42 +0000",
       "content": "Livingul reprezintă inima oricărei locuințe moderne. Aici îți petreci cel mai mult timp liber, te relaxezi alături de familie și primești musafiri. Odată cu evoluția standardelor de construcție, conceptul de spațiu închis s-a modificat radical. Astăzi, tendința clară merge spre deschiderea completă a casei către grădină sau terasă. Pereții tradiționali sunt înlocuiți cu suprafețe vitrate… https:// recent-news.ro/de-ce-sunt-usil e-culisante-din-aluminiu-o-optiune-excelenta-pentru-living/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@recent_news/116793517476299598",
-      "date": "Mon, 22 Jun 2026 11:27:27 +0000",
-      "content": "Planurile pentru concediu încep adesea cu o listă lungă de dorințe. Vrei o plajă curată, cazare confortabilă, mâncare bună și un drum care să nu te lase fără energie înainte de a ajunge la destinație. Bulgaria bifează toate aceste cerințe de ani de zile. Turiștii români revin aici în fiecare sezon estival, dar și în… https:// recent-news.ro/de-ce-bulgaria- ramane-una-dintre-cele-mai-populare-destinatii-pentru-romani/"
     }
   ]
 }

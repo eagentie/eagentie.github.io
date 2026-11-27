@@ -4,8 +4,20 @@
   "site_feed": "https://noutati24.ro/feed/",
   "mastodon": "https://social.5th.ro/@noutati24",
   "mastodon_rss": "https://social.5th.ro/@noutati24.rss",
-  "updated_at": "2026-11-27T05:01:18Z",
+  "updated_at": "2026-11-27T15:01:26Z",
   "site_posts": [
+    {
+      "title": "Cumpărături inteligente pentru mașină: ce merită să ai la îndemână înainte să pleci la drum",
+      "link": "https://noutati24.ro/cumparaturi-inteligente-pentru-masina-ce-merita-sa-ai-la-indemana-inainte-sa-pleci-la-drum",
+      "date": "Fri, 27 Nov 2026 14:08:56 GMT",
+      "summary": ""
+    },
+    {
+      "title": "„Pecetea celor Fara de Frica”",
+      "link": "https://noutati24.ro/lansarea-pecetea-celor",
+      "date": "Tue, 24 Nov 2026 08:35:00 GMT",
+      "summary": "Afla cum Arina Avram reinterpreteaza istoria lui Mihai Viteazul in noul volum, o carte care aduce eroii aproape de cititor prin povesti secrete."
+    },
     {
       "title": "Anunț auto second-hand: verificări înainte de vizionare",
       "link": "https://noutati24.ro/verificari-anunt-auto-second-hand",
@@ -64,18 +76,6 @@
       "title": "Participarea Secretarului de stat în Ministerul Justiției, doamna Teodora Stoian, la sesiunea de consultări în contextul implementării Programului Justiție, finanțat prin Programul de Cooperare Elvețiano-Român",
       "link": "https://noutati24.ro/participarea-secretarului-de-stat-in-ministerul-justitiei-doamna-teodora-stoian-la-sesiunea-de-consultari-in-contextul-implementarii-programului-justitie-finantat-prin-programul-de-cooperare-elveti",
       "date": "Fri, 25 Sep 2026 13:00:05 GMT",
-      "summary": ""
-    },
-    {
-      "title": "Participarea Secretarului de Stat în Ministerul Justiției, domnul Ioan Turc, la evenimentul de diseminare a raportului de audit privind sistemul național de recuperare a creanțelor provenite din infracțiuni",
-      "link": "https://noutati24.ro/participarea-secretarului-de-stat-in-ministerul-justitiei-domnul-ioan-turc-la-evenimentul-de-diseminare-a-raportului-de-audit-privind-sistemul-national-de-recuperare-a-creantelor-provenite-din-infra",
-      "date": "Fri, 25 Sep 2026 12:49:49 GMT",
-      "summary": ""
-    },
-    {
-      "title": "Ministerul Justiției continuă monitorizarea investițiilor în infrastructura instanțelor și accelerează lucrările aflate în derulare, 25 septembrie 2026",
-      "link": "https://noutati24.ro/ministerul-justitiei-continua-monitorizarea-investitiilor-in-infrastructura-instantelor-si-accelereaza-lucrarile-aflate-in-derulare-25-septembrie-2026",
-      "date": "Fri, 25 Sep 2026 12:15:34 GMT",
       "summary": ""
     }
   ],
