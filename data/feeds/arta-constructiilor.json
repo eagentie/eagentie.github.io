@@ -4,8 +4,14 @@
   "site_feed": "https://arta-constructiilor.ro/feed/",
   "mastodon": "https://social.5th.ro/@ArtaConstructiilor",
   "mastodon_rss": "https://social.5th.ro/@ArtaConstructiilor.rss",
-  "updated_at": "2026-11-28T07:44:32Z",
+  "updated_at": "2026-11-28T16:52:41Z",
   "site_posts": [
+    {
+      "title": "Ghid practic despre pompele de recirculare: principii de funcționare și criterii de selecție",
+      "link": "https://arta-constructiilor.ro/pompe-recirculare-functionare/",
+      "date": "Sat, 28 Nov 2026 15:01:59 +0000",
+      "summary": "Incepe prin a intelege diferenta dintre ridicarea apei si recirculare. Vezi cum un debit reglat corect protejeaza instalatia si reduce consumul de energie in locuinta. Articolul Ghid practic despre pompele de recirculare: principii de funcționare și criterii de selecție apare prima dată în Arta Constructiilor ."
+    },
     {
       "title": "Optimizare SEO PrestaShop pornind de la categorii produse și filtre",
       "link": "https://arta-constructiilor.ro/optimizare-seo-prestashop-categorii/",
@@ -53,15 +59,15 @@
       "link": "https://arta-constructiilor.ro/sudrezidential-lanseaza-black-november-2026-una-dintre-cele-mai-ample-campanii-de-reduceri-promotii-si-beneficii-imobiliare-din-bucuresti-si-i/",
       "date": "Tue, 03 Nov 2026 22:34:00 +0000",
       "summary": "SudRezidențial lansează Black November 2026: una dintre cele mai ample campanii de reduceri, promoții și beneficii imobiliare din București și Ilfov București, 2 noiembrie 2026 – SudRezidențial.ro, împreună cu Credit24h.ro, Avalon România și cu susținerea URBANIS, anunță lansarea Black November 2026, una dintre cele mai ample campanii de reduceri și beneficii dedicate achiziției de locuințe [&#8230;] Articolul SudRezidențial lansează Black November 2026: una dintre cele mai ample campanii de reduceri, promoții și beneficii imobiliare din București și I apare prima dată în Arta Constructiilor ."
-    },
-    {
-      "title": "Tapițeria după renovarea locuinței: ce trebuie verificat înainte de curățarea canapelei",
-      "link": "https://arta-constructiilor.ro/tapiteria-dupa-renovarea-locuintei-ce-trebuie-verificat-inainte-de-curatarea-canapelei/",
-      "date": "Mon, 19 Oct 2026 04:32:25 +0000",
-      "summary": "O curățare profesională a tapițeriei &#238;ncepe cu identificarea materialului și a problemei, nu cu aplicarea automată a unei soluții. Procedura, estimarea și recomandările de uscare trebuie stabilite după evaluarea compatibilității, iar petele sau mirosurile nu pot fi promise ca eliminate &#238;n orice situație. Praful de șantier nu se comportă ca murdăria obișnuită După zugrăvire, montarea [&#8230;] Articolul Tapițeria după renovarea locuinței: ce trebuie verificat înainte de curățarea canapelei apare prima dată în Arta Constructiilor ."
     }
   ],
   "mastodon_posts": [
+    {
+      "title": "",
+      "link": "https://social.5th.ro/@ArtaConstructiilor/117694668470075934",
+      "date": "Sat, 28 Nov 2026 15:01:59 +0000",
+      "content": "Incepe prin a intelege diferenta dintre ridicarea apei si recirculare. Vezi cum un debit reglat corect protejeaza instalatia si reduce consumul de energie in locuinta. .... 🌐 https:// arta-constructiilor.ro/pompe-r ecirculare-functionare/"
+    },
     {
       "title": "",
       "link": "https://social.5th.ro/@ArtaConstructiilor/117687665179094208",
@@ -127,12 +133,6 @@
       "link": "https://social.5th.ro/@ArtaConstructiilor/117466413227229128",
       "date": "Mon, 19 Oct 2026 07:33:41 +0000",
       "content": "O curățare profesională a tapițeriei începe cu identificarea materialului și a problemei, nu cu aplicarea automată a unei soluții. Procedura, estimarea și recomandările de uscare trebuie stabilite după evaluarea compatibilității, iar petele sau mirosurile nu pot fi promise ca eliminate în orice situație. Praful de șantier nu se comportă ca murdăria obișnuită După .... 🌐 https:// arta-constructiilor.ro/tapiter ia-dupa-renovarea-locuintei-ce-trebuie-verificat-inainte-de-curatarea-canapelei/"
-    },
-    {
-      "title": "",
-      "link": "https://social.5th.ro/@ArtaConstructiilor/117443697912956409",
-      "date": "Thu, 15 Oct 2026 07:16:53 +0000",
-      "content": "Inveleste sa calculezi necesarul termic al unei locuinte folosind volumul si gradul de izolare. Ghidul explica cum sa alegi radiatoarele potrivite. .... 🌐 https:// arta-constructiilor.ro/calcul- puterea-caloriferelor/"
     }
   ]
 }
